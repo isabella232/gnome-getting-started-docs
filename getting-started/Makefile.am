@@ -2,11 +2,16 @@
 
 HELP_ID = getting-started
 
-HELP_LINGUAS = 
+HELP_LINGUAS =
 
-HELP_MEDIA = 
+HELP_MEDIA =
 
 HELP_FILES = \
-	legal.xml \
-	index.page
-
+	apps.page \
+	change-wallpaper.page \
+	google-account.page \
+	index.page \
+	install-software.page \
+	launch-browser.page \
+	online.page \
+	search.page
