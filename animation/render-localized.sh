@@ -8,5 +8,6 @@ case $1 in
 esac
 
 for file in *blend
-  do $blender -b $file -P workaround.py
+  do script=`basename $file blend`py
+  $blender -b $file -P $script
 done
