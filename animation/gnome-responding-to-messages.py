@@ -9,7 +9,7 @@ def typewriteit(scene):
   else:
     i = 0
   #print(typewrite, i, typewrite[:i])
-  bpy.data.objects['search'].data.body = typewrite[:i]
+  bpy.data.objects['bubble.response'].data.body = typewrite[:i]
 
 def render(lang):
   #bpy.context.scene.render.resolution_percentage =
@@ -38,7 +38,7 @@ def main():
     for textobj in t[lang].findall('t'):
       if textobj.get('id') in bpy.data.objects: #prelozit jestli existuje jako index
         bpy.data.objects[textobj.get('id')].data.body = textobj.text
-    bpy.data.objects['typewriter'].data.body = t[lang].find('t[@id="search"]').text
+    bpy.data.objects['typewriter'].data.body = t[lang].find('t[@id="bubble.response"]').text
     render(lang)
     
 if __name__ == '__main__':
