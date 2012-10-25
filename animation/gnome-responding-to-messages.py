@@ -5,7 +5,7 @@ def typewriteit(scene):
   typewrite = bpy.data.objects['typewriter'].data.body
   #psani zacina v sekvenci na 152
   if bpy.context.scene.frame_current >= 152:
-    i = int((bpy.context.scene.frame_current-152)/3)
+    i = int((bpy.context.scene.frame_current-152)/2)
   else:
     i = 0
   #print(typewrite, i, typewrite[:i])
@@ -39,6 +39,7 @@ def main():
       if textobj.get('id') in bpy.data.objects: #prelozit jestli existuje jako index
         bpy.data.objects[textobj.get('id')].data.body = textobj.text
     bpy.data.objects['typewriter'].data.body = t[lang].find('t[@id="bubble.response"]').text
+    bpy.data.objects['user.mt.bubble'].data.body = bpy.data.objects['user'].data.body #needs to be left aligned :/
     render(lang)
     
 if __name__ == '__main__':
