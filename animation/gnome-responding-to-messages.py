@@ -3,13 +3,19 @@ from xml.etree import ElementTree as ET
 
 def typewriteit(scene):
   typewrite = bpy.data.objects['typewriter'].data.body
+  typewrite2 = bpy.data.objects['typewriter2'].data.body
   #psani zacina v sekvenci na 152
   if bpy.context.scene.frame_current >= 152:
     i = int((bpy.context.scene.frame_current-152)/2)
   else:
     i = 0
+  if bpy.context.scene.frame_current >= 640:
+    j = int((bpy.context.scene.frame_current-640)/2)
+  else:
+    j = 0
   #print(typewrite, i, typewrite[:i])
   bpy.data.objects['bubble.response'].data.body = typewrite[:i]
+  bpy.data.objects['mt.bubble.response'].data.body = typewrite2[:j]
 
 def render(lang):
   #bpy.context.scene.render.resolution_percentage =
@@ -39,6 +45,7 @@ def main():
       if textobj.get('id') in bpy.data.objects: #prelozit jestli existuje jako index
         bpy.data.objects[textobj.get('id')].data.body = textobj.text
     bpy.data.objects['typewriter'].data.body = t[lang].find('t[@id="bubble.response"]').text
+    bpy.data.objects['typewriter2'].data.body = t[lang].find('t[@id="mt.bubble.response"]').text
     bpy.data.objects['user.mt.bubble'].data.body = bpy.data.objects['user'].data.body #needs to be left aligned :/
     render(lang)
     
