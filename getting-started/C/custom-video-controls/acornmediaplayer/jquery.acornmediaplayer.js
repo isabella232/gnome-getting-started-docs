@@ -925,12 +925,15 @@
 					initCaption();					
 				});
 			
-			  //allow focusing controls with tab
-			  acorn.$controls.find('.acorn-play-button').focus(function () {
-			    acorn.$controls.css({
-			      'visibility': 'visible',
-			      'opacity': '0.7'
-			      });
+			  //play back on enter when focused
+			  acorn.$container.find('video').keypress(function (e) {
+			    console.log($(this),e.keyCode); /* 13 enter, 39 right, 37 left, 122 F11 */
+			    if (e.keyCode == 13) {
+			      playMedia();
+			    }
+			    if (e.keyCode == 122) {
+			      goFullscreen();
+			    }
 			  });
 			
 				// trigger update seek manualy for the first time, for iOS support
