@@ -24,7 +24,7 @@ def render(lang):
   renderpath = '../getting-started/'+lang+'/figures'
   if (not renderpath):
     os.mkdir(renderpath)
-  bpy.context.scene.render.filepath = "//" + renderpath + '/responding-to-messages-'
+  bpy.context.scene.render.filepath = "//" + renderpath + '/task-switching-'
   if (not os.path.isfile(bpy.context.scene.render.frame_path())):
     bpy.ops.render.render(animation=True)
   else:
@@ -44,12 +44,11 @@ def main():
     for textobj in t[lang].findall('t'):
       if textobj.get('id') in bpy.data.objects: #prelozit jestli existuje jako index
         bpy.data.objects[textobj.get('id')].data.body = textobj.text
-    bpy.data.objects['typewriter'].data.body = t[lang].find('t[@id="bubble.response"]').text
-    bpy.data.objects['typewriter2'].data.body = t[lang].find('t[@id="bubble.response"]').text
-    bpy.data.objects['user.mt.bubble'].data.body = bpy.data.objects['user'].data.body #needs to be left aligned :/
+    #bpy.data.objects['typewriter'].data.body = t[lang].find('t[@id="bubble.response"]').text
+    #bpy.data.objects['user.mt.bubble'].data.body = bpy.data.objects['user'].data.body #needs to be left aligned :/
     render(lang)
     
 if __name__ == '__main__':
-    bpy.app.handlers.frame_change_pre.append(typewriteit)
+    #bpy.app.handlers.frame_change_pre.append(typewriteit)
     main()
-    bpy.app.handlers.frame_change_pre.pop(0)
+    #bpy.app.handlers.frame_change_pre.pop(0)
