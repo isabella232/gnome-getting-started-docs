@@ -345,9 +345,12 @@ function yelp_init_video (element) {
     element.currentTime = (pct / 100.0) * element.duration;
   });
 };
+
+/*
 $(document).ready(function () {
   $('video.media-block').each(function () { yelp_init_video(this) });;
 });
+*/
 
 $(document).ready( function () { jQuery.syntax({root: '', blockLayout: 'yelp',
 theme: false, linkify: false}); });
