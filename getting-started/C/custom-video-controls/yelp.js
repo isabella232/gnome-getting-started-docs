@@ -210,6 +210,7 @@ yelp_resize_imgs = function () {
   });
   return false;
 };
+
 $(document).ready(function () {
   $('div.figure img').parents('div.figure').each(function () {
     var fig = $(this);
@@ -239,51 +240,11 @@ $(document).ready(function () {
   yelp_resize_imgs();
   $(window).bind('resize', yelp_resize_imgs);
 });
+
 function yelp_init_video (element) {
-  var video = $(element);
-  video.removeAttr('controls');
+  var $video = $(element);
 
-  var controls = $('<div class="media-controls"></div>');
-  var playControl = $('<button class="media-play"></button>').attr({
-    'data-play-label': video.attr('data-play-label'),
-    'data-pause-label': video.attr('data-pause-label'),
-    'value': video.attr('data-play-label')
-  });
-  var playCanvas = $('<canvas width="20" height="20"></canvas>');
-  playControl.append(playCanvas);
-  var rangeCanvas = $('<canvas width="104" height="20"></canvas>');
-  var rangeCanvasCtxt = rangeCanvas[0].getContext('2d');
-  rangeCanvasCtxt.strokeStyle = yelp_color_gray_border;
-  rangeCanvasCtxt.strokeWidth = 1;
-  rangeCanvasCtxt.strokeRect(0.5, 0.5, 103, 19);
-  var currentSpan = $('<span class="media-current">0:00</span>');
-  controls.append(playControl, $('<div class="media-range"></div>').append(rangeCanvas), currentSpan);
-  video.after(controls);
-
-  var playCanvasCtxt = playCanvas[0].getContext('2d');
-  var paintPlayButton = function () {
-    playCanvasCtxt.fillStyle = yelp_color_text_light;
-    playCanvasCtxt.clearRect(0, 0, 20, 20);
-    playCanvasCtxt.beginPath();
-    playCanvasCtxt.moveTo(5, 5);   playCanvasCtxt.lineTo(5, 15);
-    playCanvasCtxt.lineTo(15, 10); playCanvasCtxt.lineTo(5, 5);
-    playCanvasCtxt.fill();
-  }
-  var paintPauseButton = function () {
-    playCanvasCtxt.fillStyle = yelp_color_text_light;
-    playCanvasCtxt.clearRect(0, 0, 20, 20);
-    playCanvasCtxt.beginPath();
-    playCanvasCtxt.moveTo(5, 5);   playCanvasCtxt.lineTo(9, 5);
-    playCanvasCtxt.lineTo(9, 15);  playCanvasCtxt.lineTo(5, 15);
-    playCanvasCtxt.lineTo(5, 5);   playCanvasCtxt.fill();
-    playCanvasCtxt.beginPath();
-    playCanvasCtxt.moveTo(11, 5);  playCanvasCtxt.lineTo(15, 5);
-    playCanvasCtxt.lineTo(15, 15); playCanvasCtxt.lineTo(11, 15);
-    playCanvasCtxt.lineTo(11, 5);  playCanvasCtxt.fill();
-  }
-  paintPlayButton();
-
-  var video_el = video[0];
+  var video_el = $video[0];
   var mediaChange = function () {
     if (video_el.ended)
       video_el.pause()
@@ -306,51 +267,15 @@ function yelp_init_video (element) {
     else
       video_el.pause();
   };
-  playControl.click(playClick);
+  $video.click(playClick);
 
-  var ttmlDiv = video.parent().children('div.media-ttml');
-  var ttmlNodes = ttmlDiv.find('.media-ttml-node');
-
-  var timeUpdate = function () {
-    var pct = (element.currentTime / element.duration) * 100;
-    rangeCanvasCtxt.fillStyle = yelp_color_gray_border;
-    rangeCanvasCtxt.clearRect(2, 2, 100, 16);
-    rangeCanvasCtxt.fillRect(2, 2, pct, 16);
-    var mins = parseInt(element.currentTime / 60);
-    var secs = parseInt(element.currentTime - (60 * mins))
-    currentSpan.text(mins + (secs < 10 ? ':0' : ':') + secs);
-    ttmlNodes.each(function () {
-      var ttml = this;
-      if (element.currentTime >= parseFloat(ttml.getAttribute('data-ttml-begin')) &&
-          (!ttml.hasAttribute('data-ttml-end') ||
-           element.currentTime < parseFloat(ttml.getAttribute('data-ttml-end')) )) {
-        if (ttml.tagName == 'span')
-          ttml.style.display = 'inline';
-        else
-          ttml.style.display = 'block';
-      }
-      else {
-        ttml.style.display = 'none';
-      }
-    });
-  };
-  element.addEventListener('timeupdate', timeUpdate, false);
-
-  rangeCanvas.click(function (event) {
-    var pct = event.clientX - Math.floor(rangeCanvas.offset().left);
-    if (pct < 0)
-      pct = 0;
-    if (pct > 100)
-      pct = 100;
-    element.currentTime = (pct / 100.0) * element.duration;
-  });
 };
 
-/*
+
 $(document).ready(function () {
   $('video.media-block').each(function () { yelp_init_video(this) });;
 });
-*/
+
 
 $(document).ready( function () { jQuery.syntax({root: '', blockLayout: 'yelp',
 theme: false, linkify: false}); });
