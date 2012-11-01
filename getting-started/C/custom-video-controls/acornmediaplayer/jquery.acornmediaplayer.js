@@ -925,6 +925,14 @@
 					initCaption();					
 				});
 			
+			  //allow focusing controls with tab
+			  acorn.$controls.find('.acorn-play-button').focus(function () {
+			    acorn.$controls.css({
+			      'visibility': 'visible',
+			      'opacity': '0.7'
+			      });
+			  });
+			
 				// trigger update seek manualy for the first time, for iOS support
 				updateSeek();
 				

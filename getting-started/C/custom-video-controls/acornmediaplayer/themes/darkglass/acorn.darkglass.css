@@ -299,11 +299,14 @@
 .acorn-player.darkglasssmall {
 	padding: 0px;
 }
-.acorn-player.darkglasssmall video:hover + .acorn-controls {
+.acorn-player.darkglasssmall video:hover + .acorn-controls,
+.acorn-player.darkglasssmall video:focus + .acorn-controls
+ {
 	visibility: visible;
 	opacity: 0.7;
 }
-.acorn-player.darkglasssmall .acorn-controls:hover {
+.acorn-player.darkglasssmall .acorn-controls:hover
+ {
 	visibility: visible;
 	opacity: 0.7;
 }
