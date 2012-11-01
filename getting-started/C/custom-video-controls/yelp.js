@@ -273,7 +273,11 @@ function yelp_init_video (element) {
 
 
 $(document).ready(function () {
-  $('video.media-block').each(function () { yelp_init_video(this) });;
+  /* $('video.media-block').each(function () { yelp_init_video(this) });; */
+  $('video.media-block').acornMediaPlayer({
+    theme: 'darkglass darkglasssmall',
+		volumeSlider: 'vertical'
+  });
 });
 
 
