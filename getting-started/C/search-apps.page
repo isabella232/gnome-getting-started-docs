@@ -4,9 +4,10 @@
       id="search-apps">
 
   <info>
-   <link type="guide" xref="index" group="videos"/>
-   <title> role="trail" type="link">Search for applications</title>
-   <ui:thumb src="figures/search.png"/>
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+    <link type="guide" xref="index" group="videos"/>
+    <title> role="trail" type="link">Search for applications</title>
+    <ui:thumb src="figures/search.png"/>
   </info>
 
   <title>Search for applications</title>

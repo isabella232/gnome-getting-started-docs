@@ -4,9 +4,10 @@
       id="online">
 
   <info>
-   <link type="guide" xref="index" group="videos"/>
-   <title> role="trail" type="link">Going online</title>
-   <ui:thumb src="figures/online.png"/>
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+    <link type="guide" xref="index" group="videos"/>
+    <title> role="trail" type="link">Going online</title>
+    <ui:thumb src="figures/online.png"/>
   </info>
 
   <title>Going online</title>
