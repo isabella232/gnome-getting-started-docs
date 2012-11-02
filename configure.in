@@ -2,12 +2,19 @@ AC_INIT([gnome-getting-started-docs], [3.6.2],
         [http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-getting-started-docs])
 AM_INIT_AUTOMAKE
 AM_SILENT_RULES([yes])
+AC_PROG_CC
 
 YELP_HELP_INIT
 
 AM_MAINTAINER_MODE([enable])
 
-AC_OUTPUT([
+PKG_CHECK_MODULES(PLAYER, [clutter-gst-1.0 clutter-x11-1.0])
+AC_SUBST(CFLAGS)
+
+AM_CONFIG_HEADER(config.h)
+AC_CONFIG_FILES([
 Makefile
 getting-started/Makefile
+player/Makefile
 ])
+AC_OUTPUT

@@ -1,1 +1,1 @@
-SUBDIRS = getting-started
+SUBDIRS = getting-started player
