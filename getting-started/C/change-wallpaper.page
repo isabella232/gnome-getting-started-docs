@@ -1,5 +1,7 @@
 <page xmlns="http://projectmallard.org/1.0/"
-      type="guide" style="ui"
+      xmlns:ui="http://projectmallard.org/experimental/ui/"
+      type="topic"
+      style="ui"
       id="change-wallpaper">
 
   <info>
@@ -8,7 +10,7 @@
       <name>Jakub Steiner</name>
     </credit>
     <link type="guide" xref="index" group="tasks"/>
-    <title> role="trail" type="link">Change the wallpaper</title>
+    <title role="trail" type="link">Change the wallpaper</title>
   </info>
 
   <title>Change the wallpaper</title>

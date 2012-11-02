@@ -1,5 +1,6 @@
 <page xmlns="http://projectmallard.org/1.0/"
-      type="guide" style="ui"
+      xmlns:ui="http://projectmallard.org/experimental/ui/"
+      type="topic" style="ui"
       id="responding-to-messages">
 
   <info>
@@ -8,7 +9,7 @@
       <name>Jakub Steiner</name>
     </credit>
     <link type="guide" xref="index" group="tasks"/>
-    <title> role="trail" type="link">Responding to messages</title>
+    <title role="trail" type="link">Responding to messages</title>
   </info>
 
   <title>Responding to messages</title>

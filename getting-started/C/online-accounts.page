@@ -1,11 +1,12 @@
 <page xmlns="http://projectmallard.org/1.0/"
-      type="guide" style="ui"
+      xmlns:ui="http://projectmallard.org/experimental/ui/"
+      type="topic" style="ui"
       id="online-accounts">
 
   <info>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
     <link type="guide" xref="index" group="tasks"/>
-    <title> role="trail" type="link">Connect to online accounts</title>
+    <title role="trail" type="link">Connect to online accounts</title>
   </info>
 
   <title>Connect to online accounts</title>

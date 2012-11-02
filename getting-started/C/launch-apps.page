@@ -1,19 +1,57 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:ui="http://projectmallard.org/experimental/ui/"
-      type="guide" style="ui"
+      type="topic"
+      style="ui"
       id="launching-apps">
 
   <info>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
     <credit type="author">
+      <name>GNOME Documentation Project</name>
+      <email>gnome-doc-list@gnome.org</email>
+    </credit>
+    <credit type="editor">
       <name>Jakub Steiner</name>
     </credit>
+    <credit type="editor">
+      <name>Petr Kovar</name>
+    </credit>
+
     <link type="guide" xref="index" group="videos"/>
-    <title> role="trail" type="link">Launching applications</title>
+    <title role="trail" type="link">Launching applications</title>
     <ui:thumb src="figures/apps.png"/>
   </info>
 
   <title>Launching applications</title>
 
-  <media type="video" src="figures/launching-apps-0001-0718.ogg" width="700" height="394"/>
+   <media type="video" src="figures/launching-apps-0001-0718.ogg" width="700" height="394"/>
+  
+  <section id="launching-apps-mouse">
+    <title>Launching applications with the mouse</title>
+ 
+  <steps>
+    <item><p>Move your mouse pointer to the <gui>Activities</gui> corner at the
+     top left of the screen to show the <gui>Activities Overview</gui>.</p></item>
+    <item><p>Click the <gui>Show Applications</gui> item located in the bar at the
+     left of the screen.</p></item>
+    <item><p>A list of applications is shown. Click the application you want to
+     run, for example, Help.</p></item>
+  </steps>
+
+  </section>
+
+  <section id="launching-app-keyboard">
+    <title>Launching applications with the keyboard</title>
+
+  <steps>
+    <item><p>Open the <gui>Activities Overview</gui> by pressing the <key>Super
+    </key> key.</p></item>
+    <item><p>Start typing the name of the application that you want to launch.
+     Searching for the application begins instantly.</p></item>
+    <item><p>Once the icon of the application is shown and selected, press <key>
+    Enter</key> to launch the application.</p></item>
+  </steps>
+
+  </section>
+
 </page>
