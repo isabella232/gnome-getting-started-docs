@@ -16,4 +16,32 @@
 
   <media type="video" src="figures/task-switching-0001-0734.ogg" width="700" height="394"/>
 
+  <section id="switching-tasks-overview">
+    <title>Switching tasks</title>
+
+  <steps>
+    <item><p>Move your mouse pointer to the <gui>Activities</gui> corner at the
+     top left of the screen to show the <gui>Activities Overview</gui> where you
+     can see the currently running tasks displayed as small windows.</p></item>
+     <item><p>Click a window to switch the task.</p></item>
+  </steps>
+
+  </section>
+
+  <section id="switching-tasks-tiling">
+    <title>Tiling windows</title>
+    <p></p>
+    
+    <steps>
+      <item><p>To maximize a window along a side of the screen, grab the window's
+       titlebar and drag it to the left or right side of the screen.</p></item>
+      <item><p>When half of the screen is highlighted, drop the window to maximize
+       it along the selected side of the screen.</p></item>
+      <item><p>To maximize two windows side-by-side, grab the titlebar of the
+       second window and drag it to the opposite side of the screen. When half
+       of the screen is highlighted, drop the window.</p></item>
+    </steps>
+    
+  </section>
+
 </page>
