@@ -89,6 +89,26 @@ set_idle_material (ClutterGstVideoTexture *video_texture)
   cogl_handle_unref (material);
 }
 
+static void
+set_above_and_fullscreen (void)
+{
+  Display *dpy = clutter_x11_get_default_display ();
+  Window win = clutter_x11_get_stage_window (CLUTTER_STAGE (stage));
+  char *atom_names[2] = {
+    "_NET_WM_STATE_FULLSCREEN",
+    "_NET_WM_STATE_ABOVE",
+  };
+  Atom states[G_N_ELEMENTS (atom_names)];
+
+  XInternAtoms (dpy, atom_names, G_N_ELEMENTS (atom_names),
+                False, states);
+
+  XChangeProperty (dpy, win,
+                   XInternAtom (dpy, "_NET_WM_STATE", False),
+                   XA_ATOM, 32, PropModeReplace,
+                   (unsigned char *) states, G_N_ELEMENTS (atom_names));
+}
+
 int
 main (int argc, char *argv[])
 {
@@ -113,12 +133,27 @@ main (int argc, char *argv[])
     }
 
   stage = clutter_stage_new ();
+
+  /* Clutter's full-screening code does not allow us to
+   * set both that and _NET_WM_STATE_ABOVE, so do the state
+   * management ourselves for now. */
+#if 0
   clutter_stage_set_fullscreen (CLUTTER_STAGE (stage), TRUE);
+#endif
+
+  /* Clutter will set maximum size restrictions (meaning not
+   * full screen) unless I set this. */
+  clutter_stage_set_user_resizable (CLUTTER_STAGE (stage), TRUE);
+
   clutter_stage_set_use_alpha (CLUTTER_STAGE (stage), TRUE);
+
   clutter_actor_set_background_color (stage, &bg_color);
   clutter_actor_set_layout_manager (stage,
                                     clutter_bin_layout_new (CLUTTER_BIN_ALIGNMENT_FIXED,
                                                             CLUTTER_BIN_ALIGNMENT_FIXED));
+
+  clutter_actor_realize (stage);
+  set_above_and_fullscreen ();
 
   video = clutter_gst_video_texture_new ();
   clutter_actor_set_x_expand (video, TRUE);
