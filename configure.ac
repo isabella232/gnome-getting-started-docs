@@ -1,6 +1,6 @@
 AC_INIT([gnome-getting-started-docs], [3.6.2],
         [http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-getting-started-docs])
-AM_INIT_AUTOMAKE
+AM_INIT_AUTOMAKE([1.11 tar-ustar dist-xz no-dist-gzip])
 AM_SILENT_RULES([yes])
 AC_PROG_CC
 
