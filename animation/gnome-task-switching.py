@@ -24,7 +24,7 @@ def render(lang):
   else:
     print('already rendered')
   transcodepath = "../getting-started/" + lang + "/figures/"
-  regexobj = re.search(r"^(.*\/)(.*)-(\d*)-(\d*)(\.mp4)$", bpy.context.scene.render.frame_path())
+  regexobj = re.search(r"^(.*\/)(.*)-(\d*)-(\d*)(\.avi)$", bpy.context.scene.render.frame_path())
   webmfile = regexobj.group(2) + ".webm"
   transcodecmd = "ffmpeg -y -i " + bpy.context.scene.render.frame_path() + " -b:v 8000k " + transcodepath + webmfile
   if (not os.path.isfile(transcodepath+webmfile)):
