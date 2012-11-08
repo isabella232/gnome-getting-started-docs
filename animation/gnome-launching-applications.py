@@ -1,4 +1,4 @@
-import bpy,os
+import bpy,os,re
 from xml.etree import ElementTree as ET
 
 def typewriteit(scene):
