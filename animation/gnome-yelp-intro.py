@@ -13,7 +13,15 @@ def render(lang):
     bpy.ops.render.render(animation=True)
   else:
     print('already rendered')
-    
+  transcodepath = "../getting-started/" + lang + "/figures/"
+  regexobj = re.search(r"^(.*\/)(.*)-(\d*)-(\d*)(\.mp4)$", bpy.context.scene.render.frame_path())
+  webmfile = regexobj.group(2) + ".webm"
+  transcodecmd = "ffmpeg -y -i " + bpy.context.scene.render.frame_path() + " -b:v 8000k " + transcodepath + webmfile
+  if (not os.path.isfile(transcodepath+webmfile)):
+    os.system(transcodecmd)
+  else:
+    print('already transcoded',transcodepath + webmfile)
+        
 def typewriteit(scene):
   #FIXME make this happen only in scene "launching apps - keyboard"
   typewrite = bpy.data.objects['typewriter'].data.body
