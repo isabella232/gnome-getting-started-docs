@@ -5,7 +5,7 @@ def render(lang):
   #bpy.context.scene.render.resolution_percentage =
   #bpy.context.scene.render.use_compositing = 0
   bpy.context.scene.render.use_sequencer = 1
-  renderpath = '../getting-started/'+lang+'/figures'
+  renderpath = '//sequence/'+lang
   if (not renderpath):
     os.mkdir(renderpath)
   bpy.context.scene.render.filepath = "//" + renderpath + '/yelp-intro'
