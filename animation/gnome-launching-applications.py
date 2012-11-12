@@ -4,9 +4,9 @@ from xml.etree import ElementTree as ET
 def typewriteit(scene):
   #FIXME make this happen only in scene "launching apps - keyboard"
   typewrite = bpy.data.objects['typewriter'].data.body
-  #psani zacina v sekvenci na 563
-  if bpy.context.scene.frame_current >= 563:
-    i = int((bpy.context.scene.frame_current-563)/3)
+  #psani zacina v sekvenci na 612
+  if bpy.context.scene.frame_current >= 612:
+    i = int((bpy.context.scene.frame_current-612)/3)
   else:
     i = 0
   #print(typewrite, i, typewrite[:i])
