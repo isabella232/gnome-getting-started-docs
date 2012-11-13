@@ -8,7 +8,7 @@ def render(lang):
   renderpath = '//sequence/'+lang
   if (not renderpath):
     os.mkdir(renderpath)
-  bpy.context.scene.render.filepath = "//" + renderpath + '/yelp-intro'
+  bpy.context.scene.render.filepath = "//" + renderpath + '/yelp-intro-'
   if (not os.path.isfile(bpy.context.scene.render.frame_path())):
     bpy.ops.render.render(animation=True)
   else:
