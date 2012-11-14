@@ -1,4 +1,4 @@
-import bpy,os,re
+import bpy,os
 from xml.etree import ElementTree as ET
 
 def typewriteit(scene):
@@ -13,9 +13,14 @@ def typewriteit(scene):
     j = int((bpy.context.scene.frame_current-640)/2)
   else:
     j = 0
+  if bpy.context.scene.frame_current >= 1024:
+    k = int((bpy.context.scene.frame_current-1024)/2)
+  else:
+    k = 0
   #print(typewrite, i, typewrite[:i])
   bpy.data.objects['bubble.response'].data.body = typewrite[:i]
-  bpy.data.objects['mt.bubble.response'].data.body = typewrite2[:j]
+  bpy.data.objects['bubble.response2'].data.body = typewrite2[:j]
+  bpy.data.objects['bubble.response3'].data.body = typewrite3[:k]
 
 def render(lang):
   #bpy.context.scene.render.resolution_percentage =
@@ -29,15 +34,7 @@ def render(lang):
     bpy.ops.render.render(animation=True)
   else:
     print('already rendered')
-  transcodepath = "../getting-started/" + lang + "/figures/"
-  regexobj = re.search(r"^(.*\/)(.*)-(\d*)-(\d*)(\.avi)$", bpy.context.scene.render.frame_path())
-  webmfile = regexobj.group(2) + ".webm"
-  transcodecmd = "ffmpeg -y -i " + bpy.context.scene.render.frame_path() + " -b:v 8000k " + transcodepath + webmfile
-  if (not os.path.isfile(transcodepath+webmfile)):
-    os.system(transcodecmd)
-  else:
-    print('already transcoded',transcodepath + webmfile)
-      
+    
 #translates strings and calls render
 def main():
   global typewrite
@@ -53,7 +50,8 @@ def main():
       if textobj.get('id') in bpy.data.objects: #prelozit jestli existuje jako index
         bpy.data.objects[textobj.get('id')].data.body = textobj.text
     bpy.data.objects['typewriter'].data.body = t[lang].find('t[@id="bubble.response"]').text
-    bpy.data.objects['typewriter2'].data.body = t[lang].find('t[@id="bubble.response"]').text
+    bpy.data.objects['typewriter2'].data.body = t[lang].find('t[@id="bubble.response2"]').text
+    bpy.data.objects['typewriter3'].data.body = t[lang].find('t[@id="bubble.response3"]').text
     bpy.data.objects['user.mt.bubble'].data.body = bpy.data.objects['user'].data.body #needs to be left aligned :/
     render(lang)
     
