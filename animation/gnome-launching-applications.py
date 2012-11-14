@@ -5,8 +5,8 @@ def typewriteit(scene):
   #FIXME make this happen only in scene "launching apps - keyboard"
   typewrite = bpy.data.objects['typewriter'].data.body
   #psani zacina v sekvenci na 612
-  if bpy.context.scene.frame_current >= 612:
-    i = int((bpy.context.scene.frame_current-612)/3)
+  if bpy.context.scene.frame_current >= 551:
+    i = int((bpy.context.scene.frame_current-551)/3)
   else:
     i = 0
   #print(typewrite, i, typewrite[:i])
