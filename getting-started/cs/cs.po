@@ -1,274 +1,415 @@
+# Translation of getting-started to Czech.
+# Copyright (C) 2012 the author(s) of getting-started.
+# This file is distributed under the same license as the getting-started package.
+# Petr Kovar <pknbe@volny.cz>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2012-10-22 15:42+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Project-Id-Version: getting-started\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-14 18:45+0100\n"
+"PO-Revision-Date: 2012-11-14 19:13+0200\n"
+"Last-Translator: Petr Kovar <pknbe@volny.cz>\n"
+"Language-Team: Czech <gnome-cs-list@gnome.org>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#: legal.xml:3(p/link)
-msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
-msgstr ""
-
-#: legal.xml:3(license/p)
-msgid "This work is licensed under a <_:link-1/>."
-msgstr ""
-
-#: animation.xml:2(xml/t)
-msgid "Launching Applications"
-msgstr "Spouštění aplikací"
-
-#: animation.xml:3(xml/t)
-msgid "Getting Started"
-msgstr "Začínáme"
-
-#: animation.xml:4(xml/t)
-msgid "Changing Wallpaper"
-msgstr "Změna pozadí"
-
-#: animation.xml:5(xml/t)
-msgid "Activities"
-msgstr "Činnosti"
-
-#: animation.xml:6(xml/t)
-msgid "return"
-msgstr "Enter"
-
-#: animation.xml:7(xml/t)
-msgid "help"
-msgstr "nápověda"
-
-#: animation.xml:8(xml/t)
-msgid "Just start typing…"
-msgstr "Stačí začít psát…"
-
-#: animation.xml:9(xml/t)
-msgid "John Doe"
-msgstr "František Novák"
-
-#: animation.xml:10(xml/t)
-msgid "System Settings"
-msgstr "Nastavení systému"
-
-#: animation.xml:11(xml/t)
-msgid "Backgound"
-msgstr "Pozadí"
-
-#: animation.xml:12(xml/t)
-msgid "Wallpapers"
-msgstr "Tapeta"
-
-#: animation.xml:13(xml/t)
-msgid "Select"
-msgstr "Vybrat"
-
-#: animation.xml:14(xml/t)
-msgid "Ready for the meeting?"
-msgstr ""
-
-#: animation.xml:15(xml/t)
-msgid "I'll be there in a sec..."
-msgstr ""
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Virtaal 0.7.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr ""
+msgstr "Petr Kovář <pknbe@volny.cz>"
+
+#: browse-web.page:10(info/title)
+msgctxt "link:trail"
+msgid "Browse the web"
+msgstr "Brouzdání po webu"
+
+#: browse-web.page:13(page/title)
+msgid "Browse the web"
+msgstr "Brouzdání po webu"
+
+#: browse-web.page:15(page/p)
+#: change-time.page:15(page/p)
+#: install-software.page:14(page/p)
+#: move-windows.page:14(page/p)
+#: online-accounts.page:14(page/p)
+#: online.page:15(page/p)
+#: use-search.page:14(page/p)
+msgid "Stay tuned..."
+msgstr "Pracujeme na tom..."
+
+#: change-time.page:10(info/title)
+msgctxt "link:trail"
+msgid "Change the time, date and timezone"
+msgstr "Změna systémového času, data a časového pásma"
+
+#: change-time.page:13(page/title)
+msgid "Change the time, date and timezone"
+msgstr "Změna systémového času, data a časového pásma"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: apps.page:14(media)
-#: online.page:14(media)
-#: search.page:14(media)
+#: change-wallpaper.page:18(media)
 msgctxt "_"
-msgid "external ref='figures/scrolling-touch.webm' md5='0616dd7f8a6363d078b5c9550f59456e'"
+msgid "external ref='figures/changing-wallpaper.webm' md5='6aa92dc1c08dbbd50d0aaafb7c224606'"
 msgstr ""
+"external ref='figures/changing-wallpaper.webm' "
+"md5='6aa92dc1c08dbbd50d0aaafb7c224606'"
 
-#: apps.page:8(info/title)
-msgid "role=\"trail\" type=\"link\"&gt;Where are my applications?"
-msgstr ""
+#: change-wallpaper.page:10(credit/name)
+#: launch-apps.page:14(credit/name)
+#: responding-to-messages.page:9(credit/name)
+#: switching-tasks.page:9(credit/name)
+msgid "Jakub Steiner"
+msgstr "Jakub Steiner"
 
-#: apps.page:12(page/title)
-msgid "Where are my applications?"
-msgstr ""
-
-#: change-wallpaper.page:7(info/title)
-msgid "role=\"trail\" type=\"link\"&gt;Change the wallpaper"
-msgstr ""
-
-#: change-wallpaper.page:10(page/title)
+#: change-wallpaper.page:13(info/title)
+msgctxt "link:trail"
 msgid "Change the wallpaper"
-msgstr ""
+msgstr "Změna tapety"
 
-#: change-wallpaper.page:12(page/p)
-msgid "Blue stripes 4ever!"
-msgstr ""
+#: change-wallpaper.page:16(page/title)
+#: change-wallpaper.page:21(section/title)
+msgid "Change the wallpaper"
+msgstr "Změna tapety"
 
-#: google-account.page:7(info/title)
-msgid "role=\"trail\" type=\"link\"&gt;Set up a Google account"
-msgstr ""
+#: change-wallpaper.page:24(item/p)
+msgid "Click your name on the top bar and select <gui>Settings</gui>."
+msgstr "Klikněte na své jméno v horní liště a zvolte <gui>Nastavení</gui>."
 
-#: google-account.page:10(page/title)
-msgid "Set up a Google account"
-msgstr ""
+#: change-wallpaper.page:25(item/p)
+msgid "From the list of items, select <gui>Background</gui>."
+msgstr "Ze seznamu položek vyberte <gui>Pozadí</gui>."
 
-#: google-account.page:12(page/p)
-msgid "See Online accounts"
+#: change-wallpaper.page:26(item/p)
+msgid "Click the image of your current wallpaper in the center of the <gui>Background</gui> window."
 msgstr ""
+"Klikněte na aktuální tapetu, která je zobrazena ve středu okna "
+"<gui>Pozadí</gui>."
 
-#: index.page:7(info/desc)
-#: index.page:17(page/title)
-msgid "Getting started"
+#: change-wallpaper.page:27(item/p)
+msgid "Click the background image that you want to use."
+msgstr "Klikněte na obrázek na pozadí, který chcete použít."
+
+#: change-wallpaper.page:28(item/p)
+msgid "Click the <gui>Select</gui> button."
+msgstr "Klikněte na tlačítko <gui>Vybrat</gui>."
+
+#: change-wallpaper.page:29(item/p)
+msgid "Close the <gui>Background</gui> window by clicking the cross at the top-right corner of the window."
 msgstr ""
+"Zavřete okno <gui>Pozadí</gui> kliknutím na křížek v pravém horním rohu "
+"okna."
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: index.page:16(media)
+#: launch-apps.page:27(media)
+msgctxt "_"
+msgid "external ref='figures/launching-apps.webm' md5='60ffa5263383ac29f021b57995ae7e45'"
+msgstr ""
+"external ref='figures/launching-apps.webm' "
+"md5='60ffa5263383ac29f021b57995ae7e45'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: index.page:22(media)
+#: switching-tasks.page:18(media)
+msgctxt "_"
+msgid "external ref='figures/task-switching.webm' md5='c6da1c0846443090db105041c07f71e2'"
+msgstr ""
+"external ref='figures/task-switching.webm' "
+"md5='c6da1c0846443090db105041c07f71e2'"
+
+#: index.page:8(info/desc)
+#: index.page:13(page/title)
+#: animation.xml:3(titles/t)
+msgid "Getting Started"
+msgstr "Začínáme"
 
 #: index.page:9(info/title)
 msgctxt "link"
-msgid "Getting started"
-msgstr ""
+msgid "Getting Started"
+msgstr "Začínáme"
 
 #: index.page:10(info/title)
 msgctxt "text"
-msgid "Getting started"
-msgstr ""
+msgid "Getting Started"
+msgstr "Začínáme"
 
-#: index.page:22(links/title)
+#: index.page:34(links/title)
 msgid "Common Tasks"
 msgstr ""
 
-#: install-software.page:7(info/title)
-msgid "role=\"trail\" type=\"link\"&gt;Install Software"
+#: install-software.page:9(info/title)
+msgctxt "link:trail"
+msgid "Get additional applications"
 msgstr ""
 
-#: install-software.page:10(page/title)
-msgid "Install Software"
+#: install-software.page:12(page/title)
+msgid "Get additional applications"
 msgstr ""
 
-#: install-software.page:12(page/p)
-msgid "There's an app for that..."
+#: launch-apps.page:10(credit/name)
+msgid "GNOME Documentation Project"
+msgstr "Dokumentační projekt GNOME"
+
+#: launch-apps.page:17(credit/name)
+msgid "Petr Kovar"
+msgstr "Petr Kovář"
+
+#: launch-apps.page:21(info/title)
+msgctxt "link:trail"
+msgid "Launching applications"
 msgstr ""
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: launch-browser.page:40(media)
-msgctxt "_"
-msgid "external ref='figures/hot-corner.png' md5='a4f445ad064422d77f23c6d6e1e1f242'"
+#: launch-apps.page:25(page/title)
+msgid "Launching applications"
 msgstr ""
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: launch-browser.page:44(media)
-msgctxt "_"
-msgid "external ref='figures/hot-corner2.png' md5='47d8f81e325b8803d500b8b7a718bd31'"
+#: launch-apps.page:30(section/title)
+msgid "Launching applications with the mouse"
 msgstr ""
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: launch-browser.page:48(media)
-msgctxt "_"
-msgid "external ref='figures/super-key.png' md5='307e52ea63e5f72e96020a62a39dd462'"
+#: launch-apps.page:33(item/p)
+msgid "Move your mouse pointer to the <gui>Activities</gui> corner at the top left of the screen to show the <gui>Activities Overview</gui>."
 msgstr ""
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: launch-browser.page:55(media)
-msgctxt "_"
-msgid "external ref='figures/dash.png' md5='130e68dd224d844daf1265c273a2dfcc'"
+#: launch-apps.page:35(item/p)
+msgid "Click the <gui>Show Applications</gui> item located in the bar at the left of the screen."
 msgstr ""
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: launch-browser.page:59(media)
-msgctxt "_"
-msgid "external ref='figures/keyboard.png' md5='c77a6da106a3474f70f0bdc75479bffd'"
+#: launch-apps.page:37(item/p)
+msgid "A list of applications is shown. Click the application you want to run, for example, Help."
 msgstr ""
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: launch-browser.page:63(media)
-msgctxt "_"
-msgid "external ref='figures/enter.png' md5='5f718c90112da9a29650496b5c40e433'"
+#: launch-apps.page:44(section/title)
+msgid "Launching applications with the keyboard"
 msgstr ""
 
-#: launch-browser.page:7(info/title)
-msgid "role=\"trail\" type=\"link\"&gt;Launch a Browser"
+#: launch-apps.page:47(item/p)
+msgid "Open the <gui>Activities Overview</gui> by pressing the <key>Super </key> key."
 msgstr ""
 
-#: launch-browser.page:10(page/title)
-msgid "Launch a Browser"
+#: launch-apps.page:49(item/p)
+msgid "Start typing the name of the application that you want to launch. Searching for the application begins instantly."
 msgstr ""
 
-#: launch-browser.page:38(section/title)
-msgid "Show Activities"
+#: launch-apps.page:51(item/p)
+msgid "Once the icon of the application is shown and selected, press <key> Enter</key> to launch the application."
 msgstr ""
 
-#: launch-browser.page:39(section/p)
-msgid "<media type=\"image\" src=\"figures/hot-corner.png\"/> Throw the pointer in the top left corner, or..."
+#: move-windows.page:9(info/title)
+msgctxt "link:trail"
+msgid "Use workspaces and windows"
 msgstr ""
 
-#: launch-browser.page:43(section/p)
-msgid "<media type=\"image\" src=\"figures/hot-corner2.png\"/> click on Activities. or..."
+#: move-windows.page:12(page/title)
+msgid "Use workspaces and windows"
 msgstr ""
 
-#: launch-browser.page:47(section/p)
-msgid "<media type=\"image\" src=\"figures/super-key.png\"/> press the Logo key on the keyboard"
+#: online-accounts.page:9(info/title)
+msgctxt "link:trail"
+msgid "Connect to online accounts"
 msgstr ""
 
-#: launch-browser.page:53(section/title)
-msgid "Launch applications"
+#: online-accounts.page:12(page/title)
+msgid "Connect to online accounts"
 msgstr ""
 
-#: launch-browser.page:54(section/p)
-msgid "<media type=\"image\" src=\"figures/dash.png\"/> Left click on the browser icon in the dash, or..."
-msgstr ""
-
-#: launch-browser.page:58(section/p)
-msgid "<media type=\"image\" src=\"figures/keyboard.png\"/> just start typing 'web' and..."
-msgstr ""
-
-#: launch-browser.page:62(section/p)
-msgid "<media type=\"image\" src=\"figures/enter.png\"/> press the Enter key"
-msgstr ""
-
-#: online.page:8(info/title)
-msgid "role=\"trail\" type=\"link\"&gt;Going online"
-msgstr ""
-
-#: online.page:12(page/title)
+#: online.page:9(info/title)
+msgctxt "link:trail"
 msgid "Going online"
 msgstr ""
 
-#: search.page:8(info/title)
-msgid "role=\"trail\" type=\"link\"&gt;Using search"
+#: online.page:13(page/title)
+msgid "Going online"
 msgstr ""
 
-#: search.page:12(page/title)
-msgid "Using search"
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: responding-to-messages.page:17(media)
+msgctxt "_"
+msgid "external ref='figures/responding-to-messages.webm' md5='42642d0d7b4e52a409a2c52f529a4566'"
+msgstr ""
+"external ref='figures/responding-to-messages.webm' "
+"md5='42642d0d7b4e52a409a2c52f529a4566'"
+
+#: responding-to-messages.page:12(info/title)
+msgctxt "link:trail"
+msgid "Responding to messages"
 msgstr ""
 
+#: responding-to-messages.page:15(page/title)
+msgid "Responding to messages"
+msgstr ""
+
+#: switching-tasks.page:12(info/title)
+msgctxt "link:trail"
+msgid "Switching tasks"
+msgstr ""
+
+#: switching-tasks.page:16(page/title)
+#: switching-tasks.page:21(section/title)
+msgid "Switching tasks"
+msgstr ""
+
+#: switching-tasks.page:24(item/p)
+msgid "Move your mouse pointer to the <gui>Activities</gui> corner at the top left of the screen to show the <gui>Activities Overview</gui> where you can see the currently running tasks displayed as small windows."
+msgstr ""
+
+#: switching-tasks.page:27(item/p)
+msgid "Click a window to switch the task."
+msgstr ""
+
+#: switching-tasks.page:33(section/title)
+msgid "Tiling windows"
+msgstr ""
+
+#: switching-tasks.page:37(item/p)
+msgid "To maximize a window along a side of the screen, grab the window's titlebar and drag it to the left or right side of the screen."
+msgstr ""
+
+#: switching-tasks.page:39(item/p)
+msgid "When half of the screen is highlighted, drop the window to maximize it along the selected side of the screen."
+msgstr ""
+
+#: switching-tasks.page:41(item/p)
+msgid "To maximize two windows side-by-side, grab the titlebar of the second window and drag it to the opposite side of the screen. When half of the screen is highlighted, drop the window."
+msgstr ""
+
+#: use-search.page:9(info/title)
+msgctxt "link:trail"
+msgid "Use the system search"
+msgstr ""
+
+#: use-search.page:12(page/title)
+msgid "Use the system search"
+msgstr ""
+
+#: animation.xml:2(titles/t)
+msgid "Launching Applications"
+msgstr "Spouštění aplikací"
+
+#: animation.xml:4(titles/t)
+msgid "Changing Wallpaper"
+msgstr "Změna pozadí"
+
+#: animation.xml:5(titles/t)
+msgid "Responding to Messages"
+msgstr "Odpovídání na zprávy"
+
+#: animation.xml:6(titles/t)
+msgid "Delayed Response"
+msgstr ""
+
+#: animation.xml:7(titles/t)
+msgid "Activities"
+msgstr "Činnosti"
+
+#: animation.xml:8(titles/t)
+msgid "Enter"
+msgstr "Enter"
+
+#: animation.xml:9(titles/t)
+msgid "alt"
+msgstr "alt"
+
+#: animation.xml:10(titles/t)
+msgid "tab"
+msgstr "tab"
+
+#: animation.xml:11(titles/t)
+msgid "Esc"
+msgstr "Esc"
+
+#: animation.xml:12(titles/t)
+msgid "help"
+msgstr "nápověda"
+
+#: animation.xml:13(titles/t)
+msgid "web"
+msgstr "web"
+
+#: animation.xml:14(titles/t)
+msgid "Just start typing…"
+msgstr "Stačí začít psát…"
+
+#: animation.xml:15(titles/t)
+msgid "John Doe"
+msgstr "František Novák"
+
+#: animation.xml:16(titles/t)
+msgid "System Settings"
+msgstr "Nastavení systému"
+
+#: animation.xml:17(titles/t)
+msgid "Background"
+msgstr "Pozadí"
+
+#: animation.xml:18(titles/t)
+msgid "Wallpapers"
+msgstr "Tapety"
+
+#: animation.xml:19(titles/t)
+msgid "Select"
+msgstr "Vybrat"
+
+#: animation.xml:20(titles/t)
+msgid "Ready for the meeting?"
+msgstr "Můžeme začít s poradou?"
+
+#: animation.xml:21(titles/t)
+msgid "I'll be there in a sec..."
+msgstr "Budu tam za malý moment..."
+
+#: animation.xml:22(titles/t)
+msgid "Good stuff, thanks again"
+msgstr "Vypadá to dobře, díky"
+
+#: animation.xml:23(titles/t)
+msgid "Thanks for the support"
+msgstr "Díky za podporu"
+
+#: animation.xml:24(titles/t)
+msgid "No worries."
+msgstr ""
+
+#: animation.xml:25(titles/t)
+msgid "Too kind."
+msgstr ""
+
+#: legal.xml:3(p/link)
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+msgstr "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+
+#: legal.xml:3(license/p)
+msgid "This work is licensed under a <_:link-1/>."
+msgstr "Toto dílo je licencované pod <_:link-1/>."
+
+#~ msgid "return"
+#~ msgstr "Enter"
+
+#~ msgid "Backgound"
+#~ msgstr "Pozadí"
