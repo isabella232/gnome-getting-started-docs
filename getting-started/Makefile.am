@@ -5,9 +5,11 @@ HELP_ID = getting-started
 HELP_LINGUAS = cs
 
 HELP_MEDIA = \
-	figures/apps.png \
+	figures/changing-wallpaper.png \
+	figures/launching-apps.png \
 	figures/online.png \
-	figures/search.png
+	figures/search.png \
+	figures/task-switching.png
 
 HELP_FILES = \
 	animation.xml \

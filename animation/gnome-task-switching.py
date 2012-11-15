@@ -4,8 +4,8 @@ from xml.etree import ElementTree as ET
 def typewriteit(scene):
   typewrite = bpy.data.objects['typewriter'].data.body
   #psani zacina v sekvenci na 151
-  if bpy.context.scene.frame_current >= 151:
-    i = int((bpy.context.scene.frame_current-152)/3)
+  if bpy.context.scene.frame_current >= 915:
+    i = int((bpy.context.scene.frame_current-915)/3)
   else:
     i = 0
   #print(typewrite, i, typewrite[:i])
