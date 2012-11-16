@@ -1,17 +1,6 @@
 import bpy,os,re
 from xml.etree import ElementTree as ET
 
-def typewriteit(scene):
-  #FIXME make this happen only in scene "launching apps - keyboard"
-  typewrite = bpy.data.objects['typewriter'].data.body
-  #psani zacina v sekvenci na 612
-  if bpy.context.scene.frame_current >= 551:
-    i = int((bpy.context.scene.frame_current-551)/3)
-  else:
-    i = 0
-  #print(typewrite, i, typewrite[:i])
-  bpy.data.objects['search'].data.body = typewrite[:i]
-
 def render(lang):
   #bpy.context.scene.render.resolution_percentage =
   #bpy.context.scene.render.use_compositing = 0
@@ -52,6 +41,5 @@ def main():
     render(lang)
     
 if __name__ == '__main__':
-    bpy.app.handlers.frame_change_pre.append(typewriteit)
     main()
-    bpy.app.handlers.frame_change_pre.pop(0)
+
