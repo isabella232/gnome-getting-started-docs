@@ -1,12 +1,16 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:ui="http://projectmallard.org/experimental/ui/"
-      type="topic" style="ui"
+      type="topic"
+      style="ui"
       id="responding-to-messages">
 
   <info>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
     <credit type="author">
       <name>Jakub Steiner</name>
+    </credit>
+    <credit type="author">
+      <name>Petr Kovar</name>
     </credit>
     <link type="guide" xref="index" group="tasks"/>
     <title role="trail" type="link">Responding to messages</title>
@@ -15,6 +19,54 @@
   <title>Responding to messages</title>
 
   <media type="video" src="figures/responding-to-messages.webm" width="700" height="394"/>
+  
+  <section id="responding-to-messages-mouse">
+    <title>Responding to a chat message with the mouse</title>
+    
+    <steps>
+      <item><p>Move your mouse to the message tray that can found at the bottom
+       of the screen and click the chat message.</p></item>
+      <item><p>Start typing your reply and when finished, press <key>Enter</key>
+       to send the reply.</p></item>
+      <item><p>To close the chat message, click the close button at the top
+       right corner of the chat message.</p></item>
+    </steps>
+    <p></p>
+  </section>
+  
+  <section id="responding-to-messages-delayed-mouse">
+    <title>Delayed response to a chat message using the mouse</title>
+    
+    <steps>
+      <item><p>When a chat message appears in the message tray and you do not
+       move your mouse to the message tray, the message disappears after a
+       while.</p></item>
+      <item><p>To get back to your unanswered message, move your mouse to the
+       message tray at the very bottom of the screen.</p></item>
+      <item><p>When the message tray appears, click a small image that
+       represents the person who sent you the message.</p></item>
+      <item><p>When the chat message is shown, start typing your reply and when
+       finished, press <key>Enter</key> to send the reply.</p></item>
+      <item><p>To close the chat message, click the close button at the top
+       right corner of the chat message.</p></item>
+    </steps>
+    
+  </section>
+  
+  <section id="responding-to-messages-delayed-keyboard">
+    <title>Delayed response to a chat message using the keyboard</title>
+    <steps>
+      <item><p>To get back to your unanswered chat messages, press <keyseq><key>
+      Super</key><key>M</key></keyseq> to display the message tray that contains
+      the messages.</p></item>
+      <item><p>Use the arrow keys to select a small image representing the
+      person you want to reply to, and press <key>Enter</key>.</p></item>
+      <item><p>Start typing your reply and when finished, press <key>Enter</key>
+      to send the reply.</p></item>
+      <item><p>Press <key>Ecs</key> to close the chat message.</p></item>
+    </steps>
+
+  </section>
 
 
 </page>
