@@ -7,7 +7,7 @@ case $1 in
 	  blender="blender";;
 esac
 
-for file in *blend
-  do script=`basename $file blend`py
-  $blender -b $file -P $script
+for script in *py
+  do blend=`basename $script py`blend
+  $blender -b $blend -P $script
 done
