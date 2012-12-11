@@ -23,20 +23,7 @@ def render(lang):
     os.system(transcodecmd)
   else:
     print('already transcoded',transcodepath + webmfile)
-  
-def brandificate():
 
-  worldgnome = bpy.data.worlds['World GNOME'] 
-  worldrhel = bpy.data.worlds['World RHEL']
-  font = bpy.data.fonts['Overpass-Reg']
-
-  for scene in bpy.data.scenes:
-    if (scene.world == worldgnome):
-      scene.world = worldrhel #replace background color
-  for bobj in bpy.data.objects:
-    #if (bobj.type == 'FONT' and bobj.get('branded')): #sadly doesn't work
-    if (bobj.type == 'FONT' and (bobj.name[:5]=='title')): #replace title font with Overpass Bold
-      bobj.data.font = font
       
 #translates strings and calls render
 def main():
@@ -55,7 +42,6 @@ def main():
     bpy.data.objects['typewriter2'].data.body = t[lang].find('t[@id="bubble.response2"]').text
     bpy.data.objects['typewriter3'].data.body = t[lang].find('t[@id="bubble.response3"]').text
     bpy.data.objects['user.mt.bubble'].data.body = bpy.data.objects['user'].data.body #needs to be left aligned :/
-    brandificate()
     render(lang)
     
 if __name__ == '__main__':
