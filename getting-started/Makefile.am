@@ -17,6 +17,7 @@ HELP_FILES = \
 	browse-web.page \
 	change-wallpaper.page \
 	change-time.page \
+	figures/goa1.svg \
 	index.page \
 	install-software.page \
 	launch-apps.page \
