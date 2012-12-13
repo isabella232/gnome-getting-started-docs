@@ -6,16 +6,14 @@ from xml.etree import ElementTree
 
 TEMP = './tmp.svg'
 
-def rebrand(f, brand):
+def rebrand(fname, brand):
   svg = ElementTree.parse(fname)
-  for e in svg.iterfind("/svg/g/rect[@id='background']"):
-    print(e)
+  for e in svg.iterfind(".//{http://www.w3.org/2000/svg}rect[@id='background']"):
     e.set('style', 'fill:url(#%s);' % (brand,))
-    print svg.dump(e)
   svg.write(TEMP)
 
 for fname in glob.glob('*svg'):
   print fname
-  rebrand(fname, "RHEL7")
-  os.system("inkscape --vacuum-defs -l ../getting-started/C/figures/%s %s" % (fname, TEMP))
-  os.unlink(TEMP)
+  #rebrand(fname, "RHEL7")
+  os.system("inkscape --vacuum-defs -l ../getting-started/C/figures/%s %s" % (fname))
+  #os.unlink(TEMP)
