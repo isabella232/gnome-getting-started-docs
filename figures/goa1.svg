@@ -8,9 +8,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="800"
+   width="810"
    height="400"
    id="svg10075"
    version="1.1"
@@ -42,6 +43,16 @@
          offset="1"
          id="stop11076" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#GNOME"
+       id="linearGradient8407"
+       gradientTransform="scale(1.1451743,0.87322954)"
+       x1="-18.33782"
+       y1="490.54935"
+       x2="713.42854"
+       y2="490.54935"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -50,17 +61,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="406.04766"
-     inkscape:cy="175.48329"
+     inkscape:zoom="1"
+     inkscape:cx="369.93497"
+     inkscape:cy="103.93705"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:window-width="1279"
-     inkscape:window-height="1376"
-     inkscape:window-x="2880"
+     inkscape:window-height="1375"
+     inkscape:window-x="2879"
      inkscape:window-y="27"
      inkscape:window-maximized="0" />
   <metadata
@@ -79,9 +90,10 @@
      inkscape:label="bg"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-652.36217)">
+     transform="translate(0,-652.36217)"
+     sodipodi:insensitive="true">
     <rect
-       style="fill:url(#GNOME);"
+       style="fill:url(#GNOME)"
        id="background"
        width="838"
        height="639"
@@ -351,5 +363,16 @@
            x="-293.25"
            y="348.72986">System Settings</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="293"
+       y="579"
+       id="text8409"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8411"
+         x="293"
+         y="579">this isn't reflected 3</tspan></text>
   </g>
 </svg>
