@@ -14,6 +14,6 @@ def rebrand(fname, brand):
 
 for fname in glob.glob('*svg'):
   print fname
-  #rebrand(fname, "RHEL7")
-  os.system("inkscape --vacuum-defs -l ../getting-started/C/figures/%s %s" % (fname))
-  #os.unlink(TEMP)
+  rebrand(fname, "BLANK") #BLANK, GNOME, RHEL7
+  os.system("inkscape --vacuum-defs -l ../getting-started/C/figures/%s %s" % (fname, TEMP))
+  os.unlink(TEMP)

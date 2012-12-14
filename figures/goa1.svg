@@ -44,15 +44,17 @@
          id="stop11076" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#GNOME"
-       id="linearGradient8407"
-       gradientTransform="scale(1.1451743,0.87322954)"
-       x1="-18.33782"
-       y1="490.54935"
-       x2="713.42854"
-       y2="490.54935"
-       gradientUnits="userSpaceOnUse" />
+       id="BLANK"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#eeedec;stop-opacity:0;"
+         offset="0"
+         id="stop11074" />
+      <stop
+         style="stop-color:#eeedec;stop-opacity:0"
+         offset="1"
+         id="stop11076" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -69,10 +71,10 @@
      showgrid="false"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1279"
-     inkscape:window-height="1375"
-     inkscape:window-x="2879"
-     inkscape:window-y="27"
+     inkscape:window-width="1484"
+     inkscape:window-height="1249"
+     inkscape:window-x="2652"
+     inkscape:window-y="103"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata10080">
@@ -363,16 +365,5 @@
            x="-293.25"
            y="348.72986">System Settings</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="293"
-       y="579"
-       id="text8409"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan8411"
-         x="293"
-         y="579">this isn't reflected 3</tspan></text>
   </g>
 </svg>
