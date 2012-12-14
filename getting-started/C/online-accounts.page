@@ -16,8 +16,9 @@
       <item><p>Click on the <gui>User Menu</gui> in the <gui>Top Bar</gui>.</p></item>
       <item><p>Select the <gui>System Settings</gui> item.</p></item>
     </steps>
-    <include href="figures/goa1.svg" xmlns="http://www.w3.org/2001/XInclude"/>
-    <steps start-at="3">
+       
+    <media type="image" src="figures/goa1.svg" width="100%" />
+    <steps ui:expanded="yes">
       <item><p>Click on the <gui>User Menu</gui> in the <gui>Top Bar</gui>.</p></item>
       <item><p>Select the <gui>System Settings</gui> item.</p></item>
       <item><p>Select the <gui>System Settings</gui> item.</p></item>
