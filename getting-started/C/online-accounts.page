@@ -11,19 +11,18 @@
 
   <title>Connect to online accounts</title>
   <section id="connect-to-online-accounts">
-    <include href="figures/goa1.svg" xmlns="http://www.w3.org/2001/XInclude"/>
+
+    <media type="image" src="figures/goa1.svg" width="100%" />
     <steps>
       <item><p>Click on the <gui>User Menu</gui> in the <gui>Top Bar</gui>.</p></item>
-      <item><p>Select the <gui>System Settings</gui> item.</p></item>
+      <item><p>Select the <gui>Settings</gui> item.</p></item>
     </steps>
        
-    <media type="image" src="figures/goa1.svg" width="100%" />
-    <steps ui:expanded="yes">
-      <item><p>Click on the <gui>User Menu</gui> in the <gui>Top Bar</gui>.</p></item>
-      <item><p>Select the <gui>System Settings</gui> item.</p></item>
-      <item><p>Select the <gui>System Settings</gui> item.</p></item>
-      <item><p>Select the <gui>System Settings</gui> item.</p></item>
-      <item><p>Select the <gui>System Settings</gui> item.</p></item>
+    <media type="image" src="figures/goa2.svg" width="100%" />
+    <steps style="continues">
+      <item><p>Click on the <gui>Add an online account</gui> button.</p></item>
+      <item><p>If you already set up an account, click the <gui>+</gui> button on the bottom of the sidebar list to add another.</p></item>
+      <item><p>Select the type of online account. A sign in dialog will pop up, that varies depending on the type of account. Usually the authorization requires you to grant permission to GNOME after username and password validation is successfull.</p></item>
     </steps>
   </section>
   
