@@ -14,6 +14,7 @@
 
   <ui:overlay width="235" height="150">
   <media type="video" src="figures/launching-apps.webm" width="700" height="394">
+    <!-- FIXME: needs some sort of label -->
     <ui:thumb src="figures/launching-apps.png"/>
   </media>
   </ui:overlay>
@@ -25,10 +26,11 @@
   </ui:overlay>
 
   <ui:overlay width="235" height="150">
-  <media type="video" width="700" height="394">
-    <ui:thumb src="figures/online.png"/>
+  <media type="video" src="figures/responding-to-messages.webm" width="700" height="394">
+    <ui:thumb src="figures/responding-to-messages.png"/>
   </media>
   </ui:overlay>
+
 
 <links type="topic" style="grid" groups="tasks">
 <title>Common Tasks</title>
