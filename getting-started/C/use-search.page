@@ -15,11 +15,26 @@
 
     <media type="image" src="figures/search1.svg" width="100%" />
     <steps>
-      <item><p>Enter the <gui>Activities overview</gui> by throwing the pointer to the top left edge of the primary screen. Alternatively you can use the <key>Super</key> key or the FIXME gesture.</p></item>
-      <item><p>To initiate search, all you need to do at this point is to start typing. GNOME will start showing results immediately.</p></item>
+      <item><p>Enter the <gui>Activities overview</gui> by throwing the pointer to the top left edge of the primary screen. Alternatively you can use the <key>Super</key> key or the FIXME gesture.</p>
+      <p>To initiate search, all you need to do at this point is to start typing. GNOME will start showing results immediately.</p>
+      <p>The very first result is always highlighted, allowing you to immediately follow the search query with <key>Enter</key> to activate it.</p></item>
+    </steps>
+    
+    <media type="image" src="figures/search2.svg" width="100%" />
+    <steps style="continues">
+      <item><p>FIXME</p></item>
     </steps>
 
+    <section id="types-of-results">
+      <title>Types of results</title>
+      <p>System search aggregates results from various applications. The first group of results are application launchers. Activating a launcher will start an application.</p>
+      <p>Other types of results might include <app>settings</app>, <app>contacts</app> or <app>documents</app>. Each type of result is preceded with an icon of the application that provided the result (apart from the application launchers at the top). Only the best matches are presented in the overview, so if you want more scope for your search, you can click or use the arrow keys to navigate to the applucation icon on the left to take you to the application itself. As soon as the associated application starts, your performed query will be perfomed in the application. </p>
+    </section>
 
-
+    <section id="search-settings">
+      <title>Search Settings</title>
+      <media type="image" src="figures/search-settings.svg" width="100%" />
+      <p>You can configure what applications may display results in the overview by going to the <guiseq><gui>Settings</gui><gui>Search</gui></guiseq> panel.</p>
+    </section>
   </section>
 </page>
