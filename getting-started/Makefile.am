@@ -9,7 +9,7 @@ HELP_MEDIA = \
 	figures/launching-apps.png \
 	figures/responding-to-messages.png \
 	figures/task-switching.png \
-	windows-adn-workspaces.png
+	figures/windows-and-workspaces.png
 
 HELP_FILES = \
 	animation.xml \
