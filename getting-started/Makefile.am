@@ -17,11 +17,11 @@ HELP_FILES = \
 	browse-web.page \
 	change-wallpaper.page \
 	change-time.page \
-	figures/goa1.svg \
-	figures/goa2.svg \
-	figures/goa3.svg \
-	figures/goa4.svg \
-	figures/goa5.svg \
+	goa1.svg \
+	goa2.svg \
+	goa3.svg \
+	goa4.svg \
+	goa5.svg \
 	index.page \
 	install-software.page \
 	launch-apps.page \
@@ -29,11 +29,11 @@ HELP_FILES = \
 	online-accounts.page \
 	online.page \
 	responding-to-messages.page \
-	figures/search1.svg \
-	figures/search2.svg \
-	figures/search-settings.svg \
+	search1.svg \
+	search2.svg \
+	search-settings.svg \
 	switching-tasks.page \
 	use-search.page \
-	figures/web-browser1.svg \
-	figures/web-browser2.svg
+	web-browser1.svg \
+	web-browser2.svg
 
