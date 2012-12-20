@@ -6,10 +6,15 @@ HELP_LINGUAS = cs
 
 HELP_MEDIA = \
 	figures/changing-wallpaper.png \
+	figures/changing-wallpaper.webm \
 	figures/launching-apps.png \
+	figures/launching-apps.webm \
 	figures/responding-to-messages.png \
+	figures/responding-to-messages.webm \
 	figures/task-switching.png \
-	figures/windows-and-workspaces.png
+	figures/task-switching.webm \
+	figures/windows-and-workspaces.png \
+	figures/windows-and-workspaces.webm
 
 HELP_FILES = \
 	animation.xml \
