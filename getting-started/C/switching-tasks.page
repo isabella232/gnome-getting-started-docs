@@ -18,7 +18,9 @@
 
   <title>Switching tasks</title>
 
-  <media type="video" src="figures/task-switching.webm" width="700" height="394"/>
+  <media type="video" src="figures/task-switching.webm" width="840" height="468">
+    <media type="image" style="poster" src="figures/task-switching.png"/>
+  </media>
 
   <section id="switching-tasks-overview">
     <title>Switching tasks</title>
@@ -44,6 +46,19 @@
       <item><p>To maximize two windows side-by-side, grab the titlebar of the
        second window and drag it to the opposite side of the screen. When half
        of the screen is highlighted, drop the window.</p></item>
+    </steps>
+    
+  </section>
+
+  <section id="switching-tasks-tiling">
+    <title>Switching windows through search</title>
+    <p></p>
+    
+    <steps>
+      <item><p>Push the <key>Super</key> key to enter the overview.</p></item>
+      <item><p>Start typing the name of the application immediately.</p></item>
+      <item><p>When the application icon appears as a first result, hit <key>Enter</key> to activate its last used window.</p></item>
+      
     </steps>
     
   </section>
