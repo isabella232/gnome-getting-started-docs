@@ -7,9 +7,9 @@ HELP_LINGUAS = cs
 HELP_MEDIA = \
 	figures/changing-wallpaper.png \
 	figures/launching-apps.png \
-	figures/search.png \
 	figures/responding-to-messages.png \
-	figures/task-switching.png
+	figures/task-switching.png \
+	windows-adn-workspaces.png
 
 HELP_FILES = \
 	animation.xml \
@@ -21,6 +21,7 @@ HELP_FILES = \
 	figures/goa2.svg \
 	figures/goa3.svg \
 	figures/goa4.svg \
+	figures/goa5.svg \
 	index.page \
 	install-software.page \
 	launch-apps.page \
@@ -28,6 +29,9 @@ HELP_FILES = \
 	online-accounts.page \
 	online.page \
 	responding-to-messages.page \
+	figures/search1.svg \
+	figures/search2.svg \
+	figures/search-settings.svg \
 	switching-tasks.page \
 	use-search.page \
 	figures/web-browser1.svg \
