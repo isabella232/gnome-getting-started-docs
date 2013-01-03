@@ -6,9 +6,9 @@ HELP_LINGUAS = cs
 
 HELP_MEDIA = \
 	figures/changing-wallpaper.png \
-	figures/changing-wallpaper.webm \
+	figures/gnome-change-wallpaper.webm \
 	figures/launching-apps.png \
-	figures/launching-apps.webm \
+	figures/gnome-launching-applications.webm \
 	figures/responding-to-messages.png \
 	figures/responding-to-messages.webm \
 	figures/task-switching.png \

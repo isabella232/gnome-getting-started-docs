@@ -3,34 +3,32 @@ from xml.etree import ElementTree as ET
 
  
 def render(lang):
-  global renderpath
+  global renderpath,renderpathabs,sndfile
   
   #bpy.context.scene.render.resolution_percentage =
   #bpy.context.scene.render.use_compositing = 0
   bpy.context.scene.render.use_sequencer = 1
   renderpath = '//sequence/'+lang
-  sndfile = renderpath+'/snd/snd.flac'
-  if (not renderpath):
-    os.mkdir(renderpath)
-  if (not renderpath+'/snd'):
-    os.mkdir(renderpath+'/snd')
+  
   regexobj = re.search(r"^(.*\/)*(.*)(\.blend)$", bpy.data.filepath)
   bpy.context.scene.render.filepath = "%s/%s/" % (renderpath,regexobj.group(2))
-  if (not os.path.isfile(bpy.context.scene.render.frame_path())):
+  renderpathabs = "%ssequence/%s/%s" % (regexobj.group(1),lang,regexobj.group(2))
+  sndpath = "%s/snd" % (renderpathabs)
+  sndfile = "%s/snd.flac" % (sndpath)
+  if (not os.path.isdir(renderpathabs)):
     bpy.ops.render.render(animation=True)
+  if (not os.path.isdir(sndpath)):
+    os.mkdir(sndpath)
     bpy.ops.sound.mixdown(filepath=sndfile)
   else:
     print('already rendered',bpy.context.scene.render.frame_path())
 
 def transcode(lang):
-  global renderpath
-  #FIXME
+  global renderpath,renderpathabs,sndfile
   #theora gst-launch-1.0 oggmux name=mux ! filesink location="../video.webm"    file:///home/jimmac/src/git/gnome/gnome-getting-started-docs/animation/sequence/C/changing-wallpaper/snd/test.flac ! decodebin ! audioconvert ! vorbisenc ! mux.     multifilesrc location="/home/jimmac/src/git/gnome/gnome-getting-started-docs/animation/sequence/C/changing-wallpaper/%04d.png" index=1 caps="image/png,framerate=\(fraction\)25/1" ! pngdec ! videoconvert ! videorate ! theoraenc ! mux.
-  #webm gst-launch-1.0 webmmux name=mux ! filesink location="../video.webm"    file:///home/jimmac/src/git/gnome/gnome-getting-started-docs/animation/sequence/C/changing-wallpaper/snd/test.flac ! decodebin ! audioconvert ! vorbisenc ! mux.     multifilesrc location="/home/jimmac/src/git/gnome/gnome-getting-started-docs/animation/sequence/C/changing-wallpaper/%04d.png" index=1 caps="image/png,framerate=\(fraction\)25/1" ! pngdec ! videoconvert ! videoscale ! videorate ! vp8enc threads=4 ! mux.
   regexobj = re.search(r"^(.*\/)*(.*)(\.blend)$", bpy.data.filepath)
-  framepath = "%ssequence/%s/%s" % (regexobj.group(1),lang,regexobj.group(2))
+  framepath = renderpathabs
   webmfile = "%s.webm" % (regexobj.group(2))
-  sndfile = "%ssequence/%s/%s/snd/snd.flac" % (regexobj.group(1),lang,regexobj.group(2))
   transcodepath = "../getting-started/%s/figures/" % (lang)
   
   #print(transcodepath,webmfile,sndfile,framepath)
