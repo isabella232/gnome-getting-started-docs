@@ -10,12 +10,12 @@ HELP_MEDIA = \
 	figures/launching-apps.png \
 	figures/gnome-launching-applications.webm \
 	figures/responding-to-messages.png \
-	figures/responding-to-messages.webm \
+	figures/gnome-responding-to-messages.webm \
 	figures/task-switching.png \
-	figures/task-switching.webm \
+	figures/gnome-task-switching.webm \
 	figures/windows-and-workspaces.png \
-	figures/windows-and-workspaces.webm \
-	figures/yelp-intro.webm
+	figures/gnome-windows-and-workspaces.webm \
+	figures/gnome-yelp-intro.webm
 
 HELP_FILES = \
 	animation.xml \

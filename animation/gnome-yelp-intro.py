@@ -2,40 +2,43 @@ import bpy,os,re
 from xml.etree import ElementTree as ET
 
 def render(lang):
+  global renderpath,renderpathabs,sndfile
+  
   #bpy.context.scene.render.resolution_percentage =
   #bpy.context.scene.render.use_compositing = 0
   bpy.context.scene.render.use_sequencer = 1
   renderpath = '//sequence/'+lang
-  if (not renderpath):
-    os.mkdir(renderpath)
-  bpy.context.scene.render.filepath = "//" + renderpath + '/yelp-intro-'
-  if (not os.path.isfile(bpy.context.scene.render.frame_path())):
+  
+  regexobj = re.search(r"^(.*\/)*(.*)(\.blend)$", bpy.data.filepath)
+  bpy.context.scene.render.filepath = "%s/%s/" % (renderpath,regexobj.group(2))
+  renderpathabs = "%ssequence/%s/%s" % (regexobj.group(1),lang,regexobj.group(2))
+  sndpath = "%s/snd" % (renderpathabs)
+  sndfile = "%s/snd.flac" % (sndpath)
+  if (not os.path.isdir(renderpathabs)):
     bpy.ops.render.render(animation=True)
+  if (not os.path.isdir(sndpath)):
+    os.mkdir(sndpath)
+    bpy.ops.sound.mixdown(filepath=sndfile)
   else:
-    print('already rendered')
-  transcodepath = "../getting-started/" + lang + "/figures/"
-  regexobj = re.search(r"^(.*\/)(.*)-(\d*)-(\d*)(\.avi)$", bpy.context.scene.render.frame_path())
-  webmfile = regexobj.group(2) + ".webm"
-  transcodecmd = "ffmpeg -y -i " + bpy.context.scene.render.frame_path() + " -b:v 8000k " + transcodepath + webmfile
+    print('already rendered',bpy.context.scene.render.frame_path())
+
+def transcode(lang):
+  global renderpath,renderpathabs,sndfile
+
+  regexobj = re.search(r"^(.*\/)*(.*)(\.blend)$", bpy.data.filepath)
+  framepath = renderpathabs
+  webmfile = "%s.webm" % (regexobj.group(2))
+  transcodepath = "../getting-started/%s/figures/" % (lang)
+  
+  #print(transcodepath,webmfile,sndfile,framepath)
+  transcodecmd = "gst-launch-1.0 webmmux name=mux ! filesink location=\"%s/%s\"    file://%s ! decodebin ! audioconvert ! vorbisenc ! mux.     multifilesrc location=\"%s/%%04d.png\" index=1 caps=\"image/png,framerate=\(fraction\)24/1\" ! pngdec ! videoconvert ! videoscale ! videorate ! vp8enc threads=4 ! mux." % (transcodepath,webmfile,sndfile,framepath)
   if (not os.path.isfile(transcodepath+webmfile)):
     os.system(transcodecmd)
   else:
-    print('already transcoded',transcodepath + webmfile)
-        
-def typewriteit(scene):
-  #FIXME make this happen only in scene "launching apps - keyboard"
-  typewrite = bpy.data.objects['typewriter'].data.body
-  #psani zacina v sekvenci na 610
-  if bpy.context.scene.frame_current >= 610:
-    i = int((bpy.context.scene.frame_current-610)/3)
-  else:
-    i = 0
-  #print(typewrite, i, typewrite[:i])
-  bpy.data.objects['search'].data.body = typewrite[:i]
+    print('already transcoded',transcodepath + webmfile)          
 
 #translates strings and calls render
 def main():
-  global typewrite
   
   t = {}
   #unfortunately no decent fonts have ↲
@@ -49,8 +52,7 @@ def main():
         bpy.data.objects[textobj.get('id')].data.body = textobj.text
     bpy.data.objects['typewriter'].data.body = t[lang].find('t[@id="search"]').text
     render(lang)
-    
+    transcode(lang)
+
 if __name__ == '__main__':
-    bpy.app.handlers.frame_change_pre.append(typewriteit)
     main()
-    bpy.app.handlers.frame_change_pre.pop(0)

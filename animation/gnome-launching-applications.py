@@ -2,34 +2,40 @@ import bpy,os,re
 from xml.etree import ElementTree as ET
 
 def render(lang):
-  global renderpath
+  global renderpath,renderpathabs,sndfile
+  
   #bpy.context.scene.render.resolution_percentage =
   #bpy.context.scene.render.use_compositing = 0
   bpy.context.scene.render.use_sequencer = 1
   renderpath = '//sequence/'+lang
-  sndfile = renderpath+'/snd/snd.flac'
+  
   regexobj = re.search(r"^(.*\/)*(.*)(\.blend)$", bpy.data.filepath)
   bpy.context.scene.render.filepath = "%s/%s/" % (renderpath,regexobj.group(2))
-  bpy.context.scene.render.filepath = "//" + renderpath + '/launching-apps-'
-  if (not os.path.isfile(bpy.context.scene.render.frame_path())):
+  renderpathabs = "%ssequence/%s/%s" % (regexobj.group(1),lang,regexobj.group(2))
+  sndpath = "%s/snd" % (renderpathabs)
+  sndfile = "%s/snd.flac" % (sndpath)
+  if (not os.path.isdir(renderpathabs)):
     bpy.ops.render.render(animation=True)
+  if (not os.path.isdir(sndpath)):
+    os.mkdir(sndpath)
     bpy.ops.sound.mixdown(filepath=sndfile)
   else:
-    print('already rendered')  
+    print('already rendered',bpy.context.scene.render.frame_path())
 
 def transcode(lang):
-  global renderpath
+  global renderpath,renderpathabs,sndfile
+
   regexobj = re.search(r"^(.*\/)*(.*)(\.blend)$", bpy.data.filepath)
-  framepath = "%ssequence/%s/%s" % (regexobj.group(1),lang,regexobj.group(2))
+  framepath = renderpathabs
   webmfile = "%s.webm" % (regexobj.group(2))
-  sndfile = "%ssequence/%s/%s/snd/snd.flac" % (regexobj.group(1),lang,regexobj.group(2))
   transcodepath = "../getting-started/%s/figures/" % (lang)
   
-  transcodecmd = "gst-launch-1.0 webmmux name=mux ! filesink location=\"%s/%s\"    file://%s ! decodebin ! audioconvert ! vorbisenc ! mux.     multifilesrc location=\"%s/%%04d.png\" index=1 caps=\"image/png,framerate=\(fraction\)25/1\" ! pngdec ! videoconvert ! videoscale ! videorate ! vp8enc threads=4 ! mux." % (transcodepath,webmfile,sndfile,framepath)
+  #print(transcodepath,webmfile,sndfile,framepath)
+  transcodecmd = "gst-launch-1.0 webmmux name=mux ! filesink location=\"%s/%s\"    file://%s ! decodebin ! audioconvert ! vorbisenc ! mux.     multifilesrc location=\"%s/%%04d.png\" index=1 caps=\"image/png,framerate=\(fraction\)24/1\" ! pngdec ! videoconvert ! videoscale ! videorate ! vp8enc threads=4 ! mux." % (transcodepath,webmfile,sndfile,framepath)
   if (not os.path.isfile(transcodepath+webmfile)):
     os.system(transcodecmd)
   else:
-    print('already transcoded',transcodepath + webmfile)  
+    print('already transcoded',transcodepath + webmfile)
 
   
 #translates strings and calls render

@@ -25,14 +25,14 @@ def render(lang):
 
 def transcode(lang):
   global renderpath,renderpathabs,sndfile
-  #theora gst-launch-1.0 oggmux name=mux ! filesink location="../video.webm"    file:///home/jimmac/src/git/gnome/gnome-getting-started-docs/animation/sequence/C/changing-wallpaper/snd/test.flac ! decodebin ! audioconvert ! vorbisenc ! mux.     multifilesrc location="/home/jimmac/src/git/gnome/gnome-getting-started-docs/animation/sequence/C/changing-wallpaper/%04d.png" index=1 caps="image/png,framerate=\(fraction\)25/1" ! pngdec ! videoconvert ! videorate ! theoraenc ! mux.
+
   regexobj = re.search(r"^(.*\/)*(.*)(\.blend)$", bpy.data.filepath)
   framepath = renderpathabs
   webmfile = "%s.webm" % (regexobj.group(2))
   transcodepath = "../getting-started/%s/figures/" % (lang)
   
   #print(transcodepath,webmfile,sndfile,framepath)
-  transcodecmd = "gst-launch-1.0 webmmux name=mux ! filesink location=\"%s/%s\"    file://%s ! decodebin ! audioconvert ! vorbisenc ! mux.     multifilesrc location=\"%s/%%04d.png\" index=1 caps=\"image/png,framerate=\(fraction\)25/1\" ! pngdec ! videoconvert ! videoscale ! videorate ! vp8enc threads=4 ! mux." % (transcodepath,webmfile,sndfile,framepath)
+  transcodecmd = "gst-launch-1.0 webmmux name=mux ! filesink location=\"%s/%s\"    file://%s ! decodebin ! audioconvert ! vorbisenc ! mux.     multifilesrc location=\"%s/%%04d.png\" index=1 caps=\"image/png,framerate=\(fraction\)24/1\" ! pngdec ! videoconvert ! videoscale ! videorate ! vp8enc threads=4 ! mux." % (transcodepath,webmfile,sndfile,framepath)
   if (not os.path.isfile(transcodepath+webmfile)):
     os.system(transcodecmd)
   else:
