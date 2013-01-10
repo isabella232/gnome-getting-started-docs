@@ -14,7 +14,8 @@ HELP_MEDIA = \
 	figures/task-switching.png \
 	figures/task-switching.webm \
 	figures/windows-and-workspaces.png \
-	figures/windows-and-workspaces.webm
+	figures/windows-and-workspaces.webm \
+	figures/yelp-intro.webm
 
 HELP_FILES = \
 	animation.xml \
