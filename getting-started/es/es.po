@@ -1,0 +1,1187 @@
+# Spanish translation for gnome-getting-started-docs.
+# Copyright (C) 2013 gnome-getting-started-docs's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome-getting-started-docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Daniel Mustieles <daniel.mustieles@gmail.com>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-getting-started-docs master\n"
+"POT-Creation-Date: 2013-01-11 23:47+0000\n"
+"PO-Revision-Date: 2013-01-15 10:43+0100\n"
+"Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
+"Language-Team: Español <gnome-es-list@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
+msgctxt "_"
+msgid "translator-credits"
+msgstr ""
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/index.page:16(media) C/launch-apps.page:23(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-launching-applications.webm' "
+"md5='8b54a111fb9bc4bfee5b48c4b671d3a1'"
+msgstr ""
+"external ref='figures/gnome-launching-applications.webm' "
+"md5='8b54a111fb9bc4bfee5b48c4b671d3a1'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/index.page:23(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-task-switching.webm' "
+"md5='6b5ee63e7c24cff32af0a7c91770152b'"
+msgstr ""
+"external ref='figures/gnome-task-switching.webm' "
+"md5='6b5ee63e7c24cff32af0a7c91770152b'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/index.page:29(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-responding-to-messages.webm' "
+"md5='4ea06e052676b574f114093ae0b936b1'"
+msgstr ""
+"external ref='figures/gnome-responding-to-messages.webm' "
+"md5='4ea06e052676b574f114093ae0b936b1'"
+
+#: C/index.page:8(info/desc) C/index.page:13(page/title)
+#: C/animation.xml:5(titles/t)
+msgid "Getting Started"
+msgstr ""
+
+#: C/index.page:9(info/title)
+msgctxt "link"
+msgid "Getting Started"
+msgstr ""
+
+#: C/index.page:10(info/title)
+msgctxt "text"
+msgid "Getting Started"
+msgstr ""
+
+#: C/index.page:36(links/title)
+msgid "Common Tasks"
+msgstr ""
+
+#: C/animation.xml:3(titles/t)
+msgid "Welcome"
+msgstr ""
+
+#: C/animation.xml:4(titles/t)
+msgid "Launching Applications"
+msgstr ""
+
+#: C/animation.xml:6(titles/t)
+msgid "Changing Wallpaper"
+msgstr ""
+
+#: C/animation.xml:7(titles/t)
+msgid "Responding to Messages"
+msgstr ""
+
+#: C/animation.xml:8(titles/t)
+msgid "Delayed Response"
+msgstr ""
+
+#: C/animation.xml:9(titles/t)
+msgid "Windows and Workspaces"
+msgstr ""
+
+#: C/animation.xml:10(titles/t)
+msgid "Maximize"
+msgstr ""
+
+#: C/animation.xml:11(titles/t)
+msgid "Restore"
+msgstr ""
+
+#: C/animation.xml:12(titles/t)
+msgid "Left half of screen"
+msgstr ""
+
+#: C/animation.xml:13(titles/t)
+msgid "Workspace down"
+msgstr ""
+
+#: C/animation.xml:14(titles/t)
+msgid "Workspace up"
+msgstr ""
+
+#: C/animation.xml:15(titles/t)
+msgid "Right half of screen"
+msgstr ""
+
+#: C/animation.xml:16(titles/t) C/search1.svg:177(text/tspan)
+#: C/search2.svg:99(text/tspan) C/web-browser1.svg:106(text/tspan)
+#, no-wrap
+msgid "Activities"
+msgstr ""
+
+#: C/animation.xml:17(titles/t)
+msgid "Enter"
+msgstr ""
+
+#: C/animation.xml:18(titles/t)
+msgid "Ctrl"
+msgstr ""
+
+#: C/animation.xml:19(titles/t)
+msgid "Alt"
+msgstr ""
+
+#: C/animation.xml:20(titles/t)
+msgid "Tab"
+msgstr ""
+
+#: C/animation.xml:21(titles/t)
+msgid "Esc"
+msgstr ""
+
+#: C/animation.xml:22(titles/t)
+msgid "help"
+msgstr ""
+
+#: C/animation.xml:23(titles/t)
+msgid "web"
+msgstr ""
+
+#: C/animation.xml:24(titles/t)
+msgid "Just start typing…"
+msgstr ""
+
+#: C/animation.xml:25(titles/t) C/goa1.svg:42(text/tspan)
+#: C/goa1.svg:69(text/tspan) C/search1.svg:174(text/tspan)
+#: C/search2.svg:96(text/tspan)
+#, no-wrap
+msgid "John Doe"
+msgstr ""
+
+#: C/animation.xml:26(titles/t) C/goa1.svg:74(text/tspan)
+#, no-wrap
+msgid "Settings"
+msgstr ""
+
+#: C/animation.xml:27(titles/t)
+msgid "Background"
+msgstr ""
+
+#: C/animation.xml:28(titles/t)
+msgid "Wallpapers"
+msgstr ""
+
+#: C/animation.xml:29(titles/t)
+msgid "Select"
+msgstr ""
+
+#: C/animation.xml:30(titles/t)
+msgid "Ready for the meeting?"
+msgstr ""
+
+#: C/animation.xml:31(titles/t)
+msgid "I'll be there in a sec..."
+msgstr ""
+
+#: C/animation.xml:32(titles/t)
+msgid "Good stuff, thanks again"
+msgstr ""
+
+#: C/animation.xml:33(titles/t)
+msgid "Thanks for the support"
+msgstr ""
+
+#: C/animation.xml:34(titles/t)
+msgid "No worries."
+msgstr ""
+
+#: C/animation.xml:35(titles/t)
+msgid "Too kind."
+msgstr ""
+
+#: C/legal.xml:3(p/link)
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+msgstr ""
+
+#: C/legal.xml:3(license/p)
+msgid "This work is licensed under a <_:link-1/>."
+msgstr ""
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/browse-web.page:16(media)
+msgctxt "_"
+msgid "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
+msgstr "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/browse-web.page:23(media)
+msgctxt "_"
+msgid "external ref='web-browser2.svg' md5='b91c538430337333c31915e8827ce028'"
+msgstr "external ref='web-browser2.svg' md5='b91c538430337333c31915e8827ce028'"
+
+#: C/browse-web.page:10(info/title)
+msgctxt "link:trail"
+msgid "Browse the web"
+msgstr ""
+
+#: C/browse-web.page:13(page/title)
+msgid "Browse the web"
+msgstr ""
+
+#: C/browse-web.page:18(item/p) C/use-search.page:18(item/p)
+msgid ""
+"Enter the <gui>Activities overview</gui> by throwing the pointer to the top "
+"left edge of the primary screen. Alternatively you can use the <key>Super</"
+"key> key or the FIXME gesture."
+msgstr ""
+
+#: C/browse-web.page:19(item/p)
+msgid "Select the <app>Web</app> application icon from the dash on the left."
+msgstr ""
+
+#: C/browse-web.page:21(note/p)
+msgid ""
+"Alternatively you can use the <link xref=\"use-search\">search</link> "
+"functionality to launch <app>Web</app>."
+msgstr ""
+
+#: C/browse-web.page:25(item/p)
+msgid "Click on the title of a page to reveal the address entry."
+msgstr ""
+
+#: C/browse-web.page:26(item/p)
+msgid ""
+"Entering text in the address entry will perform a history and bookmarks "
+"search so you don't have to enter a precise web address (URL). Previous "
+"browsing history and bookmark matches are displayed below the entry. You can "
+"quickly select appropriate result by pushing the <key>down</key> arrow key."
+msgstr ""
+
+#: C/browse-web.page:27(item/p)
+msgid "To confirm entry, push <key>Enter</key>."
+msgstr ""
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/change-wallpaper.page:21(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-change-wallpaper.webm' "
+"md5='331ea9f544d3b57bc928d712b9b11efc'"
+msgstr ""
+"external ref='figures/gnome-change-wallpaper.webm' "
+"md5='331ea9f544d3b57bc928d712b9b11efc'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/change-wallpaper.page:22(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/changing-wallpaper.png' "
+"md5='99db9f17cd2e00909317ba503dc77546'"
+msgstr ""
+"external ref='figures/changing-wallpaper.png' "
+"md5='99db9f17cd2e00909317ba503dc77546'"
+
+#: C/change-wallpaper.page:10(credit/name) C/launch-apps.page:10(credit/name)
+#: C/responding-to-messages.page:10(credit/name)
+#: C/switching-tasks.page:9(credit/name)
+msgid "Jakub Steiner"
+msgstr ""
+
+#: C/change-wallpaper.page:13(credit/name) C/launch-apps.page:13(credit/name)
+#: C/responding-to-messages.page:13(credit/name)
+#: C/switching-tasks.page:12(credit/name)
+msgid "Petr Kovar"
+msgstr ""
+
+#: C/change-wallpaper.page:16(info/title)
+msgctxt "link:trail"
+msgid "Change the wallpaper"
+msgstr ""
+
+#: C/change-wallpaper.page:19(page/title)
+#: C/change-wallpaper.page:26(section/title)
+msgid "Change the wallpaper"
+msgstr ""
+
+#: C/change-wallpaper.page:29(item/p)
+msgid "Click your name on the top bar and select <gui>Settings</gui>."
+msgstr ""
+
+#: C/change-wallpaper.page:31(item/p)
+msgid "From the list of items, select <gui>Background</gui>."
+msgstr ""
+
+#: C/change-wallpaper.page:32(item/p)
+msgid ""
+"Click the image of your current wallpaper in the center of the "
+"<gui>Background</gui> window."
+msgstr ""
+
+#: C/change-wallpaper.page:34(item/p)
+msgid "Click the background image that you want to use."
+msgstr ""
+
+#: C/change-wallpaper.page:35(item/p)
+msgid "Click the <gui>Select</gui> button."
+msgstr ""
+
+#: C/change-wallpaper.page:36(item/p)
+msgid ""
+"Close the <gui>Background</gui> window by clicking the cross at the top-"
+"right corner of the window."
+msgstr ""
+
+#: C/change-time.page:10(info/title)
+msgctxt "link:trail"
+msgid "Change the time, date and timezone"
+msgstr ""
+
+#: C/change-time.page:13(page/title)
+msgid "Change the time, date and timezone"
+msgstr ""
+
+#: C/change-time.page:15(page/p) C/install-software.page:14(page/p)
+#: C/online.page:15(page/p)
+msgid "Stay tuned..."
+msgstr ""
+
+#: C/goa1.svg:20(Work/format) C/goa2.svg:29(Work/format)
+#: C/goa3.svg:29(Work/format) C/goa4.svg:23(Work/format)
+#: C/goa5.svg:20(Work/format) C/search1.svg:75(Work/format)
+#: C/search2.svg:77(Work/format) C/search-settings.svg:83(Work/format)
+#: C/web-browser1.svg:92(Work/format) C/web-browser2.svg:37(Work/format)
+msgid "image/svg+xml"
+msgstr ""
+
+#: C/goa1.svg:60(text/tspan) C/search1.svg:87(text/tspan)
+#: C/web-browser1.svg:104(text/tspan)
+#, no-wrap
+msgid "1"
+msgstr ""
+
+#: C/goa1.svg:64(text/tspan) C/search2.svg:89(text/tspan)
+#: C/web-browser1.svg:137(text/tspan)
+#, no-wrap
+msgid "2"
+msgstr ""
+
+#: C/goa2.svg:41(text/tspan) C/web-browser2.svg:100(text/tspan)
+#, no-wrap
+msgid "3"
+msgstr ""
+
+#: C/goa2.svg:72(text/tspan) C/goa3.svg:72(text/tspan)
+#: C/goa5.svg:64(text/tspan)
+#, no-wrap
+msgid "Online Accounts"
+msgstr ""
+
+#: C/goa2.svg:74(text/tspan) C/goa3.svg:74(text/tspan)
+#, no-wrap
+msgid "Add an online account"
+msgstr ""
+
+#: C/goa3.svg:41(text/tspan) C/web-browser2.svg:50(text/tspan)
+#, no-wrap
+msgid "4"
+msgstr ""
+
+#: C/goa3.svg:92(text/tspan)
+#, no-wrap
+msgid "Add Account"
+msgstr ""
+
+#: C/goa3.svg:96(text/tspan) C/goa4.svg:53(text/tspan)
+#: C/goa4.svg:87(text/tspan)
+#, no-wrap
+msgid "Cancel"
+msgstr ""
+
+#: C/goa3.svg:98(text/tspan) C/goa4.svg:37(text/tspan)
+#: C/goa5.svg:75(text/tspan) C/goa5.svg:78(text/tspan)
+#, no-wrap
+msgid "Google"
+msgstr ""
+
+#: C/goa3.svg:99(text/tspan) C/goa4.svg:38(text/tspan)
+#, no-wrap
+msgid "Facebook"
+msgstr ""
+
+#: C/goa3.svg:100(text/tspan) C/goa4.svg:39(text/tspan)
+#, no-wrap
+msgid "Windows Live"
+msgstr ""
+
+#: C/goa3.svg:101(text/tspan) C/goa4.svg:40(text/tspan)
+#, no-wrap
+msgid "Microsoft Exchange"
+msgstr ""
+
+#: C/goa3.svg:102(text/tspan) C/goa4.svg:41(text/tspan)
+#, no-wrap
+msgid "Enterprise Login (Kerberos)"
+msgstr ""
+
+#: C/goa4.svg:35(text/tspan) C/web-browser2.svg:198(text/tspan)
+#, no-wrap
+msgid "5"
+msgstr ""
+
+#: C/goa4.svg:49(text/tspan) C/goa4.svg:83(text/tspan)
+#, no-wrap
+msgid "Google account"
+msgstr ""
+
+#: C/goa4.svg:66(text/tspan)
+#, no-wrap
+msgid "SIGN UP"
+msgstr ""
+
+#: C/goa4.svg:67(text/tspan)
+#, no-wrap
+msgid "Sign in"
+msgstr ""
+
+#: C/goa4.svg:68(text/tspan)
+#, no-wrap
+msgid "Email"
+msgstr ""
+
+#: C/goa4.svg:70(text/tspan)
+#, no-wrap
+msgid "Password"
+msgstr ""
+
+#: C/goa4.svg:73(text/tspan)
+#, no-wrap
+msgid "Sign In"
+msgstr ""
+
+#: C/goa4.svg:74(text/tspan) C/goa5.svg:77(text/tspan)
+#: C/goa5.svg:80(text/tspan)
+#, no-wrap
+msgid "john.doe@gmail.com"
+msgstr ""
+
+#: C/goa4.svg:100(text/tspan)
+#, no-wrap
+msgid "Grant Access"
+msgstr ""
+
+#: C/goa4.svg:105(text/tspan)
+#, no-wrap
+msgid "Deny Access"
+msgstr ""
+
+#: C/goa4.svg:116(text/tspan)
+#, no-wrap
+msgid "6"
+msgstr ""
+
+#: C/goa5.svg:32(text/tspan)
+#, no-wrap
+msgid "7"
+msgstr ""
+
+#: C/goa5.svg:81(text/tspan)
+#, no-wrap
+msgid "Use for"
+msgstr ""
+
+#: C/goa5.svg:82(text/tspan)
+#, no-wrap
+msgid "Mail"
+msgstr ""
+
+#: C/goa5.svg:87(text/tspan)
+#, no-wrap
+msgid "Calendar"
+msgstr ""
+
+#: C/goa5.svg:92(text/tspan) C/search2.svg:217(text/tspan)
+#, no-wrap
+msgid "Contacts"
+msgstr ""
+
+#: C/goa5.svg:97(text/tspan)
+#, no-wrap
+msgid "Chat"
+msgstr ""
+
+#: C/goa5.svg:102(text/tspan)
+#, no-wrap
+msgid "Documents"
+msgstr ""
+
+#: C/goa5.svg:107(text/tspan) C/goa5.svg:108(text/tspan)
+#: C/goa5.svg:109(text/tspan) C/goa5.svg:110(text/tspan)
+#: C/goa5.svg:111(text/tspan) C/search-settings.svg:140(text/tspan)
+#: C/search-settings.svg:257(text/tspan) C/search-settings.svg:264(text/tspan)
+#: C/search-settings.svg:271(text/tspan)
+#, no-wrap
+msgid "ON"
+msgstr ""
+
+#: C/install-software.page:9(info/title)
+msgctxt "link:trail"
+msgid "Get additional applications"
+msgstr ""
+
+#: C/install-software.page:12(page/title)
+msgid "Get additional applications"
+msgstr ""
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/launch-apps.page:24(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/launching-apps.png' "
+"md5='2e9b65079ed7c034e00db3b71b9897d3'"
+msgstr ""
+"external ref='figures/launching-apps.png' "
+"md5='2e9b65079ed7c034e00db3b71b9897d3'"
+
+#: C/launch-apps.page:17(info/title)
+msgctxt "link:trail"
+msgid "Launching applications"
+msgstr ""
+
+#: C/launch-apps.page:21(page/title)
+msgid "Launching applications"
+msgstr ""
+
+#: C/launch-apps.page:28(section/title)
+msgid "Launching applications with the mouse"
+msgstr ""
+
+#: C/launch-apps.page:31(item/p)
+msgid ""
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen to show the <gui>Activities Overview</gui>."
+msgstr ""
+
+#: C/launch-apps.page:33(item/p)
+msgid ""
+"Click the <gui>Show Applications</gui> item that is shown at the bottom of "
+"the bar on the left-hand side of the screen."
+msgstr ""
+
+#: C/launch-apps.page:35(item/p)
+msgid ""
+"A list of applications is shown. Click the application you want to run, for "
+"example, Help."
+msgstr ""
+
+#: C/launch-apps.page:42(section/title)
+msgid "Launching applications with the keyboard"
+msgstr ""
+
+#: C/launch-apps.page:45(item/p)
+msgid ""
+"Open the <gui>Activities Overview</gui> by pressing the <key>Super </key> "
+"key."
+msgstr ""
+
+#: C/launch-apps.page:47(item/p)
+msgid ""
+"Start typing the name of the application that you want to launch. Searching "
+"for the application begins instantly."
+msgstr ""
+
+#: C/launch-apps.page:49(item/p)
+msgid ""
+"Once the icon of the application is shown and selected, press <key> Enter</"
+"key> to launch the application."
+msgstr ""
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/move-windows.page:14(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-windows-and-workspaces.webm' "
+"md5='5763ade4a7db247fe829c21a1fe7e049'"
+msgstr ""
+"external ref='figures/gnome-windows-and-workspaces.webm' "
+"md5='5763ade4a7db247fe829c21a1fe7e049'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/move-windows.page:15(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/windows-and-workspaces.png' "
+"md5='e878f13748263291f86d76d719a25a4e'"
+msgstr ""
+"external ref='figures/windows-and-workspaces.png' "
+"md5='e878f13748263291f86d76d719a25a4e'"
+
+#: C/move-windows.page:9(info/title)
+msgctxt "link:trail"
+msgid "Use workspaces and windows"
+msgstr ""
+
+#: C/move-windows.page:12(page/title)
+msgid "Use workspaces and windows"
+msgstr ""
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/online-accounts.page:15(media)
+msgctxt "_"
+msgid "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
+msgstr "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/online-accounts.page:21(media)
+msgctxt "_"
+msgid "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
+msgstr "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/online-accounts.page:26(media)
+msgctxt "_"
+msgid "external ref='goa3.svg' md5='c41a1866aae0edf70bbbef40e8839412'"
+msgstr "external ref='goa3.svg' md5='c41a1866aae0edf70bbbef40e8839412'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/online-accounts.page:30(media)
+msgctxt "_"
+msgid "external ref='goa4.svg' md5='06456a7e551e07e2344b11751d2d782b'"
+msgstr "external ref='goa4.svg' md5='06456a7e551e07e2344b11751d2d782b'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/online-accounts.page:35(media)
+msgctxt "_"
+msgid "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
+msgstr "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
+
+#: C/online-accounts.page:9(info/title)
+msgctxt "link:trail"
+msgid "Connect to online accounts"
+msgstr ""
+
+#: C/online-accounts.page:12(page/title)
+msgid "Connect to online accounts"
+msgstr ""
+
+#: C/online-accounts.page:17(item/p)
+msgid "Click on the <gui>User Menu</gui> in the <gui>Top Bar</gui>."
+msgstr ""
+
+#: C/online-accounts.page:18(item/p)
+msgid "Select the <gui>Settings</gui> item."
+msgstr ""
+
+#: C/online-accounts.page:23(item/p)
+msgid "Click on the <gui>Add an online account</gui> button."
+msgstr ""
+
+#: C/online-accounts.page:25(note/p)
+msgid ""
+"If you have already had an account set up in the past, click the <gui>+</"
+"gui> button on the bottom of the sidebar list to add another."
+msgstr ""
+
+#: C/online-accounts.page:28(item/p)
+msgid ""
+"Select the type of online account by clicking on it. A sign in dialog will "
+"pop up, that varies depending on the type of account."
+msgstr ""
+
+#: C/online-accounts.page:32(item/p)
+msgid ""
+"For a majority of online accounts, you are required to grant access to the "
+"service in the next step after a successful authorization."
+msgstr ""
+
+#: C/online-accounts.page:33(item/p)
+msgid ""
+"For a google account it is a matter of clicking on the <gui>Grant access</"
+"gui> button."
+msgstr ""
+
+#: C/online-accounts.page:37(item/p)
+msgid ""
+"Many accounts allow you to customize what sort of services you'd like to be "
+"using. If you do not wish to use a particular service, disable it with the "
+"<gui>on/off switch</gui> on the right."
+msgstr ""
+
+#: C/online.page:9(info/title)
+msgctxt "link:trail"
+msgid "Going online"
+msgstr ""
+
+#: C/online.page:13(page/title)
+msgid "Going online"
+msgstr ""
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/responding-to-messages.page:21(media)
+msgctxt "_"
+msgid "external ref='figures/responding-to-messages.webm' md5='__failed__'"
+msgstr "external ref='figures/responding-to-messages.webm' md5='__failed__'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/responding-to-messages.page:22(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/responding-to-messages.png' "
+"md5='5ee2c571e1162775974aa9f1addbbc87'"
+msgstr ""
+"external ref='figures/responding-to-messages.png' "
+"md5='5ee2c571e1162775974aa9f1addbbc87'"
+
+#: C/responding-to-messages.page:16(info/title)
+msgctxt "link:trail"
+msgid "Responding to messages"
+msgstr ""
+
+#: C/responding-to-messages.page:19(page/title)
+msgid "Responding to messages"
+msgstr ""
+
+#: C/responding-to-messages.page:26(section/title)
+msgid "Responding to a chat message with the mouse"
+msgstr ""
+
+#: C/responding-to-messages.page:29(item/p)
+msgid ""
+"Move your mouse to the message tray that can found at the bottom of the "
+"screen and click the chat message."
+msgstr ""
+
+#: C/responding-to-messages.page:31(item/p)
+#: C/responding-to-messages.page:66(item/p)
+msgid ""
+"Start typing your reply and when finished, press <key>Enter</key> to send "
+"the reply."
+msgstr ""
+
+#: C/responding-to-messages.page:33(item/p)
+#: C/responding-to-messages.page:52(item/p)
+msgid ""
+"To close the chat message, click the close button at the top right corner of "
+"the chat message."
+msgstr ""
+
+#: C/responding-to-messages.page:40(section/title)
+msgid "Delayed response to a chat message using the mouse"
+msgstr ""
+
+#: C/responding-to-messages.page:43(item/p)
+msgid ""
+"When a chat message appears in the message tray and you do not move your "
+"mouse to the message tray, the message disappears after a while."
+msgstr ""
+
+#: C/responding-to-messages.page:46(item/p)
+msgid ""
+"To get back to your unanswered message, move your mouse to the message tray "
+"at the very bottom of the screen."
+msgstr ""
+
+#: C/responding-to-messages.page:48(item/p)
+msgid ""
+"When the message tray appears, click a small image that represents the "
+"person who sent you the message."
+msgstr ""
+
+#: C/responding-to-messages.page:50(item/p)
+msgid ""
+"When the chat message is shown, start typing your reply and when finished, "
+"press <key>Enter</key> to send the reply."
+msgstr ""
+
+#: C/responding-to-messages.page:59(section/title)
+msgid "Delayed response to a chat message using the keyboard"
+msgstr ""
+
+#: C/responding-to-messages.page:61(item/p)
+msgid ""
+"To get back to your unanswered chat messages, press <keyseq><key> Super</"
+"key><key>M</key></keyseq> to display the message tray that contains the "
+"messages."
+msgstr ""
+
+#: C/responding-to-messages.page:64(item/p)
+msgid ""
+"Use the arrow keys to select a small image representing the person you want "
+"to reply to, and press <key>Enter</key>."
+msgstr ""
+
+#: C/responding-to-messages.page:68(item/p)
+msgid "Press <key>Esc</key> to close the chat message."
+msgstr ""
+
+#: C/search1.svg:175(text/tspan) C/search2.svg:97(text/tspan)
+#, no-wrap
+msgid "14:30"
+msgstr ""
+
+#: C/search1.svg:187(text/tspan)
+#, no-wrap
+msgid "just type"
+msgstr ""
+
+#: C/search2.svg:106(text/tspan)
+#, no-wrap
+msgid "con"
+msgstr ""
+
+#: C/search2.svg:170(text/tspan)
+#, no-wrap
+msgid "Accounts"
+msgstr ""
+
+#: C/search2.svg:171(text/tspan)
+#, no-wrap
+msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+msgstr ""
+
+#: C/search2.svg:172(text/tspan)
+#, no-wrap
+msgid "config"
+msgstr ""
+
+#: C/search2.svg:173(text/tspan) C/search2.svg:176(text/tspan)
+#, no-wrap
+msgid "fontconfig"
+msgstr ""
+
+#: C/search2.svg:174(text/tspan)
+#, no-wrap
+msgid "system-config-http.zip"
+msgstr ""
+
+#: C/search2.svg:175(text/tspan)
+#, no-wrap
+msgid "Icon guidelines"
+msgstr ""
+
+#: C/search2.svg:193(text/tspan)
+#, no-wrap
+msgid "Secure Linux Containers"
+msgstr ""
+
+#: C/search2.svg:194(text/tspan)
+#, no-wrap
+msgid "Developer Conference 2012"
+msgstr ""
+
+#: C/search2.svg:218(text/tspan)
+#, no-wrap
+msgid "Firefox"
+msgstr ""
+
+#: C/search-settings.svg:122(text/tspan)
+#, no-wrap
+msgid "Search"
+msgstr ""
+
+#: C/search-settings.svg:133(text/tspan)
+#, no-wrap
+msgid "Files"
+msgstr ""
+
+#: C/search-settings.svg:134(text/tspan)
+#, no-wrap
+msgid "Enabled"
+msgstr ""
+
+#: C/search-settings.svg:249(text/tspan) C/web-browser2.svg:151(text/tspan)
+#, no-wrap
+msgid "Web"
+msgstr ""
+
+#: C/search-settings.svg:250(text/tspan)
+#, no-wrap
+msgid "Photos"
+msgstr ""
+
+#: C/search-settings.svg:251(text/tspan)
+#, no-wrap
+msgid "Music"
+msgstr ""
+
+#: C/search-settings.svg:278(text/tspan)
+#, no-wrap
+msgid "OFF"
+msgstr ""
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/switching-tasks.page:21(media)
+msgctxt "_"
+msgid "external ref='figures/task-switching.webm' md5='__failed__'"
+msgstr "external ref='figures/task-switching.webm' md5='__failed__'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/switching-tasks.page:22(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/task-switching.png' "
+"md5='7c8d4925fd55a1eaf200582f3cbc3a76'"
+msgstr ""
+"external ref='figures/task-switching.png' "
+"md5='7c8d4925fd55a1eaf200582f3cbc3a76'"
+
+#: C/switching-tasks.page:15(info/title)
+msgctxt "link:trail"
+msgid "Switching tasks"
+msgstr ""
+
+#: C/switching-tasks.page:19(page/title)
+#: C/switching-tasks.page:26(section/title)
+msgid "Switching tasks"
+msgstr ""
+
+#: C/switching-tasks.page:29(item/p)
+msgid ""
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen to show the <gui>Activities Overview</gui> where you can see "
+"the currently running tasks displayed as small windows."
+msgstr ""
+
+#: C/switching-tasks.page:32(item/p)
+msgid "Click a window to switch the task."
+msgstr ""
+
+#: C/switching-tasks.page:38(section/title)
+msgid "Tiling windows"
+msgstr ""
+
+#: C/switching-tasks.page:42(item/p)
+msgid ""
+"To maximize a window along a side of the screen, grab the window's titlebar "
+"and drag it to the left or right side of the screen."
+msgstr ""
+
+#: C/switching-tasks.page:44(item/p)
+msgid ""
+"When half of the screen is highlighted, drop the window to maximize it along "
+"the selected side of the screen."
+msgstr ""
+
+#: C/switching-tasks.page:46(item/p)
+msgid ""
+"To maximize two windows side-by-side, grab the titlebar of the second window "
+"and drag it to the opposite side of the screen. When half of the screen is "
+"highlighted, drop the window."
+msgstr ""
+
+#: C/switching-tasks.page:54(section/title)
+msgid "Switching windows through search"
+msgstr ""
+
+#: C/switching-tasks.page:58(item/p)
+msgid "Push the <key>Super</key> key to enter the overview."
+msgstr ""
+
+#: C/switching-tasks.page:59(item/p)
+msgid "Start typing the name of the application immediately."
+msgstr ""
+
+#: C/switching-tasks.page:60(item/p)
+msgid ""
+"When the application icon appears as a first result, hit <key>Enter</key> to "
+"activate its last used window."
+msgstr ""
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/use-search.page:16(media)
+msgctxt "_"
+msgid "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
+msgstr "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/use-search.page:23(media)
+msgctxt "_"
+msgid "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
+msgstr "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/use-search.page:36(media)
+msgctxt "_"
+msgid ""
+"external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
+msgstr ""
+"external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
+
+#: C/use-search.page:9(info/title)
+msgctxt "link:trail"
+msgid "Use the system search"
+msgstr ""
+
+#: C/use-search.page:12(page/title)
+msgid "Use the system search"
+msgstr ""
+
+#: C/use-search.page:19(item/p)
+msgid ""
+"To initiate search, all you need to do at this point is to start typing. "
+"GNOME will start showing results immediately."
+msgstr ""
+
+#: C/use-search.page:20(item/p)
+msgid ""
+"The very first result is always highlighted, allowing you to immediately "
+"follow the search query with <key>Enter</key> to activate it."
+msgstr ""
+
+#: C/use-search.page:25(item/p)
+msgid "FIXME"
+msgstr ""
+
+#: C/use-search.page:29(section/title)
+msgid "Types of results"
+msgstr ""
+
+#: C/use-search.page:30(section/p)
+msgid ""
+"System search aggregates results from various applications. The first group "
+"of results are application launchers. Activating a launcher will start an "
+"application."
+msgstr ""
+
+#: C/use-search.page:31(section/p)
+msgid ""
+"Other types of results might include <app>settings</app>, <app>contacts</"
+"app> or <app>documents</app>. Each type of result is preceded with an icon "
+"of the application that provided the result (apart from the application "
+"launchers at the top). Only the best matches are presented in the overview, "
+"so if you want more scope for your search, you can click or use the arrow "
+"keys to navigate to the applucation icon on the left to take you to the "
+"application itself. As soon as the associated application starts, your "
+"performed query will be perfomed in the application."
+msgstr ""
+
+#: C/use-search.page:35(section/title)
+msgid "Search Settings"
+msgstr ""
+
+#: C/use-search.page:37(section/p)
+msgid ""
+"You can configure what applications may display results in the overview by "
+"going to the <guiseq><gui>Settings</gui><gui>Search</gui></guiseq> panel."
+msgstr ""
+
+#: C/web-browser2.svg:88(text/tspan)
+#, no-wrap
+msgid "gnome"
+msgstr ""
+
+#: C/web-browser2.svg:92(text/tspan)
+#, no-wrap
+msgid "Planet Gnome"
+msgstr ""
+
+#: C/web-browser2.svg:93(text/tspan)
+#, no-wrap
+msgid "GNOME 3"
+msgstr ""
+
+#: C/web-browser2.svg:94(text/tspan)
+#, no-wrap
+msgid "http://planet.gnome.org"
+msgstr ""
+
+#: C/web-browser2.svg:95(text/tspan)
+#, no-wrap
+msgid "http://gnome.org"
+msgstr ""
+
+#: C/web-browser2.svg:189(text/tspan)
+#, no-wrap
+msgid "Planet GNOME"
+msgstr ""

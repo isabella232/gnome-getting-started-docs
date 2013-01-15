@@ -2,7 +2,7 @@
 
 HELP_ID = getting-started
 
-HELP_LINGUAS = cs
+HELP_LINGUAS = cs es
 
 HELP_MEDIA = \
 	figures/changing-wallpaper.png \
