@@ -10,7 +10,30 @@
     <ui:thumb src="figures/online.png"/>
   </info>
 
-  <title>Going online</title>
+  <title>Going Online</title>
+  <p>The status of your network connection is indicated in the top bar, next to your name/chat status.</p>
+  
+  <section id="going-online-wired">
+    <title>Wired Connections</title>
+    <media type="image" src="go-online1.svg" width="100%" />
+    <steps>
+      <item><p>The status icon on the top right corner indicates you are off-line.</p></item>
+      <item><p>Clicking on the icon may reveal the reason why. It may be that a wire is disconnected, the machine is in an <em>airplane mode</em> or there are no wireless networks available.</p></item>
+    </steps>
 
-  <p>Stay tuned...</p>
+    <media type="image" src="go-online2.svg" width="100%" />
+    <steps style="continues">
+      <item><p>In case of a wired connection, simply connecting the ethernet cable should trigger automatic network configuration. This is indicated by the tripple dot icon in the top bar.</p>
+      <p>Once the the configuration succeeds, the status icon changes to the networked computer symbol.</p></item>
+    </steps>
+    
+  </section>
+  <section id="going-online-other">
+    <title>Other Types of Connections</title>
+    <media type="image" src="go-online3.svg" width="100%" />
+    
+    <p>FIXME: links to existing wireless/broadband connection documents.</p>
+    
+  </section>  
 </page>
+
