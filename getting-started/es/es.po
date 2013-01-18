@@ -4,13 +4,14 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Nicolás Satragno <nsatragno@gnome.org>, 2013., 2013.
+# 
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2013., 2013.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-01-15 18:32+0000\n"
-"PO-Revision-Date: 2013-01-16 11:08+0100\n"
+"POT-Creation-Date: 2013-01-16 10:11+0000\n"
+"PO-Revision-Date: 2013-01-18 10:15+0100\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -246,11 +247,11 @@ msgstr "Eres muy amable."
 
 #: C/legal.xml:3(p/link)
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
-msgstr ""
+msgstr "Creative Commons Atribución-CompartirIgual 3.0 Unported"
 
 #: C/legal.xml:3(license/p)
 msgid "This work is licensed under a <_:link-1/>."
-msgstr ""
+msgstr "Este trabajo se encuentra bajo una licencia <_:link-1/>."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -281,11 +282,11 @@ msgstr "external ref='web-browser2.svg' md5='b91c538430337333c31915e8827ce028'"
 #: C/browse-web.page:10(info/title)
 msgctxt "link:trail"
 msgid "Browse the web"
-msgstr ""
+msgstr "Navegar por la Web"
 
 #: C/browse-web.page:13(page/title)
 msgid "Browse the web"
-msgstr ""
+msgstr "Navegar por la Web"
 
 #: C/browse-web.page:18(item/p) C/use-search.page:18(item/p)
 msgid ""
@@ -293,20 +294,27 @@ msgid ""
 "left edge of the primary screen. Alternatively you can use the <key>Super</"
 "key> key or the FIXME gesture."
 msgstr ""
+"Entre en la <gui>Vista de actividades</gui> deslizando el cursor hacia el "
+"margen superior izquierdo de la pantalla principal. Si no, puede usar la "
+"tecla <key>Super</key> o el gesto FIXME."
 
 #: C/browse-web.page:19(item/p)
 msgid "Select the <app>Web</app> application icon from the dash on the left."
 msgstr ""
+"Seleccione el icono de aplicación <app>Web</app> desde el tablero que se "
+"encuentra a la izquierda."
 
 #: C/browse-web.page:21(note/p)
 msgid ""
 "Alternatively you can use the <link xref=\"use-search\">search</link> "
 "functionality to launch <app>Web</app>."
 msgstr ""
+"Como alternativa puede utilizar la función </link>buscar<link xref=\"use-"
+"search\"> para lanzar <app>Web</app>."
 
 #: C/browse-web.page:25(item/p)
 msgid "Click on the title of a page to reveal the address entry."
-msgstr ""
+msgstr "Pulse en el título de una página para revelar la entrada de dirección."
 
 #: C/browse-web.page:26(item/p)
 msgid ""
@@ -315,10 +323,15 @@ msgid ""
 "browsing history and bookmark matches are displayed below the entry. You can "
 "quickly select appropriate result by pushing the <key>down</key> arrow key."
 msgstr ""
+"Al introducir texto en la entrada de dirección se realiza una búsqueda de "
+"histórico y marcadores así que no es necesario ingresar una dirección web "
+"precisa (URL). Debajo de la entrada se visualizan las coincidencias de los "
+"marcadores y del histórico de navegación. Puede seleccionar rápidamente el "
+"resultado adecuado pulsando la tecla de dirección <key>abajo</key>."
 
 #: C/browse-web.page:27(item/p)
 msgid "To confirm entry, push <key>Enter</key>."
-msgstr ""
+msgstr "Para confirmar la entrada, pulse <key>Intro</key>."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
