@@ -28,6 +28,9 @@ HELP_FILES = \
 	goa3.svg \
 	goa4.svg \
 	goa5.svg \
+	go-online1.svg \
+	go-online2.svg \
+	go-online3.svg \
 	index.page \
 	install-software.page \
 	launch-apps.page \

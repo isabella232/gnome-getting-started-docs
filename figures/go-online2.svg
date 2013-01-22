@@ -15,7 +15,7 @@
    height="350"
    id="svg10075"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48+devel r11962"
    sodipodi:docname="go-online2.svg">
   <defs
      id="defs10077">
@@ -628,15 +628,6 @@
          id="rect24973-5"
          style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </clipPath>
-    <filter
-       id="filter24966-4"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur24968-1"
-         stdDeviation="0.9225"
-         inkscape:collect="always" />
-    </filter>
     <clipPath
        id="clipPath6279-6-2-7">
       <rect
@@ -942,7 +933,7 @@
      inkscape:showpageshadow="false"
      inkscape:window-width="1664"
      inkscape:window-height="1105"
-     inkscape:window-x="1575"
+     inkscape:window-x="1600"
      inkscape:window-y="200"
      inkscape:window-maximized="0"
      width="0px"
@@ -967,7 +958,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -996,7 +987,7 @@
        transform="translate(-51,29.63783)">
       <path
          transform="translate(2,453.36217)"
-         d="m 137,278 c 0,9.38884 -7.61116,17 -17,17 -9.38884,0 -17,-7.61116 -17,-17 0,-9.38884 7.61116,-17 17,-17 9.38884,0 17,7.61116 17,17 z"
+         d="m 137,278 c 0,9.38884 -7.61116,17 -17,17 -9.38884,0 -17,-7.61116 -17,-17 0,-9.38884 7.61116,-17 17,-17 C 129.38884,261 137,268.61116 137,278 Z"
          sodipodi:ry="17"
          sodipodi:rx="17"
          sodipodi:cy="278"
@@ -1026,11 +1017,11 @@
            sodipodi:linespacing="125%"
            id="text14063-1"
            y="764.57599"
-           x="480.59875"
-           style="font-size:34.51727295px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+           x="331.59875"
+           style="font-size:34.51750183px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
            xml:space="preserve"><tspan
              y="764.57599"
-             x="480.59875"
+             x="331.59875"
              id="tspan14065-9"
              sodipodi:role="line">John Doe</tspan></text>
         <g
@@ -1188,7 +1179,7 @@
            style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0pt;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;text-anchor:start;opacity:0.35;color:#bebebe;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;font-family:Bitstream Vera Sans" />
         <path
            transform="matrix(1.5,0,0,1.5,-19.0002,-86.5)"
-           d="m 29,209 c 0,0.55228 -0.447715,1 -1,1 -0.552285,0 -1,-0.44772 -1,-1 0,-0.55228 0.447715,-1 1,-1 0.552285,0 1,0.44772 1,1 z"
+           d="m 29,209 c 0,0.55228 -0.447715,1 -1,1 -0.552285,0 -1,-0.44772 -1,-1 0,-0.55228 0.447715,-1 1,-1 C 28.552285,208 29,208.44772 29,209 Z"
            sodipodi:ry="1"
            sodipodi:rx="1"
            sodipodi:cy="209"
@@ -1204,11 +1195,11 @@
            sodipodi:cy="209"
            sodipodi:rx="1"
            sodipodi:ry="1"
-           d="m 29,209 c 0,0.55228 -0.447715,1 -1,1 -0.552285,0 -1,-0.44772 -1,-1 0,-0.55228 0.447715,-1 1,-1 0.552285,0 1,0.44772 1,1 z"
+           d="m 29,209 c 0,0.55228 -0.447715,1 -1,1 -0.552285,0 -1,-0.44772 -1,-1 0,-0.55228 0.447715,-1 1,-1 C 28.552285,208 29,208.44772 29,209 Z"
            transform="matrix(1.5,0,0,1.5,-15.0002,-86.5)" />
         <path
            transform="matrix(1.5,0,0,1.5,-11.00025,-86.5)"
-           d="m 29,209 c 0,0.55228 -0.447715,1 -1,1 -0.552285,0 -1,-0.44772 -1,-1 0,-0.55228 0.447715,-1 1,-1 0.552285,0 1,0.44772 1,1 z"
+           d="m 29,209 c 0,0.55228 -0.447715,1 -1,1 -0.552285,0 -1,-0.44772 -1,-1 0,-0.55228 0.447715,-1 1,-1 C 28.552285,208 29,208.44772 29,209 Z"
            sodipodi:ry="1"
            sodipodi:rx="1"
            sodipodi:cy="209"
@@ -1226,14 +1217,14 @@
          style="opacity:0.2">
         <text
            xml:space="preserve"
-           style="font-size:34.51727295px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-           x="480.59875"
+           style="font-size:34.51750183px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+           x="331.59875"
            y="764.57599"
            id="text27237"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan27239"
-             x="480.59875"
+             x="331.59875"
              y="764.57599">John Doe</tspan></text>
         <g
            id="g27241"
