@@ -3,24 +3,25 @@
 # This file is distributed under the same license as the gnome-getting-started-docs package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-# Nicolás Satragno <nsatragno@gnome.org>, 2013., 2013.
 # 
 # 
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2013., 2013.
+# 
+# Nicolás Satragno <nsatragno@gnome.org>, 2013., 2013.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-01-18 17:23+0000\n"
-"PO-Revision-Date: 2013-01-20 11:29+0100\n"
-"Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
+"POT-Creation-Date: 2013-01-22 09:24+0000\n"
+"PO-Revision-Date: 2013-01-21 22:34-0300\n"
+"Last-Translator: Nicolás Satragno <nsatragno@gnome.org>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Gtranslator 2.91.5\n"
+"X-Generator: Gtranslator 2.91.6\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -160,8 +161,9 @@ msgstr "Área de trabajo de arriba"
 msgid "Right half of screen"
 msgstr "Mitad derecha de la pantalla"
 
-#: C/animation.xml:16(titles/t) C/search1.svg:177(text/tspan)
-#: C/search2.svg:99(text/tspan) C/web-browser1.svg:106(text/tspan)
+#: C/animation.xml:16(titles/t) C/go-online1.svg:78(text/tspan)
+#: C/search1.svg:177(text/tspan) C/search2.svg:99(text/tspan)
+#: C/web-browser1.svg:106(text/tspan)
 #, no-wrap
 msgid "Activities"
 msgstr "Actividades"
@@ -199,7 +201,10 @@ msgid "Just start typing…"
 msgstr "Solo comience a escribir…"
 
 #: C/animation.xml:25(titles/t) C/goa1.svg:42(text/tspan)
-#: C/goa1.svg:69(text/tspan) C/search1.svg:174(text/tspan)
+#: C/goa1.svg:69(text/tspan) C/go-online1.svg:76(text/tspan)
+#: C/go-online1.svg:87(text/tspan) C/go-online1.svg:153(text/tspan)
+#: C/go-online2.svg:45(text/tspan) C/go-online2.svg:76(text/tspan)
+#: C/go-online3.svg:135(text/tspan) C/search1.svg:174(text/tspan)
 #: C/search2.svg:96(text/tspan)
 #, no-wrap
 msgid "John Doe"
@@ -262,10 +267,10 @@ msgstr "Este trabajo se encuentra bajo una licencia <_:link-1/>."
 #, fuzzy
 #| msgctxt "_"
 #| msgid ""
-#| "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
+#| "external ref='web-browser1.svg' md5='380ae6420b6eeef748add9fa8d3ebc19'"
 msgctxt "_"
-msgid "external ref='web-browser1.svg' md5='380ae6420b6eeef748add9fa8d3ebc19'"
-msgstr "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
+msgid "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
+msgstr "external ref='web-browser1.svg' md5='380ae6420b6eeef748add9fa8d3ebc19'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -275,10 +280,10 @@ msgstr "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
 #, fuzzy
 #| msgctxt "_"
 #| msgid ""
-#| "external ref='web-browser2.svg' md5='b91c538430337333c31915e8827ce028'"
+#| "external ref='web-browser2.svg' md5='93bfea229039508aa26d81ebfb372130'"
 msgctxt "_"
-msgid "external ref='web-browser2.svg' md5='93bfea229039508aa26d81ebfb372130'"
-msgstr "external ref='web-browser2.svg' md5='b91c538430337333c31915e8827ce028'"
+msgid "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
+msgstr "external ref='web-browser2.svg' md5='93bfea229039508aa26d81ebfb372130'"
 
 #: C/browse-web.page:10(info/title)
 msgctxt "link:trail"
@@ -430,25 +435,29 @@ msgstr "Permanezca conectado…"
 
 #: C/goa1.svg:20(Work/format) C/goa2.svg:29(Work/format)
 #: C/goa3.svg:29(Work/format) C/goa4.svg:23(Work/format)
-#: C/goa5.svg:20(Work/format) C/search1.svg:75(Work/format)
-#: C/search2.svg:77(Work/format) C/search-settings.svg:83(Work/format)
-#: C/web-browser1.svg:92(Work/format) C/web-browser2.svg:37(Work/format)
+#: C/goa5.svg:20(Work/format) C/go-online1.svg:57(Work/format)
+#: C/go-online2.svg:29(Work/format) C/go-online3.svg:59(Work/format)
+#: C/search1.svg:75(Work/format) C/search2.svg:77(Work/format)
+#: C/search-settings.svg:83(Work/format) C/web-browser1.svg:92(Work/format)
+#: C/web-browser2.svg:37(Work/format)
 msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
-#: C/goa1.svg:60(text/tspan) C/search1.svg:87(text/tspan)
+#: C/goa1.svg:60(text/tspan) C/go-online1.svg:69(text/tspan)
+#: C/go-online3.svg:72(text/tspan) C/search1.svg:87(text/tspan)
 #: C/web-browser1.svg:104(text/tspan)
 #, no-wrap
 msgid "1"
 msgstr "1"
 
-#: C/goa1.svg:64(text/tspan) C/search2.svg:89(text/tspan)
-#: C/web-browser1.svg:137(text/tspan)
+#: C/goa1.svg:64(text/tspan) C/go-online1.svg:120(text/tspan)
+#: C/search2.svg:89(text/tspan) C/web-browser1.svg:137(text/tspan)
 #, no-wrap
 msgid "2"
 msgstr "2"
 
-#: C/goa2.svg:41(text/tspan) C/web-browser2.svg:100(text/tspan)
+#: C/goa2.svg:41(text/tspan) C/go-online2.svg:41(text/tspan)
+#: C/web-browser2.svg:100(text/tspan)
 #, no-wrap
 msgid "3"
 msgstr "3"
@@ -599,21 +608,74 @@ msgstr "Documentos"
 
 #: C/goa5.svg:107(text/tspan) C/goa5.svg:108(text/tspan)
 #: C/goa5.svg:109(text/tspan) C/goa5.svg:110(text/tspan)
-#: C/goa5.svg:111(text/tspan) C/search-settings.svg:140(text/tspan)
-#: C/search-settings.svg:257(text/tspan) C/search-settings.svg:264(text/tspan)
-#: C/search-settings.svg:271(text/tspan)
+#: C/goa5.svg:111(text/tspan) C/go-online3.svg:91(text/tspan)
+#: C/search-settings.svg:140(text/tspan) C/search-settings.svg:257(text/tspan)
+#: C/search-settings.svg:264(text/tspan) C/search-settings.svg:271(text/tspan)
 #, no-wrap
 msgid "ON"
 msgstr "I"
 
+#: C/go-online1.svg:77(text/tspan) C/search1.svg:175(text/tspan)
+#: C/search2.svg:97(text/tspan)
+#, no-wrap
+msgid "14:30"
+msgstr ""
+
+#: C/go-online1.svg:124(text/tspan) C/go-online3.svg:77(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "Settings"
+msgid "Network Settings"
+msgstr "Configuración"
+
+#: C/go-online1.svg:125(text/tspan) C/go-online3.svg:78(text/tspan)
+#, no-wrap
+msgid "Wired"
+msgstr ""
+
+#: C/go-online1.svg:126(text/tspan) C/go-online3.svg:79(text/tspan)
+#, no-wrap
+msgid "Cable unplugged"
+msgstr ""
+
+#: C/go-online1.svg:127(text/tspan) C/go-online3.svg:80(text/tspan)
+#, no-wrap
+msgid "Mobile broadband"
+msgstr ""
+
+#: C/go-online1.svg:129(text/tspan) C/go-online1.svg:138(text/tspan)
+#: C/go-online3.svg:82(text/tspan) C/search-settings.svg:278(text/tspan)
+#, no-wrap
+msgid "OFF"
+msgstr ""
+
+#: C/go-online1.svg:136(text/tspan) C/go-online3.svg:89(text/tspan)
+#, no-wrap
+msgid "Wi-Fi"
+msgstr ""
+
+#: C/go-online3.svg:112(text/tspan)
+#, no-wrap
+msgid "Wireless"
+msgstr ""
+
+#: C/go-online3.svg:113(text/tspan)
+#, no-wrap
+msgid "Private"
+msgstr ""
+
+#: C/go-online3.svg:114(text/tspan)
+#, no-wrap
+msgid "Weak"
+msgstr ""
+
 #: C/install-software.page:9(info/title)
 msgctxt "link:trail"
 msgid "Get additional applications"
-msgstr ""
+msgstr "Obtener aplicaciones adicionales"
 
 #: C/install-software.page:12(page/title)
 msgid "Get additional applications"
-msgstr ""
+msgstr "Obtener aplicaciones adicionales"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -631,55 +693,68 @@ msgstr ""
 #: C/launch-apps.page:17(info/title)
 msgctxt "link:trail"
 msgid "Launching applications"
-msgstr ""
+msgstr "Lanzar aplicaciones"
 
 #: C/launch-apps.page:21(page/title)
 msgid "Launching applications"
-msgstr ""
+msgstr "Lanzar aplicaciones"
 
 #: C/launch-apps.page:28(section/title)
 msgid "Launching applications with the mouse"
-msgstr ""
+msgstr "Lanzar aplicaciones con el ratón"
 
 #: C/launch-apps.page:31(item/p)
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen to show the <gui>Activities Overview</gui>."
 msgstr ""
+"Mueva el cursor del ratón hacia la esquina de <gui>Actividades</gui> en la "
+"esquina superior izquierda de la pantalla para mostrar la <gui>Vista de "
+"actividades</gui>."
 
 #: C/launch-apps.page:33(item/p)
 msgid ""
 "Click the <gui>Show Applications</gui> item that is shown at the bottom of "
 "the bar on the left-hand side of the screen."
 msgstr ""
+"Pulse el elemento <gui>Mostrar aplicaciones</gui> que aparece en la parte "
+"inferior de la barra que se encuentra en la parte izquierda de la pantalla."
 
 #: C/launch-apps.page:35(item/p)
 msgid ""
 "A list of applications is shown. Click the application you want to run, for "
 "example, Help."
 msgstr ""
+"Aparece una lista de aplicaciones. Pulse la aplicación que quiera ejecutar, "
+"por ejemplo, «Ayuda»."
 
 #: C/launch-apps.page:42(section/title)
 msgid "Launching applications with the keyboard"
-msgstr ""
+msgstr "Lanzar aplicaciones con el teclado"
 
 #: C/launch-apps.page:45(item/p)
 msgid ""
 "Open the <gui>Activities Overview</gui> by pressing the <key>Super </key> "
 "key."
 msgstr ""
+"Abra la <gui>Vista de actividades</gui> presionando la tecla <key>Super</"
+"key>."
 
 #: C/launch-apps.page:47(item/p)
 msgid ""
 "Start typing the name of the application that you want to launch. Searching "
 "for the application begins instantly."
 msgstr ""
+"Comience a escribir el nombre de la aplicación que desee lanzar. La búsqueda "
+"de la aplicación comienza al instante."
 
 #: C/launch-apps.page:49(item/p)
 msgid ""
 "Once the icon of the application is shown and selected, press <key> Enter</"
 "key> to launch the application."
 msgstr ""
+"Una vez que aparezca y seleccione el icono de la aplicación, presione "
+"<key>Intro</key> para lanzar la aplicación."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -710,11 +785,11 @@ msgstr ""
 #: C/move-windows.page:9(info/title)
 msgctxt "link:trail"
 msgid "Use workspaces and windows"
-msgstr ""
+msgstr "Utilizar áreas de trabajo y ventanas"
 
 #: C/move-windows.page:12(page/title)
 msgid "Use workspaces and windows"
-msgstr ""
+msgstr "Utilizar áreas de trabajo y ventanas"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -723,10 +798,10 @@ msgstr ""
 #: C/online-accounts.page:15(media)
 #, fuzzy
 #| msgctxt "_"
-#| msgid "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
+#| msgid "external ref='goa3.svg' md5='4f692f3914bedbbbcedc39ee958d863d'"
 msgctxt "_"
-msgid "external ref='goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
-msgstr "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
+msgid "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
+msgstr "external ref='goa3.svg' md5='4f692f3914bedbbbcedc39ee958d863d'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -735,10 +810,10 @@ msgstr "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
 #: C/online-accounts.page:21(media)
 #, fuzzy
 #| msgctxt "_"
-#| msgid "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
+#| msgid "external ref='goa3.svg' md5='4f692f3914bedbbbcedc39ee958d863d'"
 msgctxt "_"
-msgid "external ref='goa2.svg' md5='0786fcd237df1588330b4489d7dedda6'"
-msgstr "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
+msgid "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
+msgstr "external ref='goa3.svg' md5='4f692f3914bedbbbcedc39ee958d863d'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -747,10 +822,10 @@ msgstr "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
 #: C/online-accounts.page:26(media)
 #, fuzzy
 #| msgctxt "_"
-#| msgid "external ref='goa3.svg' md5='c41a1866aae0edf70bbbef40e8839412'"
+#| msgid "external ref='goa3.svg' md5='4f692f3914bedbbbcedc39ee958d863d'"
 msgctxt "_"
-msgid "external ref='goa3.svg' md5='4f692f3914bedbbbcedc39ee958d863d'"
-msgstr "external ref='goa3.svg' md5='c41a1866aae0edf70bbbef40e8839412'"
+msgid "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
+msgstr "external ref='goa3.svg' md5='4f692f3914bedbbbcedc39ee958d863d'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -759,10 +834,10 @@ msgstr "external ref='goa3.svg' md5='c41a1866aae0edf70bbbef40e8839412'"
 #: C/online-accounts.page:30(media)
 #, fuzzy
 #| msgctxt "_"
-#| msgid "external ref='goa4.svg' md5='06456a7e551e07e2344b11751d2d782b'"
+#| msgid "external ref='goa4.svg' md5='c9bfae84d42320af64944d5df75e0454'"
 msgctxt "_"
-msgid "external ref='goa4.svg' md5='c9bfae84d42320af64944d5df75e0454'"
-msgstr "external ref='goa4.svg' md5='06456a7e551e07e2344b11751d2d782b'"
+msgid "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
+msgstr "external ref='goa4.svg' md5='c9bfae84d42320af64944d5df75e0454'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -771,43 +846,48 @@ msgstr "external ref='goa4.svg' md5='06456a7e551e07e2344b11751d2d782b'"
 #: C/online-accounts.page:35(media)
 #, fuzzy
 #| msgctxt "_"
-#| msgid "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
+#| msgid "external ref='goa5.svg' md5='5deb427a0f7621bf8e7fed469a92954b'"
 msgctxt "_"
-msgid "external ref='goa5.svg' md5='5deb427a0f7621bf8e7fed469a92954b'"
-msgstr "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
+msgid "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
+msgstr "external ref='goa5.svg' md5='5deb427a0f7621bf8e7fed469a92954b'"
 
 #: C/online-accounts.page:9(info/title)
 msgctxt "link:trail"
 msgid "Connect to online accounts"
-msgstr ""
+msgstr "Conectarse a cuentas en línea"
 
 #: C/online-accounts.page:12(page/title)
 msgid "Connect to online accounts"
-msgstr ""
+msgstr "Conectarse a cuentas en línea"
 
 #: C/online-accounts.page:17(item/p)
 msgid "Click on the <gui>User Menu</gui> in the <gui>Top Bar</gui>."
 msgstr ""
+"Pulse en el <gui>Menú de usuario</gui> en la <gui>Barra superior</gui>."
 
 #: C/online-accounts.page:18(item/p)
 msgid "Select the <gui>Settings</gui> item."
-msgstr ""
+msgstr "Seleccione el elemento <gui>Configuración</gui>."
 
 #: C/online-accounts.page:23(item/p)
 msgid "Click on the <gui>Add an online account</gui> button."
-msgstr ""
+msgstr "Pulse en el botón <gui>Agregar una cuenta en línea</gui>."
 
 #: C/online-accounts.page:25(note/p)
 msgid ""
 "If you have already had an account set up in the past, click the <gui>+</"
 "gui> button on the bottom of the sidebar list to add another."
 msgstr ""
+"Si ya había creado una cuenta, pulse el botón <gui>+</gui> que está en la "
+"parte inferior de la lista del menú lateral para agregar otra cuenta."
 
 #: C/online-accounts.page:28(item/p)
 msgid ""
 "Select the type of online account by clicking on it. A sign in dialog will "
 "pop up, that varies depending on the type of account."
 msgstr ""
+"Seleccione el tipo de cuenta en línea pulsando sobre ella. Aparecerá un "
+"diálogo de inicio de sesión, que varía según el tipo de cuenta."
 
 #: C/online-accounts.page:32(item/p)
 msgid ""
@@ -835,11 +915,10 @@ msgstr ""
 #: C/online.page:18(media)
 #, fuzzy
 #| msgctxt "_"
-#| msgid ""
-#| "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
+#| msgid "external ref='go-online3.svg' md5='0597f410d1f962b188f5b43702748eef'"
 msgctxt "_"
-msgid "external ref='go-online1.svg' md5='ddac4ecca7964af0be04aa749298fdad'"
-msgstr "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
+msgid "external ref='go-online1.svg' md5='7ffd688bc5d186f95bfcee55d4fa601b'"
+msgstr "external ref='go-online3.svg' md5='0597f410d1f962b188f5b43702748eef'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -848,10 +927,10 @@ msgstr "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
 #: C/online.page:24(media)
 #, fuzzy
 #| msgctxt "_"
-#| msgid "external ref='goa3.svg' md5='c41a1866aae0edf70bbbef40e8839412'"
+#| msgid "external ref='go-online2.svg' md5='2e158d1e7b1584084dd3e4a0e14a32ad'"
 msgctxt "_"
-msgid "external ref='go-online2.svg' md5='2e158d1e7b1584084dd3e4a0e14a32ad'"
-msgstr "external ref='goa3.svg' md5='c41a1866aae0edf70bbbef40e8839412'"
+msgid "external ref='go-online2.svg' md5='2c4ff4e5d03e2f03749a35ad909b3341'"
+msgstr "external ref='go-online2.svg' md5='2e158d1e7b1584084dd3e4a0e14a32ad'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -860,10 +939,10 @@ msgstr "external ref='goa3.svg' md5='c41a1866aae0edf70bbbef40e8839412'"
 #: C/online.page:33(media)
 #, fuzzy
 #| msgctxt "_"
-#| msgid "external ref='goa4.svg' md5='06456a7e551e07e2344b11751d2d782b'"
+#| msgid "external ref='go-online3.svg' md5='0597f410d1f962b188f5b43702748eef'"
 msgctxt "_"
-msgid "external ref='go-online3.svg' md5='0597f410d1f962b188f5b43702748eef'"
-msgstr "external ref='goa4.svg' md5='06456a7e551e07e2344b11751d2d782b'"
+msgid "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
+msgstr "external ref='go-online3.svg' md5='0597f410d1f962b188f5b43702748eef'"
 
 #: C/online.page:9(info/title)
 msgctxt "link:trail"
@@ -1017,11 +1096,6 @@ msgid ""
 "key><key>M</key></keyseq>."
 msgstr ""
 
-#: C/search1.svg:175(text/tspan) C/search2.svg:97(text/tspan)
-#, no-wrap
-msgid "14:30"
-msgstr ""
-
 #: C/search1.svg:187(text/tspan)
 #, no-wrap
 msgid "just type"
@@ -1105,11 +1179,6 @@ msgstr ""
 #: C/search-settings.svg:251(text/tspan)
 #, no-wrap
 msgid "Music"
-msgstr ""
-
-#: C/search-settings.svg:278(text/tspan)
-#, no-wrap
-msgid "OFF"
 msgstr ""
 
 #. This is a reference to an external file such as an image or video. When
@@ -1203,10 +1272,12 @@ msgstr ""
 #: C/use-search.page:16(media)
 #, fuzzy
 #| msgctxt "_"
-#| msgid "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
+#| msgid ""
+#| "external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
 msgctxt "_"
-msgid "external ref='search1.svg' md5='93b873a25fb241cc12505faadc209247'"
-msgstr "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
+msgid "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
+msgstr ""
+"external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -1217,7 +1288,7 @@ msgstr "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
 #| msgctxt "_"
 #| msgid "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
 msgctxt "_"
-msgid "external ref='search2.svg' md5='ca4b89e6098deda603a6463df5746eb3'"
+msgid "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
 msgstr "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
 
 #. This is a reference to an external file such as an image or video. When
@@ -1231,7 +1302,7 @@ msgstr "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
 #| "external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
 msgctxt "_"
 msgid ""
-"external ref='search-settings.svg' md5='c6a26d559bceaf4af7a18f0bf9e53372'"
+"external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
 msgstr ""
 "external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
 
@@ -1322,6 +1393,33 @@ msgstr ""
 #, no-wrap
 msgid "Planet GNOME"
 msgstr ""
+
+#~| msgctxt "_"
+#~| msgid "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
+#~ msgctxt "_"
+#~ msgid "external ref='goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
+#~ msgstr "external ref='goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
+
+#~| msgctxt "_"
+#~| msgid "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
+#~ msgctxt "_"
+#~ msgid "external ref='goa2.svg' md5='0786fcd237df1588330b4489d7dedda6'"
+#~ msgstr "external ref='goa2.svg' md5='0786fcd237df1588330b4489d7dedda6'"
+
+#~| msgctxt "_"
+#~| msgid ""
+#~| "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
+#~ msgctxt "_"
+#~ msgid "external ref='go-online1.svg' md5='ddac4ecca7964af0be04aa749298fdad'"
+#~ msgstr ""
+#~ "external ref='go-online1.svg' md5='ddac4ecca7964af0be04aa749298fdad'"
+
+#, fuzzy
+#~| msgctxt "_"
+#~| msgid "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
+#~ msgctxt "_"
+#~ msgid "external ref='search1.svg' md5='93b873a25fb241cc12505faadc209247'"
+#~ msgstr "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
 
 #~ msgctxt "_"
 #~ msgid "external ref='figures/responding-to-messages.webm' md5='__failed__'"
