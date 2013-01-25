@@ -31,7 +31,7 @@ def transcode(lang):
   transcodepath = "../getting-started/%s/figures/" % (lang)
   
   #print(transcodepath,webmfile,sndfile,framepath)
-  transcodecmd = "gst-launch-1.0 webmmux name=mux ! filesink location=\"%s/%s\"    file://%s ! decodebin ! audioconvert ! vorbisenc ! mux.     multifilesrc location=\"%s/%%04d.png\" index=1 caps=\"image/png,framerate=\(fraction\)24/1\" ! pngdec ! videoconvert ! videoscale ! videorate ! vp8enc threads=4 ! mux." % (transcodepath,webmfile,sndfile,framepath)
+  transcodecmd = "gst-launch-1.0 webmmux name=mux ! filesink location=\"%s/%s\"    file://%s ! decodebin ! audioconvert ! vorbisenc bitrate=128000 ! mux.     multifilesrc location=\"%s/%%04d.png\" index=1 caps=\"image/png,framerate=\(fraction\)24/1\" ! pngdec ! videoconvert ! videoscale ! videorate ! vp8enc threads=12 ! mux." % (transcodepath,webmfile,sndfile,framepath)
   if (not os.path.isfile(transcodepath+webmfile)):
     os.system(transcodecmd)
   else:
