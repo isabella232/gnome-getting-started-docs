@@ -7,13 +7,14 @@
 # 
 # 
 # Nicolás Satragno <nsatragno@gnome.org>, 2013., 2013.
+# 
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2013., 2013.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-01-24 09:47+0000\n"
-"PO-Revision-Date: 2013-01-24 10:50+0100\n"
+"POT-Creation-Date: 2013-01-25 17:21+0000\n"
+"PO-Revision-Date: 2013-01-25 18:23+0100\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -45,13 +46,17 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/index.page:16(media) C/launch-apps.page:23(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-launching-applications.webm' "
+#| "md5='8b54a111fb9bc4bfee5b48c4b671d3a1'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-launching-applications.webm' "
-"md5='8b54a111fb9bc4bfee5b48c4b671d3a1'"
+"md5='16609de3c9d4b91ba3e7a5785863a05a'"
 msgstr ""
 "external ref='figures/gnome-launching-applications.webm' "
-"md5='8b54a111fb9bc4bfee5b48c4b671d3a1'"
+"md5='16609de3c9d4b91ba3e7a5785863a05a'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -63,13 +68,17 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/index.page:23(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-task-switching.webm' "
+#| "md5='057631bece620e0d37e331434338a29f'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-task-switching.webm' "
-"md5='057631bece620e0d37e331434338a29f'"
+"md5='edf94b461a60c8683e2d64f778949739'"
 msgstr ""
 "external ref='figures/gnome-task-switching.webm' "
-"md5='057631bece620e0d37e331434338a29f'"
+"md5='edf94b461a60c8683e2d64f778949739'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -86,13 +95,17 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/index.page:29(media) C/responding-to-messages.page:21(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-responding-to-messages.webm' "
+#| "md5='4ea06e052676b574f114093ae0b936b1'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-responding-to-messages.webm' "
-"md5='4ea06e052676b574f114093ae0b936b1'"
+"md5='8f82d09463e5d8381b790cf94f4bfd00'"
 msgstr ""
 "external ref='figures/gnome-responding-to-messages.webm' "
-"md5='4ea06e052676b574f114093ae0b936b1'"
+"md5='8f82d09463e5d8381b790cf94f4bfd00'"
 
 #: C/index.page:8(info/desc) C/index.page:13(page/title)
 #: C/animation.xml:5(titles/t)
@@ -130,77 +143,81 @@ msgid "Responding to Messages"
 msgstr "Responder a los mensajes"
 
 #: C/animation.xml:8(titles/t)
+msgid "Switching Tasks"
+msgstr ""
+
+#: C/animation.xml:9(titles/t)
 msgid "Delayed Response"
 msgstr "Responder más tarde"
 
-#: C/animation.xml:9(titles/t)
+#: C/animation.xml:10(titles/t)
 msgid "Windows and Workspaces"
 msgstr "Ventanas y áreas de trabajo"
 
-#: C/animation.xml:10(titles/t)
+#: C/animation.xml:11(titles/t)
 msgid "Maximize"
 msgstr "Maximizar"
 
-#: C/animation.xml:11(titles/t)
+#: C/animation.xml:12(titles/t)
 msgid "Restore"
 msgstr "Restaurar"
 
-#: C/animation.xml:12(titles/t)
+#: C/animation.xml:13(titles/t)
 msgid "Left half of screen"
 msgstr "Mitad izquierda de la pantalla"
 
-#: C/animation.xml:13(titles/t)
+#: C/animation.xml:14(titles/t)
 msgid "Workspace down"
 msgstr "Área de trabajo de abajo"
 
-#: C/animation.xml:14(titles/t)
+#: C/animation.xml:15(titles/t)
 msgid "Workspace up"
 msgstr "Área de trabajo de arriba"
 
-#: C/animation.xml:15(titles/t)
+#: C/animation.xml:16(titles/t)
 msgid "Right half of screen"
 msgstr "Mitad derecha de la pantalla"
 
-#: C/animation.xml:16(titles/t) C/go-online1.svg:78(text/tspan)
+#: C/animation.xml:17(titles/t) C/go-online1.svg:78(text/tspan)
 #: C/search1.svg:177(text/tspan) C/search2.svg:99(text/tspan)
 #: C/web-browser1.svg:106(text/tspan)
 #, no-wrap
 msgid "Activities"
 msgstr "Actividades"
 
-#: C/animation.xml:17(titles/t)
+#: C/animation.xml:18(titles/t)
 msgid "Enter"
 msgstr "Intro"
 
-#: C/animation.xml:18(titles/t)
+#: C/animation.xml:19(titles/t)
 msgid "Ctrl"
 msgstr "Ctrl"
 
-#: C/animation.xml:19(titles/t)
+#: C/animation.xml:20(titles/t)
 msgid "Alt"
 msgstr "Alt"
 
-#: C/animation.xml:20(titles/t)
+#: C/animation.xml:21(titles/t)
 msgid "Tab"
 msgstr "Tab"
 
-#: C/animation.xml:21(titles/t)
+#: C/animation.xml:22(titles/t)
 msgid "Esc"
 msgstr "Esc"
 
-#: C/animation.xml:22(titles/t)
+#: C/animation.xml:23(titles/t)
 msgid "help"
 msgstr "ayuda"
 
-#: C/animation.xml:23(titles/t)
+#: C/animation.xml:24(titles/t)
 msgid "web"
 msgstr "web"
 
-#: C/animation.xml:24(titles/t)
+#: C/animation.xml:25(titles/t)
 msgid "Just start typing…"
 msgstr "Solo comience a escribir…"
 
-#: C/animation.xml:25(titles/t) C/goa1.svg:42(text/tspan)
+#: C/animation.xml:26(titles/t) C/goa1.svg:42(text/tspan)
 #: C/goa1.svg:69(text/tspan) C/go-online1.svg:76(text/tspan)
 #: C/go-online1.svg:87(text/tspan) C/go-online1.svg:153(text/tspan)
 #: C/go-online2.svg:45(text/tspan) C/go-online2.svg:76(text/tspan)
@@ -210,44 +227,44 @@ msgstr "Solo comience a escribir…"
 msgid "John Doe"
 msgstr "Juan Pérez"
 
-#: C/animation.xml:26(titles/t) C/goa1.svg:74(text/tspan)
+#: C/animation.xml:27(titles/t) C/goa1.svg:74(text/tspan)
 #, no-wrap
 msgid "Settings"
 msgstr "Configuración"
 
-#: C/animation.xml:27(titles/t)
+#: C/animation.xml:28(titles/t)
 msgid "Background"
 msgstr "Fondo"
 
-#: C/animation.xml:28(titles/t)
+#: C/animation.xml:29(titles/t)
 msgid "Wallpapers"
 msgstr "Fondos de pantalla"
 
-#: C/animation.xml:29(titles/t)
+#: C/animation.xml:30(titles/t)
 msgid "Select"
 msgstr "Seleccionar"
 
-#: C/animation.xml:30(titles/t)
+#: C/animation.xml:31(titles/t)
 msgid "Ready for the meeting?"
 msgstr "¿Listo para la reunión?"
 
-#: C/animation.xml:31(titles/t)
+#: C/animation.xml:32(titles/t)
 msgid "I'll be there in a sec..."
 msgstr "Estaré allí en un segundo…"
 
-#: C/animation.xml:32(titles/t)
+#: C/animation.xml:33(titles/t)
 msgid "Good stuff, thanks again"
 msgstr "¡Genial!, gracias de nuevo."
 
-#: C/animation.xml:33(titles/t)
+#: C/animation.xml:34(titles/t)
 msgid "Thanks for the support"
 msgstr "Gracias por la ayuda"
 
-#: C/animation.xml:34(titles/t)
+#: C/animation.xml:35(titles/t)
 msgid "No worries."
 msgstr "De nada."
 
-#: C/animation.xml:35(titles/t)
+#: C/animation.xml:36(titles/t)
 msgid "Too kind."
 msgstr "Eres muy amable."
 
@@ -264,26 +281,24 @@ msgstr "Este trabajo se encuentra bajo una licencia <_:link-1/>."
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/browse-web.page:16(media)
-#, fuzzy
 #| msgctxt "_"
 #| msgid ""
 #| "external ref='web-browser1.svg' md5='380ae6420b6eeef748add9fa8d3ebc19'"
 msgctxt "_"
 msgid "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
-msgstr "external ref='web-browser1.svg' md5='380ae6420b6eeef748add9fa8d3ebc19'"
+msgstr "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/browse-web.page:23(media)
-#, fuzzy
 #| msgctxt "_"
 #| msgid ""
 #| "external ref='web-browser2.svg' md5='93bfea229039508aa26d81ebfb372130'"
 msgctxt "_"
 msgid "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
-msgstr "external ref='web-browser2.svg' md5='93bfea229039508aa26d81ebfb372130'"
+msgstr "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
 
 #: C/browse-web.page:10(info/title)
 msgctxt "link:trail"
@@ -344,13 +359,17 @@ msgstr "Para confirmar la entrada, pulse <key>Intro</key>."
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/change-wallpaper.page:21(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-change-wallpaper.webm' "
+#| "md5='331ea9f544d3b57bc928d712b9b11efc'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-change-wallpaper.webm' "
-"md5='331ea9f544d3b57bc928d712b9b11efc'"
+"md5='9217e7043891d8077dae3204f2c26182'"
 msgstr ""
 "external ref='figures/gnome-change-wallpaper.webm' "
-"md5='331ea9f544d3b57bc928d712b9b11efc'"
+"md5='9217e7043891d8077dae3204f2c26182'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -619,7 +638,7 @@ msgstr "I"
 #: C/search2.svg:97(text/tspan)
 #, no-wrap
 msgid "14:30"
-msgstr ""
+msgstr "14:30"
 
 #: C/go-online1.svg:124(text/tspan) C/go-online3.svg:77(text/tspan)
 #, fuzzy, no-wrap
@@ -630,43 +649,43 @@ msgstr "Configuración"
 #: C/go-online1.svg:125(text/tspan) C/go-online3.svg:78(text/tspan)
 #, no-wrap
 msgid "Wired"
-msgstr ""
+msgstr "Cableada"
 
 #: C/go-online1.svg:126(text/tspan) C/go-online3.svg:79(text/tspan)
 #, no-wrap
 msgid "Cable unplugged"
-msgstr ""
+msgstr "Cable desconectado"
 
 #: C/go-online1.svg:127(text/tspan) C/go-online3.svg:80(text/tspan)
 #, no-wrap
 msgid "Mobile broadband"
-msgstr ""
+msgstr "Banda ancha móvil"
 
 #: C/go-online1.svg:129(text/tspan) C/go-online1.svg:138(text/tspan)
 #: C/go-online3.svg:82(text/tspan) C/search-settings.svg:278(text/tspan)
 #, no-wrap
 msgid "OFF"
-msgstr ""
+msgstr "O"
 
 #: C/go-online1.svg:136(text/tspan) C/go-online3.svg:89(text/tspan)
 #, no-wrap
 msgid "Wi-Fi"
-msgstr ""
+msgstr "Inalámbrica"
 
 #: C/go-online3.svg:112(text/tspan)
 #, no-wrap
 msgid "Wireless"
-msgstr ""
+msgstr "Conexión inalámbrica"
 
 #: C/go-online3.svg:113(text/tspan)
 #, no-wrap
 msgid "Private"
-msgstr ""
+msgstr "Privada"
 
 #: C/go-online3.svg:114(text/tspan)
 #, no-wrap
 msgid "Weak"
-msgstr ""
+msgstr "Débil"
 
 #: C/install-software.page:9(info/title)
 msgctxt "link:trail"
@@ -761,13 +780,17 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/move-windows.page:14(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-windows-and-workspaces.webm' "
+#| "md5='5763ade4a7db247fe829c21a1fe7e049'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='5763ade4a7db247fe829c21a1fe7e049'"
+"md5='84808ea5b55238e60d38c4d6323e654f'"
 msgstr ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='5763ade4a7db247fe829c21a1fe7e049'"
+"md5='84808ea5b55238e60d38c4d6323e654f'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -796,8 +819,6 @@ msgstr "Utilizar áreas de trabajo y ventanas"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online-accounts.page:15(media)
-#| msgctxt "_"
-#| msgid "external ref='goa3.svg' md5='4f692f3914bedbbbcedc39ee958d863d'"
 msgctxt "_"
 msgid "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
 msgstr "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
@@ -807,8 +828,6 @@ msgstr "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online-accounts.page:21(media)
-#| msgctxt "_"
-#| msgid "external ref='goa3.svg' md5='4f692f3914bedbbbcedc39ee958d863d'"
 msgctxt "_"
 msgid "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
 msgstr "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
@@ -818,8 +837,6 @@ msgstr "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online-accounts.page:26(media)
-#| msgctxt "_"
-#| msgid "external ref='goa3.svg' md5='4f692f3914bedbbbcedc39ee958d863d'"
 msgctxt "_"
 msgid "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
 msgstr "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
@@ -829,8 +846,6 @@ msgstr "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online-accounts.page:30(media)
-#| msgctxt "_"
-#| msgid "external ref='goa4.svg' md5='c9bfae84d42320af64944d5df75e0454'"
 msgctxt "_"
 msgid "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
 msgstr "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
@@ -840,8 +855,6 @@ msgstr "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online-accounts.page:35(media)
-#| msgctxt "_"
-#| msgid "external ref='goa5.svg' md5='5deb427a0f7621bf8e7fed469a92954b'"
 msgctxt "_"
 msgid "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
 msgstr "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
@@ -889,12 +902,14 @@ msgid ""
 "For a majority of online accounts, you are required to grant access to the "
 "service in the next step after a successful authorization."
 msgstr ""
+"Para la mayoría de cuentas en línea, debe conceder acceso al servicio en el "
+"próximo paso después de una autorización exitosa."
 
 #: C/online-accounts.page:33(item/p)
 msgid ""
 "For a google account it is a matter of clicking on the <gui>Grant access</"
 "gui> button."
-msgstr ""
+msgstr "Para una cuenta de Google, pulse el botón <gui>Conceder acceso</gui>."
 
 #: C/online-accounts.page:37(item/p)
 msgid ""
@@ -902,14 +917,15 @@ msgid ""
 "using. If you do not wish to use a particular service, disable it with the "
 "<gui>on/off switch</gui> on the right."
 msgstr ""
+"Muchas cuentas le permiten personalizar qué clases de servicios le gustaría "
+"utilizar. Si no desea algún servicio en particular, desactívelo con el "
+"<gui>interruptor de encendido/apagado</gui> que está a la derecha."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online.page:18(media)
-#| msgctxt "_"
-#| msgid "external ref='go-online3.svg' md5='0597f410d1f962b188f5b43702748eef'"
 msgctxt "_"
 msgid "external ref='go-online1.svg' md5='7ffd688bc5d186f95bfcee55d4fa601b'"
 msgstr "external ref='go-online1.svg' md5='7ffd688bc5d186f95bfcee55d4fa601b'"
@@ -919,8 +935,6 @@ msgstr "external ref='go-online1.svg' md5='7ffd688bc5d186f95bfcee55d4fa601b'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online.page:24(media)
-#| msgctxt "_"
-#| msgid "external ref='go-online2.svg' md5='2e158d1e7b1584084dd3e4a0e14a32ad'"
 msgctxt "_"
 msgid "external ref='go-online2.svg' md5='2c4ff4e5d03e2f03749a35ad909b3341'"
 msgstr "external ref='go-online2.svg' md5='2c4ff4e5d03e2f03749a35ad909b3341'"
@@ -930,8 +944,6 @@ msgstr "external ref='go-online2.svg' md5='2c4ff4e5d03e2f03749a35ad909b3341'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online.page:33(media)
-#| msgctxt "_"
-#| msgid "external ref='go-online3.svg' md5='0597f410d1f962b188f5b43702748eef'"
 msgctxt "_"
 msgid "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
 msgstr "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
@@ -939,25 +951,29 @@ msgstr "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
 #: C/online.page:9(info/title)
 msgctxt "link:trail"
 msgid "Going online"
-msgstr ""
+msgstr "Conectarse a Internet"
 
 #: C/online.page:13(page/title)
 msgid "Going Online"
-msgstr ""
+msgstr "Conectarse a Internet"
 
 #: C/online.page:14(page/p)
 msgid ""
 "The status of your network connection is indicated in the top bar, next to "
 "your name/chat status."
 msgstr ""
+"El estado de su conexión de red aparece en la barra superior, al lado de su "
+"nombre/estado de chat."
 
 #: C/online.page:17(section/title)
 msgid "Wired Connections"
-msgstr ""
+msgstr "Conexiones cableadas"
 
 #: C/online.page:20(item/p)
 msgid "The status icon on the top right corner indicates you are off-line."
 msgstr ""
+"El icono de estado que está en la esquina superior derecha indica que está "
+"desconectado."
 
 #: C/online.page:21(item/p)
 msgid ""
@@ -965,6 +981,9 @@ msgid ""
 "disconnected, the machine is in an <em>airplane mode</em> or there are no "
 "wireless networks available."
 msgstr ""
+"Pulsar en el icono puede mostrar el motivo. Quizás un cable esté "
+"desconectado, el equipo esté en <em>modo avión</em> o no haya redes "
+"inalámbricas disponibles."
 
 #: C/online.page:26(item/p)
 msgid ""
@@ -972,20 +991,29 @@ msgid ""
 "trigger automatic network configuration. This is indicated by the tripple "
 "dot icon in the top bar."
 msgstr ""
+"En el caso de una conexión cableada, al conectar el cable de red, se debería "
+"configurar automáticamente. Esto lo indica el icono de tres puntos que "
+"aparece en la barra superior."
 
 #: C/online.page:27(item/p)
+#, fuzzy
+#| msgid ""
+#| "Once the the configuration succeeds, the status icon changes to the "
+#| "networked computer symbol."
 msgid ""
-"Once the the configuration succeeds, the status icon changes to the "
-"networked computer symbol."
+"Once the configuration succeeds, the status icon changes to the networked "
+"computer symbol."
 msgstr ""
+"Una vez que se haya llevado a cabo la configuración, el icono de estado "
+"cambiará al símbolo de equipo en red."
 
 #: C/online.page:32(section/title)
 msgid "Other Types of Connections"
-msgstr ""
+msgstr "Otros tipos de conexiones"
 
 #: C/online.page:35(section/p)
 msgid "FIXME: links to existing wireless/broadband connection documents."
-msgstr ""
+msgstr "FIXME: vincula documentos existentes de conexión de banda ancha/móvil."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -1003,15 +1031,15 @@ msgstr ""
 #: C/responding-to-messages.page:16(info/title)
 msgctxt "link:trail"
 msgid "Responding to messages"
-msgstr ""
+msgstr "Responder a mensajes"
 
 #: C/responding-to-messages.page:19(page/title)
 msgid "Responding to messages"
-msgstr ""
+msgstr "Responder a mensajes"
 
 #: C/responding-to-messages.page:26(section/title)
 msgid "Responding to a chat message with the mouse"
-msgstr ""
+msgstr "Responder a un mensaje de chat con el ratón"
 
 #: C/responding-to-messages.page:29(item/p)
 msgid ""
@@ -1262,9 +1290,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/use-search.page:16(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
 msgctxt "_"
 msgid "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
 msgstr "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
@@ -1274,8 +1299,6 @@ msgstr "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/use-search.page:23(media)
-#| msgctxt "_"
-#| msgid "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
 msgctxt "_"
 msgid "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
 msgstr "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
@@ -1285,9 +1308,6 @@ msgstr "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/use-search.page:36(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
 msgctxt "_"
 msgid ""
 "external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
