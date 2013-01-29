@@ -1,0 +1,1407 @@
+# Indonesian translation for gnome-getting-started-docs.
+# Copyright (C) 2013 gnome-getting-started-docs's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome-getting-started-docs package.
+# Andika Triwidada <andika@gmail.com>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-getting-started-docs master\n"
+"POT-Creation-Date: 2013-01-25 17:27+0000\n"
+"PO-Revision-Date: 2013-01-26 16:56+0700\n"
+"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
+"Language-Team: Indonesian <gnome@i15n.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
+msgctxt "_"
+msgid "translator-credits"
+msgstr "Andika Triwidada <andika@gmail.com>, 2013"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/index.page:16(media) C/launch-apps.page:23(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-launching-applications.webm' "
+"md5='16609de3c9d4b91ba3e7a5785863a05a'"
+msgstr ""
+"external ref='figures/gnome-launching-applications.webm' "
+"md5='16609de3c9d4b91ba3e7a5785863a05a'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/index.page:23(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-task-switching.webm' "
+"md5='edf94b461a60c8683e2d64f778949739'"
+msgstr ""
+"external ref='figures/gnome-task-switching.webm' "
+"md5='edf94b461a60c8683e2d64f778949739'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/index.page:29(media) C/responding-to-messages.page:21(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-responding-to-messages.webm' "
+"md5='8f82d09463e5d8381b790cf94f4bfd00'"
+msgstr ""
+"external ref='figures/gnome-responding-to-messages.webm' "
+"md5='8f82d09463e5d8381b790cf94f4bfd00'"
+
+#: C/index.page:8(info/desc) C/index.page:13(page/title)
+#: C/animation.xml:5(titles/t)
+msgid "Getting Started"
+msgstr "Memulai"
+
+#: C/index.page:9(info/title)
+msgctxt "link"
+msgid "Getting Started"
+msgstr "Memulai"
+
+#: C/index.page:10(info/title)
+msgctxt "text"
+msgid "Getting Started"
+msgstr "Memulai"
+
+#: C/index.page:36(links/title)
+msgid "Common Tasks"
+msgstr "Tugas Umum"
+
+#: C/animation.xml:3(titles/t)
+msgid "Welcome"
+msgstr "Selamat datang"
+
+#: C/animation.xml:4(titles/t)
+msgid "Launching Applications"
+msgstr "Meluncurkan Aplikasi"
+
+#: C/animation.xml:6(titles/t)
+msgid "Changing Wallpaper"
+msgstr "Mengubah Gambar Latar"
+
+#: C/animation.xml:7(titles/t)
+msgid "Responding to Messages"
+msgstr "Merespon ke Pesan"
+
+#: C/animation.xml:8(titles/t)
+msgid "Switching Tasks"
+msgstr "Bertukar Tugas"
+
+#: C/animation.xml:9(titles/t)
+msgid "Delayed Response"
+msgstr "Respon Tertunda"
+
+#: C/animation.xml:10(titles/t)
+msgid "Windows and Workspaces"
+msgstr "Jendela dan Area Kerja"
+
+#: C/animation.xml:11(titles/t)
+msgid "Maximize"
+msgstr "Maksimalkan"
+
+#: C/animation.xml:12(titles/t)
+msgid "Restore"
+msgstr "Kembalikan"
+
+#: C/animation.xml:13(titles/t)
+msgid "Left half of screen"
+msgstr "Separuh layar bagian kiri"
+
+#: C/animation.xml:14(titles/t)
+msgid "Workspace down"
+msgstr "Area kerja turun"
+
+#: C/animation.xml:15(titles/t)
+msgid "Workspace up"
+msgstr "Area kerja naik"
+
+#: C/animation.xml:16(titles/t)
+msgid "Right half of screen"
+msgstr "Separuh layar bagian kanan"
+
+#: C/animation.xml:17(titles/t) C/go-online1.svg:78(text/tspan)
+#: C/search1.svg:177(text/tspan) C/search2.svg:99(text/tspan)
+#: C/web-browser1.svg:106(text/tspan)
+#, no-wrap
+msgid "Activities"
+msgstr "Aktivitas"
+
+#: C/animation.xml:18(titles/t)
+msgid "Enter"
+msgstr "Enter"
+
+#: C/animation.xml:19(titles/t)
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: C/animation.xml:20(titles/t)
+msgid "Alt"
+msgstr "Alt"
+
+#: C/animation.xml:21(titles/t)
+msgid "Tab"
+msgstr "Tab"
+
+#: C/animation.xml:22(titles/t)
+msgid "Esc"
+msgstr "Esc"
+
+#: C/animation.xml:23(titles/t)
+msgid "help"
+msgstr "bantuan"
+
+#: C/animation.xml:24(titles/t)
+msgid "web"
+msgstr "web"
+
+#: C/animation.xml:25(titles/t)
+msgid "Just start typing…"
+msgstr "Mulai mengetik saja…"
+
+#: C/animation.xml:26(titles/t) C/goa1.svg:42(text/tspan)
+#: C/goa1.svg:69(text/tspan) C/go-online1.svg:76(text/tspan)
+#: C/go-online1.svg:87(text/tspan) C/go-online1.svg:153(text/tspan)
+#: C/go-online2.svg:45(text/tspan) C/go-online2.svg:76(text/tspan)
+#: C/go-online3.svg:135(text/tspan) C/search1.svg:174(text/tspan)
+#: C/search2.svg:96(text/tspan)
+#, no-wrap
+msgid "John Doe"
+msgstr "John Doe"
+
+#: C/animation.xml:27(titles/t) C/goa1.svg:74(text/tspan)
+#, no-wrap
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: C/animation.xml:28(titles/t)
+msgid "Background"
+msgstr "Latar belakang"
+
+#: C/animation.xml:29(titles/t)
+msgid "Wallpapers"
+msgstr "Gambar latar"
+
+#: C/animation.xml:30(titles/t)
+msgid "Select"
+msgstr "Pilih"
+
+#: C/animation.xml:31(titles/t)
+msgid "Ready for the meeting?"
+msgstr "Siap rapat?"
+
+#: C/animation.xml:32(titles/t)
+msgid "I'll be there in a sec..."
+msgstr "Saya siap sebentar lagi..."
+
+#: C/animation.xml:33(titles/t)
+msgid "Good stuff, thanks again"
+msgstr "Barang bagus, terima kasih lagi"
+
+#: C/animation.xml:34(titles/t)
+msgid "Thanks for the support"
+msgstr "Terima kasih untuk dukungannya"
+
+#: C/animation.xml:35(titles/t)
+msgid "No worries."
+msgstr "Tak usah khawatir."
+
+#: C/animation.xml:36(titles/t)
+msgid "Too kind."
+msgstr "Terlalu baik."
+
+#: C/legal.xml:3(p/link)
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+msgstr "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+
+#: C/legal.xml:3(license/p)
+msgid "This work is licensed under a <_:link-1/>."
+msgstr "Karya ini dilisensikan di bawah <_:link-1/>."
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/browse-web.page:16(media)
+msgctxt "_"
+msgid "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
+msgstr "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/browse-web.page:23(media)
+msgctxt "_"
+msgid "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
+msgstr "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
+
+#: C/browse-web.page:10(info/title)
+msgctxt "link:trail"
+msgid "Browse the web"
+msgstr "Jelajah web"
+
+#: C/browse-web.page:13(page/title)
+msgid "Browse the web"
+msgstr "Jelajah web"
+
+#: C/browse-web.page:18(item/p) C/use-search.page:18(item/p)
+msgid ""
+"Enter the <gui>Activities overview</gui> by throwing the pointer to the top "
+"left edge of the primary screen. Alternatively you can use the <key>Super</"
+"key> key or the FIXME gesture."
+msgstr ""
+"Masuk ke <gui>Ringkasan aktivitas</gui> dengan menggeser penunjuk ke tepi "
+"kiri atas dari layar utama. Cara lain adalah dengan memakai tombol "
+"<key>Super</key> atau gestur FIXME."
+
+#: C/browse-web.page:19(item/p)
+msgid "Select the <app>Web</app> application icon from the dash on the left."
+msgstr "Pilih ikon aplikasi <app>Web</app> dari dash di kiri."
+
+#: C/browse-web.page:21(note/p)
+msgid ""
+"Alternatively you can use the <link xref=\"use-search\">search</link> "
+"functionality to launch <app>Web</app>."
+msgstr ""
+"Anda juga dapat memapai fungsionaltas <link xref=\"use-search\">pencarian</"
+"link> untuk meluncurkan <app>Web</app>."
+
+#: C/browse-web.page:25(item/p)
+msgid "Click on the title of a page to reveal the address entry."
+msgstr "Klik pada judul halaman untuk mengungkap entri alamat."
+
+#: C/browse-web.page:26(item/p)
+msgid ""
+"Entering text in the address entry will perform a history and bookmarks "
+"search so you don't have to enter a precise web address (URL). Previous "
+"browsing history and bookmark matches are displayed below the entry. You can "
+"quickly select appropriate result by pushing the <key>down</key> arrow key."
+msgstr ""
+"Memasukkan teks dalam entri alamat akan melakukan pencarian riwayat dan "
+"penanda taut sehingga Anda tak harus memasukkan suatu alamat (URL) web yang "
+"lengkap. Kecocokan penanda taut dan riwayat perambanan sebelumnya "
+"ditampilkan di bawah entri. Anda dapat memilih secara cepat hasil yang "
+"sesuai dengan menekan tombol panah <key>turun</key>."
+
+#: C/browse-web.page:27(item/p)
+msgid "To confirm entry, push <key>Enter</key>."
+msgstr "Untuk mengonfirmasi entri, tekan <key>Enter</key>."
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/change-wallpaper.page:21(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-change-wallpaper.webm' "
+"md5='9217e7043891d8077dae3204f2c26182'"
+msgstr ""
+"external ref='figures/gnome-change-wallpaper.webm' "
+"md5='9217e7043891d8077dae3204f2c26182'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/change-wallpaper.page:22(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/changing-wallpaper.png' "
+"md5='99db9f17cd2e00909317ba503dc77546'"
+msgstr ""
+"external ref='figures/changing-wallpaper.png' "
+"md5='99db9f17cd2e00909317ba503dc77546'"
+
+#: C/change-wallpaper.page:10(credit/name) C/launch-apps.page:10(credit/name)
+#: C/responding-to-messages.page:10(credit/name)
+#: C/switching-tasks.page:9(credit/name)
+msgid "Jakub Steiner"
+msgstr "Jakub Steiner"
+
+#: C/change-wallpaper.page:13(credit/name) C/launch-apps.page:13(credit/name)
+#: C/responding-to-messages.page:13(credit/name)
+#: C/switching-tasks.page:12(credit/name)
+msgid "Petr Kovar"
+msgstr "Petr Kovar"
+
+#: C/change-wallpaper.page:16(info/title)
+msgctxt "link:trail"
+msgid "Change the wallpaper"
+msgstr "Ubah gambar latar"
+
+#: C/change-wallpaper.page:19(page/title)
+#: C/change-wallpaper.page:26(section/title)
+msgid "Change the wallpaper"
+msgstr "Ubah gambar latar"
+
+#: C/change-wallpaper.page:29(item/p)
+msgid "Click your name on the top bar and select <gui>Settings</gui>."
+msgstr "Klik nama Anda pada bilah puncak dan pilih <gui>Pengaturan</gui>."
+
+#: C/change-wallpaper.page:31(item/p)
+msgid "From the list of items, select <gui>Background</gui>."
+msgstr "Dari daftar butir, pilih <gui>Latar Belakang</gui>."
+
+#: C/change-wallpaper.page:32(item/p)
+msgid ""
+"Click the image of your current wallpaper in the center of the "
+"<gui>Background</gui> window."
+msgstr ""
+"Klik gambar dari gambar latar kini di tengah jendela <gui>Latar Belakang</"
+"gui>."
+
+#: C/change-wallpaper.page:34(item/p)
+msgid "Click the background image that you want to use."
+msgstr "Klik gambar latar yang ingin Anda pakai."
+
+#: C/change-wallpaper.page:35(item/p)
+msgid "Click the <gui>Select</gui> button."
+msgstr "Klik tombol <gui>Pilih</gui>."
+
+#: C/change-wallpaper.page:36(item/p)
+msgid ""
+"Close the <gui>Background</gui> window by clicking the cross at the top-"
+"right corner of the window."
+msgstr ""
+"Tutup jendela <gui>Latar Belakang</gui> dengan mengklik tanda silang di "
+"pojok kanan atas jendela."
+
+#: C/change-time.page:10(info/title)
+msgctxt "link:trail"
+msgid "Change the time, date and timezone"
+msgstr "Ubah tanggal, waktu, dan zona waktu"
+
+#: C/change-time.page:13(page/title)
+msgid "Change the time, date and timezone"
+msgstr "Ubah tanggal, waktu, dan zona waktu"
+
+#: C/change-time.page:15(page/p) C/install-software.page:14(page/p)
+msgid "Stay tuned..."
+msgstr "Tetaplah bersama kami…"
+
+#: C/goa1.svg:20(Work/format) C/goa2.svg:29(Work/format)
+#: C/goa3.svg:29(Work/format) C/goa4.svg:23(Work/format)
+#: C/goa5.svg:20(Work/format) C/go-online1.svg:57(Work/format)
+#: C/go-online2.svg:29(Work/format) C/go-online3.svg:59(Work/format)
+#: C/search1.svg:75(Work/format) C/search2.svg:77(Work/format)
+#: C/search-settings.svg:83(Work/format) C/web-browser1.svg:92(Work/format)
+#: C/web-browser2.svg:37(Work/format)
+msgid "image/svg+xml"
+msgstr "image/svg+xml"
+
+#: C/goa1.svg:60(text/tspan) C/go-online1.svg:69(text/tspan)
+#: C/go-online3.svg:72(text/tspan) C/search1.svg:87(text/tspan)
+#: C/web-browser1.svg:104(text/tspan)
+#, no-wrap
+msgid "1"
+msgstr "1"
+
+#: C/goa1.svg:64(text/tspan) C/go-online1.svg:120(text/tspan)
+#: C/search2.svg:89(text/tspan) C/web-browser1.svg:137(text/tspan)
+#, no-wrap
+msgid "2"
+msgstr "2"
+
+#: C/goa2.svg:41(text/tspan) C/go-online2.svg:41(text/tspan)
+#: C/web-browser2.svg:100(text/tspan)
+#, no-wrap
+msgid "3"
+msgstr "3"
+
+#: C/goa2.svg:72(text/tspan) C/goa3.svg:72(text/tspan)
+#: C/goa5.svg:64(text/tspan)
+#, no-wrap
+msgid "Online Accounts"
+msgstr "Akun Daring"
+
+#: C/goa2.svg:74(text/tspan) C/goa3.svg:74(text/tspan)
+#, no-wrap
+msgid "Add an online account"
+msgstr "Menambah suatu akun daring"
+
+#: C/goa3.svg:41(text/tspan) C/web-browser2.svg:50(text/tspan)
+#, no-wrap
+msgid "4"
+msgstr "4"
+
+#: C/goa3.svg:92(text/tspan)
+#, no-wrap
+msgid "Add Account"
+msgstr "Tambah Akun"
+
+#: C/goa3.svg:96(text/tspan) C/goa4.svg:53(text/tspan)
+#: C/goa4.svg:87(text/tspan)
+#, no-wrap
+msgid "Cancel"
+msgstr "Batal"
+
+#: C/goa3.svg:98(text/tspan) C/goa4.svg:37(text/tspan)
+#: C/goa5.svg:75(text/tspan) C/goa5.svg:78(text/tspan)
+#, no-wrap
+msgid "Google"
+msgstr "Google"
+
+#: C/goa3.svg:99(text/tspan) C/goa4.svg:38(text/tspan)
+#, no-wrap
+msgid "Facebook"
+msgstr "Facebook"
+
+#: C/goa3.svg:100(text/tspan) C/goa4.svg:39(text/tspan)
+#, no-wrap
+msgid "Windows Live"
+msgstr "Windows Live"
+
+#: C/goa3.svg:101(text/tspan) C/goa4.svg:40(text/tspan)
+#, no-wrap
+msgid "Microsoft Exchange"
+msgstr "Microsoft Exchange"
+
+#: C/goa3.svg:102(text/tspan) C/goa4.svg:41(text/tspan)
+#, no-wrap
+msgid "Enterprise Login (Kerberos)"
+msgstr "Log Masuk Enterprise (Kerberos)"
+
+#: C/goa4.svg:35(text/tspan) C/web-browser2.svg:198(text/tspan)
+#, no-wrap
+msgid "5"
+msgstr "5"
+
+#: C/goa4.svg:49(text/tspan) C/goa4.svg:83(text/tspan)
+#, no-wrap
+msgid "Google account"
+msgstr "Akun Google"
+
+#: C/goa4.svg:66(text/tspan)
+#, no-wrap
+msgid "SIGN UP"
+msgstr "MENDAFTAR"
+
+#: C/goa4.svg:67(text/tspan)
+#, no-wrap
+msgid "Sign in"
+msgstr "Masuk"
+
+#: C/goa4.svg:68(text/tspan)
+#, no-wrap
+msgid "Email"
+msgstr "Surel"
+
+#: C/goa4.svg:70(text/tspan)
+#, no-wrap
+msgid "Password"
+msgstr "Sandi"
+
+#: C/goa4.svg:73(text/tspan)
+#, no-wrap
+msgid "Sign In"
+msgstr "Masuk"
+
+#: C/goa4.svg:74(text/tspan) C/goa5.svg:77(text/tspan)
+#: C/goa5.svg:80(text/tspan)
+#, no-wrap
+msgid "john.doe@gmail.com"
+msgstr "john.doe@gmail.com"
+
+#: C/goa4.svg:100(text/tspan)
+#, no-wrap
+msgid "Grant Access"
+msgstr "Berikan Akses"
+
+#: C/goa4.svg:105(text/tspan)
+#, no-wrap
+msgid "Deny Access"
+msgstr "Tolak Akses"
+
+#: C/goa4.svg:116(text/tspan)
+#, no-wrap
+msgid "6"
+msgstr "6"
+
+#: C/goa5.svg:32(text/tspan)
+#, no-wrap
+msgid "7"
+msgstr "7"
+
+#: C/goa5.svg:81(text/tspan)
+#, no-wrap
+msgid "Use for"
+msgstr "Gunakan untuk"
+
+#: C/goa5.svg:82(text/tspan)
+#, no-wrap
+msgid "Mail"
+msgstr "Surat"
+
+#: C/goa5.svg:87(text/tspan)
+#, no-wrap
+msgid "Calendar"
+msgstr "Kalender"
+
+#: C/goa5.svg:92(text/tspan) C/search2.svg:217(text/tspan)
+#, no-wrap
+msgid "Contacts"
+msgstr "Kontak"
+
+#: C/goa5.svg:97(text/tspan)
+#, no-wrap
+msgid "Chat"
+msgstr "Obrolan"
+
+#: C/goa5.svg:102(text/tspan)
+#, no-wrap
+msgid "Documents"
+msgstr "Dokumen"
+
+#: C/goa5.svg:107(text/tspan) C/goa5.svg:108(text/tspan)
+#: C/goa5.svg:109(text/tspan) C/goa5.svg:110(text/tspan)
+#: C/goa5.svg:111(text/tspan) C/go-online3.svg:91(text/tspan)
+#: C/search-settings.svg:140(text/tspan) C/search-settings.svg:257(text/tspan)
+#: C/search-settings.svg:264(text/tspan) C/search-settings.svg:271(text/tspan)
+#, no-wrap
+msgid "ON"
+msgstr "NYALA"
+
+#: C/go-online1.svg:77(text/tspan) C/search1.svg:175(text/tspan)
+#: C/search2.svg:97(text/tspan)
+#, no-wrap
+msgid "14:30"
+msgstr "14:30"
+
+#: C/go-online1.svg:124(text/tspan) C/go-online3.svg:77(text/tspan)
+#, no-wrap
+msgid "Network Settings"
+msgstr "Pengaturan Jaringan"
+
+#: C/go-online1.svg:125(text/tspan) C/go-online3.svg:78(text/tspan)
+#, no-wrap
+msgid "Wired"
+msgstr "Kabel"
+
+#: C/go-online1.svg:126(text/tspan) C/go-online3.svg:79(text/tspan)
+#, no-wrap
+msgid "Cable unplugged"
+msgstr "Kabel tercabut"
+
+#: C/go-online1.svg:127(text/tspan) C/go-online3.svg:80(text/tspan)
+#, no-wrap
+msgid "Mobile broadband"
+msgstr "Data seluler"
+
+#: C/go-online1.svg:129(text/tspan) C/go-online1.svg:138(text/tspan)
+#: C/go-online3.svg:82(text/tspan) C/search-settings.svg:278(text/tspan)
+#, no-wrap
+msgid "OFF"
+msgstr "MATI"
+
+#: C/go-online1.svg:136(text/tspan) C/go-online3.svg:89(text/tspan)
+#, no-wrap
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+#: C/go-online3.svg:112(text/tspan)
+#, no-wrap
+msgid "Wireless"
+msgstr "Nirkabel"
+
+#: C/go-online3.svg:113(text/tspan)
+#, no-wrap
+msgid "Private"
+msgstr "Pribadi"
+
+#: C/go-online3.svg:114(text/tspan)
+#, no-wrap
+msgid "Weak"
+msgstr "Lemah"
+
+#: C/install-software.page:9(info/title)
+msgctxt "link:trail"
+msgid "Get additional applications"
+msgstr "Memasang aplikasi tambahan"
+
+#: C/install-software.page:12(page/title)
+msgid "Get additional applications"
+msgstr "Memasang aplikasi tambahan"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/launch-apps.page:24(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/launching-apps.png' "
+"md5='2e9b65079ed7c034e00db3b71b9897d3'"
+msgstr ""
+"external ref='figures/launching-apps.png' "
+"md5='2e9b65079ed7c034e00db3b71b9897d3'"
+
+#: C/launch-apps.page:17(info/title)
+msgctxt "link:trail"
+msgid "Launching applications"
+msgstr "Meluncurkan aplikasi"
+
+#: C/launch-apps.page:21(page/title)
+msgid "Launching applications"
+msgstr "Meluncurkan aplikasi"
+
+#: C/launch-apps.page:28(section/title)
+msgid "Launching applications with the mouse"
+msgstr "Meluncurkan aplikasi dengan tetikus"
+
+#: C/launch-apps.page:31(item/p)
+msgid ""
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen to show the <gui>Activities Overview</gui>."
+msgstr ""
+"Pindahkan penunjuk tetikus Anda ke pojok <gui>Aktivitas</gui> di kiri atas "
+"layar untuk menampilkan <gui>Ringkasan Aktivitas</gui>."
+
+#: C/launch-apps.page:33(item/p)
+msgid ""
+"Click the <gui>Show Applications</gui> item that is shown at the bottom of "
+"the bar on the left-hand side of the screen."
+msgstr ""
+"Klik butir <gui>Tampilkan Aplikasi</gui> yang ditunjukkan di dasar bilah di "
+"sisi kiri layar."
+
+#: C/launch-apps.page:35(item/p)
+msgid ""
+"A list of applications is shown. Click the application you want to run, for "
+"example, Help."
+msgstr ""
+"Suatu daftar aplikasi ditampilkan. Klik aplikasi yang ingin Anda jalankan, "
+"sebagai contoh, Bantuan."
+
+#: C/launch-apps.page:42(section/title)
+msgid "Launching applications with the keyboard"
+msgstr "Meluncurkan aplikasi dengan papan tik"
+
+#: C/launch-apps.page:45(item/p)
+msgid ""
+"Open the <gui>Activities Overview</gui> by pressing the <key>Super </key> "
+"key."
+msgstr ""
+"Buka <gui>Ringkasan Aktivitas</gui> dengan menekan tombol <key>Super</key>."
+
+#: C/launch-apps.page:47(item/p)
+msgid ""
+"Start typing the name of the application that you want to launch. Searching "
+"for the application begins instantly."
+msgstr ""
+"Mulailah mengetik nama aplikasi yang ingin Anda luncurkan. Pencarian "
+"aplikasi dimulai seketika."
+
+#: C/launch-apps.page:49(item/p)
+msgid ""
+"Once the icon of the application is shown and selected, press <key> Enter</"
+"key> to launch the application."
+msgstr ""
+"Sekali ikon aplikasi ditampilkan dan dipilih, tekan <key>Enter</key> untuk "
+"meluncurkan aplikasi."
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/move-windows.page:14(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-windows-and-workspaces.webm' "
+"md5='84808ea5b55238e60d38c4d6323e654f'"
+msgstr ""
+"external ref='figures/gnome-windows-and-workspaces.webm' "
+"md5='84808ea5b55238e60d38c4d6323e654f'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/move-windows.page:15(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/windows-and-workspaces.png' "
+"md5='e878f13748263291f86d76d719a25a4e'"
+msgstr ""
+"external ref='figures/windows-and-workspaces.png' "
+"md5='e878f13748263291f86d76d719a25a4e'"
+
+#: C/move-windows.page:9(info/title)
+msgctxt "link:trail"
+msgid "Use workspaces and windows"
+msgstr "Memakai ruang kerja dan jendela"
+
+#: C/move-windows.page:12(page/title)
+msgid "Use workspaces and windows"
+msgstr "Memakai ruang kerja dan jendela"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/online-accounts.page:15(media)
+msgctxt "_"
+msgid "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
+msgstr "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/online-accounts.page:21(media)
+msgctxt "_"
+msgid "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
+msgstr "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/online-accounts.page:26(media)
+msgctxt "_"
+msgid "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
+msgstr "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/online-accounts.page:30(media)
+msgctxt "_"
+msgid "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
+msgstr "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/online-accounts.page:35(media)
+msgctxt "_"
+msgid "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
+msgstr "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
+
+#: C/online-accounts.page:9(info/title)
+msgctxt "link:trail"
+msgid "Connect to online accounts"
+msgstr "Menyambung ke akun daring"
+
+#: C/online-accounts.page:12(page/title)
+msgid "Connect to online accounts"
+msgstr "Menyambung ke akun daring"
+
+#: C/online-accounts.page:17(item/p)
+msgid "Click on the <gui>User Menu</gui> in the <gui>Top Bar</gui>."
+msgstr "Klik pada <gui>Menu Pengguna</gui> dalam <gui>Bilah Puncak</gui>."
+
+#: C/online-accounts.page:18(item/p)
+msgid "Select the <gui>Settings</gui> item."
+msgstr "Pilih butir <gui>Pengaturan</gui>."
+
+#: C/online-accounts.page:23(item/p)
+msgid "Click on the <gui>Add an online account</gui> button."
+msgstr "Klik pada tombol <gui>Tambah suatu akun daring</gui>."
+
+#: C/online-accounts.page:25(note/p)
+msgid ""
+"If you have already had an account set up in the past, click the <gui>+</"
+"gui> button on the bottom of the sidebar list to add another."
+msgstr ""
+"Bila Anda telah memiliki suatu akun yang disiapkan dimasa lalu, klik tombol "
+"<gui>+</gui> di dasar daftar bilah sisi untuk menambah satu lagi."
+
+#: C/online-accounts.page:28(item/p)
+msgid ""
+"Select the type of online account by clicking on it. A sign in dialog will "
+"pop up, that varies depending on the type of account."
+msgstr ""
+"Pilih tipe dari akun daring dengan mengkliknya. Suatu tanda dalam dialog "
+"akan muncul, yang berubah bergantung pada tipe akun."
+
+#: C/online-accounts.page:32(item/p)
+msgid ""
+"For a majority of online accounts, you are required to grant access to the "
+"service in the next step after a successful authorization."
+msgstr ""
+"Untuk mayoritas akun daring, Anda perlu mengijinkan akses ke layanan dalam "
+"langkah berikutnya setelah otorisasi yang sukses."
+
+#: C/online-accounts.page:33(item/p)
+msgid ""
+"For a google account it is a matter of clicking on the <gui>Grant access</"
+"gui> button."
+msgstr ""
+"Untuk akun google cukup dengan mengklik tombol <gui>Berikan akses</gui>."
+
+#: C/online-accounts.page:37(item/p)
+msgid ""
+"Many accounts allow you to customize what sort of services you'd like to be "
+"using. If you do not wish to use a particular service, disable it with the "
+"<gui>on/off switch</gui> on the right."
+msgstr ""
+"Banyak akun yang mengijinkan Anda menggubah jenis layanan apa yang akan Anda "
+"pakai. Bila Anda tak berharap memakai suatu layanan tertentu, matikanlah itu "
+"dengan <gui>saklar nyala/mati</gui> di kanan."
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/online.page:18(media)
+msgctxt "_"
+msgid "external ref='go-online1.svg' md5='7ffd688bc5d186f95bfcee55d4fa601b'"
+msgstr "external ref='go-online1.svg' md5='7ffd688bc5d186f95bfcee55d4fa601b'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/online.page:24(media)
+msgctxt "_"
+msgid "external ref='go-online2.svg' md5='2c4ff4e5d03e2f03749a35ad909b3341'"
+msgstr "external ref='go-online2.svg' md5='2c4ff4e5d03e2f03749a35ad909b3341'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/online.page:33(media)
+msgctxt "_"
+msgid "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
+msgstr "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
+
+#: C/online.page:9(info/title)
+msgctxt "link:trail"
+msgid "Going online"
+msgstr "Menuju daring"
+
+#: C/online.page:13(page/title)
+msgid "Going Online"
+msgstr "Menuju Daring"
+
+#: C/online.page:14(page/p)
+msgid ""
+"The status of your network connection is indicated in the top bar, next to "
+"your name/chat status."
+msgstr ""
+"Status koneksi jaringan Anda diindikasikan di bilah puncak, sebelah status "
+"obrolan/nama Anda."
+
+#: C/online.page:17(section/title)
+msgid "Wired Connections"
+msgstr "Koneksi Kabel"
+
+#: C/online.page:20(item/p)
+msgid "The status icon on the top right corner indicates you are off-line."
+msgstr "Ikon status di pojok kanan atas mengindikasikan bahwa Anda luring."
+
+#: C/online.page:21(item/p)
+msgid ""
+"Clicking on the icon may reveal the reason why. It may be that a wire is "
+"disconnected, the machine is in an <em>airplane mode</em> or there are no "
+"wireless networks available."
+msgstr ""
+"Mengklik ikon mungkin mengungkap alasannya. Mungkin karena kabel terputus, "
+"mesin sedang dalam <em>mode pesawat terbang</em>, atau tak tersedia jaringan "
+"nirkabel."
+
+#: C/online.page:26(item/p)
+msgid ""
+"In case of a wired connection, simply connecting the ethernet cable should "
+"trigger automatic network configuration. This is indicated by the triple dot "
+"icon in the top bar."
+msgstr ""
+"Dalam kasus koneksi kabel, cukup dengan menyambung kabel ethernet akan "
+"memicu konfigurasi jaringan otomatis. Ini diindikasikan oleh ikon tiga titik "
+"di bilah puncak."
+
+#: C/online.page:27(item/p)
+msgid ""
+"Once the configuration succeeds, the status icon changes to the networked "
+"computer symbol."
+msgstr ""
+"Setelah konfigurasi sukses, ikon status berubah menjadi simbol komputer "
+"terjejaring."
+
+#: C/online.page:32(section/title)
+msgid "Other Types of Connections"
+msgstr "Tipe Koneksi Lain"
+
+#: C/online.page:35(section/p)
+msgid "FIXME: links to existing wireless/broadband connection documents."
+msgstr "FIXME: taut ke dokumen koneksi pita lebar/nirkabel yang ada."
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/responding-to-messages.page:22(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/responding-to-messages.png' "
+"md5='5ee2c571e1162775974aa9f1addbbc87'"
+msgstr ""
+"external ref='figures/responding-to-messages.png' "
+"md5='5ee2c571e1162775974aa9f1addbbc87'"
+
+#: C/responding-to-messages.page:16(info/title)
+msgctxt "link:trail"
+msgid "Responding to messages"
+msgstr "Merespon ke pesan"
+
+#: C/responding-to-messages.page:19(page/title)
+msgid "Responding to messages"
+msgstr "Merespon ke pesan"
+
+#: C/responding-to-messages.page:26(section/title)
+msgid "Responding to a chat message with the mouse"
+msgstr "Merespon ke pesan obrolan memakai tetikus."
+
+#: C/responding-to-messages.page:29(item/p)
+msgid ""
+"Move your mouse to the message tray that can found at the bottom of the "
+"screen and click the chat message."
+msgstr ""
+"Gerakkan penunjuk tetikus Anda ke baki pesan yang dapat ditemukan di dasar "
+"layar dan klik pesan obrolan tersebut."
+
+#: C/responding-to-messages.page:31(item/p)
+#: C/responding-to-messages.page:66(item/p)
+msgid ""
+"Start typing your reply and when finished, press <key>Enter</key> to send "
+"the reply."
+msgstr ""
+"Mulailah mengetikkan jawaban Anda dan ketika selesai, tekan <key>Enter</key> "
+"untuk mengirim jawaban."
+
+#: C/responding-to-messages.page:33(item/p)
+#: C/responding-to-messages.page:52(item/p)
+msgid ""
+"To close the chat message, click the close button at the top right corner of "
+"the chat message."
+msgstr ""
+"Untuk menutup pesan obrolan, klik tombol tutup pada pojok kanan atas dari "
+"pesan obrolan tersebut."
+
+#: C/responding-to-messages.page:40(section/title)
+msgid "Delayed response to a chat message using the mouse"
+msgstr "Respon tertunda ke pesan obrolan memakai tetikus"
+
+#: C/responding-to-messages.page:43(item/p)
+msgid ""
+"When a chat message appears in the message tray and you do not move your "
+"mouse to the message tray, the message disappears after a while."
+msgstr ""
+"Ketika suatu pesan obrolan muncul di baki pesan dan Anda tak menggerakkan "
+"tetikus Anda ke baki pesan, pesan lenyap setelah beberapa saat."
+
+#: C/responding-to-messages.page:46(item/p)
+msgid ""
+"To get back to your unanswered message, move your mouse to the message tray "
+"at the very bottom of the screen."
+msgstr ""
+"Untuk mendapat kembali pesan Anda yang belum terjawab, gerakkan tetikus Anda "
+"ke baki pesan di bagian paling dasar layar."
+
+#: C/responding-to-messages.page:48(item/p)
+msgid ""
+"When the message tray appears, click a small image that represents the "
+"person who sent you the message."
+msgstr ""
+"Ketika baki pesan muncul, klik gambar kecil yang mewakili orang yang "
+"mengirimi Anda pesan."
+
+#: C/responding-to-messages.page:50(item/p)
+msgid ""
+"When the chat message is shown, start typing your reply and when finished, "
+"press <key>Enter</key> to send the reply."
+msgstr ""
+"Ketika pesan obrolan ditampilkan, mulailah mengetikkan jawaban Anda dan "
+"ketika selesai, tekan <key>Enter</key> untuk mengirim jawaban."
+
+#: C/responding-to-messages.page:59(section/title)
+msgid "Delayed response to a chat message using the keyboard"
+msgstr "Respon tertunda ke suatu pesan obrolan memakai papan tik"
+
+#: C/responding-to-messages.page:61(item/p)
+msgid ""
+"To get back to your unanswered chat messages, press <keyseq><key> Super</"
+"key><key>M</key></keyseq> to display the message tray that contains the "
+"messages."
+msgstr ""
+"Untuk mendapat kembali pesan-pesan obrolan Anda yang belum terjawab, tekan "
+"<keyseq><key>Super</key><key>M</key></keyseq> untuk menampilkan baki pesan "
+"yang memuat pesan-pesan."
+
+#: C/responding-to-messages.page:64(item/p)
+msgid ""
+"Use the arrow keys to select a small image representing the person you want "
+"to reply to, and press <key>Enter</key>."
+msgstr ""
+"Gunakan tombol panah untuk memiliki gambar kecil yang mewakili orang yang "
+"ingin Anda balas, dan tekan <key>Enter</key>."
+
+#: C/responding-to-messages.page:68(item/p)
+msgid "Press <key>Esc</key> to close the chat message."
+msgstr "Tekan <key>Esc</key> untuk menutup pesan obrolan."
+
+#: C/responding-to-messages.page:69(item/p)
+msgid ""
+"To dismiss the message tray, press <key>Esc</key> or <keyseq><key>Super</"
+"key><key>M</key></keyseq>."
+msgstr ""
+"Untuk menyembunyikan baki pesan, tekan <key>Esc</key> atau "
+"<keyseq><key>Super</key><key>M</key></keyseq>."
+
+#: C/search1.svg:187(text/tspan)
+#, no-wrap
+msgid "just type"
+msgstr "ketik saja"
+
+#: C/search2.svg:106(text/tspan)
+#, no-wrap
+msgid "con"
+msgstr "con"
+
+#: C/search2.svg:170(text/tspan)
+#, no-wrap
+msgid "Accounts"
+msgstr "Akun"
+
+#: C/search2.svg:171(text/tspan)
+#, no-wrap
+msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
+
+#: C/search2.svg:172(text/tspan)
+#, no-wrap
+msgid "config"
+msgstr "config"
+
+#: C/search2.svg:173(text/tspan) C/search2.svg:176(text/tspan)
+#, no-wrap
+msgid "fontconfig"
+msgstr "fontconfig"
+
+#: C/search2.svg:174(text/tspan)
+#, no-wrap
+msgid "system-config-http.zip"
+msgstr "system-config-http.zip"
+
+#: C/search2.svg:175(text/tspan)
+#, no-wrap
+msgid "Icon guidelines"
+msgstr "Panduan ikon"
+
+#: C/search2.svg:193(text/tspan)
+#, no-wrap
+msgid "Secure Linux Containers"
+msgstr "Secure Linux Containers"
+
+#: C/search2.svg:194(text/tspan)
+#, no-wrap
+msgid "Developer Conference 2012"
+msgstr "Konferensi Pengembang 2012"
+
+#: C/search2.svg:218(text/tspan)
+#, no-wrap
+msgid "Firefox"
+msgstr "Firefox"
+
+#: C/search-settings.svg:122(text/tspan)
+#, no-wrap
+msgid "Search"
+msgstr "Cari"
+
+#: C/search-settings.svg:133(text/tspan)
+#, no-wrap
+msgid "Files"
+msgstr "Berkas"
+
+#: C/search-settings.svg:134(text/tspan)
+#, no-wrap
+msgid "Enabled"
+msgstr "Diaktifkan"
+
+#: C/search-settings.svg:249(text/tspan) C/web-browser2.svg:151(text/tspan)
+#, no-wrap
+msgid "Web"
+msgstr "Web"
+
+#: C/search-settings.svg:250(text/tspan)
+#, no-wrap
+msgid "Photos"
+msgstr "Foto"
+
+#: C/search-settings.svg:251(text/tspan)
+#, no-wrap
+msgid "Music"
+msgstr "Musik"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/switching-tasks.page:21(media)
+msgctxt "_"
+msgid "external ref='figures/task-switching.webm' md5='__failed__'"
+msgstr "external ref='figures/task-switching.webm' md5='__failed__'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/switching-tasks.page:22(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/task-switching.png' "
+"md5='7c8d4925fd55a1eaf200582f3cbc3a76'"
+msgstr ""
+"external ref='figures/task-switching.png' "
+"md5='7c8d4925fd55a1eaf200582f3cbc3a76'"
+
+#: C/switching-tasks.page:15(info/title)
+msgctxt "link:trail"
+msgid "Switching tasks"
+msgstr "Bertukar tugas"
+
+#: C/switching-tasks.page:19(page/title)
+#: C/switching-tasks.page:26(section/title)
+msgid "Switching tasks"
+msgstr "Bertukar tugas"
+
+#: C/switching-tasks.page:29(item/p)
+msgid ""
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen to show the <gui>Activities Overview</gui> where you can see "
+"the currently running tasks displayed as small windows."
+msgstr ""
+"Gerakkan penunjuk tetikus Anda ke pojok <gui>Aktivitas</gui> di pojok kiri "
+"atas layar untuk menampilkan <gui>Ringkasan Aktivitas</gui> dimana Anda "
+"dapat melihat tugas-tugas yang sedang berjalan yang ditampilkan sebagai "
+"jendela-jendela kecil."
+
+#: C/switching-tasks.page:32(item/p)
+msgid "Click a window to switch the task."
+msgstr "Klik suatu jendela bertukar tugas."
+
+#: C/switching-tasks.page:38(section/title)
+msgid "Tiling windows"
+msgstr "Menjajarkan Jendela"
+
+#: C/switching-tasks.page:42(item/p)
+msgid ""
+"To maximize a window along a side of the screen, grab the window's titlebar "
+"and drag it to the left or right side of the screen."
+msgstr ""
+"Untuk memaksimalkan suatu jendela sepanjang sisi layar, tangkap bilah judul "
+"jendela dan seretlah ke sisi kiri atau kanan layar."
+
+#: C/switching-tasks.page:44(item/p)
+msgid ""
+"When half of the screen is highlighted, drop the window to maximize it along "
+"the selected side of the screen."
+msgstr ""
+"Ketika separuh layar sedang disorot, jatuhkan jendela untuk memaksimalkannya "
+"sepanjang sisi layar yang dipilih."
+
+#: C/switching-tasks.page:46(item/p)
+msgid ""
+"To maximize two windows side-by-side, grab the titlebar of the second window "
+"and drag it to the opposite side of the screen. When half of the screen is "
+"highlighted, drop the window."
+msgstr ""
+"Untuk memaksimalkan dua jendela bersisian, tangkap bilah judul dari jendela "
+"kedua dan seretlah ke sisi berlawanan dari layar. Ketika separuh dari layar "
+"sedang disorot, jatuhkan jendela."
+
+#: C/switching-tasks.page:54(section/title)
+msgid "Switching windows through search"
+msgstr "Bertukar jendela melalui pencarian"
+
+#: C/switching-tasks.page:58(item/p)
+msgid "Push the <key>Super</key> key to enter the overview."
+msgstr "Tekan tombol <key>Super</key> untuk masuk ringkasan."
+
+#: C/switching-tasks.page:59(item/p)
+msgid "Start typing the name of the application immediately."
+msgstr "Mulailah mengetik nama aplikasi seketika."
+
+#: C/switching-tasks.page:60(item/p)
+msgid ""
+"When the application icon appears as a first result, hit <key>Enter</key> to "
+"activate its last used window."
+msgstr ""
+"Ketika ikon aplikasi muncul sebagai hasil pertama, tekan <key>Enter</key> "
+"untuk mengaktifkan jendelanya yang terakhir dipakai."
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/use-search.page:16(media)
+msgctxt "_"
+msgid "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
+msgstr "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/use-search.page:23(media)
+msgctxt "_"
+msgid "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
+msgstr "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/use-search.page:36(media)
+msgctxt "_"
+msgid ""
+"external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
+msgstr ""
+"external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
+
+#: C/use-search.page:9(info/title)
+msgctxt "link:trail"
+msgid "Use the system search"
+msgstr "Memakai pencarian sistem"
+
+#: C/use-search.page:12(page/title)
+msgid "Use the system search"
+msgstr "Memakai pencarian sistem"
+
+#: C/use-search.page:19(item/p)
+msgid ""
+"To initiate search, all you need to do at this point is to start typing. "
+"GNOME will start showing results immediately."
+msgstr ""
+"Untuk memulai pencarian, yang Anda perlu lakukan pada titik ini adalah "
+"memulai mengetik. GNOME akan mulai menampilkan hasil seketika."
+
+#: C/use-search.page:20(item/p)
+msgid ""
+"The very first result is always highlighted, allowing you to immediately "
+"follow the search query with <key>Enter</key> to activate it."
+msgstr ""
+"Hasil yang paling awal selalu disorot, memungkinkan Anda dalam seketika "
+"melanjutkan query pencarian dengan <key>Enter</key> untuk mengaktifkannya."
+
+#: C/use-search.page:25(item/p)
+msgid "FIXME"
+msgstr "FIXME"
+
+#: C/use-search.page:29(section/title)
+msgid "Types of results"
+msgstr "Tipe-tipe hasil"
+
+#: C/use-search.page:30(section/p)
+msgid ""
+"System search aggregates results from various applications. The first group "
+"of results are application launchers. Activating a launcher will start an "
+"application."
+msgstr ""
+"Pencarian sistem mengagregasi hasil dari berbagai aplikasi. Grup hasil "
+"pertama adalah peluncur aplikasi. Mengaktifkan suatu peluncur akan memulai "
+"suatu aplikasi."
+
+# typo: applucation -> application
+#: C/use-search.page:31(section/p)
+msgid ""
+"Other types of results might include <app>settings</app>, <app>contacts</"
+"app> or <app>documents</app>. Each type of result is preceded with an icon "
+"of the application that provided the result (apart from the application "
+"launchers at the top). Only the best matches are presented in the overview, "
+"so if you want more scope for your search, you can click or use the arrow "
+"keys to navigate to the applucation icon on the left to take you to the "
+"application itself. As soon as the associated application starts, your "
+"performed query will be perfomed in the application."
+msgstr ""
+"Tipe hasil lain mungkin termasuk <app>pengaturan</app>, <app>kontak</app>, "
+"atau <app>dokumen</app>. Setiap tipe hasil didahului dengan suatu ikon "
+"aplikasi yang memberikan hasil (selain dari peluncur aplikasi di bagian "
+"puncak). Hanya kecocokan terbaik yang disajikan dalam ringkasan, sehingga "
+"bila Anda ingin cakupan pencarian yang lebih luas, Anda dapat mengklik atau "
+"memakai tombol panah untuk menavigasi ke ikon aplikasi di kiri untuk membawa "
+"Anda ke aplikasi itu sendiri. Segera setelah aplikasi terkait dimulai, query "
+"yang Anda laksanakan akan dilangsungkan dalam aplikasi."
+
+#: C/use-search.page:35(section/title)
+msgid "Search Settings"
+msgstr "Pengaturan Pencarian"
+
+#: C/use-search.page:37(section/p)
+msgid ""
+"You can configure what applications may display results in the overview by "
+"going to the <guiseq><gui>Settings</gui><gui>Search</gui></guiseq> panel."
+msgstr ""
+"Anda dapat menata aplikasi apa yang boleh menampilkan hasil dalam ringkasan "
+"dengan menuju ke panel <guiseq><gui>Pengaturan</gui><gui>Cari</gui></guiseq>."
+
+#: C/web-browser2.svg:88(text/tspan)
+#, no-wrap
+msgid "gnome"
+msgstr "gnome"
+
+#: C/web-browser2.svg:92(text/tspan)
+#, no-wrap
+msgid "Planet Gnome"
+msgstr "Planet Gnome"
+
+#: C/web-browser2.svg:93(text/tspan)
+#, no-wrap
+msgid "GNOME 3"
+msgstr "GNOME 3"
+
+#: C/web-browser2.svg:94(text/tspan)
+#, no-wrap
+msgid "http://planet.gnome.org"
+msgstr "http://planet.gnome.org"
+
+#: C/web-browser2.svg:95(text/tspan)
+#, no-wrap
+msgid "http://gnome.org"
+msgstr "http://gnome.org"
+
+#: C/web-browser2.svg:189(text/tspan)
+#, no-wrap
+msgid "Planet GNOME"
+msgstr "Planet GNOME"
