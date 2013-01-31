@@ -11,20 +11,39 @@
   </info>
 
   <title>Browse the web</title>
+
+  <!-- FIXME: Some distros may not have the Web app installed by default. -->
+
   <section id="browse-web">
 
     <media type="image" src="web-browser1.svg" width="100%" />
+
     <steps>
-      <item><p>Enter the <gui>Activities overview</gui> by throwing the pointer to the top left edge of the primary screen. Alternatively you can use the <key>Super</key> key or the FIXME gesture.</p></item>
-      <item><p>Select the <app>Web</app> application icon from the dash on the left.</p></item>
+      <item><p>Move your mouse pointer to the <gui>Activities</gui> corner at
+      the top left of the screen to show the <gui>Activities Overview</gui>.
+      <!--Alternatively you can use the <key>Super</key> key or the FIXME
+      gesture.--></p></item>
+      <item><p>Select the <app>Web</app> browser icon from the bar on the
+      left-hand side of the screen.</p></item>
     </steps>
-    <note><p>Alternatively you can use the <link xref="use-search">search</link> functionality to launch <app>Web</app>.</p></note>
+
+    <note><p>Alternatively, you can launch the <app>Web</app> browser by <link 
+    xref="use-search">just typing</link> the name in the <gui>Activities
+    Overview</gui>.</p></note>
 
     <media type="image" src="web-browser2.svg" width="100%" />
+
     <steps style="continues">
-      <item><p>Click on the title of a page to reveal the address entry.</p></item>
-      <item><p>Entering text in the address entry will perform a history and bookmarks search so you don't have to enter a precise web address (URL). Previous browsing history and bookmark matches are displayed below the entry. You can quickly select appropriate result by pushing the <key>down</key> arrow key.</p></item>
-      <item><p>To confirm entry, push <key>Enter</key>.</p></item>
+      <item><p>Click the address bar at the top of the <app>Web</app> browser
+       window and start typing a web page name.</p></item>
+      <item><p>Typing a web page name starts searching for it in the
+       browser history and bookmarks, so you do not need to remember the exact
+        web page address.</p>
+        <p>If the web page is found in the history or bookmarks, a drop-down list is shown below the address bar.</p></item>
+      <item><p>From the drop-down list, you can quickly select a web page that you want to visit by using the arrow keys.</p>
+      </item>
+      <item><p>To visit the selected web page, press <key>Enter</key>.</p>
+      </item>
     </steps>
 
   </section>
