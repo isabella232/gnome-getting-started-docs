@@ -36,7 +36,6 @@
 
   <section id="switching-tasks-tiling">
     <title>Tiling windows</title>
-    <p></p>
     
     <steps>
       <item><p>To maximize a window along a side of the screen, grab the window's
@@ -44,20 +43,38 @@
       <item><p>When half of the screen is highlighted, drop the window to maximize
        it along the selected side of the screen.</p></item>
       <item><p>To maximize two windows side-by-side, grab the titlebar of the
-       second window and drag it to the opposite side of the screen. When half
-       of the screen is highlighted, drop the window.</p></item>
+       second window and drag it to the opposite side of the screen.</p></item>
+       <item><p>When half of the screen is highlighted, drop the window to
+        maximize it along the opposite side of the screen.</p></item>
     </steps>
     
   </section>
+  
+  <section id="switching-tasks-windows">
+    <title>Switching between windows</title>
+    
+  <steps>
+   <item><p>Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the
+  <gui>Window Switcher</gui>, which lists the currently open windows.</p></item>
+   <item><p>Release <key>Alt</key> to select the next highlighted window in
+  the Window Switcher.</p></item>
+  <item><p>To cycle through the list of open windows, do not release
+   <key>Alt</key> but hold it down, and press <key>Tab</key>.</p></item>
+  </steps>
 
-  <section id="switching-tasks-tiling">
-    <title>Switching windows through search</title>
-    <p></p>
+  </section>
+
+  <section id="switching-tasks-search">
+    <title>Using search to switch applications</title>
     
     <steps>
-      <item><p>Push the <key>Super</key> key to enter the overview.</p></item>
-      <item><p>Start typing the name of the application immediately.</p></item>
-      <item><p>When the application icon appears as a first result, hit <key>Enter</key> to activate its last used window.</p></item>
+      <item><p>Press the <key>Super</key> key to show the <gui>Activities
+       Overview</gui>.</p></item>
+      <item><p>Just start typing the name of the application you want to
+       switch to. Applications matching what you have typed will appear as
+       you type.</p></item>
+      <item><p>When the application that you want to switch to appears as the
+       first result, press <key>Enter</key> to switch to it.</p></item>
       
     </steps>
     
