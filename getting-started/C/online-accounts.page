@@ -5,36 +5,63 @@
 
   <info>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+    <credit type="author">
+      <name>Jakub Steiner</name>
+    </credit>
+    <credit type="author">
+      <name>Petr Kovar</name>
+    </credit>
     <link type="guide" xref="index" group="tasks"/>
     <title role="trail" type="link">Connect to online accounts</title>
   </info>
 
   <title>Connect to online accounts</title>
+
   <section id="connect-to-online-accounts">
 
     <media type="image" src="goa1.svg" width="100%" />
+
     <steps>
-      <item><p>Click on the <gui>User Menu</gui> in the <gui>Top Bar</gui>.</p></item>
+      <item><p>Click your name on the top bar.</p></item>
       <item><p>Select the <gui>Settings</gui> item.</p></item>
     </steps>
        
     <media type="image" src="goa2.svg" width="100%" />
+    
     <steps style="continues">
+      <item><p>From the list of items, select <gui>Online Accounts</gui>.
+      </p></item>
       <item><p>Click on the <gui>Add an online account</gui> button.</p></item>
     </steps>
-    <note><p>If you have already had an account set up in the past, click the <gui>+</gui> button on the bottom of the sidebar list to add another.</p></note>    
+    
+    <note><p>If you have set up an online account before, you can add another
+     online account by clicking the <gui>+</gui> button at the bottom left
+     corner of the window.</p></note>
+    
     <media type="image" src="goa3.svg" width="100%" />
+
     <steps style="continues">  
-      <item><p>Select the type of online account by clicking on it. A sign in dialog will pop up, that varies depending on the type of account. </p></item>
-      </steps>
+      <item><p>Click the online account you want to use. This will open a new
+       window where you can sign in to your online account.</p></item>
+    </steps>
+      
     <media type="image" src="goa4.svg" width="100%" />
+
     <steps style="continues">  
-      <item><p>For a majority of online accounts, you are required to grant access to the service in the next step after a successful authorization.</p></item>
-      <item><p>For a google account it is a matter of clicking on the <gui>Grant access</gui> button.</p></item>
-      </steps>
+      <item><p>In most cases, you will have to grant access to the online
+       service after signing in to get started.</p></item>
+      <item><p>For example, if you are connecting to your Google account, you
+       will have to click the <gui>Grant Access</gui> button.</p></item>
+    </steps>
+
     <media type="image" src="goa5.svg" width="100%" />
+
     <steps style="continues">  
-      <item><p>Many accounts allow you to customize what sort of services you'd like to be using. If you do not wish to use a particular service, disable it with the <gui>on/off switch</gui> on the right.</p></item>
-      </steps>      
+      <item><p>Many online accounts let you choose the services you want to use
+       with your online account. If you do not want to use a service, disable it
+       by clicking the <gui>ON/OFF</gui> switch on the right-hand side of the
+       window.</p></item>
+    </steps>
+      
   </section>
 </page>
