@@ -5,15 +5,10 @@ HELP_ID = getting-started
 HELP_LINGUAS = cs es id
 
 HELP_MEDIA = \
-	figures/changing-wallpaper.png \
 	figures/gnome-change-wallpaper.webm \
-	figures/launching-apps.png \
 	figures/gnome-launching-applications.webm \
-	figures/responding-to-messages.png \
 	figures/gnome-responding-to-messages.webm \
-	figures/task-switching.png \
 	figures/gnome-task-switching.webm \
-	figures/windows-and-workspaces.png \
 	figures/gnome-windows-and-workspaces.webm \
 	figures/gnome-yelp-intro.webm
 
@@ -42,6 +37,11 @@ HELP_FILES = \
 	search2.svg \
 	search-settings.svg \
 	switching-tasks.page \
+	thumb-changing-wallpaper.svg \
+	thumb-launching-apps.svg \
+	thumb-responding-to-messages.svg \
+	thumb-task-switching.svg \
+	thumb-windows-and-workspaces.svg \
 	use-search.page \
 	web-browser1.svg \
 	web-browser2.svg
