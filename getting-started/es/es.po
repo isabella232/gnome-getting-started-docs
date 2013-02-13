@@ -9,13 +9,14 @@
 # Nicolás Satragno <nsatragno@gnome.org>, 2013., 2013.
 # 
 # 
+# 
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2013., 2013.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-02-04 18:21+0000\n"
-"PO-Revision-Date: 2013-02-07 17:12+0100\n"
+"POT-Creation-Date: 2013-02-12 12:05+0000\n"
+"PO-Revision-Date: 2013-02-13 16:52+0100\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -181,6 +182,11 @@ msgstr "Mitad derecha de la pantalla"
 
 #: C/animation.xml:17(titles/t) C/go-online1.svg:78(text/tspan)
 #: C/search1.svg:177(text/tspan) C/search2.svg:99(text/tspan)
+#: C/thumb-changing-wallpaper.svg:68(text/tspan)
+#: C/thumb-launching-apps.svg:192(text/tspan)
+#: C/thumb-responding-to-messages.svg:39(text/tspan)
+#: C/thumb-task-switching.svg:155(text/tspan)
+#: C/thumb-windows-and-workspaces.svg:92(text/tspan)
 #: C/web-browser1.svg:106(text/tspan)
 #, no-wrap
 msgid "Activities"
@@ -223,12 +229,18 @@ msgstr "Solo comience a escribir…"
 #: C/go-online1.svg:87(text/tspan) C/go-online1.svg:153(text/tspan)
 #: C/go-online2.svg:45(text/tspan) C/go-online2.svg:76(text/tspan)
 #: C/go-online3.svg:135(text/tspan) C/search1.svg:174(text/tspan)
-#: C/search2.svg:96(text/tspan)
+#: C/search2.svg:96(text/tspan) C/thumb-changing-wallpaper.svg:69(text/tspan)
+#: C/thumb-launching-apps.svg:193(text/tspan)
+#: C/thumb-responding-to-messages.svg:40(text/tspan)
+#: C/thumb-responding-to-messages.svg:58(text/tspan)
+#: C/thumb-task-switching.svg:156(text/tspan)
+#: C/thumb-windows-and-workspaces.svg:93(text/tspan)
 #, no-wrap
 msgid "John Doe"
 msgstr "Juan Pérez"
 
 #: C/animation.xml:27(titles/t) C/goa1.svg:74(text/tspan)
+#: C/thumb-changing-wallpaper.svg:74(text/tspan)
 #, no-wrap
 msgid "Settings"
 msgstr "Configuración"
@@ -254,6 +266,8 @@ msgid "I'll be there in a sec..."
 msgstr "Estaré allí en un segundo…"
 
 #: C/animation.xml:33(titles/t)
+#: C/thumb-responding-to-messages.svg:57(text/tspan)
+#, no-wrap
 msgid "Good stuff, thanks again"
 msgstr "¡Genial!, gracias de nuevo."
 
@@ -281,7 +295,7 @@ msgstr "Este trabajo se encuentra bajo una licencia <_:link-1/>."
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/browse-web.page:25(media)
+#: C/browse-web.page:21(media)
 msgctxt "_"
 msgid "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
 msgstr "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
@@ -290,22 +304,24 @@ msgstr "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/browse-web.page:40(media)
+#: C/browse-web.page:36(media)
 msgctxt "_"
 msgid "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
 msgstr "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
 
 #: C/browse-web.page:10(credit/name) C/change-wallpaper.page:10(credit/name)
 #: C/launch-apps.page:10(credit/name) C/move-windows.page:9(credit/name)
+#: C/online-accounts.page:9(credit/name) C/online.page:9(credit/name)
 #: C/responding-to-messages.page:10(credit/name)
-#: C/switching-tasks.page:9(credit/name)
+#: C/switching-tasks.page:9(credit/name) C/use-search.page:9(credit/name)
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
 #: C/browse-web.page:13(credit/name) C/change-wallpaper.page:13(credit/name)
 #: C/launch-apps.page:13(credit/name) C/move-windows.page:12(credit/name)
+#: C/online-accounts.page:12(credit/name) C/online.page:12(credit/name)
 #: C/responding-to-messages.page:13(credit/name)
-#: C/switching-tasks.page:12(credit/name)
+#: C/switching-tasks.page:12(credit/name) C/use-search.page:12(credit/name)
 msgid "Petr Kovar"
 msgstr "Petr Kovar"
 
@@ -318,7 +334,8 @@ msgstr "Navegar por la Web"
 msgid "Browse the web"
 msgstr "Navegar por la Web"
 
-#: C/browse-web.page:28(item/p) C/launch-apps.page:31(item/p)
+#: C/browse-web.page:24(item/p) C/launch-apps.page:31(item/p)
+#: C/use-search.page:23(item/p)
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen to show the <gui>Activities Overview</gui>."
@@ -327,7 +344,7 @@ msgstr ""
 "esquina superior izquierda de la pantalla para mostrar la <gui>Vista de "
 "actividades</gui>."
 
-#: C/browse-web.page:32(item/p)
+#: C/browse-web.page:28(item/p)
 #, fuzzy
 #| msgid ""
 #| "Select the <app>Web</app> application icon from the dash on the left."
@@ -338,37 +355,50 @@ msgstr ""
 "Seleccione el icono de aplicación <app>Web</app> desde el tablero que se "
 "encuentra a la izquierda."
 
-#: C/browse-web.page:36(note/p)
+#: C/browse-web.page:32(note/p)
 msgid ""
 "Alternatively, you can launch the <app>Web</app> browser by <link xref=\"use-"
 "search\">just typing</link> the name in the <gui>Activities Overview</gui>."
 msgstr ""
+"Alternativamente, puede abrir el navegador <app>Web</app> <link xref=\"use-"
+"search\">simplemente escribiendo</link> el nombre en la <gui>Vista de "
+"actividades</gui>."
 
-#: C/browse-web.page:43(item/p)
+#: C/browse-web.page:39(item/p)
 msgid ""
 "Click the address bar at the top of the <app>Web</app> browser window and "
 "start typing in the website you want to visit."
 msgstr ""
+"Pulse la barra de direcciones que está en la parte superior de la ventana "
+"del navegador <app>Web</app> y comience a escribir en el sitio web que "
+"quiera visitar."
 
-#: C/browse-web.page:45(item/p)
+#: C/browse-web.page:41(item/p)
 msgid ""
 "Typing in a website starts searching for it in the browser history and "
 "bookmarks, so you do not need to remember the exact address."
 msgstr ""
+"Al escribir en un sitio web, comienza la búsqueda de ese sitio en el "
+"histórico de navegación y los marcadores, por lo tanto no necesita recordar "
+"la dirección exacta."
 
-#: C/browse-web.page:48(item/p)
+#: C/browse-web.page:44(item/p)
 msgid ""
 "If the website is found in the history or bookmarks, a drop-down list is "
 "shown below the address bar."
 msgstr ""
+"Si el sitio web se encuentra en el histórico o en los marcadores, aparece "
+"una lista desplegable debajo de la barra de direcciones."
 
-#: C/browse-web.page:50(item/p)
+#: C/browse-web.page:46(item/p)
 msgid ""
-"From the drop-down list, you can quickly select a website by using the arrow "
+"From the drop-down list, you can quickly select a website using the arrow "
 "keys."
 msgstr ""
+"Desde la lista desplegable, puede seleccionar rápidamente un sitio web con "
+"las teclas de flechas."
 
-#: C/browse-web.page:53(item/p)
+#: C/browse-web.page:49(item/p)
 #, fuzzy
 #| msgid ""
 #| "Start typing your reply and when finished, press <key>Enter</key> to send "
@@ -396,10 +426,15 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/change-wallpaper.page:22(media)
+#, fuzzy
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/changing-wallpaper.png' "
+#| "md5='99db9f17cd2e00909317ba503dc77546'"
 msgctxt "_"
 msgid ""
-"external ref='figures/changing-wallpaper.png' "
-"md5='99db9f17cd2e00909317ba503dc77546'"
+"external ref='thumb-changing-wallpaper.svg' "
+"md5='763775a32c0e5861c71ef54fdcb24a53'"
 msgstr ""
 "external ref='figures/changing-wallpaper.png' "
 "md5='99db9f17cd2e00909317ba503dc77546'"
@@ -465,8 +500,13 @@ msgstr "Permanezca conectado…"
 #: C/goa5.svg:20(Work/format) C/go-online1.svg:57(Work/format)
 #: C/go-online2.svg:29(Work/format) C/go-online3.svg:59(Work/format)
 #: C/search1.svg:75(Work/format) C/search2.svg:77(Work/format)
-#: C/search-settings.svg:83(Work/format) C/web-browser1.svg:92(Work/format)
-#: C/web-browser2.svg:37(Work/format)
+#: C/search-settings.svg:83(Work/format)
+#: C/thumb-changing-wallpaper.svg:27(Work/format)
+#: C/thumb-launching-apps.svg:177(Work/format)
+#: C/thumb-responding-to-messages.svg:24(Work/format)
+#: C/thumb-task-switching.svg:77(Work/format)
+#: C/thumb-windows-and-workspaces.svg:77(Work/format)
+#: C/web-browser1.svg:92(Work/format) C/web-browser2.svg:37(Work/format)
 msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
@@ -643,7 +683,11 @@ msgid "ON"
 msgstr "I"
 
 #: C/go-online1.svg:77(text/tspan) C/search1.svg:175(text/tspan)
-#: C/search2.svg:97(text/tspan)
+#: C/search2.svg:97(text/tspan) C/thumb-changing-wallpaper.svg:70(text/tspan)
+#: C/thumb-launching-apps.svg:194(text/tspan)
+#: C/thumb-responding-to-messages.svg:41(text/tspan)
+#: C/thumb-task-switching.svg:157(text/tspan)
+#: C/thumb-windows-and-workspaces.svg:94(text/tspan)
 #, no-wrap
 msgid "14:30"
 msgstr "14:30"
@@ -709,10 +753,15 @@ msgstr "Obtener aplicaciones adicionales"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/launch-apps.page:24(media)
+#, fuzzy
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/launching-apps.png' "
+#| "md5='2e9b65079ed7c034e00db3b71b9897d3'"
 msgctxt "_"
 msgid ""
-"external ref='figures/launching-apps.png' "
-"md5='2e9b65079ed7c034e00db3b71b9897d3'"
+"external ref='thumb-launching-apps.svg' "
+"md5='7b9941a22fe51067153ca05089d4b6a1'"
 msgstr ""
 "external ref='figures/launching-apps.png' "
 "md5='2e9b65079ed7c034e00db3b71b9897d3'"
@@ -778,10 +827,15 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/move-windows.page:20(media)
+#, fuzzy
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-windows-and-workspaces.webm' "
+#| "md5='84808ea5b55238e60d38c4d6323e654f'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='84808ea5b55238e60d38c4d6323e654f'"
+"md5='77cd38321095b0ecb2d41ab18ed9794f'"
 msgstr ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
 "md5='84808ea5b55238e60d38c4d6323e654f'"
@@ -791,10 +845,15 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/move-windows.page:21(media)
+#, fuzzy
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/windows-and-workspaces.png' "
+#| "md5='e878f13748263291f86d76d719a25a4e'"
 msgctxt "_"
 msgid ""
-"external ref='figures/windows-and-workspaces.png' "
-"md5='e878f13748263291f86d76d719a25a4e'"
+"external ref='thumb-windows-and-workspaces.svg' "
+"md5='2d0f1a522ee5edf60bd5f5fc7b7da254'"
 msgstr ""
 "external ref='figures/windows-and-workspaces.png' "
 "md5='e878f13748263291f86d76d719a25a4e'"
@@ -810,52 +869,66 @@ msgstr "Utilizar áreas de trabajo y ventanas"
 
 #: C/move-windows.page:25(section/title)
 msgid "Maximizing and unmaximizing windows"
-msgstr ""
+msgstr "Maximizar y desmaximizar ventanas"
 
 #: C/move-windows.page:29(item/p)
 msgid ""
 "To maximize a window so that it takes up all of the space on your desktop, "
 "grab the window's titlebar and drag it to the top of the screen."
 msgstr ""
+"Para maximizar una pantalla para que ocupe todo el espacio de su escritorio, "
+"arrastre la barra de título de la ventana hacia la parte superior de la "
+"pantalla."
 
 #: C/move-windows.page:32(item/p)
 msgid "When the screen is highlighted, drop the window to maximize it."
-msgstr ""
+msgstr "Cuando la pantalla esté resaltada, suelte la ventana para maximizarla."
 
 #: C/move-windows.page:34(item/p)
 msgid ""
 "To restore a window to its unmaximized size, grab the window's titlebar and "
 "drag it away from the edges of the screen."
 msgstr ""
+"Para restaurar la ventana a su tamaño normal, arrastre la barra de título de "
+"la ventana alejándola de los bordes de la pantalla."
 
 #: C/move-windows.page:41(section/title)
 #: C/switching-tasks.page:38(section/title)
 msgid "Tiling windows"
-msgstr ""
+msgstr "Poner las ventanas en mosaico"
 
 #: C/move-windows.page:45(item/p) C/switching-tasks.page:41(item/p)
 msgid ""
 "To maximize a window along a side of the screen, grab the window's titlebar "
 "and drag it to the left or right side of the screen."
 msgstr ""
+"Para maximizar un ventana a lo largo de un lado de la pantalla, arrastre la "
+"barra de título de la ventana hacia el lado izquierdo o derecho de la "
+"pantalla."
 
 #: C/move-windows.page:47(item/p) C/switching-tasks.page:43(item/p)
 msgid ""
 "When half of the screen is highlighted, drop the window to maximize it along "
 "the selected side of the screen."
 msgstr ""
+"Cuando esté resaltada la mitad de la pantalla, suelte la ventana para "
+"maximizar a lo largo del lado seleccionado de la pantalla."
 
 #: C/move-windows.page:49(item/p) C/switching-tasks.page:45(item/p)
 msgid ""
 "To maximize two windows side-by-side, grab the titlebar of the second window "
 "and drag it to the opposite side of the screen."
 msgstr ""
+"Para maximizar dos ventanas una al lado de otra, arrastre la barra de título "
+"de la segunda ventana al lado opuesto de la pantalla."
 
 #: C/move-windows.page:51(item/p) C/switching-tasks.page:47(item/p)
 msgid ""
 "When half of the screen is highlighted, drop the window to maximize it along "
 "the opposite side of the screen."
 msgstr ""
+"Cuando esté resaltada la mitad de la pantalla, suelte la ventana para "
+"maximizarla junto al lado opuesto de la pantalla."
 
 #: C/move-windows.page:58(section/title)
 msgid "Maximizing and unmaximizing windows using the keyboard"
@@ -925,7 +998,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/online-accounts.page:15(media)
+#: C/online-accounts.page:20(media)
 msgctxt "_"
 msgid "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
 msgstr "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
@@ -934,7 +1007,7 @@ msgstr "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/online-accounts.page:21(media)
+#: C/online-accounts.page:27(media)
 msgctxt "_"
 msgid "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
 msgstr "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
@@ -943,7 +1016,7 @@ msgstr "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/online-accounts.page:26(media)
+#: C/online-accounts.page:39(media)
 msgctxt "_"
 msgid "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
 msgstr "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
@@ -952,7 +1025,7 @@ msgstr "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/online-accounts.page:30(media)
+#: C/online-accounts.page:46(media)
 msgctxt "_"
 msgid "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
 msgstr "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
@@ -961,68 +1034,86 @@ msgstr "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/online-accounts.page:35(media)
+#: C/online-accounts.page:55(media)
 msgctxt "_"
 msgid "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
 msgstr "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
 
-#: C/online-accounts.page:9(info/title)
+#: C/online-accounts.page:15(info/title)
 msgctxt "link:trail"
 msgid "Connect to online accounts"
 msgstr "Conectarse a cuentas en línea"
 
-#: C/online-accounts.page:12(page/title)
+#: C/online-accounts.page:18(page/title)
 msgid "Connect to online accounts"
 msgstr "Conectarse a cuentas en línea"
 
-#: C/online-accounts.page:17(item/p)
-msgid "Click on the <gui>User Menu</gui> in the <gui>Top Bar</gui>."
+#: C/online-accounts.page:23(item/p) C/use-search.page:65(item/p)
+#, fuzzy
+#| msgid "Click your name on the top bar and select <gui>Settings</gui>."
+msgid "Click your name on the top bar."
 msgstr ""
-"Pulse en el <gui>Menú de usuario</gui> en la <gui>Barra superior</gui>."
+"Pulse su nombre en la barra superior y seleccione <gui>Configuración</gui>."
 
-#: C/online-accounts.page:18(item/p)
+#: C/online-accounts.page:24(item/p) C/use-search.page:66(item/p)
 msgid "Select the <gui>Settings</gui> item."
 msgstr "Seleccione el elemento <gui>Configuración</gui>."
 
-#: C/online-accounts.page:23(item/p)
+#: C/online-accounts.page:30(item/p)
+#, fuzzy
+#| msgid "From the list of items, select <gui>Background</gui>."
+msgid "From the list of items, select <gui>Online Accounts</gui>."
+msgstr "De la lista de elementos, seleccione <gui>Fondo</gui>."
+
+#: C/online-accounts.page:32(item/p)
 msgid "Click on the <gui>Add an online account</gui> button."
 msgstr "Pulse en el botón <gui>Agregar una cuenta en línea</gui>."
 
-#: C/online-accounts.page:25(note/p)
+#: C/online-accounts.page:35(note/p)
+#, fuzzy
+#| msgid ""
+#| "If you have already had an account set up in the past, click the <gui>+</"
+#| "gui> button on the bottom of the sidebar list to add another."
 msgid ""
-"If you have already had an account set up in the past, click the <gui>+</"
-"gui> button on the bottom of the sidebar list to add another."
+"If you have set up an online account before, you can add another online "
+"account by clicking the <gui>+</gui> button at the bottom left corner of the "
+"window."
 msgstr ""
 "Si ya había creado una cuenta, pulse el botón <gui>+</gui> que está en la "
 "parte inferior de la lista del menú lateral para agregar otra cuenta."
 
-#: C/online-accounts.page:28(item/p)
+#: C/online-accounts.page:42(item/p)
 msgid ""
-"Select the type of online account by clicking on it. A sign in dialog will "
-"pop up, that varies depending on the type of account."
+"Click the online account you want to use. This will open a new window where "
+"you can sign in to your online account."
 msgstr ""
-"Seleccione el tipo de cuenta en línea pulsando sobre ella. Aparecerá un "
-"diálogo de inicio de sesión, que varía según el tipo de cuenta."
 
-#: C/online-accounts.page:32(item/p)
+#: C/online-accounts.page:49(item/p)
 msgid ""
-"For a majority of online accounts, you are required to grant access to the "
-"service in the next step after a successful authorization."
+"In most cases, you will have to grant access to the online service after "
+"signing in to get started."
 msgstr ""
-"Para la mayoría de cuentas en línea, debe conceder acceso al servicio en el "
-"próximo paso después de una autorización exitosa."
 
-#: C/online-accounts.page:33(item/p)
+#: C/online-accounts.page:51(item/p)
+#, fuzzy
+#| msgid ""
+#| "For a google account it is a matter of clicking on the <gui>Grant access</"
+#| "gui> button."
 msgid ""
-"For a google account it is a matter of clicking on the <gui>Grant access</"
-"gui> button."
+"For example, if you are connecting to your Google account, you will have to "
+"click the <gui>Grant Access</gui> button."
 msgstr "Para una cuenta de Google, pulse el botón <gui>Conceder acceso</gui>."
 
-#: C/online-accounts.page:37(item/p)
+#: C/online-accounts.page:58(item/p)
+#, fuzzy
+#| msgid ""
+#| "Many accounts allow you to customize what sort of services you'd like to "
+#| "be using. If you do not wish to use a particular service, disable it with "
+#| "the <gui>on/off switch</gui> on the right."
 msgid ""
-"Many accounts allow you to customize what sort of services you'd like to be "
-"using. If you do not wish to use a particular service, disable it with the "
-"<gui>on/off switch</gui> on the right."
+"Many online accounts let you choose the services you want to use with your "
+"online account. If you do not want to use a service, disable it by clicking "
+"the <gui>ON/OFF</gui> switch on the right-hand side of the window."
 msgstr ""
 "Muchas cuentas le permiten personalizar qué clases de servicios le gustaría "
 "utilizar. Si no desea algún servicio en particular, desactívelo con el "
@@ -1032,7 +1123,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/online.page:18(media)
+#: C/online.page:30(media)
 msgctxt "_"
 msgid "external ref='go-online1.svg' md5='7ffd688bc5d186f95bfcee55d4fa601b'"
 msgstr "external ref='go-online1.svg' md5='7ffd688bc5d186f95bfcee55d4fa601b'"
@@ -1041,7 +1132,7 @@ msgstr "external ref='go-online1.svg' md5='7ffd688bc5d186f95bfcee55d4fa601b'"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/online.page:24(media)
+#: C/online.page:43(media)
 msgctxt "_"
 msgid "external ref='go-online2.svg' md5='2c4ff4e5d03e2f03749a35ad909b3341'"
 msgstr "external ref='go-online2.svg' md5='2c4ff4e5d03e2f03749a35ad909b3341'"
@@ -1050,95 +1141,122 @@ msgstr "external ref='go-online2.svg' md5='2c4ff4e5d03e2f03749a35ad909b3341'"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/online.page:33(media)
+#: C/online.page:62(media)
 msgctxt "_"
 msgid "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
 msgstr "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
 
-#: C/online.page:9(info/title)
+#: C/online.page:15(info/title)
 msgctxt "link:trail"
 msgid "Going online"
 msgstr "Conectarse a Internet"
 
-#: C/online.page:13(page/title)
+#: C/online.page:19(page/title)
 msgid "Going Online"
 msgstr "Conectarse a Internet"
 
-#: C/online.page:14(page/p)
+#: C/online.page:22(note/p)
+#, fuzzy
+#| msgid ""
+#| "The status of your network connection is indicated in the top bar, next "
+#| "to your name/chat status."
 msgid ""
-"The status of your network connection is indicated in the top bar, next to "
-"your name/chat status."
+"You can see the status of your network connection on the right-hand side of "
+"the top bar, next to your name."
 msgstr ""
 "El estado de su conexión de red aparece en la barra superior, al lado de su "
 "nombre/estado de chat."
 
-#: C/online.page:17(section/title)
-msgid "Wired Connections"
-msgstr "Conexiones cableadas"
+#: C/online.page:28(section/title)
+msgid "Connecting to a Wired Network"
+msgstr ""
 
-#: C/online.page:20(item/p)
-msgid "The status icon on the top right corner indicates you are off-line."
+#: C/online.page:33(item/p)
+#, fuzzy
+#| msgid "The status icon on the top right corner indicates you are off-line."
+msgid ""
+"The network connection icon on the right-hand side of the top bar shows that "
+"you are off-line."
 msgstr ""
 "El icono de estado que está en la esquina superior derecha indica que está "
 "desconectado."
 
-#: C/online.page:21(item/p)
+#: C/online.page:35(item/p)
 msgid ""
-"Clicking on the icon may reveal the reason why. It may be that a wire is "
-"disconnected, the machine is in an <em>airplane mode</em> or there are no "
-"wireless networks available."
+"Click the network connection icon to show more details about the status of "
+"your network connection."
 msgstr ""
-"Pulsar en el icono puede mostrar el motivo. Quizás un cable esté "
-"desconectado, el equipo esté en <em>modo avión</em> o no haya redes "
-"inalámbricas disponibles."
 
-#: C/online.page:26(item/p)
-#, fuzzy
-#| msgid ""
-#| "In case of a wired connection, simply connecting the ethernet cable "
-#| "should trigger automatic network configuration. This is indicated by the "
-#| "tripple dot icon in the top bar."
+#: C/online.page:37(item/p)
 msgid ""
-"In case of a wired connection, simply connecting the ethernet cable should "
-"trigger automatic network configuration. This is indicated by the triple dot "
-"icon in the top bar."
+"The off-line status can be caused by a number of reasons: for example, a "
+"network cable has been unplugged, the computer has been set to run in "
+"<em>airplane mode</em>, or there are no available wireless networks in your "
+"area."
 msgstr ""
-"En el caso de una conexión cableada, al conectar el cable de red, se debería "
-"configurar automáticamente. Esto lo indica el icono de tres puntos que "
-"aparece en la barra superior."
 
-#: C/online.page:27(item/p)
+#: C/online.page:46(item/p)
+msgid ""
+"If you want to use a wired connection, just plug in a network cable to go "
+"online. The computer will try to set up the network connection for you "
+"automatically."
+msgstr ""
+
+#: C/online.page:50(item/p)
+msgid ""
+"While the computer sets up a network connection for you, the network "
+"connection icon shows three dots."
+msgstr ""
+
+#: C/online.page:52(item/p)
 #, fuzzy
 #| msgid ""
 #| "Once the the configuration succeeds, the status icon changes to the "
 #| "networked computer symbol."
 msgid ""
-"Once the configuration succeeds, the status icon changes to the networked "
-"computer symbol."
+"Once the network connection has been successfully set up, the network "
+"connection icon changes to the networked computer symbol."
 msgstr ""
 "Una vez que se haya llevado a cabo la configuración, el icono de estado "
 "cambiará al símbolo de equipo en red."
 
-#: C/online.page:32(section/title)
-msgid "Other Types of Connections"
+#: C/online.page:60(section/title)
+#, fuzzy
+#| msgid "Other Types of Connections"
+msgid "Connecting to Other Types of Networks"
 msgstr "Otros tipos de conexiones"
 
-#: C/online.page:35(section/p)
-msgid "FIXME: links to existing wireless/broadband connection documents."
-msgstr "FIXME: vincula documentos existentes de conexión de banda ancha/móvil."
+#: C/online.page:65(item/p)
+msgid ""
+"There are various types of network connections that you can use with your "
+"computer, for example, mobile broadband, or wireless networks."
+msgstr ""
+
+#: C/online.page:68(item/p)
+msgid ""
+"Depending on your computer hardware and the networks availability, you can "
+"choose other connection types by clicking the network connection icon on the "
+"right-hand side of the top bar and selecting the network connection you want "
+"to connect to."
+msgstr ""
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/responding-to-messages.page:22(media)
+#, fuzzy
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-responding-to-messages.webm' "
+#| "md5='8f82d09463e5d8381b790cf94f4bfd00'"
 msgctxt "_"
 msgid ""
-"external ref='figures/responding-to-messages.png' "
-"md5='5ee2c571e1162775974aa9f1addbbc87'"
+"external ref='thumb-responding-to-messages.svg' "
+"md5='09b2f4d5c62b225fc26e03cfd5369bfb'"
 msgstr ""
-"external ref='figures/responding-to-messages.png' "
-"md5='5ee2c571e1162775974aa9f1addbbc87'"
+"external ref='figures/gnome-responding-to-messages.webm' "
+"md5='8f82d09463e5d8381b790cf94f4bfd00'"
 
 #: C/responding-to-messages.page:16(info/title)
 msgctxt "link:trail"
@@ -1339,10 +1457,15 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/switching-tasks.page:22(media)
+#, fuzzy
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/task-switching.png' "
+#| "md5='7c8d4925fd55a1eaf200582f3cbc3a76'"
 msgctxt "_"
 msgid ""
-"external ref='figures/task-switching.png' "
-"md5='7c8d4925fd55a1eaf200582f3cbc3a76'"
+"external ref='thumb-task-switching.svg' "
+"md5='40c644a7f373bca4ce0234bb44ac18b8'"
 msgstr ""
 "external ref='figures/task-switching.png' "
 "md5='7c8d4925fd55a1eaf200582f3cbc3a76'"
@@ -1423,11 +1546,16 @@ msgstr ""
 "Una vez que aparezca y seleccione el icono de la aplicación, presione "
 "<key>Intro</key> para lanzar la aplicación."
 
+#: C/thumb-responding-to-messages.svg:56(text/tspan)
+#, no-wrap
+msgid "Thanks f"
+msgstr ""
+
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/use-search.page:16(media)
+#: C/use-search.page:20(media)
 msgctxt "_"
 msgid "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
 msgstr "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
@@ -1436,7 +1564,7 @@ msgstr "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/use-search.page:23(media)
+#: C/use-search.page:29(media)
 msgctxt "_"
 msgid "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
 msgstr "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
@@ -1445,79 +1573,120 @@ msgstr "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/use-search.page:36(media)
+#: C/use-search.page:56(media)
 msgctxt "_"
 msgid ""
 "external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
 msgstr ""
 "external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
 
-#: C/use-search.page:9(info/title)
+#: C/use-search.page:15(info/title)
 msgctxt "link:trail"
 msgid "Use the system search"
 msgstr ""
 
-#: C/use-search.page:12(page/title)
+#: C/use-search.page:18(page/title)
 msgid "Use the system search"
 msgstr ""
 
-#: C/use-search.page:18(item/p)
-msgid ""
-"Enter the <gui>Activities overview</gui> by throwing the pointer to the top "
-"left edge of the primary screen. Alternatively you can use the <key>Super</"
-"key> key or the FIXME gesture."
-msgstr ""
-"Entre en la <gui>Vista de actividades</gui> deslizando el cursor hacia el "
-"margen superior izquierdo de la pantalla principal. Si no, puede usar la "
-"tecla <key>Super</key> o el gesto FIXME."
-
-#: C/use-search.page:19(item/p)
-msgid ""
-"To initiate search, all you need to do at this point is to start typing. "
-"GNOME will start showing results immediately."
-msgstr ""
-
-#: C/use-search.page:20(item/p)
-msgid ""
-"The very first result is always highlighted, allowing you to immediately "
-"follow the search query with <key>Enter</key> to activate it."
-msgstr ""
-
 #: C/use-search.page:25(item/p)
-msgid "FIXME"
+#, fuzzy
+#| msgid ""
+#| "Start typing the name of the application that you want to launch. "
+#| "Searching for the application begins instantly."
+msgid ""
+"Start typing to search. Results matching what you have typed will appear as "
+"you type."
+msgstr ""
+"Comience a escribir el nombre de la aplicación que desee lanzar. La búsqueda "
+"de la aplicación comienza al instante."
+
+#: C/use-search.page:26(item/p)
+msgid ""
+"The first result is always highlighted and shown at the top. To switch to "
+"the first, highlighted result, press <key>Enter</key>."
 msgstr ""
 
-#: C/use-search.page:29(section/title)
+#: C/use-search.page:31(item/p)
+msgid "Items that can appear in the search results include:"
+msgstr ""
+
+#: C/use-search.page:33(item/p)
+#, fuzzy
+#| msgid "Launching applications with the keyboard"
+msgid "matching applications, shown at the top of the search results,"
+msgstr "Lanzar aplicaciones con el teclado"
+
+#: C/use-search.page:34(item/p)
+msgid "matching settings,"
+msgstr ""
+
+#: C/use-search.page:35(item/p)
+msgid "matching contacts,"
+msgstr ""
+
+#: C/use-search.page:36(item/p)
+msgid "matching documents."
+msgstr ""
+
+#: C/use-search.page:39(item/p)
+msgid "In the search results, click the item to switch to it."
+msgstr ""
+
+#: C/use-search.page:40(item/p)
+msgid ""
+"Alternatively, highlight an item using the arrow keys and press <key>Enter</"
+"key>."
+msgstr ""
+
+#: C/use-search.page:45(section/title)
 msgid "Types of results"
 msgstr ""
 
-#: C/use-search.page:30(section/p)
+#: C/use-search.page:47(section/p)
 msgid ""
 "System search aggregates results from various applications. The first group "
 "of results are application launchers. Activating a launcher will start an "
 "application."
 msgstr ""
 
-#: C/use-search.page:31(section/p)
+#: C/use-search.page:48(section/p)
 msgid ""
 "Other types of results might include <app>settings</app>, <app>contacts</"
 "app> or <app>documents</app>. Each type of result is preceded with an icon "
 "of the application that provided the result (apart from the application "
 "launchers at the top). Only the best matches are presented in the overview, "
 "so if you want more scope for your search, you can click or use the arrow "
-"keys to navigate to the applucation icon on the left to take you to the "
+"keys to navigate to the application icon on the left to take you to the "
 "application itself. As soon as the associated application starts, your "
-"performed query will be perfomed in the application."
+"performed query will be performed in the application."
 msgstr ""
 
-#: C/use-search.page:35(section/title)
-msgid "Search Settings"
+#: C/use-search.page:54(section/title)
+msgid "Customizing search results"
 msgstr ""
 
-#: C/use-search.page:37(section/p)
+#: C/use-search.page:59(note/p)
 msgid ""
-"You can configure what applications may display results in the overview by "
-"going to the <guiseq><gui>Settings</gui><gui>Search</gui></guiseq> panel."
+"GNOME lets you customize what you want to display in the search results in "
+"the <gui>Activities Overview</gui>. For example, you can choose whether you "
+"want to show results for websites, photos, or music."
+msgstr ""
+
+#: C/use-search.page:62(section/p)
+msgid "To customize what is displayed in the search results:"
+msgstr ""
+
+#: C/use-search.page:67(item/p)
+#, fuzzy
+#| msgid "From the list of items, select <gui>Background</gui>."
+msgid "From the list of items, select <gui>Search</gui>."
+msgstr "De la lista de elementos, seleccione <gui>Fondo</gui>."
+
+#: C/use-search.page:68(item/p)
+msgid ""
+"In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
+"the search location you want to enable or disable."
 msgstr ""
 
 #: C/web-browser2.svg:88(text/tspan)
@@ -1549,6 +1718,71 @@ msgstr ""
 #, no-wrap
 msgid "Planet GNOME"
 msgstr ""
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='figures/responding-to-messages.png' "
+#~ "md5='5ee2c571e1162775974aa9f1addbbc87'"
+#~ msgstr ""
+#~ "external ref='figures/responding-to-messages.png' "
+#~ "md5='5ee2c571e1162775974aa9f1addbbc87'"
+
+#~ msgid ""
+#~ "Enter the <gui>Activities overview</gui> by throwing the pointer to the "
+#~ "top left edge of the primary screen. Alternatively you can use the "
+#~ "<key>Super</key> key or the FIXME gesture."
+#~ msgstr ""
+#~ "Entre en la <gui>Vista de actividades</gui> deslizando el cursor hacia el "
+#~ "margen superior izquierdo de la pantalla principal. Si no, puede usar la "
+#~ "tecla <key>Super</key> o el gesto FIXME."
+
+#~ msgid "Click on the <gui>User Menu</gui> in the <gui>Top Bar</gui>."
+#~ msgstr ""
+#~ "Pulse en el <gui>Menú de usuario</gui> en la <gui>Barra superior</gui>."
+
+#~ msgid ""
+#~ "Select the type of online account by clicking on it. A sign in dialog "
+#~ "will pop up, that varies depending on the type of account."
+#~ msgstr ""
+#~ "Seleccione el tipo de cuenta en línea pulsando sobre ella. Aparecerá un "
+#~ "diálogo de inicio de sesión, que varía según el tipo de cuenta."
+
+#~ msgid ""
+#~ "For a majority of online accounts, you are required to grant access to "
+#~ "the service in the next step after a successful authorization."
+#~ msgstr ""
+#~ "Para la mayoría de cuentas en línea, debe conceder acceso al servicio en "
+#~ "el próximo paso después de una autorización exitosa."
+
+#~ msgid "Wired Connections"
+#~ msgstr "Conexiones cableadas"
+
+#~ msgid ""
+#~ "Clicking on the icon may reveal the reason why. It may be that a wire is "
+#~ "disconnected, the machine is in an <em>airplane mode</em> or there are no "
+#~ "wireless networks available."
+#~ msgstr ""
+#~ "Pulsar en el icono puede mostrar el motivo. Quizás un cable esté "
+#~ "desconectado, el equipo esté en <em>modo avión</em> o no haya redes "
+#~ "inalámbricas disponibles."
+
+#, fuzzy
+#~| msgid ""
+#~| "In case of a wired connection, simply connecting the ethernet cable "
+#~| "should trigger automatic network configuration. This is indicated by the "
+#~| "tripple dot icon in the top bar."
+#~ msgid ""
+#~ "In case of a wired connection, simply connecting the ethernet cable "
+#~ "should trigger automatic network configuration. This is indicated by the "
+#~ "triple dot icon in the top bar."
+#~ msgstr ""
+#~ "En el caso de una conexión cableada, al conectar el cable de red, se "
+#~ "debería configurar automáticamente. Esto lo indica el icono de tres "
+#~ "puntos que aparece en la barra superior."
+
+#~ msgid "FIXME: links to existing wireless/broadband connection documents."
+#~ msgstr ""
+#~ "FIXME: vincula documentos existentes de conexión de banda ancha/móvil."
 
 #~ msgctxt "link"
 #~ msgid "Getting Started"
