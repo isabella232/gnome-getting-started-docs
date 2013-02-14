@@ -6,20 +6,23 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-02-12 12:05+0000\n"
-"PO-Revision-Date: 2013-02-13 12:02-0300\n"
-"Last-Translator: Enrico Nicoletto <liverig@gmail.com>\n"
+"POT-Creation-Date: 2013-02-14 17:18+0000\n"
+"PO-Revision-Date: 2013-02-14 17:40-0300\n"
+"Last-Translator: Rafael Ferreira <rafael.f.f1@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Enrico Nicoletto <liverig@gmail.com>, 2013."
+msgstr ""
+"Enrico Nicoletto <liverig@gmail.com>, 2013.\n"
+"Rafael Ferreira <rafael.f.f1@gmail.com>, 2013."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -141,30 +144,34 @@ msgid "Windows and Workspaces"
 msgstr "Janelas e espaços de trabalho"
 
 #: C/animation.xml:11(titles/t)
+msgid "Changing Date, Time and Timezone"
+msgstr "Alterando a data, hora e fuso horário"
+
+#: C/animation.xml:12(titles/t)
 msgid "Maximize"
 msgstr "Maximizar"
 
-#: C/animation.xml:12(titles/t)
+#: C/animation.xml:13(titles/t)
 msgid "Restore"
 msgstr "Restaurar"
 
-#: C/animation.xml:13(titles/t)
+#: C/animation.xml:14(titles/t)
 msgid "Left half of screen"
 msgstr "Metade esquerda da tela"
 
-#: C/animation.xml:14(titles/t)
+#: C/animation.xml:15(titles/t)
 msgid "Workspace down"
 msgstr "Espaço de trabalho abaixo"
 
-#: C/animation.xml:15(titles/t)
+#: C/animation.xml:16(titles/t)
 msgid "Workspace up"
 msgstr "Espaço de trabalho acima"
 
-#: C/animation.xml:16(titles/t)
+#: C/animation.xml:17(titles/t)
 msgid "Right half of screen"
 msgstr "Metade direita da tela"
 
-#: C/animation.xml:17(titles/t) C/go-online1.svg:78(text/tspan)
+#: C/animation.xml:18(titles/t) C/go-online1.svg:78(text/tspan)
 #: C/search1.svg:177(text/tspan) C/search2.svg:99(text/tspan)
 #: C/thumb-changing-wallpaper.svg:68(text/tspan)
 #: C/thumb-launching-apps.svg:192(text/tspan)
@@ -176,39 +183,39 @@ msgstr "Metade direita da tela"
 msgid "Activities"
 msgstr "Atividades"
 
-#: C/animation.xml:18(titles/t)
+#: C/animation.xml:19(titles/t)
 msgid "Enter"
 msgstr "Enter"
 
-#: C/animation.xml:19(titles/t)
+#: C/animation.xml:20(titles/t)
 msgid "Ctrl"
 msgstr "Ctrl"
 
-#: C/animation.xml:20(titles/t)
+#: C/animation.xml:21(titles/t)
 msgid "Alt"
 msgstr "Alt"
 
-#: C/animation.xml:21(titles/t)
+#: C/animation.xml:22(titles/t)
 msgid "Tab"
 msgstr "Tab"
 
-#: C/animation.xml:22(titles/t)
+#: C/animation.xml:23(titles/t)
 msgid "Esc"
 msgstr "Esc"
 
-#: C/animation.xml:23(titles/t)
+#: C/animation.xml:24(titles/t)
 msgid "help"
 msgstr "ajuda"
 
-#: C/animation.xml:24(titles/t)
+#: C/animation.xml:25(titles/t)
 msgid "web"
 msgstr "web"
 
-#: C/animation.xml:25(titles/t)
+#: C/animation.xml:26(titles/t)
 msgid "Just start typing…"
 msgstr "Apenas comece a digitar…"
 
-#: C/animation.xml:26(titles/t) C/goa1.svg:42(text/tspan)
+#: C/animation.xml:27(titles/t) C/goa1.svg:42(text/tspan)
 #: C/goa1.svg:69(text/tspan) C/go-online1.svg:76(text/tspan)
 #: C/go-online1.svg:87(text/tspan) C/go-online1.svg:153(text/tspan)
 #: C/go-online2.svg:45(text/tspan) C/go-online2.svg:76(text/tspan)
@@ -223,57 +230,74 @@ msgstr "Apenas comece a digitar…"
 msgid "John Doe"
 msgstr "John Doe"
 
-#: C/animation.xml:27(titles/t) C/goa1.svg:74(text/tspan)
+#: C/animation.xml:28(titles/t) C/goa1.svg:74(text/tspan)
 #: C/thumb-changing-wallpaper.svg:74(text/tspan)
 #, no-wrap
 msgid "Settings"
 msgstr "Configurações"
 
-#: C/animation.xml:28(titles/t)
+#: C/animation.xml:29(titles/t)
 msgid "Background"
 msgstr "Plano de fundo"
 
-#: C/animation.xml:29(titles/t)
+#: C/animation.xml:30(titles/t)
 msgid "Wallpapers"
 msgstr "Papéis de parede"
 
-#: C/animation.xml:30(titles/t)
+#: C/animation.xml:31(titles/t)
 msgid "Select"
 msgstr "Selecione"
 
-#: C/animation.xml:31(titles/t)
+#: C/animation.xml:32(titles/t)
 msgid "Ready for the meeting?"
 msgstr "Pronto para a reunião?"
 
-#: C/animation.xml:32(titles/t)
+#: C/animation.xml:33(titles/t)
 msgid "I'll be there in a sec..."
 msgstr "Estarei lá em um segundo..."
 
-#: C/animation.xml:33(titles/t)
+#: C/animation.xml:34(titles/t)
 #: C/thumb-responding-to-messages.svg:57(text/tspan)
 #, no-wrap
 msgid "Good stuff, thanks again"
 msgstr "Que ótimo, obrigado novamente!"
 
-#: C/animation.xml:34(titles/t)
+#: C/animation.xml:35(titles/t)
 msgid "Thanks for the support"
 msgstr "Obrigado pelo apoio"
 
-#: C/animation.xml:35(titles/t)
+#: C/animation.xml:36(titles/t)
 msgid "No worries."
 msgstr "Sem problema."
 
-#: C/animation.xml:36(titles/t)
+#: C/animation.xml:37(titles/t)
 msgid "Too kind."
 msgstr "Muito gentil!"
 
+#: C/animation.xml:38(titles/t)
+msgid "Open Calendar"
+msgstr "Abrir agenda"
+
+#: C/animation.xml:39(titles/t)
+msgid "Open Clocks"
+msgstr "Abrir relógios"
+
+#: C/animation.xml:40(titles/t)
+msgid "Date and Time Settings"
+msgstr "Configurações de data e hora"
+
+#: C/animation.xml:41(titles/t)
+msgid "Automatic Date and Time"
+msgstr "Data e hora automática"
+
 #: C/legal.xml:3(p/link)
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
-msgstr "Licença Creative Commons Atribuição-Compartilhada Igual 3.0"
+msgstr ""
+"Licença Creative Commons Atribuição-Compartilhada Igual 3.0 Não Adaptada"
 
 #: C/legal.xml:3(license/p)
 msgid "This work is licensed under a <_:link-1/>."
-msgstr "Esta obra está licenciada sobre uma <_:link-1/>."
+msgstr "Esta obra está licenciada sob uma <_:link-1/>."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -294,17 +318,17 @@ msgid "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
 msgstr "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
 
 #: C/browse-web.page:10(credit/name) C/change-wallpaper.page:10(credit/name)
-#: C/launch-apps.page:10(credit/name) C/move-windows.page:9(credit/name)
-#: C/online-accounts.page:9(credit/name) C/online.page:9(credit/name)
-#: C/responding-to-messages.page:10(credit/name)
+#: C/change-time.page:10(credit/name) C/launch-apps.page:10(credit/name)
+#: C/move-windows.page:9(credit/name) C/online-accounts.page:9(credit/name)
+#: C/online.page:9(credit/name) C/responding-to-messages.page:10(credit/name)
 #: C/switching-tasks.page:9(credit/name) C/use-search.page:9(credit/name)
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
 #: C/browse-web.page:13(credit/name) C/change-wallpaper.page:13(credit/name)
-#: C/launch-apps.page:13(credit/name) C/move-windows.page:12(credit/name)
-#: C/online-accounts.page:12(credit/name) C/online.page:12(credit/name)
-#: C/responding-to-messages.page:13(credit/name)
+#: C/change-time.page:13(credit/name) C/launch-apps.page:13(credit/name)
+#: C/move-windows.page:12(credit/name) C/online-accounts.page:12(credit/name)
+#: C/online.page:12(credit/name) C/responding-to-messages.page:13(credit/name)
 #: C/switching-tasks.page:12(credit/name) C/use-search.page:12(credit/name)
 msgid "Petr Kovar"
 msgstr "Petr Kovar"
@@ -324,46 +348,64 @@ msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen to show the <gui>Activities Overview</gui>."
 msgstr ""
+"Mova o ponteiro do seu mouse para o canto de <gui>Atividades</gui> no topo à "
+"esquerda da tela para mostrar o <gui>Panorama de atividades</gui>."
 
 #: C/browse-web.page:28(item/p)
 msgid ""
 "Select the <app>Web</app> browser icon from the bar on the left-hand side of "
 "the screen."
 msgstr ""
+"Selecione o ícone de navegador <app>Web</app> da barra no lado esquerdo da "
+"tela."
 
 #: C/browse-web.page:32(note/p)
 msgid ""
 "Alternatively, you can launch the <app>Web</app> browser by <link xref=\"use-"
 "search\">just typing</link> the name in the <gui>Activities Overview</gui>."
 msgstr ""
+"Alternativamente, você pode executar o navegador <app>Web</app> ao <link "
+"xref=\"use-search\">simplesmente digitar</link> o nome no <gui>Panorama de "
+"atividades</gui>."
 
 #: C/browse-web.page:39(item/p)
 msgid ""
 "Click the address bar at the top of the <app>Web</app> browser window and "
 "start typing in the website you want to visit."
 msgstr ""
+"Clique na barra de endereço no topo da janela do navegador <app>Web</app> e "
+"comece a digitar a página web que você deseja visitar."
 
 #: C/browse-web.page:41(item/p)
 msgid ""
 "Typing in a website starts searching for it in the browser history and "
 "bookmarks, so you do not need to remember the exact address."
 msgstr ""
+"Ao digitar uma página web, começa a pesquisa por ele no histórico e "
+"favoritos do navegador, de forma que você não precisa se lembrar do endereço "
+"exato."
 
 #: C/browse-web.page:44(item/p)
 msgid ""
 "If the website is found in the history or bookmarks, a drop-down list is "
 "shown below the address bar."
 msgstr ""
+"Se a página web for encontrada no histórico ou favoritos, uma lista suspensa "
+"será mostrada embaixo da barra de endereços."
 
 #: C/browse-web.page:46(item/p)
 msgid ""
 "From the drop-down list, you can quickly select a website using the arrow "
 "keys."
 msgstr ""
+"Com a lista suspensa, você pode selecionar rapidamente uma página web usando "
+"as teclas de setas."
 
 #: C/browse-web.page:49(item/p)
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
 msgstr ""
+"Após ter uma página web selecionada, pressione <key>Enter</key> para visitá-"
+"la."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -375,6 +417,8 @@ msgid ""
 "external ref='figures/gnome-change-wallpaper.webm' "
 "md5='9217e7043891d8077dae3204f2c26182'"
 msgstr ""
+"external ref='figures/gnome-change-wallpaper.webm' "
+"md5='9217e7043891d8077dae3204f2c26182'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -386,6 +430,8 @@ msgid ""
 "external ref='thumb-changing-wallpaper.svg' "
 "md5='763775a32c0e5861c71ef54fdcb24a53'"
 msgstr ""
+"external ref='thumb-changing-wallpaper.svg' "
+"md5='763775a32c0e5861c71ef54fdcb24a53'"
 
 #: C/change-wallpaper.page:16(info/title)
 msgctxt "link:trail"
@@ -399,21 +445,23 @@ msgstr "Altere o papel de parede"
 
 #: C/change-wallpaper.page:29(item/p)
 msgid "Click your name on the top bar and select <gui>Settings</gui>."
-msgstr ""
+msgstr "Clique no nome na barra superior e selecione <gui>Configurações</gui>."
 
 #: C/change-wallpaper.page:31(item/p)
 msgid "From the list of items, select <gui>Background</gui>."
-msgstr ""
+msgstr "Da lista de itens, selecione <gui>Plano de fundo</gui>."
 
 #: C/change-wallpaper.page:32(item/p)
 msgid ""
 "Click the image of your current wallpaper in the center of the "
 "<gui>Background</gui> window."
 msgstr ""
+"Clique na imagem do seu papel de parede atual no centro da janela do "
+"<gui>Plano de fundo</gui>."
 
 #: C/change-wallpaper.page:34(item/p)
 msgid "Click the background image that you want to use."
-msgstr ""
+msgstr "Clique na imagem de plano de fundo que você deseja usar."
 
 #: C/change-wallpaper.page:35(item/p)
 msgid "Click the <gui>Select</gui> button."
@@ -424,19 +472,45 @@ msgid ""
 "Close the <gui>Background</gui> window by clicking the cross at the top-"
 "right corner of the window."
 msgstr ""
+"Feche a janela do <gui>Plano de fundo</gui> clicando no X no canto superior "
+"direito da janela."
 
-#: C/change-time.page:10(info/title)
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/change-time.page:21(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-timezone.webm' "
+"md5='57a4ee4ef7cc7cb37ba03e1f3686666a'"
+msgstr ""
+"external ref='figures/gnome-timezone.webm' "
+"md5='57a4ee4ef7cc7cb37ba03e1f3686666a'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/change-time.page:22(media)
+msgctxt "_"
+msgid ""
+"external ref='thumb-timezone.svg' md5='42ffa67597e33e89eb5d7e31eed50e9e'"
+msgstr ""
+"external ref='thumb-timezone.svg' md5='42ffa67597e33e89eb5d7e31eed50e9e'"
+
+#: C/change-time.page:16(info/title)
 msgctxt "link:trail"
 msgid "Change the time, date and timezone"
-msgstr "Altere a data, hora e fuso horário."
+msgstr "Altere a data, hora e fuso horário"
 
-#: C/change-time.page:13(page/title)
+#: C/change-time.page:19(page/title)
 msgid "Change the time, date and timezone"
 msgstr "Altere a data, hora e fuso horário."
 
-#: C/change-time.page:15(page/p) C/install-software.page:14(page/p)
-msgid "Stay tuned..."
-msgstr "Fique ligado..."
+#: C/change-time.page:26(item/p)
+msgid "FIXME"
+msgstr "CONSERTE-ME"
 
 #: C/goa1.svg:20(Work/format) C/goa2.svg:29(Work/format)
 #: C/goa3.svg:29(Work/format) C/goa4.svg:23(Work/format)
@@ -566,10 +640,11 @@ msgstr "Entrar"
 msgid "john.doe@gmail.com"
 msgstr "john.doe@gmail.com"
 
+# "Conceder" é o termo usado pelo Google e do Google a imagem usada com essa frase.
 #: C/goa4.svg:100(text/tspan)
 #, no-wrap
 msgid "Grant Access"
-msgstr "Permitir acesso"
+msgstr "Conceder acesso"
 
 #: C/goa4.svg:105(text/tspan)
 #, no-wrap
@@ -623,7 +698,7 @@ msgstr "Documentos"
 #: C/search-settings.svg:264(text/tspan) C/search-settings.svg:271(text/tspan)
 #, no-wrap
 msgid "ON"
-msgstr "LIGADO"
+msgstr "ON"
 
 #: C/go-online1.svg:77(text/tspan) C/search1.svg:175(text/tspan)
 #: C/search2.svg:97(text/tspan) C/thumb-changing-wallpaper.svg:70(text/tspan)
@@ -659,7 +734,7 @@ msgstr "Banda larga móvel"
 #: C/go-online3.svg:82(text/tspan) C/search-settings.svg:278(text/tspan)
 #, no-wrap
 msgid "OFF"
-msgstr "DESLIGADO"
+msgstr "OFF"
 
 #: C/go-online1.svg:136(text/tspan) C/go-online3.svg:89(text/tspan)
 #, no-wrap
@@ -689,6 +764,10 @@ msgstr "Obtenha aplicativos adicionais"
 #: C/install-software.page:12(page/title)
 msgid "Get additional applications"
 msgstr "Obtenha aplicativos adicionais"
+
+#: C/install-software.page:14(page/p)
+msgid "Stay tuned..."
+msgstr "Fique ligado..."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -721,12 +800,16 @@ msgid ""
 "Click the <gui>Show Applications</gui> item that is shown at the bottom of "
 "the bar on the left-hand side of the screen."
 msgstr ""
+"Clique no item <gui>Mostrar aplicativos</gui> que mostrado na parte inferior "
+"da barra no lado esquerdo da tela."
 
 #: C/launch-apps.page:35(item/p)
 msgid ""
 "A list of applications is shown. Click the application you want to run, for "
 "example, Help."
 msgstr ""
+"Uma lista de aplicativos é mostrada. Clique no aplicativo que você deseja "
+"executar, por exemplo, Ajuda."
 
 #: C/launch-apps.page:42(section/title)
 msgid "Launching applications with the keyboard"
@@ -737,18 +820,24 @@ msgid ""
 "Open the <gui>Activities Overview</gui> by pressing the <key>Super </key> "
 "key."
 msgstr ""
+"Abra o <gui>Panorama de atividades</gui> ao pressionar a tecla <key>Super </"
+"key>."
 
 #: C/launch-apps.page:47(item/p)
 msgid ""
 "Start typing the name of the application that you want to launch. Searching "
 "for the application begins instantly."
 msgstr ""
+"Comece a digitar o nome do aplicativo que você deseja executar. A pesquisa "
+"pelo aplicativo começa instantaneamente."
 
 #: C/launch-apps.page:49(item/p)
 msgid ""
 "Once the icon of the application is shown and selected, press <key> Enter</"
 "key> to launch the application."
 msgstr ""
+"Assim que o ícone do aplicativo for mostrado e selecionado, pressione "
+"<key>Enter</key> para executar o aplicativo."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -760,6 +849,8 @@ msgid ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
 "md5='77cd38321095b0ecb2d41ab18ed9794f'"
 msgstr ""
+"external ref='figures/gnome-windows-and-workspaces.webm' "
+"md5='77cd38321095b0ecb2d41ab18ed9794f'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -771,15 +862,17 @@ msgid ""
 "external ref='thumb-windows-and-workspaces.svg' "
 "md5='2d0f1a522ee5edf60bd5f5fc7b7da254'"
 msgstr ""
+"external ref='thumb-windows-and-workspaces.svg' "
+"md5='2d0f1a522ee5edf60bd5f5fc7b7da254'"
 
 #: C/move-windows.page:15(info/title)
 msgctxt "link:trail"
 msgid "Use workspaces and windows"
-msgstr "Usar janelas e áreas de trabalho"
+msgstr "Use janelas e áreas de trabalho"
 
 #: C/move-windows.page:18(page/title)
 msgid "Use workspaces and windows"
-msgstr "Usar janelas e áreas de trabalho"
+msgstr "Use janelas e áreas de trabalho"
 
 #: C/move-windows.page:25(section/title)
 msgid "Maximizing and unmaximizing windows"
@@ -790,16 +883,20 @@ msgid ""
 "To maximize a window so that it takes up all of the space on your desktop, "
 "grab the window's titlebar and drag it to the top of the screen."
 msgstr ""
+"Para maximizar uma janela de forma que ela tome todo o espaço da tela do seu "
+"ambiente, pegue a barra de título da janela e arraste-a para o topo."
 
 #: C/move-windows.page:32(item/p)
 msgid "When the screen is highlighted, drop the window to maximize it."
-msgstr ""
+msgstr "Quando a tela for destacada, solte a janela para maximizá-la."
 
 #: C/move-windows.page:34(item/p)
 msgid ""
 "To restore a window to its unmaximized size, grab the window's titlebar and "
 "drag it away from the edges of the screen."
 msgstr ""
+"Para restaurar uma janela para seu tamanho não maximizado, segure a barra de "
+"título da janela e arraste-a para longe das bordas da tela."
 
 #: C/move-windows.page:41(section/title)
 #: C/switching-tasks.page:38(section/title)
@@ -811,40 +908,52 @@ msgid ""
 "To maximize a window along a side of the screen, grab the window's titlebar "
 "and drag it to the left or right side of the screen."
 msgstr ""
+"Para maximizar uma janela junto a um lado da tela, segure a barra de título "
+"de janela e arraste-a para o lado esquerdo ou direito da tela."
 
 #: C/move-windows.page:47(item/p) C/switching-tasks.page:43(item/p)
 msgid ""
 "When half of the screen is highlighted, drop the window to maximize it along "
 "the selected side of the screen."
 msgstr ""
+"Quando metade da tela estiver destacada, solte a janela para maximizá-la "
+"junto ao lado selecionado da tela."
 
 #: C/move-windows.page:49(item/p) C/switching-tasks.page:45(item/p)
 msgid ""
 "To maximize two windows side-by-side, grab the titlebar of the second window "
 "and drag it to the opposite side of the screen."
 msgstr ""
+"Para maximizar duas janelas lado a lado, agarre a barra de título da segunda "
+"janela e arraste-a para o lado oposto da tela."
 
 #: C/move-windows.page:51(item/p) C/switching-tasks.page:47(item/p)
 msgid ""
 "When half of the screen is highlighted, drop the window to maximize it along "
 "the opposite side of the screen."
 msgstr ""
+"Quando metade da tela estiver destacada, solte a janela para maximizá-la "
+"junto ao lado oposto da tela."
 
 #: C/move-windows.page:58(section/title)
 msgid "Maximizing and unmaximizing windows using the keyboard"
-msgstr ""
+msgstr "Maximizando e desmaximizando janelas usando o teclado"
 
 #: C/move-windows.page:61(item/p)
 msgid ""
 "To maximize a window using the keyboard, hold down the Super key and press "
 "<key>↑</key>."
 msgstr ""
+"Para maximizar uma janela usando o teclado, mantenha pressionada a tecla "
+"Super e pressione <key>↑</key>."
 
 #: C/move-windows.page:63(item/p)
 msgid ""
 "To unmaximize a window using the keyboard, hold down the Super key and press "
 "<key>↓</key>."
 msgstr ""
+"Para desmaximizar uma janela usando o teclado, mantenha pressionada a tecla "
+"Super e pressione <key>↓</key>."
 
 #: C/move-windows.page:70(section/title)
 msgid "Tiling windows using the keyboard"
@@ -855,12 +964,16 @@ msgid ""
 "To maximize a window along the right side of the screen, hold down the Super "
 "key and press <key>→</key>."
 msgstr ""
+"Para maximizar uma janela junto ao lado direito da tela, mantenha "
+"pressionada a tecla Super e pressione <key>→</key>."
 
 #: C/move-windows.page:75(item/p)
 msgid ""
 "To maximize a window along the left side of the screen, hold down the Super "
 "key and press <key>←</key>."
 msgstr ""
+"Para maximizar uma janela junto ao lado esquerdo da tela, mantenha "
+"pressionada a tecla Super e pressione <key>←</key>."
 
 #: C/move-windows.page:82(section/title)
 msgid "Switching workspaces using the keyboard"
@@ -871,12 +984,16 @@ msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
 msgstr ""
+"Para mover um espaço de trabalho que está embaixo do espaço de trabalho "
+"atual, pressione <keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
 
 #: C/move-windows.page:88(item/p)
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
 msgstr ""
+"Para mover um espaço de trabalho que está em cima do espaço de trabalho "
+"atual, pressione <keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -934,19 +1051,19 @@ msgstr "Conecte-se a contas online"
 
 #: C/online-accounts.page:23(item/p) C/use-search.page:65(item/p)
 msgid "Click your name on the top bar."
-msgstr ""
+msgstr "Clique no seu nome na barra superior."
 
 #: C/online-accounts.page:24(item/p) C/use-search.page:66(item/p)
 msgid "Select the <gui>Settings</gui> item."
-msgstr ""
+msgstr "Selecione o item <gui>Configurações</gui>."
 
 #: C/online-accounts.page:30(item/p)
 msgid "From the list of items, select <gui>Online Accounts</gui>."
-msgstr ""
+msgstr "Da lista de itens, selecione <gui>Contas on-line</gui>."
 
 #: C/online-accounts.page:32(item/p)
 msgid "Click on the <gui>Add an online account</gui> button."
-msgstr ""
+msgstr "Clique no botão <gui>Adicionar uma conta on-line</gui>."
 
 #: C/online-accounts.page:35(note/p)
 msgid ""
@@ -954,24 +1071,32 @@ msgid ""
 "account by clicking the <gui>+</gui> button at the bottom left corner of the "
 "window."
 msgstr ""
+"Se você definiu uma conta on-line anteriormente, você pode adicionar outra "
+"conta on-line clicando no botão <gui>+</gui> no canto esquerdo da janela."
 
 #: C/online-accounts.page:42(item/p)
 msgid ""
 "Click the online account you want to use. This will open a new window where "
 "you can sign in to your online account."
 msgstr ""
+"Clique na conta on-line que você deseja usar. Isso vai abrir uma nova janela "
+"onde você pode autenticar sua conta online."
 
 #: C/online-accounts.page:49(item/p)
 msgid ""
 "In most cases, you will have to grant access to the online service after "
 "signing in to get started."
 msgstr ""
+"Na maioria dos casos, você vai ter que conceder acesso ao serviço on-line "
+"após autenticar para começar."
 
 #: C/online-accounts.page:51(item/p)
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
 "click the <gui>Grant Access</gui> button."
 msgstr ""
+"Por exemplo, se você está conectando a sua conta Google, você terá que "
+"clicar no botão <gui>Conceder acesso</gui>."
 
 #: C/online-accounts.page:58(item/p)
 msgid ""
@@ -979,6 +1104,9 @@ msgid ""
 "online account. If you do not want to use a service, disable it by clicking "
 "the <gui>ON/OFF</gui> switch on the right-hand side of the window."
 msgstr ""
+"Muitas contas on-line permitem que você escolha os serviços que você deseja "
+"usar com sua conta on-line. Se você não deseja usar um serviço, desabilite-o "
+"clicando no interruptor de <gui>ON/OFF</gui> no lado direito da janela."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -1021,22 +1149,28 @@ msgid ""
 "You can see the status of your network connection on the right-hand side of "
 "the top bar, next to your name."
 msgstr ""
+"Você pode ver o status da conexão de rede no lado direito da barra superior, "
+"próximo ao seu nome."
 
 #: C/online.page:28(section/title)
 msgid "Connecting to a Wired Network"
-msgstr ""
+msgstr "Conectando a uma rede cabeada"
 
 #: C/online.page:33(item/p)
 msgid ""
 "The network connection icon on the right-hand side of the top bar shows that "
 "you are off-line."
 msgstr ""
+"O ícone de conexão de rede no lado direito da barra superior mostra que você "
+"está desconectado."
 
 #: C/online.page:35(item/p)
 msgid ""
 "Click the network connection icon to show more details about the status of "
 "your network connection."
 msgstr ""
+"Clique no ícone de conexão de rede para mostrar mais detalhes sobre o status "
+"de sua conexão de rede."
 
 #: C/online.page:37(item/p)
 msgid ""
@@ -1045,6 +1179,9 @@ msgid ""
 "<em>airplane mode</em>, or there are no available wireless networks in your "
 "area."
 msgstr ""
+"O status de desconexão pode ser causado por vários motivos: por exemplo, um "
+"cabo de rede foi desconectado, o computador foi configurado para executar em "
+"<em>modo avião</em> ou não há redes sem fio na sua área."
 
 #: C/online.page:46(item/p)
 msgid ""
@@ -1052,18 +1189,25 @@ msgid ""
 "online. The computer will try to set up the network connection for you "
 "automatically."
 msgstr ""
+"Se você deseja usar uma conexão cabeada, basta conectar o cabo de rede para "
+"ficar on-line. O computador vai tentar configurar sua conexão de rede "
+"automaticamente."
 
 #: C/online.page:50(item/p)
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
 msgstr ""
+"Enquanto o computador configura a conexão de rede para você, o ícone de "
+"conexão de rede mostra três pontos."
 
 #: C/online.page:52(item/p)
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to the networked computer symbol."
 msgstr ""
+"Assim que a conexão de rede tiver sido configurada com sucesso, o ícone de "
+"conexão de rede muda para o símbolo de computador conectado."
 
 #: C/online.page:60(section/title)
 msgid "Connecting to Other Types of Networks"
@@ -1074,6 +1218,8 @@ msgid ""
 "There are various types of network connections that you can use with your "
 "computer, for example, mobile broadband, or wireless networks."
 msgstr ""
+"Há vários tipos de conexões de rede que você pode usar com seu computador, "
+"como por exemplo, banda larga móvel ou redes sem fio."
 
 #: C/online.page:68(item/p)
 msgid ""
@@ -1082,6 +1228,10 @@ msgid ""
 "right-hand side of the top bar and selecting the network connection you want "
 "to connect to."
 msgstr ""
+"Dependendo do hardware do seu computador e das redes disponíveis, você pode "
+"escolher outros tipos de conexão clicando no ícone de conexão de rede no "
+"lado direito da barra superior e selecionando a conexão de rede que você "
+"deseja se conectar."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -1107,13 +1257,15 @@ msgstr "Respondendo a mensagens"
 
 #: C/responding-to-messages.page:26(section/title)
 msgid "Responding to a chat message with the mouse"
-msgstr ""
+msgstr "Responda a uma mensagem de bate-papo com o mouse"
 
 #: C/responding-to-messages.page:29(item/p)
 msgid ""
 "Move your mouse to the message tray that can found at the bottom of the "
 "screen and click the chat message."
 msgstr ""
+"Mova seu mouse para a área de notificação, que pode ser encontrada no parte "
+"inferior da tela, e clique na mensagem de bate-papo."
 
 #: C/responding-to-messages.page:31(item/p)
 #: C/responding-to-messages.page:66(item/p)
@@ -1121,6 +1273,8 @@ msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send "
 "the reply."
 msgstr ""
+"Comece a digitar sua resposta e, quando finalizar, pressione <key>Enter</"
+"key> para enviá-la."
 
 #: C/responding-to-messages.page:33(item/p)
 #: C/responding-to-messages.page:52(item/p)
@@ -1128,38 +1282,48 @@ msgid ""
 "To close the chat message, click the close button at the top right corner of "
 "the chat message."
 msgstr ""
+"Para fechar a mensagem de bate-papo, clique no botão de fechar no canto "
+"direito da mensagem de bate-papo."
 
 #: C/responding-to-messages.page:40(section/title)
 msgid "Delayed response to a chat message using the mouse"
-msgstr ""
+msgstr "Resposta atrasada a uma mensagem de bate-papo usando o mouse"
 
 #: C/responding-to-messages.page:43(item/p)
 msgid ""
 "When a chat message appears in the message tray and you do not move your "
 "mouse to the message tray, the message disappears after a while."
 msgstr ""
+"Quando uma mensagem aparece na área de notificação e você não move seu mouse "
+"da área de notificação, a mensagem desaparece depois de um tempo."
 
 #: C/responding-to-messages.page:46(item/p)
 msgid ""
 "To get back to your unanswered message, move your mouse to the message tray "
 "at the very bottom of the screen."
 msgstr ""
+"Para voltar para a sua mensagem não respondida, mova seu mouse para a área "
+"de notificação na parte inferior da tela."
 
 #: C/responding-to-messages.page:48(item/p)
 msgid ""
 "When the message tray appears, click a small image that represents the "
 "person who sent you the message."
 msgstr ""
+"quando a área de notificação aparecer, clique na pequena imagem que "
+"representa a pessoa que lhe enviou a mensagem."
 
 #: C/responding-to-messages.page:50(item/p)
 msgid ""
 "When the chat message is shown, start typing your reply and when finished, "
 "press <key>Enter</key> to send the reply."
 msgstr ""
+"Quando a mensagem de bate-papo é mostrada, comece a digitar sua resposta e, "
+"quando finalizar, pressione <key>Enter</key> para enviá-la."
 
 #: C/responding-to-messages.page:59(section/title)
 msgid "Delayed response to a chat message using the keyboard"
-msgstr ""
+msgstr "Reposta atrasada a uma mensagem de bate-papo usando o teclado"
 
 #: C/responding-to-messages.page:61(item/p)
 msgid ""
@@ -1167,22 +1331,29 @@ msgid ""
 "key><key>M</key></keyseq> to display the message tray that contains the "
 "messages."
 msgstr ""
+"Para voltar para suas mensagens não respondidas, pressione <keyseq><key> "
+"Super</key><key>M</key></keyseq> para exibir a área de notificação que "
+"contém as mensagens."
 
 #: C/responding-to-messages.page:64(item/p)
 msgid ""
 "Use the arrow keys to select a small image representing the person you want "
 "to reply to, and press <key>Enter</key>."
 msgstr ""
+"Use as teclas de setas para selecionar uma pequena imagem representando a "
+"pessoa para quem você deseja responder e pressione <key>Enter</key>."
 
 #: C/responding-to-messages.page:68(item/p)
 msgid "Press <key>Esc</key> to close the chat message."
-msgstr ""
+msgstr "Pressione <key>Esc</key> para fechar a mensagem de bate-papo."
 
 #: C/responding-to-messages.page:69(item/p)
 msgid ""
 "To dismiss the message tray, press <key>Esc</key> or <keyseq><key>Super</"
 "key><key>M</key></keyseq>."
 msgstr ""
+"Para dispensar a área de notificação, pressione <key>Esc</key> ou "
+"<keyseq><key>Super</key><key>M</key></keyseq>."
 
 #: C/search1.svg:187(text/tspan)
 #, no-wrap
@@ -1202,7 +1373,7 @@ msgstr "Contas"
 #: C/search2.svg:171(text/tspan)
 #, no-wrap
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
-msgstr ""
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 
 #: C/search2.svg:172(text/tspan)
 #, no-wrap
@@ -1217,7 +1388,7 @@ msgstr "fontconfig"
 #: C/search2.svg:174(text/tspan)
 #, no-wrap
 msgid "system-config-http.zip"
-msgstr ""
+msgstr "system-config-http.zip"
 
 #: C/search2.svg:175(text/tspan)
 #, no-wrap
@@ -1279,6 +1450,8 @@ msgid ""
 "external ref='thumb-task-switching.svg' "
 "md5='40c644a7f373bca4ce0234bb44ac18b8'"
 msgstr ""
+"external ref='thumb-task-switching.svg' "
+"md5='40c644a7f373bca4ce0234bb44ac18b8'"
 
 #: C/switching-tasks.page:15(info/title)
 msgctxt "link:trail"
@@ -1296,10 +1469,13 @@ msgid ""
 "of the screen to show the <gui>Activities Overview</gui> where you can see "
 "the currently running tasks displayed as small windows."
 msgstr ""
+"Mova o ponteiro do seu mouse para o canto de <gui>Atividades</gui> na parte "
+"esquerda superior da tela para mostrar o <gui>Panorama de atividades</gui>, "
+"onde você pode ver as tarefas em execução exibidas em pequenas janelas."
 
 #: C/switching-tasks.page:32(item/p)
 msgid "Click a window to switch the task."
-msgstr ""
+msgstr "Clique em uma janela para alternar para esta tarefa."
 
 #: C/switching-tasks.page:54(section/title)
 msgid "Switching between windows"
@@ -1310,44 +1486,57 @@ msgid ""
 "Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the <gui>Window "
 "Switcher</gui>, which lists the currently open windows."
 msgstr ""
+"Pressione <keyseq><key>Alt</key><key>Tab</key></keyseq> para mostrar o "
+"<gui>Alternador de janelas</gui>, o qual lista as janelas abertas no momento."
 
 #: C/switching-tasks.page:59(item/p)
 msgid ""
 "Release <key>Alt</key> to select the next highlighted window in the Window "
 "Switcher."
 msgstr ""
+"Solte <key>Alt</key> para selecionar a próxima janela selecionada no "
+"alternador de janelas."
 
 #: C/switching-tasks.page:61(item/p)
 msgid ""
 "To cycle through the list of open windows, do not release <key>Alt</key> but "
 "hold it down, and press <key>Tab</key>."
 msgstr ""
+"Para circular pela lista de janelas abertas, não solte o <key>Alt</key>, mas "
+"mantenha-o pressionado, e pressione <key>Tab</key>."
 
 #: C/switching-tasks.page:68(section/title)
 msgid "Using search to switch applications"
-msgstr ""
+msgstr "Usando a pesquisa para alternar aplicativos"
 
 #: C/switching-tasks.page:71(item/p)
 msgid ""
 "Press the <key>Super</key> key to show the <gui>Activities Overview</gui>."
 msgstr ""
+"Pressione a tecla <key>Super</key> para mostrar o <gui>Panorama de "
+"atividades</gui>."
 
 #: C/switching-tasks.page:73(item/p)
 msgid ""
 "Just start typing the name of the application you want to switch to. "
 "Applications matching what you have typed will appear as you type."
 msgstr ""
+"Basta começar a digitar o nome do aplicativo para o qual você deseja "
+"alternar. Aplicativos correspondendo ao que você digitou vão aparecer na "
+"medida em que você digita."
 
 #: C/switching-tasks.page:76(item/p)
 msgid ""
 "When the application that you want to switch to appears as the first result, "
 "press <key>Enter</key> to switch to it."
 msgstr ""
+"Quando aparecer o aplicativo para o qual você deseja alternar como primeiro "
+"resultado, pressione <key>Enter</key> para alternar para ele."
 
 #: C/thumb-responding-to-messages.svg:56(text/tspan)
 #, no-wrap
 msgid "Thanks f"
-msgstr ""
+msgstr "Thanks f"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -1381,27 +1570,31 @@ msgstr ""
 #: C/use-search.page:15(info/title)
 msgctxt "link:trail"
 msgid "Use the system search"
-msgstr "Utilizar a pesquisa do sistema"
+msgstr "Utilize a pesquisa do sistema"
 
 #: C/use-search.page:18(page/title)
 msgid "Use the system search"
-msgstr "Utilizar a pesquisa do sistema"
+msgstr "Utilize a pesquisa do sistema"
 
 #: C/use-search.page:25(item/p)
 msgid ""
 "Start typing to search. Results matching what you have typed will appear as "
 "you type."
 msgstr ""
+"Comece a digitar para pesquisar. Resultados correspondendo a o que você "
+"digitou vão aparecer na medida em que você digita."
 
 #: C/use-search.page:26(item/p)
 msgid ""
 "The first result is always highlighted and shown at the top. To switch to "
 "the first, highlighted result, press <key>Enter</key>."
 msgstr ""
+"O primeiro resultado é sempre destacado e mostrado em cima. Para alternar "
+"para o primeiro resultado, destacado, pressione <key>Enter</key>."
 
 #: C/use-search.page:31(item/p)
 msgid "Items that can appear in the search results include:"
-msgstr ""
+msgstr "Itens que podem aparecer nos resultados de pesquisa incluem:"
 
 #: C/use-search.page:33(item/p)
 msgid "matching applications, shown at the top of the search results,"
@@ -1418,17 +1611,19 @@ msgstr "contatos correspondentes,"
 
 #: C/use-search.page:36(item/p)
 msgid "matching documents."
-msgstr ""
+msgstr "documentos correspondentes."
 
 #: C/use-search.page:39(item/p)
 msgid "In the search results, click the item to switch to it."
-msgstr ""
+msgstr "Nos resultados de pesquisa, clique no item para alternar para ele."
 
 #: C/use-search.page:40(item/p)
 msgid ""
 "Alternatively, highlight an item using the arrow keys and press <key>Enter</"
 "key>."
 msgstr ""
+"Alternativamente, destaque um item usando as teclas de setas e pressione "
+"<key>Enter</key>."
 
 #: C/use-search.page:45(section/title)
 msgid "Types of results"
@@ -1440,6 +1635,9 @@ msgid ""
 "of results are application launchers. Activating a launcher will start an "
 "application."
 msgstr ""
+"Pesquisa do sistema agrega resultados de vários aplicativos. O primeiro "
+"grupo de resultados são são os aplicativos. Ao executar um deles vai iniciar "
+"um aplicativo."
 
 #: C/use-search.page:48(section/p)
 msgid ""
@@ -1452,10 +1650,18 @@ msgid ""
 "application itself. As soon as the associated application starts, your "
 "performed query will be performed in the application."
 msgstr ""
+"Outros tipos de resultados podem incluir <app>configurações</app>, "
+"<app>contatos</app> ou <app>documentos</app>. Cada tipo de resultado é "
+"precedido de um ícone do aplicativo que foi fornecido no resultado (além dos "
+"aplicativos na parte superior). Apenas os que melhor corresponderem vão ser "
+"apresentados no panorama e se você deseja um escopo maior para sua pesquisa, "
+"você pode clicar ou usar as teclas de setas para navegar para o ícone de "
+"aplicativo à esquerda para levar você ao aplicativo. Assim que o aplicativo "
+"associado inicia, sua consulta realizada é realizada no aplicativo."
 
 #: C/use-search.page:54(section/title)
 msgid "Customizing search results"
-msgstr ""
+msgstr "Personalizando resultados de pesquisa"
 
 #: C/use-search.page:59(note/p)
 msgid ""
@@ -1463,20 +1669,25 @@ msgid ""
 "the <gui>Activities Overview</gui>. For example, you can choose whether you "
 "want to show results for websites, photos, or music."
 msgstr ""
+"GNOME permite que você personalize o que você deseja exibir nos resultados "
+"de pesquisa no <gui>Panorama de atividades</gui>. Por exemplo, você pode "
+"escolher se deseja mostrar resultados de páginas web, fotos ou músicas."
 
 #: C/use-search.page:62(section/p)
 msgid "To customize what is displayed in the search results:"
-msgstr ""
+msgstr "Para personalizar o que é exibido nos resultados de pesquisa:"
 
 #: C/use-search.page:67(item/p)
 msgid "From the list of items, select <gui>Search</gui>."
-msgstr ""
+msgstr "Da lista de itens, selecione <gui>Pesquisar</gui>."
 
 #: C/use-search.page:68(item/p)
 msgid ""
 "In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
 "the search location you want to enable or disable."
 msgstr ""
+"Na lista de localizações de pesquisa, clique no interruptor de <gui>ON/OFF</"
+"gui> próximo à localização de pesquisa que deseja habilitar ou desabilitar."
 
 #: C/web-browser2.svg:88(text/tspan)
 #, no-wrap
@@ -1524,9 +1735,6 @@ msgstr "Planeta GNOME"
 #~ "Entre em <gui>Visão geral das atividades</gui> lançando o ponteiro à "
 #~ "margem superior esquerda da tela primária. De forma alternativa, você "
 #~ "pode usar a tecla <key>Super</key> ou o gesto de CONSERTE-ME."
-
-#~ msgid "FIXME"
-#~ msgstr "CONSERTE-ME"
 
 #, fuzzy
 #~ msgctxt "link"
