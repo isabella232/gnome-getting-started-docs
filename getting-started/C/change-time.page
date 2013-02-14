@@ -2,16 +2,33 @@
       xmlns:ui="http://projectmallard.org/experimental/ui/"
       type="topic"
       style="ui"
-      id="change-time">
+      id="change-wallpaper">
 
   <info>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+    <credit type="author">
+      <name>Jakub Steiner</name>
+    </credit>
+    <credit type="author">
+      <name>Petr Kovar</name>
+    </credit>
     <link type="guide" xref="index" group="tasks"/>
     <title role="trail" type="link">Change the time, date and timezone</title>
   </info>
 
   <title>Change the time, date and timezone</title>
 
-  <p>Stay tuned...</p>
+  <media type="video" src="figures/gnome-timezone.webm" width="840" height="468">
+    <media type="image" style="poster" src="thumb-timezone.svg"/>
+  </media>
+
+  <steps>
+    <item><p>FIXME</p></item>
+  </steps>
+
+  <!-- FIXME: 
+	- changing timezone hopefully won't require authorization
+	- explain why time/date does
+  -->
 
 </page>
