@@ -22,6 +22,36 @@
 
    <media type="video" src="figures/gnome-launching-applications.webm" width="840" height="468">
      <media type="image" style="poster" src="thumb-launching-apps.svg"/>
+      <tt:tt xmlns:tt="http://www.w3.org/ns/ttml">
+       <tt:body>
+         <tt:div begin="1s" end="5s">
+           <tt:p>Launching Applications</tt:p>
+         </tt:div>
+         <tt:div begin="5s" end="7.5s">
+           <tt:p>Move your mouse pointer to the <gui>Activities</gui> corner at
+            the top left of the screen.</tt:p>
+           </tt:div>
+         <tt:div begin="7.5s" end="9.5s">
+           <tt:p>Click the <gui>Show Applications</gui> item.</tt:p>
+         </tt:div>
+         <tt:div begin="9.5s" end="11s">
+           <tt:p>Click the application you want to run, for example,
+            Help.</tt:p>
+         </tt:div>
+         <tt:div begin="12s" end="21s">
+           <tt:p>Use the keyboard to open the <gui>Activities Overview</gui>
+                 <tt:span begin="3s">by pressing the <key>Super</key> key.
+                 </tt:span></tt:p>
+         </tt:div>
+         <tt:div begin="22s" end="29s">
+           <tt:p>Start typing the name of the application you want to launch.
+           </tt:p>
+         </tt:div>
+         <tt:div begin="30s" end="33s">
+           <tt:p>Press <key>Enter</key> to launch the application.</tt:p>
+         </tt:div>
+       </tt:body>
+     </tt:tt>
    </media>
   
   <section id="launching-apps-mouse">
@@ -44,7 +74,7 @@
   <steps>
     <item><p>Open the <gui>Activities Overview</gui> by pressing the <key>Super
     </key> key.</p></item>
-    <item><p>Start typing the name of the application that you want to launch.
+    <item><p>Start typing the name of the application you want to launch.
      Searching for the application begins instantly.</p></item>
     <item><p>Once the icon of the application is shown and selected, press <key>
     Enter</key> to launch the application.</p></item>
