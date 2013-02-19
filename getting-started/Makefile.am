@@ -9,6 +9,7 @@ HELP_MEDIA = \
 	figures/gnome-launching-applications.webm \
 	figures/gnome-responding-to-messages.webm \
 	figures/gnome-task-switching.webm \
+	figures/gnome-timezone.webm \
 	figures/gnome-windows-and-workspaces.webm \
 	figures/gnome-yelp-intro.webm
 
@@ -41,6 +42,7 @@ HELP_FILES = \
 	thumb-launching-apps.svg \
 	thumb-responding-to-messages.svg \
 	thumb-task-switching.svg \
+	thumb-timezone.svg \
 	thumb-windows-and-workspaces.svg \
 	use-search.page \
 	web-browser1.svg \
