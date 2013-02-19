@@ -20,6 +20,31 @@
 
   <media type="video" src="figures/gnome-change-wallpaper.webm" width="840" height="468">
     <media type="image" style="poster" src="thumb-changing-wallpaper.svg"/>
+      <tt:tt xmlns:tt="http://www.w3.org/ns/ttml">
+       <tt:body>
+         <tt:div begin="1s" end="5s">
+           <tt:p>Changing Wallpaper</tt:p>
+         </tt:div>
+         <tt:div begin="6s" end="9s">
+           <tt:p>Click your name on the top bar and select <gui>Settings</gui>.</tt:p>
+           </tt:div>
+         <tt:div begin="10s" end="12s">
+           <tt:p>Select <gui>Background</gui>.</tt:p>
+         </tt:div>
+         <tt:div begin="12s" end="13s">
+           <tt:p>Click the image of your current wallpaper.</tt:p>
+         </tt:div>
+         <tt:div begin="13s" end="16s">
+           <tt:p>Click the background image that you want to use.</tt:p>
+         </tt:div>
+         <tt:div begin="16s" end="18s">
+           <tt:p>Click the <gui>Select</gui> button.</tt:p>
+         </tt:div>
+         <tt:div begin="18s" end="21s">
+           <tt:p>Close the <gui>Background</gui> window.</tt:p>
+         </tt:div>
+       </tt:body>
+     </tt:tt>
   </media>
   
   <section id="change-wallpaper-overview">
