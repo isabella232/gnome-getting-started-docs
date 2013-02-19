@@ -2,7 +2,7 @@
       xmlns:ui="http://projectmallard.org/experimental/ui/"
       type="topic"
       style="ui"
-      id="change-wallpaper">
+      id="change-time">
 
   <info>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -13,22 +13,61 @@
       <name>Petr Kovar</name>
     </credit>
     <link type="guide" xref="index" group="tasks"/>
-    <title role="trail" type="link">Change the time, date and timezone</title>
+    <title role="trail" type="link">Change the date, time and timezone</title>
   </info>
 
-  <title>Change the time, date and timezone</title>
+  <title>Change the date, time and timezone</title>
 
   <media type="video" src="figures/gnome-timezone.webm" width="840" height="468">
     <media type="image" style="poster" src="thumb-timezone.svg"/>
+      <tt:tt xmlns:tt="http://www.w3.org/ns/ttml">
+       <tt:body>
+         <tt:div begin="1s" end="5s">
+           <tt:p>Changing Date &amp; Time</tt:p>
+         </tt:div>
+         <tt:div begin="6s" end="8s">
+           <tt:p>Click the clock on the top bar.</tt:p>
+           </tt:div>
+         <tt:div begin="8s" end="13s">
+           <tt:p>Select the <gui>Date &amp; Time Settings</gui> item.</tt:p>
+         </tt:div>
+         <tt:div begin="13s" end="16s">
+           <tt:p>Click on your location on the map.</tt:p>
+         </tt:div>
+         <tt:div begin="16s" end="20s">
+           <tt:p>You can adjust the date and time by clicking on the arrows to
+           choose the hour, minute, and year.</tt:p>
+         </tt:div>
+         <tt:div begin="21s" end="23s">
+           <tt:p>Close the window.</tt:p>
+         </tt:div>
+       </tt:body>
+     </tt:tt>
   </media>
+  
+  <section id="changing-date-time">
+    <title>Changing the date, time and timezone</title>
 
   <steps>
-    <item><p>FIXME</p></item>
+    <item><p>Click the clock on the top bar.</p></item>
+    <item><p>Select the <gui>Date &amp; Time Settings</gui> item.</p></item>
+    <item><p><!-- FIXME: changing timezone hopefully won't require
+     authorization-->You may need to click the <gui>Unlock</gui> button and type
+     the administrator's password.</p></item>
+    <item><p>Click on your location on the map.</p>
+    <p>This selects your current city, which you can also see in the drop-down
+     list below the map.</p></item>
+    <item><p>On the left-hand side of the window, you can adjust the date and
+     time by clicking on the arrows to choose the hour, minute, and year.</p>
+     </item>
+    <item><p>Close the window by clicking the cross at the top-right corner of
+     the window.</p></item>
   </steps>
 
   <!-- FIXME: 
-	- changing timezone hopefully won't require authorization
-	- explain why time/date does
+	- explain what time/date does - a reference in further reading?
   -->
+
+  </section>
 
 </page>
