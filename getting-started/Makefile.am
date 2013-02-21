@@ -2,7 +2,7 @@
 
 HELP_ID = getting-started
 
-HELP_LINGUAS = cs es id pt_BR
+HELP_LINGUAS = cs es gl id pt_BR
 
 HELP_MEDIA = \
 	figures/gnome-change-wallpaper.webm \
