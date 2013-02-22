@@ -10,13 +10,14 @@
 # 
 # 
 # 
+# 
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2013., 2013.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-02-12 12:05+0000\n"
-"PO-Revision-Date: 2013-02-13 16:52+0100\n"
+"POT-Creation-Date: 2013-02-20 17:44+0000\n"
+"PO-Revision-Date: 2013-02-22 11:29+0100\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -103,17 +104,13 @@ msgstr ""
 "md5='8f82d09463e5d8381b790cf94f4bfd00'"
 
 #: C/index.page:8(info/desc)
-#, fuzzy
-#| msgid "Getting Started"
 msgid "Getting Started with GNOME"
-msgstr "Primeros pasos"
+msgstr "Primeros pasos con GNOME"
 
 #: C/index.page:9(info/title)
-#, fuzzy
-#| msgid "Getting Started"
 msgctxt "link"
 msgid "Getting Started with GNOME"
-msgstr "Primeros pasos"
+msgstr "Primeros pasos con GNOME"
 
 #: C/index.page:10(info/title)
 msgctxt "text"
@@ -132,11 +129,11 @@ msgstr "Tareas frecuentes"
 msgid "Welcome"
 msgstr "Bienvenido"
 
-#: C/animation.xml:4(titles/t)
+#: C/animation.xml:4(titles/t) C/launch-apps.page:28(div/p)
 msgid "Launching Applications"
 msgstr "Lanzar aplicaciones"
 
-#: C/animation.xml:6(titles/t)
+#: C/animation.xml:6(titles/t) C/change-wallpaper.page:26(div/p)
 msgid "Changing Wallpaper"
 msgstr "Cambiar el fondo de pantalla"
 
@@ -144,7 +141,7 @@ msgstr "Cambiar el fondo de pantalla"
 msgid "Responding to Messages"
 msgstr "Responder a los mensajes"
 
-#: C/animation.xml:8(titles/t)
+#: C/animation.xml:8(titles/t) C/switching-tasks.page:26(div/p)
 msgid "Switching Tasks"
 msgstr "Cambiar entre tareas"
 
@@ -152,79 +149,86 @@ msgstr "Cambiar entre tareas"
 msgid "Delayed Response"
 msgstr "Responder más tarde"
 
-#: C/animation.xml:10(titles/t)
+#: C/animation.xml:10(titles/t) C/move-windows.page:25(div/p)
 msgid "Windows and Workspaces"
 msgstr "Ventanas y áreas de trabajo"
 
 #: C/animation.xml:11(titles/t)
+#, fuzzy
+#| msgid "Change the time, date and timezone"
+msgid "Changing Date, Time and Timezone"
+msgstr "Cambiar la hora, fecha y zona horaria"
+
+#: C/animation.xml:12(titles/t)
 msgid "Maximize"
 msgstr "Maximizar"
 
-#: C/animation.xml:12(titles/t)
+#: C/animation.xml:13(titles/t)
 msgid "Restore"
 msgstr "Restaurar"
 
-#: C/animation.xml:13(titles/t)
+#: C/animation.xml:14(titles/t)
 msgid "Left half of screen"
 msgstr "Mitad izquierda de la pantalla"
 
-#: C/animation.xml:14(titles/t)
+#: C/animation.xml:15(titles/t)
 msgid "Workspace down"
 msgstr "Área de trabajo de abajo"
 
-#: C/animation.xml:15(titles/t)
+#: C/animation.xml:16(titles/t)
 msgid "Workspace up"
 msgstr "Área de trabajo de arriba"
 
-#: C/animation.xml:16(titles/t)
+#: C/animation.xml:17(titles/t)
 msgid "Right half of screen"
 msgstr "Mitad derecha de la pantalla"
 
-#: C/animation.xml:17(titles/t) C/go-online1.svg:78(text/tspan)
+#: C/animation.xml:18(titles/t) C/go-online1.svg:78(text/tspan)
 #: C/search1.svg:177(text/tspan) C/search2.svg:99(text/tspan)
 #: C/thumb-changing-wallpaper.svg:68(text/tspan)
 #: C/thumb-launching-apps.svg:192(text/tspan)
 #: C/thumb-responding-to-messages.svg:39(text/tspan)
 #: C/thumb-task-switching.svg:155(text/tspan)
+#: C/thumb-timezone.svg:44(text/tspan)
 #: C/thumb-windows-and-workspaces.svg:92(text/tspan)
 #: C/web-browser1.svg:106(text/tspan)
 #, no-wrap
 msgid "Activities"
 msgstr "Actividades"
 
-#: C/animation.xml:18(titles/t)
+#: C/animation.xml:19(titles/t)
 msgid "Enter"
 msgstr "Intro"
 
-#: C/animation.xml:19(titles/t)
+#: C/animation.xml:20(titles/t)
 msgid "Ctrl"
 msgstr "Ctrl"
 
-#: C/animation.xml:20(titles/t)
+#: C/animation.xml:21(titles/t)
 msgid "Alt"
 msgstr "Alt"
 
-#: C/animation.xml:21(titles/t)
+#: C/animation.xml:22(titles/t)
 msgid "Tab"
 msgstr "Tab"
 
-#: C/animation.xml:22(titles/t)
+#: C/animation.xml:23(titles/t)
 msgid "Esc"
 msgstr "Esc"
 
-#: C/animation.xml:23(titles/t)
+#: C/animation.xml:24(titles/t)
 msgid "help"
 msgstr "ayuda"
 
-#: C/animation.xml:24(titles/t)
+#: C/animation.xml:25(titles/t)
 msgid "web"
 msgstr "web"
 
-#: C/animation.xml:25(titles/t)
+#: C/animation.xml:26(titles/t)
 msgid "Just start typing…"
 msgstr "Solo comience a escribir…"
 
-#: C/animation.xml:26(titles/t) C/goa1.svg:42(text/tspan)
+#: C/animation.xml:27(titles/t) C/goa1.svg:42(text/tspan)
 #: C/goa1.svg:69(text/tspan) C/go-online1.svg:76(text/tspan)
 #: C/go-online1.svg:87(text/tspan) C/go-online1.svg:153(text/tspan)
 #: C/go-online2.svg:45(text/tspan) C/go-online2.svg:76(text/tspan)
@@ -234,54 +238,73 @@ msgstr "Solo comience a escribir…"
 #: C/thumb-responding-to-messages.svg:40(text/tspan)
 #: C/thumb-responding-to-messages.svg:58(text/tspan)
 #: C/thumb-task-switching.svg:156(text/tspan)
+#: C/thumb-timezone.svg:45(text/tspan)
 #: C/thumb-windows-and-workspaces.svg:93(text/tspan)
 #, no-wrap
 msgid "John Doe"
 msgstr "Juan Pérez"
 
-#: C/animation.xml:27(titles/t) C/goa1.svg:74(text/tspan)
+#: C/animation.xml:28(titles/t) C/goa1.svg:74(text/tspan)
 #: C/thumb-changing-wallpaper.svg:74(text/tspan)
 #, no-wrap
 msgid "Settings"
 msgstr "Configuración"
 
-#: C/animation.xml:28(titles/t)
+#: C/animation.xml:29(titles/t)
 msgid "Background"
 msgstr "Fondo"
 
-#: C/animation.xml:29(titles/t)
+#: C/animation.xml:30(titles/t)
 msgid "Wallpapers"
 msgstr "Fondos de pantalla"
 
-#: C/animation.xml:30(titles/t)
+#: C/animation.xml:31(titles/t)
 msgid "Select"
 msgstr "Seleccionar"
 
-#: C/animation.xml:31(titles/t)
+#: C/animation.xml:32(titles/t)
 msgid "Ready for the meeting?"
 msgstr "¿Listo para la reunión?"
 
-#: C/animation.xml:32(titles/t)
+#: C/animation.xml:33(titles/t)
 msgid "I'll be there in a sec..."
 msgstr "Estaré allí en un segundo…"
 
-#: C/animation.xml:33(titles/t)
+#: C/animation.xml:34(titles/t)
 #: C/thumb-responding-to-messages.svg:57(text/tspan)
 #, no-wrap
 msgid "Good stuff, thanks again"
 msgstr "¡Genial!, gracias de nuevo."
 
-#: C/animation.xml:34(titles/t)
+#: C/animation.xml:35(titles/t)
 msgid "Thanks for the support"
 msgstr "Gracias por la ayuda"
 
-#: C/animation.xml:35(titles/t)
+#: C/animation.xml:36(titles/t)
 msgid "No worries."
 msgstr "De nada."
 
-#: C/animation.xml:36(titles/t)
+#: C/animation.xml:37(titles/t)
 msgid "Too kind."
 msgstr "Eres muy amable."
+
+#: C/animation.xml:38(titles/t)
+#, fuzzy
+#| msgid "Calendar"
+msgid "Open Calendar"
+msgstr "Calendario"
+
+#: C/animation.xml:39(titles/t)
+msgid "Open Clocks"
+msgstr ""
+
+#: C/animation.xml:40(titles/t)
+msgid "Date and Time Settings"
+msgstr ""
+
+#: C/animation.xml:41(titles/t)
+msgid "Automatic Date and Time"
+msgstr ""
 
 #: C/legal.xml:3(p/link)
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
@@ -310,17 +333,17 @@ msgid "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
 msgstr "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
 
 #: C/browse-web.page:10(credit/name) C/change-wallpaper.page:10(credit/name)
-#: C/launch-apps.page:10(credit/name) C/move-windows.page:9(credit/name)
-#: C/online-accounts.page:9(credit/name) C/online.page:9(credit/name)
-#: C/responding-to-messages.page:10(credit/name)
+#: C/change-time.page:10(credit/name) C/launch-apps.page:10(credit/name)
+#: C/move-windows.page:9(credit/name) C/online-accounts.page:9(credit/name)
+#: C/online.page:9(credit/name) C/responding-to-messages.page:10(credit/name)
 #: C/switching-tasks.page:9(credit/name) C/use-search.page:9(credit/name)
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
 #: C/browse-web.page:13(credit/name) C/change-wallpaper.page:13(credit/name)
-#: C/launch-apps.page:13(credit/name) C/move-windows.page:12(credit/name)
-#: C/online-accounts.page:12(credit/name) C/online.page:12(credit/name)
-#: C/responding-to-messages.page:13(credit/name)
+#: C/change-time.page:13(credit/name) C/launch-apps.page:13(credit/name)
+#: C/move-windows.page:12(credit/name) C/online-accounts.page:12(credit/name)
+#: C/online.page:12(credit/name) C/responding-to-messages.page:13(credit/name)
 #: C/switching-tasks.page:12(credit/name) C/use-search.page:12(credit/name)
 msgid "Petr Kovar"
 msgstr "Petr Kovar"
@@ -334,7 +357,7 @@ msgstr "Navegar por la Web"
 msgid "Browse the web"
 msgstr "Navegar por la Web"
 
-#: C/browse-web.page:24(item/p) C/launch-apps.page:31(item/p)
+#: C/browse-web.page:24(item/p) C/launch-apps.page:61(item/p)
 #: C/use-search.page:23(item/p)
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
@@ -445,20 +468,50 @@ msgid "Change the wallpaper"
 msgstr "Cambiar el fondo de pantalla"
 
 #: C/change-wallpaper.page:19(page/title)
-#: C/change-wallpaper.page:26(section/title)
+#: C/change-wallpaper.page:51(section/title)
 msgid "Change the wallpaper"
 msgstr "Cambiar el fondo de pantalla"
 
-#: C/change-wallpaper.page:29(item/p)
+#: C/change-wallpaper.page:29(div/p) C/change-wallpaper.page:54(item/p)
 msgid "Click your name on the top bar and select <gui>Settings</gui>."
 msgstr ""
 "Pulse su nombre en la barra superior y seleccione <gui>Configuración</gui>."
 
-#: C/change-wallpaper.page:31(item/p)
+#: C/change-wallpaper.page:32(div/p)
+#, fuzzy
+#| msgid "From the list of items, select <gui>Background</gui>."
+msgid "Select <gui>Background</gui>."
+msgstr "De la lista de elementos, seleccione <gui>Fondo</gui>."
+
+#: C/change-wallpaper.page:35(div/p)
+#, fuzzy
+#| msgid ""
+#| "Click the image of your current wallpaper in the center of the "
+#| "<gui>Background</gui> window."
+msgid "Click the image of your current wallpaper."
+msgstr ""
+"Pulse la imagen del fondo de pantalla actual que está en el centro de la "
+"ventana <gui>Fondo</gui>."
+
+#: C/change-wallpaper.page:38(div/p) C/change-wallpaper.page:59(item/p)
+msgid "Click the background image that you want to use."
+msgstr "Pulse la imagen de fondo que quiera utilizar."
+
+#: C/change-wallpaper.page:41(div/p) C/change-wallpaper.page:60(item/p)
+msgid "Click the <gui>Select</gui> button."
+msgstr "Pulse el botón <gui>Seleccionar</gui>."
+
+#: C/change-wallpaper.page:44(div/p)
+#, fuzzy
+#| msgid "From the list of items, select <gui>Background</gui>."
+msgid "Close the <gui>Background</gui> window."
+msgstr "De la lista de elementos, seleccione <gui>Fondo</gui>."
+
+#: C/change-wallpaper.page:56(item/p)
 msgid "From the list of items, select <gui>Background</gui>."
 msgstr "De la lista de elementos, seleccione <gui>Fondo</gui>."
 
-#: C/change-wallpaper.page:32(item/p)
+#: C/change-wallpaper.page:57(item/p)
 msgid ""
 "Click the image of your current wallpaper in the center of the "
 "<gui>Background</gui> window."
@@ -466,15 +519,7 @@ msgstr ""
 "Pulse la imagen del fondo de pantalla actual que está en el centro de la "
 "ventana <gui>Fondo</gui>."
 
-#: C/change-wallpaper.page:34(item/p)
-msgid "Click the background image that you want to use."
-msgstr "Pulse la imagen de fondo que quiera utilizar."
-
-#: C/change-wallpaper.page:35(item/p)
-msgid "Click the <gui>Select</gui> button."
-msgstr "Pulse el botón <gui>Seleccionar</gui>."
-
-#: C/change-wallpaper.page:36(item/p)
+#: C/change-wallpaper.page:61(item/p)
 msgid ""
 "Close the <gui>Background</gui> window by clicking the cross at the top-"
 "right corner of the window."
@@ -482,18 +527,123 @@ msgstr ""
 "Cierre la ventana <gui>Fondo</gui> pulsando la cruz que está en la esquina "
 "superior derecha de la ventana."
 
-#: C/change-time.page:10(info/title)
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/change-time.page:21(media)
+#, fuzzy
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-task-switching.webm' "
+#| "md5='edf94b461a60c8683e2d64f778949739'"
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-timezone.webm' "
+"md5='57a4ee4ef7cc7cb37ba03e1f3686666a'"
+msgstr ""
+"external ref='figures/gnome-task-switching.webm' "
+"md5='edf94b461a60c8683e2d64f778949739'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/change-time.page:22(media)
+#, fuzzy
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/windows-and-workspaces.png' "
+#| "md5='e878f13748263291f86d76d719a25a4e'"
+msgctxt "_"
+msgid ""
+"external ref='thumb-timezone.svg' md5='42ffa67597e33e89eb5d7e31eed50e9e'"
+msgstr ""
+"external ref='figures/windows-and-workspaces.png' "
+"md5='e878f13748263291f86d76d719a25a4e'"
+
+#: C/change-time.page:16(info/title)
+#, fuzzy
+#| msgctxt "link:trail"
+#| msgid "Change the time, date and timezone"
 msgctxt "link:trail"
-msgid "Change the time, date and timezone"
+msgid "Change the date, time and timezone"
 msgstr "Cambiar la hora, fecha y zona horaria"
 
-#: C/change-time.page:13(page/title)
-msgid "Change the time, date and timezone"
+#: C/change-time.page:19(page/title)
+#, fuzzy
+#| msgid "Change the time, date and timezone"
+msgid "Change the date, time and timezone"
 msgstr "Cambiar la hora, fecha y zona horaria"
 
-#: C/change-time.page:15(page/p) C/install-software.page:14(page/p)
-msgid "Stay tuned..."
-msgstr "Permanezca conectado…"
+#: C/change-time.page:26(div/p)
+#, fuzzy
+#| msgid "Changing Wallpaper"
+msgid "Changing Date &amp; Time"
+msgstr "Cambiar el fondo de pantalla"
+
+#: C/change-time.page:29(div/p) C/change-time.page:52(item/p)
+#, fuzzy
+#| msgid "Click your name on the top bar."
+msgid "Click the clock on the top bar."
+msgstr "Pulse su nombre en la barra superior."
+
+#: C/change-time.page:32(div/p) C/change-time.page:53(item/p)
+#, fuzzy
+#| msgid "Select the <gui>Settings</gui> item."
+msgid "Select the <gui>Date &amp; Time Settings</gui> item."
+msgstr "Seleccione el elemento <gui>Configuración</gui>."
+
+#: C/change-time.page:35(div/p) C/change-time.page:57(item/p)
+#, fuzzy
+#| msgid "Click your name on the top bar."
+msgid "Click on your location on the map."
+msgstr "Pulse su nombre en la barra superior."
+
+#: C/change-time.page:38(div/p)
+msgid ""
+"You can adjust the date and time by clicking on the arrows to choose the "
+"hour, minute, and year."
+msgstr ""
+
+#: C/change-time.page:42(div/p)
+msgid "Close the window."
+msgstr ""
+
+#: C/change-time.page:49(section/title)
+#, fuzzy
+#| msgid "Change the time, date and timezone"
+msgid "Changing the date, time and timezone"
+msgstr "Cambiar la hora, fecha y zona horaria"
+
+#: C/change-time.page:54(item/p)
+msgid ""
+"You may need to click the <gui>Unlock</gui> button and type the "
+"administrator's password."
+msgstr ""
+
+#: C/change-time.page:58(item/p)
+msgid ""
+"This selects your current city, which you can also see in the drop-down list "
+"below the map."
+msgstr ""
+
+#: C/change-time.page:60(item/p)
+msgid ""
+"On the left-hand side of the window, you can adjust the date and time by "
+"clicking on the arrows to choose the hour, minute, and year."
+msgstr ""
+
+#: C/change-time.page:63(item/p)
+#, fuzzy
+#| msgid ""
+#| "Close the <gui>Background</gui> window by clicking the cross at the top-"
+#| "right corner of the window."
+msgid ""
+"Close the window by clicking the cross at the top-right corner of the window."
+msgstr ""
+"Cierre la ventana <gui>Fondo</gui> pulsando la cruz que está en la esquina "
+"superior derecha de la ventana."
 
 #: C/goa1.svg:20(Work/format) C/goa2.svg:29(Work/format)
 #: C/goa3.svg:29(Work/format) C/goa4.svg:23(Work/format)
@@ -505,6 +655,7 @@ msgstr "Permanezca conectado…"
 #: C/thumb-launching-apps.svg:177(Work/format)
 #: C/thumb-responding-to-messages.svg:24(Work/format)
 #: C/thumb-task-switching.svg:77(Work/format)
+#: C/thumb-timezone.svg:29(Work/format)
 #: C/thumb-windows-and-workspaces.svg:77(Work/format)
 #: C/web-browser1.svg:92(Work/format) C/web-browser2.svg:37(Work/format)
 msgid "image/svg+xml"
@@ -512,18 +663,21 @@ msgstr "image/svg+xml"
 
 #: C/goa1.svg:60(text/tspan) C/go-online1.svg:69(text/tspan)
 #: C/go-online3.svg:72(text/tspan) C/search1.svg:87(text/tspan)
+#: C/thumb-timezone.svg:69(text/tspan) C/thumb-timezone.svg:103(text/tspan)
 #: C/web-browser1.svg:104(text/tspan)
 #, no-wrap
 msgid "1"
 msgstr "1"
 
 #: C/goa1.svg:64(text/tspan) C/go-online1.svg:120(text/tspan)
-#: C/search2.svg:89(text/tspan) C/web-browser1.svg:137(text/tspan)
+#: C/search2.svg:89(text/tspan) C/thumb-timezone.svg:70(text/tspan)
+#: C/thumb-timezone.svg:104(text/tspan) C/web-browser1.svg:137(text/tspan)
 #, no-wrap
 msgid "2"
 msgstr "2"
 
 #: C/goa2.svg:41(text/tspan) C/go-online2.svg:41(text/tspan)
+#: C/thumb-timezone.svg:71(text/tspan) C/thumb-timezone.svg:105(text/tspan)
 #: C/web-browser2.svg:100(text/tspan)
 #, no-wrap
 msgid "3"
@@ -540,7 +694,8 @@ msgstr "Cuentas en línea"
 msgid "Add an online account"
 msgstr "Agregar una cuenta en línea"
 
-#: C/goa3.svg:41(text/tspan) C/web-browser2.svg:50(text/tspan)
+#: C/goa3.svg:41(text/tspan) C/thumb-timezone.svg:72(text/tspan)
+#: C/thumb-timezone.svg:106(text/tspan) C/web-browser2.svg:50(text/tspan)
 #, no-wrap
 msgid "4"
 msgstr "4"
@@ -582,7 +737,8 @@ msgstr "Microsoft Exchange"
 msgid "Enterprise Login (Kerberos)"
 msgstr "Inicio de sesión corporativo (Kerberos)"
 
-#: C/goa4.svg:35(text/tspan) C/web-browser2.svg:198(text/tspan)
+#: C/goa4.svg:35(text/tspan) C/thumb-timezone.svg:73(text/tspan)
+#: C/web-browser2.svg:198(text/tspan)
 #, no-wrap
 msgid "5"
 msgstr "5"
@@ -633,12 +789,12 @@ msgstr "Conceder acceso"
 msgid "Deny Access"
 msgstr "Denegar acceso"
 
-#: C/goa4.svg:116(text/tspan)
+#: C/goa4.svg:116(text/tspan) C/thumb-timezone.svg:74(text/tspan)
 #, no-wrap
 msgid "6"
 msgstr "6"
 
-#: C/goa5.svg:32(text/tspan)
+#: C/goa5.svg:32(text/tspan) C/thumb-timezone.svg:75(text/tspan)
 #, no-wrap
 msgid "7"
 msgstr "7"
@@ -687,6 +843,7 @@ msgstr "I"
 #: C/thumb-launching-apps.svg:194(text/tspan)
 #: C/thumb-responding-to-messages.svg:41(text/tspan)
 #: C/thumb-task-switching.svg:157(text/tspan)
+#: C/thumb-timezone.svg:46(text/tspan)
 #: C/thumb-windows-and-workspaces.svg:94(text/tspan)
 #, no-wrap
 msgid "14:30"
@@ -748,6 +905,10 @@ msgstr "Obtener aplicaciones adicionales"
 msgid "Get additional applications"
 msgstr "Obtener aplicaciones adicionales"
 
+#: C/install-software.page:14(page/p)
+msgid "Stay tuned..."
+msgstr "Permanezca conectado…"
+
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
@@ -775,11 +936,67 @@ msgstr "Lanzar aplicaciones"
 msgid "Launching applications"
 msgstr "Lanzar aplicaciones"
 
-#: C/launch-apps.page:28(section/title)
+#: C/launch-apps.page:31(div/p) C/switching-tasks.page:29(div/p)
+#, fuzzy
+#| msgid ""
+#| "Move your mouse pointer to the <gui>Activities</gui> corner at the top "
+#| "left of the screen to show the <gui>Activities Overview</gui>."
+msgid ""
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen."
+msgstr ""
+"Mueva el cursor del ratón hacia la esquina de <gui>Actividades</gui> en la "
+"esquina superior izquierda de la pantalla para mostrar la <gui>Vista de "
+"actividades</gui>."
+
+#: C/launch-apps.page:35(div/p)
+#, fuzzy
+#| msgid "Select the <gui>Settings</gui> item."
+msgid "Click the <gui>Show Applications</gui> item."
+msgstr "Seleccione el elemento <gui>Configuración</gui>."
+
+#: C/launch-apps.page:38(div/p)
+#, fuzzy
+#| msgid ""
+#| "A list of applications is shown. Click the application you want to run, "
+#| "for example, Help."
+msgid "Click the application you want to run, for example, Help."
+msgstr ""
+"Aparece una lista de aplicaciones. Pulse la aplicación que quiera ejecutar, "
+"por ejemplo, «Ayuda»."
+
+#: C/launch-apps.page:42(div/p)
+#, fuzzy
+#| msgid ""
+#| "Open the <gui>Activities Overview</gui> by pressing the <key>Super </key> "
+#| "key."
+msgid ""
+"Use the keyboard to open the <gui>Activities Overview</gui> <span begin=\"3s"
+"\">by pressing the <key>Super</key> key. </span>"
+msgstr ""
+"Abra la <gui>Vista de actividades</gui> pulsando la tecla <key>Super</key>."
+
+#: C/launch-apps.page:47(div/p)
+#, fuzzy
+#| msgid ""
+#| "Start typing the name of the application that you want to launch. "
+#| "Searching for the application begins instantly."
+msgid "Start typing the name of the application you want to launch."
+msgstr ""
+"Comience a escribir el nombre de la aplicación que desee lanzar. La búsqueda "
+"de la aplicación comienza al instante."
+
+#: C/launch-apps.page:51(div/p)
+#, fuzzy
+#| msgid "Press <key>Esc</key> to close the chat message."
+msgid "Press <key>Enter</key> to launch the application."
+msgstr "Pulse <key>Esc</key> para cerrar el mensaje de chat."
+
+#: C/launch-apps.page:58(section/title)
 msgid "Launching applications with the mouse"
 msgstr "Lanzar aplicaciones con el ratón"
 
-#: C/launch-apps.page:33(item/p)
+#: C/launch-apps.page:63(item/p)
 msgid ""
 "Click the <gui>Show Applications</gui> item that is shown at the bottom of "
 "the bar on the left-hand side of the screen."
@@ -787,7 +1004,7 @@ msgstr ""
 "Pulse el elemento <gui>Mostrar aplicaciones</gui> que aparece en la parte "
 "inferior de la barra que se encuentra en la parte izquierda de la pantalla."
 
-#: C/launch-apps.page:35(item/p)
+#: C/launch-apps.page:65(item/p)
 msgid ""
 "A list of applications is shown. Click the application you want to run, for "
 "example, Help."
@@ -795,26 +1012,30 @@ msgstr ""
 "Aparece una lista de aplicaciones. Pulse la aplicación que quiera ejecutar, "
 "por ejemplo, «Ayuda»."
 
-#: C/launch-apps.page:42(section/title)
+#: C/launch-apps.page:72(section/title)
 msgid "Launching applications with the keyboard"
 msgstr "Lanzar aplicaciones con el teclado"
 
-#: C/launch-apps.page:45(item/p)
+#: C/launch-apps.page:75(item/p)
 msgid ""
 "Open the <gui>Activities Overview</gui> by pressing the <key>Super </key> "
 "key."
 msgstr ""
 "Abra la <gui>Vista de actividades</gui> pulsando la tecla <key>Super</key>."
 
-#: C/launch-apps.page:47(item/p)
+#: C/launch-apps.page:77(item/p)
+#, fuzzy
+#| msgid ""
+#| "Start typing the name of the application that you want to launch. "
+#| "Searching for the application begins instantly."
 msgid ""
-"Start typing the name of the application that you want to launch. Searching "
-"for the application begins instantly."
+"Start typing the name of the application you want to launch. Searching for "
+"the application begins instantly."
 msgstr ""
 "Comience a escribir el nombre de la aplicación que desee lanzar. La búsqueda "
 "de la aplicación comienza al instante."
 
-#: C/launch-apps.page:49(item/p)
+#: C/launch-apps.page:79(item/p)
 msgid ""
 "Once the icon of the application is shown and selected, press <key> Enter</"
 "key> to launch the application."
@@ -859,19 +1080,149 @@ msgstr ""
 "md5='e878f13748263291f86d76d719a25a4e'"
 
 #: C/move-windows.page:15(info/title)
+#, fuzzy
+#| msgid "Windows and Workspaces"
 msgctxt "link:trail"
-msgid "Use workspaces and windows"
-msgstr "Utilizar áreas de trabajo y ventanas"
+msgid "Use windows and workspaces"
+msgstr "Ventanas y áreas de trabajo"
 
 #: C/move-windows.page:18(page/title)
-msgid "Use workspaces and windows"
-msgstr "Utilizar áreas de trabajo y ventanas"
+#, fuzzy
+#| msgid "Windows and Workspaces"
+msgid "Use windows and workspaces"
+msgstr "Ventanas y áreas de trabajo"
 
-#: C/move-windows.page:25(section/title)
+#: C/move-windows.page:28(div/p)
+#, fuzzy
+#| msgid ""
+#| "To maximize a window along a side of the screen, grab the window's "
+#| "titlebar and drag it to the left or right side of the screen."
+msgid ""
+"To maximize a window, grab the window's titlebar and drag it to the top of "
+"the screen."
+msgstr ""
+"Para maximizar un ventana a lo largo de un lado de la pantalla, arrastre la "
+"barra de título de la ventana hacia el lado izquierdo o derecho de la "
+"pantalla."
+
+#: C/move-windows.page:32(div/p)
+#, fuzzy
+#| msgid "When the screen is highlighted, drop the window to maximize it."
+msgid "When the screen is highlighted, drop the window."
+msgstr "Cuando la pantalla esté resaltada, suelte la ventana para maximizarla."
+
+#: C/move-windows.page:35(div/p)
+#, fuzzy
+#| msgid ""
+#| "To restore a window to its unmaximized size, grab the window's titlebar "
+#| "and drag it away from the edges of the screen."
+msgid ""
+"To unmaximize a window, grab the window's titlebar and drag it away from the "
+"edges of the screen."
+msgstr ""
+"Para restaurar la ventana a su tamaño normal, arrastre la barra de título de "
+"la ventana alejándola de los bordes de la pantalla."
+
+#: C/move-windows.page:39(div/p)
+msgid ""
+"You can also click the top bar to drag the window away and unmaximize it."
+msgstr ""
+
+#: C/move-windows.page:43(div/p) C/switching-tasks.page:36(div/p)
+#, fuzzy
+#| msgid ""
+#| "To maximize a window along a side of the screen, grab the window's "
+#| "titlebar and drag it to the left or right side of the screen."
+msgid ""
+"To maximize a window along the left side of the screen, grab the window's "
+"titlebar and drag it to the left."
+msgstr ""
+"Para maximizar un ventana a lo largo de un lado de la pantalla, arrastre la "
+"barra de título de la ventana hacia el lado izquierdo o derecho de la "
+"pantalla."
+
+#: C/move-windows.page:47(div/p) C/move-windows.page:54(div/p)
+#: C/switching-tasks.page:40(div/p) C/switching-tasks.page:47(div/p)
+#, fuzzy
+#| msgid "When the screen is highlighted, drop the window to maximize it."
+msgid "When half of the screen is highlighted, drop the window."
+msgstr "Cuando la pantalla esté resaltada, suelte la ventana para maximizarla."
+
+#: C/move-windows.page:50(div/p)
+#, fuzzy
+#| msgid ""
+#| "To maximize a window along a side of the screen, grab the window's "
+#| "titlebar and drag it to the left or right side of the screen."
+msgid ""
+"To maximize a window along the right side of the screen, grab the window's "
+"titlebar and drag it to the right."
+msgstr ""
+"Para maximizar un ventana a lo largo de un lado de la pantalla, arrastre la "
+"barra de título de la ventana hacia el lado izquierdo o derecho de la "
+"pantalla."
+
+#: C/move-windows.page:57(div/p) C/move-windows.page:123(item/p)
+msgid ""
+"To maximize a window using the keyboard, hold down the Super key and press "
+"<key>↑</key>."
+msgstr ""
+"Para maximizar una ventana utilizando el teclado, mantenga pulsada la tecla "
+"Súper y pulse <key>↑</key>."
+
+#: C/move-windows.page:61(div/p)
+#| msgid ""
+#| "To unmaximize a window using the keyboard, hold down the Super key and "
+#| "press <key>↓</key>."
+msgid ""
+"To restore the window to its unmaximized size, hold down the Super key and "
+"press <key>↓</key>."
+msgstr ""
+"Para restaurar una ventana a su tamaño desmaximizado, mantenga pulsada la "
+"tecla Súper y pulse <key>↓</key>."
+
+#: C/move-windows.page:65(div/p) C/move-windows.page:135(item/p)
+msgid ""
+"To maximize a window along the right side of the screen, hold down the Super "
+"key and press <key>→</key>."
+msgstr ""
+"Para maximizar una ventana a lo largo del lado derecho de la pantalla, "
+"mantenga pulsada la tecla Súper y pulse <key>→</key>."
+
+#: C/move-windows.page:69(div/p) C/move-windows.page:137(item/p)
+msgid ""
+"To maximize a window along the left side of the screen, hold down the Super "
+"key and press <key>←</key>."
+msgstr ""
+"Para maximizar una ventana a lo largo del lado izquierdo de la pantalla, "
+"mantenga pulsada la tecla Súper y pulse <key>←</key>."
+
+#: C/move-windows.page:73(div/p)
+#| msgid ""
+#| "To move to a workspace which is below the current workspace, press "
+#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
+msgid ""
+"To move to a workspace which is below the current workspace, press "
+"<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key> </keyseq>."
+msgstr ""
+"Para mover un área de trabajo que esté debajo del área de trabajo actual, "
+"pulse <keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
+
+#: C/move-windows.page:78(div/p)
+#| msgid ""
+#| "To move to a workspace which is above the current workspace, press "
+#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
+msgid ""
+"To move to a workspace which is above the current workspace, press "
+"<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key> </keyseq>."
+msgstr ""
+"Para mover un área de trabajo que esté encima del área de trabajo actual, "
+"pulse <keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
+
+#: C/move-windows.page:87(section/title)
 msgid "Maximizing and unmaximizing windows"
 msgstr "Maximizar y desmaximizar ventanas"
 
-#: C/move-windows.page:29(item/p)
+#: C/move-windows.page:91(item/p)
 msgid ""
 "To maximize a window so that it takes up all of the space on your desktop, "
 "grab the window's titlebar and drag it to the top of the screen."
@@ -880,11 +1231,11 @@ msgstr ""
 "arrastre la barra de título de la ventana hacia la parte superior de la "
 "pantalla."
 
-#: C/move-windows.page:32(item/p)
+#: C/move-windows.page:94(item/p)
 msgid "When the screen is highlighted, drop the window to maximize it."
 msgstr "Cuando la pantalla esté resaltada, suelte la ventana para maximizarla."
 
-#: C/move-windows.page:34(item/p)
+#: C/move-windows.page:96(item/p)
 msgid ""
 "To restore a window to its unmaximized size, grab the window's titlebar and "
 "drag it away from the edges of the screen."
@@ -892,12 +1243,12 @@ msgstr ""
 "Para restaurar la ventana a su tamaño normal, arrastre la barra de título de "
 "la ventana alejándola de los bordes de la pantalla."
 
-#: C/move-windows.page:41(section/title)
-#: C/switching-tasks.page:38(section/title)
+#: C/move-windows.page:103(section/title)
+#: C/switching-tasks.page:90(section/title)
 msgid "Tiling windows"
 msgstr "Poner las ventanas en mosaico"
 
-#: C/move-windows.page:45(item/p) C/switching-tasks.page:41(item/p)
+#: C/move-windows.page:107(item/p) C/switching-tasks.page:93(item/p)
 msgid ""
 "To maximize a window along a side of the screen, grab the window's titlebar "
 "and drag it to the left or right side of the screen."
@@ -906,7 +1257,7 @@ msgstr ""
 "barra de título de la ventana hacia el lado izquierdo o derecho de la "
 "pantalla."
 
-#: C/move-windows.page:47(item/p) C/switching-tasks.page:43(item/p)
+#: C/move-windows.page:109(item/p) C/switching-tasks.page:95(item/p)
 msgid ""
 "When half of the screen is highlighted, drop the window to maximize it along "
 "the selected side of the screen."
@@ -914,7 +1265,7 @@ msgstr ""
 "Cuando esté resaltada la mitad de la pantalla, suelte la ventana para "
 "maximizar a lo largo del lado seleccionado de la pantalla."
 
-#: C/move-windows.page:49(item/p) C/switching-tasks.page:45(item/p)
+#: C/move-windows.page:111(item/p) C/switching-tasks.page:97(item/p)
 msgid ""
 "To maximize two windows side-by-side, grab the titlebar of the second window "
 "and drag it to the opposite side of the screen."
@@ -922,7 +1273,7 @@ msgstr ""
 "Para maximizar dos ventanas una al lado de otra, arrastre la barra de título "
 "de la segunda ventana al lado opuesto de la pantalla."
 
-#: C/move-windows.page:51(item/p) C/switching-tasks.page:47(item/p)
+#: C/move-windows.page:113(item/p) C/switching-tasks.page:99(item/p)
 msgid ""
 "When half of the screen is highlighted, drop the window to maximize it along "
 "the opposite side of the screen."
@@ -930,69 +1281,41 @@ msgstr ""
 "Cuando esté resaltada la mitad de la pantalla, suelte la ventana para "
 "maximizarla junto al lado opuesto de la pantalla."
 
-#: C/move-windows.page:58(section/title)
+#: C/move-windows.page:120(section/title)
 msgid "Maximizing and unmaximizing windows using the keyboard"
-msgstr ""
+msgstr "Maximizar y desmaximizar las ventanas utilizando el teclado"
 
-#: C/move-windows.page:61(item/p)
-msgid ""
-"To maximize a window using the keyboard, hold down the Super key and press "
-"<key>↑</key>."
-msgstr ""
-
-#: C/move-windows.page:63(item/p)
+#: C/move-windows.page:125(item/p)
 msgid ""
 "To unmaximize a window using the keyboard, hold down the Super key and press "
 "<key>↓</key>."
 msgstr ""
+"Para desmaximizar una ventana utilizando el teclado, mantenga pulsada la "
+"tecla Súper y pulse <key>↓</key>."
 
-#: C/move-windows.page:70(section/title)
-#, fuzzy
-#| msgid "Launching applications with the keyboard"
+#: C/move-windows.page:132(section/title)
 msgid "Tiling windows using the keyboard"
-msgstr "Lanzar aplicaciones con el teclado"
+msgstr "Poner las ventanas en mosaico utilizando el teclado"
 
-#: C/move-windows.page:73(item/p)
-msgid ""
-"To maximize a window along the right side of the screen, hold down the Super "
-"key and press <key>→</key>."
-msgstr ""
-
-#: C/move-windows.page:75(item/p)
-msgid ""
-"To maximize a window along the left side of the screen, hold down the Super "
-"key and press <key>←</key>."
-msgstr ""
-
-#: C/move-windows.page:82(section/title)
-#, fuzzy
-#| msgid "Launching applications with the keyboard"
+#: C/move-windows.page:144(section/title)
 msgid "Switching workspaces using the keyboard"
-msgstr "Lanzar aplicaciones con el teclado"
+msgstr "Cambiar entre áreas de trabajo con el teclado"
 
-#: C/move-windows.page:86(item/p)
-#, fuzzy
-#| msgid ""
-#| "To dismiss the message tray, press <key>Esc</key> or <keyseq><key>Super</"
-#| "key><key>M</key></keyseq>."
+#: C/move-windows.page:148(item/p)
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
 msgstr ""
-"Para quitar la bandeja de entrada presione <key>Esc</key> o "
-"<keyseq><key>Super</key><key>M</key></keyseq>."
+"Para mover un área de trabajo que esté debajo del área de trabajo actual, "
+"pulse <keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
 
-#: C/move-windows.page:88(item/p)
-#, fuzzy
-#| msgid ""
-#| "To dismiss the message tray, press <key>Esc</key> or <keyseq><key>Super</"
-#| "key><key>M</key></keyseq>."
+#: C/move-windows.page:150(item/p)
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
 msgstr ""
-"Para quitar la bandeja de entrada presione <key>Esc</key> o "
-"<keyseq><key>Super</key><key>M</key></keyseq>."
+"Para mover un área de trabajo que esté encima del área de trabajo actual, "
+"pulse <keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -1049,75 +1372,65 @@ msgid "Connect to online accounts"
 msgstr "Conectarse a cuentas en línea"
 
 #: C/online-accounts.page:23(item/p) C/use-search.page:65(item/p)
-#, fuzzy
-#| msgid "Click your name on the top bar and select <gui>Settings</gui>."
 msgid "Click your name on the top bar."
-msgstr ""
-"Pulse su nombre en la barra superior y seleccione <gui>Configuración</gui>."
+msgstr "Pulse su nombre en la barra superior."
 
 #: C/online-accounts.page:24(item/p) C/use-search.page:66(item/p)
 msgid "Select the <gui>Settings</gui> item."
 msgstr "Seleccione el elemento <gui>Configuración</gui>."
 
 #: C/online-accounts.page:30(item/p)
-#, fuzzy
-#| msgid "From the list of items, select <gui>Background</gui>."
 msgid "From the list of items, select <gui>Online Accounts</gui>."
-msgstr "De la lista de elementos, seleccione <gui>Fondo</gui>."
+msgstr "De la lista de elementos, seleccione <gui>Cuentas en línea</gui>."
 
 #: C/online-accounts.page:32(item/p)
 msgid "Click on the <gui>Add an online account</gui> button."
 msgstr "Pulse en el botón <gui>Agregar una cuenta en línea</gui>."
 
 #: C/online-accounts.page:35(note/p)
-#, fuzzy
-#| msgid ""
-#| "If you have already had an account set up in the past, click the <gui>+</"
-#| "gui> button on the bottom of the sidebar list to add another."
 msgid ""
 "If you have set up an online account before, you can add another online "
 "account by clicking the <gui>+</gui> button at the bottom left corner of the "
 "window."
 msgstr ""
-"Si ya había creado una cuenta, pulse el botón <gui>+</gui> que está en la "
-"parte inferior de la lista del menú lateral para agregar otra cuenta."
+"Si ya ha creado una cuenta en línea, puede añadir otra cuenta en línea "
+"pulsando el botón <gui>+</gui> en la esquina izquierda inferior de la "
+"ventana."
 
 #: C/online-accounts.page:42(item/p)
 msgid ""
 "Click the online account you want to use. This will open a new window where "
 "you can sign in to your online account."
 msgstr ""
+"Pulse la cuenta en línea que quiera utilizar. Se abrirá una nueva ventana "
+"donde puede iniciar sesión en su cuenta en línea."
 
 #: C/online-accounts.page:49(item/p)
 msgid ""
 "In most cases, you will have to grant access to the online service after "
 "signing in to get started."
 msgstr ""
+"En la mayoría de los casos, después de haber iniciado sesión tendrá que "
+"conceder acceso al servicio en línea para comenzar."
 
 #: C/online-accounts.page:51(item/p)
-#, fuzzy
-#| msgid ""
-#| "For a google account it is a matter of clicking on the <gui>Grant access</"
-#| "gui> button."
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
 "click the <gui>Grant Access</gui> button."
-msgstr "Para una cuenta de Google, pulse el botón <gui>Conceder acceso</gui>."
+msgstr ""
+"Por ejemplo, si se conecta a su cuenta de Google, tendrá que pulsar el botón "
+"<gui>Conceder acceso</gui>."
 
 #: C/online-accounts.page:58(item/p)
-#, fuzzy
-#| msgid ""
-#| "Many accounts allow you to customize what sort of services you'd like to "
-#| "be using. If you do not wish to use a particular service, disable it with "
-#| "the <gui>on/off switch</gui> on the right."
 msgid ""
 "Many online accounts let you choose the services you want to use with your "
 "online account. If you do not want to use a service, disable it by clicking "
 "the <gui>ON/OFF</gui> switch on the right-hand side of the window."
 msgstr ""
-"Muchas cuentas le permiten personalizar qué clases de servicios le gustaría "
-"utilizar. Si no desea algún servicio en particular, desactívelo con el "
-"<gui>interruptor de encendido/apagado</gui> que está a la derecha."
+"Muchas cuentas en línea le permiten elegir los servicios que desee utilizar "
+"con su cuenta en línea. Si no desea algún servicio en particular, "
+"desactívelo con el <gui>interruptor de encendido/apagado</gui> que está al "
+"lado derecho de la ventana."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -1156,16 +1469,12 @@ msgid "Going Online"
 msgstr "Conectarse a Internet"
 
 #: C/online.page:22(note/p)
-#, fuzzy
-#| msgid ""
-#| "The status of your network connection is indicated in the top bar, next "
-#| "to your name/chat status."
 msgid ""
 "You can see the status of your network connection on the right-hand side of "
 "the top bar, next to your name."
 msgstr ""
-"El estado de su conexión de red aparece en la barra superior, al lado de su "
-"nombre/estado de chat."
+"El estado de su conexión de red aparece en el lado derecho de la barra "
+"superior, al lado de su nombre."
 
 #: C/online.page:28(section/title)
 msgid "Connecting to a Wired Network"
@@ -1476,53 +1785,98 @@ msgid "Switching tasks"
 msgstr ""
 
 #: C/switching-tasks.page:19(page/title)
-#: C/switching-tasks.page:26(section/title)
+#: C/switching-tasks.page:78(section/title)
 msgid "Switching tasks"
 msgstr ""
 
-#: C/switching-tasks.page:29(item/p)
+#: C/switching-tasks.page:33(div/p) C/switching-tasks.page:84(item/p)
+msgid "Click a window to switch the task."
+msgstr ""
+
+#: C/switching-tasks.page:43(div/p)
+#, fuzzy
+#| msgid ""
+#| "To maximize a window along a side of the screen, grab the window's "
+#| "titlebar and drag it to the left or right side of the screen."
+msgid ""
+"To maximize a window along the right side, grab the window's titlebar and "
+"drag it to the right."
+msgstr ""
+"Para maximizar un ventana a lo largo de un lado de la pantalla, arrastre la "
+"barra de título de la ventana hacia el lado izquierdo o derecho de la "
+"pantalla."
+
+#: C/switching-tasks.page:50(div/p)
+msgid ""
+"Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the <gui>Window "
+"Switcher</gui>."
+msgstr ""
+
+#: C/switching-tasks.page:54(div/p)
+msgid "Release <key>Alt</key> to select the next highlighted window."
+msgstr ""
+
+#: C/switching-tasks.page:58(div/p) C/switching-tasks.page:113(item/p)
+msgid ""
+"To cycle through the list of open windows, do not release <key>Alt</key> but "
+"hold it down, and press <key>Tab</key>."
+msgstr ""
+
+#: C/switching-tasks.page:62(div/p) C/switching-tasks.page:123(item/p)
+msgid ""
+"Press the <key>Super</key> key to show the <gui>Activities Overview</gui>."
+msgstr ""
+
+#: C/switching-tasks.page:66(div/p)
+#, fuzzy
+#| msgid ""
+#| "Start typing the name of the application that you want to launch. "
+#| "Searching for the application begins instantly."
+msgid "Start typing the name of the application you want to switch to."
+msgstr ""
+"Comience a escribir el nombre de la aplicación que desee lanzar. La búsqueda "
+"de la aplicación comienza al instante."
+
+#: C/switching-tasks.page:70(div/p)
+#, fuzzy
+#| msgid ""
+#| "Once the icon of the application is shown and selected, press <key> "
+#| "Enter</key> to launch the application."
+msgid ""
+"When the application appears as the first result, press <key> Enter</key> to "
+"switch to it."
+msgstr ""
+"Una vez que aparezca y seleccione el icono de la aplicación, presione "
+"<key>Intro</key> para lanzar la aplicación."
+
+#: C/switching-tasks.page:81(item/p)
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen to show the <gui>Activities Overview</gui> where you can see "
 "the currently running tasks displayed as small windows."
 msgstr ""
 
-#: C/switching-tasks.page:32(item/p)
-msgid "Click a window to switch the task."
-msgstr ""
-
-#: C/switching-tasks.page:54(section/title)
+#: C/switching-tasks.page:106(section/title)
 msgid "Switching between windows"
 msgstr ""
 
-#: C/switching-tasks.page:57(item/p)
+#: C/switching-tasks.page:109(item/p)
 msgid ""
 "Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the <gui>Window "
 "Switcher</gui>, which lists the currently open windows."
 msgstr ""
 
-#: C/switching-tasks.page:59(item/p)
+#: C/switching-tasks.page:111(item/p)
 msgid ""
 "Release <key>Alt</key> to select the next highlighted window in the Window "
 "Switcher."
 msgstr ""
 
-#: C/switching-tasks.page:61(item/p)
-msgid ""
-"To cycle through the list of open windows, do not release <key>Alt</key> but "
-"hold it down, and press <key>Tab</key>."
-msgstr ""
-
-#: C/switching-tasks.page:68(section/title)
+#: C/switching-tasks.page:120(section/title)
 msgid "Using search to switch applications"
 msgstr ""
 
-#: C/switching-tasks.page:71(item/p)
-msgid ""
-"Press the <key>Super</key> key to show the <gui>Activities Overview</gui>."
-msgstr ""
-
-#: C/switching-tasks.page:73(item/p)
+#: C/switching-tasks.page:125(item/p)
 #, fuzzy
 #| msgid ""
 #| "Start typing the name of the application that you want to launch. "
@@ -1534,7 +1888,7 @@ msgstr ""
 "Comience a escribir el nombre de la aplicación que desee lanzar. La búsqueda "
 "de la aplicación comienza al instante."
 
-#: C/switching-tasks.page:76(item/p)
+#: C/switching-tasks.page:128(item/p)
 #, fuzzy
 #| msgid ""
 #| "Once the icon of the application is shown and selected, press <key> "
@@ -1550,6 +1904,173 @@ msgstr ""
 #, no-wrap
 msgid "Thanks f"
 msgstr ""
+
+#: C/thumb-timezone.svg:61(text/tspan) C/thumb-timezone.svg:67(text/tspan)
+#, no-wrap
+msgid "S"
+msgstr ""
+
+#: C/thumb-timezone.svg:62(text/tspan)
+#, no-wrap
+msgid "M"
+msgstr ""
+
+#: C/thumb-timezone.svg:63(text/tspan) C/thumb-timezone.svg:65(text/tspan)
+#, no-wrap
+msgid "T"
+msgstr ""
+
+#: C/thumb-timezone.svg:64(text/tspan)
+#, no-wrap
+msgid "W"
+msgstr ""
+
+#: C/thumb-timezone.svg:66(text/tspan)
+#, no-wrap
+msgid "F"
+msgstr ""
+
+#: C/thumb-timezone.svg:76(text/tspan)
+#, no-wrap
+msgid "8"
+msgstr ""
+
+#: C/thumb-timezone.svg:77(text/tspan)
+#, no-wrap
+msgid "9"
+msgstr ""
+
+#: C/thumb-timezone.svg:78(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "1"
+msgid "10"
+msgstr "1"
+
+#: C/thumb-timezone.svg:79(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "1"
+msgid "11"
+msgstr "1"
+
+#: C/thumb-timezone.svg:80(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "1"
+msgid "12"
+msgstr "1"
+
+#: C/thumb-timezone.svg:81(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "1"
+msgid "13"
+msgstr "1"
+
+#: C/thumb-timezone.svg:82(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "1"
+msgid "14"
+msgstr "1"
+
+#: C/thumb-timezone.svg:84(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "1"
+msgid "15"
+msgstr "1"
+
+#: C/thumb-timezone.svg:85(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "1"
+msgid "16"
+msgstr "1"
+
+#: C/thumb-timezone.svg:86(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "1"
+msgid "17"
+msgstr "1"
+
+#: C/thumb-timezone.svg:87(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "1"
+msgid "18"
+msgstr "1"
+
+#: C/thumb-timezone.svg:88(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "1"
+msgid "19"
+msgstr "1"
+
+#: C/thumb-timezone.svg:89(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "2"
+msgid "20"
+msgstr "2"
+
+#: C/thumb-timezone.svg:90(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "1"
+msgid "21"
+msgstr "1"
+
+#: C/thumb-timezone.svg:92(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "2"
+msgid "22"
+msgstr "2"
+
+#: C/thumb-timezone.svg:93(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "2"
+msgid "23"
+msgstr "2"
+
+#: C/thumb-timezone.svg:94(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "2"
+msgid "24"
+msgstr "2"
+
+#: C/thumb-timezone.svg:95(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "2"
+msgid "25"
+msgstr "2"
+
+#: C/thumb-timezone.svg:96(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "2"
+msgid "26"
+msgstr "2"
+
+#: C/thumb-timezone.svg:97(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "2"
+msgid "27"
+msgstr "2"
+
+#: C/thumb-timezone.svg:98(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "2"
+msgid "28"
+msgstr "2"
+
+#: C/thumb-timezone.svg:100(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "2"
+msgid "29"
+msgstr "2"
+
+#: C/thumb-timezone.svg:101(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "3"
+msgid "30"
+msgstr "3"
+
+#: C/thumb-timezone.svg:102(text/tspan)
+#, fuzzy, no-wrap
+#| msgid "1"
+msgid "31"
+msgstr "1"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -1718,6 +2239,13 @@ msgstr ""
 #, no-wrap
 msgid "Planet GNOME"
 msgstr ""
+
+#~ msgctxt "link:trail"
+#~ msgid "Use workspaces and windows"
+#~ msgstr "Utilizar áreas de trabajo y ventanas"
+
+#~ msgid "Use workspaces and windows"
+#~ msgstr "Utilizar áreas de trabajo y ventanas"
 
 #~ msgctxt "_"
 #~ msgid ""
