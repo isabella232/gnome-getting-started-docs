@@ -2,7 +2,7 @@
       xmlns:ui="http://projectmallard.org/experimental/ui/"
       type="topic"
       style="ui"
-      id="launching-apps">
+      id="launch-apps">
 
   <info>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -14,11 +14,11 @@
     </credit>
 
     <link type="guide" xref="index" group="videos"/>
-    <title role="trail" type="link">Launching applications</title>
+    <title role="trail" type="link">Launch applications</title>
     <ui:thumb src="thumb-launching-apps.svg"/>
   </info>
 
-  <title>Launching applications</title>
+  <title>Launch applications</title>
 
    <media type="video" src="figures/gnome-launching-applications.webm" width="840" height="468">
      <media type="image" style="poster" src="thumb-launching-apps.svg"/>

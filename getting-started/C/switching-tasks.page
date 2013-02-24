@@ -1,7 +1,7 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:ui="http://projectmallard.org/experimental/ui/"
       type="topic" style="ui"
-      id="switching-tasks">
+      id="switch-tasks">
 
   <info>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -12,11 +12,11 @@
       <name>Petr Kovar</name>
     </credit>
     <link type="guide" xref="index" group="videos"/>
-    <title role="trail" type="link">Switching tasks</title>
+    <title role="trail" type="link">Switch tasks</title>
     <ui:thumb src="thumb-task-switching.svg"/>
   </info>
 
-  <title>Switching tasks</title>
+  <title>Switch tasks</title>
 
   <media type="video" src="figures/gnome-task-switching.webm" width="840" height="468">
     <media type="image" style="poster" src="thumb-task-switching.svg"/>
