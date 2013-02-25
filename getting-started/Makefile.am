@@ -1,6 +1,6 @@
 @YELP_HELP_RULES@
 
-HELP_ID = getting-started
+HELP_ID = gnome-help
 
 HELP_LINGUAS = cs es gl id pl pt_BR
 
@@ -15,10 +15,10 @@ HELP_MEDIA = \
 
 HELP_FILES = \
 	animation.xml \
-	legal.xml \
 	browse-web.page \
-	change-wallpaper.page \
 	change-time.page \
+	change-wallpaper.page \
+	getting-started.page \
 	goa1.svg \
 	goa2.svg \
 	goa3.svg \
