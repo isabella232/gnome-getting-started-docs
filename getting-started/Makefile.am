@@ -27,7 +27,6 @@ HELP_FILES = \
 	go-online1.svg \
 	go-online2.svg \
 	go-online3.svg \
-	index.page \
 	install-software.page \
 	launch-apps.page \
 	move-windows.page \
