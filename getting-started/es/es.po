@@ -12,13 +12,13 @@
 # 
 # 
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2013., 2013.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-02-20 17:44+0000\n"
-"PO-Revision-Date: 2013-02-22 11:29+0100\n"
-"Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
+"POT-Creation-Date: 2013-02-24 13:34+0000\n"
+"PO-Revision-Date: 2013-02-22 \n"
+"Last-Translator: Nicolás Satragno <nsatragno@gnome.org>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -154,10 +154,8 @@ msgid "Windows and Workspaces"
 msgstr "Ventanas y áreas de trabajo"
 
 #: C/animation.xml:11(titles/t)
-#, fuzzy
-#| msgid "Change the time, date and timezone"
 msgid "Changing Date, Time and Timezone"
-msgstr "Cambiar la hora, fecha y zona horaria"
+msgstr "Cambiar la fecha, hora y zona horaria"
 
 #: C/animation.xml:12(titles/t)
 msgid "Maximize"
@@ -289,22 +287,20 @@ msgid "Too kind."
 msgstr "Eres muy amable."
 
 #: C/animation.xml:38(titles/t)
-#, fuzzy
-#| msgid "Calendar"
 msgid "Open Calendar"
-msgstr "Calendario"
+msgstr "Abrir calendario"
 
 #: C/animation.xml:39(titles/t)
 msgid "Open Clocks"
-msgstr ""
+msgstr "Abrir relojes"
 
 #: C/animation.xml:40(titles/t)
 msgid "Date and Time Settings"
-msgstr ""
+msgstr "Configuración de fecha y hora"
 
 #: C/animation.xml:41(titles/t)
 msgid "Automatic Date and Time"
-msgstr ""
+msgstr "Fecha y hora automáticas"
 
 #: C/legal.xml:3(p/link)
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
@@ -368,20 +364,23 @@ msgstr ""
 "actividades</gui>."
 
 #: C/browse-web.page:28(item/p)
-#, fuzzy
-#| msgid ""
-#| "Select the <app>Web</app> application icon from the dash on the left."
 msgid ""
 "Select the <app>Web</app> browser icon from the bar on the left-hand side of "
 "the screen."
 msgstr ""
-"Seleccione el icono de aplicación <app>Web</app> desde el tablero que se "
-"encuentra a la izquierda."
+"Seleccione el icono del navegador <app>Web</app> desde la barra del lado "
+"izquierdo de la pantalla."
 
 #: C/browse-web.page:32(note/p)
+#, fuzzy
+#| msgid ""
+#| "Alternatively, you can launch the <app>Web</app> browser by <link xref="
+#| "\"use-search\">just typing</link> the name in the <gui>Activities "
+#| "Overview</gui>."
 msgid ""
 "Alternatively, you can launch the <app>Web</app> browser by <link xref=\"use-"
-"search\">just typing</link> the name in the <gui>Activities Overview</gui>."
+"search\">just typing</link> the browser name in the <gui>Activities "
+"Overview</gui>."
 msgstr ""
 "Alternativamente, puede abrir el navegador <app>Web</app> <link xref=\"use-"
 "search\">simplemente escribiendo</link> el nombre en la <gui>Vista de "
@@ -422,14 +421,10 @@ msgstr ""
 "las teclas de flechas."
 
 #: C/browse-web.page:49(item/p)
-#, fuzzy
-#| msgid ""
-#| "Start typing your reply and when finished, press <key>Enter</key> to send "
-#| "the reply."
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
 msgstr ""
-"Comience a responder y cuando haya terminado, presione <key>Intro</key> para "
-"enviar la respuesta."
+"Después de haber seleccionado un sitio web, pulse <key>Intro</key> para "
+"visitarlo."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -478,20 +473,12 @@ msgstr ""
 "Pulse su nombre en la barra superior y seleccione <gui>Configuración</gui>."
 
 #: C/change-wallpaper.page:32(div/p)
-#, fuzzy
-#| msgid "From the list of items, select <gui>Background</gui>."
 msgid "Select <gui>Background</gui>."
-msgstr "De la lista de elementos, seleccione <gui>Fondo</gui>."
+msgstr "Seleccione <gui>Fondo</gui>."
 
 #: C/change-wallpaper.page:35(div/p)
-#, fuzzy
-#| msgid ""
-#| "Click the image of your current wallpaper in the center of the "
-#| "<gui>Background</gui> window."
 msgid "Click the image of your current wallpaper."
-msgstr ""
-"Pulse la imagen del fondo de pantalla actual que está en el centro de la "
-"ventana <gui>Fondo</gui>."
+msgstr "Pulse la imagen de su fondo de pantalla actual."
 
 #: C/change-wallpaper.page:38(div/p) C/change-wallpaper.page:59(item/p)
 msgid "Click the background image that you want to use."
@@ -502,10 +489,8 @@ msgid "Click the <gui>Select</gui> button."
 msgstr "Pulse el botón <gui>Seleccionar</gui>."
 
 #: C/change-wallpaper.page:44(div/p)
-#, fuzzy
-#| msgid "From the list of items, select <gui>Background</gui>."
 msgid "Close the <gui>Background</gui> window."
-msgstr "De la lista de elementos, seleccione <gui>Fondo</gui>."
+msgstr "Cierre la ventana <gui>Fondo</gui>."
 
 #: C/change-wallpaper.page:56(item/p)
 msgid "From the list of items, select <gui>Background</gui>."
@@ -563,87 +548,76 @@ msgstr ""
 "md5='e878f13748263291f86d76d719a25a4e'"
 
 #: C/change-time.page:16(info/title)
-#, fuzzy
-#| msgctxt "link:trail"
-#| msgid "Change the time, date and timezone"
 msgctxt "link:trail"
 msgid "Change the date, time and timezone"
-msgstr "Cambiar la hora, fecha y zona horaria"
+msgstr "Cambiar la fecha, hora y zona horaria"
 
 #: C/change-time.page:19(page/title)
-#, fuzzy
-#| msgid "Change the time, date and timezone"
 msgid "Change the date, time and timezone"
-msgstr "Cambiar la hora, fecha y zona horaria"
+msgstr "Cambiar la fecha, hora y zona horaria"
 
 #: C/change-time.page:26(div/p)
-#, fuzzy
-#| msgid "Changing Wallpaper"
 msgid "Changing Date &amp; Time"
-msgstr "Cambiar el fondo de pantalla"
+msgstr "Cambiar la fecha y la hora."
 
 #: C/change-time.page:29(div/p) C/change-time.page:52(item/p)
-#, fuzzy
-#| msgid "Click your name on the top bar."
 msgid "Click the clock on the top bar."
-msgstr "Pulse su nombre en la barra superior."
+msgstr "Pulse el reloj en la barra superior."
 
 #: C/change-time.page:32(div/p) C/change-time.page:53(item/p)
-#, fuzzy
-#| msgid "Select the <gui>Settings</gui> item."
 msgid "Select the <gui>Date &amp; Time Settings</gui> item."
-msgstr "Seleccione el elemento <gui>Configuración</gui>."
+msgstr "Seleccione el elemento <gui>Configuración de fecha y hora</gui>."
 
 #: C/change-time.page:35(div/p) C/change-time.page:57(item/p)
-#, fuzzy
-#| msgid "Click your name on the top bar."
 msgid "Click on your location on the map."
-msgstr "Pulse su nombre en la barra superior."
+msgstr "Pulse en su ubicación en el mapa."
 
 #: C/change-time.page:38(div/p)
 msgid ""
 "You can adjust the date and time by clicking on the arrows to choose the "
 "hour, minute, and year."
 msgstr ""
+"Puede ajustar la fecha y hora pulsando las flechas para elegir la hora, los "
+"minutos y el año."
 
 #: C/change-time.page:42(div/p)
 msgid "Close the window."
-msgstr ""
+msgstr "Cierre la ventana."
 
 #: C/change-time.page:49(section/title)
-#, fuzzy
-#| msgid "Change the time, date and timezone"
 msgid "Changing the date, time and timezone"
-msgstr "Cambiar la hora, fecha y zona horaria"
+msgstr "Cambiar la fecha, hora y zona horaria"
 
 #: C/change-time.page:54(item/p)
 msgid ""
 "You may need to click the <gui>Unlock</gui> button and type the "
 "administrator's password."
 msgstr ""
+"Quizás necesite pulsar el botón <gui>Desbloquear</gui> y escribir la "
+"contraseña de administrador."
 
 #: C/change-time.page:58(item/p)
 msgid ""
 "This selects your current city, which you can also see in the drop-down list "
 "below the map."
 msgstr ""
+"Esto selecciona su ciudad actual, que también puede ver en la lista "
+"desplegable que está debajo del mapa."
 
 #: C/change-time.page:60(item/p)
 msgid ""
 "On the left-hand side of the window, you can adjust the date and time by "
 "clicking on the arrows to choose the hour, minute, and year."
 msgstr ""
+"En el lado izquierdo de la ventana, puede ajustar la fecha y hora pulsando "
+"las flechas para elegir la hora, los minutos y el año."
 
 #: C/change-time.page:63(item/p)
-#, fuzzy
-#| msgid ""
-#| "Close the <gui>Background</gui> window by clicking the cross at the top-"
-#| "right corner of the window."
 msgid ""
 "Close the window by clicking the cross at the top-right corner of the window."
 msgstr ""
-"Cierre la ventana <gui>Fondo</gui> pulsando la cruz que está en la esquina "
-"superior derecha de la ventana."
+"Cierre la ventana pulsando la cruz que está en la esquina superior derecha "
+"de la ventana."
 
 #: C/goa1.svg:20(Work/format) C/goa2.svg:29(Work/format)
 #: C/goa3.svg:29(Work/format) C/goa4.svg:23(Work/format)
@@ -928,12 +902,17 @@ msgstr ""
 "md5='2e9b65079ed7c034e00db3b71b9897d3'"
 
 #: C/launch-apps.page:17(info/title)
+#, fuzzy
+#| msgctxt "link:trail"
+#| msgid "Launching applications"
 msgctxt "link:trail"
-msgid "Launching applications"
+msgid "Launch applications"
 msgstr "Lanzar aplicaciones"
 
 #: C/launch-apps.page:21(page/title)
-msgid "Launching applications"
+#, fuzzy
+#| msgid "Launching applications"
+msgid "Launch applications"
 msgstr "Lanzar aplicaciones"
 
 #: C/launch-apps.page:31(div/p) C/switching-tasks.page:29(div/p)
@@ -1170,9 +1149,6 @@ msgstr ""
 "Súper y pulse <key>↑</key>."
 
 #: C/move-windows.page:61(div/p)
-#| msgid ""
-#| "To unmaximize a window using the keyboard, hold down the Super key and "
-#| "press <key>↓</key>."
 msgid ""
 "To restore the window to its unmaximized size, hold down the Super key and "
 "press <key>↓</key>."
@@ -1197,9 +1173,6 @@ msgstr ""
 "mantenga pulsada la tecla Súper y pulse <key>←</key>."
 
 #: C/move-windows.page:73(div/p)
-#| msgid ""
-#| "To move to a workspace which is below the current workspace, press "
-#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key> </keyseq>."
@@ -1208,9 +1181,6 @@ msgstr ""
 "pulse <keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
 
 #: C/move-windows.page:78(div/p)
-#| msgid ""
-#| "To move to a workspace which is above the current workspace, press "
-#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key> </keyseq>."
@@ -1568,12 +1538,17 @@ msgstr ""
 "md5='8f82d09463e5d8381b790cf94f4bfd00'"
 
 #: C/responding-to-messages.page:16(info/title)
+#, fuzzy
+#| msgctxt "link:trail"
+#| msgid "Responding to messages"
 msgctxt "link:trail"
-msgid "Responding to messages"
+msgid "Respond to messages"
 msgstr "Responder a mensajes"
 
 #: C/responding-to-messages.page:19(page/title)
-msgid "Responding to messages"
+#, fuzzy
+#| msgid "Responding to messages"
+msgid "Respond to messages"
 msgstr "Responder a mensajes"
 
 #: C/responding-to-messages.page:26(section/title)
@@ -1780,14 +1755,17 @@ msgstr ""
 "md5='7c8d4925fd55a1eaf200582f3cbc3a76'"
 
 #: C/switching-tasks.page:15(info/title)
+#, fuzzy
+#| msgid "Switching Tasks"
 msgctxt "link:trail"
-msgid "Switching tasks"
-msgstr ""
+msgid "Switch tasks"
+msgstr "Cambiar entre tareas"
 
 #: C/switching-tasks.page:19(page/title)
-#: C/switching-tasks.page:78(section/title)
-msgid "Switching tasks"
-msgstr ""
+#, fuzzy
+#| msgid "Switching Tasks"
+msgid "Switch tasks"
+msgstr "Cambiar entre tareas"
 
 #: C/switching-tasks.page:33(div/p) C/switching-tasks.page:84(item/p)
 msgid "Click a window to switch the task."
@@ -1848,6 +1826,10 @@ msgid ""
 msgstr ""
 "Una vez que aparezca y seleccione el icono de la aplicación, presione "
 "<key>Intro</key> para lanzar la aplicación."
+
+#: C/switching-tasks.page:78(section/title)
+msgid "Switching tasks"
+msgstr ""
 
 #: C/switching-tasks.page:81(item/p)
 msgid ""
