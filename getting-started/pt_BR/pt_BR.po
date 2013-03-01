@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-02-20 17:44+0000\n"
-"PO-Revision-Date: 2013-02-20 16:24-0300\n"
+"POT-Creation-Date: 2013-02-25 18:47+0000\n"
+"PO-Revision-Date: 2013-03-01 16:20-0300\n"
 "Last-Translator: Enrico Nicoletto <liverig@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "Language: pt_BR\n"
@@ -39,7 +39,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.page:16(media) C/launch-apps.page:23(media)
+#: C/index.page:17(media) C/launch-apps.page:23(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-launching-applications.webm' "
@@ -62,7 +62,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.page:23(media) C/switching-tasks.page:21(media)
+#: C/index.page:24(media) C/switching-tasks.page:21(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-task-switching.webm' "
@@ -85,7 +85,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.page:29(media) C/responding-to-messages.page:21(media)
+#: C/index.page:30(media) C/responding-to-messages.page:21(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-responding-to-messages.webm' "
@@ -94,25 +94,25 @@ msgstr ""
 "external ref='figures/gnome-responding-to-messages.webm' "
 "md5='8f82d09463e5d8381b790cf94f4bfd00'"
 
-#: C/index.page:8(info/desc)
-msgid "Getting Started with GNOME"
-msgstr "Primeiros passos com o GNOME"
-
-#: C/index.page:9(info/title)
-msgctxt "link"
+#: C/index.page:9(info/desc)
 msgid "Getting Started with GNOME"
 msgstr "Primeiros passos com o GNOME"
 
 #: C/index.page:10(info/title)
+msgctxt "link"
+msgid "Getting Started with GNOME"
+msgstr "Primeiros passos com o GNOME"
+
+#: C/index.page:11(info/title)
 msgctxt "text"
 msgid "Getting Started"
 msgstr "Primeiros passos"
 
-#: C/index.page:13(page/title) C/animation.xml:5(titles/t)
+#: C/index.page:14(page/title) C/animation.xml:5(titles/t)
 msgid "Getting Started"
 msgstr "Primeiros passos"
 
-#: C/index.page:36(links/title)
+#: C/index.page:37(links/title)
 msgid "Common Tasks"
 msgstr "Tarefas comuns"
 
@@ -365,11 +365,12 @@ msgstr ""
 #: C/browse-web.page:32(note/p)
 msgid ""
 "Alternatively, you can launch the <app>Web</app> browser by <link xref=\"use-"
-"search\">just typing</link> the name in the <gui>Activities Overview</gui>."
+"search\">just typing</link> the browser name in the <gui>Activities "
+"Overview</gui>."
 msgstr ""
-"Alternativamente, você pode executar o navegador <app>Web</app> ao <link "
-"xref=\"use-search\">simplesmente digitar</link> o nome no <gui>Panorama de "
-"atividades</gui>."
+"De forma alternativa, você pode executar o navegador <app>Web</app> ao <link "
+"xref=\"use-search\">simplesmente digitar</link> o nome do navegador no "
+"<gui>Panorama de atividades</gui>."
 
 #: C/browse-web.page:39(item/p)
 msgid ""
@@ -519,7 +520,7 @@ msgctxt "link:trail"
 msgid "Change the date, time and timezone"
 msgstr "Altere a data, hora e fuso horário"
 
-#: C/change-time.page:19(page/title)
+#: C/change-time.page:19(page/title) C/change-time.page:49(section/title)
 msgid "Change the date, time and timezone"
 msgstr "Altere a data, hora e fuso horário"
 
@@ -550,10 +551,6 @@ msgstr ""
 #: C/change-time.page:42(div/p)
 msgid "Close the window."
 msgstr "Feche a janela."
-
-#: C/change-time.page:49(section/title)
-msgid "Changing the date, time and timezone"
-msgstr "Alterando a data, hora e fuso horário"
 
 #: C/change-time.page:54(item/p)
 msgid ""
@@ -863,11 +860,11 @@ msgstr ""
 
 #: C/launch-apps.page:17(info/title)
 msgctxt "link:trail"
-msgid "Launching applications"
+msgid "Launch applications"
 msgstr "Executando aplicativos"
 
 #: C/launch-apps.page:21(page/title)
-msgid "Launching applications"
+msgid "Launch applications"
 msgstr "Executando aplicativos"
 
 #: C/launch-apps.page:31(div/p) C/switching-tasks.page:29(div/p)
@@ -903,7 +900,7 @@ msgid "Press <key>Enter</key> to launch the application."
 msgstr "Pressione <key>Enter</key> para executar o aplicativo."
 
 #: C/launch-apps.page:58(section/title)
-msgid "Launching applications with the mouse"
+msgid "Launch applications with the mouse"
 msgstr "Executando aplicativos com o mouse"
 
 #: C/launch-apps.page:63(item/p)
@@ -923,7 +920,7 @@ msgstr ""
 "executar, por exemplo, Ajuda."
 
 #: C/launch-apps.page:72(section/title)
-msgid "Launching applications with the keyboard"
+msgid "Launch applications with the keyboard"
 msgstr "Executando aplicativos com o teclado"
 
 #: C/launch-apps.page:75(item/p)
@@ -1082,8 +1079,8 @@ msgstr ""
 "atual, pressione <keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
 
 #: C/move-windows.page:87(section/title)
-msgid "Maximizing and unmaximizing windows"
-msgstr "Maximizando e minimizando janelas"
+msgid "Maximize and unmaximize windows"
+msgstr "Maximizando e desmaximizando janelas"
 
 #: C/move-windows.page:91(item/p)
 msgid ""
@@ -1107,7 +1104,7 @@ msgstr ""
 
 #: C/move-windows.page:103(section/title)
 #: C/switching-tasks.page:90(section/title)
-msgid "Tiling windows"
+msgid "Tile windows"
 msgstr "Janelas lado a lado"
 
 #: C/move-windows.page:107(item/p) C/switching-tasks.page:93(item/p)
@@ -1143,7 +1140,7 @@ msgstr ""
 "junto ao lado oposto da tela."
 
 #: C/move-windows.page:120(section/title)
-msgid "Maximizing and unmaximizing windows using the keyboard"
+msgid "Maximize and unmaximize windows using the keyboard"
 msgstr "Maximizando e desmaximizando janelas usando o teclado"
 
 #: C/move-windows.page:125(item/p)
@@ -1155,12 +1152,12 @@ msgstr ""
 "Super e pressione <key>↓</key>."
 
 #: C/move-windows.page:132(section/title)
-msgid "Tiling windows using the keyboard"
+msgid "Tile windows using the keyboard"
 msgstr "Tornando janelas lado a lado usando o teclado"
 
 #: C/move-windows.page:144(section/title)
-msgid "Switching workspaces using the keyboard"
-msgstr "Alternando espaços de trabalho usando o teclado"
+msgid "Switch workspaces using the keyboard"
+msgstr "Alternando entre espaços de trabalho usando o teclado"
 
 #: C/move-windows.page:148(item/p)
 msgid ""
@@ -1320,11 +1317,11 @@ msgstr "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
 
 #: C/online.page:15(info/title)
 msgctxt "link:trail"
-msgid "Going online"
+msgid "Get online"
 msgstr "Estando online"
 
 #: C/online.page:19(page/title)
-msgid "Going Online"
+msgid "Get online"
 msgstr "Estando online"
 
 #: C/online.page:22(note/p)
@@ -1336,7 +1333,7 @@ msgstr ""
 "próximo ao seu nome."
 
 #: C/online.page:28(section/title)
-msgid "Connecting to a Wired Network"
+msgid "Connect to a wired network"
 msgstr "Conectando a uma rede cabeada"
 
 #: C/online.page:33(item/p)
@@ -1393,7 +1390,7 @@ msgstr ""
 "conexão de rede muda para o símbolo de computador conectado."
 
 #: C/online.page:60(section/title)
-msgid "Connecting to Other Types of Networks"
+msgid "Connect to other types of networks"
 msgstr "Conectando-se a outros tipos de rede"
 
 #: C/online.page:65(item/p)
@@ -1431,16 +1428,16 @@ msgstr ""
 
 #: C/responding-to-messages.page:16(info/title)
 msgctxt "link:trail"
-msgid "Responding to messages"
+msgid "Respond to messages"
 msgstr "Respondendo a mensagens"
 
 #: C/responding-to-messages.page:19(page/title)
-msgid "Responding to messages"
+msgid "Respond to messages"
 msgstr "Respondendo a mensagens"
 
 #: C/responding-to-messages.page:26(section/title)
-msgid "Responding to a chat message with the mouse"
-msgstr "Responda a uma mensagem de bate-papo com o mouse"
+msgid "Respond to a chat message with the mouse"
+msgstr "Respondendo a uma mensagem de bate-papo com o mouse"
 
 #: C/responding-to-messages.page:29(item/p)
 msgid ""
@@ -1638,12 +1635,12 @@ msgstr ""
 
 #: C/switching-tasks.page:15(info/title)
 msgctxt "link:trail"
-msgid "Switching tasks"
+msgid "Switch tasks"
 msgstr "Alternando tarefas"
 
 #: C/switching-tasks.page:19(page/title)
 #: C/switching-tasks.page:78(section/title)
-msgid "Switching tasks"
+msgid "Switch tasks"
 msgstr "Alternando tarefas"
 
 #: C/switching-tasks.page:33(div/p) C/switching-tasks.page:84(item/p)
@@ -1709,7 +1706,7 @@ msgstr ""
 "onde você pode ver as tarefas em execução exibidas em pequenas janelas."
 
 #: C/switching-tasks.page:106(section/title)
-msgid "Switching between windows"
+msgid "Switch between windows"
 msgstr "Alternando entre janelas"
 
 #: C/switching-tasks.page:109(item/p)
@@ -1729,7 +1726,7 @@ msgstr ""
 "alternador de janelas."
 
 #: C/switching-tasks.page:120(section/title)
-msgid "Using search to switch applications"
+msgid "Use search to switch applications"
 msgstr "Usando a pesquisa para alternar aplicativos"
 
 #: C/switching-tasks.page:125(item/p)
@@ -1758,17 +1755,17 @@ msgstr "Obrigado"
 #: C/thumb-timezone.svg:61(text/tspan) C/thumb-timezone.svg:67(text/tspan)
 #, no-wrap
 msgid "S"
-msgstr "Sáb/Dom"
+msgstr "D/S"
 
 #: C/thumb-timezone.svg:62(text/tspan)
 #, no-wrap
 msgid "M"
-msgstr "Seg"
+msgstr "S"
 
 #: C/thumb-timezone.svg:63(text/tspan) C/thumb-timezone.svg:65(text/tspan)
 #, no-wrap
 msgid "T"
-msgstr "Ter/Qui"
+msgstr "T/Qui"
 
 #: C/thumb-timezone.svg:64(text/tspan)
 #, no-wrap
@@ -2022,7 +2019,7 @@ msgstr ""
 "associado inicia, sua consulta realizada é realizada no aplicativo."
 
 #: C/use-search.page:54(section/title)
-msgid "Customizing search results"
+msgid "Customize search results"
 msgstr "Personalizando resultados de pesquisa"
 
 #: C/use-search.page:59(note/p)
@@ -2080,6 +2077,12 @@ msgstr "http://gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planeta GNOME"
+
+#~ msgid "Changing the date, time and timezone"
+#~ msgstr "Alterando a data, hora e fuso horário"
+
+#~ msgid "Going Online"
+#~ msgstr "Estando online"
 
 #~ msgid "FIXME"
 #~ msgstr "CONSERTE-ME"
