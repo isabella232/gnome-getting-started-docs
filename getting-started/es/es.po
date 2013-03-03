@@ -12,21 +12,22 @@
 # 
 # 
 # 
+# 
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2013., 2013.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
 "POT-Creation-Date: 2013-02-25 18:47+0000\n"
-"PO-Revision-Date: 2013-02-26 13:23+0100\n"
+"PO-Revision-Date: 2013-03-03 10:50+0100\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
-"Language-Team: Español <gnome-es-list@gnome.org>\n"
+"Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Gtranslator 2.91.5\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -913,8 +914,6 @@ msgid "Press <key>Enter</key> to launch the application."
 msgstr "Pulse <key>Intro</key> para lanzar la aplicación."
 
 #: C/launch-apps.page:58(section/title)
-#, fuzzy
-#| msgid "Launching applications with the mouse"
 msgid "Launch applications with the mouse"
 msgstr "Lanzar aplicaciones con el ratón"
 
@@ -935,8 +934,6 @@ msgstr ""
 "por ejemplo, «Ayuda»."
 
 #: C/launch-apps.page:72(section/title)
-#, fuzzy
-#| msgid "Launching applications with the keyboard"
 msgid "Launch applications with the keyboard"
 msgstr "Lanzar aplicaciones con el teclado"
 
@@ -1095,8 +1092,6 @@ msgstr ""
 "pulse <keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
 
 #: C/move-windows.page:87(section/title)
-#, fuzzy
-#| msgid "Maximizing and unmaximizing windows"
 msgid "Maximize and unmaximize windows"
 msgstr "Maximizar y desmaximizar ventanas"
 
@@ -1123,8 +1118,6 @@ msgstr ""
 
 #: C/move-windows.page:103(section/title)
 #: C/switching-tasks.page:90(section/title)
-#, fuzzy
-#| msgid "Tiling windows"
 msgid "Tile windows"
 msgstr "Poner las ventanas en mosaico"
 
@@ -1162,8 +1155,6 @@ msgstr ""
 "maximizarla junto al lado opuesto de la pantalla."
 
 #: C/move-windows.page:120(section/title)
-#, fuzzy
-#| msgid "Maximizing and unmaximizing windows using the keyboard"
 msgid "Maximize and unmaximize windows using the keyboard"
 msgstr "Maximizar y desmaximizar las ventanas utilizando el teclado"
 
@@ -1176,14 +1167,10 @@ msgstr ""
 "tecla Súper y pulse <key>↓</key>."
 
 #: C/move-windows.page:132(section/title)
-#, fuzzy
-#| msgid "Tiling windows using the keyboard"
 msgid "Tile windows using the keyboard"
 msgstr "Poner las ventanas en mosaico utilizando el teclado"
 
 #: C/move-windows.page:144(section/title)
-#, fuzzy
-#| msgid "Switching workspaces using the keyboard"
 msgid "Switch workspaces using the keyboard"
 msgstr "Cambiar entre áreas de trabajo con el teclado"
 
@@ -1346,17 +1333,11 @@ msgid "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
 msgstr "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
 
 #: C/online.page:15(info/title)
-#, fuzzy
-#| msgctxt "link:trail"
-#| msgid "Going online"
 msgctxt "link:trail"
 msgid "Get online"
 msgstr "Conectarse a Internet"
 
 #: C/online.page:19(page/title)
-#, fuzzy
-#| msgctxt "link:trail"
-#| msgid "Going online"
 msgid "Get online"
 msgstr "Conectarse a Internet"
 
@@ -1369,26 +1350,24 @@ msgstr ""
 "superior, al lado de su nombre."
 
 #: C/online.page:28(section/title)
-#, fuzzy
-#| msgid "Other Types of Connections"
 msgid "Connect to a wired network"
-msgstr "Otros tipos de conexiones"
+msgstr "Conectarse a una red cableada"
 
 #: C/online.page:33(item/p)
-#, fuzzy
-#| msgid "The status icon on the top right corner indicates you are off-line."
 msgid ""
 "The network connection icon on the right-hand side of the top bar shows that "
 "you are off-line."
 msgstr ""
-"El icono de estado que está en la esquina superior derecha indica que está "
-"desconectado."
+"El icono de conexión de red que está en el lado derecho de la barra superior "
+"muestra que está desconectado."
 
 #: C/online.page:35(item/p)
 msgid ""
 "Click the network connection icon to show more details about the status of "
 "your network connection."
 msgstr ""
+"Pulse el icono de conexión de red para mostrar más detalles sobre el estado "
+"de su conexión de red."
 
 #: C/online.page:37(item/p)
 msgid ""
@@ -1397,6 +1376,9 @@ msgid ""
 "<em>airplane mode</em>, or there are no available wireless networks in your "
 "area."
 msgstr ""
+"Existen varias razones por las que el estado es desconectado. Por ejemplo, "
+"el cable de red está desenchufado, se ha configurado el equipo en <em>modo "
+"avión</em> o no existen redes de conexión inalámbrica disponibles en su área."
 
 #: C/online.page:46(item/p)
 msgid ""
@@ -1404,36 +1386,37 @@ msgid ""
 "online. The computer will try to set up the network connection for you "
 "automatically."
 msgstr ""
+"Si quiere utilizar una conexión cableada, simplemente enchufe un cable de "
+"red para conectarse. El equipo intentará crear una conexión de red de manera "
+"automática."
 
 #: C/online.page:50(item/p)
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
 msgstr ""
+"Mientras el equipo crea una conexión de red para, el icono de conexión de "
+"red muestra tres puntos."
 
 #: C/online.page:52(item/p)
-#, fuzzy
-#| msgid ""
-#| "Once the the configuration succeeds, the status icon changes to the "
-#| "networked computer symbol."
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to the networked computer symbol."
 msgstr ""
-"Una vez que se haya llevado a cabo la configuración, el icono de estado "
-"cambiará al símbolo de equipo en red."
+"Una vez que se haya llevado a cabo la configuración, el icono de conexión de "
+"red cambiará al símbolo de equipo en red."
 
 #: C/online.page:60(section/title)
-#, fuzzy
-#| msgid "Other Types of Connections"
 msgid "Connect to other types of networks"
-msgstr "Otros tipos de conexiones"
+msgstr "Conectarse a otros tipos de redes"
 
 #: C/online.page:65(item/p)
 msgid ""
 "There are various types of network connections that you can use with your "
 "computer, for example, mobile broadband, or wireless networks."
 msgstr ""
+"Existen varios tipos de conexiones de red que puede utilizar con su equipo; "
+"por ejemplo, banda ancha móvil o conexiones inalámbricas."
 
 #: C/online.page:68(item/p)
 msgid ""
@@ -1442,44 +1425,36 @@ msgid ""
 "right-hand side of the top bar and selecting the network connection you want "
 "to connect to."
 msgstr ""
+"Dependiendo del soporte físico de su equipo y la disponibilidad de las "
+"redes, puede elegir otros tipos de conexión pulsando el icono de conexión de "
+"red que está en el lado derecho de la barra superior y seleccionando la "
+"conexión de red a la que quiera conectarse."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/responding-to-messages.page:22(media)
-#, fuzzy
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/gnome-responding-to-messages.webm' "
-#| "md5='8f82d09463e5d8381b790cf94f4bfd00'"
 msgctxt "_"
 msgid ""
 "external ref='thumb-responding-to-messages.svg' "
 "md5='09b2f4d5c62b225fc26e03cfd5369bfb'"
 msgstr ""
-"external ref='figures/gnome-responding-to-messages.webm' "
-"md5='8f82d09463e5d8381b790cf94f4bfd00'"
+"external ref='thumb-responding-to-messages.svg' "
+"md5='09b2f4d5c62b225fc26e03cfd5369bfb'"
 
 #: C/responding-to-messages.page:16(info/title)
-#, fuzzy
-#| msgctxt "link:trail"
-#| msgid "Responding to messages"
 msgctxt "link:trail"
 msgid "Respond to messages"
 msgstr "Responder a mensajes"
 
 #: C/responding-to-messages.page:19(page/title)
-#, fuzzy
-#| msgid "Responding to messages"
 msgid "Respond to messages"
 msgstr "Responder a mensajes"
 
 #: C/responding-to-messages.page:26(section/title)
-#, fuzzy
-#| msgid "Responding to a chat message with the mouse"
 msgid "Respond to a chat message with the mouse"
-msgstr "Responder a un mensaje de chat con el ratón"
+msgstr "Responder a un mensaje de chat con el mouse"
 
 #: C/responding-to-messages.page:29(item/p)
 msgid ""
@@ -1590,12 +1565,12 @@ msgstr "con"
 #: C/search2.svg:170(text/tspan)
 #, no-wrap
 msgid "Accounts"
-msgstr ""
+msgstr "Cuentas"
 
 #: C/search2.svg:171(text/tspan)
 #, no-wrap
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
-msgstr ""
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 
 #: C/search2.svg:172(text/tspan)
 #, no-wrap
@@ -1630,7 +1605,7 @@ msgstr ""
 #: C/search2.svg:218(text/tspan)
 #, no-wrap
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #: C/search-settings.svg:122(text/tspan)
 #, no-wrap
@@ -1667,10 +1642,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/switching-tasks.page:22(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/task-switching.png' "
-#| "md5='7c8d4925fd55a1eaf200582f3cbc3a76'"
 msgctxt "_"
 msgid ""
 "external ref='thumb-task-switching.svg' "
@@ -1814,167 +1785,145 @@ msgstr ""
 #: C/thumb-timezone.svg:61(text/tspan) C/thumb-timezone.svg:67(text/tspan)
 #, no-wrap
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: C/thumb-timezone.svg:62(text/tspan)
 #, no-wrap
 msgid "M"
-msgstr ""
+msgstr "M"
 
 #: C/thumb-timezone.svg:63(text/tspan) C/thumb-timezone.svg:65(text/tspan)
 #, no-wrap
 msgid "T"
-msgstr ""
+msgstr "T"
 
 #: C/thumb-timezone.svg:64(text/tspan)
 #, no-wrap
 msgid "W"
-msgstr ""
+msgstr "W"
 
 #: C/thumb-timezone.svg:66(text/tspan)
 #, no-wrap
 msgid "F"
-msgstr ""
+msgstr "F"
 
 #: C/thumb-timezone.svg:76(text/tspan)
 #, no-wrap
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: C/thumb-timezone.svg:77(text/tspan)
 #, no-wrap
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: C/thumb-timezone.svg:78(text/tspan)
 #, no-wrap
-#| msgid "1"
 msgid "10"
 msgstr "10"
 
 #: C/thumb-timezone.svg:79(text/tspan)
 #, no-wrap
-#| msgid "1"
 msgid "11"
 msgstr "11"
 
 #: C/thumb-timezone.svg:80(text/tspan)
 #, no-wrap
-#| msgid "1"
 msgid "12"
 msgstr "12"
 
 #: C/thumb-timezone.svg:81(text/tspan)
 #, no-wrap
-#| msgid "1"
 msgid "13"
 msgstr "13"
 
 #: C/thumb-timezone.svg:82(text/tspan)
 #, no-wrap
-#| msgid "1"
 msgid "14"
 msgstr "14"
 
 #: C/thumb-timezone.svg:84(text/tspan)
 #, no-wrap
-#| msgid "1"
 msgid "15"
 msgstr "15"
 
 #: C/thumb-timezone.svg:85(text/tspan)
 #, no-wrap
-#| msgid "1"
 msgid "16"
 msgstr "16"
 
 #: C/thumb-timezone.svg:86(text/tspan)
 #, no-wrap
-#| msgid "1"
 msgid "17"
 msgstr "17"
 
 #: C/thumb-timezone.svg:87(text/tspan)
 #, no-wrap
-#| msgid "1"
 msgid "18"
 msgstr "18"
 
 #: C/thumb-timezone.svg:88(text/tspan)
 #, no-wrap
-#| msgid "1"
 msgid "19"
 msgstr "19"
 
 #: C/thumb-timezone.svg:89(text/tspan)
 #, no-wrap
-#| msgid "2"
 msgid "20"
 msgstr "20"
 
 #: C/thumb-timezone.svg:90(text/tspan)
 #, no-wrap
-#| msgid "1"
 msgid "21"
 msgstr "21"
 
 #: C/thumb-timezone.svg:92(text/tspan)
 #, no-wrap
-#| msgid "2"
 msgid "22"
 msgstr "22"
 
 #: C/thumb-timezone.svg:93(text/tspan)
 #, no-wrap
-#| msgid "2"
 msgid "23"
 msgstr "23"
 
 #: C/thumb-timezone.svg:94(text/tspan)
 #, no-wrap
-#| msgid "2"
 msgid "24"
 msgstr "24"
 
 #: C/thumb-timezone.svg:95(text/tspan)
 #, no-wrap
-#| msgid "2"
 msgid "25"
 msgstr "25"
 
 #: C/thumb-timezone.svg:96(text/tspan)
 #, no-wrap
-#| msgid "2"
 msgid "26"
 msgstr "26"
 
 #: C/thumb-timezone.svg:97(text/tspan)
 #, no-wrap
-#| msgid "2"
 msgid "27"
 msgstr "27"
 
 #: C/thumb-timezone.svg:98(text/tspan)
 #, no-wrap
-#| msgid "2"
 msgid "28"
 msgstr "28"
 
 #: C/thumb-timezone.svg:100(text/tspan)
 #, no-wrap
-#| msgid "2"
 msgid "29"
 msgstr "29"
 
 #: C/thumb-timezone.svg:101(text/tspan)
 #, no-wrap
-#| msgid "3"
 msgid "30"
 msgstr "30"
 
 #: C/thumb-timezone.svg:102(text/tspan)
 #, no-wrap
-#| msgid "1"
 msgid "31"
 msgstr "31"
 
@@ -2119,7 +2068,7 @@ msgstr ""
 #: C/web-browser2.svg:88(text/tspan)
 #, no-wrap
 msgid "gnome"
-msgstr ""
+msgstr "gnome"
 
 #: C/web-browser2.svg:92(text/tspan)
 #, no-wrap
@@ -2129,17 +2078,17 @@ msgstr ""
 #: C/web-browser2.svg:93(text/tspan)
 #, no-wrap
 msgid "GNOME 3"
-msgstr ""
+msgstr "GNOME 3"
 
 #: C/web-browser2.svg:94(text/tspan)
 #, no-wrap
 msgid "http://planet.gnome.org"
-msgstr ""
+msgstr "http://planet.gnome.org"
 
 #: C/web-browser2.svg:95(text/tspan)
 #, no-wrap
 msgid "http://gnome.org"
-msgstr ""
+msgstr "http://gnome.org"
 
 #: C/web-browser2.svg:189(text/tspan)
 #, no-wrap
