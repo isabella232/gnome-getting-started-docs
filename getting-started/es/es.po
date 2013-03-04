@@ -13,20 +13,21 @@
 # 
 # 
 # 
+# 
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2013., 2013.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
 "POT-Creation-Date: 2013-02-25 18:47+0000\n"
-"PO-Revision-Date: 2013-03-03 10:50+0100\n"
+"PO-Revision-Date: 2013-03-04 16:33+0100\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
-"Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
+"Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
@@ -1575,32 +1576,32 @@ msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 #: C/search2.svg:172(text/tspan)
 #, no-wrap
 msgid "config"
-msgstr ""
+msgstr "configuración"
 
 #: C/search2.svg:173(text/tspan) C/search2.svg:176(text/tspan)
 #, no-wrap
 msgid "fontconfig"
-msgstr ""
+msgstr "fontconfig"
 
 #: C/search2.svg:174(text/tspan)
 #, no-wrap
 msgid "system-config-http.zip"
-msgstr ""
+msgstr "system-config-http.zip"
 
 #: C/search2.svg:175(text/tspan)
 #, no-wrap
 msgid "Icon guidelines"
-msgstr ""
+msgstr "Guías de iconos"
 
 #: C/search2.svg:193(text/tspan)
 #, no-wrap
 msgid "Secure Linux Containers"
-msgstr ""
+msgstr "Contenedores Linux seguros"
 
 #: C/search2.svg:194(text/tspan)
 #, no-wrap
 msgid "Developer Conference 2012"
-msgstr ""
+msgstr "Conferencia de desarrolladores 2012"
 
 #: C/search2.svg:218(text/tspan)
 #, no-wrap
@@ -1610,32 +1611,32 @@ msgstr "Firefox"
 #: C/search-settings.svg:122(text/tspan)
 #, no-wrap
 msgid "Search"
-msgstr ""
+msgstr "Búsqueda"
 
 #: C/search-settings.svg:133(text/tspan)
 #, no-wrap
 msgid "Files"
-msgstr ""
+msgstr "Archivos"
 
 #: C/search-settings.svg:134(text/tspan)
 #, no-wrap
 msgid "Enabled"
-msgstr ""
+msgstr "Activado"
 
 #: C/search-settings.svg:249(text/tspan) C/web-browser2.svg:151(text/tspan)
 #, no-wrap
 msgid "Web"
-msgstr ""
+msgstr "Web"
 
 #: C/search-settings.svg:250(text/tspan)
 #, no-wrap
 msgid "Photos"
-msgstr ""
+msgstr "Fotografías"
 
 #: C/search-settings.svg:251(text/tspan)
 #, no-wrap
 msgid "Music"
-msgstr ""
+msgstr "Música"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -1651,78 +1652,66 @@ msgstr ""
 "md5='40c644a7f373bca4ce0234bb44ac18b8'"
 
 #: C/switching-tasks.page:15(info/title)
-#, fuzzy
-#| msgid "Switching Tasks"
 msgctxt "link:trail"
 msgid "Switch tasks"
 msgstr "Cambiar entre tareas"
 
 #: C/switching-tasks.page:19(page/title)
 #: C/switching-tasks.page:78(section/title)
-#, fuzzy
-#| msgid "Switching Tasks"
 msgid "Switch tasks"
 msgstr "Cambiar entre tareas"
 
 #: C/switching-tasks.page:33(div/p) C/switching-tasks.page:84(item/p)
 msgid "Click a window to switch the task."
-msgstr ""
+msgstr "Pulse una ventana para cambiar de tarea."
 
 #: C/switching-tasks.page:43(div/p)
-#, fuzzy
-#| msgid ""
-#| "To maximize a window along a side of the screen, grab the window's "
-#| "titlebar and drag it to the left or right side of the screen."
 msgid ""
 "To maximize a window along the right side, grab the window's titlebar and "
 "drag it to the right."
 msgstr ""
-"Para maximizar un ventana a lo largo de un lado de la pantalla, arrastre la "
-"barra de título de la ventana hacia el lado izquierdo o derecho de la "
-"pantalla."
+"Para maximizar una ventana en el lado derecho de la pantalla, arrastre la "
+"barra de título de la ventana hacia la derecha."
 
 #: C/switching-tasks.page:50(div/p)
 msgid ""
 "Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the <gui>Window "
 "Switcher</gui>."
 msgstr ""
+"Pulse <keyseq><key>Alt</key><key>Tab</key></keyseq> para visualizar el "
+"<gui>Conmutador de ventanas</gui>."
 
 #: C/switching-tasks.page:54(div/p)
 msgid "Release <key>Alt</key> to select the next highlighted window."
-msgstr ""
+msgstr "Suelte <key>Alt</key> para seleccionar la siguiente ventana resaltada."
 
 #: C/switching-tasks.page:58(div/p) C/switching-tasks.page:113(item/p)
 msgid ""
 "To cycle through the list of open windows, do not release <key>Alt</key> but "
 "hold it down, and press <key>Tab</key>."
 msgstr ""
+"Para pasar a través de la lista de ventanas abiertas, no suelte <key>Alt</"
+"key>; manténgala pulsada y pulse <key>Tab</key>."
 
 #: C/switching-tasks.page:62(div/p) C/switching-tasks.page:123(item/p)
 msgid ""
 "Press the <key>Super</key> key to show the <gui>Activities Overview</gui>."
 msgstr ""
+"Pulse la tecla <key>Super</key> para visualizar la <gui>Vista de "
+"actividades</gui>."
 
 #: C/switching-tasks.page:66(div/p)
-#, fuzzy
-#| msgid ""
-#| "Start typing the name of the application that you want to launch. "
-#| "Searching for the application begins instantly."
 msgid "Start typing the name of the application you want to switch to."
 msgstr ""
-"Comience a escribir el nombre de la aplicación que desee lanzar. La búsqueda "
-"de la aplicación comienza al instante."
+"Comience a escribir el nombre de la aplicación a la que quiera cambiar."
 
 #: C/switching-tasks.page:70(div/p)
-#, fuzzy
-#| msgid ""
-#| "Once the icon of the application is shown and selected, press <key> "
-#| "Enter</key> to launch the application."
 msgid ""
 "When the application appears as the first result, press <key> Enter</key> to "
 "switch to it."
 msgstr ""
-"Una vez que aparezca y seleccione el icono de la aplicación, presione "
-"<key>Intro</key> para lanzar la aplicación."
+"Cuando la aplicación aparezca como primer resultado, pulse <key> Intro</key> "
+"para cambiar a ella."
 
 #: C/switching-tasks.page:81(item/p)
 msgid ""
