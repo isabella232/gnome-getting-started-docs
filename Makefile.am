@@ -1,1 +1,1 @@
-SUBDIRS = getting-started
+SUBDIRS = gnome-help

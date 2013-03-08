@@ -9,6 +9,6 @@ AM_MAINTAINER_MODE([enable])
 
 AC_CONFIG_FILES([
 Makefile
-getting-started/Makefile
+gnome-help/Makefile
 ])
 AC_OUTPUT
