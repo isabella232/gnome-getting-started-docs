@@ -14,13 +14,14 @@
 # 
 # 
 # 
+# 
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2013., 2013.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
 "POT-Creation-Date: 2013-02-25 18:47+0000\n"
-"PO-Revision-Date: 2013-03-04 16:33+0100\n"
+"PO-Revision-Date: 2013-03-08 12:18+0100\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -1678,8 +1679,8 @@ msgid ""
 "Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the <gui>Window "
 "Switcher</gui>."
 msgstr ""
-"Pulse <keyseq><key>Alt</key><key>Tab</key></keyseq> para visualizar el "
-"<gui>Conmutador de ventanas</gui>."
+"Pulse <keyseq><key>Alt</key><key>Tab</key></keyseq> para mostrar el "
+"<gui>Selector de ventanas</gui>."
 
 #: C/switching-tasks.page:54(div/p)
 msgid "Release <key>Alt</key> to select the next highlighted window."
@@ -1719,57 +1720,57 @@ msgid ""
 "of the screen to show the <gui>Activities Overview</gui> where you can see "
 "the currently running tasks displayed as small windows."
 msgstr ""
+"Mueva el cursor del ratón hacia la esquina de <gui>Actividades</gui> en la "
+"parte superior izquierda de la pantalla para mostrar la <gui>Vista de "
+"actividades</gui>, donde puede ver las tareas que están funcionando ahora en "
+"pequeñas ventanas."
 
 #: C/switching-tasks.page:106(section/title)
 msgid "Switch between windows"
-msgstr ""
+msgstr "Cambiar entre ventanas"
 
 #: C/switching-tasks.page:109(item/p)
 msgid ""
 "Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the <gui>Window "
 "Switcher</gui>, which lists the currently open windows."
 msgstr ""
+"Pulse <keyseq><key>Alt</key><key>Tab</key></keyseq> para mostrar el "
+"<gui>Selector de ventanas</gui>, que enumera las ventanas que están abiertas "
+"ahora."
 
 #: C/switching-tasks.page:111(item/p)
 msgid ""
 "Release <key>Alt</key> to select the next highlighted window in the Window "
 "Switcher."
 msgstr ""
+"Suelte <key>Alt</key> para seleccionar la próxima ventana resaltada en el "
+"Selector de ventanas."
 
 #: C/switching-tasks.page:120(section/title)
-#, fuzzy
-#| msgid "Launch applications"
 msgid "Use search to switch applications"
-msgstr "Lanzar aplicaciones"
+msgstr "Usar el buscador para cambiar entre aplicaciones"
 
 #: C/switching-tasks.page:125(item/p)
-#, fuzzy
-#| msgid ""
-#| "Start typing the name of the application that you want to launch. "
-#| "Searching for the application begins instantly."
 msgid ""
 "Just start typing the name of the application you want to switch to. "
 "Applications matching what you have typed will appear as you type."
 msgstr ""
-"Comience a escribir el nombre de la aplicación que desee lanzar. La búsqueda "
-"de la aplicación comienza al instante."
+"Simplemente comience a escribir el nombre de la aplicación que desee "
+"cambiar. Las aplicaciones que coincidan con lo que ha escrito aparecerán a "
+"medida que vaya escribiendo."
 
 #: C/switching-tasks.page:128(item/p)
-#, fuzzy
-#| msgid ""
-#| "Once the icon of the application is shown and selected, press <key> "
-#| "Enter</key> to launch the application."
 msgid ""
 "When the application that you want to switch to appears as the first result, "
 "press <key>Enter</key> to switch to it."
 msgstr ""
-"Una vez que aparezca y seleccione el icono de la aplicación, presione "
-"<key>Intro</key> para lanzar la aplicación."
+"Cuando la aplicación que quiere cambiar aparece como primer resultado, pulse "
+"<key>Intro</key> para cambiar a ella."
 
 #: C/thumb-responding-to-messages.svg:56(text/tspan)
 #, no-wrap
 msgid "Thanks f"
-msgstr ""
+msgstr "Gracias"
 
 #: C/thumb-timezone.svg:61(text/tspan) C/thumb-timezone.svg:67(text/tspan)
 #, no-wrap
@@ -1948,65 +1949,67 @@ msgstr ""
 #: C/use-search.page:15(info/title)
 msgctxt "link:trail"
 msgid "Use the system search"
-msgstr ""
+msgstr "Utilizar la búsqueda de sistema"
 
 #: C/use-search.page:18(page/title)
 msgid "Use the system search"
-msgstr ""
+msgstr "Utilizar la búsqueda de sistema"
 
 #: C/use-search.page:25(item/p)
-#, fuzzy
-#| msgid ""
-#| "Start typing the name of the application that you want to launch. "
-#| "Searching for the application begins instantly."
 msgid ""
 "Start typing to search. Results matching what you have typed will appear as "
 "you type."
 msgstr ""
-"Comience a escribir el nombre de la aplicación que desee lanzar. La búsqueda "
-"de la aplicación comienza al instante."
+"Para buscar, comience a escribir. Los resultados que coincidan con lo "
+"escrito aparecerán a medida que vaya escribiendo."
 
 #: C/use-search.page:26(item/p)
 msgid ""
 "The first result is always highlighted and shown at the top. To switch to "
 "the first, highlighted result, press <key>Enter</key>."
 msgstr ""
+"El primer resultado siempre aparece arriba y resaltado. Para cambiarse al "
+"primer resultado resaltado, pulse <key>Intro</key>."
 
 #: C/use-search.page:31(item/p)
 msgid "Items that can appear in the search results include:"
 msgstr ""
+"Los elementos que pueden aparecer en los resultados de búsqueda incluyen:"
 
 #: C/use-search.page:33(item/p)
-#, fuzzy
-#| msgid "Launching applications with the keyboard"
 msgid "matching applications, shown at the top of the search results,"
-msgstr "Lanzar aplicaciones con el teclado"
+msgstr ""
+"aplicaciones coincidentes, mostradas en la parte superior de los resultados "
+"de búsqueda"
 
 #: C/use-search.page:34(item/p)
 msgid "matching settings,"
-msgstr ""
+msgstr "configuraciones coincidentes,"
 
 #: C/use-search.page:35(item/p)
 msgid "matching contacts,"
-msgstr ""
+msgstr "contactos coincidentes"
 
 #: C/use-search.page:36(item/p)
 msgid "matching documents."
-msgstr ""
+msgstr "documentos coincidentes."
 
 #: C/use-search.page:39(item/p)
 msgid "In the search results, click the item to switch to it."
 msgstr ""
+"En los resultados de búsqueda, pulse el elemento al que quiera\t cambiarse."
 
 #: C/use-search.page:40(item/p)
 msgid ""
 "Alternatively, highlight an item using the arrow keys and press <key>Enter</"
 "key>."
 msgstr ""
+"Si no, resalte un elemento utilizando las teclas de flecha y pulse "
+"<key>Intro</key>."
 
 #: C/use-search.page:45(section/title)
 msgid "Types of results"
-msgstr ""
+msgstr "Tipos de resultados"
 
 #: C/use-search.page:47(section/p)
 msgid ""
@@ -2014,6 +2017,9 @@ msgid ""
 "of results are application launchers. Activating a launcher will start an "
 "application."
 msgstr ""
+"La búsqueda del sistema muestra los resultados desde varias aplicaciones. El "
+"primer grupo de resultados son los lanzadores de aplicaciones. La aplicación "
+"se iniciará activando un lanzador."
 
 #: C/use-search.page:48(section/p)
 msgid ""
