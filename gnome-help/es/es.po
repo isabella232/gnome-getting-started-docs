@@ -15,20 +15,21 @@
 # 
 # 
 # 
+# 
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2013., 2013.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-02-25 18:47+0000\n"
-"PO-Revision-Date: 2013-03-08 12:18+0100\n"
+"POT-Creation-Date: 2013-03-09 20:38+0000\n"
+"PO-Revision-Date: 2013-03-10 12:59+0100\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
-"Language-Team: Español <gnome-es-list@gnome.org>\n"
+"Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
@@ -38,96 +39,10 @@ msgstr ""
 "Nicolás Satragno <nsatragno@gnome.org>, 2013\n"
 "Fabiola Tortul <fabiolatortul@hotmail.com>, 2013"
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/index.page:17(media) C/launch-apps.page:23(media)
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-launching-applications.webm' "
-"md5='16609de3c9d4b91ba3e7a5785863a05a'"
-msgstr ""
-"external ref='figures/gnome-launching-applications.webm' "
-"md5='16609de3c9d4b91ba3e7a5785863a05a'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/index.page:24(media) C/switching-tasks.page:21(media)
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-task-switching.webm' "
-"md5='edf94b461a60c8683e2d64f778949739'"
-msgstr ""
-"external ref='figures/gnome-task-switching.webm' "
-"md5='edf94b461a60c8683e2d64f778949739'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/index.page:30(media) C/responding-to-messages.page:21(media)
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-responding-to-messages.webm' "
-"md5='8f82d09463e5d8381b790cf94f4bfd00'"
-msgstr ""
-"external ref='figures/gnome-responding-to-messages.webm' "
-"md5='8f82d09463e5d8381b790cf94f4bfd00'"
-
-#: C/index.page:9(info/desc)
-msgid "Getting Started with GNOME"
-msgstr "Primeros pasos con GNOME"
-
-#: C/index.page:10(info/title)
-msgctxt "link"
-msgid "Getting Started with GNOME"
-msgstr "Primeros pasos con GNOME"
-
-#: C/index.page:11(info/title)
-msgctxt "text"
+#: C/index.page:8(page/title) C/animation.xml:5(titles/t)
+#: C/getting-started.page:14(page/title)
 msgid "Getting Started"
 msgstr "Primeros pasos"
-
-#: C/index.page:14(page/title) C/animation.xml:5(titles/t)
-msgid "Getting Started"
-msgstr "Primeros pasos"
-
-#: C/index.page:37(links/title)
-msgid "Common Tasks"
-msgstr "Tareas frecuentes"
 
 #: C/animation.xml:3(titles/t)
 msgid "Welcome"
@@ -306,14 +221,6 @@ msgstr "Configuración de fecha y hora"
 msgid "Automatic Date and Time"
 msgstr "Fecha y hora automáticas"
 
-#: C/legal.xml:3(p/link)
-msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
-msgstr "Creative Commons Atribución-CompartirIgual 3.0 Unported"
-
-#: C/legal.xml:3(license/p)
-msgid "This work is licensed under a <_:link-1/>."
-msgstr "Este trabajo se encuentra bajo una licencia <_:link-1/>."
-
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
@@ -332,16 +239,16 @@ msgctxt "_"
 msgid "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
 msgstr "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
 
-#: C/browse-web.page:10(credit/name) C/change-wallpaper.page:10(credit/name)
-#: C/change-time.page:10(credit/name) C/launch-apps.page:10(credit/name)
+#: C/browse-web.page:10(credit/name) C/change-time.page:10(credit/name)
+#: C/change-wallpaper.page:10(credit/name) C/launch-apps.page:10(credit/name)
 #: C/move-windows.page:9(credit/name) C/online-accounts.page:9(credit/name)
 #: C/online.page:9(credit/name) C/responding-to-messages.page:10(credit/name)
 #: C/switching-tasks.page:9(credit/name) C/use-search.page:9(credit/name)
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
-#: C/browse-web.page:13(credit/name) C/change-wallpaper.page:13(credit/name)
-#: C/change-time.page:13(credit/name) C/launch-apps.page:13(credit/name)
+#: C/browse-web.page:13(credit/name) C/change-time.page:13(credit/name)
+#: C/change-wallpaper.page:13(credit/name) C/launch-apps.page:13(credit/name)
 #: C/move-windows.page:12(credit/name) C/online-accounts.page:12(credit/name)
 #: C/online.page:12(credit/name) C/responding-to-messages.page:13(credit/name)
 #: C/switching-tasks.page:12(credit/name) C/use-search.page:12(credit/name)
@@ -429,95 +336,14 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/change-wallpaper.page:21(media)
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-change-wallpaper.webm' "
-"md5='9217e7043891d8077dae3204f2c26182'"
-msgstr ""
-"external ref='figures/gnome-change-wallpaper.webm' "
-"md5='9217e7043891d8077dae3204f2c26182'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/change-wallpaper.page:22(media)
-msgctxt "_"
-msgid ""
-"external ref='thumb-changing-wallpaper.svg' "
-"md5='763775a32c0e5861c71ef54fdcb24a53'"
-msgstr ""
-"external ref='thumb-changing-wallpaper.svg' "
-"md5='763775a32c0e5861c71ef54fdcb24a53'"
-
-#: C/change-wallpaper.page:16(info/title)
-msgctxt "link:trail"
-msgid "Change the wallpaper"
-msgstr "Cambiar el fondo de pantalla"
-
-#: C/change-wallpaper.page:19(page/title)
-#: C/change-wallpaper.page:51(section/title)
-msgid "Change the wallpaper"
-msgstr "Cambiar el fondo de pantalla"
-
-#: C/change-wallpaper.page:29(div/p) C/change-wallpaper.page:54(item/p)
-msgid "Click your name on the top bar and select <gui>Settings</gui>."
-msgstr ""
-"Pulse su nombre en la barra superior y seleccione <gui>Configuración</gui>."
-
-#: C/change-wallpaper.page:32(div/p)
-msgid "Select <gui>Background</gui>."
-msgstr "Seleccione <gui>Fondo</gui>."
-
-#: C/change-wallpaper.page:35(div/p)
-msgid "Click the image of your current wallpaper."
-msgstr "Pulse la imagen de su fondo de pantalla actual."
-
-#: C/change-wallpaper.page:38(div/p) C/change-wallpaper.page:59(item/p)
-msgid "Click the background image that you want to use."
-msgstr "Pulse la imagen de fondo que quiera utilizar."
-
-#: C/change-wallpaper.page:41(div/p) C/change-wallpaper.page:60(item/p)
-msgid "Click the <gui>Select</gui> button."
-msgstr "Pulse el botón <gui>Seleccionar</gui>."
-
-#: C/change-wallpaper.page:44(div/p)
-msgid "Close the <gui>Background</gui> window."
-msgstr "Cierre la ventana <gui>Fondo</gui>."
-
-#: C/change-wallpaper.page:56(item/p)
-msgid "From the list of items, select <gui>Background</gui>."
-msgstr "De la lista de elementos, seleccione <gui>Fondo</gui>."
-
-#: C/change-wallpaper.page:57(item/p)
-msgid ""
-"Click the image of your current wallpaper in the center of the "
-"<gui>Background</gui> window."
-msgstr ""
-"Pulse la imagen del fondo de pantalla actual que está en el centro de la "
-"ventana <gui>Fondo</gui>."
-
-#: C/change-wallpaper.page:61(item/p)
-msgid ""
-"Close the <gui>Background</gui> window by clicking the cross at the top-"
-"right corner of the window."
-msgstr ""
-"Cierre la ventana <gui>Fondo</gui> pulsando la cruz que está en la esquina "
-"superior derecha de la ventana."
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
 #: C/change-time.page:21(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-timezone.webm' "
-"md5='57a4ee4ef7cc7cb37ba03e1f3686666a'"
+"md5='79089b60be438a6e6b0505f06679cebe'"
 msgstr ""
 "external ref='figures/gnome-timezone.webm' "
-"md5='57a4ee4ef7cc7cb37ba03e1f3686666a'"
+"md5='79089b60be438a6e6b0505f06679cebe'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -597,6 +423,163 @@ msgid ""
 msgstr ""
 "Cierre la ventana pulsando la cruz que está en la esquina superior derecha "
 "de la ventana."
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/change-wallpaper.page:21(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-change-wallpaper.webm' "
+"md5='edf1a698f4da87db90f00b9b15897483'"
+msgstr ""
+"external ref='figures/gnome-change-wallpaper.webm' "
+"md5='edf1a698f4da87db90f00b9b15897483'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/change-wallpaper.page:22(media)
+msgctxt "_"
+msgid ""
+"external ref='thumb-changing-wallpaper.svg' "
+"md5='763775a32c0e5861c71ef54fdcb24a53'"
+msgstr ""
+"external ref='thumb-changing-wallpaper.svg' "
+"md5='763775a32c0e5861c71ef54fdcb24a53'"
+
+#: C/change-wallpaper.page:16(info/title)
+msgctxt "link:trail"
+msgid "Change the wallpaper"
+msgstr "Cambiar el fondo de pantalla"
+
+#: C/change-wallpaper.page:19(page/title)
+#: C/change-wallpaper.page:51(section/title)
+msgid "Change the wallpaper"
+msgstr "Cambiar el fondo de pantalla"
+
+#: C/change-wallpaper.page:29(div/p) C/change-wallpaper.page:54(item/p)
+msgid "Click your name on the top bar and select <gui>Settings</gui>."
+msgstr ""
+"Pulse su nombre en la barra superior y seleccione <gui>Configuración</gui>."
+
+#: C/change-wallpaper.page:32(div/p)
+msgid "Select <gui>Background</gui>."
+msgstr "Seleccione <gui>Fondo</gui>."
+
+#: C/change-wallpaper.page:35(div/p)
+msgid "Click the image of your current wallpaper."
+msgstr "Pulse la imagen de su fondo de pantalla actual."
+
+#: C/change-wallpaper.page:38(div/p) C/change-wallpaper.page:59(item/p)
+msgid "Click the background image that you want to use."
+msgstr "Pulse la imagen de fondo que quiera utilizar."
+
+#: C/change-wallpaper.page:41(div/p) C/change-wallpaper.page:60(item/p)
+msgid "Click the <gui>Select</gui> button."
+msgstr "Pulse el botón <gui>Seleccionar</gui>."
+
+#: C/change-wallpaper.page:44(div/p)
+msgid "Close the <gui>Background</gui> window."
+msgstr "Cierre la ventana <gui>Fondo</gui>."
+
+#: C/change-wallpaper.page:56(item/p)
+msgid "From the list of items, select <gui>Background</gui>."
+msgstr "De la lista de elementos, seleccione <gui>Fondo</gui>."
+
+#: C/change-wallpaper.page:57(item/p)
+msgid ""
+"Click the image of your current wallpaper in the center of the "
+"<gui>Background</gui> window."
+msgstr ""
+"Pulse la imagen del fondo de pantalla actual que está en el centro de la "
+"ventana <gui>Fondo</gui>."
+
+#: C/change-wallpaper.page:61(item/p)
+msgid ""
+"Close the <gui>Background</gui> window by clicking the cross at the top-"
+"right corner of the window."
+msgstr ""
+"Cierre la ventana <gui>Fondo</gui> pulsando la cruz que está en la esquina "
+"superior derecha de la ventana."
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/getting-started.page:17(media) C/launch-apps.page:23(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-launching-applications.webm' "
+"md5='074a675216f03881c0afb428d576eae3'"
+msgstr ""
+"external ref='figures/gnome-launching-applications.webm' "
+"md5='074a675216f03881c0afb428d576eae3'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/getting-started.page:24(media) C/switching-tasks.page:21(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-task-switching.webm' "
+"md5='457a511b6086fe787e3b589717021a55'"
+msgstr ""
+"external ref='figures/gnome-task-switching.webm' "
+"md5='457a511b6086fe787e3b589717021a55'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/getting-started.page:30(media) C/responding-to-messages.page:21(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-responding-to-messages.webm' "
+"md5='ac44de55fba93ce64551c90fd6d30804'"
+msgstr ""
+"external ref='figures/gnome-responding-to-messages.webm' "
+"md5='ac44de55fba93ce64551c90fd6d30804'"
+
+#: C/getting-started.page:9(info/desc)
+msgid "New to GNOME? Learn how to get around."
+msgstr "¿Es nuevo en GNOME? Aprenda cómo desenvolverse."
+
+#: C/getting-started.page:10(info/title)
+msgctxt "link"
+msgid "Getting Started with GNOME"
+msgstr "Primeros pasos con GNOME"
+
+#: C/getting-started.page:11(info/title)
+msgctxt "text"
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: C/getting-started.page:37(links/title)
+msgid "Common Tasks"
+msgstr "Tareas frecuentes"
+
+#: C/getting-started.page:41(links/title)
+msgid "Learn More"
+msgstr "Aprender más"
 
 #: C/goa1.svg:20(Work/format) C/goa2.svg:29(Work/format)
 #: C/goa3.svg:29(Work/format) C/goa4.svg:23(Work/format)
@@ -970,10 +953,10 @@ msgstr ""
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='77cd38321095b0ecb2d41ab18ed9794f'"
+"md5='b56350cbcab8c569383ff1f6abd9372e'"
 msgstr ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='77cd38321095b0ecb2d41ab18ed9794f'"
+"md5='b56350cbcab8c569383ff1f6abd9372e'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -2032,10 +2015,19 @@ msgid ""
 "application itself. As soon as the associated application starts, your "
 "performed query will be performed in the application."
 msgstr ""
+"Otros tipos de resultados pueden incluir <app>configuración</app>, "
+"<app>contactos</app> o <app>documentos</app>. A cada tipo de resultado le "
+"precede un icono de la aplicación que proporcionó el resultado (aparte de "
+"los lanzadores de aplicación que están en la parte superior). En la vista "
+"sólo aparecen las mejores coincidencias, así que si quiere más alcance de "
+"búsqueda, puede pulsar o utilizar las teclas de flecha para navegar hacia el "
+"icono de la aplicación que está a la izquierda para cambiarse a dicha "
+"aplicación. Tan pronto como se inicie la aplicación asociada, la búsqueda se "
+"realizará en la aplicación."
 
 #: C/use-search.page:54(section/title)
 msgid "Customize search results"
-msgstr ""
+msgstr "Personalizar los resultados de búsqueda"
 
 #: C/use-search.page:59(note/p)
 msgid ""
@@ -2043,22 +2035,26 @@ msgid ""
 "the <gui>Activities Overview</gui>. For example, you can choose whether you "
 "want to show results for websites, photos, or music."
 msgstr ""
+"GNOME le permite personalizar lo que quiere mostrar en los resultados de "
+"búsqueda en la <gui>Vista de actividades</gui>. Por ejemplo, puede decidir "
+"si quiere mostrar los resultados para los sitios web, fotografías o música."
 
 #: C/use-search.page:62(section/p)
 msgid "To customize what is displayed in the search results:"
-msgstr ""
+msgstr "Para personalizar lo que aparece en los resultados de búsqueda:"
 
 #: C/use-search.page:67(item/p)
-#, fuzzy
-#| msgid "From the list of items, select <gui>Background</gui>."
 msgid "From the list of items, select <gui>Search</gui>."
-msgstr "De la lista de elementos, seleccione <gui>Fondo</gui>."
+msgstr "De la lista de elementos, seleccione <gui>Buscar</gui>."
 
 #: C/use-search.page:68(item/p)
 msgid ""
 "In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
 "the search location you want to enable or disable."
 msgstr ""
+"En la lista de direcciones de búsqueda, pulse el interruptor de "
+"<gui>ENCENDIDO/APAGADO</gui> que está al lado de la dirección de búsqueda "
+"que quiera activar o desactivar."
 
 #: C/web-browser2.svg:88(text/tspan)
 #, no-wrap
@@ -2068,7 +2064,7 @@ msgstr "gnome"
 #: C/web-browser2.svg:92(text/tspan)
 #, no-wrap
 msgid "Planet Gnome"
-msgstr ""
+msgstr "Planeta GNOME"
 
 #: C/web-browser2.svg:93(text/tspan)
 #, no-wrap
@@ -2088,7 +2084,16 @@ msgstr "http://gnome.org"
 #: C/web-browser2.svg:189(text/tspan)
 #, no-wrap
 msgid "Planet GNOME"
-msgstr ""
+msgstr "Planeta GNOME"
+
+#~ msgid "Getting Started with GNOME"
+#~ msgstr "Primeros pasos con GNOME"
+
+#~ msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+#~ msgstr "Creative Commons Atribución-CompartirIgual 3.0 Unported"
+
+#~ msgid "This work is licensed under a <_:link-1/>."
+#~ msgstr "Este trabajo se encuentra bajo una licencia <_:link-1/>."
 
 #~ msgid "Changing the date, time and timezone"
 #~ msgstr "Cambiar la fecha, hora y zona horaria"
