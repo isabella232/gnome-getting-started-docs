@@ -28,7 +28,7 @@ def transcode(lang):
   regexobj = re.search(r"^(.*\/)*(.*)(\.blend)$", bpy.data.filepath)
   framepath = renderpathabs
   webmfile = "%s.webm" % (regexobj.group(2))
-  transcodepath = "../getting-started/%s/figures/" % (lang)
+  transcodepath = "../gnome-help/%s/figures/" % (lang)
   
   #print(transcodepath,webmfile,sndfile,framepath)
   transcodecmd = "gst-launch-1.0 webmmux name=mux ! filesink location=\"%s/%s\"    file://%s ! decodebin ! audioconvert ! vorbisenc bitrate=128000 ! mux.     multifilesrc location=\"%s/%%04d.png\" index=1 caps=\"image/png,framerate=\(fraction\)24/1\" ! pngdec ! videoconvert ! videoscale ! videorate ! vp8enc threads=12 ! mux." % (transcodepath,webmfile,sndfile,framepath)
@@ -45,7 +45,7 @@ def main():
   langs = open('language-whitelist.txt').readlines()
   for lang in langs:
     lang = lang.strip()
-    xmlfile = ET.parse('../getting-started/' + lang + '/animation.xml')
+    xmlfile = ET.parse('../gnome-help/' + lang + '/animation.xml')
     t[lang] = xmlfile.getroot()
     for textobj in t[lang].findall('t'):
       if textobj.get('id') in bpy.data.objects: #prelozit jestli existuje jako index
