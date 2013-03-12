@@ -22,8 +22,7 @@ Makefile.in
 /install-sh
 /missing
 /gnome-doc-utils.make
-/gnome-help/??/*.page
-/gnome-help/??/*.svg
-/gnome-help/??/legal.xml
-/gnome-help/??/animation.xml
-/player/player
+/gnome-help/??*/*.page
+/gnome-help/??*/*.svg
+/gnome-help/??*/legal.xml
+/gnome-help/??*/animation.xml
