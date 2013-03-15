@@ -21,15 +21,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-03-09 20:38+0000\n"
-"PO-Revision-Date: 2013-03-10 12:59+0100\n"
+"POT-Creation-Date: 2013-03-15 14:03+0000\n"
+"PO-Revision-Date: 2013-03-15 17:19+0100\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
-"Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
+"Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
@@ -48,7 +48,8 @@ msgstr "Primeros pasos"
 msgid "Welcome"
 msgstr "Bienvenido"
 
-#: C/animation.xml:4(titles/t) C/launch-apps.page:28(div/p)
+#: C/animation.xml:4(titles/t) C/getting-started.page:25(div/p)
+#: C/launch-apps.page:28(div/p)
 msgid "Launching Applications"
 msgstr "Lanzar aplicaciones"
 
@@ -60,7 +61,8 @@ msgstr "Cambiar el fondo de pantalla"
 msgid "Responding to Messages"
 msgstr "Responder a los mensajes"
 
-#: C/animation.xml:8(titles/t) C/switching-tasks.page:26(div/p)
+#: C/animation.xml:8(titles/t) C/getting-started.page:64(div/p)
+#: C/switching-tasks.page:26(div/p)
 msgid "Switching Tasks"
 msgstr "Cambiar entre tareas"
 
@@ -514,7 +516,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:17(media) C/launch-apps.page:23(media)
+#: C/getting-started.page:18(media) C/launch-apps.page:23(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-launching-applications.webm' "
@@ -532,7 +534,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:24(media) C/switching-tasks.page:21(media)
+#: C/getting-started.page:57(media) C/switching-tasks.page:21(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-task-switching.webm' "
@@ -550,7 +552,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:30(media) C/responding-to-messages.page:21(media)
+#: C/getting-started.page:118(media) C/responding-to-messages.page:21(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-responding-to-messages.webm' "
@@ -573,11 +575,129 @@ msgctxt "text"
 msgid "Getting Started"
 msgstr "Primeros pasos"
 
-#: C/getting-started.page:37(links/title)
+#: C/getting-started.page:20(caption/desc)
+#| msgid "Launch applications"
+msgid "Launch Applications"
+msgstr "Lanzar aplicaciones"
+
+#: C/getting-started.page:28(div/p) C/getting-started.page:67(div/p)
+#: C/launch-apps.page:31(div/p) C/switching-tasks.page:29(div/p)
+msgid ""
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen."
+msgstr ""
+"Mueva el cursor del ratón hacia la esquina de <gui>Actividades</gui> en la "
+"parte superior izquierda de la pantalla."
+
+#: C/getting-started.page:32(div/p) C/launch-apps.page:35(div/p)
+msgid "Click the <gui>Show Applications</gui> item."
+msgstr "Seleccione el elemento <gui>Mostrar aplicaciones</gui>."
+
+#: C/getting-started.page:35(div/p) C/launch-apps.page:38(div/p)
+msgid "Click the application you want to run, for example, Help."
+msgstr "Pulse la aplicación que quiera ejecutar, por ejemplo, «Ayuda»."
+
+#: C/getting-started.page:39(div/p) C/launch-apps.page:42(div/p)
+msgid ""
+"Use the keyboard to open the <gui>Activities Overview</gui> <span begin=\"3s"
+"\">by pressing the <key>Super</key> key. </span>"
+msgstr ""
+"Utilice el teclado para abrir la <gui>Vista de actividades</gui> <span begin="
+"\"3s\">pulsando la tecla <key>Super</key> </span>."
+
+#: C/getting-started.page:44(div/p) C/launch-apps.page:47(div/p)
+msgid "Start typing the name of the application you want to launch."
+msgstr "Comience a escribir el nombre de la aplicación que quiera lanzar."
+
+#: C/getting-started.page:48(div/p) C/launch-apps.page:51(div/p)
+msgid "Press <key>Enter</key> to launch the application."
+msgstr "Pulse <key>Intro</key> para lanzar la aplicación."
+
+#: C/getting-started.page:59(caption/desc)
+#| msgid "Switch tasks"
+msgid "Switch Tasks"
+msgstr "Cambiar entre tareas"
+
+#: C/getting-started.page:71(div/p) C/switching-tasks.page:33(div/p)
+#: C/switching-tasks.page:84(item/p)
+msgid "Click a window to switch the task."
+msgstr "Pulse una ventana para cambiar de tarea."
+
+#: C/getting-started.page:74(div/p) C/move-windows.page:43(div/p)
+#: C/switching-tasks.page:36(div/p)
+msgid ""
+"To maximize a window along the left side of the screen, grab the window's "
+"titlebar and drag it to the left."
+msgstr ""
+"Para maximizar una ventana a lo largo del lado izquierdo de la pantalla, "
+"arrastre la barra de título de la ventana hacia la izquierda."
+
+#: C/getting-started.page:78(div/p) C/getting-started.page:85(div/p)
+#: C/move-windows.page:47(div/p) C/move-windows.page:54(div/p)
+#: C/switching-tasks.page:40(div/p) C/switching-tasks.page:47(div/p)
+msgid "When half of the screen is highlighted, drop the window."
+msgstr "Cuando la mitad de la pantalla esté resaltada, suelte la ventana."
+
+#: C/getting-started.page:81(div/p) C/switching-tasks.page:43(div/p)
+msgid ""
+"To maximize a window along the right side, grab the window's titlebar and "
+"drag it to the right."
+msgstr ""
+"Para maximizar una ventana en el lado derecho de la pantalla, arrastre la "
+"barra de título de la ventana hacia la derecha."
+
+#: C/getting-started.page:88(div/p) C/switching-tasks.page:50(div/p)
+msgid ""
+"Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the <gui>Window "
+"Switcher</gui>."
+msgstr ""
+"Pulse <keyseq><key>Alt</key><key>Tab</key></keyseq> para mostrar el "
+"<gui>Selector de ventanas</gui>."
+
+#: C/getting-started.page:92(div/p) C/switching-tasks.page:54(div/p)
+msgid "Release <key>Alt</key> to select the next highlighted window."
+msgstr "Suelte <key>Alt</key> para seleccionar la siguiente ventana resaltada."
+
+#: C/getting-started.page:96(div/p) C/switching-tasks.page:58(div/p)
+#: C/switching-tasks.page:113(item/p)
+msgid ""
+"To cycle through the list of open windows, do not release <key>Alt</key> but "
+"hold it down, and press <key>Tab</key>."
+msgstr ""
+"Para pasar a través de la lista de ventanas abiertas, no suelte <key>Alt</"
+"key>; manténgala pulsada y pulse <key>Tab</key>."
+
+#: C/getting-started.page:100(div/p) C/switching-tasks.page:62(div/p)
+#: C/switching-tasks.page:123(item/p)
+msgid ""
+"Press the <key>Super</key> key to show the <gui>Activities Overview</gui>."
+msgstr ""
+"Pulse la tecla <key>Super</key> para visualizar la <gui>Vista de "
+"actividades</gui>."
+
+#: C/getting-started.page:104(div/p) C/switching-tasks.page:66(div/p)
+msgid "Start typing the name of the application you want to switch to."
+msgstr ""
+"Comience a escribir el nombre de la aplicación a la que quiera cambiar."
+
+#: C/getting-started.page:108(div/p) C/switching-tasks.page:70(div/p)
+msgid ""
+"When the application appears as the first result, press <key> Enter</key> to "
+"switch to it."
+msgstr ""
+"Cuando la aplicación aparezca como primer resultado, pulse <key> Intro</key> "
+"para cambiar a ella."
+
+#: C/getting-started.page:120(caption/desc)
+#: C/responding-to-messages.page:19(page/title)
+msgid "Respond to messages"
+msgstr "Responder a mensajes"
+
+#: C/getting-started.page:127(links/title)
 msgid "Common Tasks"
 msgstr "Tareas frecuentes"
 
-#: C/getting-started.page:41(links/title)
+#: C/getting-started.page:131(links/title)
 msgid "Learn More"
 msgstr "Aprender más"
 
@@ -866,38 +986,6 @@ msgstr "Lanzar aplicaciones"
 msgid "Launch applications"
 msgstr "Lanzar aplicaciones"
 
-#: C/launch-apps.page:31(div/p) C/switching-tasks.page:29(div/p)
-msgid ""
-"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
-"of the screen."
-msgstr ""
-"Mueva el cursor del ratón hacia la esquina de <gui>Actividades</gui> en la "
-"parte superior izquierda de la pantalla."
-
-#: C/launch-apps.page:35(div/p)
-msgid "Click the <gui>Show Applications</gui> item."
-msgstr "Seleccione el elemento <gui>Mostrar aplicaciones</gui>."
-
-#: C/launch-apps.page:38(div/p)
-msgid "Click the application you want to run, for example, Help."
-msgstr "Pulse la aplicación que quiera ejecutar, por ejemplo, «Ayuda»."
-
-#: C/launch-apps.page:42(div/p)
-msgid ""
-"Use the keyboard to open the <gui>Activities Overview</gui> <span begin=\"3s"
-"\">by pressing the <key>Super</key> key. </span>"
-msgstr ""
-"Utilice el teclado para abrir la <gui>Vista de actividades</gui> <span begin="
-"\"3s\">pulsando la tecla <key>Super</key> </span>."
-
-#: C/launch-apps.page:47(div/p)
-msgid "Start typing the name of the application you want to launch."
-msgstr "Comience a escribir el nombre de la aplicación que quiera lanzar."
-
-#: C/launch-apps.page:51(div/p)
-msgid "Press <key>Enter</key> to launch the application."
-msgstr "Pulse <key>Intro</key> para lanzar la aplicación."
-
 #: C/launch-apps.page:58(section/title)
 msgid "Launch applications with the mouse"
 msgstr "Lanzar aplicaciones con el ratón"
@@ -950,13 +1038,17 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/move-windows.page:20(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-windows-and-workspaces.webm' "
+#| "md5='b56350cbcab8c569383ff1f6abd9372e'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='b56350cbcab8c569383ff1f6abd9372e'"
+"md5='2804904c3fd3928ba9ad794448ab4149'"
 msgstr ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='b56350cbcab8c569383ff1f6abd9372e'"
+"md5='2804904c3fd3928ba9ad794448ab4149'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -1006,19 +1098,6 @@ msgid ""
 msgstr ""
 "También puede pulsar la barra superior para arrastrar la ventana, alejarla y "
 "desmaximizarla."
-
-#: C/move-windows.page:43(div/p) C/switching-tasks.page:36(div/p)
-msgid ""
-"To maximize a window along the left side of the screen, grab the window's "
-"titlebar and drag it to the left."
-msgstr ""
-"Para maximizar una ventana a lo largo del lado izquierdo de la pantalla, "
-"arrastre la barra de título de la ventana hacia la izquierda."
-
-#: C/move-windows.page:47(div/p) C/move-windows.page:54(div/p)
-#: C/switching-tasks.page:40(div/p) C/switching-tasks.page:47(div/p)
-msgid "When half of the screen is highlighted, drop the window."
-msgstr "Cuando la mitad de la pantalla esté resaltada, suelte la ventana."
 
 #: C/move-windows.page:50(div/p)
 msgid ""
@@ -1433,10 +1512,6 @@ msgctxt "link:trail"
 msgid "Respond to messages"
 msgstr "Responder a mensajes"
 
-#: C/responding-to-messages.page:19(page/title)
-msgid "Respond to messages"
-msgstr "Responder a mensajes"
-
 #: C/responding-to-messages.page:26(section/title)
 msgid "Respond to a chat message with the mouse"
 msgstr "Responder a un mensaje de chat con el mouse"
@@ -1644,58 +1719,6 @@ msgstr "Cambiar entre tareas"
 #: C/switching-tasks.page:78(section/title)
 msgid "Switch tasks"
 msgstr "Cambiar entre tareas"
-
-#: C/switching-tasks.page:33(div/p) C/switching-tasks.page:84(item/p)
-msgid "Click a window to switch the task."
-msgstr "Pulse una ventana para cambiar de tarea."
-
-#: C/switching-tasks.page:43(div/p)
-msgid ""
-"To maximize a window along the right side, grab the window's titlebar and "
-"drag it to the right."
-msgstr ""
-"Para maximizar una ventana en el lado derecho de la pantalla, arrastre la "
-"barra de título de la ventana hacia la derecha."
-
-#: C/switching-tasks.page:50(div/p)
-msgid ""
-"Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the <gui>Window "
-"Switcher</gui>."
-msgstr ""
-"Pulse <keyseq><key>Alt</key><key>Tab</key></keyseq> para mostrar el "
-"<gui>Selector de ventanas</gui>."
-
-#: C/switching-tasks.page:54(div/p)
-msgid "Release <key>Alt</key> to select the next highlighted window."
-msgstr "Suelte <key>Alt</key> para seleccionar la siguiente ventana resaltada."
-
-#: C/switching-tasks.page:58(div/p) C/switching-tasks.page:113(item/p)
-msgid ""
-"To cycle through the list of open windows, do not release <key>Alt</key> but "
-"hold it down, and press <key>Tab</key>."
-msgstr ""
-"Para pasar a través de la lista de ventanas abiertas, no suelte <key>Alt</"
-"key>; manténgala pulsada y pulse <key>Tab</key>."
-
-#: C/switching-tasks.page:62(div/p) C/switching-tasks.page:123(item/p)
-msgid ""
-"Press the <key>Super</key> key to show the <gui>Activities Overview</gui>."
-msgstr ""
-"Pulse la tecla <key>Super</key> para visualizar la <gui>Vista de "
-"actividades</gui>."
-
-#: C/switching-tasks.page:66(div/p)
-msgid "Start typing the name of the application you want to switch to."
-msgstr ""
-"Comience a escribir el nombre de la aplicación a la que quiera cambiar."
-
-#: C/switching-tasks.page:70(div/p)
-msgid ""
-"When the application appears as the first result, press <key> Enter</key> to "
-"switch to it."
-msgstr ""
-"Cuando la aplicación aparezca como primer resultado, pulse <key> Intro</key> "
-"para cambiar a ella."
 
 #: C/switching-tasks.page:81(item/p)
 msgid ""
