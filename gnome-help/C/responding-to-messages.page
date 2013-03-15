@@ -20,14 +20,71 @@
 
   <media type="video" src="figures/gnome-responding-to-messages.webm" width="840" height="468">
     <media type="image" style="poster" src="thumb-responding-to-messages.svg"/>
+      <tt:tt xmlns:tt="http://www.w3.org/ns/ttml">
+       <tt:body>
+         <tt:div begin="1s" end="3s">
+           <tt:p>Responding to Messages</tt:p>
+         </tt:div>
+         <tt:div begin="4s" end="7s">
+           <tt:p>Move your mouse to the message tray at the bottom of the screen
+            and click the chat message.</tt:p>
+           </tt:div>
+         <tt:div begin="7s" end="9s">
+           <tt:p>Start typing your reply and when finished, press <key>Enter
+           </key> to send the reply.</tt:p>
+         </tt:div>
+         <tt:div begin="9s" end="11s">
+           <tt:p>Close the chat message.</tt:p>
+         </tt:div>
+         <tt:div begin="12s" end="14s">
+           <tt:p>Delayed Response</tt:p>
+         </tt:div>
+         <tt:div begin="16s" end="20s">
+           <tt:p>A chat message in the message tray disappears after a while if
+            you do not move your mouse to the message tray.</tt:p>
+         </tt:div>
+         <tt:div begin="20s" end="24s">
+           <tt:p>To get back to your unanswered message, move your mouse to the
+            message tray.</tt:p>
+         </tt:div>
+         <tt:div begin="25s" end="26s">
+           <tt:p>Click the person who sent you the message.</tt:p>
+         </tt:div>
+         <tt:div begin="26s" end="28s">
+           <tt:p>Start typing your reply and when finished, press <key>Enter
+           </key>.</tt:p>
+         </tt:div>
+         <tt:div begin="29s" end="30s">
+           <tt:p>Close the chat message.</tt:p>
+         </tt:div>
+         <tt:div begin="36s" end="38s">
+           <tt:p>To show the message tray, press <keyseq><key>Super</key><key>M
+           </key></keyseq></tt:p>
+         </tt:div>
+         <tt:div begin="39s" end="42s">
+           <tt:p>Use the arrow keys to select the person you want to reply to,
+            and press <key>Enter</key>.</tt:p>
+         </tt:div>
+         <tt:div begin="42s" end="45s">
+           <tt:p>Start typing your reply and when finished, press <key>Enter
+           </key>.</tt:p>
+         </tt:div>
+         <tt:div begin="45s" end="46s">
+           <tt:p>Press <key>Esc</key> to close the chat message.</tt:p>
+         </tt:div>
+         <tt:div begin="46s" end="48s">
+           <tt:p>To dismiss the message tray, press <key>Esc</key>.</tt:p>
+         </tt:div>
+       </tt:body>
+     </tt:tt>
   </media>
   
   <section id="respond-to-messages-mouse">
     <title>Respond to a chat message with the mouse</title>
     
     <steps>
-      <item><p>Move your mouse to the message tray that can found at the bottom
-       of the screen and click the chat message.</p></item>
+      <item><p>Move your mouse to the message tray at the bottom of the screen
+       and click the chat message.</p></item>
       <item><p>Start typing your reply and when finished, press <key>Enter</key>
        to send the reply.</p></item>
       <item><p>To close the chat message, click the close button at the top
