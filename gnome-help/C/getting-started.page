@@ -14,21 +14,111 @@
 <title>Getting Started</title>
 
   <ui:overlay width="235" height="145">
-  <media type="video" src="figures/gnome-launching-applications.webm" width="700" height="394">
-    <!-- FIXME: needs some sort of label -->
-    <ui:thumb src="thumb-launching-apps.svg"/>
+  <media type="video" src="figures/gnome-launching-applications.webm"
+   width="700" height="394">
+    <ui:thumb src="thumb-launching-apps.svg">
+    <ui:caption><desc>Launch Applications</desc></ui:caption>
+    </ui:thumb>
+      <tt:tt xmlns:tt="http://www.w3.org/ns/ttml">
+       <tt:body>
+         <tt:div begin="1s" end="5s">
+           <tt:p>Launching Applications</tt:p>
+         </tt:div>
+         <tt:div begin="5s" end="7.5s">
+           <tt:p>Move your mouse pointer to the <gui>Activities</gui> corner at
+            the top left of the screen.</tt:p>
+           </tt:div>
+         <tt:div begin="7.5s" end="9.5s">
+           <tt:p>Click the <gui>Show Applications</gui> item.</tt:p>
+         </tt:div>
+         <tt:div begin="9.5s" end="11s">
+           <tt:p>Click the application you want to run, for example,
+            Help.</tt:p>
+         </tt:div>
+         <tt:div begin="12s" end="21s">
+           <tt:p>Use the keyboard to open the <gui>Activities Overview</gui>
+                 <tt:span begin="3s">by pressing the <key>Super</key> key.
+                 </tt:span></tt:p>
+         </tt:div>
+         <tt:div begin="22s" end="29s">
+           <tt:p>Start typing the name of the application you want to launch.
+           </tt:p>
+         </tt:div>
+         <tt:div begin="30s" end="33s">
+           <tt:p>Press <key>Enter</key> to launch the application.</tt:p>
+         </tt:div>
+       </tt:body>
+     </tt:tt>
   </media>
   </ui:overlay>
 
   <ui:overlay width="235" height="145">
-  <media type="video" src="figures/gnome-task-switching.webm" width="700" height="394">
-    <ui:thumb src="thumb-task-switching.svg"/>
+  <media type="video" src="figures/gnome-task-switching.webm" width="700"
+   height="394">
+    <ui:thumb src="thumb-task-switching.svg">
+        <ui:caption><desc>Switch Tasks</desc></ui:caption>
+    </ui:thumb>
+      <tt:tt xmlns:tt="http://www.w3.org/ns/ttml">
+       <tt:body>
+         <tt:div begin="1s" end="5s">
+           <tt:p>Switching Tasks</tt:p>
+         </tt:div>
+         <tt:div begin="5s" end="8s">
+           <tt:p>Move your mouse pointer to the <gui>Activities</gui> corner at
+            the top left of the screen.</tt:p>
+           </tt:div>
+         <tt:div begin="9s" end="12s">
+           <tt:p>Click a window to switch the task.</tt:p>
+         </tt:div>
+         <tt:div begin="12s" end="14s">
+           <tt:p>To maximize a window along the left side of the screen, grab
+            the window's titlebar and drag it to the left.</tt:p>
+         </tt:div>
+         <tt:div begin="14s" end="15s">
+           <tt:p>When half of the screen is highlighted, drop the window.</tt:p>
+         </tt:div>
+         <tt:div begin="15s" end="17s">
+           <tt:p>To maximize a window along the right side, grab the window's
+            titlebar and drag it to the right.</tt:p>
+         </tt:div>
+         <tt:div begin="17s" end="20s">
+           <tt:p>When half of the screen is highlighted, drop the window.</tt:p>
+         </tt:div>
+         <tt:div begin="23s" end="27s">
+           <tt:p>Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the
+          <gui>Window Switcher</gui>.</tt:p>
+         </tt:div>
+         <tt:div begin="27s" end="29s">
+           <tt:p>Release <key>Alt</key> to select the next highlighted window.
+           </tt:p>
+         </tt:div>
+         <tt:div begin="29s" end="32s">
+           <tt:p>To cycle through the list of open windows, do not release
+            <key>Alt</key> but hold it down, and press <key>Tab</key>.</tt:p>
+         </tt:div>
+         <tt:div begin="35s" end="37s">
+           <tt:p>Press the <key>Super</key> key to show the <gui>Activities
+            Overview</gui>.</tt:p>
+         </tt:div>
+         <tt:div begin="37s" end="40s">
+           <tt:p>Start typing the name of the application you want to switch to.
+           </tt:p>
+         </tt:div>
+         <tt:div begin="40s" end="43s">
+           <tt:p>When the application appears as the first result, press <key>
+           Enter</key> to switch to it.</tt:p>
+         </tt:div>
+       </tt:body>
+     </tt:tt>
   </media>
   </ui:overlay>
 
   <ui:overlay width="235" height="145">
-  <media type="video" src="figures/gnome-responding-to-messages.webm" width="700" height="394">
-    <ui:thumb src="thumb-responding-to-messages.svg"/>
+  <media type="video" src="figures/gnome-responding-to-messages.webm"
+   width="700" height="394">
+    <ui:thumb src="thumb-responding-to-messages.svg">
+            <ui:caption><desc>Respond to messages</desc></ui:caption>
+    </ui:thumb>
   </media>
   </ui:overlay>
 
