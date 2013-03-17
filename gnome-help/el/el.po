@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-03-08 18:56+0000\n"
-"PO-Revision-Date: 2013-03-09 20:51+0300\n"
+"POT-Creation-Date: 2013-03-15 17:26+0000\n"
+"PO-Revision-Date: 2013-03-17 13:18+0300\n"
 "Last-Translator: Dimitris Spingos (Δημήτρης Σπίγγος) <dmtrs32@gmail.com>\n"
 "Language-Team: team@gnome.gr\n"
 "Language: el\n"
@@ -36,7 +36,8 @@ msgstr "Ξεκινώντας"
 msgid "Welcome"
 msgstr "Καλώς ήλθατε"
 
-#: C/animation.xml:4(titles/t) C/launch-apps.page:28(div/p)
+#: C/animation.xml:4(titles/t) C/getting-started.page:25(div/p)
+#: C/launch-apps.page:28(div/p)
 msgid "Launching Applications"
 msgstr "Εκκίνηση εφαρμογών"
 
@@ -44,15 +45,18 @@ msgstr "Εκκίνηση εφαρμογών"
 msgid "Changing Wallpaper"
 msgstr "Αλλαγή ταπετσαρίας"
 
-#: C/animation.xml:7(titles/t)
+#: C/animation.xml:7(titles/t) C/getting-started.page:125(div/p)
+#: C/responding-to-messages.page:26(div/p)
 msgid "Responding to Messages"
 msgstr "Απάντηση σε μηνύματα"
 
-#: C/animation.xml:8(titles/t) C/switching-tasks.page:26(div/p)
+#: C/animation.xml:8(titles/t) C/getting-started.page:64(div/p)
+#: C/switching-tasks.page:26(div/p)
 msgid "Switching Tasks"
 msgstr "Αλλαγή εργασιών"
 
-#: C/animation.xml:9(titles/t)
+#: C/animation.xml:9(titles/t) C/getting-started.page:139(div/p)
+#: C/responding-to-messages.page:40(div/p)
 msgid "Delayed Response"
 msgstr "Καθυστέρηση απάντησης"
 
@@ -323,10 +327,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/change-time.page:21(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/gnome-timezone.webm' "
-#| "md5='57a4ee4ef7cc7cb37ba03e1f3686666a'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-timezone.webm' "
@@ -418,10 +418,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/change-wallpaper.page:21(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/gnome-change-wallpaper.webm' "
-#| "md5='9217e7043891d8077dae3204f2c26182'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-change-wallpaper.webm' "
@@ -507,11 +503,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:17(media) C/launch-apps.page:23(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/gnome-launching-applications.webm' "
-#| "md5='16609de3c9d4b91ba3e7a5785863a05a'"
+#: C/getting-started.page:18(media) C/launch-apps.page:23(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-launching-applications.webm' "
@@ -529,11 +521,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:24(media) C/switching-tasks.page:21(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/gnome-task-switching.webm' "
-#| "md5='edf94b461a60c8683e2d64f778949739'"
+#: C/getting-started.page:57(media) C/switching-tasks.page:21(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-task-switching.webm' "
@@ -551,11 +539,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:30(media) C/responding-to-messages.page:21(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/gnome-responding-to-messages.webm' "
-#| "md5='8f82d09463e5d8381b790cf94f4bfd00'"
+#: C/getting-started.page:118(media) C/responding-to-messages.page:21(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-responding-to-messages.webm' "
@@ -578,11 +562,236 @@ msgctxt "text"
 msgid "Getting Started"
 msgstr "Ξεκινώντας"
 
-#: C/getting-started.page:37(links/title)
+#: C/getting-started.page:20(caption/desc)
+#| msgid "Launch applications"
+msgid "Launch Applications"
+msgstr "Εκκίνηση εφαρμογών"
+
+#: C/getting-started.page:28(div/p) C/getting-started.page:67(div/p)
+#: C/launch-apps.page:31(div/p) C/switching-tasks.page:29(div/p)
+msgid ""
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen."
+msgstr ""
+"Μετακινήστε τον δείκτη του ποντικιού στη γωνία <gui>Ενέργειες</gui> στα πάνω "
+"αριστερά της οθόνης."
+
+#: C/getting-started.page:32(div/p) C/launch-apps.page:35(div/p)
+msgid "Click the <gui>Show Applications</gui> item."
+msgstr "Πατήστε το στοιχείο <gui>Εμφάνιση εφαρμογών</gui>."
+
+#: C/getting-started.page:35(div/p) C/launch-apps.page:38(div/p)
+msgid "Click the application you want to run, for example, Help."
+msgstr ""
+"Πατήστε την εφαρμογή που θέλετε να εκτελέσετε, για παράδειγμα, βοήθεια."
+
+#: C/getting-started.page:39(div/p) C/launch-apps.page:42(div/p)
+msgid ""
+"Use the keyboard to open the <gui>Activities Overview</gui> <span begin=\"3s"
+"\">by pressing the <key>Super</key> key. </span>"
+msgstr ""
+"Χρησιμοποιήστε το πληκτρολόγιο για να ανοίξετε το <gui>Επισκόπηση ενεργειών</"
+"gui><span begin=\"3s\"> πατώντας το πλήκτρο <key>Super</key>. </span>"
+
+#: C/getting-started.page:44(div/p) C/launch-apps.page:47(div/p)
+msgid "Start typing the name of the application you want to launch."
+msgstr ""
+"Αρχίστε να πληκτρολογείτε το όνομα της εφαρμογής που θέλετε να ξεκινήσετε."
+
+#: C/getting-started.page:48(div/p) C/launch-apps.page:51(div/p)
+msgid "Press <key>Enter</key> to launch the application."
+msgstr "Πατήστε <key>Εισαγωγή-Enter</key> για να ξεκινήσετε την εφαρμογή."
+
+#: C/getting-started.page:59(caption/desc)
+#| msgid "Switch tasks"
+msgid "Switch Tasks"
+msgstr "Εναλλαγή εργασιών"
+
+#: C/getting-started.page:71(div/p) C/switching-tasks.page:33(div/p)
+#: C/switching-tasks.page:84(item/p)
+msgid "Click a window to switch the task."
+msgstr "Πατήστε σε ένα παράθυρο για να εναλλάξετε την εργασία."
+
+#: C/getting-started.page:74(div/p) C/move-windows.page:43(div/p)
+#: C/switching-tasks.page:36(div/p)
+msgid ""
+"To maximize a window along the left side of the screen, grab the window's "
+"titlebar and drag it to the left."
+msgstr ""
+"Για μεγιστοποίηση ενός παραθύρου κατά μήκος της αριστερής πλευράς της "
+"οθόνης, πάρτε τη γραμμή τίτλου του παραθύρου και μεταφέρτε την στα αριστερά."
+
+#: C/getting-started.page:78(div/p) C/getting-started.page:85(div/p)
+#: C/move-windows.page:47(div/p) C/move-windows.page:54(div/p)
+#: C/switching-tasks.page:40(div/p) C/switching-tasks.page:47(div/p)
+msgid "When half of the screen is highlighted, drop the window."
+msgstr "Όταν η μισή οθόνη επισημανθεί, αποθέστε το παράθυρο."
+
+#: C/getting-started.page:81(div/p) C/switching-tasks.page:43(div/p)
+msgid ""
+"To maximize a window along the right side, grab the window's titlebar and "
+"drag it to the right."
+msgstr ""
+"Για μεγιστοποίηση ενός παραθύρου κατά μήκος της δεξιάς πλευράς, πάρτε τη "
+"γραμμή τίτλου του παραθύρου και μεταφέρτε την στα δεξιά."
+
+#: C/getting-started.page:88(div/p) C/switching-tasks.page:50(div/p)
+msgid ""
+"Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the <gui>Window "
+"Switcher</gui>."
+msgstr ""
+"Πατήστε <keyseq><key>Alt</key><key>στηλοθέτης</key></keyseq> για να "
+"εμφανίσετε τον <gui>εναλλάκτη παραθύρου</gui>."
+
+#: C/getting-started.page:92(div/p) C/switching-tasks.page:54(div/p)
+msgid "Release <key>Alt</key> to select the next highlighted window."
+msgstr ""
+"Απελευθερώστε το <key>Alt</key> για να επιλέξτε το επόμενο επισημασμένο "
+"παράθυρο."
+
+#: C/getting-started.page:96(div/p) C/switching-tasks.page:58(div/p)
+#: C/switching-tasks.page:113(item/p)
+msgid ""
+"To cycle through the list of open windows, do not release <key>Alt</key> but "
+"hold it down, and press <key>Tab</key>."
+msgstr ""
+"Για να περιηγηθείτε στη λίστα των ανοικτών παραθύρων, μην αφήσετε το "
+"<key>Alt</key>, αλλά κρατήστε το πατημένο και πατήστε <key>στηλοθέτης</key>."
+
+#: C/getting-started.page:100(div/p) C/switching-tasks.page:62(div/p)
+#: C/switching-tasks.page:123(item/p)
+msgid ""
+"Press the <key>Super</key> key to show the <gui>Activities Overview</gui>."
+msgstr ""
+"Πατήστε το πλήκτρο <key>λογότυπου</key> για να εμφανίσετε την "
+"<gui>Επισκόπηση ενεργειών</gui>."
+
+#: C/getting-started.page:104(div/p) C/switching-tasks.page:66(div/p)
+msgid "Start typing the name of the application you want to switch to."
+msgstr ""
+"Αρχίστε να πληκτρολογείτε το όνομα της εφαρμογής στην οποία θέλετε να "
+"μεταβείτε."
+
+#: C/getting-started.page:108(div/p) C/switching-tasks.page:70(div/p)
+msgid ""
+"When the application appears as the first result, press <key> Enter</key> to "
+"switch to it."
+msgstr ""
+"Όταν η εφαρμογή εμφανιστεί ως το πρώτο αποτέλεσμα, πατήστε <key>Εισαγωγή</"
+"key> για να αλλάξετε σε αυτό."
+
+#: C/getting-started.page:120(caption/desc)
+#: C/responding-to-messages.page:19(page/title)
+msgid "Respond to messages"
+msgstr "Απάντηση σε μηνύματα"
+
+#: C/getting-started.page:128(div/p) C/responding-to-messages.page:29(div/p)
+#: C/responding-to-messages.page:86(item/p)
+#| msgid ""
+#| "Move your mouse to the message tray that can found at the bottom of the "
+#| "screen and click the chat message."
+msgid ""
+"Move your mouse to the message tray at the bottom of the screen and click "
+"the chat message."
+msgstr ""
+"Μετακινήστε το ποντίκι σας στην περιοχή ειδοποιήσεων στο τέλος της οθόνης "
+"και πατήστε στο μήνυμα συνομιλίας."
+
+#: C/getting-started.page:132(div/p) C/responding-to-messages.page:33(div/p)
+#| msgid ""
+#| "Start typing your reply and when finished, press <key>Enter</key> to send "
+#| "the reply."
+msgid ""
+"Start typing your reply and when finished, press <key>Enter </key> to send "
+"the reply."
+msgstr ""
+"Αρχίστε να πληκτρολογείτε την απάντησή σας και όταν τελειώσετε, πατήστε το "
+"πλήκτρο <key>Εισαγωγή</key> για να στείλετε την απάντηση."
+
+#: C/getting-started.page:136(div/p) C/getting-started.page:157(div/p)
+#: C/responding-to-messages.page:37(div/p)
+#: C/responding-to-messages.page:58(div/p)
+#| msgid "Press <key>Esc</key> to close the chat message."
+msgid "Close the chat message."
+msgstr "Κλείστε το μήνυμα συνομιλίας."
+
+#: C/getting-started.page:142(div/p) C/responding-to-messages.page:43(div/p)
+#| msgid ""
+#| "When a chat message appears in the message tray and you do not move your "
+#| "mouse to the message tray, the message disappears after a while."
+msgid ""
+"A chat message in the message tray disappears after a while if you do not "
+"move your mouse to the message tray."
+msgstr ""
+"Ένα μήνυμα συνομιλίας στην περιοχή ειδοποιήσεων εξαφανίζεται μετά από λίγο, "
+"αν δεν μετακινήσετε το ποντίκι σας στην περιοχή ειδοποιήσεων."
+
+#: C/getting-started.page:146(div/p) C/responding-to-messages.page:47(div/p)
+#| msgid ""
+#| "To get back to your unanswered message, move your mouse to the message "
+#| "tray at the very bottom of the screen."
+msgid ""
+"To get back to your unanswered message, move your mouse to the message tray."
+msgstr ""
+"Για να επιστρέψετε στο αναπάντητο μήνυμα, μετακινήστε το ποντίκι σας στην "
+"περιοχή ειδοποιήσεων."
+
+#: C/getting-started.page:150(div/p) C/responding-to-messages.page:51(div/p)
+msgid "Click the person who sent you the message."
+msgstr "Πατήστε στο άτομο που σας έστειλε το μήνυμα."
+
+#: C/getting-started.page:153(div/p) C/getting-started.page:168(div/p)
+#: C/responding-to-messages.page:54(div/p)
+#: C/responding-to-messages.page:69(div/p)
+#| msgid ""
+#| "Start typing your reply and when finished, press <key>Enter</key> to send "
+#| "the reply."
+msgid "Start typing your reply and when finished, press <key>Enter </key>."
+msgstr ""
+"Αρχίστε να πληκτρολογείτε την απάντησή σας και όταν τελειώσετε, πατήστε το "
+"πλήκτρο <key>Εισαγωγή</key>."
+
+#: C/getting-started.page:160(div/p) C/responding-to-messages.page:61(div/p)
+#| msgid ""
+#| "To dismiss the message tray, press <key>Esc</key> or <keyseq><key>Super</"
+#| "key><key>M</key></keyseq>."
+msgid ""
+"To show the message tray, press <keyseq><key>Super</key><key>M </key></"
+"keyseq>"
+msgstr ""
+"Για να διώξετε την περιοχή ειδοποιήσεων, πατήστε <keyseq><key>πλήκτρο "
+"λογότυπου</key><key>M</key></keyseq>."
+
+#: C/getting-started.page:164(div/p) C/responding-to-messages.page:65(div/p)
+#| msgid ""
+#| "Use the arrow keys to select a small image representing the person you "
+#| "want to reply to, and press <key>Enter</key>."
+msgid ""
+"Use the arrow keys to select the person you want to reply to, and press "
+"<key>Enter</key>."
+msgstr ""
+"Χρησιμοποιήστε τα πλήκτρα βελών για να επιλέξετε το άτομο στο οποίο θέλετε "
+"να απαντήσετε και πατήστε το πλήκτρο <key>Εισαγωγή</key>."
+
+#: C/getting-started.page:172(div/p) C/responding-to-messages.page:73(div/p)
+#: C/responding-to-messages.page:125(item/p)
+msgid "Press <key>Esc</key> to close the chat message."
+msgstr "Πατήστε <key>Esc</key> για να κλείσετε το μήνυμα συνομιλίας."
+
+#: C/getting-started.page:175(div/p) C/responding-to-messages.page:76(div/p)
+#| msgid ""
+#| "To dismiss the message tray, press <key>Esc</key> or <keyseq><key>Super</"
+#| "key><key>M</key></keyseq>."
+msgid "To dismiss the message tray, press <key>Esc</key>."
+msgstr ""
+"Για να διώξετε την περιοχή ειδοποιήσεων, πατήστε το πλήκτρο "
+"<key>Διαφυγή</key>."
+
+#: C/getting-started.page:184(links/title)
 msgid "Common Tasks"
 msgstr "Συνηθισμένες εργασίες"
 
-#: C/getting-started.page:41(links/title)
+#: C/getting-started.page:188(links/title)
 msgid "Learn More"
 msgstr "Μάθετε Περισσότερα"
 
@@ -836,19 +1045,6 @@ msgstr "Ιδιωτικό"
 msgid "Weak"
 msgstr "Ασθενές"
 
-#: C/install-software.page:9(info/title)
-msgctxt "link:trail"
-msgid "Get additional applications"
-msgstr "Λήψη πρόσθετων εφαρμογών"
-
-#: C/install-software.page:12(page/title)
-msgid "Get additional applications"
-msgstr "Λήψη πρόσθετων εφαρμογών"
-
-#: C/install-software.page:14(page/p)
-msgid "Stay tuned..."
-msgstr "Μείνετε συντονισμένοι..."
-
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
@@ -870,40 +1066,6 @@ msgstr "Εκκίνηση εφαρμογών"
 #: C/launch-apps.page:21(page/title)
 msgid "Launch applications"
 msgstr "Εκκίνηση εφαρμογών"
-
-#: C/launch-apps.page:31(div/p) C/switching-tasks.page:29(div/p)
-msgid ""
-"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
-"of the screen."
-msgstr ""
-"Μετακινήστε τον δείκτη του ποντικιού στη γωνία <gui>Ενέργειες</gui> στα πάνω "
-"αριστερά της οθόνης."
-
-#: C/launch-apps.page:35(div/p)
-msgid "Click the <gui>Show Applications</gui> item."
-msgstr "Πατήστε το στοιχείο <gui>Εμφάνιση εφαρμογών</gui>."
-
-#: C/launch-apps.page:38(div/p)
-msgid "Click the application you want to run, for example, Help."
-msgstr ""
-"Πατήστε την εφαρμογή που θέλετε να εκτελέσετε, για παράδειγμα, βοήθεια."
-
-#: C/launch-apps.page:42(div/p)
-msgid ""
-"Use the keyboard to open the <gui>Activities Overview</gui> <span begin=\"3s"
-"\">by pressing the <key>Super</key> key. </span>"
-msgstr ""
-"Χρησιμοποιήστε το πληκτρολόγιο για να ανοίξετε το <gui>Επισκόπηση ενεργειών</"
-"gui><span begin=\"3s\"> πατώντας το πλήκτρο <key>Super</key>. </span>"
-
-#: C/launch-apps.page:47(div/p)
-msgid "Start typing the name of the application you want to launch."
-msgstr ""
-"Αρχίστε να πληκτρολογείτε το όνομα της εφαρμογής που θέλετε να ξεκινήσετε."
-
-#: C/launch-apps.page:51(div/p)
-msgid "Press <key>Enter</key> to launch the application."
-msgstr "Πατήστε <key>Εισαγωγή-Enter</key> για να ξεκινήσετε την εφαρμογή."
 
 #: C/launch-apps.page:58(section/title)
 msgid "Launch applications with the mouse"
@@ -961,14 +1123,14 @@ msgstr ""
 #| msgctxt "_"
 #| msgid ""
 #| "external ref='figures/gnome-windows-and-workspaces.webm' "
-#| "md5='77cd38321095b0ecb2d41ab18ed9794f'"
+#| "md5='b56350cbcab8c569383ff1f6abd9372e'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='b56350cbcab8c569383ff1f6abd9372e'"
+"md5='2804904c3fd3928ba9ad794448ab4149'"
 msgstr ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='b56350cbcab8c569383ff1f6abd9372e'"
+"md5='2804904c3fd3928ba9ad794448ab4149'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -1018,19 +1180,6 @@ msgid ""
 msgstr ""
 "Μπορείτε επίσης να πατήσετε την πάνω γραμμή για να μεταφέρετε το παράθυρο "
 "μακριά και να το απομεγιστοποιήσετε."
-
-#: C/move-windows.page:43(div/p) C/switching-tasks.page:36(div/p)
-msgid ""
-"To maximize a window along the left side of the screen, grab the window's "
-"titlebar and drag it to the left."
-msgstr ""
-"Για μεγιστοποίηση ενός παραθύρου κατά μήκος της αριστερής πλευράς της "
-"οθόνης, πάρτε τη γραμμή τίτλου του παραθύρου και μεταφέρτε την στα αριστερά."
-
-#: C/move-windows.page:47(div/p) C/move-windows.page:54(div/p)
-#: C/switching-tasks.page:40(div/p) C/switching-tasks.page:47(div/p)
-msgid "When half of the screen is highlighted, drop the window."
-msgstr "Όταν η μισή οθόνη επισημανθεί, αποθέστε το παράθυρο."
 
 #: C/move-windows.page:50(div/p)
 msgid ""
@@ -1452,24 +1601,12 @@ msgctxt "link:trail"
 msgid "Respond to messages"
 msgstr "Απάντηση σε μηνύματα"
 
-#: C/responding-to-messages.page:19(page/title)
-msgid "Respond to messages"
-msgstr "Απάντηση σε μηνύματα"
-
-#: C/responding-to-messages.page:26(section/title)
+#: C/responding-to-messages.page:83(section/title)
 msgid "Respond to a chat message with the mouse"
 msgstr "Απάντηση σε μήνυμα συνομιλίας με το ποντίκι"
 
-#: C/responding-to-messages.page:29(item/p)
-msgid ""
-"Move your mouse to the message tray that can found at the bottom of the "
-"screen and click the chat message."
-msgstr ""
-"Μετακινήστε το ποντίκι σας στο δίσκο μηνύματος που μπορεί να βρεθεί στον "
-"πυθμένα της οθόνης και πατήστε στο μήνυμα συνομιλίας."
-
-#: C/responding-to-messages.page:31(item/p)
-#: C/responding-to-messages.page:66(item/p)
+#: C/responding-to-messages.page:88(item/p)
+#: C/responding-to-messages.page:123(item/p)
 msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send "
 "the reply."
@@ -1477,8 +1614,8 @@ msgstr ""
 "Αρχίστε να πληκτρολογείτε την απάντησή σας και όταν τελειώσετε, πατήστε το "
 "πλήκτρο <key>Εισαγωγή</key> για να στείλετε την απάντηση."
 
-#: C/responding-to-messages.page:33(item/p)
-#: C/responding-to-messages.page:52(item/p)
+#: C/responding-to-messages.page:90(item/p)
+#: C/responding-to-messages.page:109(item/p)
 msgid ""
 "To close the chat message, click the close button at the top right corner of "
 "the chat message."
@@ -1486,12 +1623,12 @@ msgstr ""
 "Για να κλείσετε το μήνυμα συνομιλίας, πατήστε το κουμπί κλεισίματος στην "
 "πάνω δεξιά γωνία του μηνύματος συνομιλίας."
 
-#: C/responding-to-messages.page:40(section/title)
+#: C/responding-to-messages.page:97(section/title)
 msgid "Delayed response to a chat message using the mouse"
 msgstr ""
 "Καθυστερημένη απάντηση σε ένα μήνυμα συνομιλίας χρησιμοποιώντας το ποντίκι"
 
-#: C/responding-to-messages.page:43(item/p)
+#: C/responding-to-messages.page:100(item/p)
 msgid ""
 "When a chat message appears in the message tray and you do not move your "
 "mouse to the message tray, the message disappears after a while."
@@ -1500,7 +1637,7 @@ msgstr ""
 "μετακινήσετε το ποντίκι σας στο δίσκο μηνυμάτων, το μήνυμα εξαφανίζεται μετά "
 "από λίγο."
 
-#: C/responding-to-messages.page:46(item/p)
+#: C/responding-to-messages.page:103(item/p)
 msgid ""
 "To get back to your unanswered message, move your mouse to the message tray "
 "at the very bottom of the screen."
@@ -1508,7 +1645,7 @@ msgstr ""
 "Για να επιστρέψετε στο αναπάντητο μήνυμα, μετακινήστε το ποντίκι σας στον "
 "δίσκο μηνυμάτων στον πυθμένα της οθόνης."
 
-#: C/responding-to-messages.page:48(item/p)
+#: C/responding-to-messages.page:105(item/p)
 msgid ""
 "When the message tray appears, click a small image that represents the "
 "person who sent you the message."
@@ -1516,7 +1653,7 @@ msgstr ""
 "Όταν ο δίσκος μηνυμάτων εμφανιστεί, πατήστε μια μικρή εικόνα που αναπαριστά "
 "το άτομο που σας έστειλε το μήνυμα."
 
-#: C/responding-to-messages.page:50(item/p)
+#: C/responding-to-messages.page:107(item/p)
 msgid ""
 "When the chat message is shown, start typing your reply and when finished, "
 "press <key>Enter</key> to send the reply."
@@ -1525,13 +1662,13 @@ msgstr ""
 "σας και όταν τελειώσετε, πατήστε το πλήκτρο <key>Εισαγωγή</key> για να "
 "στείλετε την απάντηση."
 
-#: C/responding-to-messages.page:59(section/title)
+#: C/responding-to-messages.page:116(section/title)
 msgid "Delayed response to a chat message using the keyboard"
 msgstr ""
 "Καθυστερημένη απάντηση σε ένα μήνυμα συνομιλίας χρησιμοποιώντας το "
 "πληκτρολόγιο"
 
-#: C/responding-to-messages.page:61(item/p)
+#: C/responding-to-messages.page:118(item/p)
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq><key> Super</"
 "key><key>M</key></keyseq> to display the message tray that contains the "
@@ -1541,7 +1678,7 @@ msgstr ""
 "<keyseq><key>πλήκτρο λογότυπου</key><key>Μ</key></keyseq> για να εμφανίσετε "
 "τον δίσκο μηνυμάτων που περιέχει τα μηνύματα."
 
-#: C/responding-to-messages.page:64(item/p)
+#: C/responding-to-messages.page:121(item/p)
 msgid ""
 "Use the arrow keys to select a small image representing the person you want "
 "to reply to, and press <key>Enter</key>."
@@ -1550,11 +1687,7 @@ msgstr ""
 "αντιπροσωπεύει το άτομο στο οποίο θέλετε να απαντήσετε και πατήστε το "
 "πλήκτρο <key>Εισαγωγή</key>."
 
-#: C/responding-to-messages.page:68(item/p)
-msgid "Press <key>Esc</key> to close the chat message."
-msgstr "Πατήστε <key>Esc</key> για να κλείσετε το μήνυμα συνομιλίας."
-
-#: C/responding-to-messages.page:69(item/p)
+#: C/responding-to-messages.page:126(item/p)
 msgid ""
 "To dismiss the message tray, press <key>Esc</key> or <keyseq><key>Super</"
 "key><key>M</key></keyseq>."
@@ -1669,61 +1802,6 @@ msgstr "Εναλλαγή εργασιών"
 #: C/switching-tasks.page:78(section/title)
 msgid "Switch tasks"
 msgstr "Εναλλαγή εργασιών"
-
-#: C/switching-tasks.page:33(div/p) C/switching-tasks.page:84(item/p)
-msgid "Click a window to switch the task."
-msgstr "Πατήστε σε ένα παράθυρο για να εναλλάξετε την εργασία."
-
-#: C/switching-tasks.page:43(div/p)
-msgid ""
-"To maximize a window along the right side, grab the window's titlebar and "
-"drag it to the right."
-msgstr ""
-"Για μεγιστοποίηση ενός παραθύρου κατά μήκος της δεξιάς πλευράς, πάρτε τη "
-"γραμμή τίτλου του παραθύρου και μεταφέρτε την στα δεξιά."
-
-#: C/switching-tasks.page:50(div/p)
-msgid ""
-"Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the <gui>Window "
-"Switcher</gui>."
-msgstr ""
-"Πατήστε <keyseq><key>Alt</key><key>στηλοθέτης</key></keyseq> για να "
-"εμφανίσετε τον <gui>εναλλάκτη παραθύρου</gui>."
-
-#: C/switching-tasks.page:54(div/p)
-msgid "Release <key>Alt</key> to select the next highlighted window."
-msgstr ""
-"Απελευθερώστε το <key>Alt</key> για να επιλέξτε το επόμενο επισημασμένο "
-"παράθυρο."
-
-#: C/switching-tasks.page:58(div/p) C/switching-tasks.page:113(item/p)
-msgid ""
-"To cycle through the list of open windows, do not release <key>Alt</key> but "
-"hold it down, and press <key>Tab</key>."
-msgstr ""
-"Για να περιηγηθείτε στη λίστα των ανοικτών παραθύρων, μην αφήσετε το "
-"<key>Alt</key>, αλλά κρατήστε το πατημένο και πατήστε <key>στηλοθέτης</key>."
-
-#: C/switching-tasks.page:62(div/p) C/switching-tasks.page:123(item/p)
-msgid ""
-"Press the <key>Super</key> key to show the <gui>Activities Overview</gui>."
-msgstr ""
-"Πατήστε το πλήκτρο <key>λογότυπου</key> για να εμφανίσετε την "
-"<gui>Επισκόπηση ενεργειών</gui>."
-
-#: C/switching-tasks.page:66(div/p)
-msgid "Start typing the name of the application you want to switch to."
-msgstr ""
-"Αρχίστε να πληκτρολογείτε το όνομα της εφαρμογής στην οποία θέλετε να "
-"μεταβείτε."
-
-#: C/switching-tasks.page:70(div/p)
-msgid ""
-"When the application appears as the first result, press <key> Enter</key> to "
-"switch to it."
-msgstr ""
-"Όταν η εφαρμογή εμφανιστεί ως το πρώτο αποτέλεσμα, πατήστε <key>Εισαγωγή</"
-"key> για να αλλάξετε σε αυτό."
 
 #: C/switching-tasks.page:81(item/p)
 msgid ""
@@ -2116,6 +2194,16 @@ msgstr "http://gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Πλανήτης GNOME"
+
+#~ msgctxt "link:trail"
+#~ msgid "Get additional applications"
+#~ msgstr "Λήψη πρόσθετων εφαρμογών"
+
+#~ msgid "Get additional applications"
+#~ msgstr "Λήψη πρόσθετων εφαρμογών"
+
+#~ msgid "Stay tuned..."
+#~ msgstr "Μείνετε συντονισμένοι..."
 
 #~ msgid "Getting Started with GNOME"
 #~ msgstr "Ξεκινώντας με το GNOME"
