@@ -1,15 +1,15 @@
 # German translation for gnome-getting-started-docs.
 # Copyright (C) 2013 gnome-getting-started-docs's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-getting-started-docs package.
-# Benjamin <b@stbe.at>, 2013.
+# Benjamin Steinwender <b@stbe.at>, 2013.
 # Mario Blättermann <mario.blaettermann@gmail.com>, 2013.
 # Christian Kirbach <christian.kirbach@gmail.com>, 2013.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-03-08 19:30+0000\n"
-"PO-Revision-Date: 2013-03-09 21:31+0100\n"
+"POT-Creation-Date: 2013-03-15 17:26+0000\n"
+"PO-Revision-Date: 2013-03-18 20:12+0100\n"
 "Last-Translator: Mario Blättermann <mario.blaettermann@gmail.com>\n"
 "Language-Team: Deutsch <gnome-de@gnome.org>\n"
 "Language: de\n"
@@ -38,7 +38,8 @@ msgstr "Erste Schritte"
 msgid "Welcome"
 msgstr "Willkommen"
 
-#: C/animation.xml:4(titles/t) C/launch-apps.page:28(div/p)
+#: C/animation.xml:4(titles/t) C/getting-started.page:25(div/p)
+#: C/launch-apps.page:28(div/p)
 msgid "Launching Applications"
 msgstr "Anwendungen starten"
 
@@ -46,15 +47,18 @@ msgstr "Anwendungen starten"
 msgid "Changing Wallpaper"
 msgstr "Bildschirmhintergrund ändern"
 
-#: C/animation.xml:7(titles/t)
+#: C/animation.xml:7(titles/t) C/getting-started.page:125(div/p)
+#: C/responding-to-messages.page:26(div/p)
 msgid "Responding to Messages"
 msgstr "Auf Nachrichten antworten"
 
-#: C/animation.xml:8(titles/t) C/switching-tasks.page:26(div/p)
+#: C/animation.xml:8(titles/t) C/getting-started.page:64(div/p)
+#: C/switching-tasks.page:26(div/p)
 msgid "Switching Tasks"
 msgstr "Zwischen Anwendungen wechseln"
 
-#: C/animation.xml:9(titles/t)
+#: C/animation.xml:9(titles/t) C/getting-started.page:139(div/p)
+#: C/responding-to-messages.page:40(div/p)
 msgid "Delayed Response"
 msgstr "Verzögerte Antwort"
 
@@ -497,7 +501,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:17(media) C/launch-apps.page:23(media)
+#: C/getting-started.page:18(media) C/launch-apps.page:23(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-launching-applications.webm' "
@@ -513,7 +517,7 @@ msgstr "translated"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:24(media) C/switching-tasks.page:21(media)
+#: C/getting-started.page:57(media) C/switching-tasks.page:21(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-task-switching.webm' "
@@ -529,7 +533,7 @@ msgstr "original"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:30(media) C/responding-to-messages.page:21(media)
+#: C/getting-started.page:118(media) C/responding-to-messages.page:21(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-responding-to-messages.webm' "
@@ -538,7 +542,7 @@ msgstr "translated"
 
 #: C/getting-started.page:9(info/desc)
 msgid "New to GNOME? Learn how to get around."
-msgstr ""
+msgstr "Neu bei GNOME? Hier ist Ihr Einstieg."
 
 #: C/getting-started.page:10(info/title)
 msgctxt "link"
@@ -550,13 +554,209 @@ msgctxt "text"
 msgid "Getting Started"
 msgstr "Erste Schritte"
 
-#: C/getting-started.page:37(links/title)
+#: C/getting-started.page:20(caption/desc)
+msgid "Launch Applications"
+msgstr "Anwendungen starten"
+
+#: C/getting-started.page:28(div/p) C/getting-started.page:67(div/p)
+#: C/launch-apps.page:31(div/p) C/switching-tasks.page:29(div/p)
+msgid ""
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen."
+msgstr ""
+"Bewegen Sie den Mauszeiger zu der <gui>Aktivitäten</gui>-Ecke am linken "
+"oberen Rand des Bildschirms."
+
+#: C/getting-started.page:32(div/p) C/launch-apps.page:35(div/p)
+msgid "Click the <gui>Show Applications</gui> item."
+msgstr "Klicken Sie auf <gui>Anwendungen anzeigen</gui>"
+
+#: C/getting-started.page:35(div/p) C/launch-apps.page:38(div/p)
+msgid "Click the application you want to run, for example, Help."
+msgstr ""
+"Klicken Sie auf die Anwendung, die Sie starten wollen, zum Beispiel »Hilfe«."
+
+# http://en.wikipedia.org/wiki/Super_key_(keyboard_button)
+#: C/getting-started.page:39(div/p) C/launch-apps.page:42(div/p)
+msgid ""
+"Use the keyboard to open the <gui>Activities Overview</gui> <span begin=\"3s"
+"\">by pressing the <key>Super</key> key. </span>"
+msgstr ""
+"Verwenden Sie die Tastatur, um die <gui>Aktivitäten-Übersicht</gui> <span "
+"begin=\"3s\">durch Drücken der <key>Super</key>-Taste </span> zu öffnen."
+
+#: C/getting-started.page:44(div/p) C/launch-apps.page:47(div/p)
+msgid "Start typing the name of the application you want to launch."
+msgstr ""
+"Beginnen Sie den Namen der Anwendung einzugeben, die Sie starten wollen."
+
+#: C/getting-started.page:48(div/p) C/launch-apps.page:51(div/p)
+msgid "Press <key>Enter</key> to launch the application."
+msgstr "Drücken Sie die <key>Eingabetaste</key>, um die Anwendung zu starten."
+
+#: C/getting-started.page:59(caption/desc)
+msgid "Switch Tasks"
+msgstr "Zwischen Anwendungen wechseln"
+
+#: C/getting-started.page:71(div/p) C/switching-tasks.page:33(div/p)
+#: C/switching-tasks.page:84(item/p)
+msgid "Click a window to switch the task."
+msgstr "Klicken Sie auf ein Fenster, um die Anwendung zu wechseln."
+
+#: C/getting-started.page:74(div/p) C/move-windows.page:43(div/p)
+#: C/switching-tasks.page:36(div/p)
+msgid ""
+"To maximize a window along the left side of the screen, grab the window's "
+"titlebar and drag it to the left."
+msgstr ""
+"Um ein Fenster auf der linken Bildschirmhälfte zu maximieren, klicken Sie die "
+"Titelleiste des Fensters und ziehen Sie sie an den linken Rand."
+
+#: C/getting-started.page:78(div/p) C/getting-started.page:85(div/p)
+#: C/move-windows.page:47(div/p) C/move-windows.page:54(div/p)
+#: C/switching-tasks.page:40(div/p) C/switching-tasks.page:47(div/p)
+msgid "When half of the screen is highlighted, drop the window."
+msgstr ""
+"Wenn die Hälfte des Bildschirms markiert ist, lassen Sie das Fenster los."
+
+#: C/getting-started.page:81(div/p) C/switching-tasks.page:43(div/p)
+msgid ""
+"To maximize a window along the right side, grab the window's titlebar and "
+"drag it to the right."
+msgstr ""
+"Um ein Fenster auf der rechten Bildschirmhälfte zu maximieren, klicken Sie "
+"die Titelleiste des Fensters und ziehen Sie sie an den rechten Rand."
+
+#: C/getting-started.page:88(div/p) C/switching-tasks.page:50(div/p)
+msgid ""
+"Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the <gui>Window "
+"Switcher</gui>."
+msgstr ""
+"Drücken Sie <keyseq><key>Alt</key><key>Tabulator</key></keyseq>, um den "
+"<gui>Fensterwechsler</gui> anzuzeigen."
+
+#: C/getting-started.page:92(div/p) C/switching-tasks.page:54(div/p)
+msgid "Release <key>Alt</key> to select the next highlighted window."
+msgstr ""
+"Lassen Sie <key>Alt</key> los, um das nächste markierte Fenster auszuwählen."
+
+#: C/getting-started.page:96(div/p) C/switching-tasks.page:58(div/p)
+#: C/switching-tasks.page:113(item/p)
+msgid ""
+"To cycle through the list of open windows, do not release <key>Alt</key> but "
+"hold it down, and press <key>Tab</key>."
+msgstr ""
+"Um durch die Liste geöffneter Fenster zu wechseln, drücken und halten Sie "
+"<key>Alt</key> und drücken Sie <key>Tabulator</key>."
+
+#: C/getting-started.page:100(div/p) C/switching-tasks.page:62(div/p)
+#: C/switching-tasks.page:123(item/p)
+msgid ""
+"Press the <key>Super</key> key to show the <gui>Activities Overview</gui>."
+msgstr ""
+"Drücken Sie die <key>Super</key>-Taste, um die <gui>Aktivitäten-Übersicht</"
+"gui> anzuzeigen."
+
+#: C/getting-started.page:104(div/p) C/switching-tasks.page:66(div/p)
+msgid "Start typing the name of the application you want to switch to."
+msgstr ""
+"Beginnen Sie den Namen der Anwendung zu tippen, zu der Sie wechseln wollen."
+
+#: C/getting-started.page:108(div/p) C/switching-tasks.page:70(div/p)
+msgid ""
+"When the application appears as the first result, press <key> Enter</key> to "
+"switch to it."
+msgstr ""
+"Wenn die Anwendung als erstes Ergebnis erscheint, drücken Sie <key>Eingabe</"
+"key>, um zur Anwendung zu wechseln."
+
+#: C/getting-started.page:120(caption/desc)
+#: C/responding-to-messages.page:19(page/title)
+msgid "Respond to messages"
+msgstr "Auf Nachrichten antworten"
+
+#: C/getting-started.page:128(div/p) C/responding-to-messages.page:29(div/p)
+#: C/responding-to-messages.page:86(item/p)
+msgid ""
+"Move your mouse to the message tray at the bottom of the screen and click the "
+"chat message."
+msgstr ""
+"Bewegen Sie die Maus auf das Nachrichtenfeld, das am unteren Rand des "
+"Bildschirms zu finden ist, und klicken Sie auf die Nachricht."
+
+#: C/getting-started.page:132(div/p) C/responding-to-messages.page:33(div/p)
+msgid ""
+"Start typing your reply and when finished, press <key>Enter </key> to send "
+"the reply."
+msgstr ""
+"Tippen Sie Ihre Antwort und drücken Sie die <key>Eingabetaste</key>, um die "
+"Antwort zu senden, wenn Sie fertig sind."
+
+#: C/getting-started.page:136(div/p) C/getting-started.page:157(div/p)
+#: C/responding-to-messages.page:37(div/p)
+#: C/responding-to-messages.page:58(div/p)
+msgid "Close the chat message."
+msgstr "Schließen Sie die Nachricht."
+
+#: C/getting-started.page:142(div/p) C/responding-to-messages.page:43(div/p)
+msgid ""
+"A chat message in the message tray disappears after a while if you do not "
+"move your mouse to the message tray."
+msgstr ""
+"Wenn eine Chat-Nachricht im Nachrichtenfeld erscheint und Sie Ihre Maus nicht "
+"über das Nachrichtenfeld bewegen, schließt sich das Nachrichtenfeld nach "
+"einiger Zeit."
+
+#: C/getting-started.page:146(div/p) C/responding-to-messages.page:47(div/p)
+msgid ""
+"To get back to your unanswered message, move your mouse to the message tray."
+msgstr ""
+"Um zu der unbeantworteten Chat-Nachricht zu gelangen, bewegen Sie die Maus "
+"zum Nachrichtenfeld."
+
+#: C/getting-started.page:150(div/p) C/responding-to-messages.page:51(div/p)
+msgid "Click the person who sent you the message."
+msgstr "Klicken Sie auf die Person, die Ihnen eine Nachricht gesendet hat."
+
+#: C/getting-started.page:153(div/p) C/getting-started.page:168(div/p)
+#: C/responding-to-messages.page:54(div/p)
+#: C/responding-to-messages.page:69(div/p)
+msgid "Start typing your reply and when finished, press <key>Enter </key>."
+msgstr ""
+"Tippen Sie Ihre Antwort und drücken Sie die <key>Eingabetaste</key>, wenn Sie "
+"fertig sind."
+
+#: C/getting-started.page:160(div/p) C/responding-to-messages.page:61(div/p)
+msgid ""
+"To show the message tray, press <keyseq><key>Super</key><key>M </key></keyseq>"
+msgstr ""
+"Um das Nachrichtenfeld anzuzeigen, drücken Sie <keyseq><key>Super</key><key>M "
+"</key></keyseq>."
+
+#: C/getting-started.page:164(div/p) C/responding-to-messages.page:65(div/p)
+msgid ""
+"Use the arrow keys to select the person you want to reply to, and press "
+"<key>Enter</key>."
+msgstr ""
+"Verwenden Sie die Pfeiltasten, um die Person auszuwählen, der Sie antworten "
+"wollen, und drücken Sie die <key>Eingabetaste</key>."
+
+#: C/getting-started.page:172(div/p) C/responding-to-messages.page:73(div/p)
+#: C/responding-to-messages.page:125(item/p)
+msgid "Press <key>Esc</key> to close the chat message."
+msgstr "Drücken Sie <key>Esc</key>, um die Nachricht zu schließen."
+
+#: C/getting-started.page:175(div/p) C/responding-to-messages.page:76(div/p)
+msgid "To dismiss the message tray, press <key>Esc</key>."
+msgstr "Um das Nachrichtenfeld abzuweisen, drücken Sie <key>Esc</key>."
+
+#: C/getting-started.page:184(links/title)
 msgid "Common Tasks"
 msgstr "Häufig auszuführende Aufgaben"
 
-#: C/getting-started.page:41(links/title)
+#: C/getting-started.page:188(links/title)
 msgid "Learn More"
-msgstr ""
+msgstr "Mehr erfahren"
 
 #: C/goa1.svg:20(Work/format) C/goa2.svg:29(Work/format)
 #: C/goa3.svg:29(Work/format) C/goa4.svg:23(Work/format)
@@ -808,19 +1008,6 @@ msgstr "Privat"
 msgid "Weak"
 msgstr "Schwach"
 
-#: C/install-software.page:9(info/title)
-msgctxt "link:trail"
-msgid "Get additional applications"
-msgstr "Weitere Anwendungen erhalten"
-
-#: C/install-software.page:12(page/title)
-msgid "Get additional applications"
-msgstr "Weitere Anwendungen erhalten"
-
-#: C/install-software.page:14(page/p)
-msgid "Stay tuned..."
-msgstr "Bleiben Sie dran …"
-
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
@@ -839,41 +1026,6 @@ msgstr "Anwendungen starten"
 #: C/launch-apps.page:21(page/title)
 msgid "Launch applications"
 msgstr "Anwendungen starten"
-
-#: C/launch-apps.page:31(div/p) C/switching-tasks.page:29(div/p)
-msgid ""
-"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
-"of the screen."
-msgstr ""
-"Bewegen Sie den Mauszeiger zu der <gui>Aktivitäten</gui>-Ecke am linken "
-"oberen Rand des Bildschirms."
-
-#: C/launch-apps.page:35(div/p)
-msgid "Click the <gui>Show Applications</gui> item."
-msgstr "Klicken Sie auf <gui>Anwendungen anzeigen</gui>"
-
-#: C/launch-apps.page:38(div/p)
-msgid "Click the application you want to run, for example, Help."
-msgstr ""
-"Klicken Sie auf die Anwendung, die Sie starten wollen, zum Beispiel »Hilfe«."
-
-# http://en.wikipedia.org/wiki/Super_key_(keyboard_button)
-#: C/launch-apps.page:42(div/p)
-msgid ""
-"Use the keyboard to open the <gui>Activities Overview</gui> <span begin=\"3s"
-"\">by pressing the <key>Super</key> key. </span>"
-msgstr ""
-"Verwenden Sie die Tastatur, um die <gui>Aktivitäten-Übersicht</gui> <span "
-"begin=\"3s\">durch Drücken der <key>Super</key>-Taste </span> zu öffnen."
-
-#: C/launch-apps.page:47(div/p)
-msgid "Start typing the name of the application you want to launch."
-msgstr ""
-"Beginnen Sie den Namen der Anwendung einzugeben, die Sie starten wollen."
-
-#: C/launch-apps.page:51(div/p)
-msgid "Press <key>Enter</key> to launch the application."
-msgstr "Drücken Sie die <key>Eingabetaste</key>, um die Anwendung zu starten."
 
 #: C/launch-apps.page:58(section/title)
 msgid "Launch applications with the mouse"
@@ -930,7 +1082,7 @@ msgstr ""
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='b56350cbcab8c569383ff1f6abd9372e'"
+"md5='2804904c3fd3928ba9ad794448ab4149'"
 msgstr "translated"
 
 #. This is a reference to an external file such as an image or video. When
@@ -980,20 +1132,6 @@ msgid ""
 msgstr ""
 "Sie können auch auf die obere Leiste klicken, um das Fenster wegzuziehen und "
 "die Größe wiederherzustellen."
-
-#: C/move-windows.page:43(div/p) C/switching-tasks.page:36(div/p)
-msgid ""
-"To maximize a window along the left side of the screen, grab the window's "
-"titlebar and drag it to the left."
-msgstr ""
-"Um ein Fenster auf der linken Bildschirmhälfte zu maximieren, klicken Sie die "
-"Titelleiste des Fensters und ziehen Sie sie an den linken Rand."
-
-#: C/move-windows.page:47(div/p) C/move-windows.page:54(div/p)
-#: C/switching-tasks.page:40(div/p) C/switching-tasks.page:47(div/p)
-msgid "When half of the screen is highlighted, drop the window."
-msgstr ""
-"Wenn die Hälfte des Bildschirms markiert ist, lassen Sie das Fenster los."
 
 #: C/move-windows.page:50(div/p)
 msgid ""
@@ -1411,24 +1549,12 @@ msgctxt "link:trail"
 msgid "Respond to messages"
 msgstr "Auf Nachrichten antworten"
 
-#: C/responding-to-messages.page:19(page/title)
-msgid "Respond to messages"
-msgstr "Auf Nachrichten antworten"
-
-#: C/responding-to-messages.page:26(section/title)
+#: C/responding-to-messages.page:83(section/title)
 msgid "Respond to a chat message with the mouse"
 msgstr "Auf Nachrichten mit der Maus antworten"
 
-#: C/responding-to-messages.page:29(item/p)
-msgid ""
-"Move your mouse to the message tray that can found at the bottom of the "
-"screen and click the chat message."
-msgstr ""
-"Bewegen Sie die Maus auf das Nachrichtenfeld, das am unteren Rand des "
-"Bildschirms zu finden ist, und klicken Sie auf die Nachricht."
-
-#: C/responding-to-messages.page:31(item/p)
-#: C/responding-to-messages.page:66(item/p)
+#: C/responding-to-messages.page:88(item/p)
+#: C/responding-to-messages.page:123(item/p)
 msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send the "
 "reply."
@@ -1436,8 +1562,8 @@ msgstr ""
 "Tippen Sie Ihre Antwort und drücken Sie <key>Eingabe</key>, um die Antwort zu "
 "senden, wenn Sie fertig sind."
 
-#: C/responding-to-messages.page:33(item/p)
-#: C/responding-to-messages.page:52(item/p)
+#: C/responding-to-messages.page:90(item/p)
+#: C/responding-to-messages.page:109(item/p)
 msgid ""
 "To close the chat message, click the close button at the top right corner of "
 "the chat message."
@@ -1445,11 +1571,11 @@ msgstr ""
 "Um die Chat-Nachricht zu schließen, klicken Sie auf den Schließen-Knopf in "
 "der oberen rechten Ecke der Chat-Nachricht."
 
-#: C/responding-to-messages.page:40(section/title)
+#: C/responding-to-messages.page:97(section/title)
 msgid "Delayed response to a chat message using the mouse"
 msgstr "Verzögertes Antworten auf eine Nachricht mit Hilfe der Maus"
 
-#: C/responding-to-messages.page:43(item/p)
+#: C/responding-to-messages.page:100(item/p)
 msgid ""
 "When a chat message appears in the message tray and you do not move your "
 "mouse to the message tray, the message disappears after a while."
@@ -1458,7 +1584,7 @@ msgstr ""
 "über das Nachrichtenfeld bewegen, schließt sich das Nachrichtenfeld nach "
 "einiger Zeit."
 
-#: C/responding-to-messages.page:46(item/p)
+#: C/responding-to-messages.page:103(item/p)
 msgid ""
 "To get back to your unanswered message, move your mouse to the message tray "
 "at the very bottom of the screen."
@@ -1466,7 +1592,7 @@ msgstr ""
 "Um zu den unbeantworteten Chat-Nachrichten zu gelangen, bewegen Sie die Maus "
 "zum Nachrichtenfeld am unteren Rand des Bildschirms."
 
-#: C/responding-to-messages.page:48(item/p)
+#: C/responding-to-messages.page:105(item/p)
 msgid ""
 "When the message tray appears, click a small image that represents the person "
 "who sent you the message."
@@ -1474,7 +1600,7 @@ msgstr ""
 "Wenn das Nachrichtenfeld erscheint, klicken Sie auf das Bild, das den "
 "Absender der Nachricht anzeigt."
 
-#: C/responding-to-messages.page:50(item/p)
+#: C/responding-to-messages.page:107(item/p)
 msgid ""
 "When the chat message is shown, start typing your reply and when finished, "
 "press <key>Enter</key> to send the reply."
@@ -1482,11 +1608,11 @@ msgstr ""
 "Wenn die Chat-Nachricht angezeigt wird, tippen Sie Ihre Antwort und drücken "
 "Sie <key>Eingabe</key>, um die Antwort zu senden."
 
-#: C/responding-to-messages.page:59(section/title)
+#: C/responding-to-messages.page:116(section/title)
 msgid "Delayed response to a chat message using the keyboard"
 msgstr "Verzögertes Antworten auf eine Nachricht mit Hilfe der Tastatur"
 
-#: C/responding-to-messages.page:61(item/p)
+#: C/responding-to-messages.page:118(item/p)
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq><key> Super</"
 "key><key>M</key></keyseq> to display the message tray that contains the "
@@ -1496,7 +1622,7 @@ msgstr ""
 "<keyseq><key>Super</key><key>M</key></keyseq>, um das Nachrichtenfeld "
 "anzuzeigen, das die Nachrichten beinhaltet."
 
-#: C/responding-to-messages.page:64(item/p)
+#: C/responding-to-messages.page:121(item/p)
 msgid ""
 "Use the arrow keys to select a small image representing the person you want "
 "to reply to, and press <key>Enter</key>."
@@ -1504,11 +1630,7 @@ msgstr ""
 "Verwenden Sie die Pfeiltasten, um die Person, der Sie antworten wollen, "
 "auszuwählen und drücken Sie <key>Eingabe</key>."
 
-#: C/responding-to-messages.page:68(item/p)
-msgid "Press <key>Esc</key> to close the chat message."
-msgstr "Drücken Sie <key>Esc</key>, um die Nachricht zu schließen."
-
-#: C/responding-to-messages.page:69(item/p)
+#: C/responding-to-messages.page:126(item/p)
 msgid ""
 "To dismiss the message tray, press <key>Esc</key> or <keyseq><key>Super</"
 "key><key>M</key></keyseq>."
@@ -1620,59 +1742,6 @@ msgstr "Zwischen Anwendungen wechseln"
 #: C/switching-tasks.page:78(section/title)
 msgid "Switch tasks"
 msgstr "Zwischen Anwendungen wechseln"
-
-#: C/switching-tasks.page:33(div/p) C/switching-tasks.page:84(item/p)
-msgid "Click a window to switch the task."
-msgstr "Klicken Sie auf ein Fenster, um die Anwendung zu wechseln."
-
-#: C/switching-tasks.page:43(div/p)
-msgid ""
-"To maximize a window along the right side, grab the window's titlebar and "
-"drag it to the right."
-msgstr ""
-"Um ein Fenster auf der rechten Bildschirmhälfte zu maximieren, klicken Sie "
-"die Titelleiste des Fensters und ziehen Sie sie an den rechten Rand."
-
-#: C/switching-tasks.page:50(div/p)
-msgid ""
-"Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the <gui>Window "
-"Switcher</gui>."
-msgstr ""
-"Drücken Sie <keyseq><key>Alt</key><key>Tabulator</key></keyseq>, um den "
-"<gui>Fensterwechsler</gui> anzuzeigen."
-
-#: C/switching-tasks.page:54(div/p)
-msgid "Release <key>Alt</key> to select the next highlighted window."
-msgstr ""
-"Lassen Sie <key>Alt</key> los, um das nächste markierte Fenster auszuwählen."
-
-#: C/switching-tasks.page:58(div/p) C/switching-tasks.page:113(item/p)
-msgid ""
-"To cycle through the list of open windows, do not release <key>Alt</key> but "
-"hold it down, and press <key>Tab</key>."
-msgstr ""
-"Um durch die Liste geöffneter Fenster zu wechseln, drücken und halten Sie "
-"<key>Alt</key> und drücken Sie <key>Tabulator</key>."
-
-#: C/switching-tasks.page:62(div/p) C/switching-tasks.page:123(item/p)
-msgid ""
-"Press the <key>Super</key> key to show the <gui>Activities Overview</gui>."
-msgstr ""
-"Drücken Sie die <key>Super</key>-Taste, um die <gui>Aktivitäten-Übersicht</"
-"gui> anzuzeigen."
-
-#: C/switching-tasks.page:66(div/p)
-msgid "Start typing the name of the application you want to switch to."
-msgstr ""
-"Beginnen Sie den Namen der Anwendung zu tippen, zu der Sie wechseln wollen."
-
-#: C/switching-tasks.page:70(div/p)
-msgid ""
-"When the application appears as the first result, press <key> Enter</key> to "
-"switch to it."
-msgstr ""
-"Wenn die Anwendung als erstes Ergebnis erscheint, drücken Sie <key>Eingabe</"
-"key>, um zur Anwendung zu wechseln."
 
 #: C/switching-tasks.page:81(item/p)
 msgid ""
@@ -2058,6 +2127,16 @@ msgstr "http://gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
+
+#~ msgctxt "link:trail"
+#~ msgid "Get additional applications"
+#~ msgstr "Weitere Anwendungen erhalten"
+
+#~ msgid "Get additional applications"
+#~ msgstr "Weitere Anwendungen erhalten"
+
+#~ msgid "Stay tuned..."
+#~ msgstr "Bleiben Sie dran …"
 
 #~ msgid "Getting Started with GNOME"
 #~ msgstr "Erste Schritte mit GNOME"
