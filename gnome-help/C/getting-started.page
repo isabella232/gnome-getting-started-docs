@@ -85,20 +85,22 @@
            <tt:p>When half of the screen is highlighted, drop the window.</tt:p>
          </tt:div>
          <tt:div begin="23s" end="27s">
-           <tt:p>Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the
-          <gui>Window Switcher</gui>.</tt:p>
+           <tt:p>Press <keyseq><key xref="keyboard-key-super">Super</key><key>
+           Tab</key></keyseq> to show the <gui>window switcher</gui>.</tt:p>
          </tt:div>
          <tt:div begin="27s" end="29s">
-           <tt:p>Release <key>Alt</key> to select the next highlighted window.
+           <tt:p>Release <key xref="keyboard-key-super">Super</key> to select
+            the next highlighted window.
            </tt:p>
          </tt:div>
          <tt:div begin="29s" end="32s">
            <tt:p>To cycle through the list of open windows, do not release
-            <key>Alt</key> but hold it down, and press <key>Tab</key>.</tt:p>
+           <key xref="keyboard-key-super">Super</key> but hold it down, and
+            press <key>Tab</key>.</tt:p>
          </tt:div>
          <tt:div begin="35s" end="37s">
-           <tt:p>Press the <key>Super</key> key to show the <gui>Activities
-            Overview</gui>.</tt:p>
+           <tt:p>Press the <key xref="keyboard-key-super">Super</key> key to
+            show the <gui>Activities Overview</gui>.</tt:p>
          </tt:div>
          <tt:div begin="37s" end="40s">
            <tt:p>Start typing the name of the application you want to switch to.
