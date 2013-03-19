@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-03-15 17:26+0000\n"
-"PO-Revision-Date: 2013-03-17 13:18+0300\n"
+"POT-Creation-Date: 2013-03-18 23:28+0000\n"
+"PO-Revision-Date: 2013-03-19 09:49+0300\n"
 "Last-Translator: Dimitris Spingos (Δημήτρης Σπίγγος) <dmtrs32@gmail.com>\n"
 "Language-Team: team@gnome.gr\n"
 "Language: el\n"
@@ -45,7 +45,7 @@ msgstr "Εκκίνηση εφαρμογών"
 msgid "Changing Wallpaper"
 msgstr "Αλλαγή ταπετσαρίας"
 
-#: C/animation.xml:7(titles/t) C/getting-started.page:125(div/p)
+#: C/animation.xml:7(titles/t) C/getting-started.page:127(div/p)
 #: C/responding-to-messages.page:26(div/p)
 msgid "Responding to Messages"
 msgstr "Απάντηση σε μηνύματα"
@@ -55,7 +55,7 @@ msgstr "Απάντηση σε μηνύματα"
 msgid "Switching Tasks"
 msgstr "Αλλαγή εργασιών"
 
-#: C/animation.xml:9(titles/t) C/getting-started.page:139(div/p)
+#: C/animation.xml:9(titles/t) C/getting-started.page:141(div/p)
 #: C/responding-to-messages.page:40(div/p)
 msgid "Delayed Response"
 msgstr "Καθυστέρηση απάντησης"
@@ -392,12 +392,15 @@ msgstr ""
 "πληκτρολογήσετε τον κωδικό πρόσβασης του διαχειριστή."
 
 #: C/change-time.page:58(item/p)
+#| msgid ""
+#| "This selects your current city, which you can also see in the drop-down "
+#| "list below the map."
 msgid ""
-"This selects your current city, which you can also see in the drop-down list "
-"below the map."
+"This selects your current city, which you can also see and change in the "
+"drop-down list below the map."
 msgstr ""
-"Αυτό επιλέγει την τρέχουσα πόλη, που μπορείτε επίσης να δείτε στην "
-"πτυσσόμενη λίστα κάτω από τον χάρτη."
+"Αυτό επιλέγει την τρέχουσα πόλη, που μπορείτε επίσης να δείτε και να "
+"αλλάξετε στην πτυσσόμενη λίστα κάτω από τον χάρτη."
 
 #: C/change-time.page:60(item/p)
 msgid ""
@@ -539,7 +542,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:118(media) C/responding-to-messages.page:21(media)
+#: C/getting-started.page:120(media) C/responding-to-messages.page:21(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-responding-to-messages.webm' "
@@ -563,7 +566,6 @@ msgid "Getting Started"
 msgstr "Ξεκινώντας"
 
 #: C/getting-started.page:20(caption/desc)
-#| msgid "Launch applications"
 msgid "Launch Applications"
 msgstr "Εκκίνηση εφαρμογών"
 
@@ -603,12 +605,11 @@ msgid "Press <key>Enter</key> to launch the application."
 msgstr "Πατήστε <key>Εισαγωγή-Enter</key> για να ξεκινήσετε την εφαρμογή."
 
 #: C/getting-started.page:59(caption/desc)
-#| msgid "Switch tasks"
 msgid "Switch Tasks"
 msgstr "Εναλλαγή εργασιών"
 
 #: C/getting-started.page:71(div/p) C/switching-tasks.page:33(div/p)
-#: C/switching-tasks.page:84(item/p)
+#: C/switching-tasks.page:86(item/p)
 msgid "Click a window to switch the task."
 msgstr "Πατήστε σε ένα παράθυρο για να εναλλάξετε την εργασία."
 
@@ -636,43 +637,57 @@ msgstr ""
 "γραμμή τίτλου του παραθύρου και μεταφέρτε την στα δεξιά."
 
 #: C/getting-started.page:88(div/p) C/switching-tasks.page:50(div/p)
+#| msgid ""
+#| "Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the "
+#| "<gui>Window Switcher</gui>."
 msgid ""
-"Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the <gui>Window "
-"Switcher</gui>."
+"Press <keyseq><key xref=\"keyboard-key-super\">Super</key><key> Tab</key></"
+"keyseq> to show the <gui>window switcher</gui>."
 msgstr ""
-"Πατήστε <keyseq><key>Alt</key><key>στηλοθέτης</key></keyseq> για να "
-"εμφανίσετε τον <gui>εναλλάκτη παραθύρου</gui>."
+"Πατήστε <keyseq><key xref=\"keyboard-key-super\">πλήκτρο "
+"λογότυπου</key><key>στηλοθέτης</key></keyseq> για να εμφανίσετε τον "
+"<gui>εναλλάκτη παραθύρου</gui>."
 
 #: C/getting-started.page:92(div/p) C/switching-tasks.page:54(div/p)
-msgid "Release <key>Alt</key> to select the next highlighted window."
-msgstr ""
-"Απελευθερώστε το <key>Alt</key> για να επιλέξτε το επόμενο επισημασμένο "
-"παράθυρο."
-
-#: C/getting-started.page:96(div/p) C/switching-tasks.page:58(div/p)
-#: C/switching-tasks.page:113(item/p)
+#| msgid "Release <key>Alt</key> to select the next highlighted window."
 msgid ""
-"To cycle through the list of open windows, do not release <key>Alt</key> but "
-"hold it down, and press <key>Tab</key>."
+"Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
+"highlighted window."
 msgstr ""
-"Για να περιηγηθείτε στη λίστα των ανοικτών παραθύρων, μην αφήσετε το "
-"<key>Alt</key>, αλλά κρατήστε το πατημένο και πατήστε <key>στηλοθέτης</key>."
+"Απελευθερώστε το <key xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key> για "
+"να επιλέξτε το επόμενο επισημασμένο παράθυρο."
 
-#: C/getting-started.page:100(div/p) C/switching-tasks.page:62(div/p)
-#: C/switching-tasks.page:123(item/p)
+#: C/getting-started.page:97(div/p) C/switching-tasks.page:59(div/p)
+#| msgid ""
+#| "To cycle through the list of open windows, do not release <key>Alt</key> "
+#| "but hold it down, and press <key>Tab</key>."
 msgid ""
-"Press the <key>Super</key> key to show the <gui>Activities Overview</gui>."
+"To cycle through the list of open windows, do not release <key xref="
+"\"keyboard-key-super\">Super</key> but hold it down, and press <key>Tab</"
+"key>."
 msgstr ""
-"Πατήστε το πλήκτρο <key>λογότυπου</key> για να εμφανίσετε την "
-"<gui>Επισκόπηση ενεργειών</gui>."
+"Για να περιηγηθείτε στη λίστα των ανοικτών παραθύρων, μην αφήσετε το <key "
+"xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key>, αλλά κρατήστε το πατημένο "
+"και πατήστε <key>στηλοθέτης</key>."
 
-#: C/getting-started.page:104(div/p) C/switching-tasks.page:66(div/p)
+#: C/getting-started.page:102(div/p) C/switching-tasks.page:64(div/p)
+#: C/switching-tasks.page:127(item/p)
+#| msgid ""
+#| "Press the <key>Super</key> key to show the <gui>Activities Overview</gui>."
+msgid ""
+"Press the <key xref=\"keyboard-key-super\">Super</key> key to show the "
+"<gui>Activities Overview</gui>."
+msgstr ""
+"Πατήστε το πλήκτρο <key xref=\"keyboard-key-super\">λογότυπου</key> για να "
+"εμφανίσετε την <gui>Επισκόπηση ενεργειών</gui>."
+
+#: C/getting-started.page:106(div/p) C/switching-tasks.page:68(div/p)
 msgid "Start typing the name of the application you want to switch to."
 msgstr ""
 "Αρχίστε να πληκτρολογείτε το όνομα της εφαρμογής στην οποία θέλετε να "
 "μεταβείτε."
 
-#: C/getting-started.page:108(div/p) C/switching-tasks.page:70(div/p)
+#: C/getting-started.page:110(div/p) C/switching-tasks.page:72(div/p)
 msgid ""
 "When the application appears as the first result, press <key> Enter</key> to "
 "switch to it."
@@ -680,16 +695,13 @@ msgstr ""
 "Όταν η εφαρμογή εμφανιστεί ως το πρώτο αποτέλεσμα, πατήστε <key>Εισαγωγή</"
 "key> για να αλλάξετε σε αυτό."
 
-#: C/getting-started.page:120(caption/desc)
+#: C/getting-started.page:122(caption/desc)
 #: C/responding-to-messages.page:19(page/title)
 msgid "Respond to messages"
 msgstr "Απάντηση σε μηνύματα"
 
-#: C/getting-started.page:128(div/p) C/responding-to-messages.page:29(div/p)
+#: C/getting-started.page:130(div/p) C/responding-to-messages.page:29(div/p)
 #: C/responding-to-messages.page:86(item/p)
-#| msgid ""
-#| "Move your mouse to the message tray that can found at the bottom of the "
-#| "screen and click the chat message."
 msgid ""
 "Move your mouse to the message tray at the bottom of the screen and click "
 "the chat message."
@@ -697,10 +709,7 @@ msgstr ""
 "Μετακινήστε το ποντίκι σας στην περιοχή ειδοποιήσεων στο τέλος της οθόνης "
 "και πατήστε στο μήνυμα συνομιλίας."
 
-#: C/getting-started.page:132(div/p) C/responding-to-messages.page:33(div/p)
-#| msgid ""
-#| "Start typing your reply and when finished, press <key>Enter</key> to send "
-#| "the reply."
+#: C/getting-started.page:134(div/p) C/responding-to-messages.page:33(div/p)
 msgid ""
 "Start typing your reply and when finished, press <key>Enter </key> to send "
 "the reply."
@@ -708,17 +717,13 @@ msgstr ""
 "Αρχίστε να πληκτρολογείτε την απάντησή σας και όταν τελειώσετε, πατήστε το "
 "πλήκτρο <key>Εισαγωγή</key> για να στείλετε την απάντηση."
 
-#: C/getting-started.page:136(div/p) C/getting-started.page:157(div/p)
+#: C/getting-started.page:138(div/p) C/getting-started.page:159(div/p)
 #: C/responding-to-messages.page:37(div/p)
 #: C/responding-to-messages.page:58(div/p)
-#| msgid "Press <key>Esc</key> to close the chat message."
 msgid "Close the chat message."
 msgstr "Κλείστε το μήνυμα συνομιλίας."
 
-#: C/getting-started.page:142(div/p) C/responding-to-messages.page:43(div/p)
-#| msgid ""
-#| "When a chat message appears in the message tray and you do not move your "
-#| "mouse to the message tray, the message disappears after a while."
+#: C/getting-started.page:144(div/p) C/responding-to-messages.page:43(div/p)
 msgid ""
 "A chat message in the message tray disappears after a while if you do not "
 "move your mouse to the message tray."
@@ -726,35 +731,26 @@ msgstr ""
 "Ένα μήνυμα συνομιλίας στην περιοχή ειδοποιήσεων εξαφανίζεται μετά από λίγο, "
 "αν δεν μετακινήσετε το ποντίκι σας στην περιοχή ειδοποιήσεων."
 
-#: C/getting-started.page:146(div/p) C/responding-to-messages.page:47(div/p)
-#| msgid ""
-#| "To get back to your unanswered message, move your mouse to the message "
-#| "tray at the very bottom of the screen."
+#: C/getting-started.page:148(div/p) C/responding-to-messages.page:47(div/p)
 msgid ""
 "To get back to your unanswered message, move your mouse to the message tray."
 msgstr ""
 "Για να επιστρέψετε στο αναπάντητο μήνυμα, μετακινήστε το ποντίκι σας στην "
 "περιοχή ειδοποιήσεων."
 
-#: C/getting-started.page:150(div/p) C/responding-to-messages.page:51(div/p)
+#: C/getting-started.page:152(div/p) C/responding-to-messages.page:51(div/p)
 msgid "Click the person who sent you the message."
 msgstr "Πατήστε στο άτομο που σας έστειλε το μήνυμα."
 
-#: C/getting-started.page:153(div/p) C/getting-started.page:168(div/p)
+#: C/getting-started.page:155(div/p) C/getting-started.page:170(div/p)
 #: C/responding-to-messages.page:54(div/p)
 #: C/responding-to-messages.page:69(div/p)
-#| msgid ""
-#| "Start typing your reply and when finished, press <key>Enter</key> to send "
-#| "the reply."
 msgid "Start typing your reply and when finished, press <key>Enter </key>."
 msgstr ""
 "Αρχίστε να πληκτρολογείτε την απάντησή σας και όταν τελειώσετε, πατήστε το "
 "πλήκτρο <key>Εισαγωγή</key>."
 
-#: C/getting-started.page:160(div/p) C/responding-to-messages.page:61(div/p)
-#| msgid ""
-#| "To dismiss the message tray, press <key>Esc</key> or <keyseq><key>Super</"
-#| "key><key>M</key></keyseq>."
+#: C/getting-started.page:162(div/p) C/responding-to-messages.page:61(div/p)
 msgid ""
 "To show the message tray, press <keyseq><key>Super</key><key>M </key></"
 "keyseq>"
@@ -762,10 +758,7 @@ msgstr ""
 "Για να διώξετε την περιοχή ειδοποιήσεων, πατήστε <keyseq><key>πλήκτρο "
 "λογότυπου</key><key>M</key></keyseq>."
 
-#: C/getting-started.page:164(div/p) C/responding-to-messages.page:65(div/p)
-#| msgid ""
-#| "Use the arrow keys to select a small image representing the person you "
-#| "want to reply to, and press <key>Enter</key>."
+#: C/getting-started.page:166(div/p) C/responding-to-messages.page:65(div/p)
 msgid ""
 "Use the arrow keys to select the person you want to reply to, and press "
 "<key>Enter</key>."
@@ -773,25 +766,22 @@ msgstr ""
 "Χρησιμοποιήστε τα πλήκτρα βελών για να επιλέξετε το άτομο στο οποίο θέλετε "
 "να απαντήσετε και πατήστε το πλήκτρο <key>Εισαγωγή</key>."
 
-#: C/getting-started.page:172(div/p) C/responding-to-messages.page:73(div/p)
+#: C/getting-started.page:174(div/p) C/responding-to-messages.page:73(div/p)
 #: C/responding-to-messages.page:125(item/p)
 msgid "Press <key>Esc</key> to close the chat message."
 msgstr "Πατήστε <key>Esc</key> για να κλείσετε το μήνυμα συνομιλίας."
 
-#: C/getting-started.page:175(div/p) C/responding-to-messages.page:76(div/p)
-#| msgid ""
-#| "To dismiss the message tray, press <key>Esc</key> or <keyseq><key>Super</"
-#| "key><key>M</key></keyseq>."
+#: C/getting-started.page:177(div/p) C/responding-to-messages.page:76(div/p)
 msgid "To dismiss the message tray, press <key>Esc</key>."
 msgstr ""
-"Για να διώξετε την περιοχή ειδοποιήσεων, πατήστε το πλήκτρο "
-"<key>Διαφυγή</key>."
+"Για να διώξετε την περιοχή ειδοποιήσεων, πατήστε το πλήκτρο <key>Διαφυγή</"
+"key>."
 
-#: C/getting-started.page:184(links/title)
+#: C/getting-started.page:186(links/title)
 msgid "Common Tasks"
 msgstr "Συνηθισμένες εργασίες"
 
-#: C/getting-started.page:188(links/title)
+#: C/getting-started.page:190(links/title)
 msgid "Learn More"
 msgstr "Μάθετε Περισσότερα"
 
@@ -1045,6 +1035,14 @@ msgstr "Ιδιωτικό"
 msgid "Weak"
 msgstr "Ασθενές"
 
+#: C/gs-legal.xml:3(p/link)
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+msgstr "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+
+#: C/gs-legal.xml:3(license/p)
+msgid "This work is licensed under a <_:link-1/>."
+msgstr "Αυτό το έργο έχει αδειοδοτηθεί με το <_:link-1/>."
+
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
@@ -1120,10 +1118,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/move-windows.page:20(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/gnome-windows-and-workspaces.webm' "
-#| "md5='b56350cbcab8c569383ff1f6abd9372e'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
@@ -1189,61 +1183,85 @@ msgstr ""
 "Για μεγιστοποίηση ενός παραθύρου κατά μήκος της δεξιάς πλευράς της οθόνης, "
 "πάρτε τη γραμμή τίτλου του παραθύρου και μεταφέρτε την στα δεξιά."
 
-#: C/move-windows.page:57(div/p) C/move-windows.page:123(item/p)
+#: C/move-windows.page:57(div/p) C/move-windows.page:127(item/p)
+#| msgid ""
+#| "To maximize a window using the keyboard, hold down the Super key and "
+#| "press <key>↑</key>."
 msgid ""
-"To maximize a window using the keyboard, hold down the Super key and press "
-"<key>↑</key>."
+"To maximize a window using the keyboard, hold down the <key xref=\"keyboard-"
+"key-super\">Super</key> key and press <key>↑</key>."
 msgstr ""
 "Για μεγιστοποίηση ενός παραθύρου χρησιμοποιώντας το πληκτρολόγιο, κρατήστε "
-"πατημένο το πλήκτρο λογότυπου και πατήστε <key>↑</key>."
+"πατημένο το πλήκτρο <key xref=\"keyboard-key-super\">λογότυπου</key> και "
+"πατήστε <key>↑</key>."
 
-#: C/move-windows.page:61(div/p)
+#: C/move-windows.page:62(div/p)
+#| msgid ""
+#| "To restore the window to its unmaximized size, hold down the Super key "
+#| "and press <key>↓</key>."
 msgid ""
-"To restore the window to its unmaximized size, hold down the Super key and "
-"press <key>↓</key>."
+"To restore the window to its unmaximized size, hold down the <key xref="
+"\"keyboard-key-super\">Super</key> key and press <key>↓</key>."
 msgstr ""
 "Για επαναφορά παραθύρου στο αμεγιστοποίητο μέγεθος του, κρατήστε πατημένο το "
-"πλήκτρο λογότυπου και πατήστε <key>↓</key>."
+"πλήκτρο <key xref=\"keyboard-key-super\">λογότυπου</key> και πατήστε "
+"<key>↓</key>."
 
-#: C/move-windows.page:65(div/p) C/move-windows.page:135(item/p)
+#: C/move-windows.page:67(div/p) C/move-windows.page:141(item/p)
+#| msgid ""
+#| "To maximize a window along the right side of the screen, hold down the "
+#| "Super key and press <key>→</key>."
 msgid ""
-"To maximize a window along the right side of the screen, hold down the Super "
-"key and press <key>→</key>."
+"To maximize a window along the right side of the screen, hold down the <key "
+"xref=\"keyboard-key-super\">Super</key> key and press <key>→</key>."
 msgstr ""
 "Για μεγιστοποίηση ενός παραθύρου κατά μήκος της δεξιάς πλευράς της οθόνης, "
-"κρατήστε πατημένο το πλήκτρο λογότυπου και πατήστε <key>→</key>."
+"κρατήστε πατημένο το πλήκτρο <key xref=\"keyboard-key-super\">λογότυπου</key> "
+"και πατήστε <key>→</key>."
 
-#: C/move-windows.page:69(div/p) C/move-windows.page:137(item/p)
+#: C/move-windows.page:72(div/p) C/move-windows.page:144(item/p)
+#| msgid ""
+#| "To maximize a window along the left side of the screen, hold down the "
+#| "Super key and press <key>←</key>."
 msgid ""
-"To maximize a window along the left side of the screen, hold down the Super "
-"key and press <key>←</key>."
+"To maximize a window along the left side of the screen, hold down the <key "
+"xref=\"keyboard-key-super\">Super</key> key and press <key>←</key>."
 msgstr ""
 "Για μεγιστοποίηση ενός παραθύρου κατά μήκος της αριστερής πλευράς της "
-"οθόνης, κρατήστε πατημένο το πλήκτρο λογότυπου και πατήστε <key>←</key>."
+"οθόνης, κρατήστε πατημένο το πλήκτρο <key xref=\"keyboard-key-"
+"super\">λογότυπου</key> και πατήστε <key>←</key>."
 
-#: C/move-windows.page:73(div/p)
+#: C/move-windows.page:77(div/p)
+#| msgid ""
+#| "To move to a workspace which is below the current workspace, press "
+#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
 msgid ""
 "To move to a workspace which is below the current workspace, press "
-"<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key> </keyseq>."
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key></"
+"keyseq>."
 msgstr ""
 "Για μετακίνηση σε έναν χώρο εργασίας που είναι κάτω από τον τρέχοντα χώρο "
-"εργασίας, πατήστε <keyseq><key>Ctrl</key><key>Alt</key><key>↓</key> </"
-"keyseq>."
+"εργασίας, πατήστε <keyseq><key xref=\"keyboard-key-super\">πλήκτρο "
+"λογότυπου</key><key>πλήκτρο σελίδα κάτω</key></keyseq>."
 
-#: C/move-windows.page:78(div/p)
+#: C/move-windows.page:82(div/p)
+#| msgid ""
+#| "To move to a workspace which is above the current workspace, press "
+#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
 msgid ""
 "To move to a workspace which is above the current workspace, press "
-"<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key> </keyseq>."
+"<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Page Up</key></"
+"keyseq>."
 msgstr ""
 "Για μετακίνηση σε έναν χώρο εργασίας που είναι πάνω από τον τρέχοντα χώρο "
-"εργασίας, πατήστε <keyseq><key>Ctrl</key><key>Alt</key><key>↑</key> </"
-"keyseq>."
+"εργασίας, πατήστε <keyseq><key xref=\"keyboard-key-super\">πλήκτρο "
+"λογότυπου</key> <key>πλήκτρο σελίδας επάνω</key></keyseq>."
 
-#: C/move-windows.page:87(section/title)
+#: C/move-windows.page:91(section/title)
 msgid "Maximize and unmaximize windows"
 msgstr "Μεγιστοποίηση και απομεγιστοποίηση παραθύρων"
 
-#: C/move-windows.page:91(item/p)
+#: C/move-windows.page:95(item/p)
 msgid ""
 "To maximize a window so that it takes up all of the space on your desktop, "
 "grab the window's titlebar and drag it to the top of the screen."
@@ -1252,12 +1270,12 @@ msgstr ""
 "επιφάνεια εργασίας σας, πάρτε τη γραμμή τίτλου του παραθύρου και μεταφέρτε "
 "τον στη κορυφή της οθόνης."
 
-#: C/move-windows.page:94(item/p)
+#: C/move-windows.page:98(item/p)
 msgid "When the screen is highlighted, drop the window to maximize it."
 msgstr ""
 "Όταν η οθόνη επισημαίνεται, αποθέστε το παράθυρο για να το μεγιστοποιήσετε."
 
-#: C/move-windows.page:96(item/p)
+#: C/move-windows.page:100(item/p)
 msgid ""
 "To restore a window to its unmaximized size, grab the window's titlebar and "
 "drag it away from the edges of the screen."
@@ -1265,12 +1283,12 @@ msgstr ""
 "Για επαναφορά ενός παραθύρου στο απομεγιστοποιημένο μέγεθος του, πάρτε την "
 "γραμμή τίτλου του παραθύρου και απομακρύνετε την από τις άκρες της οθόνης."
 
-#: C/move-windows.page:103(section/title)
-#: C/switching-tasks.page:90(section/title)
+#: C/move-windows.page:107(section/title)
+#: C/switching-tasks.page:92(section/title)
 msgid "Tile windows"
 msgstr "Παράθεση παραθύρων"
 
-#: C/move-windows.page:107(item/p) C/switching-tasks.page:93(item/p)
+#: C/move-windows.page:111(item/p) C/switching-tasks.page:95(item/p)
 msgid ""
 "To maximize a window along a side of the screen, grab the window's titlebar "
 "and drag it to the left or right side of the screen."
@@ -1279,7 +1297,7 @@ msgstr ""
 "τη γραμμή τίτλου του παραθύρου και μεταφέρτε την στα αριστερά ή δεξιά της "
 "οθόνης."
 
-#: C/move-windows.page:109(item/p) C/switching-tasks.page:95(item/p)
+#: C/move-windows.page:113(item/p) C/switching-tasks.page:97(item/p)
 msgid ""
 "When half of the screen is highlighted, drop the window to maximize it along "
 "the selected side of the screen."
@@ -1287,7 +1305,7 @@ msgstr ""
 "Όταν επισημανθεί η μισή οθόνη, αποθέστε το παράθυρο για να το "
 "μεγιστοποιήσετε κατά μήκος της επιλεγμένης πλευράς της οθόνης."
 
-#: C/move-windows.page:111(item/p) C/switching-tasks.page:97(item/p)
+#: C/move-windows.page:115(item/p) C/switching-tasks.page:99(item/p)
 msgid ""
 "To maximize two windows side-by-side, grab the titlebar of the second window "
 "and drag it to the opposite side of the screen."
@@ -1295,7 +1313,7 @@ msgstr ""
 "Για μεγιστοποίηση δύο παραθύρων πλάι-πλάι, πάρτε τη γραμμή τίτλου του "
 "δεύτερου παραθύρου και μεταφέρτε την στην αντίθετη πλευρά της οθόνης."
 
-#: C/move-windows.page:113(item/p) C/switching-tasks.page:99(item/p)
+#: C/move-windows.page:117(item/p) C/switching-tasks.page:101(item/p)
 msgid ""
 "When half of the screen is highlighted, drop the window to maximize it along "
 "the opposite side of the screen."
@@ -1303,42 +1321,56 @@ msgstr ""
 "Όταν επισημανθεί η μισή οθόνη, αποθέστε το παράθυρο για να το "
 "μεγιστοποιήσετε κατά μήκος της αντίθετης πλευράς της οθόνης."
 
-#: C/move-windows.page:120(section/title)
+#: C/move-windows.page:124(section/title)
 msgid "Maximize and unmaximize windows using the keyboard"
 msgstr ""
 "Μεγιστοποίηση και απομεγιστοποίηση παραθύρων χρησιμοποιώντας ρο πληκτρολόγιο"
 
-#: C/move-windows.page:125(item/p)
+#: C/move-windows.page:130(item/p)
+#| msgid ""
+#| "To unmaximize a window using the keyboard, hold down the Super key and "
+#| "press <key>↓</key>."
 msgid ""
-"To unmaximize a window using the keyboard, hold down the Super key and press "
-"<key>↓</key>."
+"To unmaximize a window using the keyboard, hold down the <key xref="
+"\"keyboard-key-super\">Super</key> key and press <key>↓</key>."
 msgstr ""
 "Για απομεγιστοποίηση ενός παραθύρου χρησιμοποιώντας το πληκτρολόγιο, "
-"κρατήστε πατημένο το πλήκτρο λογότυπου και πατήστε <key>↓</key>."
+"κρατήστε πατημένο το πλήκτρο <key xref=\"keyboard-key-super\">λογότυπου</key> "
+"και πατήστε <key>↓</key>."
 
-#: C/move-windows.page:132(section/title)
+#: C/move-windows.page:138(section/title)
 msgid "Tile windows using the keyboard"
 msgstr "Παράθυρα παράθεσης χρησιμοποιώντας το πληκτρολόγιο"
 
-#: C/move-windows.page:144(section/title)
+#: C/move-windows.page:152(section/title)
 msgid "Switch workspaces using the keyboard"
 msgstr "Εναλλαγή χώρων εργασίας χρησιμοποιώντας το πληκτρολόγιο"
 
-#: C/move-windows.page:148(item/p)
+#: C/move-windows.page:156(item/p)
+#| msgid ""
+#| "To move to a workspace which is below the current workspace, press "
+#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key> </keyseq>."
 msgid ""
 "To move to a workspace which is below the current workspace, press "
-"<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key> </"
+"keyseq>."
 msgstr ""
 "Για μετακίνηση σε έναν χώρο εργασίας που είναι κάτω από τον τρέχοντα χώρο "
-"εργασίας, πατήστε <keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
+"εργασίας, πατήστε <keyseq><key xref=\"keyboard-key-super\">πλήκτρο "
+"λογότυπου</key><key>πλήκτρο σελίδας κάτω</key> </keyseq>."
 
-#: C/move-windows.page:150(item/p)
+#: C/move-windows.page:159(item/p)
+#| msgid ""
+#| "To move to a workspace which is above the current workspace, press "
+#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key> </keyseq>."
 msgid ""
 "To move to a workspace which is above the current workspace, press "
-"<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Up</key> </"
+"keyseq>."
 msgstr ""
 "Για μετακίνηση σε έναν χώρο εργασίας που είναι πάνω από τον τρέχοντα χώρο "
-"εργασίας, πατήστε <keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
+"εργασίας, πατήστε <keyseq><key xref=\"keyboard-key-super\">πλήκτρο "
+"λογότυπου</key><key>πλήκτρο σελίδας επάνω</key> </keyseq>."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -1799,11 +1831,11 @@ msgid "Switch tasks"
 msgstr "Εναλλαγή εργασιών"
 
 #: C/switching-tasks.page:19(page/title)
-#: C/switching-tasks.page:78(section/title)
+#: C/switching-tasks.page:80(section/title)
 msgid "Switch tasks"
 msgstr "Εναλλαγή εργασιών"
 
-#: C/switching-tasks.page:81(item/p)
+#: C/switching-tasks.page:83(item/p)
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen to show the <gui>Activities Overview</gui> where you can see "
@@ -1814,32 +1846,53 @@ msgstr ""
 "gui>, όπου μπορείτε να δείτε τις τρέχουσες εκτελούμενες εργασίες που "
 "εμφανίζονται ως μικρά παράθυρα."
 
-#: C/switching-tasks.page:106(section/title)
+#: C/switching-tasks.page:108(section/title)
 msgid "Switch between windows"
 msgstr "Εναλλαγή μεταξύ παραθύρων"
 
-#: C/switching-tasks.page:109(item/p)
-msgid ""
-"Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the <gui>Window "
-"Switcher</gui>, which lists the currently open windows."
-msgstr ""
-"Πατήστε <keyseq><key>Alt</key><key>στηλοθέτης</key></keyseq> για να "
-"προβάλετε τον <gui>Εναλλάκτη παραθύρων</gui>, που εμφανίζει τα τρέχοντα "
-"ανοικτά παράθυρα."
-
 #: C/switching-tasks.page:111(item/p)
+#| msgid ""
+#| "Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the "
+#| "<gui>Window Switcher</gui>, which lists the currently open windows."
 msgid ""
-"Release <key>Alt</key> to select the next highlighted window in the Window "
-"Switcher."
+"Press <keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Tab</key></"
+"keyseq> to show the <gui>window switcher</gui>, which lists the currently "
+"open windows."
 msgstr ""
-"Απελευθερώστε το <key>Alt</key> για να επιλέξτε το επόμενο επισημασμένο "
-"παράθυρο στον εναλλάκτη παραθύρων."
+"Πατήστε <keyseq><key xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key> "
+"<key>στηλοθέτης</key></keyseq> για να προβάλετε τον <gui>εναλλάκτη "
+"παραθύρων</gui>, που εμφανίζει τα τρέχοντα ανοικτά παράθυρα."
 
-#: C/switching-tasks.page:120(section/title)
+#: C/switching-tasks.page:114(item/p)
+#| msgid ""
+#| "Release <key>Alt</key> to select the next highlighted window in the "
+#| "Window Switcher."
+msgid ""
+"Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
+"highlighted window in the <gui>window switcher</gui>."
+msgstr ""
+"Απελευθερώστε το <key xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key> για "
+"να επιλέξτε το επόμενο επισημασμένο παράθυρο στον <gui>εναλλάκτη "
+"παραθύρων</gui>."
+
+#: C/switching-tasks.page:116(item/p)
+#| msgid ""
+#| "To cycle through the list of open windows, do not release <key>Alt</key> "
+#| "but hold it down, and press <key>Tab</key>."
+msgid ""
+"To cycle through the list of open windows, do not release <key xref="
+"\"keyboard-key-super\">Super</key> but hold it down, and press <key> Tab</"
+"key>."
+msgstr ""
+"Για να περιηγηθείτε στη λίστα των ανοικτών παραθύρων, μην αφήσετε το <key "
+"xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key>, αλλά κρατήστε το πατημένο "
+"και πατήστε <key>στηλοθέτης</key>."
+
+#: C/switching-tasks.page:124(section/title)
 msgid "Use search to switch applications"
 msgstr "Χρησιμοποιήστε την αναζήτηση για εναλλαγή εφαρμογών"
 
-#: C/switching-tasks.page:125(item/p)
+#: C/switching-tasks.page:129(item/p)
 msgid ""
 "Just start typing the name of the application you want to switch to. "
 "Applications matching what you have typed will appear as you type."
@@ -1848,7 +1901,7 @@ msgstr ""
 "αλλάξετε. Οι εφαρμογές που ταιριάζουν αυτό που πληκτρολογείτε θα εμφανιστούν "
 "καθώς πληκτρολογείτε."
 
-#: C/switching-tasks.page:128(item/p)
+#: C/switching-tasks.page:132(item/p)
 msgid ""
 "When the application that you want to switch to appears as the first result, "
 "press <key>Enter</key> to switch to it."
@@ -2207,9 +2260,3 @@ msgstr "Πλανήτης GNOME"
 
 #~ msgid "Getting Started with GNOME"
 #~ msgstr "Ξεκινώντας με το GNOME"
-
-#~ msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
-#~ msgstr "Creative Commons Attribution-ShareAlike 3.0 Unported License"
-
-#~ msgid "This work is licensed under a <_:link-1/>."
-#~ msgstr "Αυτό το έργο έχει αδειοδοτηθεί με το <_:link-1/>."
