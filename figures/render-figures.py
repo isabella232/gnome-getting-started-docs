@@ -32,5 +32,5 @@ for fname in glob.glob('*svg'):
   svg = ElementTree.parse(TEMP)
   rebrand(fname, "BLANK") #BLANK, GNOME, RHEL7
   #relativizeSize(fname)
-  svg.write('../getting-started/C/%s' % (fname))
+  svg.write('../gnome-help/C/%s' % (fname))
   os.unlink(TEMP)
