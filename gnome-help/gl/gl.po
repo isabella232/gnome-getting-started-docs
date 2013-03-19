@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-02-25 18:47+0000\n"
-"PO-Revision-Date: 2013-03-05 15:07+0200\n"
+"POT-Creation-Date: 2013-03-18 23:28+0000\n"
+"PO-Revision-Date: 2013-03-19 11:35+0200\n"
 "Last-Translator: Fran Dieguez <frandieguez@gnome.org>\n"
 "Language-Team: gnome-l10n-gl@gnome.org\n"
 "Language: gl\n"
@@ -22,102 +22,17 @@ msgctxt "_"
 msgid "translator-credits"
 msgstr "Fran Diéguez <frandieguez@gnome.org>, 2013."
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/index.page:17(media) C/launch-apps.page:23(media)
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-launching-applications.webm' "
-"md5='16609de3c9d4b91ba3e7a5785863a05a'"
-msgstr ""
-"external ref='figures/gnome-launching-applications.webm' "
-"md5='16609de3c9d4b91ba3e7a5785863a05a'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/index.page:24(media) C/switching-tasks.page:21(media)
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-task-switching.webm' "
-"md5='edf94b461a60c8683e2d64f778949739'"
-msgstr ""
-"external ref='figures/gnome-task-switching.webm' "
-"md5='edf94b461a60c8683e2d64f778949739'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/index.page:30(media) C/responding-to-messages.page:21(media)
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-responding-to-messages.webm' "
-"md5='8f82d09463e5d8381b790cf94f4bfd00'"
-msgstr ""
-"external ref='figures/gnome-responding-to-messages.webm' "
-"md5='8f82d09463e5d8381b790cf94f4bfd00'"
-
-#: C/index.page:9(info/desc)
-msgid "Getting Started with GNOME"
-msgstr "Comezar con GNOME"
-
-#: C/index.page:10(info/title)
-msgctxt "link"
-msgid "Getting Started with GNOME"
-msgstr "Comezar con GNOME"
-
-#: C/index.page:11(info/title)
-msgctxt "text"
+#: C/index.page:8(page/title) C/animation.xml:5(titles/t)
+#: C/getting-started.page:14(page/title)
 msgid "Getting Started"
 msgstr "Comezando"
-
-#: C/index.page:14(page/title) C/animation.xml:5(titles/t)
-msgid "Getting Started"
-msgstr "Comezando"
-
-#: C/index.page:37(links/title)
-msgid "Common Tasks"
-msgstr "Tarefas comúns"
 
 #: C/animation.xml:3(titles/t)
 msgid "Welcome"
 msgstr "Benvida"
 
-#: C/animation.xml:4(titles/t) C/launch-apps.page:28(div/p)
+#: C/animation.xml:4(titles/t) C/getting-started.page:25(div/p)
+#: C/launch-apps.page:28(div/p)
 msgid "Launching Applications"
 msgstr "Iniciando aplicativos"
 
@@ -125,15 +40,18 @@ msgstr "Iniciando aplicativos"
 msgid "Changing Wallpaper"
 msgstr "Cambiando o fondo de pantalla"
 
-#: C/animation.xml:7(titles/t)
+#: C/animation.xml:7(titles/t) C/getting-started.page:127(div/p)
+#: C/responding-to-messages.page:26(div/p)
 msgid "Responding to Messages"
 msgstr "Respondendo unha mensaxe"
 
-#: C/animation.xml:8(titles/t) C/switching-tasks.page:26(div/p)
+#: C/animation.xml:8(titles/t) C/getting-started.page:64(div/p)
+#: C/switching-tasks.page:26(div/p)
 msgid "Switching Tasks"
 msgstr "Cambiando entre tarefas"
 
-#: C/animation.xml:9(titles/t)
+#: C/animation.xml:9(titles/t) C/getting-started.page:141(div/p)
+#: C/responding-to-messages.page:40(div/p)
 msgid "Delayed Response"
 msgstr "Responsa posposta"
 
@@ -290,14 +208,6 @@ msgstr "Preferencias de data e hora"
 msgid "Automatic Date and Time"
 msgstr "Data e hora automática"
 
-#: C/legal.xml:3(p/link)
-msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
-msgstr "Creative Commons Atribución-CompartirIgual 3.0 Licenza non portada"
-
-#: C/legal.xml:3(license/p)
-msgid "This work is licensed under a <_:link-1/>."
-msgstr "Este traballo está baixo a licenza <_:link-1/>."
-
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
@@ -316,16 +226,16 @@ msgctxt "_"
 msgid "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
 msgstr "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
 
-#: C/browse-web.page:10(credit/name) C/change-wallpaper.page:10(credit/name)
-#: C/change-time.page:10(credit/name) C/launch-apps.page:10(credit/name)
+#: C/browse-web.page:10(credit/name) C/change-time.page:10(credit/name)
+#: C/change-wallpaper.page:10(credit/name) C/launch-apps.page:10(credit/name)
 #: C/move-windows.page:9(credit/name) C/online-accounts.page:9(credit/name)
 #: C/online.page:9(credit/name) C/responding-to-messages.page:10(credit/name)
 #: C/switching-tasks.page:9(credit/name) C/use-search.page:9(credit/name)
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
-#: C/browse-web.page:13(credit/name) C/change-wallpaper.page:13(credit/name)
-#: C/change-time.page:13(credit/name) C/launch-apps.page:13(credit/name)
+#: C/browse-web.page:13(credit/name) C/change-time.page:13(credit/name)
+#: C/change-wallpaper.page:13(credit/name) C/launch-apps.page:13(credit/name)
 #: C/move-windows.page:12(credit/name) C/online-accounts.page:12(credit/name)
 #: C/online.page:12(credit/name) C/responding-to-messages.page:13(credit/name)
 #: C/switching-tasks.page:12(credit/name) C/use-search.page:12(credit/name)
@@ -411,14 +321,115 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
+#: C/change-time.page:21(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-timezone.webm' "
+#| "md5='57a4ee4ef7cc7cb37ba03e1f3686666a'"
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-timezone.webm' "
+"md5='79089b60be438a6e6b0505f06679cebe'"
+msgstr ""
+"external ref='figures/gnome-timezone.webm' "
+"md5='79089b60be438a6e6b0505f06679cebe'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/change-time.page:22(media)
+msgctxt "_"
+msgid ""
+"external ref='thumb-timezone.svg' md5='42ffa67597e33e89eb5d7e31eed50e9e'"
+msgstr ""
+"external ref='thumb-timezone.svg' md5='42ffa67597e33e89eb5d7e31eed50e9e'"
+
+#: C/change-time.page:16(info/title)
+msgctxt "link:trail"
+msgid "Change the date, time and timezone"
+msgstr "Cambiar a data, hora e fuso horario"
+
+#: C/change-time.page:19(page/title) C/change-time.page:49(section/title)
+msgid "Change the date, time and timezone"
+msgstr "Cambiar a data, hora e fuso horario"
+
+#: C/change-time.page:26(div/p)
+msgid "Changing Date &amp; Time"
+msgstr "Cambiar a data e hora"
+
+#: C/change-time.page:29(div/p) C/change-time.page:52(item/p)
+msgid "Click the clock on the top bar."
+msgstr "Prema no reloxo desde a barra superior."
+
+#: C/change-time.page:32(div/p) C/change-time.page:53(item/p)
+msgid "Select the <gui>Date &amp; Time Settings</gui> item."
+msgstr "Seleccione o elemento <gui>Preferencias de data e hora</gui>."
+
+#: C/change-time.page:35(div/p) C/change-time.page:57(item/p)
+msgid "Click on your location on the map."
+msgstr "Prema na localización do mapa."
+
+#: C/change-time.page:38(div/p)
+msgid ""
+"You can adjust the date and time by clicking on the arrows to choose the "
+"hour, minute, and year."
+msgstr ""
+"Pode axustar a data e hora premendo sobre as frechas para escoller a hora, "
+"minuto e ano."
+
+#: C/change-time.page:42(div/p)
+msgid "Close the window."
+msgstr "Pechar a xanela."
+
+#: C/change-time.page:54(item/p)
+msgid ""
+"You may need to click the <gui>Unlock</gui> button and type the "
+"administrator's password."
+msgstr ""
+"Posibelmente deba ter que premer o botón <gui>Desbloquear</gui> e escribir o "
+"contrasinal de administrador"
+
+#: C/change-time.page:58(item/p)
+#| msgid ""
+#| "This selects your current city, which you can also see in the drop-down "
+#| "list below the map."
+msgid ""
+"This selects your current city, which you can also see and change in the "
+"drop-down list below the map."
+msgstr ""
+"Isto selecciona a súa cidade actual, aínda que tamén o pode ver na lista "
+"despregábel embaixo do mapa."
+
+#: C/change-time.page:60(item/p)
+msgid ""
+"On the left-hand side of the window, you can adjust the date and time by "
+"clicking on the arrows to choose the hour, minute, and year."
+msgstr ""
+"Na parte dereita da xanela, pode axustar a data e hora premendo sobre as "
+"frechas para seleccionar a hora, minuto e ano."
+
+#: C/change-time.page:63(item/p)
+msgid ""
+"Close the window by clicking the cross at the top-right corner of the window."
+msgstr "Peche a xanela premendo a cruz na esquina superior dereita da xanela."
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
 #: C/change-wallpaper.page:21(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-change-wallpaper.webm' "
+#| "md5='9217e7043891d8077dae3204f2c26182'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-change-wallpaper.webm' "
-"md5='9217e7043891d8077dae3204f2c26182'"
+"md5='edf1a698f4da87db90f00b9b15897483'"
 msgstr ""
 "external ref='figures/gnome-change-wallpaper.webm' "
-"md5='9217e7043891d8077dae3204f2c26182'"
+"md5='edf1a698f4da87db90f00b9b15897483'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -493,91 +504,318 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/change-time.page:21(media)
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/getting-started.page:18(media) C/launch-apps.page:23(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-launching-applications.webm' "
+#| "md5='16609de3c9d4b91ba3e7a5785863a05a'"
 msgctxt "_"
 msgid ""
-"external ref='figures/gnome-timezone.webm' "
-"md5='57a4ee4ef7cc7cb37ba03e1f3686666a'"
+"external ref='figures/gnome-launching-applications.webm' "
+"md5='074a675216f03881c0afb428d576eae3'"
 msgstr ""
-"external ref='figures/gnome-timezone.webm' "
-"md5='57a4ee4ef7cc7cb37ba03e1f3686666a'"
+"external ref='figures/gnome-launching-applications.webm' "
+"md5='074a675216f03881c0afb428d576eae3'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/change-time.page:22(media)
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/getting-started.page:57(media) C/switching-tasks.page:21(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-task-switching.webm' "
+#| "md5='edf94b461a60c8683e2d64f778949739'"
 msgctxt "_"
 msgid ""
-"external ref='thumb-timezone.svg' md5='42ffa67597e33e89eb5d7e31eed50e9e'"
+"external ref='figures/gnome-task-switching.webm' "
+"md5='457a511b6086fe787e3b589717021a55'"
 msgstr ""
-"external ref='thumb-timezone.svg' md5='42ffa67597e33e89eb5d7e31eed50e9e'"
+"external ref='figures/gnome-task-switching.webm' "
+"md5='457a511b6086fe787e3b589717021a55'"
 
-#: C/change-time.page:16(info/title)
-msgctxt "link:trail"
-msgid "Change the date, time and timezone"
-msgstr "Cambiar a data, hora e fuso horario"
-
-#: C/change-time.page:19(page/title) C/change-time.page:49(section/title)
-msgid "Change the date, time and timezone"
-msgstr "Cambiar a data, hora e fuso horario"
-
-#: C/change-time.page:26(div/p)
-msgid "Changing Date &amp; Time"
-msgstr "Cambiar a data e hora"
-
-#: C/change-time.page:29(div/p) C/change-time.page:52(item/p)
-msgid "Click the clock on the top bar."
-msgstr "Prema no reloxo desde a barra superior."
-
-#: C/change-time.page:32(div/p) C/change-time.page:53(item/p)
-msgid "Select the <gui>Date &amp; Time Settings</gui> item."
-msgstr "Seleccione o elemento <gui>Preferencias de data e hora</gui>."
-
-#: C/change-time.page:35(div/p) C/change-time.page:57(item/p)
-msgid "Click on your location on the map."
-msgstr "Prema na localización do mapa."
-
-#: C/change-time.page:38(div/p)
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/getting-started.page:120(media) C/responding-to-messages.page:21(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-responding-to-messages.webm' "
+#| "md5='8f82d09463e5d8381b790cf94f4bfd00'"
+msgctxt "_"
 msgid ""
-"You can adjust the date and time by clicking on the arrows to choose the "
-"hour, minute, and year."
+"external ref='figures/gnome-responding-to-messages.webm' "
+"md5='ac44de55fba93ce64551c90fd6d30804'"
 msgstr ""
-"Pode axustar a data e hora premendo sobre as frechas para escoller a hora, "
-"minuto e ano."
+"external ref='figures/gnome-responding-to-messages.webm' "
+"md5='ac44de55fba93ce64551c90fd6d30804'"
 
-#: C/change-time.page:42(div/p)
-msgid "Close the window."
-msgstr "Pechar a xanela."
+#: C/getting-started.page:9(info/desc)
+msgid "New to GNOME? Learn how to get around."
+msgstr "É novo en GNOME? Aprenda a como moverse."
 
-#: C/change-time.page:54(item/p)
+#: C/getting-started.page:10(info/title)
+msgctxt "link"
+msgid "Getting Started with GNOME"
+msgstr "Comezar con GNOME"
+
+#: C/getting-started.page:11(info/title)
+msgctxt "text"
+msgid "Getting Started"
+msgstr "Comezando"
+
+#: C/getting-started.page:20(caption/desc)
+#| msgid "Launch applications"
+msgid "Launch Applications"
+msgstr "Iniciar aplicativos"
+
+#: C/getting-started.page:28(div/p) C/getting-started.page:67(div/p)
+#: C/launch-apps.page:31(div/p) C/switching-tasks.page:29(div/p)
 msgid ""
-"You may need to click the <gui>Unlock</gui> button and type the "
-"administrator's password."
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen."
 msgstr ""
-"Posibelmente deba ter que premer o botón <gui>Desbloquear</gui> e escribir o "
-"contrasinal de administrador"
+"Mova o punteiro do seu rato á esquina <gui>Actividades</gui> na parte "
+"superior esquerda da pantalla."
 
-#: C/change-time.page:58(item/p)
+#: C/getting-started.page:32(div/p) C/launch-apps.page:35(div/p)
+msgid "Click the <gui>Show Applications</gui> item."
+msgstr "Prema no elemento <gui>Mostrar aplicativos</gui>."
+
+#: C/getting-started.page:35(div/p) C/launch-apps.page:38(div/p)
+msgid "Click the application you want to run, for example, Help."
+msgstr "Prema sobre o aplicativo que queira executar, por exemplo, «Axuda»."
+
+#: C/getting-started.page:39(div/p) C/launch-apps.page:42(div/p)
 msgid ""
-"This selects your current city, which you can also see in the drop-down list "
-"below the map."
+"Use the keyboard to open the <gui>Activities Overview</gui> <span begin=\"3s"
+"\">by pressing the <key>Super</key> key. </span>"
 msgstr ""
-"Isto selecciona a súa cidade actual, aínda que tamén o pode var na lista "
-"despregábel embaixo do mapa."
+"Use o teclado para abrir a <gui>Vista xeral de Actividades</gui> <span begin="
+"\"3s\">premendo a tecla <key>Super</key>.</span>"
 
-#: C/change-time.page:60(item/p)
+#: C/getting-started.page:44(div/p) C/launch-apps.page:47(div/p)
+msgid "Start typing the name of the application you want to launch."
+msgstr "Comece a escribir o nome do aplicativo que quere iniciar."
+
+#: C/getting-started.page:48(div/p) C/launch-apps.page:51(div/p)
+msgid "Press <key>Enter</key> to launch the application."
+msgstr "Prema <key>Intro</key> para iniciar o aplicativo."
+
+#: C/getting-started.page:59(caption/desc)
+#| msgid "Switch tasks"
+msgid "Switch Tasks"
+msgstr "Cambiar entre tarefas"
+
+#: C/getting-started.page:71(div/p) C/switching-tasks.page:33(div/p)
+#: C/switching-tasks.page:86(item/p)
+msgid "Click a window to switch the task."
+msgstr "Prema unha xanela para cambiar a tarefa"
+
+#: C/getting-started.page:74(div/p) C/move-windows.page:43(div/p)
+#: C/switching-tasks.page:36(div/p)
 msgid ""
-"On the left-hand side of the window, you can adjust the date and time by "
-"clicking on the arrows to choose the hour, minute, and year."
+"To maximize a window along the left side of the screen, grab the window's "
+"titlebar and drag it to the left."
 msgstr ""
-"Na parte dereita da xanela, pode axustar a data e hora premendo sobre as "
-"frechas para seleccionar a hora, minuto e ano."
+"Para maximizar unha xanela á parte esquerda da pantalla, arrastre a barra de "
+"título da xanela e arrástrea cara a esquerda."
 
-#: C/change-time.page:63(item/p)
+#: C/getting-started.page:78(div/p) C/getting-started.page:85(div/p)
+#: C/move-windows.page:47(div/p) C/move-windows.page:54(div/p)
+#: C/switching-tasks.page:40(div/p) C/switching-tasks.page:47(div/p)
+msgid "When half of the screen is highlighted, drop the window."
+msgstr "Cando se realce a metade da pantalla, solte a xanela."
+
+#: C/getting-started.page:81(div/p) C/switching-tasks.page:43(div/p)
 msgid ""
-"Close the window by clicking the cross at the top-right corner of the window."
-msgstr "Peche a xanela premendo a cruz na esquina superior dereita da xanela."
+"To maximize a window along the right side, grab the window's titlebar and "
+"drag it to the right."
+msgstr ""
+"Para maximizar unha xanela á parte dereita, arrastre a barra de título da "
+"xanela e arrástrea cara a dereita."
+
+#: C/getting-started.page:88(div/p) C/switching-tasks.page:50(div/p)
+#| msgid ""
+#| "Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the "
+#| "<gui>Window Switcher</gui>."
+msgid ""
+"Press <keyseq><key xref=\"keyboard-key-super\">Super</key><key> Tab</key></"
+"keyseq> to show the <gui>window switcher</gui>."
+msgstr ""
+"Prema <keyseq><key xref=\"keyboard-key-super\">Super</key><key> "
+"Tab</key></keyseq> para mostrar o <gui>trocador de xanelas</gui>."
+
+#: C/getting-started.page:92(div/p) C/switching-tasks.page:54(div/p)
+#| msgid "Release <key>Alt</key> to select the next highlighted window."
+msgid ""
+"Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
+"highlighted window."
+msgstr ""
+"Solte a tecla <key xref=\"keyboard-key-super\">Super</key> para seleccionar a "
+"seguinte xanela realzada."
+
+#: C/getting-started.page:97(div/p) C/switching-tasks.page:59(div/p)
+#| msgid ""
+#| "To cycle through the list of open windows, do not release <key>Alt</key> "
+#| "but hold it down, and press <key>Tab</key>."
+msgid ""
+"To cycle through the list of open windows, do not release <key xref="
+"\"keyboard-key-super\">Super</key> but hold it down, and press <key>Tab</"
+"key>."
+msgstr ""
+"Para moverse pola lista de xanelas abertas, prema e manteña a tecla <key "
+"xref=\"keyboard-key-super\">Super</key> e logo prema <key>Tab</key>. "
+
+#: C/getting-started.page:102(div/p) C/switching-tasks.page:64(div/p)
+#: C/switching-tasks.page:127(item/p)
+#| msgid ""
+#| "Press the <key>Super</key> key to show the <gui>Activities Overview</gui>."
+msgid ""
+"Press the <key xref=\"keyboard-key-super\">Super</key> key to show the "
+"<gui>Activities Overview</gui>."
+msgstr ""
+"Prema a tecla <key xref=\"keyboard-key-super\">Super</key> para mostrar a "
+"<gui>Vista xeral de actividades</gui>."
+
+#: C/getting-started.page:106(div/p) C/switching-tasks.page:68(div/p)
+msgid "Start typing the name of the application you want to switch to."
+msgstr "Comece a escribir o nome do aplicativo ao que quere cambiar."
+
+#: C/getting-started.page:110(div/p) C/switching-tasks.page:72(div/p)
+msgid ""
+"When the application appears as the first result, press <key> Enter</key> to "
+"switch to it."
+msgstr ""
+"Cando o aplicativo apareza como primeiro resultado, prema <key>Intro</key> "
+"para cambiar a el."
+
+#: C/getting-started.page:122(caption/desc)
+#: C/responding-to-messages.page:19(page/title)
+msgid "Respond to messages"
+msgstr "Responder unha mensaxe"
+
+#: C/getting-started.page:130(div/p) C/responding-to-messages.page:29(div/p)
+#: C/responding-to-messages.page:86(item/p)
+#| msgid ""
+#| "Move your mouse to the message tray that can found at the bottom of the "
+#| "screen and click the chat message."
+msgid ""
+"Move your mouse to the message tray at the bottom of the screen and click "
+"the chat message."
+msgstr ""
+"Mova o seu rato á bandexa de mensaxes na parte inferior da pantalla e prema "
+"na mensaxe de chat."
+
+#: C/getting-started.page:134(div/p) C/responding-to-messages.page:33(div/p)
+#| msgid ""
+#| "Start typing your reply and when finished, press <key>Enter</key> to send "
+#| "the reply."
+msgid ""
+"Start typing your reply and when finished, press <key>Enter </key> to send "
+"the reply."
+msgstr ""
+"Comece a escribir a súa resposta e ao rematar prema <key>Intro</key> para "
+"enviala."
+
+#: C/getting-started.page:138(div/p) C/getting-started.page:159(div/p)
+#: C/responding-to-messages.page:37(div/p)
+#: C/responding-to-messages.page:58(div/p)
+#| msgid "Press <key>Esc</key> to close the chat message."
+msgid "Close the chat message."
+msgstr "Peche a mensaxe de chat."
+
+#: C/getting-started.page:144(div/p) C/responding-to-messages.page:43(div/p)
+#| msgid ""
+#| "When a chat message appears in the message tray and you do not move your "
+#| "mouse to the message tray, the message disappears after a while."
+msgid ""
+"A chat message in the message tray disappears after a while if you do not "
+"move your mouse to the message tray."
+msgstr ""
+"Unha mensaxe de chat na bandexa de mensaxes desaparece despois dun tempo se "
+"non move o rato á bandexa de mensaxes."
+
+#: C/getting-started.page:148(div/p) C/responding-to-messages.page:47(div/p)
+#| msgid ""
+#| "To get back to your unanswered message, move your mouse to the message "
+#| "tray at the very bottom of the screen."
+msgid ""
+"To get back to your unanswered message, move your mouse to the message tray."
+msgstr ""
+"Para voltar ao seu mensaxe sen resposta, mova o seu rato á bandexa de "
+"mensaxes."
+
+#: C/getting-started.page:152(div/p) C/responding-to-messages.page:51(div/p)
+msgid "Click the person who sent you the message."
+msgstr "Prema na persoa que lle enviou o mensaxe."
+
+#: C/getting-started.page:155(div/p) C/getting-started.page:170(div/p)
+#: C/responding-to-messages.page:54(div/p)
+#: C/responding-to-messages.page:69(div/p)
+#| msgid ""
+#| "Start typing your reply and when finished, press <key>Enter</key> to send "
+#| "the reply."
+msgid "Start typing your reply and when finished, press <key>Enter </key>."
+msgstr "Comece a escribir a súa resposta e ao rematar prema <key>Intro</key>."
+
+#: C/getting-started.page:162(div/p) C/responding-to-messages.page:61(div/p)
+#| msgid ""
+#| "To dismiss the message tray, press <key>Esc</key> or <keyseq><key>Super</"
+#| "key><key>M</key></keyseq>."
+msgid ""
+"To show the message tray, press <keyseq><key>Super</key><key>M </key></"
+"keyseq>"
+msgstr ""
+"Para quitar a bandexa de entrada prema <keyseq><key>Super</key><key>M "
+"</key></keyseq>"
+
+#: C/getting-started.page:166(div/p) C/responding-to-messages.page:65(div/p)
+#| msgid ""
+#| "Use the arrow keys to select a small image representing the person you "
+#| "want to reply to, and press <key>Enter</key>."
+msgid ""
+"Use the arrow keys to select the person you want to reply to, and press "
+"<key>Enter</key>."
+msgstr ""
+"Use as teclas de frecha para seleccionar a persoa á que quere responder, e "
+"prema <key>Intro</key>."
+
+#: C/getting-started.page:174(div/p) C/responding-to-messages.page:73(div/p)
+#: C/responding-to-messages.page:125(item/p)
+msgid "Press <key>Esc</key> to close the chat message."
+msgstr "Prema <key>Esc</key> para pechar a mensaxe de chat."
+
+#: C/getting-started.page:177(div/p) C/responding-to-messages.page:76(div/p)
+#| msgid ""
+#| "To dismiss the message tray, press <key>Esc</key> or <keyseq><key>Super</"
+#| "key><key>M</key></keyseq>."
+msgid "To dismiss the message tray, press <key>Esc</key>."
+msgstr "Para omitir a bandexa de entrada, prema <key>Esc</key>."
+
+#: C/getting-started.page:186(links/title)
+msgid "Common Tasks"
+msgstr "Tarefas comúns"
+
+#: C/getting-started.page:190(links/title)
+msgid "Learn More"
+msgstr "Aprender máis"
 
 #: C/goa1.svg:20(Work/format) C/goa2.svg:29(Work/format)
 #: C/goa3.svg:29(Work/format) C/goa4.svg:23(Work/format)
@@ -829,18 +1067,13 @@ msgstr "Privado"
 msgid "Weak"
 msgstr "Débil"
 
-#: C/install-software.page:9(info/title)
-msgctxt "link:trail"
-msgid "Get additional applications"
-msgstr "Obter aplicativos adicionais"
+#: C/gs-legal.xml:3(p/link)
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+msgstr "Creative Commons Atribución-CompartirIgual 3.0 Licenza non portada"
 
-#: C/install-software.page:12(page/title)
-msgid "Get additional applications"
-msgstr "Obter aplicativos adicionais"
-
-#: C/install-software.page:14(page/p)
-msgid "Stay tuned..."
-msgstr "Mantéñase atento…"
+#: C/gs-legal.xml:3(license/p)
+msgid "This work is licensed under a <_:link-1/>."
+msgstr "Este traballo está baixo a licenza <_:link-1/>."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -863,38 +1096,6 @@ msgstr "Iniciar aplicativos"
 #: C/launch-apps.page:21(page/title)
 msgid "Launch applications"
 msgstr "Iniciar aplicativos"
-
-#: C/launch-apps.page:31(div/p) C/switching-tasks.page:29(div/p)
-msgid ""
-"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
-"of the screen."
-msgstr ""
-"Mova o punteiro do seu rato á esquina <gui>Actividades</gui> na parte "
-"superior esquerda da pantalla."
-
-#: C/launch-apps.page:35(div/p)
-msgid "Click the <gui>Show Applications</gui> item."
-msgstr "Prema no elemento <gui>Mostrar aplicativos</gui>."
-
-#: C/launch-apps.page:38(div/p)
-msgid "Click the application you want to run, for example, Help."
-msgstr "Prema sobre o aplicativo que queira executar, por exemplo, «Axuda»."
-
-#: C/launch-apps.page:42(div/p)
-msgid ""
-"Use the keyboard to open the <gui>Activities Overview</gui> <span begin=\"3s"
-"\">by pressing the <key>Super</key> key. </span>"
-msgstr ""
-"Use o teclado para abrir a <gui>Vista xeral de Actividades</gui> <span begin="
-"\"3s\">premendo a tecla <key>Super</key>.</span>"
-
-#: C/launch-apps.page:47(div/p)
-msgid "Start typing the name of the application you want to launch."
-msgstr "Comece a escribir o nome do aplicativo que quere iniciar."
-
-#: C/launch-apps.page:51(div/p)
-msgid "Press <key>Enter</key> to launch the application."
-msgstr "Prema <key>Intro</key> para iniciar o aplicativo."
 
 #: C/launch-apps.page:58(section/title)
 msgid "Launch applications with the mouse"
@@ -949,13 +1150,17 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/move-windows.page:20(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-windows-and-workspaces.webm' "
+#| "md5='77cd38321095b0ecb2d41ab18ed9794f'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='77cd38321095b0ecb2d41ab18ed9794f'"
+"md5='2804904c3fd3928ba9ad794448ab4149'"
 msgstr ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='77cd38321095b0ecb2d41ab18ed9794f'"
+"md5='2804904c3fd3928ba9ad794448ab4149'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -1005,19 +1210,6 @@ msgid ""
 msgstr ""
 "Tamén pode premer a barra superior para quitar a xanela para restaurala."
 
-#: C/move-windows.page:43(div/p) C/switching-tasks.page:36(div/p)
-msgid ""
-"To maximize a window along the left side of the screen, grab the window's "
-"titlebar and drag it to the left."
-msgstr ""
-"Para maximizar unha xanela á parte esquerda da pantalla, arrastre a barra de "
-"título da xanela e arrástrea cara a esquerda."
-
-#: C/move-windows.page:47(div/p) C/move-windows.page:54(div/p)
-#: C/switching-tasks.page:40(div/p) C/switching-tasks.page:47(div/p)
-msgid "When half of the screen is highlighted, drop the window."
-msgstr "Cando se realce a metade da pantalla, solte a xanela."
-
 #: C/move-windows.page:50(div/p)
 msgid ""
 "To maximize a window along the right side of the screen, grab the window's "
@@ -1026,59 +1218,82 @@ msgstr ""
 "Para maximizar unha xanela á parte dereita da pantalla, arrastre a barra de "
 "título da xanela e arrástrea cara a dereita."
 
-#: C/move-windows.page:57(div/p) C/move-windows.page:123(item/p)
+#: C/move-windows.page:57(div/p) C/move-windows.page:127(item/p)
+#| msgid ""
+#| "To maximize a window using the keyboard, hold down the Super key and "
+#| "press <key>↑</key>."
 msgid ""
-"To maximize a window using the keyboard, hold down the Super key and press "
-"<key>↑</key>."
+"To maximize a window using the keyboard, hold down the <key xref=\"keyboard-"
+"key-super\">Super</key> key and press <key>↑</key>."
 msgstr ""
-"Para maximizar unha xanela usando o teclado, manteña premida a tecla Super e "
-"prema <key>↑</key>."
+"Para maximizar unha xanela usando o teclado, manteña premida a tecla <key "
+"xref=\"keyboard-key-super\">Super</key> e prema <key>↑</key>."
 
-#: C/move-windows.page:61(div/p)
+#: C/move-windows.page:62(div/p)
+#| msgid ""
+#| "To restore the window to its unmaximized size, hold down the Super key "
+#| "and press <key>↓</key>."
 msgid ""
-"To restore the window to its unmaximized size, hold down the Super key and "
-"press <key>↓</key>."
+"To restore the window to its unmaximized size, hold down the <key xref="
+"\"keyboard-key-super\">Super</key> key and press <key>↓</key>."
 msgstr ""
 "Para restaurar a xanela ao seu tamaño restaurado, manteña premida a tecla "
-"Super e prema <key>↓</key>."
+"<key xref=\"keyboard-key-super\">Super</key> e prema <key>↓</key>."
 
-#: C/move-windows.page:65(div/p) C/move-windows.page:135(item/p)
+#: C/move-windows.page:67(div/p) C/move-windows.page:141(item/p)
+#| msgid ""
+#| "To maximize a window along the right side of the screen, hold down the "
+#| "Super key and press <key>→</key>."
 msgid ""
-"To maximize a window along the right side of the screen, hold down the Super "
-"key and press <key>→</key>."
+"To maximize a window along the right side of the screen, hold down the <key "
+"xref=\"keyboard-key-super\">Super</key> key and press <key>→</key>."
 msgstr ""
 "Para maximizar unha xanela cara a parte dereita da pantalla, manteña premida "
-"a tecla Super e prema <key>→</key>."
+"a tecla <key xref=\"keyboard-key-super\">Super</key> e prema <key>→</key>."
 
-#: C/move-windows.page:69(div/p) C/move-windows.page:137(item/p)
+#: C/move-windows.page:72(div/p) C/move-windows.page:144(item/p)
+#| msgid ""
+#| "To maximize a window along the left side of the screen, hold down the "
+#| "Super key and press <key>←</key>."
 msgid ""
-"To maximize a window along the left side of the screen, hold down the Super "
-"key and press <key>←</key>."
+"To maximize a window along the left side of the screen, hold down the <key "
+"xref=\"keyboard-key-super\">Super</key> key and press <key>←</key>."
 msgstr ""
 "Para maximizar unha xanela cara a parte esquerda da pantalla, manteña "
-"premida a tecla Super e prema <key>←</key>."
+"premida a tecla <key xref=\"keyboard-key-super\">Super</key> e prema "
+"<key>←</key>."
 
-#: C/move-windows.page:73(div/p)
+#: C/move-windows.page:77(div/p)
+#| msgid ""
+#| "To move to a workspace which is below the current workspace, press "
+#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
 msgid ""
 "To move to a workspace which is below the current workspace, press "
-"<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key> </keyseq>."
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key></"
+"keyseq>."
 msgstr ""
 "Para moverse ao espazo de traballo que está embaixo do actual, prema "
-"<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key> </keyseq>."
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Avanzar "
+"Páxina</key></keyseq>."
 
-#: C/move-windows.page:78(div/p)
+#: C/move-windows.page:82(div/p)
+#| msgid ""
+#| "To move to a workspace which is above the current workspace, press "
+#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
 msgid ""
 "To move to a workspace which is above the current workspace, press "
-"<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key> </keyseq>."
+"<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Page Up</key></"
+"keyseq>."
 msgstr ""
 "Para moverse ao espazo de traballo que está enriba do actual, prema "
-"<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key> </keyseq>."
+"<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Retroceso "
+"Páxina</key></keyseq>."
 
-#: C/move-windows.page:87(section/title)
+#: C/move-windows.page:91(section/title)
 msgid "Maximize and unmaximize windows"
 msgstr "Maximizar e restaurar xanelas"
 
-#: C/move-windows.page:91(item/p)
+#: C/move-windows.page:95(item/p)
 msgid ""
 "To maximize a window so that it takes up all of the space on your desktop, "
 "grab the window's titlebar and drag it to the top of the screen."
@@ -1087,11 +1302,11 @@ msgstr ""
 "escritorio, arrastre a barra de título da xanela cara a parte superior da "
 "pantalla."
 
-#: C/move-windows.page:94(item/p)
+#: C/move-windows.page:98(item/p)
 msgid "When the screen is highlighted, drop the window to maximize it."
 msgstr "Cando se realce a pantalla, solte a xanela para que se maximice."
 
-#: C/move-windows.page:96(item/p)
+#: C/move-windows.page:100(item/p)
 msgid ""
 "To restore a window to its unmaximized size, grab the window's titlebar and "
 "drag it away from the edges of the screen."
@@ -1099,12 +1314,12 @@ msgstr ""
 "Para restaurar unha xanela ao seu tamaño restaurado, arrastre a barra de "
 "título da xanela para quitala dos bordos da pantalla."
 
-#: C/move-windows.page:103(section/title)
-#: C/switching-tasks.page:90(section/title)
+#: C/move-windows.page:107(section/title)
+#: C/switching-tasks.page:92(section/title)
 msgid "Tile windows"
 msgstr "Poñer as xanelas en mosaico"
 
-#: C/move-windows.page:107(item/p) C/switching-tasks.page:93(item/p)
+#: C/move-windows.page:111(item/p) C/switching-tasks.page:95(item/p)
 msgid ""
 "To maximize a window along a side of the screen, grab the window's titlebar "
 "and drag it to the left or right side of the screen."
@@ -1112,7 +1327,7 @@ msgstr ""
 "Para maximizar unha xanela a longo dunha parte da pantalla, arrastre a barra "
 "de título da xanela cara a parte esquerda ou dereita da pantalla."
 
-#: C/move-windows.page:109(item/p) C/switching-tasks.page:95(item/p)
+#: C/move-windows.page:113(item/p) C/switching-tasks.page:97(item/p)
 msgid ""
 "When half of the screen is highlighted, drop the window to maximize it along "
 "the selected side of the screen."
@@ -1120,7 +1335,7 @@ msgstr ""
 "Cando estea realzada a pantalla, solte a xanela para maximizar ao longo do "
 "lado seleccionado da pantalla."
 
-#: C/move-windows.page:111(item/p) C/switching-tasks.page:97(item/p)
+#: C/move-windows.page:115(item/p) C/switching-tasks.page:99(item/p)
 msgid ""
 "To maximize two windows side-by-side, grab the titlebar of the second window "
 "and drag it to the opposite side of the screen."
@@ -1128,7 +1343,7 @@ msgstr ""
 "Para maximizar dúas xanelas unha ao carón da outra, arrastre a barra de "
 "título da segunda xanela ao lado oposto da pantalla."
 
-#: C/move-windows.page:113(item/p) C/switching-tasks.page:99(item/p)
+#: C/move-windows.page:117(item/p) C/switching-tasks.page:101(item/p)
 msgid ""
 "When half of the screen is highlighted, drop the window to maximize it along "
 "the opposite side of the screen."
@@ -1136,41 +1351,54 @@ msgstr ""
 "Cando estea realzada a pantalla, solte a xanela para maximizar ao longo do "
 "lado oposto da pantalla."
 
-#: C/move-windows.page:120(section/title)
+#: C/move-windows.page:124(section/title)
 msgid "Maximize and unmaximize windows using the keyboard"
 msgstr "Maximizar e restaurar xanelas usando o teclado"
 
-#: C/move-windows.page:125(item/p)
+#: C/move-windows.page:130(item/p)
+#| msgid ""
+#| "To unmaximize a window using the keyboard, hold down the Super key and "
+#| "press <key>↓</key>."
 msgid ""
-"To unmaximize a window using the keyboard, hold down the Super key and press "
-"<key>↓</key>."
+"To unmaximize a window using the keyboard, hold down the <key xref="
+"\"keyboard-key-super\">Super</key> key and press <key>↓</key>."
 msgstr ""
-"Para restaurar unha xanela usando o teclado, manteña premida a tecla Super e "
-"prema <key>↓</key>."
+"Para restaurar unha xanela usando o teclado, manteña premida a tecla <key "
+"xref=\"keyboard-key-super\">Super</key> e prema <key>↓</key>."
 
-#: C/move-windows.page:132(section/title)
+#: C/move-windows.page:138(section/title)
 msgid "Tile windows using the keyboard"
 msgstr "Poñer as xanelas en mosaico usando o teclado"
 
-#: C/move-windows.page:144(section/title)
+#: C/move-windows.page:152(section/title)
 msgid "Switch workspaces using the keyboard"
 msgstr "Cambiar entre espazos de traballo usando o teclado"
 
-#: C/move-windows.page:148(item/p)
+#: C/move-windows.page:156(item/p)
+#| msgid ""
+#| "To move to a workspace which is below the current workspace, press "
+#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key> </keyseq>."
 msgid ""
 "To move to a workspace which is below the current workspace, press "
-"<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key> </"
+"keyseq>."
 msgstr ""
 "Para moverse ao espazo de traballo que está embaixo do actual, prema "
-"<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Avanzar páxina</key> "
+"</keyseq>."
 
-#: C/move-windows.page:150(item/p)
+#: C/move-windows.page:159(item/p)
+#| msgid ""
+#| "To move to a workspace which is above the current workspace, press "
+#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key> </keyseq>."
 msgid ""
 "To move to a workspace which is above the current workspace, press "
-"<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Up</key> </"
+"keyseq>."
 msgstr ""
 "Para moverse ao espazo de traballo que está enriba do actual, prema "
-"<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Páxina anterior</key> "
+"</keyseq>."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -1360,8 +1588,7 @@ msgid ""
 msgstr ""
 "Existen varias razóns polas que o estado é desconectado: por exemplo, o "
 "cable de rede está desenchufado, configurouse o computador en <em>modo "
-"avión</em> ou non existen redes de conexión sen fíos dispoñíbeis na súa "
-"área."
+"avión</em> ou non existen redes de conexión sen fíos dispoñíbeis na súa área."
 
 #: C/online.page:46(item/p)
 msgid ""
@@ -1431,24 +1658,12 @@ msgctxt "link:trail"
 msgid "Respond to messages"
 msgstr "Responder unha mensaxe"
 
-#: C/responding-to-messages.page:19(page/title)
-msgid "Respond to messages"
-msgstr "Responder unha mensaxe"
-
-#: C/responding-to-messages.page:26(section/title)
+#: C/responding-to-messages.page:83(section/title)
 msgid "Respond to a chat message with the mouse"
 msgstr "Responder unha mensaxe de texto co rato"
 
-#: C/responding-to-messages.page:29(item/p)
-msgid ""
-"Move your mouse to the message tray that can found at the bottom of the "
-"screen and click the chat message."
-msgstr ""
-"Mova o seu rato á bandexa de mensaxes que pode atopar na parte inferior da "
-"pantalla e prema na mensaxe de chat."
-
-#: C/responding-to-messages.page:31(item/p)
-#: C/responding-to-messages.page:66(item/p)
+#: C/responding-to-messages.page:88(item/p)
+#: C/responding-to-messages.page:123(item/p)
 msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send "
 "the reply."
@@ -1456,8 +1671,8 @@ msgstr ""
 "Comece a escribir a súa resposta e ao rematar prema <key>Intro</key> para "
 "enviala."
 
-#: C/responding-to-messages.page:33(item/p)
-#: C/responding-to-messages.page:52(item/p)
+#: C/responding-to-messages.page:90(item/p)
+#: C/responding-to-messages.page:109(item/p)
 msgid ""
 "To close the chat message, click the close button at the top right corner of "
 "the chat message."
@@ -1465,11 +1680,11 @@ msgstr ""
 "Para pechar unha conversa de chat, prema sobre o botón de pechar da parte "
 "superior dereita da mensaxe de chat."
 
-#: C/responding-to-messages.page:40(section/title)
+#: C/responding-to-messages.page:97(section/title)
 msgid "Delayed response to a chat message using the mouse"
 msgstr "Resposta atrasada dunha mensaxe de chat usando o rato"
 
-#: C/responding-to-messages.page:43(item/p)
+#: C/responding-to-messages.page:100(item/p)
 msgid ""
 "When a chat message appears in the message tray and you do not move your "
 "mouse to the message tray, the message disappears after a while."
@@ -1477,7 +1692,7 @@ msgstr ""
 "Cando unha mensaxe de chat aparece na bandexa de mensaxes e non quere mover "
 "o rato á bandexa de mensaxes, o mensaxe desaparecerá logo dun intre."
 
-#: C/responding-to-messages.page:46(item/p)
+#: C/responding-to-messages.page:103(item/p)
 msgid ""
 "To get back to your unanswered message, move your mouse to the message tray "
 "at the very bottom of the screen."
@@ -1485,7 +1700,7 @@ msgstr ""
 "Para volver ao seu mensaxe sen resposta, mova o seu rato á bandexa de "
 "mensaxes na parte inferior da pantalla."
 
-#: C/responding-to-messages.page:48(item/p)
+#: C/responding-to-messages.page:105(item/p)
 msgid ""
 "When the message tray appears, click a small image that represents the "
 "person who sent you the message."
@@ -1493,7 +1708,7 @@ msgstr ""
 "Cando a súa bandexa de mensaxes apareza, prema na pequena imaxe que "
 "representa a persoa que lle enviou unha mensaxe."
 
-#: C/responding-to-messages.page:50(item/p)
+#: C/responding-to-messages.page:107(item/p)
 msgid ""
 "When the chat message is shown, start typing your reply and when finished, "
 "press <key>Enter</key> to send the reply."
@@ -1501,21 +1716,21 @@ msgstr ""
 "Cando se mostre a mensaxe de chat comece a escribir a súa resposta, e logo "
 "de rematar prema <key>Intro</key> para enviala."
 
-#: C/responding-to-messages.page:59(section/title)
+#: C/responding-to-messages.page:116(section/title)
 msgid "Delayed response to a chat message using the keyboard"
 msgstr "Atrasar unha resposta ao mensaxe de chat co rato"
 
-#: C/responding-to-messages.page:61(item/p)
+#: C/responding-to-messages.page:118(item/p)
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq><key> Super</"
 "key><key>M</key></keyseq> to display the message tray that contains the "
 "messages."
 msgstr ""
-"Para volver ao mensaxe de chat non respondido, prema "
-"<keyseq><key>Super</key><key>M</key></keyseq> para mostrar a bandexa de "
-"mensaxes que contén os mensaxes."
+"Para volver ao mensaxe de chat non respondido, prema <keyseq><key>Super</"
+"key><key>M</key></keyseq> para mostrar a bandexa de mensaxes que contén os "
+"mensaxes."
 
-#: C/responding-to-messages.page:64(item/p)
+#: C/responding-to-messages.page:121(item/p)
 msgid ""
 "Use the arrow keys to select a small image representing the person you want "
 "to reply to, and press <key>Enter</key>."
@@ -1523,17 +1738,13 @@ msgstr ""
 "Use as frechas para seleccionar unha imaxe que representa a persoa á que "
 "quere responder, e prema <key>Intro</key>."
 
-#: C/responding-to-messages.page:68(item/p)
-msgid "Press <key>Esc</key> to close the chat message."
-msgstr "Prema <key>Esc</key> para pechar a mensaxe de chat."
-
-#: C/responding-to-messages.page:69(item/p)
+#: C/responding-to-messages.page:126(item/p)
 msgid ""
 "To dismiss the message tray, press <key>Esc</key> or <keyseq><key>Super</"
 "key><key>M</key></keyseq>."
 msgstr ""
-"Para quitar a bandexa de entrada prema <key>Esc</key> ou "
-"<keyseq><key>Super</key><key>M</key></keyseq>."
+"Para quitar a bandexa de entrada prema <key>Esc</key> ou <keyseq><key>Super</"
+"key><key>M</key></keyseq>."
 
 #: C/search1.svg:187(text/tspan)
 #, no-wrap
@@ -1639,63 +1850,11 @@ msgid "Switch tasks"
 msgstr "Cambiar entre tarefas"
 
 #: C/switching-tasks.page:19(page/title)
-#: C/switching-tasks.page:78(section/title)
+#: C/switching-tasks.page:80(section/title)
 msgid "Switch tasks"
 msgstr "Cambiar entre tarefas"
 
-#: C/switching-tasks.page:33(div/p) C/switching-tasks.page:84(item/p)
-msgid "Click a window to switch the task."
-msgstr "Prema unha xanela para cambiar a tarefa"
-
-#: C/switching-tasks.page:43(div/p)
-msgid ""
-"To maximize a window along the right side, grab the window's titlebar and "
-"drag it to the right."
-msgstr ""
-"Para maximizar unha xanela á parte dereita, arrastre a barra de título da "
-"xanela e arrástrea cara a dereita."
-
-#: C/switching-tasks.page:50(div/p)
-msgid ""
-"Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the <gui>Window "
-"Switcher</gui>."
-msgstr ""
-"Prema <keyseq><key>Alt</key><key>Tab</key></keyseq> para mostrar o "
-"<gui>Trocador de xanelas</gui>."
-
-#: C/switching-tasks.page:54(div/p)
-msgid "Release <key>Alt</key> to select the next highlighted window."
-msgstr ""
-"Solte a tecla <key>Alt</key> para seleccionar a seguinte xanela realzada."
-
-#: C/switching-tasks.page:58(div/p) C/switching-tasks.page:113(item/p)
-msgid ""
-"To cycle through the list of open windows, do not release <key>Alt</key> but "
-"hold it down, and press <key>Tab</key>."
-msgstr ""
-"Para moverse pola lista de xanelas abertas, prema e manteña a tecla "
-"<key>Alt</key> e logo prema <key>Tab</key>. "
-
-#: C/switching-tasks.page:62(div/p) C/switching-tasks.page:123(item/p)
-msgid ""
-"Press the <key>Super</key> key to show the <gui>Activities Overview</gui>."
-msgstr ""
-"Prema a tecla <key>Super</key> para mostrar a <gui>Vista xeral de "
-"actividades</gui>."
-
-#: C/switching-tasks.page:66(div/p)
-msgid "Start typing the name of the application you want to switch to."
-msgstr "Comece a escribir o nome do aplicativo ao que quere cambiar."
-
-#: C/switching-tasks.page:70(div/p)
-msgid ""
-"When the application appears as the first result, press <key> Enter</key> to "
-"switch to it."
-msgstr ""
-"Cando o aplicativo apareza como primeiro resultado, prema <key>Intro</key> "
-"para cambiar a el."
-
-#: C/switching-tasks.page:81(item/p)
+#: C/switching-tasks.page:83(item/p)
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen to show the <gui>Activities Overview</gui> where you can see "
@@ -1706,33 +1865,51 @@ msgstr ""
 "actividades</gui> onde pode ver as tarefas executándose actualmente "
 "mostradas como xanelas pequenas."
 
-#: C/switching-tasks.page:106(section/title)
+#: C/switching-tasks.page:108(section/title)
 msgid "Switch between windows"
 msgstr "Cambiar entre xanelas"
 
-#: C/switching-tasks.page:109(item/p)
-msgid ""
-"Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the <gui>Window "
-"Switcher</gui>, which lists the currently open windows."
-msgstr ""
-"Prema <keyseq><key>Alt</key><key>Tab</key></keyseq> para mostrar o "
-"<gui>Trocador de xanelas</gui>, que mostra unha lista das xanelas abertas "
-"actualmente."
-
 #: C/switching-tasks.page:111(item/p)
+#| msgid ""
+#| "Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the "
+#| "<gui>Window Switcher</gui>, which lists the currently open windows."
 msgid ""
-"Release <key>Alt</key> to select the next highlighted window in the Window "
-"Switcher."
+"Press <keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Tab</key></"
+"keyseq> to show the <gui>window switcher</gui>, which lists the currently "
+"open windows."
 msgstr ""
-"Solte a tecla <key>Alt</key> para seleccionar a xanela realzada no Trocador "
-"de xanelas"
+"Prema <keyseq><key xref=\"keyboard-key-super\">Super</key> "
+"<key>Tab</key></keyseq> para mostrar o <gui>Trocador de xanelas</gui>, que "
+"mostra unha lista das xanelas abertas actualmente."
 
-#: C/switching-tasks.page:120(section/title)
-#| msgid "Launching applications"
+#: C/switching-tasks.page:114(item/p)
+#| msgid ""
+#| "Release <key>Alt</key> to select the next highlighted window in the "
+#| "Window Switcher."
+msgid ""
+"Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
+"highlighted window in the <gui>window switcher</gui>."
+msgstr ""
+"Solte a tecla <key xref=\"keyboard-key-super\">Super</key> para seleccionar a "
+"xanela realzada no Trocador de xanelas."
+
+#: C/switching-tasks.page:116(item/p)
+#| msgid ""
+#| "To cycle through the list of open windows, do not release <key>Alt</key> "
+#| "but hold it down, and press <key>Tab</key>."
+msgid ""
+"To cycle through the list of open windows, do not release <key xref="
+"\"keyboard-key-super\">Super</key> but hold it down, and press <key> Tab</"
+"key>."
+msgstr ""
+"Para moverse pola lista de xanelas abertas, prema e manteña a tecla <key "
+"xref=\"keyboard-key-super\">Super</key> e logo prema <key>Tab</key>. "
+
+#: C/switching-tasks.page:124(section/title)
 msgid "Use search to switch applications"
 msgstr "Usar a busca para trocar entre os aplicativos"
 
-#: C/switching-tasks.page:125(item/p)
+#: C/switching-tasks.page:129(item/p)
 msgid ""
 "Just start typing the name of the application you want to switch to. "
 "Applications matching what you have typed will appear as you type."
@@ -1740,7 +1917,7 @@ msgstr ""
 "Simplemente comece a escribir o nome do aplicativo ao que quere cambiar. Os "
 "aplicativos que coincidan co que escribiu aparecerán mentres escriba."
 
-#: C/switching-tasks.page:128(item/p)
+#: C/switching-tasks.page:132(item/p)
 msgid ""
 "When the application that you want to switch to appears as the first result, "
 "press <key>Enter</key> to switch to it."
@@ -1751,7 +1928,7 @@ msgstr ""
 #: C/thumb-responding-to-messages.svg:56(text/tspan)
 #, no-wrap
 msgid "Thanks f"
-msgstr ""
+msgstr "Grazas f"
 
 #: C/thumb-timezone.svg:61(text/tspan) C/thumb-timezone.svg:67(text/tspan)
 #, no-wrap
@@ -2009,15 +2186,15 @@ msgid ""
 "application itself. As soon as the associated application starts, your "
 "performed query will be performed in the application."
 msgstr ""
-"Hai outros tipos de resultados que se poden incluír como "
-"<app>preferencias</app>, <app>contactos</app> ou <app>documentos</app>. Cada "
-"tipo de resultado está encabezado pola icona do aplicativo que forneceu o "
-"resultado (sen contar cos iniciadores de aplicativos que aparecen na parte "
-"superior). Só os mellores resultados aparecerán na vista xeral, se quere "
-"engadir máis ámbito á súa busca, pode premer ou usar as frechas para navegar "
-"á icona do aplicativo na parte esquerda para levarlle ao aplicativo en si "
-"mesmo. Tan pronto como o aplicativo asociado inicie, a súa consulta levarase "
-"a cabo desde dentro de dito aplicativo."
+"Hai outros tipos de resultados que se poden incluír como <app>preferencias</"
+"app>, <app>contactos</app> ou <app>documentos</app>. Cada tipo de resultado "
+"está encabezado pola icona do aplicativo que forneceu o resultado (sen "
+"contar cos iniciadores de aplicativos que aparecen na parte superior). Só os "
+"mellores resultados aparecerán na vista xeral, se quere engadir máis ámbito "
+"á súa busca, pode premer ou usar as frechas para navegar á icona do "
+"aplicativo na parte esquerda para levarlle ao aplicativo en si mesmo. Tan "
+"pronto como o aplicativo asociado inicie, a súa consulta levarase a cabo "
+"desde dentro de dito aplicativo."
 
 #: C/use-search.page:54(section/title)
 msgid "Customize search results"
@@ -2046,9 +2223,8 @@ msgid ""
 "In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
 "the search location you want to enable or disable."
 msgstr ""
-"Na lista de localizacións de busca, prema o interruptor de "
-"<gui>acendido/apagado</gui> ao carón da localización de busca para activala "
-"ou desactivala."
+"Na lista de localizacións de busca, prema o interruptor de <gui>acendido/"
+"apagado</gui> ao carón da localización de busca para activala ou desactivala."
 
 #: C/web-browser2.svg:88(text/tspan)
 #, no-wrap
@@ -2079,6 +2255,19 @@ msgstr "http://gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planeta GNOME"
+
+#~ msgid "Getting Started with GNOME"
+#~ msgstr "Comezar con GNOME"
+
+#~ msgctxt "link:trail"
+#~ msgid "Get additional applications"
+#~ msgstr "Obter aplicativos adicionais"
+
+#~ msgid "Get additional applications"
+#~ msgstr "Obter aplicativos adicionais"
+
+#~ msgid "Stay tuned..."
+#~ msgstr "Mantéñase atento…"
 
 #~ msgid "Changing the date, time and timezone"
 #~ msgstr "Cambiar a data, hora e fuso horario"
