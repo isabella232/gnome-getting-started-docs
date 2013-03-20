@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-03-18 23:28+0000\n"
-"PO-Revision-Date: 2013-03-19 11:35+0200\n"
+"POT-Creation-Date: 2013-03-19 12:42+0000\n"
+"PO-Revision-Date: 2013-03-20 12:24+0200\n"
 "Last-Translator: Fran Dieguez <frandieguez@gnome.org>\n"
 "Language-Team: gnome-l10n-gl@gnome.org\n"
 "Language: gl\n"
@@ -213,18 +213,24 @@ msgstr "Data e hora automática"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/browse-web.page:21(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
 msgctxt "_"
-msgid "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
-msgstr "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
+msgid "external ref='web-browser1.svg' md5='380ae6420b6eeef748add9fa8d3ebc19'"
+msgstr "external ref='web-browser1.svg' md5='380ae6420b6eeef748add9fa8d3ebc19'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/browse-web.page:36(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
 msgctxt "_"
-msgid "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
-msgstr "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
+msgid "external ref='web-browser2.svg' md5='93bfea229039508aa26d81ebfb372130'"
+msgstr "external ref='web-browser2.svg' md5='93bfea229039508aa26d81ebfb372130'"
 
 #: C/browse-web.page:10(credit/name) C/change-time.page:10(credit/name)
 #: C/change-wallpaper.page:10(credit/name) C/launch-apps.page:10(credit/name)
@@ -322,10 +328,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/change-time.page:21(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/gnome-timezone.webm' "
-#| "md5='57a4ee4ef7cc7cb37ba03e1f3686666a'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-timezone.webm' "
@@ -391,9 +393,6 @@ msgstr ""
 "contrasinal de administrador"
 
 #: C/change-time.page:58(item/p)
-#| msgid ""
-#| "This selects your current city, which you can also see in the drop-down "
-#| "list below the map."
 msgid ""
 "This selects your current city, which you can also see and change in the "
 "drop-down list below the map."
@@ -419,10 +418,6 @@ msgstr "Peche a xanela premendo a cruz na esquina superior dereita da xanela."
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/change-wallpaper.page:21(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/gnome-change-wallpaper.webm' "
-#| "md5='9217e7043891d8077dae3204f2c26182'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-change-wallpaper.webm' "
@@ -510,10 +505,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/getting-started.page:18(media) C/launch-apps.page:23(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/gnome-launching-applications.webm' "
-#| "md5='16609de3c9d4b91ba3e7a5785863a05a'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-launching-applications.webm' "
@@ -532,10 +523,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/getting-started.page:57(media) C/switching-tasks.page:21(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/gnome-task-switching.webm' "
-#| "md5='edf94b461a60c8683e2d64f778949739'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-task-switching.webm' "
@@ -554,10 +541,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/getting-started.page:120(media) C/responding-to-messages.page:21(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/gnome-responding-to-messages.webm' "
-#| "md5='8f82d09463e5d8381b790cf94f4bfd00'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-responding-to-messages.webm' "
@@ -581,7 +564,6 @@ msgid "Getting Started"
 msgstr "Comezando"
 
 #: C/getting-started.page:20(caption/desc)
-#| msgid "Launch applications"
 msgid "Launch Applications"
 msgstr "Iniciar aplicativos"
 
@@ -619,7 +601,6 @@ msgid "Press <key>Enter</key> to launch the application."
 msgstr "Prema <key>Intro</key> para iniciar o aplicativo."
 
 #: C/getting-started.page:59(caption/desc)
-#| msgid "Switch tasks"
 msgid "Switch Tasks"
 msgstr "Cambiar entre tarefas"
 
@@ -652,29 +633,22 @@ msgstr ""
 "xanela e arrástrea cara a dereita."
 
 #: C/getting-started.page:88(div/p) C/switching-tasks.page:50(div/p)
-#| msgid ""
-#| "Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the "
-#| "<gui>Window Switcher</gui>."
 msgid ""
 "Press <keyseq><key xref=\"keyboard-key-super\">Super</key><key> Tab</key></"
 "keyseq> to show the <gui>window switcher</gui>."
 msgstr ""
-"Prema <keyseq><key xref=\"keyboard-key-super\">Super</key><key> "
-"Tab</key></keyseq> para mostrar o <gui>trocador de xanelas</gui>."
+"Prema <keyseq><key xref=\"keyboard-key-super\">Super</key><key> Tab</key></"
+"keyseq> para mostrar o <gui>trocador de xanelas</gui>."
 
 #: C/getting-started.page:92(div/p) C/switching-tasks.page:54(div/p)
-#| msgid "Release <key>Alt</key> to select the next highlighted window."
 msgid ""
 "Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
 "highlighted window."
 msgstr ""
-"Solte a tecla <key xref=\"keyboard-key-super\">Super</key> para seleccionar a "
-"seguinte xanela realzada."
+"Solte a tecla <key xref=\"keyboard-key-super\">Super</key> para seleccionar "
+"a seguinte xanela realzada."
 
 #: C/getting-started.page:97(div/p) C/switching-tasks.page:59(div/p)
-#| msgid ""
-#| "To cycle through the list of open windows, do not release <key>Alt</key> "
-#| "but hold it down, and press <key>Tab</key>."
 msgid ""
 "To cycle through the list of open windows, do not release <key xref="
 "\"keyboard-key-super\">Super</key> but hold it down, and press <key>Tab</"
@@ -685,8 +659,6 @@ msgstr ""
 
 #: C/getting-started.page:102(div/p) C/switching-tasks.page:64(div/p)
 #: C/switching-tasks.page:127(item/p)
-#| msgid ""
-#| "Press the <key>Super</key> key to show the <gui>Activities Overview</gui>."
 msgid ""
 "Press the <key xref=\"keyboard-key-super\">Super</key> key to show the "
 "<gui>Activities Overview</gui>."
@@ -713,9 +685,6 @@ msgstr "Responder unha mensaxe"
 
 #: C/getting-started.page:130(div/p) C/responding-to-messages.page:29(div/p)
 #: C/responding-to-messages.page:86(item/p)
-#| msgid ""
-#| "Move your mouse to the message tray that can found at the bottom of the "
-#| "screen and click the chat message."
 msgid ""
 "Move your mouse to the message tray at the bottom of the screen and click "
 "the chat message."
@@ -724,9 +693,6 @@ msgstr ""
 "na mensaxe de chat."
 
 #: C/getting-started.page:134(div/p) C/responding-to-messages.page:33(div/p)
-#| msgid ""
-#| "Start typing your reply and when finished, press <key>Enter</key> to send "
-#| "the reply."
 msgid ""
 "Start typing your reply and when finished, press <key>Enter </key> to send "
 "the reply."
@@ -737,14 +703,10 @@ msgstr ""
 #: C/getting-started.page:138(div/p) C/getting-started.page:159(div/p)
 #: C/responding-to-messages.page:37(div/p)
 #: C/responding-to-messages.page:58(div/p)
-#| msgid "Press <key>Esc</key> to close the chat message."
 msgid "Close the chat message."
 msgstr "Peche a mensaxe de chat."
 
 #: C/getting-started.page:144(div/p) C/responding-to-messages.page:43(div/p)
-#| msgid ""
-#| "When a chat message appears in the message tray and you do not move your "
-#| "mouse to the message tray, the message disappears after a while."
 msgid ""
 "A chat message in the message tray disappears after a while if you do not "
 "move your mouse to the message tray."
@@ -753,9 +715,6 @@ msgstr ""
 "non move o rato á bandexa de mensaxes."
 
 #: C/getting-started.page:148(div/p) C/responding-to-messages.page:47(div/p)
-#| msgid ""
-#| "To get back to your unanswered message, move your mouse to the message "
-#| "tray at the very bottom of the screen."
 msgid ""
 "To get back to your unanswered message, move your mouse to the message tray."
 msgstr ""
@@ -769,27 +728,18 @@ msgstr "Prema na persoa que lle enviou o mensaxe."
 #: C/getting-started.page:155(div/p) C/getting-started.page:170(div/p)
 #: C/responding-to-messages.page:54(div/p)
 #: C/responding-to-messages.page:69(div/p)
-#| msgid ""
-#| "Start typing your reply and when finished, press <key>Enter</key> to send "
-#| "the reply."
 msgid "Start typing your reply and when finished, press <key>Enter </key>."
 msgstr "Comece a escribir a súa resposta e ao rematar prema <key>Intro</key>."
 
 #: C/getting-started.page:162(div/p) C/responding-to-messages.page:61(div/p)
-#| msgid ""
-#| "To dismiss the message tray, press <key>Esc</key> or <keyseq><key>Super</"
-#| "key><key>M</key></keyseq>."
 msgid ""
 "To show the message tray, press <keyseq><key>Super</key><key>M </key></"
 "keyseq>"
 msgstr ""
-"Para quitar a bandexa de entrada prema <keyseq><key>Super</key><key>M "
-"</key></keyseq>"
+"Para quitar a bandexa de entrada prema <keyseq><key>Super</key><key>M </"
+"key></keyseq>"
 
 #: C/getting-started.page:166(div/p) C/responding-to-messages.page:65(div/p)
-#| msgid ""
-#| "Use the arrow keys to select a small image representing the person you "
-#| "want to reply to, and press <key>Enter</key>."
 msgid ""
 "Use the arrow keys to select the person you want to reply to, and press "
 "<key>Enter</key>."
@@ -803,9 +753,6 @@ msgid "Press <key>Esc</key> to close the chat message."
 msgstr "Prema <key>Esc</key> para pechar a mensaxe de chat."
 
 #: C/getting-started.page:177(div/p) C/responding-to-messages.page:76(div/p)
-#| msgid ""
-#| "To dismiss the message tray, press <key>Esc</key> or <keyseq><key>Super</"
-#| "key><key>M</key></keyseq>."
 msgid "To dismiss the message tray, press <key>Esc</key>."
 msgstr "Para omitir a bandexa de entrada, prema <key>Esc</key>."
 
@@ -1150,10 +1097,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/move-windows.page:20(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/gnome-windows-and-workspaces.webm' "
-#| "md5='77cd38321095b0ecb2d41ab18ed9794f'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
@@ -1219,9 +1162,6 @@ msgstr ""
 "título da xanela e arrástrea cara a dereita."
 
 #: C/move-windows.page:57(div/p) C/move-windows.page:127(item/p)
-#| msgid ""
-#| "To maximize a window using the keyboard, hold down the Super key and "
-#| "press <key>↑</key>."
 msgid ""
 "To maximize a window using the keyboard, hold down the <key xref=\"keyboard-"
 "key-super\">Super</key> key and press <key>↑</key>."
@@ -1230,9 +1170,6 @@ msgstr ""
 "xref=\"keyboard-key-super\">Super</key> e prema <key>↑</key>."
 
 #: C/move-windows.page:62(div/p)
-#| msgid ""
-#| "To restore the window to its unmaximized size, hold down the Super key "
-#| "and press <key>↓</key>."
 msgid ""
 "To restore the window to its unmaximized size, hold down the <key xref="
 "\"keyboard-key-super\">Super</key> key and press <key>↓</key>."
@@ -1241,9 +1178,6 @@ msgstr ""
 "<key xref=\"keyboard-key-super\">Super</key> e prema <key>↓</key>."
 
 #: C/move-windows.page:67(div/p) C/move-windows.page:141(item/p)
-#| msgid ""
-#| "To maximize a window along the right side of the screen, hold down the "
-#| "Super key and press <key>→</key>."
 msgid ""
 "To maximize a window along the right side of the screen, hold down the <key "
 "xref=\"keyboard-key-super\">Super</key> key and press <key>→</key>."
@@ -1252,42 +1186,33 @@ msgstr ""
 "a tecla <key xref=\"keyboard-key-super\">Super</key> e prema <key>→</key>."
 
 #: C/move-windows.page:72(div/p) C/move-windows.page:144(item/p)
-#| msgid ""
-#| "To maximize a window along the left side of the screen, hold down the "
-#| "Super key and press <key>←</key>."
 msgid ""
 "To maximize a window along the left side of the screen, hold down the <key "
 "xref=\"keyboard-key-super\">Super</key> key and press <key>←</key>."
 msgstr ""
 "Para maximizar unha xanela cara a parte esquerda da pantalla, manteña "
-"premida a tecla <key xref=\"keyboard-key-super\">Super</key> e prema "
-"<key>←</key>."
+"premida a tecla <key xref=\"keyboard-key-super\">Super</key> e prema <key>←</"
+"key>."
 
 #: C/move-windows.page:77(div/p)
-#| msgid ""
-#| "To move to a workspace which is below the current workspace, press "
-#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key></"
 "keyseq>."
 msgstr ""
 "Para moverse ao espazo de traballo que está embaixo do actual, prema "
-"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Avanzar "
-"Páxina</key></keyseq>."
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Avanzar Páxina</"
+"key></keyseq>."
 
 #: C/move-windows.page:82(div/p)
-#| msgid ""
-#| "To move to a workspace which is above the current workspace, press "
-#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Page Up</key></"
 "keyseq>."
 msgstr ""
 "Para moverse ao espazo de traballo que está enriba do actual, prema "
-"<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Retroceso "
-"Páxina</key></keyseq>."
+"<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Retroceso Páxina</"
+"key></keyseq>."
 
 #: C/move-windows.page:91(section/title)
 msgid "Maximize and unmaximize windows"
@@ -1356,9 +1281,6 @@ msgid "Maximize and unmaximize windows using the keyboard"
 msgstr "Maximizar e restaurar xanelas usando o teclado"
 
 #: C/move-windows.page:130(item/p)
-#| msgid ""
-#| "To unmaximize a window using the keyboard, hold down the Super key and "
-#| "press <key>↓</key>."
 msgid ""
 "To unmaximize a window using the keyboard, hold down the <key xref="
 "\"keyboard-key-super\">Super</key> key and press <key>↓</key>."
@@ -1375,75 +1297,79 @@ msgid "Switch workspaces using the keyboard"
 msgstr "Cambiar entre espazos de traballo usando o teclado"
 
 #: C/move-windows.page:156(item/p)
-#| msgid ""
-#| "To move to a workspace which is below the current workspace, press "
-#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key> </keyseq>."
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key> </"
 "keyseq>."
 msgstr ""
 "Para moverse ao espazo de traballo que está embaixo do actual, prema "
-"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Avanzar páxina</key> "
-"</keyseq>."
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Avanzar páxina</"
+"key> </keyseq>."
 
 #: C/move-windows.page:159(item/p)
-#| msgid ""
-#| "To move to a workspace which is above the current workspace, press "
-#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key> </keyseq>."
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Up</key> </"
 "keyseq>."
 msgstr ""
 "Para moverse ao espazo de traballo que está enriba do actual, prema "
-"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Páxina anterior</key> "
-"</keyseq>."
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Páxina anterior</"
+"key> </keyseq>."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online-accounts.page:20(media)
+#| msgctxt "_"
+#| msgid "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
 msgctxt "_"
-msgid "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
-msgstr "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
+msgid "external ref='goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
+msgstr "external ref='goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online-accounts.page:27(media)
+#| msgctxt "_"
+#| msgid "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
 msgctxt "_"
-msgid "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
-msgstr "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
+msgid "external ref='goa2.svg' md5='0786fcd237df1588330b4489d7dedda6'"
+msgstr "external ref='goa2.svg' md5='0786fcd237df1588330b4489d7dedda6'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online-accounts.page:39(media)
+#| msgctxt "_"
+#| msgid "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
 msgctxt "_"
-msgid "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
-msgstr "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
+msgid "external ref='goa3.svg' md5='e4ae879bb449d9846d061c96b9070a9d'"
+msgstr "external ref='goa3.svg' md5='e4ae879bb449d9846d061c96b9070a9d'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online-accounts.page:46(media)
+#| msgctxt "_"
+#| msgid "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
 msgctxt "_"
-msgid "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
-msgstr "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
+msgid "external ref='goa4.svg' md5='be85f512313776ed58faf6072a8e59ef'"
+msgstr "external ref='goa4.svg' md5='be85f512313776ed58faf6072a8e59ef'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online-accounts.page:55(media)
+#| msgctxt "_"
+#| msgid "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
 msgctxt "_"
-msgid "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
-msgstr "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
+msgid "external ref='goa5.svg' md5='5deb427a0f7621bf8e7fed469a92954b'"
+msgstr "external ref='goa5.svg' md5='5deb427a0f7621bf8e7fed469a92954b'"
 
 #: C/online-accounts.page:15(info/title)
 msgctxt "link:trail"
@@ -1520,27 +1446,33 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online.page:30(media)
+#| msgctxt "_"
+#| msgid "external ref='go-online2.svg' md5='2c4ff4e5d03e2f03749a35ad909b3341'"
 msgctxt "_"
-msgid "external ref='go-online1.svg' md5='7ffd688bc5d186f95bfcee55d4fa601b'"
-msgstr "external ref='go-online1.svg' md5='7ffd688bc5d186f95bfcee55d4fa601b'"
+msgid "external ref='go-online1.svg' md5='daea04c13135c1aab3b117d8a133ed86'"
+msgstr "external ref='go-online1.svg' md5='daea04c13135c1aab3b117d8a133ed86'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online.page:43(media)
+#| msgctxt "_"
+#| msgid "external ref='go-online1.svg' md5='7ffd688bc5d186f95bfcee55d4fa601b'"
 msgctxt "_"
-msgid "external ref='go-online2.svg' md5='2c4ff4e5d03e2f03749a35ad909b3341'"
-msgstr "external ref='go-online2.svg' md5='2c4ff4e5d03e2f03749a35ad909b3341'"
+msgid "external ref='go-online2.svg' md5='0a0511b9f1e744495eeb3fb82573a5df'"
+msgstr "external ref='go-online2.svg' md5='0a0511b9f1e744495eeb3fb82573a5df'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online.page:62(media)
+#| msgctxt "_"
+#| msgid "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
 msgctxt "_"
-msgid "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
-msgstr "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
+msgid "external ref='go-online3.svg' md5='58a5c6c77ee39f23fb3e5aaa6d78009f'"
+msgstr "external ref='go-online3.svg' md5='58a5c6c77ee39f23fb3e5aaa6d78009f'"
 
 #: C/online.page:15(info/title)
 msgctxt "link:trail"
@@ -1870,33 +1802,24 @@ msgid "Switch between windows"
 msgstr "Cambiar entre xanelas"
 
 #: C/switching-tasks.page:111(item/p)
-#| msgid ""
-#| "Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the "
-#| "<gui>Window Switcher</gui>, which lists the currently open windows."
 msgid ""
 "Press <keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Tab</key></"
 "keyseq> to show the <gui>window switcher</gui>, which lists the currently "
 "open windows."
 msgstr ""
-"Prema <keyseq><key xref=\"keyboard-key-super\">Super</key> "
-"<key>Tab</key></keyseq> para mostrar o <gui>Trocador de xanelas</gui>, que "
-"mostra unha lista das xanelas abertas actualmente."
+"Prema <keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Tab</key></"
+"keyseq> para mostrar o <gui>Trocador de xanelas</gui>, que mostra unha lista "
+"das xanelas abertas actualmente."
 
 #: C/switching-tasks.page:114(item/p)
-#| msgid ""
-#| "Release <key>Alt</key> to select the next highlighted window in the "
-#| "Window Switcher."
 msgid ""
 "Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
 "highlighted window in the <gui>window switcher</gui>."
 msgstr ""
-"Solte a tecla <key xref=\"keyboard-key-super\">Super</key> para seleccionar a "
-"xanela realzada no Trocador de xanelas."
+"Solte a tecla <key xref=\"keyboard-key-super\">Super</key> para seleccionar "
+"a xanela realzada no Trocador de xanelas."
 
 #: C/switching-tasks.page:116(item/p)
-#| msgid ""
-#| "To cycle through the list of open windows, do not release <key>Alt</key> "
-#| "but hold it down, and press <key>Tab</key>."
 msgid ""
 "To cycle through the list of open windows, do not release <key xref="
 "\"keyboard-key-super\">Super</key> but hold it down, and press <key> Tab</"
@@ -2080,29 +2003,36 @@ msgstr "31"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/use-search.page:20(media)
+#| msgctxt "_"
+#| msgid "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
 msgctxt "_"
-msgid "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
-msgstr "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
+msgid "external ref='search1.svg' md5='93b873a25fb241cc12505faadc209247'"
+msgstr "external ref='search1.svg' md5='93b873a25fb241cc12505faadc209247'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/use-search.page:29(media)
+#| msgctxt "_"
+#| msgid "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
 msgctxt "_"
-msgid "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
-msgstr "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
+msgid "external ref='search2.svg' md5='ca4b89e6098deda603a6463df5746eb3'"
+msgstr "external ref='search2.svg' md5='ca4b89e6098deda603a6463df5746eb3'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/use-search.page:56(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
 msgctxt "_"
 msgid ""
-"external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
+"external ref='search-settings.svg' md5='47b7e436840de8fc78952beed88beccc'"
 msgstr ""
-"external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
+"external ref='search-settings.svg' md5='47b7e436840de8fc78952beed88beccc'"
 
 #: C/use-search.page:15(info/title)
 msgctxt "link:trail"
@@ -2255,6 +2185,10 @@ msgstr "http://gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planeta GNOME"
+
+#~ msgctxt "_"
+#~ msgid "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
+#~ msgstr "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
 
 #~ msgid "Getting Started with GNOME"
 #~ msgstr "Comezar con GNOME"
