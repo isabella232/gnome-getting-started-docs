@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-03-18 23:28+0000\n"
-"PO-Revision-Date: 2013-03-19 09:49+0300\n"
+"POT-Creation-Date: 2013-03-19 12:42+0000\n"
+"PO-Revision-Date: 2013-03-20 12:44+0300\n"
 "Last-Translator: Dimitris Spingos (Δημήτρης Σπίγγος) <dmtrs32@gmail.com>\n"
 "Language-Team: team@gnome.gr\n"
 "Language: el\n"
@@ -218,18 +218,24 @@ msgstr "Αυτόματη ημερομηνία και ώρα"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/browse-web.page:21(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
 msgctxt "_"
-msgid "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
-msgstr "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
+msgid "external ref='web-browser1.svg' md5='380ae6420b6eeef748add9fa8d3ebc19'"
+msgstr "external ref='web-browser1.svg' md5='380ae6420b6eeef748add9fa8d3ebc19'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/browse-web.page:36(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
 msgctxt "_"
-msgid "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
-msgstr "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
+msgid "external ref='web-browser2.svg' md5='93bfea229039508aa26d81ebfb372130'"
+msgstr "external ref='web-browser2.svg' md5='93bfea229039508aa26d81ebfb372130'"
 
 #: C/browse-web.page:10(credit/name) C/change-time.page:10(credit/name)
 #: C/change-wallpaper.page:10(credit/name) C/launch-apps.page:10(credit/name)
@@ -392,9 +398,6 @@ msgstr ""
 "πληκτρολογήσετε τον κωδικό πρόσβασης του διαχειριστή."
 
 #: C/change-time.page:58(item/p)
-#| msgid ""
-#| "This selects your current city, which you can also see in the drop-down "
-#| "list below the map."
 msgid ""
 "This selects your current city, which you can also see and change in the "
 "drop-down list below the map."
@@ -637,43 +640,34 @@ msgstr ""
 "γραμμή τίτλου του παραθύρου και μεταφέρτε την στα δεξιά."
 
 #: C/getting-started.page:88(div/p) C/switching-tasks.page:50(div/p)
-#| msgid ""
-#| "Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the "
-#| "<gui>Window Switcher</gui>."
 msgid ""
 "Press <keyseq><key xref=\"keyboard-key-super\">Super</key><key> Tab</key></"
 "keyseq> to show the <gui>window switcher</gui>."
 msgstr ""
-"Πατήστε <keyseq><key xref=\"keyboard-key-super\">πλήκτρο "
-"λογότυπου</key><key>στηλοθέτης</key></keyseq> για να εμφανίσετε τον "
-"<gui>εναλλάκτη παραθύρου</gui>."
+"Πατήστε <keyseq><key xref=\"keyboard-key-super\">πλήκτρο λογότυπου</"
+"key><key>στηλοθέτης</key></keyseq> για να εμφανίσετε τον <gui>εναλλάκτη "
+"παραθύρου</gui>."
 
 #: C/getting-started.page:92(div/p) C/switching-tasks.page:54(div/p)
-#| msgid "Release <key>Alt</key> to select the next highlighted window."
 msgid ""
 "Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
 "highlighted window."
 msgstr ""
-"Απελευθερώστε το <key xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key> για "
-"να επιλέξτε το επόμενο επισημασμένο παράθυρο."
+"Απελευθερώστε το <key xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key> "
+"για να επιλέξτε το επόμενο επισημασμένο παράθυρο."
 
 #: C/getting-started.page:97(div/p) C/switching-tasks.page:59(div/p)
-#| msgid ""
-#| "To cycle through the list of open windows, do not release <key>Alt</key> "
-#| "but hold it down, and press <key>Tab</key>."
 msgid ""
 "To cycle through the list of open windows, do not release <key xref="
 "\"keyboard-key-super\">Super</key> but hold it down, and press <key>Tab</"
 "key>."
 msgstr ""
 "Για να περιηγηθείτε στη λίστα των ανοικτών παραθύρων, μην αφήσετε το <key "
-"xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key>, αλλά κρατήστε το πατημένο "
-"και πατήστε <key>στηλοθέτης</key>."
+"xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key>, αλλά κρατήστε το "
+"πατημένο και πατήστε <key>στηλοθέτης</key>."
 
 #: C/getting-started.page:102(div/p) C/switching-tasks.page:64(div/p)
 #: C/switching-tasks.page:127(item/p)
-#| msgid ""
-#| "Press the <key>Super</key> key to show the <gui>Activities Overview</gui>."
 msgid ""
 "Press the <key xref=\"keyboard-key-super\">Super</key> key to show the "
 "<gui>Activities Overview</gui>."
@@ -1184,9 +1178,6 @@ msgstr ""
 "πάρτε τη γραμμή τίτλου του παραθύρου και μεταφέρτε την στα δεξιά."
 
 #: C/move-windows.page:57(div/p) C/move-windows.page:127(item/p)
-#| msgid ""
-#| "To maximize a window using the keyboard, hold down the Super key and "
-#| "press <key>↑</key>."
 msgid ""
 "To maximize a window using the keyboard, hold down the <key xref=\"keyboard-"
 "key-super\">Super</key> key and press <key>↑</key>."
@@ -1196,45 +1187,33 @@ msgstr ""
 "πατήστε <key>↑</key>."
 
 #: C/move-windows.page:62(div/p)
-#| msgid ""
-#| "To restore the window to its unmaximized size, hold down the Super key "
-#| "and press <key>↓</key>."
 msgid ""
 "To restore the window to its unmaximized size, hold down the <key xref="
 "\"keyboard-key-super\">Super</key> key and press <key>↓</key>."
 msgstr ""
 "Για επαναφορά παραθύρου στο αμεγιστοποίητο μέγεθος του, κρατήστε πατημένο το "
-"πλήκτρο <key xref=\"keyboard-key-super\">λογότυπου</key> και πατήστε "
-"<key>↓</key>."
+"πλήκτρο <key xref=\"keyboard-key-super\">λογότυπου</key> και πατήστε <key>↓</"
+"key>."
 
 #: C/move-windows.page:67(div/p) C/move-windows.page:141(item/p)
-#| msgid ""
-#| "To maximize a window along the right side of the screen, hold down the "
-#| "Super key and press <key>→</key>."
 msgid ""
 "To maximize a window along the right side of the screen, hold down the <key "
 "xref=\"keyboard-key-super\">Super</key> key and press <key>→</key>."
 msgstr ""
 "Για μεγιστοποίηση ενός παραθύρου κατά μήκος της δεξιάς πλευράς της οθόνης, "
-"κρατήστε πατημένο το πλήκτρο <key xref=\"keyboard-key-super\">λογότυπου</key> "
-"και πατήστε <key>→</key>."
+"κρατήστε πατημένο το πλήκτρο <key xref=\"keyboard-key-super\">λογότυπου</"
+"key> και πατήστε <key>→</key>."
 
 #: C/move-windows.page:72(div/p) C/move-windows.page:144(item/p)
-#| msgid ""
-#| "To maximize a window along the left side of the screen, hold down the "
-#| "Super key and press <key>←</key>."
 msgid ""
 "To maximize a window along the left side of the screen, hold down the <key "
 "xref=\"keyboard-key-super\">Super</key> key and press <key>←</key>."
 msgstr ""
 "Για μεγιστοποίηση ενός παραθύρου κατά μήκος της αριστερής πλευράς της "
-"οθόνης, κρατήστε πατημένο το πλήκτρο <key xref=\"keyboard-key-"
-"super\">λογότυπου</key> και πατήστε <key>←</key>."
+"οθόνης, κρατήστε πατημένο το πλήκτρο <key xref=\"keyboard-key-super"
+"\">λογότυπου</key> και πατήστε <key>←</key>."
 
 #: C/move-windows.page:77(div/p)
-#| msgid ""
-#| "To move to a workspace which is below the current workspace, press "
-#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key></"
@@ -1245,9 +1224,6 @@ msgstr ""
 "λογότυπου</key><key>πλήκτρο σελίδα κάτω</key></keyseq>."
 
 #: C/move-windows.page:82(div/p)
-#| msgid ""
-#| "To move to a workspace which is above the current workspace, press "
-#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Page Up</key></"
@@ -1327,16 +1303,13 @@ msgstr ""
 "Μεγιστοποίηση και απομεγιστοποίηση παραθύρων χρησιμοποιώντας ρο πληκτρολόγιο"
 
 #: C/move-windows.page:130(item/p)
-#| msgid ""
-#| "To unmaximize a window using the keyboard, hold down the Super key and "
-#| "press <key>↓</key>."
 msgid ""
 "To unmaximize a window using the keyboard, hold down the <key xref="
 "\"keyboard-key-super\">Super</key> key and press <key>↓</key>."
 msgstr ""
 "Για απομεγιστοποίηση ενός παραθύρου χρησιμοποιώντας το πληκτρολόγιο, "
-"κρατήστε πατημένο το πλήκτρο <key xref=\"keyboard-key-super\">λογότυπου</key> "
-"και πατήστε <key>↓</key>."
+"κρατήστε πατημένο το πλήκτρο <key xref=\"keyboard-key-super\">λογότυπου</"
+"key> και πατήστε <key>↓</key>."
 
 #: C/move-windows.page:138(section/title)
 msgid "Tile windows using the keyboard"
@@ -1347,9 +1320,6 @@ msgid "Switch workspaces using the keyboard"
 msgstr "Εναλλαγή χώρων εργασίας χρησιμοποιώντας το πληκτρολόγιο"
 
 #: C/move-windows.page:156(item/p)
-#| msgid ""
-#| "To move to a workspace which is below the current workspace, press "
-#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key> </keyseq>."
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key> </"
@@ -1360,9 +1330,6 @@ msgstr ""
 "λογότυπου</key><key>πλήκτρο σελίδας κάτω</key> </keyseq>."
 
 #: C/move-windows.page:159(item/p)
-#| msgid ""
-#| "To move to a workspace which is above the current workspace, press "
-#| "<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key> </keyseq>."
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Up</key> </"
@@ -1377,45 +1344,55 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online-accounts.page:20(media)
+#| msgctxt "_"
+#| msgid "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
 msgctxt "_"
-msgid "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
-msgstr "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
+msgid "external ref='goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
+msgstr "external ref='goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online-accounts.page:27(media)
+#| msgctxt "_"
+#| msgid "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
 msgctxt "_"
-msgid "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
-msgstr "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
+msgid "external ref='goa2.svg' md5='0786fcd237df1588330b4489d7dedda6'"
+msgstr "external ref='goa2.svg' md5='0786fcd237df1588330b4489d7dedda6'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online-accounts.page:39(media)
+#| msgctxt "_"
+#| msgid "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
 msgctxt "_"
-msgid "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
-msgstr "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
+msgid "external ref='goa3.svg' md5='e4ae879bb449d9846d061c96b9070a9d'"
+msgstr "external ref='goa3.svg' md5='e4ae879bb449d9846d061c96b9070a9d'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online-accounts.page:46(media)
+#| msgctxt "_"
+#| msgid "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
 msgctxt "_"
-msgid "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
-msgstr "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
+msgid "external ref='goa4.svg' md5='be85f512313776ed58faf6072a8e59ef'"
+msgstr "external ref='goa4.svg' md5='be85f512313776ed58faf6072a8e59ef'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online-accounts.page:55(media)
+#| msgctxt "_"
+#| msgid "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
 msgctxt "_"
-msgid "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
-msgstr "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
+msgid "external ref='goa5.svg' md5='5deb427a0f7621bf8e7fed469a92954b'"
+msgstr "external ref='goa5.svg' md5='5deb427a0f7621bf8e7fed469a92954b'"
 
 #: C/online-accounts.page:15(info/title)
 msgctxt "link:trail"
@@ -1493,27 +1470,33 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online.page:30(media)
+#| msgctxt "_"
+#| msgid "external ref='go-online2.svg' md5='2c4ff4e5d03e2f03749a35ad909b3341'"
 msgctxt "_"
-msgid "external ref='go-online1.svg' md5='7ffd688bc5d186f95bfcee55d4fa601b'"
-msgstr "external ref='go-online1.svg' md5='7ffd688bc5d186f95bfcee55d4fa601b'"
+msgid "external ref='go-online1.svg' md5='daea04c13135c1aab3b117d8a133ed86'"
+msgstr "external ref='go-online1.svg' md5='daea04c13135c1aab3b117d8a133ed86'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online.page:43(media)
+#| msgctxt "_"
+#| msgid "external ref='go-online1.svg' md5='7ffd688bc5d186f95bfcee55d4fa601b'"
 msgctxt "_"
-msgid "external ref='go-online2.svg' md5='2c4ff4e5d03e2f03749a35ad909b3341'"
-msgstr "external ref='go-online2.svg' md5='2c4ff4e5d03e2f03749a35ad909b3341'"
+msgid "external ref='go-online2.svg' md5='0a0511b9f1e744495eeb3fb82573a5df'"
+msgstr "external ref='go-online2.svg' md5='0a0511b9f1e744495eeb3fb82573a5df'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/online.page:62(media)
+#| msgctxt "_"
+#| msgid "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
 msgctxt "_"
-msgid "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
-msgstr "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
+msgid "external ref='go-online3.svg' md5='58a5c6c77ee39f23fb3e5aaa6d78009f'"
+msgstr "external ref='go-online3.svg' md5='58a5c6c77ee39f23fb3e5aaa6d78009f'"
 
 #: C/online.page:15(info/title)
 msgctxt "link:trail"
@@ -1851,9 +1834,6 @@ msgid "Switch between windows"
 msgstr "Εναλλαγή μεταξύ παραθύρων"
 
 #: C/switching-tasks.page:111(item/p)
-#| msgid ""
-#| "Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the "
-#| "<gui>Window Switcher</gui>, which lists the currently open windows."
 msgid ""
 "Press <keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Tab</key></"
 "keyseq> to show the <gui>window switcher</gui>, which lists the currently "
@@ -1864,29 +1844,23 @@ msgstr ""
 "παραθύρων</gui>, που εμφανίζει τα τρέχοντα ανοικτά παράθυρα."
 
 #: C/switching-tasks.page:114(item/p)
-#| msgid ""
-#| "Release <key>Alt</key> to select the next highlighted window in the "
-#| "Window Switcher."
 msgid ""
 "Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
 "highlighted window in the <gui>window switcher</gui>."
 msgstr ""
-"Απελευθερώστε το <key xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key> για "
-"να επιλέξτε το επόμενο επισημασμένο παράθυρο στον <gui>εναλλάκτη "
+"Απελευθερώστε το <key xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key> "
+"για να επιλέξτε το επόμενο επισημασμένο παράθυρο στον <gui>εναλλάκτη "
 "παραθύρων</gui>."
 
 #: C/switching-tasks.page:116(item/p)
-#| msgid ""
-#| "To cycle through the list of open windows, do not release <key>Alt</key> "
-#| "but hold it down, and press <key>Tab</key>."
 msgid ""
 "To cycle through the list of open windows, do not release <key xref="
 "\"keyboard-key-super\">Super</key> but hold it down, and press <key> Tab</"
 "key>."
 msgstr ""
 "Για να περιηγηθείτε στη λίστα των ανοικτών παραθύρων, μην αφήσετε το <key "
-"xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key>, αλλά κρατήστε το πατημένο "
-"και πατήστε <key>στηλοθέτης</key>."
+"xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key>, αλλά κρατήστε το "
+"πατημένο και πατήστε <key>στηλοθέτης</key>."
 
 #: C/switching-tasks.page:124(section/title)
 msgid "Use search to switch applications"
@@ -2064,29 +2038,36 @@ msgstr "31"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/use-search.page:20(media)
+#| msgctxt "_"
+#| msgid "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
 msgctxt "_"
-msgid "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
-msgstr "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
+msgid "external ref='search1.svg' md5='93b873a25fb241cc12505faadc209247'"
+msgstr "external ref='search1.svg' md5='93b873a25fb241cc12505faadc209247'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/use-search.page:29(media)
+#| msgctxt "_"
+#| msgid "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
 msgctxt "_"
-msgid "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
-msgstr "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
+msgid "external ref='search2.svg' md5='ca4b89e6098deda603a6463df5746eb3'"
+msgstr "external ref='search2.svg' md5='ca4b89e6098deda603a6463df5746eb3'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/use-search.page:56(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
 msgctxt "_"
 msgid ""
-"external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
+"external ref='search-settings.svg' md5='47b7e436840de8fc78952beed88beccc'"
 msgstr ""
-"external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
+"external ref='search-settings.svg' md5='47b7e436840de8fc78952beed88beccc'"
 
 #: C/use-search.page:15(info/title)
 msgctxt "link:trail"
@@ -2247,6 +2228,10 @@ msgstr "http://gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Πλανήτης GNOME"
+
+#~ msgctxt "_"
+#~ msgid "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
+#~ msgstr "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
 
 #~ msgctxt "link:trail"
 #~ msgid "Get additional applications"
