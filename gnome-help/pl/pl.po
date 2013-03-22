@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2013-03-19 12:42+0000\n"
-"PO-Revision-Date: 2013-03-19 19:50+0100\n"
+"POT-Creation-Date: 2013-03-20 23:06+0000\n"
+"PO-Revision-Date: 2013-03-22 02:13+0100\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <gnomepl@aviary.pl>\n"
 "Language: pl\n"
@@ -259,7 +259,6 @@ msgid "Browse the web"
 msgstr "Przeglądanie WWW"
 
 #: C/browse-web.page:24(item/p) C/launch-apps.page:61(item/p)
-#: C/use-search.page:23(item/p)
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen to show the <gui>Activities Overview</gui>."
@@ -517,10 +516,10 @@ msgstr ""
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-task-switching.webm' "
-"md5='457a511b6086fe787e3b589717021a55'"
+"md5='bf6f8421e4064a71c05aadfb3c318e16'"
 msgstr ""
 "external ref='figures/gnome-task-switching.webm' "
-"md5='457a511b6086fe787e3b589717021a55'"
+"md5='bf6f8421e4064a71c05aadfb3c318e16'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -1060,7 +1059,7 @@ msgstr ""
 msgid "Launch applications with the keyboard"
 msgstr "Uruchamianie programów za pomocą klawiatury"
 
-#: C/launch-apps.page:75(item/p)
+#: C/launch-apps.page:75(item/p) C/use-search.page:23(item/p)
 msgid ""
 "Open the <gui>Activities Overview</gui> by pressing the <key>Super </key> "
 "key."
@@ -1090,10 +1089,10 @@ msgstr ""
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='2804904c3fd3928ba9ad794448ab4149'"
+"md5='3667a44d62d035399319d641e4f7b198'"
 msgstr ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='2804904c3fd3928ba9ad794448ab4149'"
+"md5='3667a44d62d035399319d641e4f7b198'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -1357,11 +1356,11 @@ msgstr "Łączenie z kontami online"
 msgid "Connect to online accounts"
 msgstr "Łączenie z kontami online"
 
-#: C/online-accounts.page:23(item/p) C/use-search.page:65(item/p)
+#: C/online-accounts.page:23(item/p) C/use-search.page:82(item/p)
 msgid "Click your name on the top bar."
 msgstr "Kliknij na swoje imię na górnym pasku."
 
-#: C/online-accounts.page:24(item/p) C/use-search.page:66(item/p)
+#: C/online-accounts.page:24(item/p) C/use-search.page:83(item/p)
 msgid "Select the <gui>Settings</gui> item."
 msgstr "Wybierz element <gui>Ustawienia</gui>."
 
@@ -1977,7 +1976,7 @@ msgstr "external ref='search1.svg' md5='93b873a25fb241cc12505faadc209247'"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/use-search.page:29(media)
+#: C/use-search.page:31(media)
 msgctxt "_"
 msgid "external ref='search2.svg' md5='ca4b89e6098deda603a6463df5746eb3'"
 msgstr "external ref='search2.svg' md5='ca4b89e6098deda603a6463df5746eb3'"
@@ -1986,7 +1985,7 @@ msgstr "external ref='search2.svg' md5='ca4b89e6098deda603a6463df5746eb3'"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/use-search.page:56(media)
+#: C/use-search.page:70(media)
 msgctxt "_"
 msgid ""
 "external ref='search-settings.svg' md5='47b7e436840de8fc78952beed88beccc'"
@@ -2009,7 +2008,7 @@ msgid ""
 msgstr ""
 "Zacznij pisać, aby wyszukać. Pasujące wyniki pojawiają się w trakcie pisania."
 
-#: C/use-search.page:26(item/p)
+#: C/use-search.page:27(item/p)
 msgid ""
 "The first result is always highlighted and shown at the top. To switch to "
 "the first, highlighted result, press <key>Enter</key>."
@@ -2017,32 +2016,32 @@ msgstr ""
 "Pierwszy wynik jest zawsze wyróżniony i wyświetlany na górze. Aby przełączyć "
 "na pierwszy, wyróżniony wynik, naciśnij klawisz <key>Enter</key>."
 
-#: C/use-search.page:31(item/p)
+#: C/use-search.page:33(item/p)
 msgid "Items that can appear in the search results include:"
 msgstr "Elementy, które mogą pojawić się w wynikach wyszukiwania obejmują:"
 
-#: C/use-search.page:33(item/p)
+#: C/use-search.page:35(item/p)
 msgid "matching applications, shown at the top of the search results,"
 msgstr "pasujące programy, wyświetlane na górze wyników wyszukiwania,"
 
-#: C/use-search.page:34(item/p)
+#: C/use-search.page:37(item/p)
 msgid "matching settings,"
 msgstr "pasujące ustawienia,"
 
-#: C/use-search.page:35(item/p)
+#: C/use-search.page:38(item/p)
 msgid "matching contacts,"
 msgstr "pasujące kontakty,"
 
-#: C/use-search.page:36(item/p)
+#: C/use-search.page:39(item/p)
 msgid "matching documents."
 msgstr "pasujące dokumenty."
 
-#: C/use-search.page:39(item/p)
+#: C/use-search.page:42(item/p)
 msgid "In the search results, click the item to switch to it."
 msgstr ""
 "W wynikach wyszukiwania można kliknąć element, aby na niego przełączyć."
 
-#: C/use-search.page:40(item/p)
+#: C/use-search.page:43(item/p)
 msgid ""
 "Alternatively, highlight an item using the arrow keys and press <key>Enter</"
 "key>."
@@ -2050,11 +2049,11 @@ msgstr ""
 "Można też wyróżnić element używając klawiszy strzałek i nacisnąć klawisz "
 "<key>Enter</key>."
 
-#: C/use-search.page:45(section/title)
+#: C/use-search.page:49(section/title)
 msgid "Types of results"
 msgstr "Rodzaje wyników"
 
-#: C/use-search.page:47(section/p)
+#: C/use-search.page:51(section/p)
 msgid ""
 "System search aggregates results from various applications. The first group "
 "of results are application launchers. Activating a launcher will start an "
@@ -2063,7 +2062,7 @@ msgstr ""
 "System wyszukiwania zbiera wyniki z różnych programów. Pierwsza grupa "
 "wyników to aktywatory programów. Uruchomienie aktywatora włączy dany program."
 
-#: C/use-search.page:48(section/p)
+#: C/use-search.page:54(section/p)
 msgid ""
 "Other types of results might include <app>settings</app>, <app>contacts</"
 "app> or <app>documents</app>. Each type of result is preceded with an icon "
@@ -2082,11 +2081,11 @@ msgstr ""
 "do ikony programu po lewej stronie i otworzyć dany program. Jak tylko "
 "program zostanie uruchomiony, wykonane wyszukiwanie zostanie w nim otwarte."
 
-#: C/use-search.page:54(section/title)
+#: C/use-search.page:68(section/title)
 msgid "Customize search results"
 msgstr "Dostosowywanie wyników wyszukiwania"
 
-#: C/use-search.page:59(note/p)
+#: C/use-search.page:73(note/p)
 msgid ""
 "GNOME lets you customize what you want to display in the search results in "
 "the <gui>Activities Overview</gui>. For example, you can choose whether you "
@@ -2096,15 +2095,15 @@ msgstr ""
 "wyszukiwania na <gui>ekranie podglądu</gui>. Na przykład można wybrać, czy "
 "strony WWW, zdjęcia lub muzyka mają być wyświetlane."
 
-#: C/use-search.page:62(section/p)
+#: C/use-search.page:79(section/p)
 msgid "To customize what is displayed in the search results:"
 msgstr "Aby dostosować, co ma być wyświetlane w wynikach wyszukiwania:"
 
-#: C/use-search.page:67(item/p)
+#: C/use-search.page:84(item/p)
 msgid "From the list of items, select <gui>Search</gui>."
 msgstr "Z listy elementów wybierz <gui>Wyszukiwanie</gui>."
 
-#: C/use-search.page:68(item/p)
+#: C/use-search.page:85(item/p)
 msgid ""
 "In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
 "the search location you want to enable or disable."
