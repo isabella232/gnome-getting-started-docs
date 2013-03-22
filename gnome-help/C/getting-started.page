@@ -17,7 +17,7 @@
   <media type="video" src="figures/gnome-launching-applications.webm"
    width="700" height="394">
     <ui:thumb src="thumb-launching-apps.svg">
-      <ui:caption><desc>Launch Applications</desc></ui:caption>
+      <ui:caption><desc style="center">Launch Applications</desc></ui:caption>
     </ui:thumb>
       <tt:tt xmlns:tt="http://www.w3.org/ns/ttml">
        <tt:body>
@@ -56,7 +56,7 @@
   <media type="video" src="figures/gnome-task-switching.webm" width="700"
    height="394">
     <ui:thumb src="thumb-task-switching.svg">
-        <ui:caption><desc>Switch Tasks</desc></ui:caption>
+        <ui:caption><desc style="center">Switch Tasks</desc></ui:caption>
     </ui:thumb>
       <tt:tt xmlns:tt="http://www.w3.org/ns/ttml">
        <tt:body>
@@ -119,7 +119,8 @@
   <media type="video" src="figures/gnome-responding-to-messages.webm"
    width="700" height="394">
     <ui:thumb src="thumb-responding-to-messages.svg">
-            <ui:caption><desc>Respond to messages</desc></ui:caption>
+            <ui:caption><desc style="center">Respond to messages</desc>
+            </ui:caption>
     </ui:thumb>
       <tt:tt xmlns:tt="http://www.w3.org/ns/ttml">
        <tt:body>
@@ -183,11 +184,18 @@
 
 
 <links type="topic" style="grid" groups="tasks">
-<title>Common Tasks</title>
+<title style="heading">Common Tasks</title>
 </links>
 
-<links type="guide" style="2column">
-<title>Learn More</title>
+<links type="guide" style="heading nodesc">
+<title/>
 </links>
+
+<!--
+<note style="plain">
+  <title>New in GNOME 3.8</title>
+  <p>New features described here.</p>
+</note>
+-->
 
 </page>
