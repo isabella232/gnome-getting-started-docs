@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2013-03-20 23:06+0000\n"
-"PO-Revision-Date: 2013-03-22 02:13+0100\n"
+"POT-Creation-Date: 2013-03-22 19:15+0000\n"
+"PO-Revision-Date: 2013-03-23 00:50+0100\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <gnomepl@aviary.pl>\n"
 "Language: pl\n"
@@ -47,7 +47,7 @@ msgstr "Uruchamianie programów"
 msgid "Changing Wallpaper"
 msgstr "Zmienianie tapety"
 
-#: C/animation.xml:7(titles/t) C/getting-started.page:127(div/p)
+#: C/animation.xml:7(titles/t) C/getting-started.page:130(div/p)
 #: C/responding-to-messages.page:26(div/p)
 msgid "Responding to Messages"
 msgstr "Odpowiadanie na wiadomości"
@@ -57,7 +57,7 @@ msgstr "Odpowiadanie na wiadomości"
 msgid "Switching Tasks"
 msgstr "Przełączanie między zadaniami"
 
-#: C/animation.xml:9(titles/t) C/getting-started.page:141(div/p)
+#: C/animation.xml:9(titles/t) C/getting-started.page:144(div/p)
 #: C/responding-to-messages.page:40(div/p)
 msgid "Delayed Response"
 msgstr "Opóźniona odpowiedź"
@@ -530,7 +530,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:120(media) C/responding-to-messages.page:21(media)
+#: C/getting-started.page:122(media) C/responding-to-messages.page:21(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-responding-to-messages.webm' "
@@ -565,8 +565,8 @@ msgid ""
 msgstr "Przesuń kursor myszy na <gui>Podgląd</gui> w lewym górnym rogu ekranu."
 
 #: C/getting-started.page:32(div/p) C/launch-apps.page:35(div/p)
-msgid "Click the <gui>Show Applications</gui> item."
-msgstr "Kliknij element <gui>Wyświetl programy</gui>."
+msgid "Click the <gui>Show Applications</gui> icon."
+msgstr "Kliknij ikonę <gui>Wyświetl programy</gui>."
 
 #: C/getting-started.page:35(div/p) C/launch-apps.page:38(div/p)
 msgid "Click the application you want to run, for example, Help."
@@ -574,11 +574,11 @@ msgstr "Kliknij program, który chcesz uruchomić, na przykład Pomoc."
 
 #: C/getting-started.page:39(div/p) C/launch-apps.page:42(div/p)
 msgid ""
-"Use the keyboard to open the <gui>Activities Overview</gui> <span begin=\"3s"
-"\">by pressing the <key>Super</key> key. </span>"
+"Alternatively, use the keyboard to open the <gui>Activities Overview</gui> "
+"by pressing the <key xref=\"keyboard-key-super\">Super</key> key."
 msgstr ""
-"Użyj klawiatury, aby otworzyć <gui>ekran podglądu</gui> <span begin=\"3s"
-"\">naciskając klawisz <key>Super</key>. </span>"
+"Można też użyć klawiatury, aby otworzyć <gui>ekran podglądu</gui> naciskając "
+"klawisz <key xref=\"keyboard-key-super\">Super</key>."
 
 #: C/getting-started.page:44(div/p) C/launch-apps.page:47(div/p)
 msgid "Start typing the name of the application you want to launch."
@@ -593,9 +593,9 @@ msgid "Switch Tasks"
 msgstr "Przełączanie między zadaniami"
 
 #: C/getting-started.page:71(div/p) C/switching-tasks.page:33(div/p)
-#: C/switching-tasks.page:86(item/p)
-msgid "Click a window to switch the task."
-msgstr "Kliknij okno, aby przełączyć zadanie."
+#: C/switching-tasks.page:88(item/p)
+msgid "Click a window to switch to that task."
+msgstr "Kliknij okno, aby przełączyć na to zadanie."
 
 #: C/getting-started.page:74(div/p) C/move-windows.page:43(div/p)
 #: C/switching-tasks.page:36(div/p)
@@ -606,13 +606,13 @@ msgstr ""
 "Aby zmaksymalizować okno przy lewej stronie ekranu, złap myszą jego pasek "
 "tytułowy i przesuń go w lewo."
 
-#: C/getting-started.page:78(div/p) C/getting-started.page:85(div/p)
-#: C/move-windows.page:47(div/p) C/move-windows.page:54(div/p)
-#: C/switching-tasks.page:40(div/p) C/switching-tasks.page:47(div/p)
-msgid "When half of the screen is highlighted, drop the window."
+#: C/getting-started.page:78(div/p) C/getting-started.page:86(div/p)
+#: C/move-windows.page:47(div/p) C/move-windows.page:55(div/p)
+#: C/switching-tasks.page:40(div/p) C/switching-tasks.page:48(div/p)
+msgid "When half of the screen is highlighted, release the window."
 msgstr "Kiedy połowa ekrany zostanie podświetlona, upuść okno."
 
-#: C/getting-started.page:81(div/p) C/switching-tasks.page:43(div/p)
+#: C/getting-started.page:82(div/p) C/switching-tasks.page:44(div/p)
 msgid ""
 "To maximize a window along the right side, grab the window's titlebar and "
 "drag it to the right."
@@ -620,7 +620,7 @@ msgstr ""
 "Aby zmaksymalizować okno po prawej stronie ekranu, złap myszą jego pasek "
 "tytułowy i przeciągnij go na prawą stronę."
 
-#: C/getting-started.page:88(div/p) C/switching-tasks.page:50(div/p)
+#: C/getting-started.page:90(div/p) C/switching-tasks.page:52(div/p)
 msgid ""
 "Press <keyseq><key xref=\"keyboard-key-super\">Super</key><key> Tab</key></"
 "keyseq> to show the <gui>window switcher</gui>."
@@ -628,7 +628,7 @@ msgstr ""
 "Naciśnij klawisze <keyseq><key xref=\"keyboard-key-super\">Super</"
 "key><key>Tab</key></keyseq>, aby wyświetlić <gui>przełącznik okien</gui>."
 
-#: C/getting-started.page:92(div/p) C/switching-tasks.page:54(div/p)
+#: C/getting-started.page:94(div/p) C/switching-tasks.page:56(div/p)
 msgid ""
 "Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
 "highlighted window."
@@ -636,7 +636,7 @@ msgstr ""
 "Puść klawisz <key xref=\"keyboard-key-super\">Super</key>, aby wybrać "
 "następne wyróżnione okno."
 
-#: C/getting-started.page:97(div/p) C/switching-tasks.page:59(div/p)
+#: C/getting-started.page:99(div/p) C/switching-tasks.page:61(div/p)
 msgid ""
 "To cycle through the list of open windows, do not release <key xref="
 "\"keyboard-key-super\">Super</key> but hold it down, and press <key>Tab</"
@@ -646,8 +646,8 @@ msgstr ""
 "\"keyboard-key-super\">Super</key>, tylko przytrzymaj go i naciśnij klawisz "
 "<key>Tab</key>."
 
-#: C/getting-started.page:102(div/p) C/switching-tasks.page:64(div/p)
-#: C/switching-tasks.page:127(item/p)
+#: C/getting-started.page:104(div/p) C/switching-tasks.page:66(div/p)
+#: C/switching-tasks.page:129(item/p)
 msgid ""
 "Press the <key xref=\"keyboard-key-super\">Super</key> key to show the "
 "<gui>Activities Overview</gui>."
@@ -655,11 +655,11 @@ msgstr ""
 "Naciśnij klawisz <key xref=\"keyboard-key-super\">Super</key>, aby "
 "wyświetlić <gui>ekran podglądu</gui>."
 
-#: C/getting-started.page:106(div/p) C/switching-tasks.page:68(div/p)
+#: C/getting-started.page:108(div/p) C/switching-tasks.page:70(div/p)
 msgid "Start typing the name of the application you want to switch to."
 msgstr "Zacznij wpisywać nazwę programu, na który chcesz przełączyć."
 
-#: C/getting-started.page:110(div/p) C/switching-tasks.page:72(div/p)
+#: C/getting-started.page:112(div/p) C/switching-tasks.page:74(div/p)
 msgid ""
 "When the application appears as the first result, press <key> Enter</key> to "
 "switch to it."
@@ -667,12 +667,12 @@ msgstr ""
 "Kiedy program pojawi się jako pierwszy wynik, naciśnij klawisz <key>Enter</"
 "key>, aby na niego przełączyć."
 
-#: C/getting-started.page:122(caption/desc)
+#: C/getting-started.page:124(caption/desc)
 #: C/responding-to-messages.page:19(page/title)
 msgid "Respond to messages"
 msgstr "Odpowiadanie na wiadomości"
 
-#: C/getting-started.page:130(div/p) C/responding-to-messages.page:29(div/p)
+#: C/getting-started.page:133(div/p) C/responding-to-messages.page:29(div/p)
 #: C/responding-to-messages.page:86(item/p)
 msgid ""
 "Move your mouse to the message tray at the bottom of the screen and click "
@@ -681,7 +681,7 @@ msgstr ""
 "Przesuń kursor myszy na obszar powiadamiania na dole ekranu i kliknij "
 "wiadomość."
 
-#: C/getting-started.page:134(div/p) C/responding-to-messages.page:33(div/p)
+#: C/getting-started.page:137(div/p) C/responding-to-messages.page:33(div/p)
 msgid ""
 "Start typing your reply and when finished, press <key>Enter </key> to send "
 "the reply."
@@ -689,13 +689,13 @@ msgstr ""
 "Zacznij pisać swoją odpowiedź, a po skończeniu naciśnij klawisz <key>Enter</"
 "key>, aby ją wysłać."
 
-#: C/getting-started.page:138(div/p) C/getting-started.page:159(div/p)
+#: C/getting-started.page:141(div/p) C/getting-started.page:162(div/p)
 #: C/responding-to-messages.page:37(div/p)
 #: C/responding-to-messages.page:58(div/p)
 msgid "Close the chat message."
 msgstr "Zamknij wiadomość."
 
-#: C/getting-started.page:144(div/p) C/responding-to-messages.page:43(div/p)
+#: C/getting-started.page:147(div/p) C/responding-to-messages.page:43(div/p)
 msgid ""
 "A chat message in the message tray disappears after a while if you do not "
 "move your mouse to the message tray."
@@ -703,18 +703,18 @@ msgstr ""
 "Wiadomość w obszarze powiadamiania znika po chwili, jeśli użytkownik nie "
 "przesunie do niego kursora myszy."
 
-#: C/getting-started.page:148(div/p) C/responding-to-messages.page:47(div/p)
+#: C/getting-started.page:151(div/p) C/responding-to-messages.page:47(div/p)
 msgid ""
 "To get back to your unanswered message, move your mouse to the message tray."
 msgstr ""
 "Aby wrócić do takiej wiadomości, przesuń kursor myszy do obszaru "
 "powiadamiania."
 
-#: C/getting-started.page:152(div/p) C/responding-to-messages.page:51(div/p)
+#: C/getting-started.page:155(div/p) C/responding-to-messages.page:51(div/p)
 msgid "Click the person who sent you the message."
 msgstr "Kliknij osobę, która wysłała ci wiadomość."
 
-#: C/getting-started.page:155(div/p) C/getting-started.page:170(div/p)
+#: C/getting-started.page:158(div/p) C/getting-started.page:173(div/p)
 #: C/responding-to-messages.page:54(div/p)
 #: C/responding-to-messages.page:69(div/p)
 msgid "Start typing your reply and when finished, press <key>Enter </key>."
@@ -722,15 +722,15 @@ msgstr ""
 "Zacznij pisać swoją odpowiedź, a po skończeniu naciśnij klawisz <key>Enter</"
 "key>."
 
-#: C/getting-started.page:162(div/p) C/responding-to-messages.page:61(div/p)
+#: C/getting-started.page:165(div/p) C/responding-to-messages.page:61(div/p)
 msgid ""
-"To show the message tray, press <keyseq><key>Super</key><key>M </key></"
-"keyseq>"
+"To show the message tray, press <keyseq> <key xref=\"keyboard-key-super"
+"\">Super</key><key>M</key></keyseq>"
 msgstr ""
-"Aby wyświetlić obszar powiadamiania, naciśnij klawisze <keyseq><key>Super</"
-"key><key>M</key></keyseq>"
+"Aby wyświetlić obszar powiadamiania, naciśnij klawisze <keyseq><key "
+"xref=\"keyboard-key-super\">Super</key><key>M</key></keyseq>"
 
-#: C/getting-started.page:166(div/p) C/responding-to-messages.page:65(div/p)
+#: C/getting-started.page:169(div/p) C/responding-to-messages.page:65(div/p)
 msgid ""
 "Use the arrow keys to select the person you want to reply to, and press "
 "<key>Enter</key>."
@@ -738,22 +738,18 @@ msgstr ""
 "Użyj klawiszy strzałek, aby wybrać osobę, która wysłała tę wiadomość i "
 "naciśnij klawisz <key>Enter</key>."
 
-#: C/getting-started.page:174(div/p) C/responding-to-messages.page:73(div/p)
+#: C/getting-started.page:177(div/p) C/responding-to-messages.page:73(div/p)
 #: C/responding-to-messages.page:125(item/p)
 msgid "Press <key>Esc</key> to close the chat message."
 msgstr "Naciśnij klawisz <key>Esc</key>, aby zamknąć wiadomość."
 
-#: C/getting-started.page:177(div/p) C/responding-to-messages.page:76(div/p)
+#: C/getting-started.page:180(div/p) C/responding-to-messages.page:76(div/p)
 msgid "To dismiss the message tray, press <key>Esc</key>."
 msgstr "Aby ukryć obszar powiadamiania, naciśnij klawisz <key>Esc</key>."
 
-#: C/getting-started.page:186(links/title)
+#: C/getting-started.page:189(links/title)
 msgid "Common Tasks"
 msgstr "Często wykonywane czynności"
-
-#: C/getting-started.page:190(links/title)
-msgid "Learn More"
-msgstr "Dowiedz się więcej"
 
 #: C/goa1.svg:20(Work/format) C/goa2.svg:29(Work/format)
 #: C/goa3.svg:29(Work/format) C/goa4.svg:23(Work/format)
@@ -1041,10 +1037,10 @@ msgstr "Uruchamianie programów za pomocą myszy"
 
 #: C/launch-apps.page:63(item/p)
 msgid ""
-"Click the <gui>Show Applications</gui> item that is shown at the bottom of "
+"Click the <gui>Show Applications</gui> icon that is shown at the bottom of "
 "the bar on the left-hand side of the screen."
 msgstr ""
-"Kliknij element <gui>Wyświetl programy</gui>, wyświetlany na dole paska po "
+"Kliknij ikonę <gui>Wyświetl programy</gui>, wyświetlaną na dole paska po "
 "lewej stronie ekranu."
 
 #: C/launch-apps.page:65(item/p)
@@ -1061,9 +1057,11 @@ msgstr "Uruchamianie programów za pomocą klawiatury"
 
 #: C/launch-apps.page:75(item/p) C/use-search.page:23(item/p)
 msgid ""
-"Open the <gui>Activities Overview</gui> by pressing the <key>Super </key> "
-"key."
-msgstr "Otwórz <gui>ekran podglądu</gui> naciskając klawisz <key>Super</key>."
+"Open the <gui>Activities Overview</gui> by pressing the <key xref=\"keyboard-"
+"key-super\">Super</key> key."
+msgstr ""
+"Otwórz <gui>ekran podglądu</gui> naciskając klawisz <key xref=\"keyboard-key-"
+"super\">Super</key>."
 
 #: C/launch-apps.page:77(item/p)
 msgid ""
@@ -1125,7 +1123,7 @@ msgstr ""
 "góry ekranu."
 
 #: C/move-windows.page:32(div/p)
-msgid "When the screen is highlighted, drop the window."
+msgid "When the screen is highlighted, release the window."
 msgstr "Kiedy ekran zostanie podświetlony, upuść okno."
 
 #: C/move-windows.page:35(div/p)
@@ -1141,7 +1139,7 @@ msgid ""
 "You can also click the top bar to drag the window away and unmaximize it."
 msgstr "Można także kliknąć górny pasek, aby przesunąć okno i je przywrócić."
 
-#: C/move-windows.page:50(div/p)
+#: C/move-windows.page:51(div/p)
 msgid ""
 "To maximize a window along the right side of the screen, grab the window's "
 "titlebar and drag it to the right."
@@ -1149,7 +1147,7 @@ msgstr ""
 "Aby zmaksymalizować okno przy prawej stronie ekranu, złap myszą jego pasek "
 "tytułowy i przesuń go w prawo."
 
-#: C/move-windows.page:57(div/p) C/move-windows.page:127(item/p)
+#: C/move-windows.page:59(div/p) C/move-windows.page:129(item/p)
 msgid ""
 "To maximize a window using the keyboard, hold down the <key xref=\"keyboard-"
 "key-super\">Super</key> key and press <key>↑</key>."
@@ -1157,7 +1155,7 @@ msgstr ""
 "Aby zmaksymalizować okno używając klawiatury, przytrzymaj klawisz <key xref="
 "\"keyboard-key-super\">Super</key> i naciśnij klawisz <key>↑</key>."
 
-#: C/move-windows.page:62(div/p)
+#: C/move-windows.page:64(div/p)
 msgid ""
 "To restore the window to its unmaximized size, hold down the <key xref="
 "\"keyboard-key-super\">Super</key> key and press <key>↓</key>."
@@ -1165,7 +1163,7 @@ msgstr ""
 "Aby przywrócić okno do stanu sprzed zmaksymalizowania, przytrzymaj klawisz "
 "<key xref=\"keyboard-key-super\">Super</key> i naciśnij klawisz <key>↓</key>."
 
-#: C/move-windows.page:67(div/p) C/move-windows.page:141(item/p)
+#: C/move-windows.page:69(div/p) C/move-windows.page:143(item/p)
 msgid ""
 "To maximize a window along the right side of the screen, hold down the <key "
 "xref=\"keyboard-key-super\">Super</key> key and press <key>→</key>."
@@ -1173,7 +1171,7 @@ msgstr ""
 "Aby zmaksymalizować okno przy prawej stronie ekranu, przytrzymaj klawisz "
 "<key xref=\"keyboard-key-super\">Super</key> i naciśnij klawisz <key>→</key>."
 
-#: C/move-windows.page:72(div/p) C/move-windows.page:144(item/p)
+#: C/move-windows.page:74(div/p) C/move-windows.page:146(item/p)
 msgid ""
 "To maximize a window along the left side of the screen, hold down the <key "
 "xref=\"keyboard-key-super\">Super</key> key and press <key>←</key>."
@@ -1181,7 +1179,7 @@ msgstr ""
 "Aby zmaksymalizować okno przy lewej stronie ekranu, przytrzymaj klawisz <key "
 "xref=\"keyboard-key-super\">Super</key> i naciśnij klawisz <key>←</key>."
 
-#: C/move-windows.page:77(div/p)
+#: C/move-windows.page:79(div/p)
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key></"
@@ -1191,7 +1189,7 @@ msgstr ""
 "naciśnij klawisze <keyseq><key xref=\"keyboard-key-super\">Super</"
 "key><key>Page Down</key></keyseq>."
 
-#: C/move-windows.page:82(div/p)
+#: C/move-windows.page:84(div/p)
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Page Up</key></"
@@ -1201,11 +1199,11 @@ msgstr ""
 "naciśnij klawisze <keyseq><key xref=\"keyboard-key-super\">Super</"
 "key><key>Page Up</key></keyseq>."
 
-#: C/move-windows.page:91(section/title)
+#: C/move-windows.page:93(section/title)
 msgid "Maximize and unmaximize windows"
 msgstr "Maksymalizacja i przywracanie okien"
 
-#: C/move-windows.page:95(item/p)
+#: C/move-windows.page:97(item/p)
 msgid ""
 "To maximize a window so that it takes up all of the space on your desktop, "
 "grab the window's titlebar and drag it to the top of the screen."
@@ -1213,11 +1211,11 @@ msgstr ""
 "Aby zmaksymalizować okno tak, aby zajmowało całą przestrzeń pulpitu, złap "
 "myszą jego pasek tytułowy i przesuń go do góry ekranu."
 
-#: C/move-windows.page:98(item/p)
-msgid "When the screen is highlighted, drop the window to maximize it."
+#: C/move-windows.page:100(item/p)
+msgid "When the screen is highlighted, release the window to maximize it."
 msgstr "Kiedy ekran zostanie podświetlony, upuść okno, aby je zmaksymalizować."
 
-#: C/move-windows.page:100(item/p)
+#: C/move-windows.page:102(item/p)
 msgid ""
 "To restore a window to its unmaximized size, grab the window's titlebar and "
 "drag it away from the edges of the screen."
@@ -1225,12 +1223,12 @@ msgstr ""
 "Aby przywrócić okno do stanu sprzed jego zmaksymalizowania, złap myszą jego "
 "pasek tytułowy i przesuń go od krawędzi ekranu."
 
-#: C/move-windows.page:107(section/title)
-#: C/switching-tasks.page:92(section/title)
+#: C/move-windows.page:109(section/title)
+#: C/switching-tasks.page:94(section/title)
 msgid "Tile windows"
 msgstr "Kafelkowanie okien"
 
-#: C/move-windows.page:111(item/p) C/switching-tasks.page:95(item/p)
+#: C/move-windows.page:113(item/p) C/switching-tasks.page:97(item/p)
 msgid ""
 "To maximize a window along a side of the screen, grab the window's titlebar "
 "and drag it to the left or right side of the screen."
@@ -1238,15 +1236,15 @@ msgstr ""
 "Aby zmaksymalizować okno na połowie ekranu, złap myszą jego pasek tytułowy i "
 "przesuń go do lewej lub prawej strony ekranu."
 
-#: C/move-windows.page:113(item/p) C/switching-tasks.page:97(item/p)
+#: C/move-windows.page:115(item/p) C/switching-tasks.page:99(item/p)
 msgid ""
-"When half of the screen is highlighted, drop the window to maximize it along "
-"the selected side of the screen."
+"When half of the screen is highlighted, release the window to maximize it "
+"along the selected side of the screen."
 msgstr ""
 "Kiedy połowa ekranu zostanie podświetlona, upuść okno, aby zmaksymalizować "
 "je przy wybranej stronie ekranu."
 
-#: C/move-windows.page:115(item/p) C/switching-tasks.page:99(item/p)
+#: C/move-windows.page:117(item/p) C/switching-tasks.page:101(item/p)
 msgid ""
 "To maximize two windows side-by-side, grab the titlebar of the second window "
 "and drag it to the opposite side of the screen."
@@ -1254,19 +1252,19 @@ msgstr ""
 "Aby zmaksymalizować okna obok siebie, złap myszą pasek tytułowy drugiego "
 "okna i przesuń go do przeciwnej strony ekranu."
 
-#: C/move-windows.page:117(item/p) C/switching-tasks.page:101(item/p)
+#: C/move-windows.page:119(item/p) C/switching-tasks.page:103(item/p)
 msgid ""
-"When half of the screen is highlighted, drop the window to maximize it along "
-"the opposite side of the screen."
+"When half of the screen is highlighted, release the window to maximize it "
+"along the opposite side of the screen."
 msgstr ""
 "Kiedy połowa ekranu zostanie podświetlona, upuść okno, aby zmaksymalizować "
 "je przy przeciwnej stronie ekranu."
 
-#: C/move-windows.page:124(section/title)
+#: C/move-windows.page:126(section/title)
 msgid "Maximize and unmaximize windows using the keyboard"
 msgstr "Maksymalizacja i przywracanie okien używając klawiatury"
 
-#: C/move-windows.page:130(item/p)
+#: C/move-windows.page:132(item/p)
 msgid ""
 "To unmaximize a window using the keyboard, hold down the <key xref="
 "\"keyboard-key-super\">Super</key> key and press <key>↓</key>."
@@ -1274,15 +1272,15 @@ msgstr ""
 "Aby przywrócić okno używając klawiatury, przytrzymaj klawisz <key xref="
 "\"keyboard-key-super\">Super</key> i naciśnij klawisz <key>↓</key>."
 
-#: C/move-windows.page:138(section/title)
+#: C/move-windows.page:140(section/title)
 msgid "Tile windows using the keyboard"
 msgstr "Kafelkowanie okien używając klawiatury"
 
-#: C/move-windows.page:152(section/title)
+#: C/move-windows.page:154(section/title)
 msgid "Switch workspaces using the keyboard"
 msgstr "Przełączanie obszarów roboczych używając klawiatury"
 
-#: C/move-windows.page:156(item/p)
+#: C/move-windows.page:158(item/p)
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key> </"
@@ -1292,7 +1290,7 @@ msgstr ""
 "naciśnij klawisze <keyseq><key xref=\"keyboard-key-super\">Super</"
 "key><key>Page Down</key> </keyseq>."
 
-#: C/move-windows.page:159(item/p)
+#: C/move-windows.page:161(item/p)
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Up</key> </"
@@ -1619,13 +1617,13 @@ msgstr "Opóźniona odpowiedź na wiadomość komunikatora używając klawiatury
 
 #: C/responding-to-messages.page:118(item/p)
 msgid ""
-"To get back to your unanswered chat messages, press <keyseq><key> Super</"
-"key><key>M</key></keyseq> to display the message tray that contains the "
-"messages."
+"To get back to your unanswered chat messages, press <keyseq> <key xref="
+"\"keyboard-key-super\">Super</key><key>M</key></keyseq> to display the "
+"message tray that contains the messages."
 msgstr ""
-"Aby wrócić do takiej wiadomości, naciśnij klawisze <keyseq><key>Super</"
-"key><key>M</key></keyseq>, aby wyświetlić obszar powiadamiania zawierający "
-"wiadomości."
+"Aby wrócić do takiej wiadomości, naciśnij klawisze <keyseq><key xref="
+"\"keyboard-key-super\">Super</key><key>M</key></keyseq>, aby wyświetlić "
+"obszar powiadamiania zawierający wiadomości."
 
 #: C/responding-to-messages.page:121(item/p)
 msgid ""
@@ -1637,11 +1635,11 @@ msgstr ""
 
 #: C/responding-to-messages.page:126(item/p)
 msgid ""
-"To dismiss the message tray, press <key>Esc</key> or <keyseq><key>Super</"
-"key><key>M</key></keyseq>."
+"To dismiss the message tray, press <key>Esc</key> or <keyseq> <key xref="
+"\"keyboard-key-super\">Super</key><key>M</key></keyseq>."
 msgstr ""
 "Aby ukryć obszar powiadamiania, naciśnij klawisz <key>Esc</key> lub "
-"<keyseq><key>Super</key><key>M</key></keyseq>."
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>M</key></keyseq>."
 
 #: C/search1.svg:187(text/tspan)
 #, no-wrap
@@ -1747,11 +1745,11 @@ msgid "Switch tasks"
 msgstr "Przełączanie między zadaniami"
 
 #: C/switching-tasks.page:19(page/title)
-#: C/switching-tasks.page:80(section/title)
+#: C/switching-tasks.page:82(section/title)
 msgid "Switch tasks"
 msgstr "Przełączanie między zadaniami"
 
-#: C/switching-tasks.page:83(item/p)
+#: C/switching-tasks.page:85(item/p)
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen to show the <gui>Activities Overview</gui> where you can see "
@@ -1761,11 +1759,11 @@ msgstr ""
 "wyświetlić <gui>ekran podglądu</gui>, gdzie można zobaczyć wszystkie obecnie "
 "uruchomione zadania, wyświetlone jako małe okna."
 
-#: C/switching-tasks.page:108(section/title)
+#: C/switching-tasks.page:110(section/title)
 msgid "Switch between windows"
 msgstr "Przełączanie między oknami"
 
-#: C/switching-tasks.page:111(item/p)
+#: C/switching-tasks.page:113(item/p)
 msgid ""
 "Press <keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Tab</key></"
 "keyseq> to show the <gui>window switcher</gui>, which lists the currently "
@@ -1775,7 +1773,7 @@ msgstr ""
 "key><key>Tab</key></keyseq>, aby wyświetlić <gui>przełącznik okien</gui>, "
 "który wyświetla listę obecnie otwartych okien."
 
-#: C/switching-tasks.page:114(item/p)
+#: C/switching-tasks.page:116(item/p)
 msgid ""
 "Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
 "highlighted window in the <gui>window switcher</gui>."
@@ -1783,7 +1781,7 @@ msgstr ""
 "Puść klawisz <key xref=\"keyboard-key-super\">Super</key>, aby wybrać "
 "następne wyróżnione okno w <gui>przełączniku okien</gui>."
 
-#: C/switching-tasks.page:116(item/p)
+#: C/switching-tasks.page:118(item/p)
 msgid ""
 "To cycle through the list of open windows, do not release <key xref="
 "\"keyboard-key-super\">Super</key> but hold it down, and press <key> Tab</"
@@ -1793,11 +1791,11 @@ msgstr ""
 "\"keyboard-key-super\">Super</key>, tylko przytrzymaj go i naciśnij klawisz "
 "<key>Tab</key>."
 
-#: C/switching-tasks.page:124(section/title)
+#: C/switching-tasks.page:126(section/title)
 msgid "Use search to switch applications"
 msgstr "Używanie wyszukiwania do przełączania między programami"
 
-#: C/switching-tasks.page:129(item/p)
+#: C/switching-tasks.page:131(item/p)
 msgid ""
 "Just start typing the name of the application you want to switch to. "
 "Applications matching what you have typed will appear as you type."
@@ -1805,7 +1803,7 @@ msgstr ""
 "Po prostu zacznij wpisywać nazwę programu, na który chcesz przełączyć. "
 "Pasujące programy będą pojawiały się w trakcie pisania."
 
-#: C/switching-tasks.page:132(item/p)
+#: C/switching-tasks.page:134(item/p)
 msgid ""
 "When the application that you want to switch to appears as the first result, "
 "press <key>Enter</key> to switch to it."
@@ -2011,10 +2009,10 @@ msgstr ""
 #: C/use-search.page:27(item/p)
 msgid ""
 "The first result is always highlighted and shown at the top. To switch to "
-"the first, highlighted result, press <key>Enter</key>."
+"the first highlighted result press <key>Enter</key>."
 msgstr ""
 "Pierwszy wynik jest zawsze wyróżniony i wyświetlany na górze. Aby przełączyć "
-"na pierwszy, wyróżniony wynik, naciśnij klawisz <key>Enter</key>."
+"na pierwszy wynik, naciśnij klawisz <key>Enter</key>."
 
 #: C/use-search.page:33(item/p)
 msgid "Items that can appear in the search results include:"
