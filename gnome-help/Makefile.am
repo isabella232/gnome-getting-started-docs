@@ -14,36 +14,36 @@ HELP_MEDIA = \
 	figures/gnome-yelp-intro.webm
 
 HELP_FILES = \
-	animation.xml \
-	browse-web.page \
-	change-time.page \
-	change-wallpaper.page \
 	getting-started.page \
-	goa1.svg \
-	goa2.svg \
-	goa3.svg \
-	goa4.svg \
-	goa5.svg \
-	go-online1.svg \
-	go-online2.svg \
-	go-online3.svg \
+	gs-animation.xml \
+	gs-browse-web.page \
+	gs-change-date-time-timezone.page \
+	gs-change-wallpaper.page \
+	gs-connect-online-accounts.page \
+	gs-get-online.page \
+	gs-goa1.svg \
+	gs-goa2.svg \
+	gs-goa3.svg \
+	gs-goa4.svg \
+	gs-goa5.svg \
+	gs-go-online1.svg \
+	gs-go-online2.svg \
+	gs-go-online3.svg \
+	gs-launch-applications.page \
 	gs-legal.xml \
-	launch-apps.page \
-	move-windows.page \
-	online-accounts.page \
-	online.page \
-	responding-to-messages.page \
-	search1.svg \
-	search2.svg \
-	search-settings.svg \
-	switching-tasks.page \
-	thumb-changing-wallpaper.svg \
-	thumb-launching-apps.svg \
-	thumb-responding-to-messages.svg \
-	thumb-task-switching.svg \
-	thumb-timezone.svg \
-	thumb-windows-and-workspaces.svg \
-	use-search.page \
-	web-browser1.svg \
-	web-browser2.svg
+	gs-respond-messages.page \
+	gs-search1.svg \
+	gs-search2.svg \
+	gs-search-settings.svg \
+	gs-switch-tasks.page \
+	gs-thumb-changing-wallpaper.svg \
+	gs-thumb-launching-apps.svg \
+	gs-thumb-responding-to-messages.svg \
+	gs-thumb-task-switching.svg \
+	gs-thumb-timezone.svg \
+	gs-thumb-windows-and-workspaces.svg \
+	gs-use-system-search.page \
+	gs-use-windows-workspaces.page \
+	gs-web-browser1.svg \
+	gs-web-browser2.svg
 

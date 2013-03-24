@@ -1,7 +1,7 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:ui="http://projectmallard.org/experimental/ui/"
       type="topic" style="ui"
-      id="online">
+      id="gs-get-online">
 
   <info>
     <include href="gs-legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -13,7 +13,7 @@
     </credit>
     <link type="guide" xref="getting-started" group="videos"/>
     <title role="trail" type="link">Get online</title>
-    <ui:thumb src="figures/online.png"/>
+<!--    <ui:thumb src="gs-online.png"/>-->
   </info>
 
   <title>Get online</title>
@@ -27,7 +27,7 @@
 
     <title>Connect to a wired network</title>
 
-    <media type="image" src="go-online1.svg" width="100%" />
+    <media type="image" src="gs-go-online1.svg" width="100%" />
 
     <steps>
       <item><p>The network connection icon on the right-hand side of the top
@@ -40,7 +40,7 @@
        networks in your area.</p></item>
     </steps>
 
-    <media type="image" src="go-online2.svg" width="100%" />
+    <media type="image" src="gs-go-online2.svg" width="100%" />
 
     <steps style="continues">
       <item><p>If you want to use a wired connection, just plug in a network
@@ -59,7 +59,7 @@
 
     <title>Connect to other types of networks</title>
 
-    <media type="image" src="go-online3.svg" width="100%" />
+    <media type="image" src="gs-go-online3.svg" width="100%" />
     
     <steps>
     <item><p>There are various types of network connections that you can use

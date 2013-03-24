@@ -1,7 +1,7 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:ui="http://projectmallard.org/experimental/ui/"
       type="topic" style="ui"
-      id="use-search">
+      id="gs-use-system-search">
 
   <info>
     <include href="gs-legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -17,7 +17,7 @@
 
   <title>Use the system search</title>
 
-    <media type="image" src="search1.svg" width="100%" />
+    <media type="image" src="gs-search1.svg" width="100%" />
     
     <steps>
     <item><p>Open the <gui>Activities Overview</gui> by pressing the
@@ -28,7 +28,7 @@
       switch to the first highlighted result press <key>Enter</key>.</p></item>
     </steps>
     
-    <media type="image" src="search2.svg" width="100%" />
+    <media type="image" src="gs-search2.svg" width="100%" />
     <steps style="continues">
       <item><p>Items that can appear in the search results include:</p>
       <list>
@@ -67,7 +67,7 @@
 
       <title>Customize search results</title>
 
-      <media type="image" src="search-settings.svg" width="100%" />
+      <media type="image" src="gs-search-settings.svg" width="100%" />
 
       <note style="important">
       <p>GNOME lets you customize what you want to display in the search

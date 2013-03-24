@@ -2,7 +2,7 @@
       xmlns:ui="http://projectmallard.org/experimental/ui/"
       type="topic"
       style="ui"
-      id="browse-web">
+      id="gs-browse-web">
 
   <info>
     <include href="gs-legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -18,7 +18,7 @@
 
   <title>Browse the web</title>
 
-    <media type="image" src="web-browser1.svg" width="100%" />
+    <media type="image" src="gs-web-browser1.svg" width="100%" />
 
     <steps>
       <item><p>Move your mouse pointer to the <gui>Activities</gui> corner at
@@ -30,10 +30,10 @@
     </steps>
 
     <note><p>Alternatively, you can launch the <app>Web</app> browser by <link 
-    xref="use-search">just typing</link> the browser name in the <gui>Activities
-    Overview</gui>.</p></note>
+    xref="gs-use-system-search">just typing</link> the browser name in the
+    <gui>Activities Overview</gui>.</p></note>
 
-    <media type="image" src="web-browser2.svg" width="100%" />
+    <media type="image" src="gs-web-browser2.svg" width="100%" />
 
     <steps style="continues">
       <item><p>Click the address bar at the top of the <app>Web</app> browser
