@@ -30,7 +30,12 @@ for fname in glob.glob('*svg'):
   print("processing %s" % (fname))
   os.system("inkscape --vacuum-defs -l %s %s" % (TEMP, fname))
   svg = ElementTree.parse(TEMP)
-  rebrand(fname, "BLANK") #BLANK, GNOME, RHEL7
+  #FIXME: thumbs jsou GNOME, zbytek BLANK
+  if (fname[:8]=="gs-thumb"):
+    rebrand(fname, "GNOME") #BLANK, GNOME, RHEL7
+  else:
+    rebrand(fname, "BLANK") #BLANK, GNOME, RHEL7
+
   #relativizeSize(fname)
   svg.write('../gnome-help/C/%s' % (fname))
   os.unlink(TEMP)
