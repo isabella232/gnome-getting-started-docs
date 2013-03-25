@@ -18,8 +18,9 @@
 
   <title>Change the date, time and timezone</title>
 
+  <ui:overlay width="812" height="452">
   <media type="video" src="figures/gnome-timezone.webm" width="840" height="468">
-    <media type="image" style="poster" src="gs-thumb-timezone.svg"/>
+    <ui:thumb src="gs-thumb-timezone.svg"/>
       <tt:tt xmlns:tt="http://www.w3.org/ns/ttml">
        <tt:body>
          <tt:div begin="1s" end="5s">
@@ -44,7 +45,8 @@
        </tt:body>
      </tt:tt>
   </media>
-  
+  </ui:overlay>
+
   <section id="change-date-time">
     <title>Change the date, time and timezone</title>
 

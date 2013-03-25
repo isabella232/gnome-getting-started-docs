@@ -20,8 +20,9 @@
 
   <title>Launch applications</title>
 
+  <ui:overlay width="812" height="452">
    <media type="video" src="figures/gnome-launching-applications.webm" width="840" height="468">
-     <media type="image" style="poster" src="gs-thumb-launching-apps.svg"/>
+    <ui:thumb src="gs-thumb-launching-apps.svg"/>
       <tt:tt xmlns:tt="http://www.w3.org/ns/ttml">
        <tt:body>
          <tt:div begin="1s" end="5s">
@@ -53,7 +54,8 @@
        </tt:body>
      </tt:tt>
    </media>
-  
+  </ui:overlay>
+
   <section id="launch-apps-mouse">
     <title>Launch applications with the mouse</title>
  
