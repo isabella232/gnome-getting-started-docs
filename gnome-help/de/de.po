@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-03-25 18:28+0000\n"
-"PO-Revision-Date: 2013-03-25 19:39+0100\n"
+"POT-Creation-Date: 2013-03-25 18:49+0000\n"
+"PO-Revision-Date: 2013-03-25 19:52+0100\n"
 "Last-Translator: Mario Blättermann <mario.blaettermann@gmail.com>\n"
 "Language-Team: Deutsch <gnome-de@gnome.org>\n"
 "Language: de\n"
@@ -362,15 +362,15 @@ msgstr "Arbeitsfläche hinauf"
 msgid "Right half of screen"
 msgstr "Die rechte Hälfte des Bildschirms"
 
-#: C/gs-animation.xml:18(titles/t) C/gs-go-online1.svg:78(text/tspan)
-#: C/gs-search1.svg:177(text/tspan) C/gs-search2.svg:99(text/tspan)
-#: C/gs-thumb-changing-wallpaper.svg:68(text/tspan)
-#: C/gs-thumb-launching-apps.svg:192(text/tspan)
-#: C/gs-thumb-responding-to-messages.svg:39(text/tspan)
-#: C/gs-thumb-task-switching.svg:155(text/tspan)
-#: C/gs-thumb-timezone.svg:44(text/tspan)
-#: C/gs-thumb-windows-and-workspaces.svg:92(text/tspan)
-#: C/gs-web-browser1.svg:106(text/tspan)
+#: C/gs-animation.xml:18(titles/t) C/gs-go-online1.svg:241(text/tspan)
+#: C/gs-search1.svg:190(text/tspan) C/gs-search2.svg:146(text/tspan)
+#: C/gs-thumb-changing-wallpaper.svg:71(text/tspan)
+#: C/gs-thumb-launching-apps.svg:195(text/tspan)
+#: C/gs-thumb-responding-to-messages.svg:42(text/tspan)
+#: C/gs-thumb-task-switching.svg:158(text/tspan)
+#: C/gs-thumb-timezone.svg:50(text/tspan)
+#: C/gs-thumb-windows-and-workspaces.svg:95(text/tspan)
+#: C/gs-web-browser1.svg:122(text/tspan)
 #, no-wrap
 msgid "Activities"
 msgstr "Aktivitäten"
@@ -408,25 +408,25 @@ msgid "Just start typing…"
 msgstr "Fangen Sie einfach an zu tippen …"
 
 # John Doe im engl. ist doch sowas wie "Max Mustermann/frau" ??
-#: C/gs-animation.xml:27(titles/t) C/gs-goa1.svg:42(text/tspan)
-#: C/gs-goa1.svg:69(text/tspan) C/gs-go-online1.svg:76(text/tspan)
-#: C/gs-go-online1.svg:87(text/tspan) C/gs-go-online1.svg:153(text/tspan)
-#: C/gs-go-online2.svg:45(text/tspan) C/gs-go-online2.svg:76(text/tspan)
-#: C/gs-go-online3.svg:135(text/tspan) C/gs-search1.svg:174(text/tspan)
-#: C/gs-search2.svg:96(text/tspan)
-#: C/gs-thumb-changing-wallpaper.svg:69(text/tspan)
-#: C/gs-thumb-launching-apps.svg:193(text/tspan)
-#: C/gs-thumb-responding-to-messages.svg:40(text/tspan)
-#: C/gs-thumb-responding-to-messages.svg:58(text/tspan)
-#: C/gs-thumb-task-switching.svg:156(text/tspan)
-#: C/gs-thumb-timezone.svg:45(text/tspan)
-#: C/gs-thumb-windows-and-workspaces.svg:93(text/tspan)
+#: C/gs-animation.xml:27(titles/t) C/gs-goa1.svg:43(text/tspan)
+#: C/gs-goa1.svg:70(text/tspan) C/gs-go-online1.svg:239(text/tspan)
+#: C/gs-go-online1.svg:250(text/tspan) C/gs-go-online1.svg:316(text/tspan)
+#: C/gs-go-online2.svg:235(text/tspan) C/gs-go-online2.svg:266(text/tspan)
+#: C/gs-go-online3.svg:332(text/tspan) C/gs-search1.svg:187(text/tspan)
+#: C/gs-search2.svg:143(text/tspan)
+#: C/gs-thumb-changing-wallpaper.svg:72(text/tspan)
+#: C/gs-thumb-launching-apps.svg:196(text/tspan)
+#: C/gs-thumb-responding-to-messages.svg:43(text/tspan)
+#: C/gs-thumb-responding-to-messages.svg:61(text/tspan)
+#: C/gs-thumb-task-switching.svg:159(text/tspan)
+#: C/gs-thumb-timezone.svg:51(text/tspan)
+#: C/gs-thumb-windows-and-workspaces.svg:96(text/tspan)
 #, no-wrap
 msgid "John Doe"
 msgstr "Max Mustermann"
 
-#: C/gs-animation.xml:28(titles/t) C/gs-goa1.svg:74(text/tspan)
-#: C/gs-thumb-changing-wallpaper.svg:74(text/tspan)
+#: C/gs-animation.xml:28(titles/t) C/gs-goa1.svg:75(text/tspan)
+#: C/gs-thumb-changing-wallpaper.svg:77(text/tspan)
 #, no-wrap
 msgid "Settings"
 msgstr "Einstellungen"
@@ -452,7 +452,7 @@ msgid "I'll be there in a sec..."
 msgstr "Ich bin in einer Sekunde da …"
 
 #: C/gs-animation.xml:34(titles/t)
-#: C/gs-thumb-responding-to-messages.svg:57(text/tspan)
+#: C/gs-thumb-responding-to-messages.svg:60(text/tspan)
 #, no-wrap
 msgid "Good stuff, thanks again"
 msgstr "Gutes Zeugs, danke nochmals"
@@ -492,7 +492,7 @@ msgstr "Automatisch Datum und Uhrzeit einstellen"
 #: C/gs-browse-web.page:21(media)
 msgctxt "_"
 msgid ""
-"external ref='gs-web-browser1.svg' md5='380ae6420b6eeef748add9fa8d3ebc19'"
+"external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
 msgstr "translated"
 
 #. This is a reference to an external file such as an image or video. When
@@ -502,7 +502,7 @@ msgstr "translated"
 #: C/gs-browse-web.page:36(media)
 msgctxt "_"
 msgid ""
-"external ref='gs-web-browser2.svg' md5='93bfea229039508aa26d81ebfb372130'"
+"external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
 msgstr "translated"
 
 #: C/gs-browse-web.page:10(credit/name)
@@ -762,7 +762,7 @@ msgstr ""
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:20(media)
 msgctxt "_"
-msgid "external ref='gs-goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
+msgid "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
 msgstr "translated"
 
 #. This is a reference to an external file such as an image or video. When
@@ -771,7 +771,7 @@ msgstr "translated"
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:27(media)
 msgctxt "_"
-msgid "external ref='gs-goa2.svg' md5='0786fcd237df1588330b4489d7dedda6'"
+msgid "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
 msgstr "translated"
 
 #. This is a reference to an external file such as an image or video. When
@@ -780,7 +780,7 @@ msgstr "translated"
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:39(media)
 msgctxt "_"
-msgid "external ref='gs-goa3.svg' md5='e4ae879bb449d9846d061c96b9070a9d'"
+msgid "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
 msgstr "translated"
 
 #. This is a reference to an external file such as an image or video. When
@@ -789,7 +789,7 @@ msgstr "translated"
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:46(media)
 msgctxt "_"
-msgid "external ref='gs-goa4.svg' md5='be85f512313776ed58faf6072a8e59ef'"
+msgid "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
 msgstr "translated"
 
 #. This is a reference to an external file such as an image or video. When
@@ -798,7 +798,7 @@ msgstr "translated"
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:55(media)
 msgctxt "_"
-msgid "external ref='gs-goa5.svg' md5='5deb427a0f7621bf8e7fed469a92954b'"
+msgid "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
 msgstr "translated"
 
 #: C/gs-connect-online-accounts.page:15(info/title)
@@ -880,7 +880,7 @@ msgstr ""
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-get-online.page:30(media)
 msgctxt "_"
-msgid "external ref='gs-go-online1.svg' md5='daea04c13135c1aab3b117d8a133ed86'"
+msgid "external ref='gs-go-online1.svg' md5='5e1aa458f42d9a534678ac2196cf84a2'"
 msgstr "translated"
 
 #. This is a reference to an external file such as an image or video. When
@@ -889,7 +889,7 @@ msgstr "translated"
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-get-online.page:43(media)
 msgctxt "_"
-msgid "external ref='gs-go-online2.svg' md5='0a0511b9f1e744495eeb3fb82573a5df'"
+msgid "external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
 msgstr "translated"
 
 #. This is a reference to an external file such as an image or video. When
@@ -898,7 +898,7 @@ msgstr "translated"
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-get-online.page:62(media)
 msgctxt "_"
-msgid "external ref='gs-go-online3.svg' md5='58a5c6c77ee39f23fb3e5aaa6d78009f'"
+msgid "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
 msgstr "translated"
 
 #: C/gs-get-online.page:15(info/title)
@@ -1001,258 +1001,260 @@ msgstr ""
 "Netzwerkverbindungssymbol auf der rechten Seite der oberen Leiste und wählen "
 "Sie die Netzwerkverbindung, die Sie verbinden wollen."
 
-#: C/gs-goa1.svg:20(Work/format) C/gs-goa2.svg:29(Work/format)
-#: C/gs-goa3.svg:29(Work/format) C/gs-goa4.svg:23(Work/format)
-#: C/gs-goa5.svg:20(Work/format) C/gs-go-online1.svg:57(Work/format)
-#: C/gs-go-online2.svg:29(Work/format) C/gs-go-online3.svg:59(Work/format)
-#: C/gs-search1.svg:75(Work/format) C/gs-search2.svg:77(Work/format)
-#: C/gs-search-settings.svg:83(Work/format)
-#: C/gs-thumb-changing-wallpaper.svg:27(Work/format)
-#: C/gs-thumb-launching-apps.svg:177(Work/format)
-#: C/gs-thumb-responding-to-messages.svg:24(Work/format)
-#: C/gs-thumb-task-switching.svg:77(Work/format)
-#: C/gs-thumb-timezone.svg:29(Work/format)
-#: C/gs-thumb-windows-and-workspaces.svg:77(Work/format)
-#: C/gs-web-browser1.svg:92(Work/format) C/gs-web-browser2.svg:37(Work/format)
+#: C/gs-goa1.svg:21(Work/format) C/gs-goa2.svg:38(Work/format)
+#: C/gs-goa3.svg:38(Work/format) C/gs-goa4.svg:36(Work/format)
+#: C/gs-goa5.svg:35(Work/format) C/gs-go-online1.svg:220(Work/format)
+#: C/gs-go-online2.svg:219(Work/format) C/gs-go-online3.svg:256(Work/format)
+#: C/gs-search1.svg:88(Work/format) C/gs-search2.svg:124(Work/format)
+#: C/gs-search-settings.svg:98(Work/format)
+#: C/gs-thumb-changing-wallpaper.svg:30(Work/format)
+#: C/gs-thumb-launching-apps.svg:180(Work/format)
+#: C/gs-thumb-responding-to-messages.svg:27(Work/format)
+#: C/gs-thumb-task-switching.svg:80(Work/format)
+#: C/gs-thumb-timezone.svg:35(Work/format)
+#: C/gs-thumb-windows-and-workspaces.svg:80(Work/format)
+#: C/gs-web-browser1.svg:108(Work/format)
+#: C/gs-web-browser2.svg:100(Work/format)
 msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
-#: C/gs-goa1.svg:60(text/tspan) C/gs-go-online1.svg:69(text/tspan)
-#: C/gs-go-online3.svg:72(text/tspan) C/gs-search1.svg:87(text/tspan)
-#: C/gs-thumb-timezone.svg:69(text/tspan)
-#: C/gs-thumb-timezone.svg:103(text/tspan)
-#: C/gs-web-browser1.svg:104(text/tspan)
+#: C/gs-goa1.svg:61(text/tspan) C/gs-go-online1.svg:232(text/tspan)
+#: C/gs-go-online3.svg:269(text/tspan) C/gs-search1.svg:100(text/tspan)
+#: C/gs-thumb-timezone.svg:79(text/tspan)
+#: C/gs-thumb-timezone.svg:113(text/tspan)
+#: C/gs-web-browser1.svg:120(text/tspan)
 #, no-wrap
 msgid "1"
 msgstr "1"
 
-#: C/gs-goa1.svg:64(text/tspan) C/gs-go-online1.svg:120(text/tspan)
-#: C/gs-search2.svg:89(text/tspan) C/gs-thumb-timezone.svg:70(text/tspan)
-#: C/gs-thumb-timezone.svg:104(text/tspan)
-#: C/gs-web-browser1.svg:137(text/tspan)
+#: C/gs-goa1.svg:65(text/tspan) C/gs-go-online1.svg:283(text/tspan)
+#: C/gs-search2.svg:136(text/tspan) C/gs-thumb-timezone.svg:80(text/tspan)
+#: C/gs-thumb-timezone.svg:114(text/tspan)
+#: C/gs-web-browser1.svg:153(text/tspan)
 #, no-wrap
 msgid "2"
 msgstr "2"
 
-#: C/gs-goa2.svg:41(text/tspan) C/gs-go-online2.svg:41(text/tspan)
-#: C/gs-thumb-timezone.svg:71(text/tspan)
-#: C/gs-thumb-timezone.svg:105(text/tspan)
-#: C/gs-web-browser2.svg:100(text/tspan)
+#: C/gs-goa2.svg:50(text/tspan) C/gs-go-online2.svg:231(text/tspan)
+#: C/gs-thumb-timezone.svg:81(text/tspan)
+#: C/gs-thumb-timezone.svg:115(text/tspan)
+#: C/gs-web-browser2.svg:163(text/tspan)
 #, no-wrap
 msgid "3"
 msgstr "3"
 
-#: C/gs-goa2.svg:72(text/tspan) C/gs-goa3.svg:72(text/tspan)
-#: C/gs-goa5.svg:64(text/tspan)
+#: C/gs-goa2.svg:81(text/tspan) C/gs-goa3.svg:81(text/tspan)
+#: C/gs-goa5.svg:79(text/tspan)
 #, no-wrap
 msgid "Online Accounts"
 msgstr "Online-Konten"
 
-#: C/gs-goa2.svg:74(text/tspan) C/gs-goa3.svg:74(text/tspan)
+#: C/gs-goa2.svg:83(text/tspan) C/gs-goa3.svg:83(text/tspan)
 #, no-wrap
 msgid "Add an online account"
 msgstr "Ein Online-Konto hinzufügen"
 
-#: C/gs-goa3.svg:41(text/tspan) C/gs-thumb-timezone.svg:72(text/tspan)
-#: C/gs-thumb-timezone.svg:106(text/tspan) C/gs-web-browser2.svg:50(text/tspan)
+#: C/gs-goa3.svg:50(text/tspan) C/gs-thumb-timezone.svg:82(text/tspan)
+#: C/gs-thumb-timezone.svg:116(text/tspan)
+#: C/gs-web-browser2.svg:113(text/tspan)
 #, no-wrap
 msgid "4"
 msgstr "4"
 
-#: C/gs-goa3.svg:92(text/tspan)
+#: C/gs-goa3.svg:101(text/tspan)
 #, no-wrap
 msgid "Add Account"
 msgstr "Konto hinzufügen"
 
-#: C/gs-goa3.svg:96(text/tspan) C/gs-goa4.svg:53(text/tspan)
-#: C/gs-goa4.svg:87(text/tspan)
+#: C/gs-goa3.svg:105(text/tspan) C/gs-goa4.svg:66(text/tspan)
+#: C/gs-goa4.svg:100(text/tspan)
 #, no-wrap
 msgid "Cancel"
 msgstr "Abbrechen"
 
-#: C/gs-goa3.svg:98(text/tspan) C/gs-goa4.svg:37(text/tspan)
-#: C/gs-goa5.svg:75(text/tspan) C/gs-goa5.svg:78(text/tspan)
+#: C/gs-goa3.svg:107(text/tspan) C/gs-goa4.svg:50(text/tspan)
+#: C/gs-goa5.svg:90(text/tspan) C/gs-goa5.svg:93(text/tspan)
 #, no-wrap
 msgid "Google"
 msgstr "Google"
 
-#: C/gs-goa3.svg:99(text/tspan) C/gs-goa4.svg:38(text/tspan)
+#: C/gs-goa3.svg:108(text/tspan) C/gs-goa4.svg:51(text/tspan)
 #, no-wrap
 msgid "Facebook"
 msgstr "Facebook"
 
-#: C/gs-goa3.svg:100(text/tspan) C/gs-goa4.svg:39(text/tspan)
+#: C/gs-goa3.svg:109(text/tspan) C/gs-goa4.svg:52(text/tspan)
 #, no-wrap
 msgid "Windows Live"
 msgstr "Windows Live"
 
-#: C/gs-goa3.svg:101(text/tspan) C/gs-goa4.svg:40(text/tspan)
+#: C/gs-goa3.svg:110(text/tspan) C/gs-goa4.svg:53(text/tspan)
 #, no-wrap
 msgid "Microsoft Exchange"
 msgstr "Microsoft Exchange"
 
-#: C/gs-goa3.svg:102(text/tspan) C/gs-goa4.svg:41(text/tspan)
+#: C/gs-goa3.svg:111(text/tspan) C/gs-goa4.svg:54(text/tspan)
 #, no-wrap
 msgid "Enterprise Login (Kerberos)"
 msgstr "Unternehmensanmeldung (Kerberos)"
 
-#: C/gs-goa4.svg:35(text/tspan) C/gs-thumb-timezone.svg:73(text/tspan)
-#: C/gs-web-browser2.svg:198(text/tspan)
+#: C/gs-goa4.svg:48(text/tspan) C/gs-thumb-timezone.svg:83(text/tspan)
+#: C/gs-web-browser2.svg:261(text/tspan)
 #, no-wrap
 msgid "5"
 msgstr "5"
 
-#: C/gs-goa4.svg:49(text/tspan) C/gs-goa4.svg:83(text/tspan)
+#: C/gs-goa4.svg:62(text/tspan) C/gs-goa4.svg:96(text/tspan)
 #, no-wrap
 msgid "Google account"
 msgstr "Google-Konto"
 
-#: C/gs-goa4.svg:66(text/tspan)
+#: C/gs-goa4.svg:79(text/tspan)
 #, no-wrap
 msgid "SIGN UP"
 msgstr "REGISTRIEREN"
 
-#: C/gs-goa4.svg:67(text/tspan)
+#: C/gs-goa4.svg:80(text/tspan)
 #, no-wrap
 msgid "Sign in"
 msgstr "Anmelden"
 
-#: C/gs-goa4.svg:68(text/tspan)
+#: C/gs-goa4.svg:81(text/tspan)
 #, no-wrap
 msgid "Email"
 msgstr "E-Mail"
 
-#: C/gs-goa4.svg:70(text/tspan)
+#: C/gs-goa4.svg:83(text/tspan)
 #, no-wrap
 msgid "Password"
 msgstr "Passwort"
 
-#: C/gs-goa4.svg:73(text/tspan)
+#: C/gs-goa4.svg:86(text/tspan)
 #, no-wrap
 msgid "Sign In"
 msgstr "Anmelden"
 
-#: C/gs-goa4.svg:74(text/tspan) C/gs-goa5.svg:77(text/tspan)
-#: C/gs-goa5.svg:80(text/tspan)
+#: C/gs-goa4.svg:87(text/tspan) C/gs-goa5.svg:92(text/tspan)
+#: C/gs-goa5.svg:95(text/tspan)
 #, no-wrap
 msgid "john.doe@gmail.com"
 msgstr "john.doe@gmail.com"
 
-#: C/gs-goa4.svg:100(text/tspan)
+#: C/gs-goa4.svg:113(text/tspan)
 #, no-wrap
 msgid "Grant Access"
 msgstr "Zugriff erlauben"
 
-#: C/gs-goa4.svg:105(text/tspan)
+#: C/gs-goa4.svg:118(text/tspan)
 #, no-wrap
 msgid "Deny Access"
 msgstr "Zugriff abweisen"
 
-#: C/gs-goa4.svg:116(text/tspan) C/gs-thumb-timezone.svg:74(text/tspan)
+#: C/gs-goa4.svg:129(text/tspan) C/gs-thumb-timezone.svg:84(text/tspan)
 #, no-wrap
 msgid "6"
 msgstr "6"
 
-#: C/gs-goa5.svg:32(text/tspan) C/gs-thumb-timezone.svg:75(text/tspan)
+#: C/gs-goa5.svg:47(text/tspan) C/gs-thumb-timezone.svg:85(text/tspan)
 #, no-wrap
 msgid "7"
 msgstr "7"
 
-#: C/gs-goa5.svg:81(text/tspan)
+#: C/gs-goa5.svg:96(text/tspan)
 #, no-wrap
 msgid "Use for"
 msgstr "Verwenden für"
 
-#: C/gs-goa5.svg:82(text/tspan)
+#: C/gs-goa5.svg:97(text/tspan)
 #, no-wrap
 msgid "Mail"
 msgstr "E-Mail"
 
-#: C/gs-goa5.svg:87(text/tspan)
+#: C/gs-goa5.svg:102(text/tspan)
 #, no-wrap
 msgid "Calendar"
 msgstr "Kalender"
 
-#: C/gs-goa5.svg:92(text/tspan) C/gs-search2.svg:217(text/tspan)
+#: C/gs-goa5.svg:107(text/tspan) C/gs-search2.svg:264(text/tspan)
 #, no-wrap
 msgid "Contacts"
 msgstr "Kontakte"
 
-#: C/gs-goa5.svg:97(text/tspan)
+#: C/gs-goa5.svg:112(text/tspan)
 #, no-wrap
 msgid "Chat"
 msgstr "Chat"
 
-#: C/gs-goa5.svg:102(text/tspan)
+#: C/gs-goa5.svg:117(text/tspan)
 #, no-wrap
 msgid "Documents"
 msgstr "Dokumente"
 
-#: C/gs-goa5.svg:107(text/tspan) C/gs-goa5.svg:108(text/tspan)
-#: C/gs-goa5.svg:109(text/tspan) C/gs-goa5.svg:110(text/tspan)
-#: C/gs-goa5.svg:111(text/tspan) C/gs-go-online3.svg:91(text/tspan)
-#: C/gs-search-settings.svg:140(text/tspan)
-#: C/gs-search-settings.svg:257(text/tspan)
-#: C/gs-search-settings.svg:264(text/tspan)
-#: C/gs-search-settings.svg:271(text/tspan)
+#: C/gs-goa5.svg:122(text/tspan) C/gs-goa5.svg:123(text/tspan)
+#: C/gs-goa5.svg:124(text/tspan) C/gs-goa5.svg:125(text/tspan)
+#: C/gs-goa5.svg:126(text/tspan) C/gs-go-online3.svg:288(text/tspan)
+#: C/gs-search-settings.svg:155(text/tspan)
+#: C/gs-search-settings.svg:272(text/tspan)
+#: C/gs-search-settings.svg:279(text/tspan)
+#: C/gs-search-settings.svg:286(text/tspan)
 #, no-wrap
 msgid "ON"
 msgstr "AN"
 
-#: C/gs-go-online1.svg:77(text/tspan) C/gs-search1.svg:175(text/tspan)
-#: C/gs-search2.svg:97(text/tspan)
-#: C/gs-thumb-changing-wallpaper.svg:70(text/tspan)
-#: C/gs-thumb-launching-apps.svg:194(text/tspan)
-#: C/gs-thumb-responding-to-messages.svg:41(text/tspan)
-#: C/gs-thumb-task-switching.svg:157(text/tspan)
-#: C/gs-thumb-timezone.svg:46(text/tspan)
-#: C/gs-thumb-windows-and-workspaces.svg:94(text/tspan)
+#: C/gs-go-online1.svg:240(text/tspan) C/gs-search1.svg:188(text/tspan)
+#: C/gs-search2.svg:144(text/tspan)
+#: C/gs-thumb-changing-wallpaper.svg:73(text/tspan)
+#: C/gs-thumb-launching-apps.svg:197(text/tspan)
+#: C/gs-thumb-responding-to-messages.svg:44(text/tspan)
+#: C/gs-thumb-task-switching.svg:160(text/tspan)
+#: C/gs-thumb-timezone.svg:52(text/tspan)
+#: C/gs-thumb-windows-and-workspaces.svg:97(text/tspan)
 #, no-wrap
 msgid "14:30"
 msgstr "14:30"
 
-#: C/gs-go-online1.svg:124(text/tspan) C/gs-go-online3.svg:77(text/tspan)
+#: C/gs-go-online1.svg:287(text/tspan) C/gs-go-online3.svg:274(text/tspan)
 #, no-wrap
 msgid "Network Settings"
 msgstr "Netzwerkeinstellungen"
 
-#: C/gs-go-online1.svg:125(text/tspan) C/gs-go-online3.svg:78(text/tspan)
+#: C/gs-go-online1.svg:288(text/tspan) C/gs-go-online3.svg:275(text/tspan)
 #, no-wrap
 msgid "Wired"
 msgstr "Kabelgebunden"
 
-#: C/gs-go-online1.svg:126(text/tspan) C/gs-go-online3.svg:79(text/tspan)
+#: C/gs-go-online1.svg:289(text/tspan) C/gs-go-online3.svg:276(text/tspan)
 #, no-wrap
 msgid "Cable unplugged"
 msgstr "Kabel getrennt"
 
-#: C/gs-go-online1.svg:127(text/tspan) C/gs-go-online3.svg:80(text/tspan)
+#: C/gs-go-online1.svg:290(text/tspan) C/gs-go-online3.svg:277(text/tspan)
 #, no-wrap
 msgid "Mobile broadband"
 msgstr "Mobiles Breitband"
 
-#: C/gs-go-online1.svg:129(text/tspan) C/gs-go-online1.svg:138(text/tspan)
-#: C/gs-go-online3.svg:82(text/tspan) C/gs-search-settings.svg:278(text/tspan)
+#: C/gs-go-online1.svg:292(text/tspan) C/gs-go-online1.svg:301(text/tspan)
+#: C/gs-go-online3.svg:279(text/tspan) C/gs-search-settings.svg:293(text/tspan)
 #, no-wrap
 msgid "OFF"
 msgstr "AUS"
 
-#: C/gs-go-online1.svg:136(text/tspan) C/gs-go-online3.svg:89(text/tspan)
+#: C/gs-go-online1.svg:299(text/tspan) C/gs-go-online3.svg:286(text/tspan)
 #, no-wrap
 msgid "Wi-Fi"
 msgstr "Drahtlosnetzwerk"
 
-#: C/gs-go-online3.svg:112(text/tspan)
+#: C/gs-go-online3.svg:309(text/tspan)
 #, no-wrap
 msgid "Wireless"
 msgstr "Drahtlos"
 
-#: C/gs-go-online3.svg:113(text/tspan)
+#: C/gs-go-online3.svg:310(text/tspan)
 #, no-wrap
 msgid "Private"
 msgstr "Privat"
 
-#: C/gs-go-online3.svg:114(text/tspan)
+#: C/gs-go-online3.svg:311(text/tspan)
 #, no-wrap
 msgid "Weak"
 msgstr "Schwach"
@@ -1415,88 +1417,88 @@ msgstr ""
 "Um das Nachrichtenfeld abzuweisen, drücken Sie <key>Esc</key> oder "
 "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>M</key></keyseq>."
 
-#: C/gs-search1.svg:187(text/tspan)
+#: C/gs-search1.svg:200(text/tspan)
 #, no-wrap
 msgid "just type"
 msgstr "tippen Sie einfach"
 
-#: C/gs-search2.svg:106(text/tspan)
+#: C/gs-search2.svg:153(text/tspan)
 #, no-wrap
 msgid "con"
 msgstr "Kon"
 
-#: C/gs-search2.svg:170(text/tspan)
+#: C/gs-search2.svg:217(text/tspan)
 #, no-wrap
 msgid "Accounts"
 msgstr "Konten"
 
-#: C/gs-search2.svg:171(text/tspan)
+#: C/gs-search2.svg:218(text/tspan)
 #, no-wrap
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
 
-#: C/gs-search2.svg:172(text/tspan)
+#: C/gs-search2.svg:219(text/tspan)
 #, no-wrap
 msgid "config"
 msgstr "config"
 
-#: C/gs-search2.svg:173(text/tspan) C/gs-search2.svg:176(text/tspan)
+#: C/gs-search2.svg:220(text/tspan) C/gs-search2.svg:223(text/tspan)
 #, no-wrap
 msgid "fontconfig"
 msgstr "fontconfig"
 
-#: C/gs-search2.svg:174(text/tspan)
+#: C/gs-search2.svg:221(text/tspan)
 #, no-wrap
 msgid "system-config-http.zip"
 msgstr "system-config-http.zip"
 
-#: C/gs-search2.svg:175(text/tspan)
+#: C/gs-search2.svg:222(text/tspan)
 #, no-wrap
 msgid "Icon guidelines"
 msgstr "Symbolrichtlinien"
 
-#: C/gs-search2.svg:193(text/tspan)
+#: C/gs-search2.svg:240(text/tspan)
 #, no-wrap
 msgid "Secure Linux Containers"
 msgstr "Sichere Linux-Container"
 
-#: C/gs-search2.svg:194(text/tspan)
+#: C/gs-search2.svg:241(text/tspan)
 #, no-wrap
 msgid "Developer Conference 2012"
 msgstr "Entwickler-Konferenz 2012"
 
-#: C/gs-search2.svg:218(text/tspan)
+#: C/gs-search2.svg:265(text/tspan)
 #, no-wrap
 msgid "Firefox"
 msgstr "Firefox"
 
-#: C/gs-search-settings.svg:122(text/tspan)
+#: C/gs-search-settings.svg:137(text/tspan)
 #, no-wrap
 msgid "Search"
 msgstr "Suchen"
 
-#: C/gs-search-settings.svg:133(text/tspan)
+#: C/gs-search-settings.svg:148(text/tspan)
 #, no-wrap
 msgid "Files"
 msgstr "Dateien"
 
-#: C/gs-search-settings.svg:134(text/tspan)
+#: C/gs-search-settings.svg:149(text/tspan)
 #, no-wrap
 msgid "Enabled"
 msgstr "Aktiviert"
 
-#: C/gs-search-settings.svg:249(text/tspan)
-#: C/gs-web-browser2.svg:151(text/tspan)
+#: C/gs-search-settings.svg:264(text/tspan)
+#: C/gs-web-browser2.svg:214(text/tspan)
 #, no-wrap
 msgid "Web"
 msgstr "Web"
 
-#: C/gs-search-settings.svg:250(text/tspan)
+#: C/gs-search-settings.svg:265(text/tspan)
 #, no-wrap
 msgid "Photos"
 msgstr "Fotos"
 
-#: C/gs-search-settings.svg:251(text/tspan)
+#: C/gs-search-settings.svg:266(text/tspan)
 #, no-wrap
 msgid "Music"
 msgstr "Musik"
@@ -1615,157 +1617,171 @@ msgstr ""
 "Wenn die Anwendung, zu der Sie wechseln wollen, als erstes Ergebnis "
 "erscheint, drücken Sie <key>Eingabe</key>, um zu ihr zu wechseln."
 
-#: C/gs-thumb-responding-to-messages.svg:56(text/tspan)
+#: C/gs-thumb-responding-to-messages.svg:59(text/tspan)
 #, no-wrap
 msgid "Thanks f"
 msgstr "Danke f"
 
 # Sonntag
-#: C/gs-thumb-timezone.svg:61(text/tspan)
-#: C/gs-thumb-timezone.svg:67(text/tspan)
+#: C/gs-thumb-timezone.svg:68(text/tspan)
 #, no-wrap
+msgctxt "Sunday"
 msgid "S"
 msgstr "S"
 
-#: C/gs-thumb-timezone.svg:62(text/tspan)
+#: C/gs-thumb-timezone.svg:69(text/tspan)
 #, no-wrap
 msgid "M"
 msgstr "M"
 
 # Tue & Thu => Di, Do
-#: C/gs-thumb-timezone.svg:63(text/tspan)
-#: C/gs-thumb-timezone.svg:65(text/tspan)
+#: C/gs-thumb-timezone.svg:70(text/tspan)
 #, no-wrap
+msgctxt "Tuesday"
 msgid "T"
 msgstr "D"
 
 # Die Buchstaben sind für die Beschreibung des Kalenders gedacht  -> Mo, Di, Mi, Do, Fr, Sa, So
-#: C/gs-thumb-timezone.svg:64(text/tspan)
+#: C/gs-thumb-timezone.svg:71(text/tspan)
 #, no-wrap
 msgid "W"
 msgstr "M"
 
-#: C/gs-thumb-timezone.svg:66(text/tspan)
+# Tue & Thu => Di, Do
+#: C/gs-thumb-timezone.svg:72(text/tspan)
+#, no-wrap
+msgctxt "Thursday"
+msgid "T"
+msgstr "D"
+
+#: C/gs-thumb-timezone.svg:73(text/tspan)
 #, no-wrap
 msgid "F"
 msgstr "F"
 
-#: C/gs-thumb-timezone.svg:76(text/tspan)
+# Sonntag
+#: C/gs-thumb-timezone.svg:74(text/tspan)
+#, no-wrap
+msgctxt "Saturday"
+msgid "S"
+msgstr "S"
+
+#: C/gs-thumb-timezone.svg:86(text/tspan)
 #, no-wrap
 msgid "8"
 msgstr "8"
 
-#: C/gs-thumb-timezone.svg:77(text/tspan)
+#: C/gs-thumb-timezone.svg:87(text/tspan)
 #, no-wrap
 msgid "9"
 msgstr "9"
 
-#: C/gs-thumb-timezone.svg:78(text/tspan)
+#: C/gs-thumb-timezone.svg:88(text/tspan)
 #, no-wrap
 msgid "10"
 msgstr "10"
 
-#: C/gs-thumb-timezone.svg:79(text/tspan)
+#: C/gs-thumb-timezone.svg:89(text/tspan)
 #, no-wrap
 msgid "11"
 msgstr "11"
 
-#: C/gs-thumb-timezone.svg:80(text/tspan)
+#: C/gs-thumb-timezone.svg:90(text/tspan)
 #, no-wrap
 msgid "12"
 msgstr "12"
 
-#: C/gs-thumb-timezone.svg:81(text/tspan)
+#: C/gs-thumb-timezone.svg:91(text/tspan)
 #, no-wrap
 msgid "13"
 msgstr "13"
 
-#: C/gs-thumb-timezone.svg:82(text/tspan)
+#: C/gs-thumb-timezone.svg:92(text/tspan)
 #, no-wrap
 msgid "14"
 msgstr "14"
 
-#: C/gs-thumb-timezone.svg:84(text/tspan)
+#: C/gs-thumb-timezone.svg:94(text/tspan)
 #, no-wrap
 msgid "15"
 msgstr "15"
 
-#: C/gs-thumb-timezone.svg:85(text/tspan)
+#: C/gs-thumb-timezone.svg:95(text/tspan)
 #, no-wrap
 msgid "16"
 msgstr "16"
 
-#: C/gs-thumb-timezone.svg:86(text/tspan)
+#: C/gs-thumb-timezone.svg:96(text/tspan)
 #, no-wrap
 msgid "17"
 msgstr "17"
 
-#: C/gs-thumb-timezone.svg:87(text/tspan)
+#: C/gs-thumb-timezone.svg:97(text/tspan)
 #, no-wrap
 msgid "18"
 msgstr "18"
 
-#: C/gs-thumb-timezone.svg:88(text/tspan)
+#: C/gs-thumb-timezone.svg:98(text/tspan)
 #, no-wrap
 msgid "19"
 msgstr "19"
 
-#: C/gs-thumb-timezone.svg:89(text/tspan)
+#: C/gs-thumb-timezone.svg:99(text/tspan)
 #, no-wrap
 msgid "20"
 msgstr "20"
 
-#: C/gs-thumb-timezone.svg:90(text/tspan)
+#: C/gs-thumb-timezone.svg:100(text/tspan)
 #, no-wrap
 msgid "21"
 msgstr "21"
 
-#: C/gs-thumb-timezone.svg:92(text/tspan)
+#: C/gs-thumb-timezone.svg:102(text/tspan)
 #, no-wrap
 msgid "22"
 msgstr "22"
 
-#: C/gs-thumb-timezone.svg:93(text/tspan)
+#: C/gs-thumb-timezone.svg:103(text/tspan)
 #, no-wrap
 msgid "23"
 msgstr "23"
 
-#: C/gs-thumb-timezone.svg:94(text/tspan)
+#: C/gs-thumb-timezone.svg:104(text/tspan)
 #, no-wrap
 msgid "24"
 msgstr "24"
 
-#: C/gs-thumb-timezone.svg:95(text/tspan)
+#: C/gs-thumb-timezone.svg:105(text/tspan)
 #, no-wrap
 msgid "25"
 msgstr "25"
 
-#: C/gs-thumb-timezone.svg:96(text/tspan)
+#: C/gs-thumb-timezone.svg:106(text/tspan)
 #, no-wrap
 msgid "26"
 msgstr "26"
 
-#: C/gs-thumb-timezone.svg:97(text/tspan)
+#: C/gs-thumb-timezone.svg:107(text/tspan)
 #, no-wrap
 msgid "27"
 msgstr "27"
 
-#: C/gs-thumb-timezone.svg:98(text/tspan)
+#: C/gs-thumb-timezone.svg:108(text/tspan)
 #, no-wrap
 msgid "28"
 msgstr "28"
 
-#: C/gs-thumb-timezone.svg:100(text/tspan)
+#: C/gs-thumb-timezone.svg:110(text/tspan)
 #, no-wrap
 msgid "29"
 msgstr "29"
 
-#: C/gs-thumb-timezone.svg:101(text/tspan)
+#: C/gs-thumb-timezone.svg:111(text/tspan)
 #, no-wrap
 msgid "30"
 msgstr "30"
 
-#: C/gs-thumb-timezone.svg:102(text/tspan)
+#: C/gs-thumb-timezone.svg:112(text/tspan)
 #, no-wrap
 msgid "31"
 msgstr "31"
@@ -1776,7 +1792,7 @@ msgstr "31"
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-use-system-search.page:20(media)
 msgctxt "_"
-msgid "external ref='gs-search1.svg' md5='93b873a25fb241cc12505faadc209247'"
+msgid "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
 msgstr "translated"
 
 #. This is a reference to an external file such as an image or video. When
@@ -1785,7 +1801,7 @@ msgstr "translated"
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-use-system-search.page:31(media)
 msgctxt "_"
-msgid "external ref='gs-search2.svg' md5='ca4b89e6098deda603a6463df5746eb3'"
+msgid "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
 msgstr "translated"
 
 #. This is a reference to an external file such as an image or video. When
@@ -1795,7 +1811,7 @@ msgstr "translated"
 #: C/gs-use-system-search.page:70(media)
 msgctxt "_"
 msgid ""
-"external ref='gs-search-settings.svg' md5='47b7e436840de8fc78952beed88beccc'"
+"external ref='gs-search-settings.svg' md5='448b4f7f7881d9e26bdf215515fe014e'"
 msgstr "translated"
 
 #: C/gs-use-system-search.page:15(info/title)
@@ -2097,35 +2113,39 @@ msgstr ""
 "Um zur darüber liegenden Arbeitsfläche zu wechseln, drücken Sie <keyseq><key "
 "xref=\"keyboard-key-super\">Super</key><key>↑</key> </keyseq>."
 
-#: C/gs-web-browser2.svg:88(text/tspan)
+#: C/gs-web-browser2.svg:151(text/tspan)
 #, no-wrap
 msgid "gnome"
 msgstr "gnome"
 
-#: C/gs-web-browser2.svg:92(text/tspan)
+#: C/gs-web-browser2.svg:155(text/tspan)
 #, no-wrap
 msgid "Planet Gnome"
 msgstr "Planet Gnome"
 
-#: C/gs-web-browser2.svg:93(text/tspan)
+#: C/gs-web-browser2.svg:156(text/tspan)
 #, no-wrap
 msgid "GNOME 3"
 msgstr "GNOME 3"
 
-#: C/gs-web-browser2.svg:94(text/tspan)
+#: C/gs-web-browser2.svg:157(text/tspan)
 #, no-wrap
 msgid "http://planet.gnome.org"
 msgstr "http://planet.gnome.org"
 
-#: C/gs-web-browser2.svg:95(text/tspan)
+#: C/gs-web-browser2.svg:158(text/tspan)
 #, no-wrap
 msgid "http://gnome.org"
 msgstr "http://gnome.org"
 
-#: C/gs-web-browser2.svg:189(text/tspan)
+#: C/gs-web-browser2.svg:252(text/tspan)
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
+
+#~ msgctxt "_"
+#~ msgid "external ref='gs-goa3.svg' md5='e4ae879bb449d9846d061c96b9070a9d'"
+#~ msgstr "translated"
 
 #~ msgctxt "_"
 #~ msgid ""
