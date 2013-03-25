@@ -48,7 +48,7 @@ def main():
   for lang in langs:
     lang = lang.strip()
     #t[lang] = yaml.load(open('translations/'+file))
-    xmlfile = ET.parse('../gnome-help/' + lang + '/animation.xml')
+    xmlfile = ET.parse('../gnome-help/' + lang + '/gs-animation.xml')
     t[lang] = xmlfile.getroot()
     for textobj in t[lang].findall('t'):
       if textobj.get('id') in bpy.data.objects: #prelozit jestli existuje jako index

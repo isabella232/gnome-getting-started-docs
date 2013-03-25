@@ -46,7 +46,7 @@ def main():
   langs = open('language-whitelist.txt').readlines()
   for lang in langs:
     lang = lang.strip()
-    xmlfile = ET.parse('../gnome-help/' + lang + '/animation.xml')
+    xmlfile = ET.parse('../gnome-help/' + lang + '/gs-animation.xml')
     t[lang] = xmlfile.getroot()
     for textobj in t[lang].findall('t'):
       if textobj.get('id') in bpy.data.objects: #prelozit jestli existuje jako index
