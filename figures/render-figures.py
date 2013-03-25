@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import glob
-import os
+import os,shutil
 from xml.etree import ElementTree
 
 TEMP = './tmp.svg'
@@ -28,7 +28,10 @@ for fname in glob.glob('*svg'):
   global svg
   
   print("processing %s" % (fname))
-  os.system("inkscape --vacuum-defs -l %s %s" % (TEMP, fname))
+  #os.system("inkscape --vacuum-defs -l %s %s" % (TEMP, fname))
+  #plain SVG would strip the itst namespace
+  #needed to give context to translators
+  shutil.copyfile(fname,TEMP)
   svg = ElementTree.parse(TEMP)
   #FIXME: thumbs jsou GNOME, zbytek BLANK
   if (fname[:8]=="gs-thumb"):
