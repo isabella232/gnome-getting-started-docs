@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2013-03-25 01:03+0000\n"
-"PO-Revision-Date: 2013-03-25 04:13+0100\n"
+"POT-Creation-Date: 2013-03-25 15:43+0000\n"
+"PO-Revision-Date: 2013-03-25 17:10+0100\n"
 "Last-Translator: Gabor Kelemen <kelemeng at gnome dot hu>\n"
 "Language-Team: Hungarian <gnome-hu-list at gnome dot org>\n"
 "Language: hu\n"
@@ -480,9 +480,6 @@ msgstr "Automatikus dátum és idő"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-browse-web.page:21(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='web-browser1.svg' md5='380ae6420b6eeef748add9fa8d3ebc19'"
 msgctxt "_"
 msgid ""
 "external ref='gs-web-browser1.svg' md5='380ae6420b6eeef748add9fa8d3ebc19'"
@@ -494,9 +491,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-browse-web.page:36(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='web-browser2.svg' md5='93bfea229039508aa26d81ebfb372130'"
 msgctxt "_"
 msgid ""
 "external ref='gs-web-browser2.svg' md5='93bfea229039508aa26d81ebfb372130'"
@@ -555,17 +549,13 @@ msgstr ""
 "sávból."
 
 #: C/gs-browse-web.page:32(note/p)
-#| msgid ""
-#| "Alternatively, you can launch the <app>Web</app> browser by <link xref="
-#| "\"use-search\">just typing</link> the browser name in the <gui>Activities "
-#| "Overview</gui>."
 msgid ""
 "Alternatively, you can launch the <app>Web</app> browser by <link xref=\"gs-"
 "use-system-search\">just typing</link> the browser name in the "
 "<gui>Activities Overview</gui>."
 msgstr ""
-"A <app>Webböngészőt</app> elindíthatja a böngésző nevének <link "
-"xref=\"gs-use-system-search\">begépelésével</link> is a <gui>Tevékenységek "
+"A <app>Webböngészőt</app> elindíthatja a böngésző nevének <link xref=\"gs-"
+"use-system-search\">begépelésével</link> is a <gui>Tevékenységek "
 "áttekintésben</gui>."
 
 #: C/gs-browse-web.page:39(item/p)
@@ -625,12 +615,13 @@ msgstr ""
 #: C/gs-change-date-time-timezone.page:22(media)
 #| msgctxt "_"
 #| msgid ""
-#| "external ref='thumb-timezone.svg' md5='42ffa67597e33e89eb5d7e31eed50e9e'"
+#| "external ref='gs-thumb-timezone.svg' "
+#| "md5='42ffa67597e33e89eb5d7e31eed50e9e'"
 msgctxt "_"
 msgid ""
-"external ref='gs-thumb-timezone.svg' md5='42ffa67597e33e89eb5d7e31eed50e9e'"
+"external ref='gs-thumb-timezone.svg' md5='529a461cc449c88c33947b1eef116f3b'"
 msgstr ""
-"external ref='gs-thumb-timezone.svg' md5='42ffa67597e33e89eb5d7e31eed50e9e'"
+"external ref='gs-thumb-timezone.svg' md5='529a461cc449c88c33947b1eef116f3b'"
 
 #: C/gs-change-date-time-timezone.page:16(info/title)
 msgctxt "link:trail"
@@ -722,10 +713,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-change-wallpaper.page:22(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='thumb-changing-wallpaper.svg' "
-#| "md5='763775a32c0e5861c71ef54fdcb24a53'"
 msgctxt "_"
 msgid ""
 "external ref='gs-thumb-changing-wallpaper.svg' "
@@ -794,8 +781,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:20(media)
-#| msgctxt "_"
-#| msgid "external ref='goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
 msgctxt "_"
 msgid "external ref='gs-goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
 msgstr "external ref='gs-goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
@@ -805,8 +790,6 @@ msgstr "external ref='gs-goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:27(media)
-#| msgctxt "_"
-#| msgid "external ref='goa2.svg' md5='0786fcd237df1588330b4489d7dedda6'"
 msgctxt "_"
 msgid "external ref='gs-goa2.svg' md5='0786fcd237df1588330b4489d7dedda6'"
 msgstr "external ref='gs-goa2.svg' md5='0786fcd237df1588330b4489d7dedda6'"
@@ -816,8 +799,6 @@ msgstr "external ref='gs-goa2.svg' md5='0786fcd237df1588330b4489d7dedda6'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:39(media)
-#| msgctxt "_"
-#| msgid "external ref='goa3.svg' md5='e4ae879bb449d9846d061c96b9070a9d'"
 msgctxt "_"
 msgid "external ref='gs-goa3.svg' md5='e4ae879bb449d9846d061c96b9070a9d'"
 msgstr "external ref='gs-goa3.svg' md5='e4ae879bb449d9846d061c96b9070a9d'"
@@ -827,8 +808,6 @@ msgstr "external ref='gs-goa3.svg' md5='e4ae879bb449d9846d061c96b9070a9d'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:46(media)
-#| msgctxt "_"
-#| msgid "external ref='goa4.svg' md5='be85f512313776ed58faf6072a8e59ef'"
 msgctxt "_"
 msgid "external ref='gs-goa4.svg' md5='be85f512313776ed58faf6072a8e59ef'"
 msgstr "external ref='gs-goa4.svg' md5='be85f512313776ed58faf6072a8e59ef'"
@@ -838,8 +817,6 @@ msgstr "external ref='gs-goa4.svg' md5='be85f512313776ed58faf6072a8e59ef'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:55(media)
-#| msgctxt "_"
-#| msgid "external ref='goa5.svg' md5='5deb427a0f7621bf8e7fed469a92954b'"
 msgctxt "_"
 msgid "external ref='gs-goa5.svg' md5='5deb427a0f7621bf8e7fed469a92954b'"
 msgstr "external ref='gs-goa5.svg' md5='5deb427a0f7621bf8e7fed469a92954b'"
@@ -919,8 +896,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-get-online.page:30(media)
-#| msgctxt "_"
-#| msgid "external ref='go-online1.svg' md5='daea04c13135c1aab3b117d8a133ed86'"
 msgctxt "_"
 msgid "external ref='gs-go-online1.svg' md5='daea04c13135c1aab3b117d8a133ed86'"
 msgstr ""
@@ -931,8 +906,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-get-online.page:43(media)
-#| msgctxt "_"
-#| msgid "external ref='go-online2.svg' md5='0a0511b9f1e744495eeb3fb82573a5df'"
 msgctxt "_"
 msgid "external ref='gs-go-online2.svg' md5='0a0511b9f1e744495eeb3fb82573a5df'"
 msgstr ""
@@ -943,8 +916,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-get-online.page:62(media)
-#| msgctxt "_"
-#| msgid "external ref='go-online3.svg' md5='58a5c6c77ee39f23fb3e5aaa6d78009f'"
 msgctxt "_"
 msgid "external ref='gs-go-online3.svg' md5='58a5c6c77ee39f23fb3e5aaa6d78009f'"
 msgstr ""
@@ -1309,10 +1280,6 @@ msgstr "Gyenge"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-launch-applications.page:24(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='thumb-launching-apps.svg' "
-#| "md5='7b9941a22fe51067153ca05089d4b6a1'"
 msgctxt "_"
 msgid ""
 "external ref='gs-thumb-launching-apps.svg' "
@@ -1392,10 +1359,6 @@ msgstr "Ez a munka a <_:link-1/> feltételei szerint használható."
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-respond-messages.page:22(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='thumb-responding-to-messages.svg' "
-#| "md5='09b2f4d5c62b225fc26e03cfd5369bfb'"
 msgctxt "_"
 msgid ""
 "external ref='gs-thumb-responding-to-messages.svg' "
@@ -1589,10 +1552,6 @@ msgstr "Zene"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-switch-tasks.page:22(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='thumb-task-switching.svg' "
-#| "md5='40c644a7f373bca4ce0234bb44ac18b8'"
 msgctxt "_"
 msgid ""
 "external ref='gs-thumb-task-switching.svg' "
@@ -1719,32 +1678,55 @@ msgstr ""
 msgid "Thanks f"
 msgstr "Köszönö"
 
+#. Translators: S stands for Sunday here
 #: C/gs-thumb-timezone.svg:61(text/tspan)
-#: C/gs-thumb-timezone.svg:67(text/tspan)
 #, no-wrap
+#| msgid "S"
+msgctxt "Sunday"
 msgid "S"
 msgstr "V"
 
+#. Translators: M stands for Monday here
 #: C/gs-thumb-timezone.svg:62(text/tspan)
 #, no-wrap
 msgid "M"
 msgstr "H"
 
+#. Translators: T stands for Tuesday here
 #: C/gs-thumb-timezone.svg:63(text/tspan)
-#: C/gs-thumb-timezone.svg:65(text/tspan)
 #, no-wrap
+#| msgid "T"
+msgctxt "Tuesday"
 msgid "T"
 msgstr "K"
 
+#. Translators: W stands for Wednesday here
 #: C/gs-thumb-timezone.svg:64(text/tspan)
 #, no-wrap
 msgid "W"
 msgstr "Sz"
 
+#. Translators: T stands for Thursday here
+#: C/gs-thumb-timezone.svg:65(text/tspan)
+#, no-wrap
+#| msgid "T"
+msgctxt "Thursday"
+msgid "T"
+msgstr "Cs"
+
+#. Translators: F stands for Friday here
 #: C/gs-thumb-timezone.svg:66(text/tspan)
 #, no-wrap
 msgid "F"
 msgstr "P"
+
+#. Translators: S stands for Saturday here
+#: C/gs-thumb-timezone.svg:67(text/tspan)
+#, no-wrap
+#| msgid "S"
+msgctxt "Saturday"
+msgid "S"
+msgstr "Sz"
 
 #: C/gs-thumb-timezone.svg:76(text/tspan)
 #, no-wrap
@@ -1871,8 +1853,6 @@ msgstr "31"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-use-system-search.page:20(media)
-#| msgctxt "_"
-#| msgid "external ref='search1.svg' md5='93b873a25fb241cc12505faadc209247'"
 msgctxt "_"
 msgid "external ref='gs-search1.svg' md5='93b873a25fb241cc12505faadc209247'"
 msgstr "external ref='gs-search1.svg' md5='93b873a25fb241cc12505faadc209247'"
@@ -1882,8 +1862,6 @@ msgstr "external ref='gs-search1.svg' md5='93b873a25fb241cc12505faadc209247'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-use-system-search.page:31(media)
-#| msgctxt "_"
-#| msgid "external ref='search2.svg' md5='ca4b89e6098deda603a6463df5746eb3'"
 msgctxt "_"
 msgid "external ref='gs-search2.svg' md5='ca4b89e6098deda603a6463df5746eb3'"
 msgstr "external ref='gs-search2.svg' md5='ca4b89e6098deda603a6463df5746eb3'"
@@ -1893,9 +1871,6 @@ msgstr "external ref='gs-search2.svg' md5='ca4b89e6098deda603a6463df5746eb3'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-use-system-search.page:70(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='search-settings.svg' md5='47b7e436840de8fc78952beed88beccc'"
 msgctxt "_"
 msgid ""
 "external ref='gs-search-settings.svg' md5='47b7e436840de8fc78952beed88beccc'"
@@ -2041,10 +2016,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-use-windows-workspaces.page:21(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='thumb-windows-and-workspaces.svg' "
-#| "md5='2d0f1a522ee5edf60bd5f5fc7b7da254'"
 msgctxt "_"
 msgid ""
 "external ref='gs-thumb-windows-and-workspaces.svg' "
