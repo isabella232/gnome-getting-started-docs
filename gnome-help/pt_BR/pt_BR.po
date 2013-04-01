@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-03-15 18:04+0000\n"
-"PO-Revision-Date: 2013-03-15 22:19-0300\n"
+"POT-Creation-Date: 2013-03-27 22:16+0000\n"
+"PO-Revision-Date: 2013-03-31 22:34-0300\n"
 "Last-Translator: Enrico Nicoletto <liverig@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "Language: pt_BR\n"
@@ -25,471 +25,11 @@ msgstr ""
 "Enrico Nicoletto <liverig@gmail.com>, 2013.\n"
 "Rafael Ferreira <rafael.f.f1@gmail.com>, 2013."
 
-#: C/index.page:8(page/title) C/animation.xml:5(titles/t)
-#: C/getting-started.page:14(page/title)
+#: C/index.page:8(page/title) C/getting-started.page:14(page/title)
+#: C/gs-animation.xml:5(titles/t)
 msgid "Getting Started"
 msgstr "Primeiros passos"
 
-#: C/animation.xml:3(titles/t)
-msgid "Welcome"
-msgstr "Bem-vindo"
-
-#: C/animation.xml:4(titles/t) C/getting-started.page:25(div/p)
-#: C/launch-apps.page:28(div/p)
-msgid "Launching Applications"
-msgstr "Executando aplicativos"
-
-#: C/animation.xml:6(titles/t) C/change-wallpaper.page:26(div/p)
-msgid "Changing Wallpaper"
-msgstr "Alterando o papel de parede"
-
-#: C/animation.xml:7(titles/t) C/getting-started.page:125(div/p)
-#: C/responding-to-messages.page:26(div/p)
-msgid "Responding to Messages"
-msgstr "Respondendo a mensagens"
-
-#: C/animation.xml:8(titles/t) C/getting-started.page:64(div/p)
-#: C/switching-tasks.page:26(div/p)
-msgid "Switching Tasks"
-msgstr "Alternando tarefas"
-
-#: C/animation.xml:9(titles/t) C/getting-started.page:139(div/p)
-#: C/responding-to-messages.page:40(div/p)
-msgid "Delayed Response"
-msgstr "Resposta atrasada"
-
-#: C/animation.xml:10(titles/t) C/move-windows.page:25(div/p)
-msgid "Windows and Workspaces"
-msgstr "Janelas e espaços de trabalho"
-
-#: C/animation.xml:11(titles/t)
-msgid "Changing Date, Time and Timezone"
-msgstr "Alterando a data, hora e fuso horário"
-
-#: C/animation.xml:12(titles/t)
-msgid "Maximize"
-msgstr "Maximizar"
-
-#: C/animation.xml:13(titles/t)
-msgid "Restore"
-msgstr "Restaurar"
-
-#: C/animation.xml:14(titles/t)
-msgid "Left half of screen"
-msgstr "Metade esquerda da tela"
-
-#: C/animation.xml:15(titles/t)
-msgid "Workspace down"
-msgstr "Espaço de trabalho abaixo"
-
-#: C/animation.xml:16(titles/t)
-msgid "Workspace up"
-msgstr "Espaço de trabalho acima"
-
-#: C/animation.xml:17(titles/t)
-msgid "Right half of screen"
-msgstr "Metade direita da tela"
-
-#: C/animation.xml:18(titles/t) C/go-online1.svg:78(text/tspan)
-#: C/search1.svg:177(text/tspan) C/search2.svg:99(text/tspan)
-#: C/thumb-changing-wallpaper.svg:68(text/tspan)
-#: C/thumb-launching-apps.svg:192(text/tspan)
-#: C/thumb-responding-to-messages.svg:39(text/tspan)
-#: C/thumb-task-switching.svg:155(text/tspan)
-#: C/thumb-timezone.svg:44(text/tspan)
-#: C/thumb-windows-and-workspaces.svg:92(text/tspan)
-#: C/web-browser1.svg:106(text/tspan)
-#, no-wrap
-msgid "Activities"
-msgstr "Atividades"
-
-#: C/animation.xml:19(titles/t)
-msgid "Enter"
-msgstr "Enter"
-
-#: C/animation.xml:20(titles/t)
-msgid "Ctrl"
-msgstr "Ctrl"
-
-#: C/animation.xml:21(titles/t)
-msgid "Alt"
-msgstr "Alt"
-
-#: C/animation.xml:22(titles/t)
-msgid "Tab"
-msgstr "Tab"
-
-#: C/animation.xml:23(titles/t)
-msgid "Esc"
-msgstr "Esc"
-
-#: C/animation.xml:24(titles/t)
-msgid "help"
-msgstr "ajuda"
-
-#: C/animation.xml:25(titles/t)
-msgid "web"
-msgstr "web"
-
-#: C/animation.xml:26(titles/t)
-msgid "Just start typing…"
-msgstr "Apenas comece a digitar…"
-
-#: C/animation.xml:27(titles/t) C/goa1.svg:42(text/tspan)
-#: C/goa1.svg:69(text/tspan) C/go-online1.svg:76(text/tspan)
-#: C/go-online1.svg:87(text/tspan) C/go-online1.svg:153(text/tspan)
-#: C/go-online2.svg:45(text/tspan) C/go-online2.svg:76(text/tspan)
-#: C/go-online3.svg:135(text/tspan) C/search1.svg:174(text/tspan)
-#: C/search2.svg:96(text/tspan) C/thumb-changing-wallpaper.svg:69(text/tspan)
-#: C/thumb-launching-apps.svg:193(text/tspan)
-#: C/thumb-responding-to-messages.svg:40(text/tspan)
-#: C/thumb-responding-to-messages.svg:58(text/tspan)
-#: C/thumb-task-switching.svg:156(text/tspan)
-#: C/thumb-timezone.svg:45(text/tspan)
-#: C/thumb-windows-and-workspaces.svg:93(text/tspan)
-#, no-wrap
-msgid "John Doe"
-msgstr "John Doe"
-
-#: C/animation.xml:28(titles/t) C/goa1.svg:74(text/tspan)
-#: C/thumb-changing-wallpaper.svg:74(text/tspan)
-#, no-wrap
-msgid "Settings"
-msgstr "Configurações"
-
-#: C/animation.xml:29(titles/t)
-msgid "Background"
-msgstr "Plano de fundo"
-
-#: C/animation.xml:30(titles/t)
-msgid "Wallpapers"
-msgstr "Papéis de parede"
-
-#: C/animation.xml:31(titles/t)
-msgid "Select"
-msgstr "Selecione"
-
-#: C/animation.xml:32(titles/t)
-msgid "Ready for the meeting?"
-msgstr "Pronto para a reunião?"
-
-#: C/animation.xml:33(titles/t)
-msgid "I'll be there in a sec..."
-msgstr "Estarei lá em um segundo..."
-
-#: C/animation.xml:34(titles/t)
-#: C/thumb-responding-to-messages.svg:57(text/tspan)
-#, no-wrap
-msgid "Good stuff, thanks again"
-msgstr "Que ótimo, obrigado novamente!"
-
-#: C/animation.xml:35(titles/t)
-msgid "Thanks for the support"
-msgstr "Obrigado pelo apoio"
-
-#: C/animation.xml:36(titles/t)
-msgid "No worries."
-msgstr "Sem problema."
-
-#: C/animation.xml:37(titles/t)
-msgid "Too kind."
-msgstr "Muito gentil!"
-
-#: C/animation.xml:38(titles/t)
-msgid "Open Calendar"
-msgstr "Abrir agenda"
-
-#: C/animation.xml:39(titles/t)
-msgid "Open Clocks"
-msgstr "Abrir relógios"
-
-#: C/animation.xml:40(titles/t)
-msgid "Date and Time Settings"
-msgstr "Configurações de data e hora"
-
-#: C/animation.xml:41(titles/t)
-msgid "Automatic Date and Time"
-msgstr "Data e hora automática"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/browse-web.page:21(media)
-msgctxt "_"
-msgid "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
-msgstr "external ref='web-browser1.svg' md5='d4821e9fb8b6e220dbda0e790cd2392c'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/browse-web.page:36(media)
-msgctxt "_"
-msgid "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
-msgstr "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
-
-#: C/browse-web.page:10(credit/name) C/change-time.page:10(credit/name)
-#: C/change-wallpaper.page:10(credit/name) C/launch-apps.page:10(credit/name)
-#: C/move-windows.page:9(credit/name) C/online-accounts.page:9(credit/name)
-#: C/online.page:9(credit/name) C/responding-to-messages.page:10(credit/name)
-#: C/switching-tasks.page:9(credit/name) C/use-search.page:9(credit/name)
-msgid "Jakub Steiner"
-msgstr "Jakub Steiner"
-
-#: C/browse-web.page:13(credit/name) C/change-time.page:13(credit/name)
-#: C/change-wallpaper.page:13(credit/name) C/launch-apps.page:13(credit/name)
-#: C/move-windows.page:12(credit/name) C/online-accounts.page:12(credit/name)
-#: C/online.page:12(credit/name) C/responding-to-messages.page:13(credit/name)
-#: C/switching-tasks.page:12(credit/name) C/use-search.page:12(credit/name)
-msgid "Petr Kovar"
-msgstr "Petr Kovar"
-
-#: C/browse-web.page:16(info/title)
-msgctxt "link:trail"
-msgid "Browse the web"
-msgstr "Navegue na internet"
-
-#: C/browse-web.page:19(page/title)
-msgid "Browse the web"
-msgstr "Navegue na internet"
-
-#: C/browse-web.page:24(item/p) C/launch-apps.page:61(item/p)
-#: C/use-search.page:23(item/p)
-msgid ""
-"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
-"of the screen to show the <gui>Activities Overview</gui>."
-msgstr ""
-"Mova o ponteiro do seu mouse para o canto de <gui>Atividades</gui> no topo à "
-"esquerda da tela para mostrar o <gui>Panorama de atividades</gui>."
-
-#: C/browse-web.page:28(item/p)
-msgid ""
-"Select the <app>Web</app> browser icon from the bar on the left-hand side of "
-"the screen."
-msgstr ""
-"Selecione o ícone de navegador <app>Web</app> da barra no lado esquerdo da "
-"tela."
-
-#: C/browse-web.page:32(note/p)
-msgid ""
-"Alternatively, you can launch the <app>Web</app> browser by <link xref=\"use-"
-"search\">just typing</link> the browser name in the <gui>Activities "
-"Overview</gui>."
-msgstr ""
-"De forma alternativa, você pode executar o navegador <app>Web</app> ao <link "
-"xref=\"use-search\">simplesmente digitar</link> o nome do navegador no "
-"<gui>Panorama de atividades</gui>."
-
-#: C/browse-web.page:39(item/p)
-msgid ""
-"Click the address bar at the top of the <app>Web</app> browser window and "
-"start typing in the website you want to visit."
-msgstr ""
-"Clique na barra de endereço no topo da janela do navegador <app>Web</app> e "
-"comece a digitar a página web que você deseja visitar."
-
-#: C/browse-web.page:41(item/p)
-msgid ""
-"Typing in a website starts searching for it in the browser history and "
-"bookmarks, so you do not need to remember the exact address."
-msgstr ""
-"Ao digitar uma página web, começa a pesquisa por ele no histórico e "
-"favoritos do navegador, de forma que você não precisa se lembrar do endereço "
-"exato."
-
-#: C/browse-web.page:44(item/p)
-msgid ""
-"If the website is found in the history or bookmarks, a drop-down list is "
-"shown below the address bar."
-msgstr ""
-"Se a página web for encontrada no histórico ou favoritos, uma lista suspensa "
-"será mostrada embaixo da barra de endereços."
-
-#: C/browse-web.page:46(item/p)
-msgid ""
-"From the drop-down list, you can quickly select a website using the arrow "
-"keys."
-msgstr ""
-"Com a lista suspensa, você pode selecionar rapidamente uma página web usando "
-"as teclas de setas."
-
-#: C/browse-web.page:49(item/p)
-msgid "After you have selected a website, press <key>Enter</key> to visit it."
-msgstr ""
-"Após ter uma página web selecionada, pressione <key>Enter</key> para visitá-"
-"la."
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/change-time.page:21(media)
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-timezone.webm' "
-"md5='79089b60be438a6e6b0505f06679cebe'"
-msgstr ""
-"external ref='figures/gnome-timezone.webm' "
-"md5='79089b60be438a6e6b0505f06679cebe'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/change-time.page:22(media)
-msgctxt "_"
-msgid ""
-"external ref='thumb-timezone.svg' md5='42ffa67597e33e89eb5d7e31eed50e9e'"
-msgstr ""
-"external ref='thumb-timezone.svg' md5='42ffa67597e33e89eb5d7e31eed50e9e'"
-
-#: C/change-time.page:16(info/title)
-msgctxt "link:trail"
-msgid "Change the date, time and timezone"
-msgstr "Altere a data, hora e fuso horário"
-
-#: C/change-time.page:19(page/title) C/change-time.page:49(section/title)
-msgid "Change the date, time and timezone"
-msgstr "Altere a data, hora e fuso horário"
-
-#: C/change-time.page:26(div/p)
-msgid "Changing Date &amp; Time"
-msgstr "Alterando data e hora"
-
-#: C/change-time.page:29(div/p) C/change-time.page:52(item/p)
-msgid "Click the clock on the top bar."
-msgstr "Clique no relógio na barra superior."
-
-#: C/change-time.page:32(div/p) C/change-time.page:53(item/p)
-msgid "Select the <gui>Date &amp; Time Settings</gui> item."
-msgstr "Selecione o item <gui>Configurações de data e hora</gui>."
-
-#: C/change-time.page:35(div/p) C/change-time.page:57(item/p)
-msgid "Click on your location on the map."
-msgstr "Clique sobre o seu local no mapa."
-
-#: C/change-time.page:38(div/p)
-msgid ""
-"You can adjust the date and time by clicking on the arrows to choose the "
-"hour, minute, and year."
-msgstr ""
-"Você pode ajustar a data e hora ao clicar nas setas para escolher hora, "
-"minuto e ano."
-
-#: C/change-time.page:42(div/p)
-msgid "Close the window."
-msgstr "Feche a janela."
-
-#: C/change-time.page:54(item/p)
-msgid ""
-"You may need to click the <gui>Unlock</gui> button and type the "
-"administrator's password."
-msgstr ""
-"Vocẽ pode precisar clicar no botão <gui>Desbloquear</gui> e digitar a senha "
-"do administrador."
-
-#: C/change-time.page:58(item/p)
-msgid ""
-"This selects your current city, which you can also see in the drop-down list "
-"below the map."
-msgstr ""
-"Isto seleciona sua cidade atual, que você também pode ver na lista suspensa "
-"abaixo do mapa."
-
-#: C/change-time.page:60(item/p)
-msgid ""
-"On the left-hand side of the window, you can adjust the date and time by "
-"clicking on the arrows to choose the hour, minute, and year."
-msgstr ""
-"No canto esquerdo da janela, você pode ajustar data e hora clicando nas "
-"setas para escolher hora, minuto e ano."
-
-#: C/change-time.page:63(item/p)
-msgid ""
-"Close the window by clicking the cross at the top-right corner of the window."
-msgstr "Feche a janela clicando no X no canto superior direito da janela."
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/change-wallpaper.page:21(media)
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-change-wallpaper.webm' "
-"md5='edf1a698f4da87db90f00b9b15897483'"
-msgstr ""
-"external ref='figures/gnome-change-wallpaper.webm' "
-"md5='edf1a698f4da87db90f00b9b15897483'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/change-wallpaper.page:22(media)
-msgctxt "_"
-msgid ""
-"external ref='thumb-changing-wallpaper.svg' "
-"md5='763775a32c0e5861c71ef54fdcb24a53'"
-msgstr ""
-"external ref='thumb-changing-wallpaper.svg' "
-"md5='763775a32c0e5861c71ef54fdcb24a53'"
-
-#: C/change-wallpaper.page:16(info/title)
-msgctxt "link:trail"
-msgid "Change the wallpaper"
-msgstr "Altere o papel de parede"
-
-#: C/change-wallpaper.page:19(page/title)
-#: C/change-wallpaper.page:51(section/title)
-msgid "Change the wallpaper"
-msgstr "Altere o papel de parede"
-
-#: C/change-wallpaper.page:29(div/p) C/change-wallpaper.page:54(item/p)
-msgid "Click your name on the top bar and select <gui>Settings</gui>."
-msgstr "Clique no nome na barra superior e selecione <gui>Configurações</gui>."
-
-#: C/change-wallpaper.page:32(div/p)
-msgid "Select <gui>Background</gui>."
-msgstr "Selecione <gui>Plano de fundo</gui>."
-
-#: C/change-wallpaper.page:35(div/p)
-msgid "Click the image of your current wallpaper."
-msgstr "Clique na imagem do seu papel de parede atual."
-
-#: C/change-wallpaper.page:38(div/p) C/change-wallpaper.page:59(item/p)
-msgid "Click the background image that you want to use."
-msgstr "Clique na imagem de plano de fundo que você deseja usar."
-
-#: C/change-wallpaper.page:41(div/p) C/change-wallpaper.page:60(item/p)
-msgid "Click the <gui>Select</gui> button."
-msgstr "Clique no botão <gui>Selecionar</gui> ."
-
-#: C/change-wallpaper.page:44(div/p)
-msgid "Close the <gui>Background</gui> window."
-msgstr "Feche a janela <gui>Plano de fundo</gui>."
-
-#: C/change-wallpaper.page:56(item/p)
-msgid "From the list of items, select <gui>Background</gui>."
-msgstr "Da lista de itens, selecione <gui>Plano de fundo</gui>."
-
-#: C/change-wallpaper.page:57(item/p)
-msgid ""
-"Click the image of your current wallpaper in the center of the "
-"<gui>Background</gui> window."
-msgstr ""
-"Clique na imagem do seu papel de parede atual no centro da janela do "
-"<gui>Plano de fundo</gui>."
-
-#: C/change-wallpaper.page:61(item/p)
-msgid ""
-"Close the <gui>Background</gui> window by clicking the cross at the top-"
-"right corner of the window."
-msgstr ""
-"Feche a janela do <gui>Plano de fundo</gui> clicando no X no canto superior "
-"direito da janela."
-
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
@@ -499,7 +39,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:18(media) C/launch-apps.page:23(media)
+#: C/getting-started.page:18(media) C/gs-launch-applications.page:24(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-launching-applications.webm' "
@@ -517,14 +57,14 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:57(media) C/switching-tasks.page:21(media)
+#: C/getting-started.page:57(media) C/gs-switch-tasks.page:22(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-task-switching.webm' "
-"md5='457a511b6086fe787e3b589717021a55'"
+"md5='bf6f8421e4064a71c05aadfb3c318e16'"
 msgstr ""
 "external ref='figures/gnome-task-switching.webm' "
-"md5='457a511b6086fe787e3b589717021a55'"
+"md5='bf6f8421e4064a71c05aadfb3c318e16'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -535,7 +75,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:118(media) C/responding-to-messages.page:21(media)
+#: C/getting-started.page:122(media) C/gs-respond-messages.page:22(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-responding-to-messages.webm' "
@@ -562,8 +102,13 @@ msgstr "Primeiros passos"
 msgid "Launch Applications"
 msgstr "Executando aplicativos"
 
+#: C/getting-started.page:25(div/p) C/gs-animation.xml:4(titles/t)
+#: C/gs-launch-applications.page:29(div/p)
+msgid "Launching Applications"
+msgstr "Executando aplicativos"
+
 #: C/getting-started.page:28(div/p) C/getting-started.page:67(div/p)
-#: C/launch-apps.page:31(div/p) C/switching-tasks.page:29(div/p)
+#: C/gs-launch-applications.page:32(div/p) C/gs-switch-tasks.page:30(div/p)
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen."
@@ -571,27 +116,28 @@ msgstr ""
 "Mova o ponteiro do seu mouse para o canto de <gui>Atividades</gui> ao topo à "
 "esquerda da tela."
 
-#: C/getting-started.page:32(div/p) C/launch-apps.page:35(div/p)
-msgid "Click the <gui>Show Applications</gui> item."
-msgstr "Clique no item <gui>Mostrar aplicativos</gui>."
+#: C/getting-started.page:32(div/p) C/gs-launch-applications.page:36(div/p)
+msgid "Click the <gui>Show Applications</gui> icon."
+msgstr "Clique no ícone <gui>Mostrar aplicativos</gui>."
 
-#: C/getting-started.page:35(div/p) C/launch-apps.page:38(div/p)
+#: C/getting-started.page:35(div/p) C/gs-launch-applications.page:39(div/p)
 msgid "Click the application you want to run, for example, Help."
 msgstr "Clique no aplicativo que você deseja executar, por exemplo, Ajuda."
 
-#: C/getting-started.page:39(div/p) C/launch-apps.page:42(div/p)
+#: C/getting-started.page:39(div/p) C/gs-launch-applications.page:43(div/p)
 msgid ""
-"Use the keyboard to open the <gui>Activities Overview</gui> <span begin=\"3s"
-"\">by pressing the <key>Super</key> key. </span>"
+"Alternatively, use the keyboard to open the <gui>Activities Overview</gui> "
+"by pressing the <key xref=\"keyboard-key-super\">Super</key> key."
 msgstr ""
-"Use o teclado para abrir o <gui>Panorama de atividades</gui> <span begin=\"3s"
-"\">ao pressionar a tecla <key>Super</key>. </span>"
+"De forma alternativa, use o teclado para abrir o <gui>Panorama de "
+"atividades</gui> ao pressionar a tecla <key xref=\"keyboard-key-super"
+"\">Super</key>."
 
-#: C/getting-started.page:44(div/p) C/launch-apps.page:47(div/p)
+#: C/getting-started.page:44(div/p) C/gs-launch-applications.page:48(div/p)
 msgid "Start typing the name of the application you want to launch."
 msgstr "Comece digitando o nome do aplicativo que você deseja executar."
 
-#: C/getting-started.page:48(div/p) C/launch-apps.page:51(div/p)
+#: C/getting-started.page:48(div/p) C/gs-launch-applications.page:52(div/p)
 msgid "Press <key>Enter</key> to launch the application."
 msgstr "Pressione <key>Enter</key> para executar o aplicativo."
 
@@ -599,13 +145,18 @@ msgstr "Pressione <key>Enter</key> para executar o aplicativo."
 msgid "Switch Tasks"
 msgstr "Alternando tarefas"
 
-#: C/getting-started.page:71(div/p) C/switching-tasks.page:33(div/p)
-#: C/switching-tasks.page:84(item/p)
-msgid "Click a window to switch the task."
-msgstr "Clique em uma janela para alternar para esta tarefa."
+#: C/getting-started.page:64(div/p) C/gs-animation.xml:8(titles/t)
+#: C/gs-switch-tasks.page:27(div/p)
+msgid "Switching Tasks"
+msgstr "Alternando tarefas"
 
-#: C/getting-started.page:74(div/p) C/move-windows.page:43(div/p)
-#: C/switching-tasks.page:36(div/p)
+#: C/getting-started.page:71(div/p) C/gs-switch-tasks.page:34(div/p)
+#: C/gs-switch-tasks.page:90(item/p)
+msgid "Click a window to switch to that task."
+msgstr "Clique em uma janela para alternar para aquela tarefa."
+
+#: C/getting-started.page:74(div/p) C/gs-switch-tasks.page:37(div/p)
+#: C/gs-use-windows-workspaces.page:44(div/p)
 msgid ""
 "To maximize a window along the left side of the screen, grab the window's "
 "titlebar and drag it to the left."
@@ -613,13 +164,14 @@ msgstr ""
 "Para maximizar uma janela ao lado esquerdo da tela, arraste a barra de "
 "título da janela e solte-a à esquerda."
 
-#: C/getting-started.page:78(div/p) C/getting-started.page:85(div/p)
-#: C/move-windows.page:47(div/p) C/move-windows.page:54(div/p)
-#: C/switching-tasks.page:40(div/p) C/switching-tasks.page:47(div/p)
-msgid "When half of the screen is highlighted, drop the window."
+#: C/getting-started.page:78(div/p) C/getting-started.page:86(div/p)
+#: C/gs-switch-tasks.page:41(div/p) C/gs-switch-tasks.page:49(div/p)
+#: C/gs-use-windows-workspaces.page:48(div/p)
+#: C/gs-use-windows-workspaces.page:56(div/p)
+msgid "When half of the screen is highlighted, release the window."
 msgstr "Quando metade da tela for destacada, solte a janela."
 
-#: C/getting-started.page:81(div/p) C/switching-tasks.page:43(div/p)
+#: C/getting-started.page:82(div/p) C/gs-switch-tasks.page:45(div/p)
 msgid ""
 "To maximize a window along the right side, grab the window's titlebar and "
 "drag it to the right."
@@ -627,41 +179,46 @@ msgstr ""
 "Para maximizar uma janela ao lado direito, arraste a barra de título da "
 "janela e solte-a à direita."
 
-#: C/getting-started.page:88(div/p) C/switching-tasks.page:50(div/p)
+#: C/getting-started.page:90(div/p) C/gs-switch-tasks.page:53(div/p)
 msgid ""
-"Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the <gui>Window "
-"Switcher</gui>."
+"Press <keyseq><key xref=\"keyboard-key-super\">Super</key><key> Tab</key></"
+"keyseq> to show the <gui>window switcher</gui>."
 msgstr ""
-"Pressione <keyseq><key>Alt</key><key>Tab</key></keyseq> para mostrar o "
-"<gui>Alternador de janelas</gui>."
+"Pressione <keyseq><key xref=\"keyboard-key-super\">Super</key><key> Tab</"
+"key></keyseq> para mostrar o <gui>alternador de janelas</gui>."
 
-#: C/getting-started.page:92(div/p) C/switching-tasks.page:54(div/p)
-msgid "Release <key>Alt</key> to select the next highlighted window."
-msgstr ""
-"Solte a tecla <key>Alt</key> para selecionar a próxima janela em destaque."
-
-#: C/getting-started.page:96(div/p) C/switching-tasks.page:58(div/p)
-#: C/switching-tasks.page:113(item/p)
+#: C/getting-started.page:94(div/p) C/gs-switch-tasks.page:57(div/p)
 msgid ""
-"To cycle through the list of open windows, do not release <key>Alt</key> but "
-"hold it down, and press <key>Tab</key>."
+"Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
+"highlighted window."
 msgstr ""
-"Para circular pela lista de janelas abertas, não solte o <key>Alt</key>, mas "
-"mantenha-o pressionado, e pressione <key>Tab</key>."
+"Solte a tecla <key xref=\"keyboard-key-super\">Super</key> para selecionar a "
+"próxima janela em destaque."
 
-#: C/getting-started.page:100(div/p) C/switching-tasks.page:62(div/p)
-#: C/switching-tasks.page:123(item/p)
+#: C/getting-started.page:99(div/p) C/gs-switch-tasks.page:62(div/p)
 msgid ""
-"Press the <key>Super</key> key to show the <gui>Activities Overview</gui>."
+"To cycle through the list of open windows, do not release <key xref="
+"\"keyboard-key-super\">Super</key> but hold it down, and press <key>Tab</"
+"key>."
 msgstr ""
-"Pressione a tecla <key>Super</key> para mostrar o <gui>Panorama de "
-"atividades</gui>."
+"Para circular pela lista de janelas abertas, não solte a tecla <key xref="
+"\"keyboard-key-super\">Super</key>, mas mantenha-a pressionada, e pressione "
+"<key>Tab</key>."
 
-#: C/getting-started.page:104(div/p) C/switching-tasks.page:66(div/p)
+#: C/getting-started.page:104(div/p) C/gs-switch-tasks.page:67(div/p)
+#: C/gs-switch-tasks.page:131(item/p)
+msgid ""
+"Press the <key xref=\"keyboard-key-super\">Super</key> key to show the "
+"<gui>Activities Overview</gui>."
+msgstr ""
+"Pressione a tecla <key xref=\"keyboard-key-super\">Super</key> para mostrar "
+"o <gui>Panorama de atividades</gui>."
+
+#: C/getting-started.page:108(div/p) C/gs-switch-tasks.page:71(div/p)
 msgid "Start typing the name of the application you want to switch to."
 msgstr "Comece digitando o nome do aplicativo que você deseja alternar para."
 
-#: C/getting-started.page:108(div/p) C/switching-tasks.page:70(div/p)
+#: C/getting-started.page:112(div/p) C/gs-switch-tasks.page:75(div/p)
 msgid ""
 "When the application appears as the first result, press <key> Enter</key> to "
 "switch to it."
@@ -669,13 +226,18 @@ msgstr ""
 "Quando o aplicativo aparece como o primeiro resultado, pressione <key>Enter</"
 "key> para alternar a ele."
 
-#: C/getting-started.page:120(caption/desc)
-#: C/responding-to-messages.page:19(page/title)
+#: C/getting-started.page:124(caption/desc)
+#: C/gs-respond-messages.page:19(page/title)
 msgid "Respond to messages"
 msgstr "Respondendo a mensagens"
 
-#: C/getting-started.page:128(div/p) C/responding-to-messages.page:29(div/p)
-#: C/responding-to-messages.page:86(item/p)
+#: C/getting-started.page:130(div/p) C/gs-animation.xml:7(titles/t)
+#: C/gs-respond-messages.page:27(div/p)
+msgid "Responding to Messages"
+msgstr "Respondendo a mensagens"
+
+#: C/getting-started.page:133(div/p) C/gs-respond-messages.page:30(div/p)
+#: C/gs-respond-messages.page:88(item/p)
 msgid ""
 "Move your mouse to the message tray at the bottom of the screen and click "
 "the chat message."
@@ -683,7 +245,7 @@ msgstr ""
 "Mova seu mouse para a área de notificação, na parte inferior da tela, e "
 "clique na mensagem de bate-papo."
 
-#: C/getting-started.page:132(div/p) C/responding-to-messages.page:33(div/p)
+#: C/getting-started.page:137(div/p) C/gs-respond-messages.page:34(div/p)
 msgid ""
 "Start typing your reply and when finished, press <key>Enter </key> to send "
 "the reply."
@@ -691,13 +253,17 @@ msgstr ""
 "Comece a digitar sua resposta e, quando finalizar, pressione <key>Enter</"
 "key> para enviá-la."
 
-#: C/getting-started.page:136(div/p) C/getting-started.page:157(div/p)
-#: C/responding-to-messages.page:37(div/p)
-#: C/responding-to-messages.page:58(div/p)
+#: C/getting-started.page:141(div/p) C/getting-started.page:162(div/p)
+#: C/gs-respond-messages.page:38(div/p) C/gs-respond-messages.page:59(div/p)
 msgid "Close the chat message."
 msgstr "Fechando a mensagem de bate-papo."
 
-#: C/getting-started.page:142(div/p) C/responding-to-messages.page:43(div/p)
+#: C/getting-started.page:144(div/p) C/gs-animation.xml:9(titles/t)
+#: C/gs-respond-messages.page:41(div/p)
+msgid "Delayed Response"
+msgstr "Resposta atrasada"
+
+#: C/getting-started.page:147(div/p) C/gs-respond-messages.page:44(div/p)
 msgid ""
 "A chat message in the message tray disappears after a while if you do not "
 "move your mouse to the message tray."
@@ -705,34 +271,33 @@ msgstr ""
 "Uma mensagem de bate-papo na área de notificação desaparece depois de um "
 "tempo se você não move seu mouse da área de notificação."
 
-#: C/getting-started.page:146(div/p) C/responding-to-messages.page:47(div/p)
+#: C/getting-started.page:151(div/p) C/gs-respond-messages.page:48(div/p)
 msgid ""
 "To get back to your unanswered message, move your mouse to the message tray."
 msgstr ""
 "Para voltar para a sua mensagem não respondida, mova seu mouse para a área "
 "de notificação."
 
-#: C/getting-started.page:150(div/p) C/responding-to-messages.page:51(div/p)
+#: C/getting-started.page:155(div/p) C/gs-respond-messages.page:52(div/p)
 msgid "Click the person who sent you the message."
 msgstr "Clique na pessoa que lhe envia a mensagem."
 
-#: C/getting-started.page:153(div/p) C/getting-started.page:168(div/p)
-#: C/responding-to-messages.page:54(div/p)
-#: C/responding-to-messages.page:69(div/p)
+#: C/getting-started.page:158(div/p) C/getting-started.page:173(div/p)
+#: C/gs-respond-messages.page:55(div/p) C/gs-respond-messages.page:70(div/p)
 msgid "Start typing your reply and when finished, press <key>Enter </key>."
 msgstr ""
 "Comece a digitar sua resposta e, quando finalizar, pressione <key>Enter</"
 "key>."
 
-#: C/getting-started.page:160(div/p) C/responding-to-messages.page:61(div/p)
+#: C/getting-started.page:165(div/p) C/gs-respond-messages.page:62(div/p)
 msgid ""
-"To show the message tray, press <keyseq><key>Super</key><key>M </key></"
-"keyseq>"
+"To show the message tray, press <keyseq> <key xref=\"keyboard-key-super"
+"\">Super</key><key>M</key></keyseq>"
 msgstr ""
-"Para mostrar a área de notificação, pressione <keyseq><key>Super</"
-"key><key>M</key></keyseq>"
+"Para mostrar a área de notificação, pressione <keyseq> <key xref=\"keyboard-"
+"key-super\">Super</key><key>M</key></keyseq>"
 
-#: C/getting-started.page:164(div/p) C/responding-to-messages.page:65(div/p)
+#: C/getting-started.page:169(div/p) C/gs-respond-messages.page:66(div/p)
 msgid ""
 "Use the arrow keys to select the person you want to reply to, and press "
 "<key>Enter</key>."
@@ -740,630 +305,526 @@ msgstr ""
 "Use as teclas de setas para selecionar uma pequena imagem representando a "
 "pessoa para quem você deseja responder e pressione <key>Enter</key>."
 
-#: C/getting-started.page:172(div/p) C/responding-to-messages.page:73(div/p)
-#: C/responding-to-messages.page:125(item/p)
+#: C/getting-started.page:177(div/p) C/gs-respond-messages.page:74(div/p)
+#: C/gs-respond-messages.page:127(item/p)
 msgid "Press <key>Esc</key> to close the chat message."
 msgstr "Pressione <key>Esc</key> para fechar a mensagem de bate-papo."
 
-#: C/getting-started.page:175(div/p) C/responding-to-messages.page:76(div/p)
+#: C/getting-started.page:180(div/p) C/gs-respond-messages.page:77(div/p)
 msgid "To dismiss the message tray, press <key>Esc</key>."
 msgstr "Para dispensar a área de notificação, pressione <key>Esc</key>."
 
-#: C/getting-started.page:184(links/title)
+#: C/getting-started.page:189(links/title)
 msgid "Common Tasks"
 msgstr "Tarefas comuns"
 
-#: C/getting-started.page:188(links/title)
-msgid "Learn More"
-msgstr "Aprenda mais"
+#: C/gs-animation.xml:3(titles/t)
+msgid "Welcome"
+msgstr "Bem-vindo"
 
-#: C/goa1.svg:20(Work/format) C/goa2.svg:29(Work/format)
-#: C/goa3.svg:29(Work/format) C/goa4.svg:23(Work/format)
-#: C/goa5.svg:20(Work/format) C/go-online1.svg:57(Work/format)
-#: C/go-online2.svg:29(Work/format) C/go-online3.svg:59(Work/format)
-#: C/search1.svg:75(Work/format) C/search2.svg:77(Work/format)
-#: C/search-settings.svg:83(Work/format)
-#: C/thumb-changing-wallpaper.svg:27(Work/format)
-#: C/thumb-launching-apps.svg:177(Work/format)
-#: C/thumb-responding-to-messages.svg:24(Work/format)
-#: C/thumb-task-switching.svg:77(Work/format)
-#: C/thumb-timezone.svg:29(Work/format)
-#: C/thumb-windows-and-workspaces.svg:77(Work/format)
-#: C/web-browser1.svg:92(Work/format) C/web-browser2.svg:37(Work/format)
-msgid "image/svg+xml"
-msgstr "image/svg+xml"
+#: C/gs-animation.xml:6(titles/t) C/gs-change-wallpaper.page:27(div/p)
+msgid "Changing Wallpaper"
+msgstr "Alterando o papel de parede"
 
-#: C/goa1.svg:60(text/tspan) C/go-online1.svg:69(text/tspan)
-#: C/go-online3.svg:72(text/tspan) C/search1.svg:87(text/tspan)
-#: C/thumb-timezone.svg:69(text/tspan) C/thumb-timezone.svg:103(text/tspan)
-#: C/web-browser1.svg:104(text/tspan)
+#: C/gs-animation.xml:10(titles/t) C/gs-use-windows-workspaces.page:26(div/p)
+msgid "Windows and Workspaces"
+msgstr "Janelas e espaços de trabalho"
+
+#: C/gs-animation.xml:11(titles/t)
+msgid "Changing Date, Time and Timezone"
+msgstr "Alterando a data, hora e fuso horário"
+
+#: C/gs-animation.xml:12(titles/t)
+msgid "Maximize"
+msgstr "Maximizar"
+
+#: C/gs-animation.xml:13(titles/t)
+msgid "Restore"
+msgstr "Restaurar"
+
+#: C/gs-animation.xml:14(titles/t)
+msgid "Left half of screen"
+msgstr "Metade esquerda da tela"
+
+#: C/gs-animation.xml:15(titles/t)
+msgid "Workspace down"
+msgstr "Espaço de trabalho abaixo"
+
+#: C/gs-animation.xml:16(titles/t)
+msgid "Workspace up"
+msgstr "Espaço de trabalho acima"
+
+#: C/gs-animation.xml:17(titles/t)
+msgid "Right half of screen"
+msgstr "Metade direita da tela"
+
+#: C/gs-animation.xml:18(titles/t) C/gs-go-online1.svg:241(text/tspan)
+#: C/gs-search1.svg:190(text/tspan) C/gs-search2.svg:146(text/tspan)
+#: C/gs-thumb-changing-wallpaper.svg:71(text/tspan)
+#: C/gs-thumb-launching-apps.svg:195(text/tspan)
+#: C/gs-thumb-responding-to-messages.svg:42(text/tspan)
+#: C/gs-thumb-task-switching.svg:158(text/tspan)
+#: C/gs-thumb-timezone.svg:47(text/tspan)
+#: C/gs-thumb-windows-and-workspaces.svg:95(text/tspan)
+#: C/gs-web-browser1.svg:122(text/tspan)
 #, no-wrap
-msgid "1"
-msgstr "1"
+msgid "Activities"
+msgstr "Atividades"
 
-#: C/goa1.svg:64(text/tspan) C/go-online1.svg:120(text/tspan)
-#: C/search2.svg:89(text/tspan) C/thumb-timezone.svg:70(text/tspan)
-#: C/thumb-timezone.svg:104(text/tspan) C/web-browser1.svg:137(text/tspan)
-#, no-wrap
-msgid "2"
-msgstr "2"
+#: C/gs-animation.xml:19(titles/t)
+msgid "Enter"
+msgstr "Enter"
 
-#: C/goa2.svg:41(text/tspan) C/go-online2.svg:41(text/tspan)
-#: C/thumb-timezone.svg:71(text/tspan) C/thumb-timezone.svg:105(text/tspan)
-#: C/web-browser2.svg:100(text/tspan)
-#, no-wrap
-msgid "3"
-msgstr "3"
+#: C/gs-animation.xml:20(titles/t)
+msgid "Ctrl"
+msgstr "Ctrl"
 
-#: C/goa2.svg:72(text/tspan) C/goa3.svg:72(text/tspan)
-#: C/goa5.svg:64(text/tspan)
-#, no-wrap
-msgid "Online Accounts"
-msgstr "Contas on-line"
+#: C/gs-animation.xml:21(titles/t)
+msgid "Alt"
+msgstr "Alt"
 
-#: C/goa2.svg:74(text/tspan) C/goa3.svg:74(text/tspan)
-#, no-wrap
-msgid "Add an online account"
-msgstr "Adicionar uma conta on-line"
+#: C/gs-animation.xml:22(titles/t)
+msgid "Tab"
+msgstr "Tab"
 
-#: C/goa3.svg:41(text/tspan) C/thumb-timezone.svg:72(text/tspan)
-#: C/thumb-timezone.svg:106(text/tspan) C/web-browser2.svg:50(text/tspan)
-#, no-wrap
-msgid "4"
-msgstr "4"
+#: C/gs-animation.xml:23(titles/t)
+msgid "Esc"
+msgstr "Esc"
 
-#: C/goa3.svg:92(text/tspan)
-#, no-wrap
-msgid "Add Account"
-msgstr "Adicionar conta"
+#: C/gs-animation.xml:24(titles/t)
+msgid "help"
+msgstr "ajuda"
 
-#: C/goa3.svg:96(text/tspan) C/goa4.svg:53(text/tspan)
-#: C/goa4.svg:87(text/tspan)
-#, no-wrap
-msgid "Cancel"
-msgstr "Cancelar"
+#: C/gs-animation.xml:25(titles/t)
+msgid "web"
+msgstr "web"
 
-#: C/goa3.svg:98(text/tspan) C/goa4.svg:37(text/tspan)
-#: C/goa5.svg:75(text/tspan) C/goa5.svg:78(text/tspan)
-#, no-wrap
-msgid "Google"
-msgstr "Google"
+#: C/gs-animation.xml:26(titles/t)
+msgid "Just start typing…"
+msgstr "Apenas comece a digitar…"
 
-#: C/goa3.svg:99(text/tspan) C/goa4.svg:38(text/tspan)
+#: C/gs-animation.xml:27(titles/t) C/gs-goa1.svg:43(text/tspan)
+#: C/gs-goa1.svg:70(text/tspan) C/gs-go-online1.svg:239(text/tspan)
+#: C/gs-go-online1.svg:250(text/tspan) C/gs-go-online1.svg:316(text/tspan)
+#: C/gs-go-online2.svg:235(text/tspan) C/gs-go-online2.svg:266(text/tspan)
+#: C/gs-go-online3.svg:332(text/tspan) C/gs-search1.svg:187(text/tspan)
+#: C/gs-search2.svg:143(text/tspan)
+#: C/gs-thumb-changing-wallpaper.svg:72(text/tspan)
+#: C/gs-thumb-launching-apps.svg:196(text/tspan)
+#: C/gs-thumb-responding-to-messages.svg:43(text/tspan)
+#: C/gs-thumb-responding-to-messages.svg:61(text/tspan)
+#: C/gs-thumb-task-switching.svg:159(text/tspan)
+#: C/gs-thumb-timezone.svg:48(text/tspan)
+#: C/gs-thumb-windows-and-workspaces.svg:96(text/tspan)
 #, no-wrap
-msgid "Facebook"
-msgstr "Facebook"
+msgid "John Doe"
+msgstr "Fulano de Tal"
 
-#: C/goa3.svg:100(text/tspan) C/goa4.svg:39(text/tspan)
+#: C/gs-animation.xml:28(titles/t) C/gs-goa1.svg:75(text/tspan)
+#: C/gs-thumb-changing-wallpaper.svg:77(text/tspan)
 #, no-wrap
-msgid "Windows Live"
-msgstr "Windows Live"
+msgid "Settings"
+msgstr "Configurações"
 
-#: C/goa3.svg:101(text/tspan) C/goa4.svg:40(text/tspan)
-#, no-wrap
-msgid "Microsoft Exchange"
-msgstr "Microsoft Exchange"
+#: C/gs-animation.xml:29(titles/t)
+msgid "Background"
+msgstr "Plano de fundo"
 
-#: C/goa3.svg:102(text/tspan) C/goa4.svg:41(text/tspan)
-#, no-wrap
-msgid "Enterprise Login (Kerberos)"
-msgstr "Início de sessão corporativo (Kerberos)"
+#: C/gs-animation.xml:30(titles/t)
+msgid "Wallpapers"
+msgstr "Papéis de parede"
 
-#: C/goa4.svg:35(text/tspan) C/thumb-timezone.svg:73(text/tspan)
-#: C/web-browser2.svg:198(text/tspan)
-#, no-wrap
-msgid "5"
-msgstr "5"
+#: C/gs-animation.xml:31(titles/t)
+msgid "Select"
+msgstr "Selecione"
 
-#: C/goa4.svg:49(text/tspan) C/goa4.svg:83(text/tspan)
-#, no-wrap
-msgid "Google account"
-msgstr "Conta do Google"
+#: C/gs-animation.xml:32(titles/t)
+msgid "Ready for the meeting?"
+msgstr "Pronto para a reunião?"
 
-#: C/goa4.svg:66(text/tspan)
-#, no-wrap
-msgid "SIGN UP"
-msgstr "Inscrever-se"
+#: C/gs-animation.xml:33(titles/t)
+msgid "I'll be there in a sec..."
+msgstr "Estarei lá em um segundo..."
 
-#: C/goa4.svg:67(text/tspan)
+#: C/gs-animation.xml:34(titles/t)
+#: C/gs-thumb-responding-to-messages.svg:60(text/tspan)
 #, no-wrap
-msgid "Sign in"
-msgstr "Entrar"
+msgid "Good stuff, thanks again"
+msgstr "Que ótimo, obrigado novamente!"
 
-#: C/goa4.svg:68(text/tspan)
-#, no-wrap
-msgid "Email"
-msgstr "E-mail"
+#: C/gs-animation.xml:35(titles/t)
+msgid "Thanks for the support"
+msgstr "Obrigado pelo apoio"
 
-#: C/goa4.svg:70(text/tspan)
-#, no-wrap
-msgid "Password"
-msgstr "Senha"
+#: C/gs-animation.xml:36(titles/t)
+msgid "No worries."
+msgstr "Sem problema."
 
-#: C/goa4.svg:73(text/tspan)
-#, no-wrap
-msgid "Sign In"
-msgstr "Entrar"
+#: C/gs-animation.xml:37(titles/t)
+msgid "Too kind."
+msgstr "Muito gentil!"
 
-#: C/goa4.svg:74(text/tspan) C/goa5.svg:77(text/tspan)
-#: C/goa5.svg:80(text/tspan)
-#, no-wrap
-msgid "john.doe@gmail.com"
-msgstr "john.doe@gmail.com"
+#: C/gs-animation.xml:38(titles/t)
+msgid "Open Calendar"
+msgstr "Abrir agenda"
 
-# "Conceder" é o termo usado pelo Google e do Google a imagem usada com essa frase.
-#: C/goa4.svg:100(text/tspan)
-#, no-wrap
-msgid "Grant Access"
-msgstr "Conceder acesso"
+#: C/gs-animation.xml:39(titles/t)
+msgid "Open Clocks"
+msgstr "Abrir relógios"
 
-#: C/goa4.svg:105(text/tspan)
-#, no-wrap
-msgid "Deny Access"
-msgstr "Negar acesso"
+#: C/gs-animation.xml:40(titles/t)
+msgid "Date and Time Settings"
+msgstr "Configurações de data e hora"
 
-#: C/goa4.svg:116(text/tspan) C/thumb-timezone.svg:74(text/tspan)
-#, no-wrap
-msgid "6"
-msgstr "6"
-
-#: C/goa5.svg:32(text/tspan) C/thumb-timezone.svg:75(text/tspan)
-#, no-wrap
-msgid "7"
-msgstr "7"
-
-#: C/goa5.svg:81(text/tspan)
-#, no-wrap
-msgid "Use for"
-msgstr "Utilizar para"
-
-#: C/goa5.svg:82(text/tspan)
-#, no-wrap
-msgid "Mail"
-msgstr "Correio"
-
-#: C/goa5.svg:87(text/tspan)
-#, no-wrap
-msgid "Calendar"
-msgstr "Agenda"
-
-#: C/goa5.svg:92(text/tspan) C/search2.svg:217(text/tspan)
-#, no-wrap
-msgid "Contacts"
-msgstr "Contatos"
-
-#: C/goa5.svg:97(text/tspan)
-#, no-wrap
-msgid "Chat"
-msgstr "Conversa"
-
-#: C/goa5.svg:102(text/tspan)
-#, no-wrap
-msgid "Documents"
-msgstr "Documentos"
-
-#: C/goa5.svg:107(text/tspan) C/goa5.svg:108(text/tspan)
-#: C/goa5.svg:109(text/tspan) C/goa5.svg:110(text/tspan)
-#: C/goa5.svg:111(text/tspan) C/go-online3.svg:91(text/tspan)
-#: C/search-settings.svg:140(text/tspan) C/search-settings.svg:257(text/tspan)
-#: C/search-settings.svg:264(text/tspan) C/search-settings.svg:271(text/tspan)
-#, no-wrap
-msgid "ON"
-msgstr "ON"
-
-#: C/go-online1.svg:77(text/tspan) C/search1.svg:175(text/tspan)
-#: C/search2.svg:97(text/tspan) C/thumb-changing-wallpaper.svg:70(text/tspan)
-#: C/thumb-launching-apps.svg:194(text/tspan)
-#: C/thumb-responding-to-messages.svg:41(text/tspan)
-#: C/thumb-task-switching.svg:157(text/tspan)
-#: C/thumb-timezone.svg:46(text/tspan)
-#: C/thumb-windows-and-workspaces.svg:94(text/tspan)
-#, no-wrap
-msgid "14:30"
-msgstr "14:30"
-
-#: C/go-online1.svg:124(text/tspan) C/go-online3.svg:77(text/tspan)
-#, no-wrap
-msgid "Network Settings"
-msgstr "Configurações de rede"
-
-#: C/go-online1.svg:125(text/tspan) C/go-online3.svg:78(text/tspan)
-#, no-wrap
-msgid "Wired"
-msgstr "Cabeada"
-
-#: C/go-online1.svg:126(text/tspan) C/go-online3.svg:79(text/tspan)
-#, no-wrap
-msgid "Cable unplugged"
-msgstr "Cabo desconectado"
-
-#: C/go-online1.svg:127(text/tspan) C/go-online3.svg:80(text/tspan)
-#, no-wrap
-msgid "Mobile broadband"
-msgstr "Banda larga móvel"
-
-#: C/go-online1.svg:129(text/tspan) C/go-online1.svg:138(text/tspan)
-#: C/go-online3.svg:82(text/tspan) C/search-settings.svg:278(text/tspan)
-#, no-wrap
-msgid "OFF"
-msgstr "OFF"
-
-#: C/go-online1.svg:136(text/tspan) C/go-online3.svg:89(text/tspan)
-#, no-wrap
-msgid "Wi-Fi"
-msgstr "Wi-Fi"
-
-#: C/go-online3.svg:112(text/tspan)
-#, no-wrap
-msgid "Wireless"
-msgstr "Sem fio"
-
-#: C/go-online3.svg:113(text/tspan)
-#, no-wrap
-msgid "Private"
-msgstr "Particular"
-
-#: C/go-online3.svg:114(text/tspan)
-#, no-wrap
-msgid "Weak"
-msgstr "Fraca"
+#: C/gs-animation.xml:41(titles/t)
+msgid "Automatic Date and Time"
+msgstr "Data e hora automática"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/launch-apps.page:24(media)
+#: C/gs-browse-web.page:21(media)
 msgctxt "_"
 msgid ""
-"external ref='thumb-launching-apps.svg' "
-"md5='7b9941a22fe51067153ca05089d4b6a1'"
+"external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
 msgstr ""
-"external ref='thumb-launching-apps.svg' "
-"md5='7b9941a22fe51067153ca05089d4b6a1'"
+"external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
 
-#: C/launch-apps.page:17(info/title)
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-browse-web.page:36(media)
+msgctxt "_"
+msgid ""
+"external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
+msgstr ""
+"external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
+
+#: C/gs-browse-web.page:10(credit/name)
+#: C/gs-change-date-time-timezone.page:10(credit/name)
+#: C/gs-change-wallpaper.page:10(credit/name)
+#: C/gs-connect-online-accounts.page:9(credit/name)
+#: C/gs-get-online.page:9(credit/name)
+#: C/gs-launch-applications.page:10(credit/name)
+#: C/gs-respond-messages.page:10(credit/name)
+#: C/gs-switch-tasks.page:9(credit/name)
+#: C/gs-use-system-search.page:9(credit/name)
+#: C/gs-use-windows-workspaces.page:9(credit/name)
+msgid "Jakub Steiner"
+msgstr "Jakub Steiner"
+
+#: C/gs-browse-web.page:13(credit/name)
+#: C/gs-change-date-time-timezone.page:13(credit/name)
+#: C/gs-change-wallpaper.page:13(credit/name)
+#: C/gs-connect-online-accounts.page:12(credit/name)
+#: C/gs-get-online.page:12(credit/name)
+#: C/gs-launch-applications.page:13(credit/name)
+#: C/gs-respond-messages.page:13(credit/name)
+#: C/gs-switch-tasks.page:12(credit/name)
+#: C/gs-use-system-search.page:12(credit/name)
+#: C/gs-use-windows-workspaces.page:12(credit/name)
+msgid "Petr Kovar"
+msgstr "Petr Kovar"
+
+#: C/gs-browse-web.page:16(info/title)
 msgctxt "link:trail"
-msgid "Launch applications"
-msgstr "Executando aplicativos"
+msgid "Browse the web"
+msgstr "Navegue na internet"
 
-#: C/launch-apps.page:21(page/title)
-msgid "Launch applications"
-msgstr "Executando aplicativos"
+#: C/gs-browse-web.page:19(page/title)
+msgid "Browse the web"
+msgstr "Navegue na internet"
 
-#: C/launch-apps.page:58(section/title)
-msgid "Launch applications with the mouse"
-msgstr "Executando aplicativos com o mouse"
-
-#: C/launch-apps.page:63(item/p)
+#: C/gs-browse-web.page:24(item/p) C/gs-launch-applications.page:63(item/p)
 msgid ""
-"Click the <gui>Show Applications</gui> item that is shown at the bottom of "
-"the bar on the left-hand side of the screen."
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen to show the <gui>Activities Overview</gui>."
 msgstr ""
-"Clique no item <gui>Mostrar aplicativos</gui> que mostrado na parte inferior "
-"da barra no lado esquerdo da tela."
+"Mova o ponteiro do seu mouse para o canto de <gui>Atividades</gui> no topo à "
+"esquerda da tela para mostrar o <gui>Panorama de atividades</gui>."
 
-#: C/launch-apps.page:65(item/p)
+#: C/gs-browse-web.page:28(item/p)
 msgid ""
-"A list of applications is shown. Click the application you want to run, for "
-"example, Help."
-msgstr ""
-"Uma lista de aplicativos é mostrada. Clique no aplicativo que você deseja "
-"executar, por exemplo, Ajuda."
-
-#: C/launch-apps.page:72(section/title)
-msgid "Launch applications with the keyboard"
-msgstr "Executando aplicativos com o teclado"
-
-#: C/launch-apps.page:75(item/p)
-msgid ""
-"Open the <gui>Activities Overview</gui> by pressing the <key>Super </key> "
-"key."
-msgstr ""
-"Abra o <gui>Panorama de atividades</gui> ao pressionar a tecla <key>Super </"
-"key>."
-
-#: C/launch-apps.page:77(item/p)
-msgid ""
-"Start typing the name of the application you want to launch. Searching for "
-"the application begins instantly."
-msgstr ""
-"Comece digitando o nome do aplicativo que você deseja executar. A pesquisa "
-"pelo aplicativo começa instantaneamente."
-
-#: C/launch-apps.page:79(item/p)
-msgid ""
-"Once the icon of the application is shown and selected, press <key> Enter</"
-"key> to launch the application."
-msgstr ""
-"Assim que o ícone do aplicativo for mostrado e selecionado, pressione "
-"<key>Enter</key> para executar o aplicativo."
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/move-windows.page:20(media)
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='2804904c3fd3928ba9ad794448ab4149'"
-msgstr ""
-"external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='2804904c3fd3928ba9ad794448ab4149'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/move-windows.page:21(media)
-msgctxt "_"
-msgid ""
-"external ref='thumb-windows-and-workspaces.svg' "
-"md5='2d0f1a522ee5edf60bd5f5fc7b7da254'"
-msgstr ""
-"external ref='thumb-windows-and-workspaces.svg' "
-"md5='2d0f1a522ee5edf60bd5f5fc7b7da254'"
-
-#: C/move-windows.page:15(info/title)
-msgctxt "link:trail"
-msgid "Use windows and workspaces"
-msgstr "Usando janelas e espaços de trabalho"
-
-#: C/move-windows.page:18(page/title)
-msgid "Use windows and workspaces"
-msgstr "Usando janelas e espaços de trabalho"
-
-#: C/move-windows.page:28(div/p)
-msgid ""
-"To maximize a window, grab the window's titlebar and drag it to the top of "
+"Select the <app>Web</app> browser icon from the bar on the left-hand side of "
 "the screen."
 msgstr ""
-"Para maximizar uma janela, arraste a  barra de títulos da janela e solte-a "
-"ao topo da tela."
+"Selecione o ícone de navegador <app>Web</app> da barra no lado esquerdo da "
+"tela."
 
-#: C/move-windows.page:32(div/p)
-msgid "When the screen is highlighted, drop the window."
-msgstr "Quando a tela for destacada, solte a janela."
-
-#: C/move-windows.page:35(div/p)
+#: C/gs-browse-web.page:32(note/p)
 msgid ""
-"To unmaximize a window, grab the window's titlebar and drag it away from the "
-"edges of the screen."
+"Alternatively, you can launch the <app>Web</app> browser by <link xref=\"gs-"
+"use-system-search\">just typing</link> the browser name in the "
+"<gui>Activities Overview</gui>."
 msgstr ""
-"Para desmaximizar uma janela, arraste a barra de título da janela e solte-a "
-"para longe das bordas da tela."
+"De forma alternativa, você pode executar o navegador <app>Web</app> ao <link "
+"xref=\"gs-use-system-search\">simplesmente digitar</link> o nome do "
+"navegador no <gui>Panorama de atividades</gui>."
 
-#: C/move-windows.page:39(div/p)
+#: C/gs-browse-web.page:39(item/p)
 msgid ""
-"You can also click the top bar to drag the window away and unmaximize it."
+"Click the address bar at the top of the <app>Web</app> browser window and "
+"start typing in the website you want to visit."
 msgstr ""
-"Você também pode clicar na barra superior para arrastar a janela para fora e "
-"desmaximizá-la."
+"Clique na barra de endereço no topo da janela do navegador <app>Web</app> e "
+"comece a digitar a página web que você deseja visitar."
 
-#: C/move-windows.page:50(div/p)
+#: C/gs-browse-web.page:41(item/p)
 msgid ""
-"To maximize a window along the right side of the screen, grab the window's "
-"titlebar and drag it to the right."
+"Typing in a website starts searching for it in the browser history and "
+"bookmarks, so you do not need to remember the exact address."
 msgstr ""
-"Para maximizar uma janela ao lado direito da tela, arraste a barra de título "
-"da janela e solte-a à direita."
+"Ao digitar uma página web, começa a pesquisa por ele no histórico e "
+"favoritos do navegador, de forma que você não precisa se lembrar do endereço "
+"exato."
 
-#: C/move-windows.page:57(div/p) C/move-windows.page:123(item/p)
+#: C/gs-browse-web.page:44(item/p)
 msgid ""
-"To maximize a window using the keyboard, hold down the Super key and press "
-"<key>↑</key>."
+"If the website is found in the history or bookmarks, a drop-down list is "
+"shown below the address bar."
 msgstr ""
-"Para maximizar uma janela usando o teclado, mantenha pressionada a tecla "
-"Super e pressione <key>↑</key>."
+"Se a página web for encontrada no histórico ou favoritos, uma lista suspensa "
+"será mostrada embaixo da barra de endereços."
 
-#: C/move-windows.page:61(div/p)
+#: C/gs-browse-web.page:46(item/p)
 msgid ""
-"To restore the window to its unmaximized size, hold down the Super key and "
-"press <key>↓</key>."
+"From the drop-down list, you can quickly select a website using the arrow "
+"keys."
 msgstr ""
-"Para restaurar a janela ao seu tamanho desmaximizado, mantenha pressionada a "
-"tecla Super e pressione <key>↓</key>."
+"Com a lista suspensa, você pode selecionar rapidamente uma página web usando "
+"as teclas de setas."
 
-#: C/move-windows.page:65(div/p) C/move-windows.page:135(item/p)
-msgid ""
-"To maximize a window along the right side of the screen, hold down the Super "
-"key and press <key>→</key>."
+#: C/gs-browse-web.page:49(item/p)
+msgid "After you have selected a website, press <key>Enter</key> to visit it."
 msgstr ""
-"Para maximizar uma janela junto ao lado direito da tela, mantenha "
-"pressionada a tecla Super e pressione <key>→</key>."
-
-#: C/move-windows.page:69(div/p) C/move-windows.page:137(item/p)
-msgid ""
-"To maximize a window along the left side of the screen, hold down the Super "
-"key and press <key>←</key>."
-msgstr ""
-"Para maximizar uma janela junto ao lado esquerdo da tela, mantenha "
-"pressionada a tecla Super e pressione <key>←</key>."
-
-#: C/move-windows.page:73(div/p)
-msgid ""
-"To move to a workspace which is below the current workspace, press "
-"<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key> </keyseq>."
-msgstr ""
-"Para mover para um espaço de trabalho que está abaixo do espaço de trabalho "
-"atual, pressione <keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
-
-#: C/move-windows.page:78(div/p)
-msgid ""
-"To move to a workspace which is above the current workspace, press "
-"<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key> </keyseq>."
-msgstr ""
-"Para mover para um espaço de trabalho que está acima do espaço de trabalho "
-"atual, pressione <keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
-
-#: C/move-windows.page:87(section/title)
-msgid "Maximize and unmaximize windows"
-msgstr "Maximizando e desmaximizando janelas"
-
-#: C/move-windows.page:91(item/p)
-msgid ""
-"To maximize a window so that it takes up all of the space on your desktop, "
-"grab the window's titlebar and drag it to the top of the screen."
-msgstr ""
-"Para maximizar uma janela de forma que ela tome todo o espaço da tela do seu "
-"ambiente, pegue a barra de título da janela e arraste-a para o topo."
-
-#: C/move-windows.page:94(item/p)
-msgid "When the screen is highlighted, drop the window to maximize it."
-msgstr "Quando a tela for destacada, solte a janela para maximizá-la."
-
-#: C/move-windows.page:96(item/p)
-msgid ""
-"To restore a window to its unmaximized size, grab the window's titlebar and "
-"drag it away from the edges of the screen."
-msgstr ""
-"Para restaurar uma janela para seu tamanho não maximizado, segure a barra de "
-"título da janela e arraste-a para longe das bordas da tela."
-
-#: C/move-windows.page:103(section/title)
-#: C/switching-tasks.page:90(section/title)
-msgid "Tile windows"
-msgstr "Janelas lado a lado"
-
-#: C/move-windows.page:107(item/p) C/switching-tasks.page:93(item/p)
-msgid ""
-"To maximize a window along a side of the screen, grab the window's titlebar "
-"and drag it to the left or right side of the screen."
-msgstr ""
-"Para maximizar uma janela junto a um lado da tela, segure a barra de título "
-"de janela e arraste-a para o lado esquerdo ou direito da tela."
-
-#: C/move-windows.page:109(item/p) C/switching-tasks.page:95(item/p)
-msgid ""
-"When half of the screen is highlighted, drop the window to maximize it along "
-"the selected side of the screen."
-msgstr ""
-"Quando metade da tela estiver destacada, solte a janela para maximizá-la "
-"junto ao lado selecionado da tela."
-
-#: C/move-windows.page:111(item/p) C/switching-tasks.page:97(item/p)
-msgid ""
-"To maximize two windows side-by-side, grab the titlebar of the second window "
-"and drag it to the opposite side of the screen."
-msgstr ""
-"Para maximizar duas janelas lado a lado, agarre a barra de título da segunda "
-"janela e arraste-a para o lado oposto da tela."
-
-#: C/move-windows.page:113(item/p) C/switching-tasks.page:99(item/p)
-msgid ""
-"When half of the screen is highlighted, drop the window to maximize it along "
-"the opposite side of the screen."
-msgstr ""
-"Quando metade da tela estiver destacada, solte a janela para maximizá-la "
-"junto ao lado oposto da tela."
-
-#: C/move-windows.page:120(section/title)
-msgid "Maximize and unmaximize windows using the keyboard"
-msgstr "Maximizando e desmaximizando janelas usando o teclado"
-
-#: C/move-windows.page:125(item/p)
-msgid ""
-"To unmaximize a window using the keyboard, hold down the Super key and press "
-"<key>↓</key>."
-msgstr ""
-"Para desmaximizar uma janela usando o teclado, mantenha pressionada a tecla "
-"Super e pressione <key>↓</key>."
-
-#: C/move-windows.page:132(section/title)
-msgid "Tile windows using the keyboard"
-msgstr "Tornando janelas lado a lado usando o teclado"
-
-#: C/move-windows.page:144(section/title)
-msgid "Switch workspaces using the keyboard"
-msgstr "Alternando entre espaços de trabalho usando o teclado"
-
-#: C/move-windows.page:148(item/p)
-msgid ""
-"To move to a workspace which is below the current workspace, press "
-"<keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
-msgstr ""
-"Para mover um espaço de trabalho que está embaixo do espaço de trabalho "
-"atual, pressione <keyseq><key>Ctrl</key><key>Alt</key><key>↓</key></keyseq>."
-
-#: C/move-windows.page:150(item/p)
-msgid ""
-"To move to a workspace which is above the current workspace, press "
-"<keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
-msgstr ""
-"Para mover um espaço de trabalho que está em cima do espaço de trabalho "
-"atual, pressione <keyseq><key>Ctrl</key><key>Alt</key><key>↑</key></keyseq>."
+"Após ter uma página web selecionada, pressione <key>Enter</key> para visitá-"
+"la."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/online-accounts.page:20(media)
+#: C/gs-change-date-time-timezone.page:22(media)
 msgctxt "_"
-msgid "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
-msgstr "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
+msgid ""
+"external ref='figures/gnome-timezone.webm' "
+"md5='c9e227f87b1cf1abf40e3a6e6c01d8e9'"
+msgstr ""
+"external ref='figures/gnome-timezone.webm' "
+"md5='c9e227f87b1cf1abf40e3a6e6c01d8e9'"
+
+#: C/gs-change-date-time-timezone.page:16(info/title)
+msgctxt "link:trail"
+msgid "Change the date, time and timezone"
+msgstr "Altere a data, hora e fuso horário"
+
+#: C/gs-change-date-time-timezone.page:19(page/title)
+#: C/gs-change-date-time-timezone.page:51(section/title)
+msgid "Change the date, time and timezone"
+msgstr "Altere a data, hora e fuso horário"
+
+#: C/gs-change-date-time-timezone.page:27(div/p)
+msgid "Changing Date &amp; Time"
+msgstr "Alterando data e hora"
+
+#: C/gs-change-date-time-timezone.page:30(div/p)
+#: C/gs-change-date-time-timezone.page:54(item/p)
+msgid "Click the clock on the top bar."
+msgstr "Clique no relógio na barra superior."
+
+#: C/gs-change-date-time-timezone.page:33(div/p)
+#: C/gs-change-date-time-timezone.page:55(item/p)
+msgid "Select the <gui>Date &amp; Time Settings</gui> item."
+msgstr "Selecione o item <gui>Configurações de data e hora</gui>."
+
+#: C/gs-change-date-time-timezone.page:36(div/p)
+#: C/gs-change-date-time-timezone.page:59(item/p)
+msgid "Click on your location on the map."
+msgstr "Clique sobre o seu local no mapa."
+
+#: C/gs-change-date-time-timezone.page:39(div/p)
+msgid ""
+"You can adjust the date and time by clicking on the arrows to choose the "
+"hour, minute, and year."
+msgstr ""
+"Você pode ajustar a data e hora ao clicar nas setas para escolher hora, "
+"minuto e ano."
+
+#: C/gs-change-date-time-timezone.page:43(div/p)
+msgid "Close the window."
+msgstr "Feche a janela."
+
+#: C/gs-change-date-time-timezone.page:56(item/p)
+msgid ""
+"You may need to click the <gui>Unlock</gui> button and type the "
+"administrator's password."
+msgstr ""
+"Vocẽ pode precisar clicar no botão <gui>Desbloquear</gui> e digitar a senha "
+"do administrador."
+
+#: C/gs-change-date-time-timezone.page:60(item/p)
+msgid ""
+"This selects your current city, which you can also see and change in the "
+"drop-down list below the map."
+msgstr ""
+"Isto seleciona sua cidade atual, que você também pode ver e alterar na lista "
+"suspensa abaixo do mapa."
+
+#: C/gs-change-date-time-timezone.page:62(item/p)
+msgid ""
+"On the left-hand side of the window, you can adjust the date and time by "
+"clicking on the arrows to choose the hour, minute, and year."
+msgstr ""
+"No canto esquerdo da janela, você pode ajustar data e hora clicando nas "
+"setas para escolher hora, minuto e ano."
+
+#: C/gs-change-date-time-timezone.page:65(item/p)
+msgid ""
+"Close the window by clicking the cross at the top-right corner of the window."
+msgstr "Feche a janela clicando no X no canto superior direito da janela."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/online-accounts.page:27(media)
+#: C/gs-change-wallpaper.page:22(media)
 msgctxt "_"
-msgid "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
-msgstr "external ref='goa2.svg' md5='d6fd15929da5329192e05db2f75b3867'"
+msgid ""
+"external ref='figures/gnome-change-wallpaper.webm' "
+"md5='edf1a698f4da87db90f00b9b15897483'"
+msgstr ""
+"external ref='figures/gnome-change-wallpaper.webm' "
+"md5='edf1a698f4da87db90f00b9b15897483'"
+
+#: C/gs-change-wallpaper.page:16(info/title)
+msgctxt "link:trail"
+msgid "Change the wallpaper"
+msgstr "Altere o papel de parede"
+
+#: C/gs-change-wallpaper.page:19(page/title)
+#: C/gs-change-wallpaper.page:53(section/title)
+msgid "Change the wallpaper"
+msgstr "Altere o papel de parede"
+
+#: C/gs-change-wallpaper.page:30(div/p) C/gs-change-wallpaper.page:56(item/p)
+msgid "Click your name on the top bar and select <gui>Settings</gui>."
+msgstr "Clique no nome na barra superior e selecione <gui>Configurações</gui>."
+
+#: C/gs-change-wallpaper.page:33(div/p)
+msgid "Select <gui>Background</gui>."
+msgstr "Selecione <gui>Plano de fundo</gui>."
+
+#: C/gs-change-wallpaper.page:36(div/p)
+msgid "Click the image of your current wallpaper."
+msgstr "Clique na imagem do seu papel de parede atual."
+
+#: C/gs-change-wallpaper.page:39(div/p) C/gs-change-wallpaper.page:61(item/p)
+msgid "Click the background image that you want to use."
+msgstr "Clique na imagem de plano de fundo que você deseja usar."
+
+#: C/gs-change-wallpaper.page:42(div/p) C/gs-change-wallpaper.page:62(item/p)
+msgid "Click the <gui>Select</gui> button."
+msgstr "Clique no botão <gui>Selecionar</gui>."
+
+#: C/gs-change-wallpaper.page:45(div/p)
+msgid "Close the <gui>Background</gui> window."
+msgstr "Feche a janela <gui>Plano de fundo</gui>."
+
+#: C/gs-change-wallpaper.page:58(item/p)
+msgid "From the list of items, select <gui>Background</gui>."
+msgstr "Da lista de itens, selecione <gui>Plano de fundo</gui>."
+
+#: C/gs-change-wallpaper.page:59(item/p)
+msgid ""
+"Click the image of your current wallpaper in the center of the "
+"<gui>Background</gui> window."
+msgstr ""
+"Clique na imagem do seu papel de parede atual no centro da janela do "
+"<gui>Plano de fundo</gui>."
+
+#: C/gs-change-wallpaper.page:63(item/p)
+msgid ""
+"Close the <gui>Background</gui> window by clicking the cross at the top-"
+"right corner of the window."
+msgstr ""
+"Feche a janela do <gui>Plano de fundo</gui> clicando no X no canto superior "
+"direito da janela."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/online-accounts.page:39(media)
+#: C/gs-connect-online-accounts.page:20(media)
 msgctxt "_"
-msgid "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
-msgstr "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
+msgid "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
+msgstr "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/online-accounts.page:46(media)
+#: C/gs-connect-online-accounts.page:27(media)
 msgctxt "_"
-msgid "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
-msgstr "external ref='goa4.svg' md5='fc314c2d6735ac675e0a5d9ae416e898'"
+msgid "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
+msgstr "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/online-accounts.page:55(media)
+#: C/gs-connect-online-accounts.page:39(media)
 msgctxt "_"
-msgid "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
-msgstr "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
+msgid "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
+msgstr "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
 
-#: C/online-accounts.page:15(info/title)
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-connect-online-accounts.page:46(media)
+msgctxt "_"
+msgid "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
+msgstr "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-connect-online-accounts.page:55(media)
+msgctxt "_"
+msgid "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
+msgstr "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
+
+#: C/gs-connect-online-accounts.page:15(info/title)
 msgctxt "link:trail"
 msgid "Connect to online accounts"
 msgstr "Conecte-se a contas online"
 
-#: C/online-accounts.page:18(page/title)
+#: C/gs-connect-online-accounts.page:18(page/title)
 msgid "Connect to online accounts"
 msgstr "Conecte-se a contas online"
 
-#: C/online-accounts.page:23(item/p) C/use-search.page:65(item/p)
+#: C/gs-connect-online-accounts.page:23(item/p)
+#: C/gs-use-system-search.page:82(item/p)
 msgid "Click your name on the top bar."
 msgstr "Clique no seu nome na barra superior."
 
-#: C/online-accounts.page:24(item/p) C/use-search.page:66(item/p)
+#: C/gs-connect-online-accounts.page:24(item/p)
+#: C/gs-use-system-search.page:83(item/p)
 msgid "Select the <gui>Settings</gui> item."
 msgstr "Selecione o item <gui>Configurações</gui>."
 
-#: C/online-accounts.page:30(item/p)
+#: C/gs-connect-online-accounts.page:30(item/p)
 msgid "From the list of items, select <gui>Online Accounts</gui>."
 msgstr "Da lista de itens, selecione <gui>Contas on-line</gui>."
 
-#: C/online-accounts.page:32(item/p)
+#: C/gs-connect-online-accounts.page:32(item/p)
 msgid "Click on the <gui>Add an online account</gui> button."
 msgstr "Clique no botão <gui>Adicionar uma conta on-line</gui>."
 
-#: C/online-accounts.page:35(note/p)
+#: C/gs-connect-online-accounts.page:35(note/p)
 msgid ""
 "If you have set up an online account before, you can add another online "
 "account by clicking the <gui>+</gui> button at the bottom left corner of the "
@@ -1372,7 +833,7 @@ msgstr ""
 "Se você definiu uma conta on-line anteriormente, você pode adicionar outra "
 "conta on-line clicando no botão <gui>+</gui> no canto esquerdo da janela."
 
-#: C/online-accounts.page:42(item/p)
+#: C/gs-connect-online-accounts.page:42(item/p)
 msgid ""
 "Click the online account you want to use. This will open a new window where "
 "you can sign in to your online account."
@@ -1380,7 +841,7 @@ msgstr ""
 "Clique na conta on-line que você deseja usar. Isso vai abrir uma nova janela "
 "onde você pode autenticar sua conta online."
 
-#: C/online-accounts.page:49(item/p)
+#: C/gs-connect-online-accounts.page:49(item/p)
 msgid ""
 "In most cases, you will have to grant access to the online service after "
 "signing in to get started."
@@ -1388,7 +849,7 @@ msgstr ""
 "Na maioria dos casos, você vai ter que conceder acesso ao serviço on-line "
 "após autenticar para começar."
 
-#: C/online-accounts.page:51(item/p)
+#: C/gs-connect-online-accounts.page:51(item/p)
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
 "click the <gui>Grant Access</gui> button."
@@ -1396,7 +857,7 @@ msgstr ""
 "Por exemplo, se você está conectando a sua conta Google, você terá que "
 "clicar no botão <gui>Conceder acesso</gui>."
 
-#: C/online-accounts.page:58(item/p)
+#: C/gs-connect-online-accounts.page:58(item/p)
 msgid ""
 "Many online accounts let you choose the services you want to use with your "
 "online account. If you do not want to use a service, disable it by clicking "
@@ -1410,39 +871,42 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/online.page:30(media)
+#: C/gs-get-online.page:30(media)
 msgctxt "_"
-msgid "external ref='go-online1.svg' md5='7ffd688bc5d186f95bfcee55d4fa601b'"
-msgstr "external ref='go-online1.svg' md5='7ffd688bc5d186f95bfcee55d4fa601b'"
+msgid "external ref='gs-go-online1.svg' md5='5e1aa458f42d9a534678ac2196cf84a2'"
+msgstr ""
+"external ref='gs-go-online1.svg' md5='5e1aa458f42d9a534678ac2196cf84a2'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/online.page:43(media)
+#: C/gs-get-online.page:43(media)
 msgctxt "_"
-msgid "external ref='go-online2.svg' md5='2c4ff4e5d03e2f03749a35ad909b3341'"
-msgstr "external ref='go-online2.svg' md5='2c4ff4e5d03e2f03749a35ad909b3341'"
+msgid "external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
+msgstr ""
+"external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/online.page:62(media)
+#: C/gs-get-online.page:62(media)
 msgctxt "_"
-msgid "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
-msgstr "external ref='go-online3.svg' md5='115cfc9669cc7c41bff6e1dd100c1ba3'"
+msgid "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
+msgstr ""
+"external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
 
-#: C/online.page:15(info/title)
+#: C/gs-get-online.page:15(info/title)
 msgctxt "link:trail"
 msgid "Get online"
 msgstr "Estando online"
 
-#: C/online.page:19(page/title)
+#: C/gs-get-online.page:19(page/title)
 msgid "Get online"
 msgstr "Estando online"
 
-#: C/online.page:22(note/p)
+#: C/gs-get-online.page:22(note/p)
 msgid ""
 "You can see the status of your network connection on the right-hand side of "
 "the top bar, next to your name."
@@ -1450,11 +914,11 @@ msgstr ""
 "Você pode ver o status da conexão de rede no lado direito da barra superior, "
 "próximo ao seu nome."
 
-#: C/online.page:28(section/title)
+#: C/gs-get-online.page:28(section/title)
 msgid "Connect to a wired network"
 msgstr "Conectando a uma rede cabeada"
 
-#: C/online.page:33(item/p)
+#: C/gs-get-online.page:33(item/p)
 msgid ""
 "The network connection icon on the right-hand side of the top bar shows that "
 "you are off-line."
@@ -1462,7 +926,7 @@ msgstr ""
 "O ícone de conexão de rede no lado direito da barra superior mostra que você "
 "está desconectado."
 
-#: C/online.page:35(item/p)
+#: C/gs-get-online.page:35(item/p)
 msgid ""
 "Click the network connection icon to show more details about the status of "
 "your network connection."
@@ -1470,7 +934,7 @@ msgstr ""
 "Clique no ícone de conexão de rede para mostrar mais detalhes sobre o status "
 "de sua conexão de rede."
 
-#: C/online.page:37(item/p)
+#: C/gs-get-online.page:37(item/p)
 msgid ""
 "The off-line status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
@@ -1481,7 +945,7 @@ msgstr ""
 "cabo de rede foi desconectado, o computador foi configurado para executar em "
 "<em>modo avião</em> ou não há redes sem fio na sua área."
 
-#: C/online.page:46(item/p)
+#: C/gs-get-online.page:46(item/p)
 msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
@@ -1491,7 +955,7 @@ msgstr ""
 "ficar on-line. O computador vai tentar configurar sua conexão de rede "
 "automaticamente."
 
-#: C/online.page:50(item/p)
+#: C/gs-get-online.page:50(item/p)
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
@@ -1499,7 +963,7 @@ msgstr ""
 "Enquanto o computador configura a conexão de rede para você, o ícone de "
 "conexão de rede mostra três pontos."
 
-#: C/online.page:52(item/p)
+#: C/gs-get-online.page:52(item/p)
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to the networked computer symbol."
@@ -1507,11 +971,11 @@ msgstr ""
 "Assim que a conexão de rede tiver sido configurada com sucesso, o ícone de "
 "conexão de rede muda para o símbolo de computador conectado."
 
-#: C/online.page:60(section/title)
+#: C/gs-get-online.page:60(section/title)
 msgid "Connect to other types of networks"
 msgstr "Conectando-se a outros tipos de rede"
 
-#: C/online.page:65(item/p)
+#: C/gs-get-online.page:65(item/p)
 msgid ""
 "There are various types of network connections that you can use with your "
 "computer, for example, mobile broadband, or wireless networks."
@@ -1519,7 +983,7 @@ msgstr ""
 "Há vários tipos de conexões de rede que você pode usar com seu computador, "
 "como por exemplo, banda larga móvel ou redes sem fio."
 
-#: C/online.page:68(item/p)
+#: C/gs-get-online.page:68(item/p)
 msgid ""
 "Depending on your computer hardware and the networks availability, you can "
 "choose other connection types by clicking the network connection icon on the "
@@ -1531,30 +995,344 @@ msgstr ""
 "lado direito da barra superior e selecionando a conexão de rede que você "
 "deseja se conectar."
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/responding-to-messages.page:22(media)
-msgctxt "_"
-msgid ""
-"external ref='thumb-responding-to-messages.svg' "
-"md5='09b2f4d5c62b225fc26e03cfd5369bfb'"
-msgstr ""
-"external ref='thumb-responding-to-messages.svg' "
-"md5='09b2f4d5c62b225fc26e03cfd5369bfb'"
+#: C/gs-goa1.svg:21(Work/format) C/gs-goa2.svg:38(Work/format)
+#: C/gs-goa3.svg:38(Work/format) C/gs-goa4.svg:36(Work/format)
+#: C/gs-goa5.svg:35(Work/format) C/gs-go-online1.svg:220(Work/format)
+#: C/gs-go-online2.svg:219(Work/format) C/gs-go-online3.svg:256(Work/format)
+#: C/gs-search1.svg:88(Work/format) C/gs-search2.svg:124(Work/format)
+#: C/gs-search-settings.svg:98(Work/format)
+#: C/gs-thumb-changing-wallpaper.svg:30(Work/format)
+#: C/gs-thumb-launching-apps.svg:180(Work/format)
+#: C/gs-thumb-responding-to-messages.svg:27(Work/format)
+#: C/gs-thumb-task-switching.svg:80(Work/format)
+#: C/gs-thumb-timezone.svg:32(Work/format)
+#: C/gs-thumb-windows-and-workspaces.svg:80(Work/format)
+#: C/gs-web-browser1.svg:108(Work/format)
+#: C/gs-web-browser2.svg:100(Work/format)
+msgid "image/svg+xml"
+msgstr "image/svg+xml"
 
-#: C/responding-to-messages.page:16(info/title)
+#: C/gs-goa1.svg:61(text/tspan) C/gs-go-online1.svg:232(text/tspan)
+#: C/gs-go-online3.svg:269(text/tspan) C/gs-search1.svg:100(text/tspan)
+#: C/gs-thumb-timezone.svg:72(text/tspan)
+#: C/gs-thumb-timezone.svg:106(text/tspan)
+#: C/gs-web-browser1.svg:120(text/tspan)
+#, no-wrap
+msgid "1"
+msgstr "1"
+
+#: C/gs-goa1.svg:65(text/tspan) C/gs-go-online1.svg:283(text/tspan)
+#: C/gs-search2.svg:136(text/tspan) C/gs-thumb-timezone.svg:73(text/tspan)
+#: C/gs-thumb-timezone.svg:107(text/tspan)
+#: C/gs-web-browser1.svg:153(text/tspan)
+#, no-wrap
+msgid "2"
+msgstr "2"
+
+#: C/gs-goa2.svg:50(text/tspan) C/gs-go-online2.svg:231(text/tspan)
+#: C/gs-thumb-timezone.svg:74(text/tspan)
+#: C/gs-thumb-timezone.svg:108(text/tspan)
+#: C/gs-web-browser2.svg:163(text/tspan)
+#, no-wrap
+msgid "3"
+msgstr "3"
+
+#: C/gs-goa2.svg:81(text/tspan) C/gs-goa3.svg:81(text/tspan)
+#: C/gs-goa5.svg:79(text/tspan)
+#, no-wrap
+msgid "Online Accounts"
+msgstr "Contas on-line"
+
+#: C/gs-goa2.svg:83(text/tspan) C/gs-goa3.svg:83(text/tspan)
+#, no-wrap
+msgid "Add an online account"
+msgstr "Adicionar uma conta on-line"
+
+#: C/gs-goa3.svg:50(text/tspan) C/gs-thumb-timezone.svg:75(text/tspan)
+#: C/gs-thumb-timezone.svg:109(text/tspan)
+#: C/gs-web-browser2.svg:113(text/tspan)
+#, no-wrap
+msgid "4"
+msgstr "4"
+
+#: C/gs-goa3.svg:101(text/tspan)
+#, no-wrap
+msgid "Add Account"
+msgstr "Adicionar conta"
+
+#: C/gs-goa3.svg:105(text/tspan) C/gs-goa4.svg:66(text/tspan)
+#: C/gs-goa4.svg:100(text/tspan)
+#, no-wrap
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: C/gs-goa3.svg:107(text/tspan) C/gs-goa4.svg:50(text/tspan)
+#: C/gs-goa5.svg:90(text/tspan) C/gs-goa5.svg:93(text/tspan)
+#, no-wrap
+msgid "Google"
+msgstr "Google"
+
+#: C/gs-goa3.svg:108(text/tspan) C/gs-goa4.svg:51(text/tspan)
+#, no-wrap
+msgid "Facebook"
+msgstr "Facebook"
+
+#: C/gs-goa3.svg:109(text/tspan) C/gs-goa4.svg:52(text/tspan)
+#, no-wrap
+msgid "Windows Live"
+msgstr "Windows Live"
+
+#: C/gs-goa3.svg:110(text/tspan) C/gs-goa4.svg:53(text/tspan)
+#, no-wrap
+msgid "Microsoft Exchange"
+msgstr "Microsoft Exchange"
+
+#: C/gs-goa3.svg:111(text/tspan) C/gs-goa4.svg:54(text/tspan)
+#, no-wrap
+msgid "Enterprise Login (Kerberos)"
+msgstr "Início de sessão corporativo (Kerberos)"
+
+#: C/gs-goa4.svg:48(text/tspan) C/gs-thumb-timezone.svg:76(text/tspan)
+#: C/gs-web-browser2.svg:261(text/tspan)
+#, no-wrap
+msgid "5"
+msgstr "5"
+
+#: C/gs-goa4.svg:62(text/tspan) C/gs-goa4.svg:96(text/tspan)
+#, no-wrap
+msgid "Google account"
+msgstr "Conta do Google"
+
+#: C/gs-goa4.svg:79(text/tspan)
+#, no-wrap
+msgid "SIGN UP"
+msgstr "Inscrever-se"
+
+#: C/gs-goa4.svg:80(text/tspan)
+#, no-wrap
+msgid "Sign in"
+msgstr "Entrar"
+
+#: C/gs-goa4.svg:81(text/tspan)
+#, no-wrap
+msgid "Email"
+msgstr "E-mail"
+
+#: C/gs-goa4.svg:83(text/tspan)
+#, no-wrap
+msgid "Password"
+msgstr "Senha"
+
+#: C/gs-goa4.svg:86(text/tspan)
+#, no-wrap
+msgid "Sign In"
+msgstr "Entrar"
+
+#: C/gs-goa4.svg:87(text/tspan) C/gs-goa5.svg:92(text/tspan)
+#: C/gs-goa5.svg:95(text/tspan)
+#, no-wrap
+msgid "john.doe@gmail.com"
+msgstr "john.doe@gmail.com"
+
+# "Conceder" é o termo usado pelo Google e do Google a imagem usada com essa frase.
+#: C/gs-goa4.svg:113(text/tspan)
+#, no-wrap
+msgid "Grant Access"
+msgstr "Conceder acesso"
+
+#: C/gs-goa4.svg:118(text/tspan)
+#, no-wrap
+msgid "Deny Access"
+msgstr "Negar acesso"
+
+#: C/gs-goa4.svg:129(text/tspan) C/gs-thumb-timezone.svg:77(text/tspan)
+#, no-wrap
+msgid "6"
+msgstr "6"
+
+#: C/gs-goa5.svg:47(text/tspan) C/gs-thumb-timezone.svg:78(text/tspan)
+#, no-wrap
+msgid "7"
+msgstr "7"
+
+#: C/gs-goa5.svg:96(text/tspan)
+#, no-wrap
+msgid "Use for"
+msgstr "Utilizar para"
+
+#: C/gs-goa5.svg:97(text/tspan)
+#, no-wrap
+msgid "Mail"
+msgstr "Correio"
+
+#: C/gs-goa5.svg:102(text/tspan)
+#, no-wrap
+msgid "Calendar"
+msgstr "Agenda"
+
+#: C/gs-goa5.svg:107(text/tspan) C/gs-search2.svg:264(text/tspan)
+#, no-wrap
+msgid "Contacts"
+msgstr "Contatos"
+
+#: C/gs-goa5.svg:112(text/tspan)
+#, no-wrap
+msgid "Chat"
+msgstr "Conversa"
+
+#: C/gs-goa5.svg:117(text/tspan)
+#, no-wrap
+msgid "Documents"
+msgstr "Documentos"
+
+#: C/gs-goa5.svg:122(text/tspan) C/gs-goa5.svg:123(text/tspan)
+#: C/gs-goa5.svg:124(text/tspan) C/gs-goa5.svg:125(text/tspan)
+#: C/gs-goa5.svg:126(text/tspan) C/gs-go-online3.svg:288(text/tspan)
+#: C/gs-search-settings.svg:155(text/tspan)
+#: C/gs-search-settings.svg:272(text/tspan)
+#: C/gs-search-settings.svg:279(text/tspan)
+#: C/gs-search-settings.svg:286(text/tspan)
+#, no-wrap
+msgid "ON"
+msgstr "ON"
+
+#: C/gs-go-online1.svg:240(text/tspan) C/gs-search1.svg:188(text/tspan)
+#: C/gs-search2.svg:144(text/tspan)
+#: C/gs-thumb-changing-wallpaper.svg:73(text/tspan)
+#: C/gs-thumb-launching-apps.svg:197(text/tspan)
+#: C/gs-thumb-responding-to-messages.svg:44(text/tspan)
+#: C/gs-thumb-task-switching.svg:160(text/tspan)
+#: C/gs-thumb-timezone.svg:49(text/tspan)
+#: C/gs-thumb-windows-and-workspaces.svg:97(text/tspan)
+#, no-wrap
+msgid "14:30"
+msgstr "14:30"
+
+#: C/gs-go-online1.svg:287(text/tspan) C/gs-go-online3.svg:274(text/tspan)
+#, no-wrap
+msgid "Network Settings"
+msgstr "Configurações de rede"
+
+#: C/gs-go-online1.svg:288(text/tspan) C/gs-go-online3.svg:275(text/tspan)
+#, no-wrap
+msgid "Wired"
+msgstr "Cabeada"
+
+#: C/gs-go-online1.svg:289(text/tspan) C/gs-go-online3.svg:276(text/tspan)
+#, no-wrap
+msgid "Cable unplugged"
+msgstr "Cabo desconectado"
+
+#: C/gs-go-online1.svg:290(text/tspan) C/gs-go-online3.svg:277(text/tspan)
+#, no-wrap
+msgid "Mobile broadband"
+msgstr "Banda larga móvel"
+
+#: C/gs-go-online1.svg:292(text/tspan) C/gs-go-online1.svg:301(text/tspan)
+#: C/gs-go-online3.svg:279(text/tspan)
+#: C/gs-search-settings.svg:293(text/tspan)
+#, no-wrap
+msgid "OFF"
+msgstr "OFF"
+
+#: C/gs-go-online1.svg:299(text/tspan) C/gs-go-online3.svg:286(text/tspan)
+#, no-wrap
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+#: C/gs-go-online3.svg:309(text/tspan)
+#, no-wrap
+msgid "Wireless"
+msgstr "Sem fio"
+
+#: C/gs-go-online3.svg:310(text/tspan)
+#, no-wrap
+msgid "Private"
+msgstr "Particular"
+
+#: C/gs-go-online3.svg:311(text/tspan)
+#, no-wrap
+msgid "Weak"
+msgstr "Fraca"
+
+#: C/gs-launch-applications.page:17(info/title)
+msgctxt "link:trail"
+msgid "Launch applications"
+msgstr "Executando aplicativos"
+
+#: C/gs-launch-applications.page:21(page/title)
+msgid "Launch applications"
+msgstr "Executando aplicativos"
+
+#: C/gs-launch-applications.page:60(section/title)
+msgid "Launch applications with the mouse"
+msgstr "Executando aplicativos com o mouse"
+
+#: C/gs-launch-applications.page:65(item/p)
+msgid ""
+"Click the <gui>Show Applications</gui> icon that is shown at the bottom of "
+"the bar on the left-hand side of the screen."
+msgstr ""
+"Clique no ícone <gui>Mostrar aplicativos</gui> que é mostrado na parte "
+"inferior da barra no lado esquerdo da tela."
+
+#: C/gs-launch-applications.page:67(item/p)
+msgid ""
+"A list of applications is shown. Click the application you want to run, for "
+"example, Help."
+msgstr ""
+"Uma lista de aplicativos é mostrada. Clique no aplicativo que você deseja "
+"executar, por exemplo, Ajuda."
+
+#: C/gs-launch-applications.page:74(section/title)
+msgid "Launch applications with the keyboard"
+msgstr "Executando aplicativos com o teclado"
+
+#: C/gs-launch-applications.page:77(item/p)
+#: C/gs-use-system-search.page:23(item/p)
+msgid ""
+"Open the <gui>Activities Overview</gui> by pressing the <key xref=\"keyboard-"
+"key-super\">Super</key> key."
+msgstr ""
+"Abra o <gui>Panorama de atividades</gui> ao pressionar a tecla <key xref="
+"\"keyboard-key-super\">Super</key>."
+
+#: C/gs-launch-applications.page:79(item/p)
+msgid ""
+"Start typing the name of the application you want to launch. Searching for "
+"the application begins instantly."
+msgstr ""
+"Comece digitando o nome do aplicativo que você deseja executar. A pesquisa "
+"pelo aplicativo começa instantaneamente."
+
+#: C/gs-launch-applications.page:81(item/p)
+msgid ""
+"Once the icon of the application is shown and selected, press <key> Enter</"
+"key> to launch the application."
+msgstr ""
+"Assim que o ícone do aplicativo for mostrado e selecionado, pressione "
+"<key>Enter</key> para executar o aplicativo."
+
+#: C/gs-legal.xml:3(p/link)
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+msgstr ""
+"Licença Creative Commons Atribuição-Compartilhada Igual 3.0 Não Adaptada"
+
+#: C/gs-legal.xml:3(license/p)
+msgid "This work is licensed under a <_:link-1/>."
+msgstr "Esta obra está licenciada sob uma <_:link-1/>."
+
+#: C/gs-respond-messages.page:16(info/title)
 msgctxt "link:trail"
 msgid "Respond to messages"
 msgstr "Respondendo a mensagens"
 
-#: C/responding-to-messages.page:83(section/title)
+#: C/gs-respond-messages.page:85(section/title)
 msgid "Respond to a chat message with the mouse"
 msgstr "Respondendo a uma mensagem de bate-papo com o mouse"
 
-#: C/responding-to-messages.page:88(item/p)
-#: C/responding-to-messages.page:123(item/p)
+#: C/gs-respond-messages.page:90(item/p)
+#: C/gs-respond-messages.page:125(item/p)
 msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send "
 "the reply."
@@ -1562,8 +1340,8 @@ msgstr ""
 "Comece a digitar sua resposta e, quando finalizar, pressione <key>Enter</"
 "key> para enviá-la."
 
-#: C/responding-to-messages.page:90(item/p)
-#: C/responding-to-messages.page:109(item/p)
+#: C/gs-respond-messages.page:92(item/p)
+#: C/gs-respond-messages.page:111(item/p)
 msgid ""
 "To close the chat message, click the close button at the top right corner of "
 "the chat message."
@@ -1571,11 +1349,11 @@ msgstr ""
 "Para fechar a mensagem de bate-papo, clique no botão de fechar no canto "
 "direito da mensagem de bate-papo."
 
-#: C/responding-to-messages.page:97(section/title)
+#: C/gs-respond-messages.page:99(section/title)
 msgid "Delayed response to a chat message using the mouse"
 msgstr "Resposta atrasada a uma mensagem de bate-papo usando o mouse"
 
-#: C/responding-to-messages.page:100(item/p)
+#: C/gs-respond-messages.page:102(item/p)
 msgid ""
 "When a chat message appears in the message tray and you do not move your "
 "mouse to the message tray, the message disappears after a while."
@@ -1583,7 +1361,7 @@ msgstr ""
 "Quando uma mensagem aparece na área de notificação e você não move seu mouse "
 "da área de notificação, a mensagem desaparece depois de um tempo."
 
-#: C/responding-to-messages.page:103(item/p)
+#: C/gs-respond-messages.page:105(item/p)
 msgid ""
 "To get back to your unanswered message, move your mouse to the message tray "
 "at the very bottom of the screen."
@@ -1591,7 +1369,7 @@ msgstr ""
 "Para voltar para a sua mensagem não respondida, mova seu mouse para a área "
 "de notificação na parte inferior da tela."
 
-#: C/responding-to-messages.page:105(item/p)
+#: C/gs-respond-messages.page:107(item/p)
 msgid ""
 "When the message tray appears, click a small image that represents the "
 "person who sent you the message."
@@ -1599,7 +1377,7 @@ msgstr ""
 "Quando a área de notificação aparecer, clique na pequena imagem que "
 "representa a pessoa que lhe enviou a mensagem."
 
-#: C/responding-to-messages.page:107(item/p)
+#: C/gs-respond-messages.page:109(item/p)
 msgid ""
 "When the chat message is shown, start typing your reply and when finished, "
 "press <key>Enter</key> to send the reply."
@@ -1607,21 +1385,21 @@ msgstr ""
 "Quando a mensagem de bate-papo é mostrada, comece a digitar sua resposta e, "
 "quando finalizar, pressione <key>Enter</key> para enviá-la."
 
-#: C/responding-to-messages.page:116(section/title)
+#: C/gs-respond-messages.page:118(section/title)
 msgid "Delayed response to a chat message using the keyboard"
 msgstr "Reposta atrasada a uma mensagem de bate-papo usando o teclado"
 
-#: C/responding-to-messages.page:118(item/p)
+#: C/gs-respond-messages.page:120(item/p)
 msgid ""
-"To get back to your unanswered chat messages, press <keyseq><key> Super</"
-"key><key>M</key></keyseq> to display the message tray that contains the "
-"messages."
+"To get back to your unanswered chat messages, press <keyseq> <key xref="
+"\"keyboard-key-super\">Super</key><key>M</key></keyseq> to display the "
+"message tray that contains the messages."
 msgstr ""
-"Para voltar para suas mensagens não respondidas, pressione <keyseq><key> "
-"Super</key><key>M</key></keyseq> para exibir a área de notificação que "
-"contém as mensagens."
+"Para retornar às suas mensagens não respondidas, pressione <keyseq> <key "
+"xref=\"keyboard-key-super\">Super</key><key>M</key></keyseq> para exibir a "
+"área de notificação que contém as mensagens."
 
-#: C/responding-to-messages.page:121(item/p)
+#: C/gs-respond-messages.page:123(item/p)
 msgid ""
 "Use the arrow keys to select a small image representing the person you want "
 "to reply to, and press <key>Enter</key>."
@@ -1629,123 +1407,111 @@ msgstr ""
 "Use as teclas de setas para selecionar uma pequena imagem representando a "
 "pessoa para quem você deseja responder e pressione <key>Enter</key>."
 
-#: C/responding-to-messages.page:126(item/p)
+#: C/gs-respond-messages.page:128(item/p)
 msgid ""
-"To dismiss the message tray, press <key>Esc</key> or <keyseq><key>Super</"
-"key><key>M</key></keyseq>."
+"To dismiss the message tray, press <key>Esc</key> or <keyseq> <key xref="
+"\"keyboard-key-super\">Super</key><key>M</key></keyseq>."
 msgstr ""
-"Para dispensar a área de notificação, pressione <key>Esc</key> ou "
-"<keyseq><key>Super</key><key>M</key></keyseq>."
+"Para dispensar a área de notificação, pressione <key>Esc</key> ou <keyseq> "
+"<key xref=\"keyboard-key-super\">Super</key><key>M</key></keyseq>."
 
-#: C/search1.svg:187(text/tspan)
+#: C/gs-search1.svg:200(text/tspan)
 #, no-wrap
 msgid "just type"
 msgstr "apenas digite"
 
-#: C/search2.svg:106(text/tspan)
+#: C/gs-search2.svg:153(text/tspan)
 #, no-wrap
 msgid "con"
 msgstr "con"
 
-#: C/search2.svg:170(text/tspan)
+#: C/gs-search2.svg:217(text/tspan)
 #, no-wrap
 msgid "Accounts"
 msgstr "Contas"
 
-#: C/search2.svg:171(text/tspan)
+#: C/gs-search2.svg:218(text/tspan)
 #, no-wrap
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 
-#: C/search2.svg:172(text/tspan)
+#: C/gs-search2.svg:219(text/tspan)
 #, no-wrap
 msgid "config"
 msgstr "config"
 
-#: C/search2.svg:173(text/tspan) C/search2.svg:176(text/tspan)
+#: C/gs-search2.svg:220(text/tspan) C/gs-search2.svg:223(text/tspan)
 #, no-wrap
 msgid "fontconfig"
 msgstr "fontconfig"
 
-#: C/search2.svg:174(text/tspan)
+#: C/gs-search2.svg:221(text/tspan)
 #, no-wrap
 msgid "system-config-http.zip"
 msgstr "system-config-http.zip"
 
-#: C/search2.svg:175(text/tspan)
+#: C/gs-search2.svg:222(text/tspan)
 #, no-wrap
 msgid "Icon guidelines"
 msgstr "Diretrizes de ícone"
 
-#: C/search2.svg:193(text/tspan)
+#: C/gs-search2.svg:240(text/tspan)
 #, no-wrap
 msgid "Secure Linux Containers"
 msgstr "Contêineres seguros do Linux"
 
-#: C/search2.svg:194(text/tspan)
+#: C/gs-search2.svg:241(text/tspan)
 #, no-wrap
 msgid "Developer Conference 2012"
 msgstr "Conferência de desenvolvedores de 2012"
 
-#: C/search2.svg:218(text/tspan)
+#: C/gs-search2.svg:265(text/tspan)
 #, no-wrap
 msgid "Firefox"
 msgstr "Firefox"
 
-#: C/search-settings.svg:122(text/tspan)
+#: C/gs-search-settings.svg:137(text/tspan)
 #, no-wrap
 msgid "Search"
 msgstr "Pesquisar"
 
-#: C/search-settings.svg:133(text/tspan)
+#: C/gs-search-settings.svg:148(text/tspan)
 #, no-wrap
 msgid "Files"
 msgstr "Arquivos"
 
-#: C/search-settings.svg:134(text/tspan)
+#: C/gs-search-settings.svg:149(text/tspan)
 #, no-wrap
 msgid "Enabled"
 msgstr "Ativado"
 
-#: C/search-settings.svg:249(text/tspan) C/web-browser2.svg:151(text/tspan)
+#: C/gs-search-settings.svg:264(text/tspan)
+#: C/gs-web-browser2.svg:214(text/tspan)
 #, no-wrap
 msgid "Web"
 msgstr "Web"
 
-#: C/search-settings.svg:250(text/tspan)
+#: C/gs-search-settings.svg:265(text/tspan)
 #, no-wrap
 msgid "Photos"
 msgstr "Fotos"
 
-#: C/search-settings.svg:251(text/tspan)
+#: C/gs-search-settings.svg:266(text/tspan)
 #, no-wrap
 msgid "Music"
 msgstr "Música"
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/switching-tasks.page:22(media)
-msgctxt "_"
-msgid ""
-"external ref='thumb-task-switching.svg' "
-"md5='40c644a7f373bca4ce0234bb44ac18b8'"
-msgstr ""
-"external ref='thumb-task-switching.svg' "
-"md5='40c644a7f373bca4ce0234bb44ac18b8'"
-
-#: C/switching-tasks.page:15(info/title)
+#: C/gs-switch-tasks.page:15(info/title)
 msgctxt "link:trail"
 msgid "Switch tasks"
 msgstr "Alternando tarefas"
 
-#: C/switching-tasks.page:19(page/title)
-#: C/switching-tasks.page:78(section/title)
+#: C/gs-switch-tasks.page:19(page/title)
+#: C/gs-switch-tasks.page:84(section/title)
 msgid "Switch tasks"
 msgstr "Alternando tarefas"
 
-#: C/switching-tasks.page:81(item/p)
+#: C/gs-switch-tasks.page:87(item/p)
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen to show the <gui>Activities Overview</gui> where you can see "
@@ -1755,31 +1521,84 @@ msgstr ""
 "esquerda superior da tela para mostrar o <gui>Panorama de atividades</gui>, "
 "onde você pode ver as tarefas em execução exibidas em pequenas janelas."
 
-#: C/switching-tasks.page:106(section/title)
+#: C/gs-switch-tasks.page:96(section/title)
+#: C/gs-use-windows-workspaces.page:111(section/title)
+msgid "Tile windows"
+msgstr "Janelas lado a lado"
+
+#: C/gs-switch-tasks.page:99(item/p)
+#: C/gs-use-windows-workspaces.page:115(item/p)
+msgid ""
+"To maximize a window along a side of the screen, grab the window's titlebar "
+"and drag it to the left or right side of the screen."
+msgstr ""
+"Para maximizar uma janela junto a um lado da tela, segure a barra de título "
+"de janela e arraste-a para o lado esquerdo ou direito da tela."
+
+#: C/gs-switch-tasks.page:101(item/p)
+#: C/gs-use-windows-workspaces.page:117(item/p)
+msgid ""
+"When half of the screen is highlighted, release the window to maximize it "
+"along the selected side of the screen."
+msgstr ""
+"Quando metade da tela estiver destacada, solte a janela para maximizá-la ao "
+"longo do lado selecionado da tela."
+
+#: C/gs-switch-tasks.page:103(item/p)
+#: C/gs-use-windows-workspaces.page:119(item/p)
+msgid ""
+"To maximize two windows side-by-side, grab the titlebar of the second window "
+"and drag it to the opposite side of the screen."
+msgstr ""
+"Para maximizar duas janelas lado a lado, agarre a barra de título da segunda "
+"janela e arraste-a para o lado oposto da tela."
+
+#: C/gs-switch-tasks.page:105(item/p)
+#: C/gs-use-windows-workspaces.page:121(item/p)
+msgid ""
+"When half of the screen is highlighted, release the window to maximize it "
+"along the opposite side of the screen."
+msgstr ""
+"Quando metade da tela estiver destacada, solte a janela para maximizá-la ao "
+"longo do lado oposto da tela."
+
+#: C/gs-switch-tasks.page:112(section/title)
 msgid "Switch between windows"
 msgstr "Alternando entre janelas"
 
-#: C/switching-tasks.page:109(item/p)
+#: C/gs-switch-tasks.page:115(item/p)
 msgid ""
-"Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to show the <gui>Window "
-"Switcher</gui>, which lists the currently open windows."
+"Press <keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Tab</key></"
+"keyseq> to show the <gui>window switcher</gui>, which lists the currently "
+"open windows."
 msgstr ""
-"Pressione <keyseq><key>Alt</key><key>Tab</key></keyseq> para mostrar o "
-"<gui>Alternador de janelas</gui>, o qual lista as janelas abertas no momento."
+"Pressione <keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Tab</"
+"key></keyseq> para mostrar o <gui>alternador de janelas</gui>, o qual lista "
+"as janelas abertas no momento."
 
-#: C/switching-tasks.page:111(item/p)
+#: C/gs-switch-tasks.page:118(item/p)
 msgid ""
-"Release <key>Alt</key> to select the next highlighted window in the Window "
-"Switcher."
+"Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
+"highlighted window in the <gui>window switcher</gui>."
 msgstr ""
-"Solte <key>Alt</key> para selecionar a próxima janela selecionada no "
-"alternador de janelas."
+"Solte a tecla <key xref=\"keyboard-key-super\">Super</key> para selecionar a "
+"próxima janela destacada no <gui>alternador de janelas</gui>."
 
-#: C/switching-tasks.page:120(section/title)
+#: C/gs-switch-tasks.page:120(item/p)
+msgid ""
+"To cycle through the list of open windows, do not release <key xref="
+"\"keyboard-key-super\">Super</key> but hold it down, and press <key> Tab</"
+"key>."
+msgstr ""
+"Para circular pela lista de janelas abertas, não solte a tecla <key xref="
+"\"keyboard-key-super\">Super</key>, mas mantenha-a pressionada, e pressione "
+"<key>Tab</key>."
+
+#: C/gs-switch-tasks.page:128(section/title)
 msgid "Use search to switch applications"
 msgstr "Usando a pesquisa para alternar aplicativos"
 
-#: C/switching-tasks.page:125(item/p)
+#: C/gs-switch-tasks.page:133(item/p)
 msgid ""
 "Just start typing the name of the application you want to switch to. "
 "Applications matching what you have typed will appear as you type."
@@ -1788,7 +1607,7 @@ msgstr ""
 "alternar. Aplicativos correspondendo ao que você digitou vão aparecer na "
 "medida em que você digita."
 
-#: C/switching-tasks.page:128(item/p)
+#: C/gs-switch-tasks.page:136(item/p)
 msgid ""
 "When the application that you want to switch to appears as the first result, "
 "press <key>Enter</key> to switch to it."
@@ -1797,152 +1616,173 @@ msgstr ""
 "resultado, pressione <key>Enter</key> para alternar para ele."
 
 # "f" ignorado. Considerei como typo do desenvolvedor...
-#: C/thumb-responding-to-messages.svg:56(text/tspan)
+#: C/gs-thumb-responding-to-messages.svg:59(text/tspan)
 #, no-wrap
 msgid "Thanks f"
 msgstr "Obrigado"
 
-#: C/thumb-timezone.svg:61(text/tspan) C/thumb-timezone.svg:67(text/tspan)
+#. Translators: S stands for Sunday here
+#: C/gs-thumb-timezone.svg:64(text/tspan)
 #, no-wrap
+msgctxt "Sunday"
 msgid "S"
-msgstr "D/S"
+msgstr "D"
 
-#: C/thumb-timezone.svg:62(text/tspan)
+#. Translators: M stands for Monday here
+#: C/gs-thumb-timezone.svg:65(text/tspan)
 #, no-wrap
 msgid "M"
 msgstr "S"
 
-#: C/thumb-timezone.svg:63(text/tspan) C/thumb-timezone.svg:65(text/tspan)
+#. Translators: T stands for Tuesday here
+#: C/gs-thumb-timezone.svg:66(text/tspan)
 #, no-wrap
+msgctxt "Tuesday"
 msgid "T"
-msgstr "T/Qui"
+msgstr "T"
 
-#: C/thumb-timezone.svg:64(text/tspan)
+#. Translators: W stands for Wednesday here
+#: C/gs-thumb-timezone.svg:67(text/tspan)
 #, no-wrap
 msgid "W"
 msgstr "Qua"
 
-#: C/thumb-timezone.svg:66(text/tspan)
+#. Translators: T stands for Thursday here
+#: C/gs-thumb-timezone.svg:68(text/tspan)
+#, no-wrap
+msgctxt "Thursday"
+msgid "T"
+msgstr "Q"
+
+#. Translators: F stands for Friday here
+#: C/gs-thumb-timezone.svg:69(text/tspan)
 #, no-wrap
 msgid "F"
 msgstr "Sexta"
 
-#: C/thumb-timezone.svg:76(text/tspan)
+#. Translators: S stands for Saturday here
+#: C/gs-thumb-timezone.svg:70(text/tspan)
+#, no-wrap
+msgctxt "Saturday"
+msgid "S"
+msgstr "S"
+
+#: C/gs-thumb-timezone.svg:79(text/tspan)
 #, no-wrap
 msgid "8"
 msgstr "8"
 
-#: C/thumb-timezone.svg:77(text/tspan)
+#: C/gs-thumb-timezone.svg:80(text/tspan)
 #, no-wrap
 msgid "9"
 msgstr "9"
 
-#: C/thumb-timezone.svg:78(text/tspan)
+#: C/gs-thumb-timezone.svg:81(text/tspan)
 #, no-wrap
 msgid "10"
 msgstr "10"
 
-#: C/thumb-timezone.svg:79(text/tspan)
+#: C/gs-thumb-timezone.svg:82(text/tspan)
 #, no-wrap
 msgid "11"
 msgstr "11"
 
-#: C/thumb-timezone.svg:80(text/tspan)
+#: C/gs-thumb-timezone.svg:83(text/tspan)
 #, no-wrap
 msgid "12"
 msgstr "12"
 
-#: C/thumb-timezone.svg:81(text/tspan)
+#: C/gs-thumb-timezone.svg:84(text/tspan)
 #, no-wrap
 msgid "13"
 msgstr "13"
 
-#: C/thumb-timezone.svg:82(text/tspan)
+#: C/gs-thumb-timezone.svg:85(text/tspan)
 #, no-wrap
 msgid "14"
 msgstr "14"
 
-#: C/thumb-timezone.svg:84(text/tspan)
+#: C/gs-thumb-timezone.svg:87(text/tspan)
 #, no-wrap
 msgid "15"
 msgstr "15"
 
-#: C/thumb-timezone.svg:85(text/tspan)
+#: C/gs-thumb-timezone.svg:88(text/tspan)
 #, no-wrap
 msgid "16"
 msgstr "16"
 
-#: C/thumb-timezone.svg:86(text/tspan)
+#: C/gs-thumb-timezone.svg:89(text/tspan)
 #, no-wrap
 msgid "17"
 msgstr "17"
 
-#: C/thumb-timezone.svg:87(text/tspan)
+#: C/gs-thumb-timezone.svg:90(text/tspan)
 #, no-wrap
 msgid "18"
 msgstr "18"
 
-#: C/thumb-timezone.svg:88(text/tspan)
+#: C/gs-thumb-timezone.svg:91(text/tspan)
 #, no-wrap
 msgid "19"
 msgstr "19"
 
-#: C/thumb-timezone.svg:89(text/tspan)
+#: C/gs-thumb-timezone.svg:92(text/tspan)
 #, no-wrap
 msgid "20"
 msgstr "20"
 
-#: C/thumb-timezone.svg:90(text/tspan)
+#: C/gs-thumb-timezone.svg:93(text/tspan)
 #, no-wrap
 msgid "21"
 msgstr "21"
 
-#: C/thumb-timezone.svg:92(text/tspan)
+#: C/gs-thumb-timezone.svg:95(text/tspan)
 #, no-wrap
 msgid "22"
 msgstr "22"
 
-#: C/thumb-timezone.svg:93(text/tspan)
+#: C/gs-thumb-timezone.svg:96(text/tspan)
 #, no-wrap
 msgid "23"
 msgstr "23"
 
-#: C/thumb-timezone.svg:94(text/tspan)
+#: C/gs-thumb-timezone.svg:97(text/tspan)
 #, no-wrap
 msgid "24"
 msgstr "24"
 
-#: C/thumb-timezone.svg:95(text/tspan)
+#: C/gs-thumb-timezone.svg:98(text/tspan)
 #, no-wrap
 msgid "25"
 msgstr "25"
 
-#: C/thumb-timezone.svg:96(text/tspan)
+#: C/gs-thumb-timezone.svg:99(text/tspan)
 #, no-wrap
 msgid "26"
 msgstr "26"
 
-#: C/thumb-timezone.svg:97(text/tspan)
+#: C/gs-thumb-timezone.svg:100(text/tspan)
 #, no-wrap
 msgid "27"
 msgstr "27"
 
-#: C/thumb-timezone.svg:98(text/tspan)
+#: C/gs-thumb-timezone.svg:101(text/tspan)
 #, no-wrap
 msgid "28"
 msgstr "28"
 
-#: C/thumb-timezone.svg:100(text/tspan)
+#: C/gs-thumb-timezone.svg:103(text/tspan)
 #, no-wrap
 msgid "29"
 msgstr "29"
 
-#: C/thumb-timezone.svg:101(text/tspan)
+#: C/gs-thumb-timezone.svg:104(text/tspan)
 #, no-wrap
 msgid "30"
 msgstr "30"
 
-#: C/thumb-timezone.svg:102(text/tspan)
+#: C/gs-thumb-timezone.svg:105(text/tspan)
 #, no-wrap
 msgid "31"
 msgstr "31"
@@ -1951,41 +1791,41 @@ msgstr "31"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/use-search.page:20(media)
+#: C/gs-use-system-search.page:20(media)
 msgctxt "_"
-msgid "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
-msgstr "external ref='search1.svg' md5='3c66d2cf4f7ffa1861d5b00aa859e0ce'"
+msgid "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
+msgstr "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/use-search.page:29(media)
+#: C/gs-use-system-search.page:31(media)
 msgctxt "_"
-msgid "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
-msgstr "external ref='search2.svg' md5='0ded850e7e07978fc97c519e271ff4fd'"
+msgid "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
+msgstr "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/use-search.page:56(media)
+#: C/gs-use-system-search.page:70(media)
 msgctxt "_"
 msgid ""
-"external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
+"external ref='gs-search-settings.svg' md5='448b4f7f7881d9e26bdf215515fe014e'"
 msgstr ""
-"external ref='search-settings.svg' md5='f9fbce5ea11cc63facc0616d26f1f502'"
+"external ref='gs-search-settings.svg' md5='448b4f7f7881d9e26bdf215515fe014e'"
 
-#: C/use-search.page:15(info/title)
+#: C/gs-use-system-search.page:15(info/title)
 msgctxt "link:trail"
 msgid "Use the system search"
 msgstr "Utilize a pesquisa do sistema"
 
-#: C/use-search.page:18(page/title)
+#: C/gs-use-system-search.page:18(page/title)
 msgid "Use the system search"
 msgstr "Utilize a pesquisa do sistema"
 
-#: C/use-search.page:25(item/p)
+#: C/gs-use-system-search.page:25(item/p)
 msgid ""
 "Start typing to search. Results matching what you have typed will appear as "
 "you type."
@@ -1993,40 +1833,40 @@ msgstr ""
 "Comece a digitar para pesquisar. Resultados correspondendo a o que você "
 "digitou vão aparecer na medida em que você digita."
 
-#: C/use-search.page:26(item/p)
+#: C/gs-use-system-search.page:27(item/p)
 msgid ""
 "The first result is always highlighted and shown at the top. To switch to "
-"the first, highlighted result, press <key>Enter</key>."
+"the first highlighted result press <key>Enter</key>."
 msgstr ""
 "O primeiro resultado é sempre destacado e mostrado em cima. Para alternar "
 "para o primeiro resultado, destacado, pressione <key>Enter</key>."
 
-#: C/use-search.page:31(item/p)
+#: C/gs-use-system-search.page:33(item/p)
 msgid "Items that can appear in the search results include:"
 msgstr "Itens que podem aparecer nos resultados de pesquisa incluem:"
 
-#: C/use-search.page:33(item/p)
+#: C/gs-use-system-search.page:35(item/p)
 msgid "matching applications, shown at the top of the search results,"
 msgstr ""
 "aplicativos correspondentes, mostrados ao topo dos resultados de pesquisa,"
 
-#: C/use-search.page:34(item/p)
+#: C/gs-use-system-search.page:37(item/p)
 msgid "matching settings,"
 msgstr "configurações correspondentes,"
 
-#: C/use-search.page:35(item/p)
+#: C/gs-use-system-search.page:38(item/p)
 msgid "matching contacts,"
 msgstr "contatos correspondentes,"
 
-#: C/use-search.page:36(item/p)
+#: C/gs-use-system-search.page:39(item/p)
 msgid "matching documents."
 msgstr "documentos correspondentes."
 
-#: C/use-search.page:39(item/p)
+#: C/gs-use-system-search.page:42(item/p)
 msgid "In the search results, click the item to switch to it."
 msgstr "Nos resultados de pesquisa, clique no item para alternar para ele."
 
-#: C/use-search.page:40(item/p)
+#: C/gs-use-system-search.page:43(item/p)
 msgid ""
 "Alternatively, highlight an item using the arrow keys and press <key>Enter</"
 "key>."
@@ -2034,11 +1874,11 @@ msgstr ""
 "Alternativamente, destaque um item usando as teclas de setas e pressione "
 "<key>Enter</key>."
 
-#: C/use-search.page:45(section/title)
+#: C/gs-use-system-search.page:49(section/title)
 msgid "Types of results"
 msgstr "Tipos de resultados"
 
-#: C/use-search.page:47(section/p)
+#: C/gs-use-system-search.page:51(section/p)
 msgid ""
 "System search aggregates results from various applications. The first group "
 "of results are application launchers. Activating a launcher will start an "
@@ -2048,7 +1888,7 @@ msgstr ""
 "grupo de resultados são os aplicativos. Ao executar um deles vai iniciar um "
 "aplicativo."
 
-#: C/use-search.page:48(section/p)
+#: C/gs-use-system-search.page:54(section/p)
 msgid ""
 "Other types of results might include <app>settings</app>, <app>contacts</"
 "app> or <app>documents</app>. Each type of result is preceded with an icon "
@@ -2068,11 +1908,11 @@ msgstr ""
 "aplicativo à esquerda para levar você ao aplicativo. Assim que o aplicativo "
 "associado inicia, sua consulta realizada é realizada no aplicativo."
 
-#: C/use-search.page:54(section/title)
+#: C/gs-use-system-search.page:68(section/title)
 msgid "Customize search results"
 msgstr "Personalizando resultados de pesquisa"
 
-#: C/use-search.page:59(note/p)
+#: C/gs-use-system-search.page:73(note/p)
 msgid ""
 "GNOME lets you customize what you want to display in the search results in "
 "the <gui>Activities Overview</gui>. For example, you can choose whether you "
@@ -2082,15 +1922,15 @@ msgstr ""
 "de pesquisa no <gui>Panorama de atividades</gui>. Por exemplo, você pode "
 "escolher se deseja mostrar resultados de páginas web, fotos ou músicas."
 
-#: C/use-search.page:62(section/p)
+#: C/gs-use-system-search.page:79(section/p)
 msgid "To customize what is displayed in the search results:"
 msgstr "Para personalizar o que é exibido nos resultados de pesquisa:"
 
-#: C/use-search.page:67(item/p)
+#: C/gs-use-system-search.page:84(item/p)
 msgid "From the list of items, select <gui>Search</gui>."
 msgstr "Da lista de itens, selecione <gui>Pesquisar</gui>."
 
-#: C/use-search.page:68(item/p)
+#: C/gs-use-system-search.page:85(item/p)
 msgid ""
 "In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
 "the search location you want to enable or disable."
@@ -2098,35 +1938,277 @@ msgstr ""
 "Na lista de localizações de pesquisa, clique no interruptor de <gui>ON/OFF</"
 "gui> próximo à localização de pesquisa que deseja habilitar ou desabilitar."
 
-#: C/web-browser2.svg:88(text/tspan)
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-use-windows-workspaces.page:21(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-windows-and-workspaces.webm' "
+"md5='53caf9578a37c07f8802c200d001064d'"
+msgstr ""
+"external ref='figures/gnome-windows-and-workspaces.webm' "
+"md5='53caf9578a37c07f8802c200d001064d'"
+
+#: C/gs-use-windows-workspaces.page:15(info/title)
+msgctxt "link:trail"
+msgid "Use windows and workspaces"
+msgstr "Usando janelas e espaços de trabalho"
+
+#: C/gs-use-windows-workspaces.page:18(page/title)
+msgid "Use windows and workspaces"
+msgstr "Usando janelas e espaços de trabalho"
+
+#: C/gs-use-windows-workspaces.page:29(div/p)
+msgid ""
+"To maximize a window, grab the window's titlebar and drag it to the top of "
+"the screen."
+msgstr ""
+"Para maximizar uma janela, arraste a barra de títulos da janela e solte-a "
+"ao topo da tela."
+
+#: C/gs-use-windows-workspaces.page:33(div/p)
+msgid "When the screen is highlighted, release the window."
+msgstr "Quando a tela for destacada, solte a janela."
+
+#: C/gs-use-windows-workspaces.page:36(div/p)
+msgid ""
+"To unmaximize a window, grab the window's titlebar and drag it away from the "
+"edges of the screen."
+msgstr ""
+"Para desmaximizar uma janela, arraste a barra de título da janela e solte-a "
+"para longe das bordas da tela."
+
+#: C/gs-use-windows-workspaces.page:40(div/p)
+msgid ""
+"You can also click the top bar to drag the window away and unmaximize it."
+msgstr ""
+"Você também pode clicar na barra superior para arrastar a janela para fora e "
+"desmaximizá-la."
+
+#: C/gs-use-windows-workspaces.page:52(div/p)
+msgid ""
+"To maximize a window along the right side of the screen, grab the window's "
+"titlebar and drag it to the right."
+msgstr ""
+"Para maximizar uma janela ao lado direito da tela, arraste a barra de título "
+"da janela e solte-a à direita."
+
+#: C/gs-use-windows-workspaces.page:60(div/p)
+#: C/gs-use-windows-workspaces.page:131(item/p)
+msgid ""
+"To maximize a window using the keyboard, hold down the <key xref=\"keyboard-"
+"key-super\">Super</key> key and press <key>↑</key>."
+msgstr ""
+"Para maximizar uma janela usando o teclado, mantenha pressionada a tecla "
+"<key xref=\"keyboard-key-super\">Super</key> e pressione <key>↑</key>."
+
+#: C/gs-use-windows-workspaces.page:65(div/p)
+msgid ""
+"To restore the window to its unmaximized size, hold down the <key xref="
+"\"keyboard-key-super\">Super</key> key and press <key>↓</key>."
+msgstr ""
+"Para restaurar a janela ao seu tamanho desmaximizado, mantenha pressionada a "
+"tecla <key xref=\"keyboard-key-super\">Super</key> e pressione <key>↓</key>."
+
+#: C/gs-use-windows-workspaces.page:70(div/p)
+#: C/gs-use-windows-workspaces.page:145(item/p)
+msgid ""
+"To maximize a window along the right side of the screen, hold down the <key "
+"xref=\"keyboard-key-super\">Super</key> key and press <key>→</key>."
+msgstr ""
+"Para maximizar uma janela ao longo do lado direito da tela, mantenha "
+"pressionada a tecla <key xref=\"keyboard-key-super\">Super</key> e pressione "
+"<key>→</key>."
+
+#: C/gs-use-windows-workspaces.page:75(div/p)
+#: C/gs-use-windows-workspaces.page:148(item/p)
+msgid ""
+"To maximize a window along the left side of the screen, hold down the <key "
+"xref=\"keyboard-key-super\">Super</key> key and press <key>←</key>."
+msgstr ""
+"Para maximizar uma janela ao longo do lado esquerdo da tela, mantenha "
+"pressionada a tecla <key xref=\"keyboard-key-super\">Super</key> e pressione "
+"<key>←</key>."
+
+#: C/gs-use-windows-workspaces.page:80(div/p)
+msgid ""
+"To move to a workspace which is below the current workspace, press "
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key></"
+"keyseq>."
+msgstr ""
+"Para mover para um espaço de trabalho que está abaixo do espaço de trabalho "
+"atual, pressione <keyseq><key xref=\"keyboard-key-super\">Super</"
+"key><key>Page Down</key></keyseq>."
+
+#: C/gs-use-windows-workspaces.page:85(div/p)
+msgid ""
+"To move to a workspace which is above the current workspace, press "
+"<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Page Up</key></"
+"keyseq>."
+msgstr ""
+"Para mover para um espaço de trabalho que está acima do espaço de trabalho "
+"atual, pressione <keyseq><key xref=\"keyboard-key-super\">Super</key> "
+"<key>Page Up</key></keyseq>."
+
+#: C/gs-use-windows-workspaces.page:95(section/title)
+msgid "Maximize and unmaximize windows"
+msgstr "Maximizando e desmaximizando janelas"
+
+#: C/gs-use-windows-workspaces.page:99(item/p)
+msgid ""
+"To maximize a window so that it takes up all of the space on your desktop, "
+"grab the window's titlebar and drag it to the top of the screen."
+msgstr ""
+"Para maximizar uma janela de forma que ela tome todo o espaço da tela do seu "
+"ambiente, pegue a barra de título da janela e arraste-a para o topo."
+
+#: C/gs-use-windows-workspaces.page:102(item/p)
+msgid "When the screen is highlighted, release the window to maximize it."
+msgstr "Quando a tela for destacada, solte a janela para maximizá-la."
+
+#: C/gs-use-windows-workspaces.page:104(item/p)
+msgid ""
+"To restore a window to its unmaximized size, grab the window's titlebar and "
+"drag it away from the edges of the screen."
+msgstr ""
+"Para restaurar uma janela para seu tamanho não maximizado, segure a barra de "
+"título da janela e arraste-a para longe das bordas da tela."
+
+#: C/gs-use-windows-workspaces.page:128(section/title)
+msgid "Maximize and unmaximize windows using the keyboard"
+msgstr "Maximizando e desmaximizando janelas usando o teclado"
+
+#: C/gs-use-windows-workspaces.page:134(item/p)
+msgid ""
+"To unmaximize a window using the keyboard, hold down the <key xref="
+"\"keyboard-key-super\">Super</key> key and press <key>↓</key>."
+msgstr ""
+"Para desmaximizar uma janela usando o teclado, mantenha pressionada a tecla "
+"<key xref=\"keyboard-key-super\">Super</key> e pressione a tecla <key>↓</"
+"key>."
+
+#: C/gs-use-windows-workspaces.page:142(section/title)
+msgid "Tile windows using the keyboard"
+msgstr "Tornando janelas lado a lado usando o teclado"
+
+#: C/gs-use-windows-workspaces.page:156(section/title)
+msgid "Switch workspaces using the keyboard"
+msgstr "Alternando entre espaços de trabalho usando o teclado"
+
+#: C/gs-use-windows-workspaces.page:160(item/p)
+msgid ""
+"To move to a workspace which is below the current workspace, press "
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key> </"
+"keyseq>."
+msgstr ""
+"Para mover para um espaço de trabalho que está abaixo do espaço de trabalho "
+"atual, pressione <keyseq><key xref=\"keyboard-key-super\">Super</"
+"key><key>Page Down</key> </keyseq>."
+
+#: C/gs-use-windows-workspaces.page:163(item/p)
+msgid ""
+"To move to a workspace which is above the current workspace, press "
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Up</key> </"
+"keyseq>."
+msgstr ""
+"Para mover para um espaço de trabalho que está acima do espaço de trabalho "
+"atual, pressione <keyseq><key xref=\"keyboard-key-super\">Super</"
+"key><key>Page Up</key> </keyseq>."
+
+#: C/gs-web-browser2.svg:151(text/tspan)
 #, no-wrap
 msgid "gnome"
 msgstr "gnome"
 
-#: C/web-browser2.svg:92(text/tspan)
+#: C/gs-web-browser2.svg:155(text/tspan)
 #, no-wrap
 msgid "Planet Gnome"
 msgstr "Planeta GNOME"
 
-#: C/web-browser2.svg:93(text/tspan)
+#: C/gs-web-browser2.svg:156(text/tspan)
 #, no-wrap
 msgid "GNOME 3"
 msgstr "GNOME 3"
 
-#: C/web-browser2.svg:94(text/tspan)
+#: C/gs-web-browser2.svg:157(text/tspan)
 #, no-wrap
 msgid "http://planet.gnome.org"
 msgstr "http://planet.gnome.org"
 
-#: C/web-browser2.svg:95(text/tspan)
+#: C/gs-web-browser2.svg:158(text/tspan)
 #, no-wrap
 msgid "http://gnome.org"
 msgstr "http://gnome.org"
 
-#: C/web-browser2.svg:189(text/tspan)
+#: C/gs-web-browser2.svg:252(text/tspan)
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planeta GNOME"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
+#~ msgstr ""
+#~ "external ref='web-browser2.svg' md5='7b9066ffe7e6fbdf93c1e22d3f01cfa8'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='thumb-timezone.svg' md5='42ffa67597e33e89eb5d7e31eed50e9e'"
+#~ msgstr ""
+#~ "external ref='thumb-timezone.svg' md5='42ffa67597e33e89eb5d7e31eed50e9e'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='thumb-changing-wallpaper.svg' "
+#~ "md5='763775a32c0e5861c71ef54fdcb24a53'"
+#~ msgstr ""
+#~ "external ref='thumb-changing-wallpaper.svg' "
+#~ "md5='763775a32c0e5861c71ef54fdcb24a53'"
+
+#~ msgid "Learn More"
+#~ msgstr "Aprenda mais"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='thumb-launching-apps.svg' "
+#~ "md5='7b9941a22fe51067153ca05089d4b6a1'"
+#~ msgstr ""
+#~ "external ref='thumb-launching-apps.svg' "
+#~ "md5='7b9941a22fe51067153ca05089d4b6a1'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='thumb-windows-and-workspaces.svg' "
+#~ "md5='2d0f1a522ee5edf60bd5f5fc7b7da254'"
+#~ msgstr ""
+#~ "external ref='thumb-windows-and-workspaces.svg' "
+#~ "md5='2d0f1a522ee5edf60bd5f5fc7b7da254'"
+
+#~ msgctxt "_"
+#~ msgid "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
+#~ msgstr "external ref='goa1.svg' md5='bf32b2e7b1b023efa8b80b506c057049'"
+
+#~ msgctxt "_"
+#~ msgid "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
+#~ msgstr "external ref='goa5.svg' md5='565ff3fc06db1a61466c4c3a7df0c696'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='thumb-responding-to-messages.svg' "
+#~ "md5='09b2f4d5c62b225fc26e03cfd5369bfb'"
+#~ msgstr ""
+#~ "external ref='thumb-responding-to-messages.svg' "
+#~ "md5='09b2f4d5c62b225fc26e03cfd5369bfb'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='thumb-task-switching.svg' "
+#~ "md5='40c644a7f373bca4ce0234bb44ac18b8'"
+#~ msgstr ""
+#~ "external ref='thumb-task-switching.svg' "
+#~ "md5='40c644a7f373bca4ce0234bb44ac18b8'"
 
 #~ msgctxt "link:trail"
 #~ msgid "Get additional applications"
@@ -2140,13 +2222,6 @@ msgstr "Planeta GNOME"
 
 #~ msgid "Getting Started with GNOME"
 #~ msgstr "Primeiros passos com o GNOME"
-
-#~ msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
-#~ msgstr ""
-#~ "Licença Creative Commons Atribuição-Compartilhada Igual 3.0 Não Adaptada"
-
-#~ msgid "This work is licensed under a <_:link-1/>."
-#~ msgstr "Esta obra está licenciada sob uma <_:link-1/>."
 
 #~ msgid "Changing the date, time and timezone"
 #~ msgstr "Alterando a data, hora e fuso horário"
