@@ -13,6 +13,9 @@ HELP_MEDIA = \
 	figures/gnome-windows-and-workspaces.webm \
 	figures/gnome-yelp-intro.webm
 
+# Please ASK MAINTAINERS first before updating the HELP_FILES list below.
+# Keep in mind that some files are missing on purpose.
+
 HELP_FILES = \
 	getting-started.page \
 	gs-animation.xml \
