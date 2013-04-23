@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-03-25 18:40+0000\n"
-"PO-Revision-Date: 2013-04-02 00:00+0300\n"
+"POT-Creation-Date: 2013-04-22 13:48+0000\n"
+"PO-Revision-Date: 2013-04-23 08:37+0300\n"
 "Last-Translator: Dimitris Spingos (Δημήτρης Σπίγγος) <dmtrs32@gmail.com>\n"
 "Language-Team: team@gnome.gr\n"
 "Language: el\n"
@@ -60,10 +60,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/getting-started.page:57(media) C/gs-switch-tasks.page:22(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/gnome-task-switching.webm' "
-#| "md5='457a511b6086fe787e3b589717021a55'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-task-switching.webm' "
@@ -123,7 +119,6 @@ msgstr ""
 "αριστερά της οθόνης."
 
 #: C/getting-started.page:32(div/p) C/gs-launch-applications.page:36(div/p)
-#| msgid "Click the <gui>Show Applications</gui> item."
 msgid "Click the <gui>Show Applications</gui> icon."
 msgstr "Πατήστε το εικονίδιο <gui>Εμφάνιση εφαρμογών</gui>."
 
@@ -133,9 +128,6 @@ msgstr ""
 "Πατήστε την εφαρμογή που θέλετε να εκτελέσετε, για παράδειγμα, βοήθεια."
 
 #: C/getting-started.page:39(div/p) C/gs-launch-applications.page:43(div/p)
-#| msgid ""
-#| "Use the keyboard to open the <gui>Activities Overview</gui> <span begin="
-#| "\"3s\">by pressing the <key>Super</key> key. </span>"
 msgid ""
 "Alternatively, use the keyboard to open the <gui>Activities Overview</gui> "
 "by pressing the <key xref=\"keyboard-key-super\">Super</key> key."
@@ -164,7 +156,6 @@ msgstr "Αλλαγή εργασιών"
 
 #: C/getting-started.page:71(div/p) C/gs-switch-tasks.page:34(div/p)
 #: C/gs-switch-tasks.page:90(item/p)
-#| msgid "Click a window to switch the task."
 msgid "Click a window to switch to that task."
 msgstr "Πατήστε σε ένα παράθυρο για να αλλάξετε σε αυτήν την εργασία."
 
@@ -181,7 +172,6 @@ msgstr ""
 #: C/gs-switch-tasks.page:41(div/p) C/gs-switch-tasks.page:49(div/p)
 #: C/gs-use-windows-workspaces.page:48(div/p)
 #: C/gs-use-windows-workspaces.page:56(div/p)
-#| msgid "When half of the screen is highlighted, drop the window."
 msgid "When half of the screen is highlighted, release the window."
 msgstr "Όταν η μισή οθόνη επισημανθεί, ελευθερώστε το παράθυρο."
 
@@ -307,15 +297,12 @@ msgstr ""
 "πλήκτρο <key>Εισαγωγή</key>."
 
 #: C/getting-started.page:165(div/p) C/gs-respond-messages.page:62(div/p)
-#| msgid ""
-#| "To show the message tray, press <keyseq><key>Super</key><key>M </key></"
-#| "keyseq>"
 msgid ""
 "To show the message tray, press <keyseq> <key xref=\"keyboard-key-super"
 "\">Super</key><key>M</key></keyseq>"
 msgstr ""
-"Για να εμφανίσετε την περιοχή ειδοποιήσεων, πατήστε <keyseq> <key xref"
-"=\"keyboard-key-super\">Λογότυπος</key><key>M</key></keyseq>."
+"Για να εμφανίσετε την περιοχή ειδοποιήσεων, πατήστε <keyseq> <key xref="
+"\"keyboard-key-super\">Λογότυπος</key><key>M</key></keyseq>."
 
 #: C/getting-started.page:169(div/p) C/gs-respond-messages.page:66(div/p)
 msgid ""
@@ -386,7 +373,7 @@ msgstr "Δεξιό μισό της οθόνης"
 #: C/gs-thumb-launching-apps.svg:195(text/tspan)
 #: C/gs-thumb-responding-to-messages.svg:42(text/tspan)
 #: C/gs-thumb-task-switching.svg:158(text/tspan)
-#: C/gs-thumb-timezone.svg:50(text/tspan)
+#: C/gs-thumb-timezone.svg:47(text/tspan)
 #: C/gs-thumb-windows-and-workspaces.svg:95(text/tspan)
 #: C/gs-web-browser1.svg:122(text/tspan)
 #, no-wrap
@@ -436,7 +423,7 @@ msgstr "Απλά αρχίστε να πληκτρολογείτε…"
 #: C/gs-thumb-responding-to-messages.svg:43(text/tspan)
 #: C/gs-thumb-responding-to-messages.svg:61(text/tspan)
 #: C/gs-thumb-task-switching.svg:159(text/tspan)
-#: C/gs-thumb-timezone.svg:51(text/tspan)
+#: C/gs-thumb-timezone.svg:48(text/tspan)
 #: C/gs-thumb-windows-and-workspaces.svg:96(text/tspan)
 #, no-wrap
 msgid "John Doe"
@@ -507,9 +494,6 @@ msgstr "Αυτόματη ημερομηνία και ώρα"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-browse-web.page:21(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='web-browser1.svg' md5='380ae6420b6eeef748add9fa8d3ebc19'"
 msgctxt "_"
 msgid ""
 "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
@@ -521,9 +505,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-browse-web.page:36(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='web-browser2.svg' md5='93bfea229039508aa26d81ebfb372130'"
 msgctxt "_"
 msgid ""
 "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
@@ -584,24 +565,27 @@ msgstr ""
 #: C/gs-browse-web.page:32(note/p)
 #| msgid ""
 #| "Alternatively, you can launch the <app>Web</app> browser by <link xref="
-#| "\"use-search\">just typing</link> the browser name in the <gui>Activities "
-#| "Overview</gui>."
+#| "\"gs-use-system-search\">just typing</link> the browser name in the "
+#| "<gui>Activities Overview</gui>."
 msgid ""
-"Alternatively, you can launch the <app>Web</app> browser by <link xref=\"gs-"
-"use-system-search\">just typing</link> the browser name in the "
-"<gui>Activities Overview</gui>."
+"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
+"search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
+"gui>."
 msgstr ""
-"Εναλλακτικά, μπορείτε να ξεκινήσετε τον περιηγητή <app>Ιστού</app> <link "
-"xref=\"gs-use-system-search\">πληκτρολογώντας απλά</link> το όνομα του "
-"περιηγητή στην <gui>Επισκόπηση ενεργειών</gui>."
+"Εναλλακτικά, μπορείτε να ξεκινήσετε τον περιηγητή <link xref=\"gs-use-system-"
+"search\">πληκτρολογώντας απλά</link> <em>web</em> στην <gui>Επισκόπηση "
+"ενεργειών</gui>."
 
 #: C/gs-browse-web.page:39(item/p)
+#| msgid ""
+#| "Click the address bar at the top of the <app>Web</app> browser window and "
+#| "start typing in the website you want to visit."
 msgid ""
-"Click the address bar at the top of the <app>Web</app> browser window and "
-"start typing in the website you want to visit."
+"Click the address bar at the top of the browser window and start typing in "
+"the website you want to visit."
 msgstr ""
-"Πατήστε στη γραμμή διευθύνσεων στην κορυφή του παραθύρου περιηγητή "
-"<app>Ιστός</app> και αρχίστε να πληκτρολογείτε την επιθυμητή ιστοσελίδα."
+"Πατήστε στη γραμμή διευθύνσεων στην κορυφή του παραθύρου περιηγητή και "
+"αρχίστε να πληκτρολογείτε τον επιθυμητό ιστότοπο."
 
 #: C/gs-browse-web.page:41(item/p)
 msgid ""
@@ -639,10 +623,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-change-date-time-timezone.page:22(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/gnome-timezone.webm' "
-#| "md5='79089b60be438a6e6b0505f06679cebe'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-timezone.webm' "
@@ -795,8 +775,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:20(media)
-#| msgctxt "_"
-#| msgid "external ref='goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
 msgctxt "_"
 msgid "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
 msgstr "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
@@ -806,8 +784,6 @@ msgstr "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:27(media)
-#| msgctxt "_"
-#| msgid "external ref='goa2.svg' md5='0786fcd237df1588330b4489d7dedda6'"
 msgctxt "_"
 msgid "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
 msgstr "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
@@ -817,8 +793,6 @@ msgstr "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:39(media)
-#| msgctxt "_"
-#| msgid "external ref='goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
 msgctxt "_"
 msgid "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
 msgstr "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
@@ -828,8 +802,6 @@ msgstr "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:46(media)
-#| msgctxt "_"
-#| msgid "external ref='goa4.svg' md5='be85f512313776ed58faf6072a8e59ef'"
 msgctxt "_"
 msgid "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
 msgstr "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
@@ -839,8 +811,6 @@ msgstr "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:55(media)
-#| msgctxt "_"
-#| msgid "external ref='goa5.svg' md5='5deb427a0f7621bf8e7fed469a92954b'"
 msgctxt "_"
 msgid "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
 msgstr "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
@@ -923,33 +893,30 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-get-online.page:30(media)
-#| msgctxt "_"
-#| msgid "external ref='go-online1.svg' md5='daea04c13135c1aab3b117d8a133ed86'"
 msgctxt "_"
 msgid "external ref='gs-go-online1.svg' md5='5e1aa458f42d9a534678ac2196cf84a2'"
-msgstr "external ref='gs-go-online1.svg' md5='5e1aa458f42d9a534678ac2196cf84a2'"
+msgstr ""
+"external ref='gs-go-online1.svg' md5='5e1aa458f42d9a534678ac2196cf84a2'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-get-online.page:43(media)
-#| msgctxt "_"
-#| msgid "external ref='go-online2.svg' md5='0a0511b9f1e744495eeb3fb82573a5df'"
 msgctxt "_"
 msgid "external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
-msgstr "external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
+msgstr ""
+"external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-get-online.page:62(media)
-#| msgctxt "_"
-#| msgid "external ref='go-online3.svg' md5='58a5c6c77ee39f23fb3e5aaa6d78009f'"
 msgctxt "_"
 msgid "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
-msgstr "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
+msgstr ""
+"external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
 
 #: C/gs-get-online.page:15(info/title)
 msgctxt "link:trail"
@@ -1061,7 +1028,7 @@ msgstr ""
 #: C/gs-thumb-launching-apps.svg:180(Work/format)
 #: C/gs-thumb-responding-to-messages.svg:27(Work/format)
 #: C/gs-thumb-task-switching.svg:80(Work/format)
-#: C/gs-thumb-timezone.svg:35(Work/format)
+#: C/gs-thumb-timezone.svg:32(Work/format)
 #: C/gs-thumb-windows-and-workspaces.svg:80(Work/format)
 #: C/gs-web-browser1.svg:108(Work/format)
 #: C/gs-web-browser2.svg:100(Work/format)
@@ -1070,24 +1037,24 @@ msgstr "εικόνα/svg+xml"
 
 #: C/gs-goa1.svg:61(text/tspan) C/gs-go-online1.svg:232(text/tspan)
 #: C/gs-go-online3.svg:269(text/tspan) C/gs-search1.svg:100(text/tspan)
-#: C/gs-thumb-timezone.svg:79(text/tspan)
-#: C/gs-thumb-timezone.svg:113(text/tspan)
+#: C/gs-thumb-timezone.svg:72(text/tspan)
+#: C/gs-thumb-timezone.svg:106(text/tspan)
 #: C/gs-web-browser1.svg:120(text/tspan)
 #, no-wrap
 msgid "1"
 msgstr "1"
 
 #: C/gs-goa1.svg:65(text/tspan) C/gs-go-online1.svg:283(text/tspan)
-#: C/gs-search2.svg:136(text/tspan) C/gs-thumb-timezone.svg:80(text/tspan)
-#: C/gs-thumb-timezone.svg:114(text/tspan)
+#: C/gs-search2.svg:136(text/tspan) C/gs-thumb-timezone.svg:73(text/tspan)
+#: C/gs-thumb-timezone.svg:107(text/tspan)
 #: C/gs-web-browser1.svg:153(text/tspan)
 #, no-wrap
 msgid "2"
 msgstr "2"
 
 #: C/gs-goa2.svg:50(text/tspan) C/gs-go-online2.svg:231(text/tspan)
-#: C/gs-thumb-timezone.svg:81(text/tspan)
-#: C/gs-thumb-timezone.svg:115(text/tspan)
+#: C/gs-thumb-timezone.svg:74(text/tspan)
+#: C/gs-thumb-timezone.svg:108(text/tspan)
 #: C/gs-web-browser2.svg:163(text/tspan)
 #, no-wrap
 msgid "3"
@@ -1104,8 +1071,8 @@ msgstr "Διαδικτυακοί λογαριασμοί"
 msgid "Add an online account"
 msgstr "Προσθήκη διαδικτυακού λογαριασμού"
 
-#: C/gs-goa3.svg:50(text/tspan) C/gs-thumb-timezone.svg:82(text/tspan)
-#: C/gs-thumb-timezone.svg:116(text/tspan)
+#: C/gs-goa3.svg:50(text/tspan) C/gs-thumb-timezone.svg:75(text/tspan)
+#: C/gs-thumb-timezone.svg:109(text/tspan)
 #: C/gs-web-browser2.svg:113(text/tspan)
 #, no-wrap
 msgid "4"
@@ -1148,7 +1115,7 @@ msgstr "Microsoft Exchange"
 msgid "Enterprise Login (Kerberos)"
 msgstr "Εταιρική σύνδεση (Kerberos)"
 
-#: C/gs-goa4.svg:48(text/tspan) C/gs-thumb-timezone.svg:83(text/tspan)
+#: C/gs-goa4.svg:48(text/tspan) C/gs-thumb-timezone.svg:76(text/tspan)
 #: C/gs-web-browser2.svg:261(text/tspan)
 #, no-wrap
 msgid "5"
@@ -1200,12 +1167,12 @@ msgstr "Παραχώρηση πρόσβασης"
 msgid "Deny Access"
 msgstr "Άρνηση πρόσβασης"
 
-#: C/gs-goa4.svg:129(text/tspan) C/gs-thumb-timezone.svg:84(text/tspan)
+#: C/gs-goa4.svg:129(text/tspan) C/gs-thumb-timezone.svg:77(text/tspan)
 #, no-wrap
 msgid "6"
 msgstr "6"
 
-#: C/gs-goa5.svg:47(text/tspan) C/gs-thumb-timezone.svg:85(text/tspan)
+#: C/gs-goa5.svg:47(text/tspan) C/gs-thumb-timezone.svg:78(text/tspan)
 #, no-wrap
 msgid "7"
 msgstr "7"
@@ -1257,7 +1224,7 @@ msgstr "ΕΝΕΡΓΟ"
 #: C/gs-thumb-launching-apps.svg:197(text/tspan)
 #: C/gs-thumb-responding-to-messages.svg:44(text/tspan)
 #: C/gs-thumb-task-switching.svg:160(text/tspan)
-#: C/gs-thumb-timezone.svg:52(text/tspan)
+#: C/gs-thumb-timezone.svg:49(text/tspan)
 #: C/gs-thumb-windows-and-workspaces.svg:97(text/tspan)
 #, no-wrap
 msgid "14:30"
@@ -1324,9 +1291,6 @@ msgid "Launch applications with the mouse"
 msgstr "Έναρξη εφαρμογών με το ποντίκι"
 
 #: C/gs-launch-applications.page:65(item/p)
-#| msgid ""
-#| "Click the <gui>Show Applications</gui> item that is shown at the bottom "
-#| "of the bar on the left-hand side of the screen."
 msgid ""
 "Click the <gui>Show Applications</gui> icon that is shown at the bottom of "
 "the bar on the left-hand side of the screen."
@@ -1348,15 +1312,12 @@ msgstr "Έναρξη εφαρμογών με το πληκτρολόγιο"
 
 #: C/gs-launch-applications.page:77(item/p)
 #: C/gs-use-system-search.page:23(item/p)
-#| msgid ""
-#| "Open the <gui>Activities Overview</gui> by pressing the <key>Super </key> "
-#| "key."
 msgid ""
 "Open the <gui>Activities Overview</gui> by pressing the <key xref=\"keyboard-"
 "key-super\">Super</key> key."
 msgstr ""
-"Ανοίξτε την <gui>Επισκόπηση ενεργειών</gui> πατώντας το πλήκτρο <key xref"
-"=\"keyboard-key-super\">Λογότυπου</key>."
+"Ανοίξτε την <gui>Επισκόπηση ενεργειών</gui> πατώντας το πλήκτρο <key xref="
+"\"keyboard-key-super\">Λογότυπου</key>."
 
 #: C/gs-launch-applications.page:79(item/p)
 msgid ""
@@ -1455,10 +1416,6 @@ msgstr ""
 "πληκτρολόγιο"
 
 #: C/gs-respond-messages.page:120(item/p)
-#| msgid ""
-#| "To get back to your unanswered chat messages, press <keyseq><key> Super</"
-#| "key><key>M</key></keyseq> to display the message tray that contains the "
-#| "messages."
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq> <key xref="
 "\"keyboard-key-super\">Super</key><key>M</key></keyseq> to display the "
@@ -1478,9 +1435,6 @@ msgstr ""
 "πλήκτρο <key>Εισαγωγή</key>."
 
 #: C/gs-respond-messages.page:128(item/p)
-#| msgid ""
-#| "To dismiss the message tray, press <key>Esc</key> or <keyseq><key>Super</"
-#| "key><key>M</key></keyseq>."
 msgid ""
 "To dismiss the message tray, press <key>Esc</key> or <keyseq> <key xref="
 "\"keyboard-key-super\">Super</key><key>M</key></keyseq>."
@@ -1612,9 +1566,6 @@ msgstr ""
 
 #: C/gs-switch-tasks.page:101(item/p)
 #: C/gs-use-windows-workspaces.page:117(item/p)
-#| msgid ""
-#| "When half of the screen is highlighted, drop the window to maximize it "
-#| "along the selected side of the screen."
 msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
 "along the selected side of the screen."
@@ -1633,9 +1584,6 @@ msgstr ""
 
 #: C/gs-switch-tasks.page:105(item/p)
 #: C/gs-use-windows-workspaces.page:121(item/p)
-#| msgid ""
-#| "When half of the screen is highlighted, drop the window to maximize it "
-#| "along the opposite side of the screen."
 msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
 "along the opposite side of the screen."
@@ -1702,165 +1650,168 @@ msgstr ""
 msgid "Thanks f"
 msgstr "Ευχαριστώ"
 
-#: C/gs-thumb-timezone.svg:68(text/tspan)
+#. Translators: S stands for Sunday here
+#: C/gs-thumb-timezone.svg:64(text/tspan)
 #, no-wrap
-#| msgid "S"
 msgctxt "Sunday"
 msgid "S"
 msgstr "ΚΥ"
 
-#: C/gs-thumb-timezone.svg:69(text/tspan)
+#. Translators: M stands for Monday here
+#: C/gs-thumb-timezone.svg:65(text/tspan)
 #, no-wrap
 msgid "M"
 msgstr "ΔΕ"
 
-#: C/gs-thumb-timezone.svg:70(text/tspan)
+#. Translators: T stands for Tuesday here
+#: C/gs-thumb-timezone.svg:66(text/tspan)
 #, no-wrap
-#| msgid "T"
 msgctxt "Tuesday"
 msgid "T"
 msgstr "ΤΡ"
 
-#: C/gs-thumb-timezone.svg:71(text/tspan)
+#. Translators: W stands for Wednesday here
+#: C/gs-thumb-timezone.svg:67(text/tspan)
 #, no-wrap
 msgid "W"
 msgstr "ΤΕ"
 
-#: C/gs-thumb-timezone.svg:72(text/tspan)
+#. Translators: T stands for Thursday here
+#: C/gs-thumb-timezone.svg:68(text/tspan)
 #, no-wrap
-#| msgid "T"
 msgctxt "Thursday"
 msgid "T"
 msgstr "ΠΕ"
 
-#: C/gs-thumb-timezone.svg:73(text/tspan)
+#. Translators: F stands for Friday here
+#: C/gs-thumb-timezone.svg:69(text/tspan)
 #, no-wrap
 msgid "F"
 msgstr "ΠΑ"
 
-#: C/gs-thumb-timezone.svg:74(text/tspan)
+#. Translators: S stands for Saturday here
+#: C/gs-thumb-timezone.svg:70(text/tspan)
 #, no-wrap
-#| msgid "S"
 msgctxt "Saturday"
 msgid "S"
 msgstr "ΣΑ"
 
-#: C/gs-thumb-timezone.svg:86(text/tspan)
+#: C/gs-thumb-timezone.svg:79(text/tspan)
 #, no-wrap
 msgid "8"
 msgstr "8"
 
-#: C/gs-thumb-timezone.svg:87(text/tspan)
+#: C/gs-thumb-timezone.svg:80(text/tspan)
 #, no-wrap
 msgid "9"
 msgstr "9"
 
-#: C/gs-thumb-timezone.svg:88(text/tspan)
+#: C/gs-thumb-timezone.svg:81(text/tspan)
 #, no-wrap
 msgid "10"
 msgstr "10"
 
-#: C/gs-thumb-timezone.svg:89(text/tspan)
+#: C/gs-thumb-timezone.svg:82(text/tspan)
 #, no-wrap
 msgid "11"
 msgstr "11"
 
-#: C/gs-thumb-timezone.svg:90(text/tspan)
+#: C/gs-thumb-timezone.svg:83(text/tspan)
 #, no-wrap
 msgid "12"
 msgstr "12"
 
-#: C/gs-thumb-timezone.svg:91(text/tspan)
+#: C/gs-thumb-timezone.svg:84(text/tspan)
 #, no-wrap
 msgid "13"
 msgstr "13"
 
-#: C/gs-thumb-timezone.svg:92(text/tspan)
+#: C/gs-thumb-timezone.svg:85(text/tspan)
 #, no-wrap
 msgid "14"
 msgstr "14"
 
-#: C/gs-thumb-timezone.svg:94(text/tspan)
+#: C/gs-thumb-timezone.svg:87(text/tspan)
 #, no-wrap
 msgid "15"
 msgstr "15"
 
-#: C/gs-thumb-timezone.svg:95(text/tspan)
+#: C/gs-thumb-timezone.svg:88(text/tspan)
 #, no-wrap
 msgid "16"
 msgstr "16"
 
-#: C/gs-thumb-timezone.svg:96(text/tspan)
+#: C/gs-thumb-timezone.svg:89(text/tspan)
 #, no-wrap
 msgid "17"
 msgstr "17"
 
-#: C/gs-thumb-timezone.svg:97(text/tspan)
+#: C/gs-thumb-timezone.svg:90(text/tspan)
 #, no-wrap
 msgid "18"
 msgstr "18"
 
-#: C/gs-thumb-timezone.svg:98(text/tspan)
+#: C/gs-thumb-timezone.svg:91(text/tspan)
 #, no-wrap
 msgid "19"
 msgstr "19"
 
-#: C/gs-thumb-timezone.svg:99(text/tspan)
+#: C/gs-thumb-timezone.svg:92(text/tspan)
 #, no-wrap
 msgid "20"
 msgstr "20"
 
-#: C/gs-thumb-timezone.svg:100(text/tspan)
+#: C/gs-thumb-timezone.svg:93(text/tspan)
 #, no-wrap
 msgid "21"
 msgstr "21"
 
-#: C/gs-thumb-timezone.svg:102(text/tspan)
+#: C/gs-thumb-timezone.svg:95(text/tspan)
 #, no-wrap
 msgid "22"
 msgstr "22"
 
-#: C/gs-thumb-timezone.svg:103(text/tspan)
+#: C/gs-thumb-timezone.svg:96(text/tspan)
 #, no-wrap
 msgid "23"
 msgstr "23"
 
-#: C/gs-thumb-timezone.svg:104(text/tspan)
+#: C/gs-thumb-timezone.svg:97(text/tspan)
 #, no-wrap
 msgid "24"
 msgstr "24"
 
-#: C/gs-thumb-timezone.svg:105(text/tspan)
+#: C/gs-thumb-timezone.svg:98(text/tspan)
 #, no-wrap
 msgid "25"
 msgstr "25"
 
-#: C/gs-thumb-timezone.svg:106(text/tspan)
+#: C/gs-thumb-timezone.svg:99(text/tspan)
 #, no-wrap
 msgid "26"
 msgstr "26"
 
-#: C/gs-thumb-timezone.svg:107(text/tspan)
+#: C/gs-thumb-timezone.svg:100(text/tspan)
 #, no-wrap
 msgid "27"
 msgstr "27"
 
-#: C/gs-thumb-timezone.svg:108(text/tspan)
+#: C/gs-thumb-timezone.svg:101(text/tspan)
 #, no-wrap
 msgid "28"
 msgstr "28"
 
-#: C/gs-thumb-timezone.svg:110(text/tspan)
+#: C/gs-thumb-timezone.svg:103(text/tspan)
 #, no-wrap
 msgid "29"
 msgstr "29"
 
-#: C/gs-thumb-timezone.svg:111(text/tspan)
+#: C/gs-thumb-timezone.svg:104(text/tspan)
 #, no-wrap
 msgid "30"
 msgstr "30"
 
-#: C/gs-thumb-timezone.svg:112(text/tspan)
+#: C/gs-thumb-timezone.svg:105(text/tspan)
 #, no-wrap
 msgid "31"
 msgstr "31"
@@ -1870,8 +1821,6 @@ msgstr "31"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-use-system-search.page:20(media)
-#| msgctxt "_"
-#| msgid "external ref='search1.svg' md5='93b873a25fb241cc12505faadc209247'"
 msgctxt "_"
 msgid "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
 msgstr "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
@@ -1881,8 +1830,6 @@ msgstr "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-use-system-search.page:31(media)
-#| msgctxt "_"
-#| msgid "external ref='search2.svg' md5='ca4b89e6098deda603a6463df5746eb3'"
 msgctxt "_"
 msgid "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
 msgstr "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
@@ -1892,9 +1839,6 @@ msgstr "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-use-system-search.page:70(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='search-settings.svg' md5='47b7e436840de8fc78952beed88beccc'"
 msgctxt "_"
 msgid ""
 "external ref='gs-search-settings.svg' md5='448b4f7f7881d9e26bdf215515fe014e'"
@@ -1919,9 +1863,6 @@ msgstr ""
 "με αυτά που πληκτρολογείτε θα εμφανιστούν καθώς πληκτρολογείτε."
 
 #: C/gs-use-system-search.page:27(item/p)
-#| msgid ""
-#| "The first result is always highlighted and shown at the top. To switch to "
-#| "the first, highlighted result, press <key>Enter</key>."
 msgid ""
 "The first result is always highlighted and shown at the top. To switch to "
 "the first highlighted result press <key>Enter</key>."
@@ -2040,10 +1981,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-use-windows-workspaces.page:21(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/gnome-windows-and-workspaces.webm' "
-#| "md5='2804904c3fd3928ba9ad794448ab4149'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
@@ -2070,7 +2007,6 @@ msgstr ""
 "μεταφέρτε το στην κορυφή της οθόνης."
 
 #: C/gs-use-windows-workspaces.page:33(div/p)
-#| msgid "When the screen is highlighted, drop the window."
 msgid "When the screen is highlighted, release the window."
 msgstr "Όταν η οθόνη επισημανθεί, ελευθερώστε το παράθυρο."
 
@@ -2170,7 +2106,6 @@ msgstr ""
 "τον στη κορυφή της οθόνης."
 
 #: C/gs-use-windows-workspaces.page:102(item/p)
-#| msgid "When the screen is highlighted, drop the window to maximize it."
 msgid "When the screen is highlighted, release the window to maximize it."
 msgstr ""
 "Όταν η οθόνη επισημαίνεται, ελευθερώστε το παράθυρο για να το "
