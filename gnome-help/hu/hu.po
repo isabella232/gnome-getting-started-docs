@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2013-03-25 18:40+0000\n"
-"PO-Revision-Date: 2013-04-13 22:28+0200\n"
+"POT-Creation-Date: 2013-04-22 13:48+0000\n"
+"PO-Revision-Date: 2013-04-23 14:26+0200\n"
 "Last-Translator: Gabor Kelemen <kelemeng at gnome dot hu>\n"
 "Language-Team: Hungarian <gnome-hu-list at gnome dot org>\n"
 "Language: hu\n"
@@ -123,7 +123,7 @@ msgid ""
 "by pressing the <key xref=\"keyboard-key-super\">Super</key> key."
 msgstr ""
 "A billentyűzetet is használhatja a <gui>Tevékenységek</gui> áttekintés "
-"megnyitásához a <key xref=\"keyboard-key-super\">Windows</key> billentyű "
+"megnyitásához a <key xref=\"keyboard-key-super\">Super</key> billentyű "
 "megnyomásával."
 
 #: C/getting-started.page:44(div/p) C/gs-launch-applications.page:48(div/p)
@@ -177,7 +177,7 @@ msgid ""
 "Press <keyseq><key xref=\"keyboard-key-super\">Super</key><key> Tab</key></"
 "keyseq> to show the <gui>window switcher</gui>."
 msgstr ""
-"Nyomja meg a <keyseq><key xref=\"keyboard-key-super\">Windows</key> "
+"Nyomja meg a <keyseq><key xref=\"keyboard-key-super\">Super</key> "
 "<key>Tab</key></keyseq> billentyűkombinációt az <gui>ablakváltó</gui> "
 "megjelenítéséhez."
 
@@ -186,7 +186,7 @@ msgid ""
 "Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
 "highlighted window."
 msgstr ""
-"Engedje fel a <key xref=\"keyboard-key-super\">Windows</key> billentyűt a "
+"Engedje fel a <key xref=\"keyboard-key-super\">Super</key> billentyűt a "
 "következő kiemelt ablak kiválasztásához."
 
 #: C/getting-started.page:99(div/p) C/gs-switch-tasks.page:62(div/p)
@@ -196,7 +196,7 @@ msgid ""
 "key>."
 msgstr ""
 "A nyitott ablakok listáján való végiglépkedéshez ne engedje fel a <key xref="
-"\"keyboard-key-super\">Windows</key> billentyűt, hanem tartsa lenyomva, és "
+"\"keyboard-key-super\">Super</key> billentyűt, hanem tartsa lenyomva, és "
 "nyomja meg a <key>Tab</key> billentyűt."
 
 #: C/getting-started.page:104(div/p) C/gs-switch-tasks.page:67(div/p)
@@ -205,7 +205,7 @@ msgid ""
 "Press the <key xref=\"keyboard-key-super\">Super</key> key to show the "
 "<gui>Activities Overview</gui>."
 msgstr ""
-"Nyomja meg a <key xref=\"keyboard-key-super\">Windows</key> billentyűt a "
+"Nyomja meg a <key xref=\"keyboard-key-super\">Super</key> billentyűt a "
 "<gui>Tevékenységek áttekintés</gui> megjelenítéséhez."
 
 #: C/getting-started.page:108(div/p) C/gs-switch-tasks.page:71(div/p)
@@ -289,7 +289,7 @@ msgid ""
 "\">Super</key><key>M</key></keyseq>"
 msgstr ""
 "Az üzenettálca megjelenítéséhez nyomja meg a <keyseq> <key xref=\"keyboard-"
-"key-super\">Windows</key><key>M</key></keyseq> billentyűkombinációt. "
+"key-super\">Super</key><key>M</key></keyseq> billentyűkombinációt. "
 
 #: C/getting-started.page:169(div/p) C/gs-respond-messages.page:66(div/p)
 msgid ""
@@ -359,7 +359,7 @@ msgstr "Képernyő jobb fele"
 #: C/gs-thumb-launching-apps.svg:195(text/tspan)
 #: C/gs-thumb-responding-to-messages.svg:42(text/tspan)
 #: C/gs-thumb-task-switching.svg:158(text/tspan)
-#: C/gs-thumb-timezone.svg:50(text/tspan)
+#: C/gs-thumb-timezone.svg:47(text/tspan)
 #: C/gs-thumb-windows-and-workspaces.svg:95(text/tspan)
 #: C/gs-web-browser1.svg:122(text/tspan)
 #, no-wrap
@@ -409,7 +409,7 @@ msgstr "Kezdjen el gépelni…"
 #: C/gs-thumb-responding-to-messages.svg:43(text/tspan)
 #: C/gs-thumb-responding-to-messages.svg:61(text/tspan)
 #: C/gs-thumb-task-switching.svg:159(text/tspan)
-#: C/gs-thumb-timezone.svg:51(text/tspan)
+#: C/gs-thumb-timezone.svg:48(text/tspan)
 #: C/gs-thumb-windows-and-workspaces.svg:96(text/tspan)
 #, no-wrap
 msgid "John Doe"
@@ -480,9 +480,6 @@ msgstr "Automatikus dátum és idő"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-browse-web.page:21(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='gs-web-browser1.svg' md5='380ae6420b6eeef748add9fa8d3ebc19'"
 msgctxt "_"
 msgid ""
 "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
@@ -494,9 +491,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-browse-web.page:36(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='gs-web-browser2.svg' md5='93bfea229039508aa26d81ebfb372130'"
 msgctxt "_"
 msgid ""
 "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
@@ -555,21 +549,28 @@ msgstr ""
 "sávból."
 
 #: C/gs-browse-web.page:32(note/p)
+#| msgid ""
+#| "Alternatively, you can launch the <app>Web</app> browser by <link xref="
+#| "\"gs-use-system-search\">just typing</link> the browser name in the "
+#| "<gui>Activities Overview</gui>."
 msgid ""
-"Alternatively, you can launch the <app>Web</app> browser by <link xref=\"gs-"
-"use-system-search\">just typing</link> the browser name in the "
-"<gui>Activities Overview</gui>."
+"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
+"search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
+"gui>."
 msgstr ""
-"A <app>Webböngészőt</app> elindíthatja a böngésző nevének <link xref=\"gs-"
+"A böngészőt elindíthatja a <em>web</em> szó <link xref=\"gs-"
 "use-system-search\">begépelésével</link> is a <gui>Tevékenységek "
 "áttekintésben</gui>."
 
 #: C/gs-browse-web.page:39(item/p)
+#| msgid ""
+#| "Click the address bar at the top of the <app>Web</app> browser window and "
+#| "start typing in the website you want to visit."
 msgid ""
-"Click the address bar at the top of the <app>Web</app> browser window and "
-"start typing in the website you want to visit."
+"Click the address bar at the top of the browser window and start typing in "
+"the website you want to visit."
 msgstr ""
-"Kattintson a <app>Webböngésző</app> ablak tetején lévő címsorra, és kezdje "
+"Kattintson a böngészőablak tetején lévő címsorra, és kezdje "
 "el begépelni a felkeresni kívánt weboldal címét."
 
 #: C/gs-browse-web.page:41(item/p)
@@ -606,10 +607,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-change-date-time-timezone.page:22(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/gnome-timezone.webm' "
-#| "md5='79089b60be438a6e6b0505f06679cebe'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-timezone.webm' "
@@ -763,8 +760,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:20(media)
-#| msgctxt "_"
-#| msgid "external ref='gs-goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
 msgctxt "_"
 msgid "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
 msgstr "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
@@ -774,8 +769,6 @@ msgstr "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:27(media)
-#| msgctxt "_"
-#| msgid "external ref='gs-goa2.svg' md5='0786fcd237df1588330b4489d7dedda6'"
 msgctxt "_"
 msgid "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
 msgstr "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
@@ -785,8 +778,6 @@ msgstr "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:39(media)
-#| msgctxt "_"
-#| msgid "external ref='gs-goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
 msgctxt "_"
 msgid "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
 msgstr "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
@@ -796,8 +787,6 @@ msgstr "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:46(media)
-#| msgctxt "_"
-#| msgid "external ref='gs-goa4.svg' md5='be85f512313776ed58faf6072a8e59ef'"
 msgctxt "_"
 msgid "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
 msgstr "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
@@ -807,8 +796,6 @@ msgstr "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:55(media)
-#| msgctxt "_"
-#| msgid "external ref='gs-goa5.svg' md5='5deb427a0f7621bf8e7fed469a92954b'"
 msgctxt "_"
 msgid "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
 msgstr "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
@@ -871,7 +858,7 @@ msgid ""
 "click the <gui>Grant Access</gui> button."
 msgstr ""
 "Ha például a Google fiókjához szeretne kapcsolódni, akkor a <gui>Hozzáférés "
-"biztosítása</gui> gombra kell kattintania."
+"megadása</gui> gombra kell kattintania."
 
 #: C/gs-connect-online-accounts.page:58(item/p)
 msgid ""
@@ -888,9 +875,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-get-online.page:30(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='gs-go-online1.svg' md5='daea04c13135c1aab3b117d8a133ed86'"
 msgctxt "_"
 msgid "external ref='gs-go-online1.svg' md5='5e1aa458f42d9a534678ac2196cf84a2'"
 msgstr ""
@@ -901,9 +885,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-get-online.page:43(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='gs-go-online2.svg' md5='0a0511b9f1e744495eeb3fb82573a5df'"
 msgctxt "_"
 msgid "external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
 msgstr ""
@@ -914,9 +895,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-get-online.page:62(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='gs-go-online3.svg' md5='58a5c6c77ee39f23fb3e5aaa6d78009f'"
 msgctxt "_"
 msgid "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
 msgstr ""
@@ -1029,7 +1007,7 @@ msgstr ""
 #: C/gs-thumb-launching-apps.svg:180(Work/format)
 #: C/gs-thumb-responding-to-messages.svg:27(Work/format)
 #: C/gs-thumb-task-switching.svg:80(Work/format)
-#: C/gs-thumb-timezone.svg:35(Work/format)
+#: C/gs-thumb-timezone.svg:32(Work/format)
 #: C/gs-thumb-windows-and-workspaces.svg:80(Work/format)
 #: C/gs-web-browser1.svg:108(Work/format)
 #: C/gs-web-browser2.svg:100(Work/format)
@@ -1038,24 +1016,24 @@ msgstr "image/svg+xml"
 
 #: C/gs-goa1.svg:61(text/tspan) C/gs-go-online1.svg:232(text/tspan)
 #: C/gs-go-online3.svg:269(text/tspan) C/gs-search1.svg:100(text/tspan)
-#: C/gs-thumb-timezone.svg:79(text/tspan)
-#: C/gs-thumb-timezone.svg:113(text/tspan)
+#: C/gs-thumb-timezone.svg:72(text/tspan)
+#: C/gs-thumb-timezone.svg:106(text/tspan)
 #: C/gs-web-browser1.svg:120(text/tspan)
 #, no-wrap
 msgid "1"
 msgstr "1"
 
 #: C/gs-goa1.svg:65(text/tspan) C/gs-go-online1.svg:283(text/tspan)
-#: C/gs-search2.svg:136(text/tspan) C/gs-thumb-timezone.svg:80(text/tspan)
-#: C/gs-thumb-timezone.svg:114(text/tspan)
+#: C/gs-search2.svg:136(text/tspan) C/gs-thumb-timezone.svg:73(text/tspan)
+#: C/gs-thumb-timezone.svg:107(text/tspan)
 #: C/gs-web-browser1.svg:153(text/tspan)
 #, no-wrap
 msgid "2"
 msgstr "2"
 
 #: C/gs-goa2.svg:50(text/tspan) C/gs-go-online2.svg:231(text/tspan)
-#: C/gs-thumb-timezone.svg:81(text/tspan)
-#: C/gs-thumb-timezone.svg:115(text/tspan)
+#: C/gs-thumb-timezone.svg:74(text/tspan)
+#: C/gs-thumb-timezone.svg:108(text/tspan)
 #: C/gs-web-browser2.svg:163(text/tspan)
 #, no-wrap
 msgid "3"
@@ -1072,8 +1050,8 @@ msgstr "Online fiókok"
 msgid "Add an online account"
 msgstr "Online fiók hozzáadása"
 
-#: C/gs-goa3.svg:50(text/tspan) C/gs-thumb-timezone.svg:82(text/tspan)
-#: C/gs-thumb-timezone.svg:116(text/tspan)
+#: C/gs-goa3.svg:50(text/tspan) C/gs-thumb-timezone.svg:75(text/tspan)
+#: C/gs-thumb-timezone.svg:109(text/tspan)
 #: C/gs-web-browser2.svg:113(text/tspan)
 #, no-wrap
 msgid "4"
@@ -1116,7 +1094,7 @@ msgstr "Microsoft Exchange"
 msgid "Enterprise Login (Kerberos)"
 msgstr "Vállalati bejelentkezés (Kerberos)"
 
-#: C/gs-goa4.svg:48(text/tspan) C/gs-thumb-timezone.svg:83(text/tspan)
+#: C/gs-goa4.svg:48(text/tspan) C/gs-thumb-timezone.svg:76(text/tspan)
 #: C/gs-web-browser2.svg:261(text/tspan)
 #, no-wrap
 msgid "5"
@@ -1168,12 +1146,12 @@ msgstr "Hozzáférés megadása"
 msgid "Deny Access"
 msgstr "Hozzáférés tiltása"
 
-#: C/gs-goa4.svg:129(text/tspan) C/gs-thumb-timezone.svg:84(text/tspan)
+#: C/gs-goa4.svg:129(text/tspan) C/gs-thumb-timezone.svg:77(text/tspan)
 #, no-wrap
 msgid "6"
 msgstr "6"
 
-#: C/gs-goa5.svg:47(text/tspan) C/gs-thumb-timezone.svg:85(text/tspan)
+#: C/gs-goa5.svg:47(text/tspan) C/gs-thumb-timezone.svg:78(text/tspan)
 #, no-wrap
 msgid "7"
 msgstr "7"
@@ -1225,7 +1203,7 @@ msgstr "BE"
 #: C/gs-thumb-launching-apps.svg:197(text/tspan)
 #: C/gs-thumb-responding-to-messages.svg:44(text/tspan)
 #: C/gs-thumb-task-switching.svg:160(text/tspan)
-#: C/gs-thumb-timezone.svg:52(text/tspan)
+#: C/gs-thumb-timezone.svg:49(text/tspan)
 #: C/gs-thumb-windows-and-workspaces.svg:97(text/tspan)
 #, no-wrap
 msgid "14:30"
@@ -1318,7 +1296,7 @@ msgid ""
 "key-super\">Super</key> key."
 msgstr ""
 "Nyissa meg a <gui>Tevékenységek</gui> áttekintést a <key xref=\"keyboard-key-"
-"super\">Windows</key> billentyű megnyomásával."
+"super\">Super</key> billentyű megnyomásával."
 
 #: C/gs-launch-applications.page:79(item/p)
 msgid ""
@@ -1418,7 +1396,7 @@ msgid ""
 "message tray that contains the messages."
 msgstr ""
 "A megválaszolatlan csevegési üzeneteire való visszatéréshez nyomja meg a "
-"<keyseq><key xref=\"keyboard-key-super\">Windows</key><key>M</key></keyseq> "
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>M</key></keyseq> "
 "billentyűkombinációt az üzeneteket tartalmazó üzenettálca megjelenítéséhez."
 
 #: C/gs-respond-messages.page:123(item/p)
@@ -1435,7 +1413,7 @@ msgid ""
 "\"keyboard-key-super\">Super</key><key>M</key></keyseq>."
 msgstr ""
 "Az üzenettálca elrejtéséhez nyomja meg az <key>Esc</key> billentyűt vagy a "
-"<keyseq> <key xref=\"keyboard-key-super\">Windows</key><key>M</key></keyseq> "
+"<keyseq> <key xref=\"keyboard-key-super\">Super</key><key>M</key></keyseq> "
 "billentyűkombinációt."
 
 #: C/gs-search1.svg:200(text/tspan)
@@ -1595,7 +1573,7 @@ msgid ""
 "keyseq> to show the <gui>window switcher</gui>, which lists the currently "
 "open windows."
 msgstr ""
-"Nyomja meg a <keyseq><key xref=\"keyboard-key-super\">Windows</key> "
+"Nyomja meg a <keyseq><key xref=\"keyboard-key-super\">Super</key> "
 "<key>Tab</key></keyseq> billentyűkombinációt az <gui>ablakváltó</gui> "
 "megjelenítéséhez, amely felsorolja az épp nyitott ablakokat."
 
@@ -1604,7 +1582,7 @@ msgid ""
 "Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
 "highlighted window in the <gui>window switcher</gui>."
 msgstr ""
-"Engedje fel a <key xref=\"keyboard-key-super\">Windows</key> billentyűt a "
+"Engedje fel a <key xref=\"keyboard-key-super\">Super</key> billentyűt a "
 "következő kiemelt ablak kiválasztásához az <gui>ablakváltóban</gui>."
 
 #: C/gs-switch-tasks.page:120(item/p)
@@ -1614,7 +1592,7 @@ msgid ""
 "key>."
 msgstr ""
 "A nyitott ablakok listáján való végiglépkedéshez ne engedje fel a <key xref="
-"\"keyboard-key-super\">Windows</key> billentyűt, hanem tartsa lenyomva, és "
+"\"keyboard-key-super\">Super</key> billentyűt, hanem tartsa lenyomva, és "
 "nyomja meg a <key>Tab</key> billentyűt."
 
 #: C/gs-switch-tasks.page:128(section/title)
@@ -1642,161 +1620,168 @@ msgstr ""
 msgid "Thanks f"
 msgstr "Köszönö"
 
-#: C/gs-thumb-timezone.svg:68(text/tspan)
+#. Translators: S stands for Sunday here
+#: C/gs-thumb-timezone.svg:64(text/tspan)
 #, no-wrap
 msgctxt "Sunday"
 msgid "S"
 msgstr "V"
 
-#: C/gs-thumb-timezone.svg:69(text/tspan)
+#. Translators: M stands for Monday here
+#: C/gs-thumb-timezone.svg:65(text/tspan)
 #, no-wrap
 msgid "M"
 msgstr "H"
 
-#: C/gs-thumb-timezone.svg:70(text/tspan)
+#. Translators: T stands for Tuesday here
+#: C/gs-thumb-timezone.svg:66(text/tspan)
 #, no-wrap
 msgctxt "Tuesday"
 msgid "T"
 msgstr "K"
 
-#: C/gs-thumb-timezone.svg:71(text/tspan)
+#. Translators: W stands for Wednesday here
+#: C/gs-thumb-timezone.svg:67(text/tspan)
 #, no-wrap
 msgid "W"
 msgstr "Sz"
 
-#: C/gs-thumb-timezone.svg:72(text/tspan)
+#. Translators: T stands for Thursday here
+#: C/gs-thumb-timezone.svg:68(text/tspan)
 #, no-wrap
 msgctxt "Thursday"
 msgid "T"
 msgstr "Cs"
 
-#: C/gs-thumb-timezone.svg:73(text/tspan)
+#. Translators: F stands for Friday here
+#: C/gs-thumb-timezone.svg:69(text/tspan)
 #, no-wrap
 msgid "F"
 msgstr "P"
 
-#: C/gs-thumb-timezone.svg:74(text/tspan)
+#. Translators: S stands for Saturday here
+#: C/gs-thumb-timezone.svg:70(text/tspan)
 #, no-wrap
 msgctxt "Saturday"
 msgid "S"
 msgstr "Sz"
 
-#: C/gs-thumb-timezone.svg:86(text/tspan)
+#: C/gs-thumb-timezone.svg:79(text/tspan)
 #, no-wrap
 msgid "8"
 msgstr "8"
 
-#: C/gs-thumb-timezone.svg:87(text/tspan)
+#: C/gs-thumb-timezone.svg:80(text/tspan)
 #, no-wrap
 msgid "9"
 msgstr "9"
 
-#: C/gs-thumb-timezone.svg:88(text/tspan)
+#: C/gs-thumb-timezone.svg:81(text/tspan)
 #, no-wrap
 msgid "10"
 msgstr "10"
 
-#: C/gs-thumb-timezone.svg:89(text/tspan)
+#: C/gs-thumb-timezone.svg:82(text/tspan)
 #, no-wrap
 msgid "11"
 msgstr "11"
 
-#: C/gs-thumb-timezone.svg:90(text/tspan)
+#: C/gs-thumb-timezone.svg:83(text/tspan)
 #, no-wrap
 msgid "12"
 msgstr "12"
 
-#: C/gs-thumb-timezone.svg:91(text/tspan)
+#: C/gs-thumb-timezone.svg:84(text/tspan)
 #, no-wrap
 msgid "13"
 msgstr "13"
 
-#: C/gs-thumb-timezone.svg:92(text/tspan)
+#: C/gs-thumb-timezone.svg:85(text/tspan)
 #, no-wrap
 msgid "14"
 msgstr "14"
 
-#: C/gs-thumb-timezone.svg:94(text/tspan)
+#: C/gs-thumb-timezone.svg:87(text/tspan)
 #, no-wrap
 msgid "15"
 msgstr "15"
 
-#: C/gs-thumb-timezone.svg:95(text/tspan)
+#: C/gs-thumb-timezone.svg:88(text/tspan)
 #, no-wrap
 msgid "16"
 msgstr "16"
 
-#: C/gs-thumb-timezone.svg:96(text/tspan)
+#: C/gs-thumb-timezone.svg:89(text/tspan)
 #, no-wrap
 msgid "17"
 msgstr "17"
 
-#: C/gs-thumb-timezone.svg:97(text/tspan)
+#: C/gs-thumb-timezone.svg:90(text/tspan)
 #, no-wrap
 msgid "18"
 msgstr "18"
 
-#: C/gs-thumb-timezone.svg:98(text/tspan)
+#: C/gs-thumb-timezone.svg:91(text/tspan)
 #, no-wrap
 msgid "19"
 msgstr "19"
 
-#: C/gs-thumb-timezone.svg:99(text/tspan)
+#: C/gs-thumb-timezone.svg:92(text/tspan)
 #, no-wrap
 msgid "20"
 msgstr "20"
 
-#: C/gs-thumb-timezone.svg:100(text/tspan)
+#: C/gs-thumb-timezone.svg:93(text/tspan)
 #, no-wrap
 msgid "21"
 msgstr "21"
 
-#: C/gs-thumb-timezone.svg:102(text/tspan)
+#: C/gs-thumb-timezone.svg:95(text/tspan)
 #, no-wrap
 msgid "22"
 msgstr "22"
 
-#: C/gs-thumb-timezone.svg:103(text/tspan)
+#: C/gs-thumb-timezone.svg:96(text/tspan)
 #, no-wrap
 msgid "23"
 msgstr "23"
 
-#: C/gs-thumb-timezone.svg:104(text/tspan)
+#: C/gs-thumb-timezone.svg:97(text/tspan)
 #, no-wrap
 msgid "24"
 msgstr "24"
 
-#: C/gs-thumb-timezone.svg:105(text/tspan)
+#: C/gs-thumb-timezone.svg:98(text/tspan)
 #, no-wrap
 msgid "25"
 msgstr "25"
 
-#: C/gs-thumb-timezone.svg:106(text/tspan)
+#: C/gs-thumb-timezone.svg:99(text/tspan)
 #, no-wrap
 msgid "26"
 msgstr "26"
 
-#: C/gs-thumb-timezone.svg:107(text/tspan)
+#: C/gs-thumb-timezone.svg:100(text/tspan)
 #, no-wrap
 msgid "27"
 msgstr "27"
 
-#: C/gs-thumb-timezone.svg:108(text/tspan)
+#: C/gs-thumb-timezone.svg:101(text/tspan)
 #, no-wrap
 msgid "28"
 msgstr "28"
 
-#: C/gs-thumb-timezone.svg:110(text/tspan)
+#: C/gs-thumb-timezone.svg:103(text/tspan)
 #, no-wrap
 msgid "29"
 msgstr "29"
 
-#: C/gs-thumb-timezone.svg:111(text/tspan)
+#: C/gs-thumb-timezone.svg:104(text/tspan)
 #, no-wrap
 msgid "30"
 msgstr "30"
 
-#: C/gs-thumb-timezone.svg:112(text/tspan)
+#: C/gs-thumb-timezone.svg:105(text/tspan)
 #, no-wrap
 msgid "31"
 msgstr "31"
@@ -1806,8 +1791,6 @@ msgstr "31"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-use-system-search.page:20(media)
-#| msgctxt "_"
-#| msgid "external ref='gs-search1.svg' md5='93b873a25fb241cc12505faadc209247'"
 msgctxt "_"
 msgid "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
 msgstr "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
@@ -1817,8 +1800,6 @@ msgstr "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-use-system-search.page:31(media)
-#| msgctxt "_"
-#| msgid "external ref='gs-search2.svg' md5='ca4b89e6098deda603a6463df5746eb3'"
 msgctxt "_"
 msgid "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
 msgstr "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
@@ -1828,10 +1809,6 @@ msgstr "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-use-system-search.page:70(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='gs-search-settings.svg' "
-#| "md5='47b7e436840de8fc78952beed88beccc'"
 msgctxt "_"
 msgid ""
 "external ref='gs-search-settings.svg' md5='448b4f7f7881d9e26bdf215515fe014e'"
@@ -1964,10 +1941,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-use-windows-workspaces.page:21(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/gnome-windows-and-workspaces.webm' "
-#| "md5='3667a44d62d035399319d641e4f7b198'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-windows-and-workspaces.webm' "
@@ -2027,7 +2000,7 @@ msgid ""
 "key-super\">Super</key> key and press <key>↑</key>."
 msgstr ""
 "Egy ablak billentyűzetről való teljes méretűvé tételéhez tartsa lenyomva a "
-"<link xref=\"windows-key\">Windows billentyűt</link>, és nyomja meg a "
+"<key xref=\"keyboard-key-super\">Super billentyűt</key>, és nyomja meg a "
 "<key>↑</key> billentyűt."
 
 #: C/gs-use-windows-workspaces.page:65(div/p)
@@ -2036,7 +2009,7 @@ msgid ""
 "\"keyboard-key-super\">Super</key> key and press <key>↓</key>."
 msgstr ""
 "Az ablak visszaállításához korábbi méretére tartsa lenyomva a <key xref="
-"\"keyboard-key-super\">Windows</key> billentyűt, és nyomja meg a <key>↓</"
+"\"keyboard-key-super\">Super</key> billentyűt, és nyomja meg a <key>↓</"
 "key> billentyűt."
 
 #: C/gs-use-windows-workspaces.page:70(div/p)
@@ -2046,7 +2019,7 @@ msgid ""
 "xref=\"keyboard-key-super\">Super</key> key and press <key>→</key>."
 msgstr ""
 "Egy ablak jobb képernyőfélre való teljes méretűvé tételéhez tartsa lenyomva "
-"a <link xref=\"windows-key\">Windows billentyűt</link>, és nyomja meg a "
+"a <key xref=\"keyboard-key-super\">Super billentyűt</key>, és nyomja meg a "
 "<key>→</key> billentyűt."
 
 #: C/gs-use-windows-workspaces.page:75(div/p)
@@ -2056,7 +2029,7 @@ msgid ""
 "xref=\"keyboard-key-super\">Super</key> key and press <key>←</key>."
 msgstr ""
 "Egy ablak bal képernyőfélre való teljes méretűvé tételéhez tartsa lenyomva a "
-"<link xref=\"windows-key\">Windows billentyűt</link>, és nyomja meg a "
+"<key xref=\"keyboard-key-super\">Super billentyűt</key>, és nyomja meg a "
 "<key>→</key> billentyűt."
 
 #: C/gs-use-windows-workspaces.page:80(div/p)
@@ -2066,7 +2039,7 @@ msgid ""
 "keyseq>."
 msgstr ""
 "A jelenlegi munkaterület alatti munkaterületre váltáshoz nyomja meg a "
-"<keyseq><key xref=\"keyboard-key-super\">Windows</key><key>Page Down</key></"
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key></"
 "keyseq> billentyűkombinációt."
 
 #: C/gs-use-windows-workspaces.page:85(div/p)
@@ -2076,7 +2049,7 @@ msgid ""
 "keyseq>."
 msgstr ""
 "A jelenlegi munkaterület feletti munkaterületre váltáshoz nyomja meg a "
-"<keyseq><key xref=\"keyboard-key-super\">Windows</key><key>Page Up</key></"
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Up</key></"
 "keyseq> billentyűkombinációt"
 
 #: C/gs-use-windows-workspaces.page:95(section/title)
@@ -2115,7 +2088,7 @@ msgid ""
 "\"keyboard-key-super\">Super</key> key and press <key>↓</key>."
 msgstr ""
 "Egy ablak billentyűzetről való eredeti méretűvé tételéhez tartsa lenyomva a "
-"<key xref=\"keyboard-key-super\">Windows billentyűt</key>, és nyomja meg a "
+"<key xref=\"keyboard-key-super\">Super billentyűt</key>, és nyomja meg a "
 "<key>↓</key> billentyűt."
 
 #: C/gs-use-windows-workspaces.page:142(section/title)
@@ -2133,7 +2106,7 @@ msgid ""
 "keyseq>."
 msgstr ""
 "A jelenlegi munkaterület alatti munkaterületre váltáshoz nyomja meg a "
-"<keyseq><key xref=\"keyboard-key-super\">Windows</key><key>Page Down</key></"
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key></"
 "keyseq> billentyűkombinációt."
 
 #: C/gs-use-windows-workspaces.page:163(item/p)
@@ -2143,7 +2116,7 @@ msgid ""
 "keyseq>."
 msgstr ""
 "A jelenlegi munkaterület feletti munkaterületre váltáshoz nyomja meg a "
-"<keyseq><key xref=\"keyboard-key-super\">Windows</key><key>Page Up</key></"
+"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Up</key></"
 "keyseq> billentyűkombinációt"
 
 #: C/gs-web-browser2.svg:151(text/tspan)
