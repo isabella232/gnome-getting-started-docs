@@ -20,6 +20,7 @@ HELP_FILES = \
 	getting-started.page \
 	gs-animation.xml \
 	gs-browse-web.page \
+	gs-browse-web-firefox.page \
 	gs-change-date-time-timezone.page \
 	gs-change-wallpaper.page \
 	gs-connect-online-accounts.page \
