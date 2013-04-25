@@ -12,6 +12,8 @@
     <credit type="author">
       <name>Petr Kovar</name>
     </credit>
+<!--Distributors might need to comment out the two elements below if they
+    don't ship GNOME's Web browser by default.-->
     <link type="guide" xref="getting-started" group="tasks"/>
     <title role="trail" type="link">Browse the web</title>
   </info>
@@ -23,8 +25,7 @@
     <steps>
       <item><p>Move your mouse pointer to the <gui>Activities</gui> corner at
       the top left of the screen to show the <gui>Activities Overview</gui>.
-      <!--Alternatively you can use the <key>Super</key> key or the FIXME
-      gesture.--></p></item>
+      </p></item>
       <item><p>Select the <app>Web</app> browser icon from the bar on the
       left-hand side of the screen.</p></item>
     </steps>
