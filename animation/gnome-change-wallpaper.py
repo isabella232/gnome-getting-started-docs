@@ -8,8 +8,9 @@ def main():
   langs = open('language-whitelist.txt').readlines()
   for lang in langs:
     lang = lang.strip()
-    xmlfile = ET.parse('../gnome-help/' + lang + '/gs-animation.xml')
-    t[lang] = xmlfile.getroot()
+    if (not lang[0]=="#"):
+      xmlfile = ET.parse('../gnome-help/' + lang + '/gs-animation.xml')
+      t[lang] = xmlfile.getroot()
   
   for lang in t:
     for textobj in t[lang].findall('t'):
@@ -21,3 +22,5 @@ def main():
     
 if __name__ == '__main__':
     main()
+
+# vim: tabstop=2 expandtab
