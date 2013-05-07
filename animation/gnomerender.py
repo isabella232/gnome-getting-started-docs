@@ -21,18 +21,17 @@ def render(lang):
   else:
     print('already rendered',bpy.context.scene.render.frame_path())
 
-def transcode(lang):
+def transcode(lang,x=854,bitrate="300k"):
   global renderpath,renderpathabs,sndfile
 
   regexobj = re.search(r"^(.*\/)*(.*)(\.blend)$", bpy.data.filepath)
   framepath = renderpathabs
   webmfile = "%s.webm" % (regexobj.group(2))
   transcodepath = "../gnome-help/%s/figures/" % (lang)
-  x = 854 #output width
   y = round(x/(1280/720))
   
   #print(transcodepath,webmfile,sndfile,framepath)
-  transcodecmd = "ffmpeg -r 24 -f image2 -i %s/%%04d.png -i %s -vf scale=%s:%s -b 300k %s/%s" % (framepath,sndfile,x,y,transcodepath,webmfile)
+  transcodecmd = "ffmpeg -r 24 -f image2 -i %s/%%04d.png -i %s -vf scale=%s:%s -b %s %s/%s" % (framepath,sndfile,x,y,bitrate,transcodepath,webmfile)
   #transcodecmd = "gst-launch-1.0 webmmux name=mux ! filesink location=\"%s/%s\"    file://%s ! decodebin ! audioconvert ! vorbisenc bitrate=96000 ! mux.     multifilesrc location=\"%s/%%04d.png\" index=1 caps=\"image/png,framerate=\(fraction\)24/1\" ! pngdec ! videoconvert ! videoscale ! video/x-raw, width=%s,height=%s ! videorate ! vp8enc threads=12 target-bitrate=300000 ! mux." % (transcodepath,webmfile,sndfile,framepath,x,y)
   if (not os.path.isfile(transcodepath+webmfile)):
     os.system(transcodecmd)

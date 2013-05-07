@@ -18,7 +18,7 @@ def main():
           bpy.data.objects[textobj.get('id')].data.body = textobj.text
       bpy.data.objects['typewriter'].data.body = t[lang].find('t[@id="search"]').text
       gnomerender.render(lang)
-      gnomerender.transcode(lang)
+      gnomerender.transcode(lang,1280,"500k")
 
 if __name__ == '__main__':
     main()
