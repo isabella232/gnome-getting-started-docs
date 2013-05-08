@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-05-01 15:20+0000\n"
-"PO-Revision-Date: 2013-05-01 23:56-0300\n"
+"POT-Creation-Date: 2013-05-07 14:29+0000\n"
+"PO-Revision-Date: 2013-05-07 22:23-0300\n"
 "Last-Translator: Rafael Ferreira <rafael.f.f1@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "Language: pt_BR\n"
@@ -833,18 +833,22 @@ msgstr "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:42(media)
+#| msgctxt "_"
+#| msgid "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
 msgctxt "_"
-msgid "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
-msgstr "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
+msgid "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
+msgstr "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:49(media)
+#| msgctxt "_"
+#| msgid "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
 msgctxt "_"
-msgid "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
-msgstr "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
+msgid "external ref='gs-goa4.svg' md5='a9c13c95ff7a2d0d7b89a5f52735dee0'"
+msgstr "external ref='gs-goa4.svg' md5='a9c13c95ff7a2d0d7b89a5f52735dee0'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -1064,7 +1068,7 @@ msgstr ""
 "deseja se conectar."
 
 #: C/gs-goa1.svg:21(Work/format) C/gs-goa2.svg:38(Work/format)
-#: C/gs-goa3.svg:38(Work/format) C/gs-goa4.svg:36(Work/format)
+#: C/gs-goa3.svg:51(Work/format) C/gs-goa4.svg:36(Work/format)
 #: C/gs-goa5.svg:35(Work/format) C/gs-go-online1.svg:220(Work/format)
 #: C/gs-go-online2.svg:219(Work/format) C/gs-go-online3.svg:256(Work/format)
 #: C/gs-search1.svg:88(Work/format) C/gs-search2.svg:124(Work/format)
@@ -1105,57 +1109,57 @@ msgstr "2"
 msgid "3"
 msgstr "3"
 
-#: C/gs-goa2.svg:81(text/tspan) C/gs-goa3.svg:81(text/tspan)
+#: C/gs-goa2.svg:81(text/tspan) C/gs-goa3.svg:113(text/tspan)
 #: C/gs-goa5.svg:79(text/tspan)
 #, no-wrap
 msgid "Online Accounts"
 msgstr "Contas on-line"
 
-#: C/gs-goa2.svg:83(text/tspan) C/gs-goa3.svg:83(text/tspan)
+#: C/gs-goa2.svg:83(text/tspan) C/gs-goa3.svg:115(text/tspan)
 #, no-wrap
 msgid "Add an online account"
 msgstr "Adicionar uma conta on-line"
 
-#: C/gs-goa3.svg:50(text/tspan) C/gs-thumb-timezone.svg:75(text/tspan)
+#: C/gs-goa3.svg:63(text/tspan) C/gs-thumb-timezone.svg:75(text/tspan)
 #: C/gs-thumb-timezone.svg:109(text/tspan)
 #: C/gs-web-browser2.svg:113(text/tspan)
 #, no-wrap
 msgid "4"
 msgstr "4"
 
-#: C/gs-goa3.svg:101(text/tspan)
+#: C/gs-goa3.svg:66(text/tspan)
 #, no-wrap
 msgid "Add Account"
 msgstr "Adicionar conta"
 
-#: C/gs-goa3.svg:105(text/tspan) C/gs-goa4.svg:66(text/tspan)
-#: C/gs-goa4.svg:100(text/tspan)
+#: C/gs-goa3.svg:70(text/tspan) C/gs-goa4.svg:56(text/tspan)
+#: C/gs-goa4.svg:90(text/tspan)
 #, no-wrap
 msgid "Cancel"
 msgstr "Cancelar"
 
-#: C/gs-goa3.svg:107(text/tspan) C/gs-goa4.svg:50(text/tspan)
+#: C/gs-goa3.svg:72(text/tspan) C/gs-goa4.svg:123(text/tspan)
 #: C/gs-goa5.svg:90(text/tspan) C/gs-goa5.svg:93(text/tspan)
 #, no-wrap
 msgid "Google"
 msgstr "Google"
 
-#: C/gs-goa3.svg:108(text/tspan) C/gs-goa4.svg:51(text/tspan)
+#: C/gs-goa3.svg:73(text/tspan) C/gs-goa4.svg:124(text/tspan)
 #, no-wrap
 msgid "Facebook"
 msgstr "Facebook"
 
-#: C/gs-goa3.svg:109(text/tspan) C/gs-goa4.svg:52(text/tspan)
+#: C/gs-goa3.svg:74(text/tspan) C/gs-goa4.svg:125(text/tspan)
 #, no-wrap
 msgid "Windows Live"
 msgstr "Windows Live"
 
-#: C/gs-goa3.svg:110(text/tspan) C/gs-goa4.svg:53(text/tspan)
+#: C/gs-goa3.svg:75(text/tspan) C/gs-goa4.svg:126(text/tspan)
 #, no-wrap
 msgid "Microsoft Exchange"
 msgstr "Microsoft Exchange"
 
-#: C/gs-goa3.svg:111(text/tspan) C/gs-goa4.svg:54(text/tspan)
+#: C/gs-goa3.svg:76(text/tspan) C/gs-goa4.svg:127(text/tspan)
 #, no-wrap
 msgid "Enterprise Login (Kerberos)"
 msgstr "Início de sessão corporativo (Kerberos)"
@@ -1166,54 +1170,54 @@ msgstr "Início de sessão corporativo (Kerberos)"
 msgid "5"
 msgstr "5"
 
-#: C/gs-goa4.svg:62(text/tspan) C/gs-goa4.svg:96(text/tspan)
+#: C/gs-goa4.svg:52(text/tspan) C/gs-goa4.svg:86(text/tspan)
 #, no-wrap
 msgid "Google account"
 msgstr "Conta do Google"
 
-#: C/gs-goa4.svg:79(text/tspan)
+#: C/gs-goa4.svg:69(text/tspan)
 #, no-wrap
 msgid "SIGN UP"
 msgstr "Inscrever-se"
 
-#: C/gs-goa4.svg:80(text/tspan)
+#: C/gs-goa4.svg:70(text/tspan)
 #, no-wrap
 msgid "Sign in"
 msgstr "Entrar"
 
-#: C/gs-goa4.svg:81(text/tspan)
+#: C/gs-goa4.svg:71(text/tspan)
 #, no-wrap
 msgid "Email"
 msgstr "E-mail"
 
-#: C/gs-goa4.svg:83(text/tspan)
+#: C/gs-goa4.svg:73(text/tspan)
 #, no-wrap
 msgid "Password"
 msgstr "Senha"
 
-#: C/gs-goa4.svg:86(text/tspan)
+#: C/gs-goa4.svg:76(text/tspan)
 #, no-wrap
 msgid "Sign In"
 msgstr "Entrar"
 
-#: C/gs-goa4.svg:87(text/tspan) C/gs-goa5.svg:92(text/tspan)
+#: C/gs-goa4.svg:77(text/tspan) C/gs-goa5.svg:92(text/tspan)
 #: C/gs-goa5.svg:95(text/tspan)
 #, no-wrap
 msgid "john.doe@gmail.com"
 msgstr "john.doe@gmail.com"
 
 # "Conceder" é o termo usado pelo Google e do Google a imagem usada com essa frase.
-#: C/gs-goa4.svg:113(text/tspan)
+#: C/gs-goa4.svg:103(text/tspan)
 #, no-wrap
 msgid "Grant Access"
 msgstr "Conceder acesso"
 
-#: C/gs-goa4.svg:118(text/tspan)
+#: C/gs-goa4.svg:108(text/tspan)
 #, no-wrap
 msgid "Deny Access"
 msgstr "Negar acesso"
 
-#: C/gs-goa4.svg:129(text/tspan) C/gs-thumb-timezone.svg:77(text/tspan)
+#: C/gs-goa4.svg:119(text/tspan) C/gs-thumb-timezone.svg:77(text/tspan)
 #, no-wrap
 msgid "6"
 msgstr "6"
@@ -2239,6 +2243,10 @@ msgstr "http://gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planeta GNOME"
+
+#~ msgctxt "_"
+#~ msgid "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
+#~ msgstr "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
 
 #~ msgctxt "_"
 #~ msgid ""
