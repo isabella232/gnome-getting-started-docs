@@ -6,6 +6,8 @@ def render(lang):
   #bpy.context.scene.render.resolution_percentage =
   #bpy.context.scene.render.use_compositing = 0
   bpy.context.scene.render.use_sequencer = 1
+  bpy.context.scene.render.use_placeholder = 1
+  bpy.context.scene.render.use_overwrite = 0 #don't render over existing frames
   renderpath = '//sequence/'+lang
   
   regexobj = re.search(r"^(.*\/)*(.*)(\.blend)$", bpy.data.filepath)
@@ -13,13 +15,13 @@ def render(lang):
   renderpathabs = "%ssequence/%s/%s" % (regexobj.group(1),lang,regexobj.group(2))
   sndpath = "%s/snd" % (renderpathabs)
   sndfile = "%s/snd.flac" % (sndpath)
-  if (not os.path.isdir(renderpathabs)):
-    bpy.ops.render.render(animation=True)
+  bpy.ops.render.render(animation=True)
   if (not os.path.isdir(sndpath)):
     os.mkdir(sndpath)
     bpy.ops.sound.mixdown(filepath=sndfile)
   else:
-    print('already rendered',bpy.context.scene.render.frame_path())
+    print('sound mixed already')
+
 
 def transcode(lang,x=854,bitrate="300k"):
   global renderpath,renderpathabs,sndfile
