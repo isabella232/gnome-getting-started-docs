@@ -16,8 +16,8 @@ def render(lang):
   sndpath = "%s/snd" % (renderpathabs)
   sndfile = "%s/snd.flac" % (sndpath)
   bpy.ops.render.render(animation=True)
-  if (not os.path.isdir(sndpath)):
-    os.mkdir(sndpath)
+  if (not os.path.isfile(sndfile)):
+    #os.mkdir(sndpath)
     bpy.ops.sound.mixdown(filepath=sndfile)
   else:
     print('sound mixed already')
@@ -30,6 +30,8 @@ def transcode(lang,x=854,bitrate="300k"):
   framepath = renderpathabs
   webmfile = "%s.webm" % (regexobj.group(2))
   transcodepath = "../gnome-help/%s/figures/" % (lang)
+  if (not os.path.isdir(transcodepath)):
+    os.mkdir(transcodepath)
   y = round(x/(1280/720))
   
   #print(transcodepath,webmfile,sndfile,framepath)
