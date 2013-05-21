@@ -26,42 +26,37 @@
     <key xref="keyboard-key-super">Super</key> key.</p></item>
      <item><p>Start typing to search. Results matching what you have typed will
       appear as you type.</p></item>
-     <item><p>The first result is always highlighted and shown at the top. To
-      switch to the first highlighted result press <key>Enter</key>.</p></item>
+     <item><p>The first result is always highlighted and shown at the top. Press
+     <key>Enter</key> to switch to the first highlighted result.</p></item>
     </steps>
     
     <media type="image" src="gs-search2.svg" width="100%" />
     <steps style="continues">
-      <item><p>Items that can appear in the search results include:</p>
+      <item><p>Items that may appear in the search results include:</p>
       <list>
         <item><p>matching applications, shown at the top of the search results,
         </p></item>
         <item><p>matching settings,</p></item>
-        <item><p>matching contacts,</p></item>
+        <item><p>matching contacts, and</p></item>
         <item><p>matching documents.</p></item>
       </list>
       </item>
-      <item><p>In the search results, click the item to switch to it.</p></item>
-      <item><p>Alternatively, highlight an item using the arrow keys and press
+      <item><p>In the search results, click the item to switch to it.</p>
+      <p>Alternatively, highlight an item using the arrow keys and press
        <key>Enter</key>.</p></item>
     </steps>
 
-    <section id="use-search-types">
+    <section id="use-search-inside-applications">
     
-      <title>Types of results</title>
+      <title>Search from inside applications</title>
       
-      <p>System search aggregates results from various applications. The first
-       group of results are application launchers. Activating a launcher will
-       start an application.</p>
-      <p>Other types of results might include <app>settings</app>,
-       <app>contacts</app> or <app>documents</app>. Each type of result is
-       preceded with an icon of the application that provided the result
-       (apart from the application launchers at the top). Only the best matches
-       are presented in the overview, so if you want more scope for your search,
-       you can click or use the arrow keys to navigate to the application icon
-       on the left to take you to the application itself. As soon as the
-       associated application starts, your performed query will be performed in
-       the application.</p>
+      <p>The system search aggregates results from various applications. On the
+      left-hand side of the search results, you can see icons of applications
+      that provided the search results. Click one of the icons to restart the
+      search from inside the application associated with that icon. Because
+      only the best matches are shown in the <gui>Activities Overview</gui>,
+      searching from inside the application may give you better search results.
+      </p>
 
     </section>
 
