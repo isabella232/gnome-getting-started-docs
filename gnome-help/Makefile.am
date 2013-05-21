@@ -48,6 +48,8 @@ HELP_FILES = \
 	gs-thumb-windows-and-workspaces.svg \
 	gs-use-system-search.page \
 	gs-use-windows-workspaces.page \
+	gs-web-browser1-firefox.svg \
 	gs-web-browser1.svg \
+	gs-web-browser2-firefox.svg \
 	gs-web-browser2.svg
 
