@@ -62,7 +62,8 @@
          </tt:div>
          <tt:div begin="36s" end="38s">
            <tt:p>To show the message tray, press <keyseq>
-           <key xref="keyboard-key-super">Super</key><key>M</key></keyseq></tt:p>
+           <key href="help:gnome-help/keyboard-key-super">Super</key>
+           <key>M</key></keyseq></tt:p>
          </tt:div>
          <tt:div begin="39s" end="42s">
            <tt:p>Use the arrow keys to select the person you want to reply to,
@@ -120,15 +121,17 @@
     <title>Delayed response to a chat message using the keyboard</title>
     <steps>
       <item><p>To get back to your unanswered chat messages, press <keyseq>
-      <key xref="keyboard-key-super">Super</key><key>M</key></keyseq> to
-      display the message tray that contains the messages.</p></item>
+      <key href="help:gnome-help/keyboard-key-super">Super</key><key>M</key>
+      </keyseq> to display the message tray that contains the messages.</p>
+      </item>
       <item><p>Use the arrow keys to select a small image representing the
       person you want to reply to, and press <key>Enter</key>.</p></item>
       <item><p>Start typing your reply and when finished, press <key>Enter</key>
       to send the reply.</p></item>
       <item><p>Press <key>Esc</key> to close the chat message.</p></item>
       <item><p>To dismiss the message tray, press <key>Esc</key> or <keyseq>
-      <key xref="keyboard-key-super">Super</key><key>M</key></keyseq>.</p></item>
+      <key href="help:gnome-help/keyboard-key-super">Super</key><key>M</key>
+      </keyseq>.</p></item>
     </steps>
 
   </section>

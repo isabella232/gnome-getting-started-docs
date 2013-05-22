@@ -51,22 +51,23 @@
            </tt:p>
          </tt:div>
          <tt:div begin="23s" end="27s">
-           <tt:p>Press <keyseq><key xref="keyboard-key-super">Super</key><key>
+           <tt:p>Press <keyseq>
+           <key href="help:gnome-help/keyboard-key-super">Super</key><key>
            Tab</key></keyseq> to show the <gui>window switcher</gui>.</tt:p>
          </tt:div>
          <tt:div begin="27s" end="29s">
-           <tt:p>Release <key xref="keyboard-key-super">Super</key> to select
-            the next highlighted window.
+           <tt:p>Release <key href="help:gnome-help/keyboard-key-super">Super
+           </key> to select the next highlighted window.
            </tt:p>
          </tt:div>
          <tt:div begin="29s" end="32s">
            <tt:p>To cycle through the list of open windows, do not release
-           <key xref="keyboard-key-super">Super</key> but hold it down, and
-            press <key>Tab</key>.</tt:p>
+           <key href="help:gnome-help/keyboard-key-super">Super</key> but hold
+           it down, and press <key>Tab</key>.</tt:p>
          </tt:div>
          <tt:div begin="35s" end="37s">
-           <tt:p>Press the <key xref="keyboard-key-super">Super</key> key to
-            show the <gui>Activities Overview</gui>.</tt:p>
+           <tt:p>Press the <key href="help:gnome-help/keyboard-key-super">Super
+           </key> key to show the <gui>Activities Overview</gui>.</tt:p>
          </tt:div>
          <tt:div begin="37s" end="40s">
            <tt:p>Start typing the name of the application you want to switch to.
@@ -113,14 +114,15 @@
     <title>Switch between windows</title>
     
   <steps>
-   <item><p>Press <keyseq><key xref="keyboard-key-super">Super</key>
-   <key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which lists
-    the currently open windows.</p></item>
-   <item><p>Release <key xref="keyboard-key-super">Super</key> to select the
-    next highlighted window in the <gui>window switcher</gui>.</p></item>
-  <item><p>To cycle through the list of open windows, do not release
-   <key xref="keyboard-key-super">Super</key> but hold it down, and press <key>
-   Tab</key>.</p></item>
+   <item><p>Press <keyseq><key href="help:gnome-help/keyboard-key-super">Super
+   </key><key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which
+   lists the currently open windows.</p></item>
+   <item><p>Release <key href="help:gnome-help/keyboard-key-super">Super</key>
+   to select the next highlighted window in the <gui>window switcher</gui>.</p>
+   </item>
+   <item><p>To cycle through the list of open windows, do not release
+   <key href="help:gnome-help/keyboard-key-super">Super</key> but hold it down,
+   and press <key>Tab</key>.</p></item>
   </steps>
 
   </section>
@@ -129,8 +131,8 @@
     <title>Use search to switch applications</title>
     
     <steps>
-      <item><p>Press the <key xref="keyboard-key-super">Super</key> key to show
-       the <gui>Activities Overview</gui>.</p></item>
+      <item><p>Press the <key href="help:gnome-help/keyboard-key-super">Super</key>
+       key to show the <gui>Activities Overview</gui>.</p></item>
       <item><p>Just start typing the name of the application you want to
        switch to. Applications matching what you have typed will appear as
        you type.</p></item>
