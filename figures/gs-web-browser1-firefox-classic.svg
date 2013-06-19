@@ -591,8 +591,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="530.58635"
-     inkscape:cy="294.50236"
+     inkscape:cx="677.05263"
+     inkscape:cy="217.78227"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -625,7 +625,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -674,15 +674,20 @@
            id="tspan11018"
            sodipodi:role="line">1</tspan></text>
     </g>
-    <rect
-       ry="0"
-       rx="0"
-       y="731.5"
-       x="80.5"
-       height="11.5"
-       width="73.5"
-       id="rect20073"
-       style="color:#000000;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       id="g6333">
+      <text
+         sodipodi:linespacing="125%"
+         id="text32728"
+         y="742"
+         x="84"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         xml:space="preserve"><tspan
+           y="742"
+           x="84"
+           id="tspan32730"
+           sodipodi:role="line">Applications</tspan></text>
+    </g>
     <g
        transform="matrix(1.6306074,0,0,1.6324898,-290.27033,330.07988)"
        id="g3938">
@@ -1366,14 +1371,13 @@
        width="78"
        id="rect13005"
        style="color:#000000;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <rect
-       style="color:#000000;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect20054"
-       width="73.5"
-       height="11.5"
-       x="478.5"
-       y="731.5"
-       rx="0"
-       ry="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g6333"
+       id="use6337"
+       transform="translate(402,0)"
+       width="840"
+       height="400" />
   </g>
 </svg>
