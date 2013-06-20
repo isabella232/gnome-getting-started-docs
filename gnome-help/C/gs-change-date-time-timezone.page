@@ -1,4 +1,5 @@
 <page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
       xmlns:ui="http://projectmallard.org/experimental/ui/"
       type="topic"
       style="ui"
@@ -20,6 +21,9 @@
   </info>
 
   <title>Change the date, time and timezone</title>
+
+<if:choose>
+<if:when test="!platform:gnome-classic">
 
   <ui:overlay width="812" height="452">
   <media type="video" src="figures/gnome-timezone.webm" width="700" height="394">
@@ -50,6 +54,11 @@
   </media>
   </ui:overlay>
 
+</if:when>
+<if:when test="platform:gnome-classic">
+</if:when>
+</if:choose>
+
   <section id="change-date-time">
     <title>Change the date, time and timezone</title>
 
@@ -57,7 +66,12 @@
     <item><p>Click the clock on the top bar.</p></item>
     <item><p>Select the <gui>Date &amp; Time Settings</gui> item.</p></item>
     <item>
-    <!--FIXME: changing timezone hopefully won't require authorization-->
+    
+    <comment>
+    <cite date="2013-06-20">pmkovar</cite>
+    <p>Changing timezone hopefully won't require authorization.</p>
+    </comment>
+
     <p>You may need to click the <gui>Unlock</gui> button and type the
      administrator's password.</p></item>
     <item><p>Click on your location on the map.</p>
