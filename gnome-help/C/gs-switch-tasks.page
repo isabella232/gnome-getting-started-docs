@@ -108,9 +108,11 @@
 <if:when test="platform:gnome-classic">
 
   <steps>
-    <item><p>You can switch between tasks by using the window list at the bottom
-     of the screen. Open tasks appear as buttons in the window list.</p></item>
-     <item><p>Click a button in the window list to switch to that task.</p></item>
+    <item><p>You can switch between tasks by using the <gui>window list</gui> at
+     the bottom of the screen. Open tasks appear as buttons in the <gui>window
+     list</gui>.</p></item>
+     <item><p>Click a button in the <gui>window list</gui> to switch to that
+     task.</p></item>
   </steps>
 
 </if:when>
