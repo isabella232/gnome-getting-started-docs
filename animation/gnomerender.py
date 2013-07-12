@@ -17,7 +17,7 @@ def render(lang):
   sndfile = "%s/snd.flac" % (sndpath)
   bpy.ops.render.render(animation=True)
   if (not os.path.isfile(sndfile)):
-    #os.mkdir(sndpath)
+    os.mkdir(sndpath)
     bpy.ops.sound.mixdown(filepath=sndfile)
   else:
     print('sound mixed already')
