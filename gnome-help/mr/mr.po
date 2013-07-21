@@ -1,21 +1,20 @@
 # Marathi translation for gnome-getting-started-docs.
 # Copyright (C) 2013 gnome-getting-started-docs's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-getting-started-docs package.
-# , 2013.
 # Sandeep Shedmake <sshedmak@redhat.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-06-30 12:25+0000\n"
-"PO-Revision-Date: 2013-07-19 21:20+0530\n"
+"POT-Creation-Date: 2013-07-21 17:22+0000\n"
+"PO-Revision-Date: 2013-07-21 23:29+0530\n"
 "Last-Translator: Sandeep Shedmake <sshedmak@redhat.com>\n"
-"Language-Team: Marathi\n"
+"Language-Team: Marathi <kde-i18n-doc@kde.org>\n"
 "Language: mr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Lokalize 1.5\n"
 "X-Project-Style: gnome\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
@@ -23,7 +22,7 @@ msgctxt "_"
 msgid "translator-credits"
 msgstr "Aniket Deshpande <djaniketster@gmail.com>, 2013"
 
-#: C/index.page:8(page/title) C/getting-started.page:14(page/title)
+#: C/index.page:8(page/title) C/getting-started.page:15(page/title)
 #: C/gs-animation.xml:5(titles/t)
 msgid "Getting Started"
 msgstr "सुरु करतांना"
@@ -37,7 +36,7 @@ msgstr "सुरु करतांना"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:18(media) C/gs-launch-applications.page:25(media)
+#: C/getting-started.page:22(media) C/gs-launch-applications.page:25(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-launching-applications.webm' "
@@ -55,7 +54,25 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:57(media) C/gs-switch-tasks.page:27(media)
+#: C/getting-started.page:63(media) C/gs-use-windows-workspaces.page:23(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-windows-and-workspaces.webm' "
+"md5='399f502514acf244fd22ba774b1c812e'"
+msgstr ""
+"external ref='figures/gnome-windows-and-workspaces.webm' "
+"md5='399f502514acf244fd22ba774b1c812e'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/getting-started.page:143(media) C/gs-switch-tasks.page:27(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-task-switching.webm' "
@@ -73,7 +90,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:123(media) C/gs-respond-messages.page:24(media)
+#: C/getting-started.page:209(media) C/gs-respond-messages.page:24(media)
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-responding-to-messages.webm' "
@@ -82,80 +99,101 @@ msgstr ""
 "external ref='figures/gnome-responding-to-messages.webm' "
 "md5='f8522ebe4ac4e7be319217399122025a'"
 
-#: C/getting-started.page:9(info/desc)
+#: C/getting-started.page:10(info/desc)
 msgid "New to GNOME? Learn how to get around."
 msgstr "GNOMEसाठी नवीन? कसं वावरायचं ते शिका."
 
-#: C/getting-started.page:10(info/title)
+#: C/getting-started.page:11(info/title)
 msgctxt "link"
 msgid "Getting Started with GNOME"
 msgstr "GNOMEला सुरुवात करतांना"
 
-#: C/getting-started.page:11(info/title)
+#: C/getting-started.page:12(info/title)
 msgctxt "text"
 msgid "Getting Started"
 msgstr "सुरु करतांना"
 
-#: C/getting-started.page:20(caption/desc)
-msgid "Launch Applications"
+#: C/getting-started.page:24(caption/desc)
+#: C/gs-launch-applications.page:22(page/title)
+msgid "Launch applications"
 msgstr "ॲप्लिकेशन्स लॉँच करा"
 
-#: C/getting-started.page:25(div/p) C/gs-animation.xml:4(titles/t)
+#: C/getting-started.page:29(div/p) C/gs-animation.xml:4(titles/t)
 #: C/gs-launch-applications.page:30(div/p)
 msgid "Launching Applications"
 msgstr "ॲप्लिकेशन्स लॉँच करत आहे"
 
-#: C/getting-started.page:28(div/p) C/getting-started.page:67(div/p)
+#: C/getting-started.page:32(div/p) C/getting-started.page:153(div/p)
 #: C/gs-launch-applications.page:33(div/p) C/gs-switch-tasks.page:35(div/p)
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen."
 msgstr ""
 "तुमचा माऊस प्वाइन्टर <gui>कृती</gui> येथे हलवा जे स्क्रीनच्या सगळ्यात वर "
-"डाव्या हाताच्या कोपऱ्यावर आहे."
+"डाव्या हाताच्या "
+"कोपऱ्यावर आहे."
 
-#: C/getting-started.page:32(div/p) C/gs-launch-applications.page:37(div/p)
+#: C/getting-started.page:36(div/p) C/gs-launch-applications.page:37(div/p)
 msgid "Click the <gui>Show Applications</gui> icon."
 msgstr "<gui>ॲप्लिकेशन्स दाखवा</gui> चिन्हावर क्लिक करा."
 
-#: C/getting-started.page:35(div/p) C/gs-launch-applications.page:40(div/p)
+#: C/getting-started.page:39(div/p) C/gs-launch-applications.page:40(div/p)
 msgid "Click the application you want to run, for example, Help."
 msgstr "जे ॲपलिकेशन सुरु करायचं असेल त्यावर क्लिक करा, उदाहरण, मदत."
 
-#: C/getting-started.page:39(div/p) C/gs-launch-applications.page:44(div/p)
+#: C/getting-started.page:43(div/p) C/gs-launch-applications.page:44(div/p)
 msgid ""
 "Alternatively, use the keyboard to open the <gui>Activities Overview</gui> "
 "by pressing the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
 "key."
 msgstr ""
-"पर्यायी, <gui>कार्य सारांश</gui> बघायला कीबोर्डवर <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> दाबा."
+"पर्यायी, <gui>कार्य सारांश</gui> बघायला कीबोर्डवर <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> दाबा."
 
-#: C/getting-started.page:44(div/p) C/gs-launch-applications.page:49(div/p)
+#: C/getting-started.page:48(div/p) C/gs-launch-applications.page:49(div/p)
 msgid "Start typing the name of the application you want to launch."
 msgstr ""
 "त्या ॲपलिकेशनचं नाव टाइप करायला सुरुवात करा जे लॉँच तुम्हाला करायचं आहे."
 
-#: C/getting-started.page:48(div/p) C/gs-launch-applications.page:53(div/p)
+#: C/getting-started.page:52(div/p) C/gs-launch-applications.page:53(div/p)
 msgid "Press <key>Enter</key> to launch the application."
 msgstr "ॲपलिकेशन लॉँच करण्यासाठी <key>Enter</key> दाबा."
 
-#: C/getting-started.page:59(caption/desc)
-msgid "Switch Tasks"
-msgstr "कामे स्थलांतरित करा"
+#: C/getting-started.page:65(caption/desc)
+#: C/gs-use-windows-workspaces.page:20(page/title)
+msgid "Use windows and workspaces"
+msgstr "पटल आणि वर्कस्पेसेस वापरा"
 
-#: C/getting-started.page:64(div/p) C/gs-animation.xml:8(titles/t)
-#: C/gs-switch-tasks.page:32(div/p)
-msgid "Switching Tasks"
-msgstr "कामे स्थलांतरित करा"
+#: C/getting-started.page:70(div/p) C/gs-animation.xml:10(titles/t)
+#: C/gs-use-windows-workspaces.page:28(div/p)
+msgid "Windows and Workspaces"
+msgstr "पटल आणि वर्कस्पेसेस"
 
-#: C/getting-started.page:71(div/p) C/gs-switch-tasks.page:39(div/p)
-#: C/gs-switch-tasks.page:104(item/p)
-msgid "Click a window to switch to that task."
-msgstr "त्या कामावर स्थलांतरित करण्यासाठी पटलावर क्लिक करा."
+#: C/getting-started.page:73(div/p) C/gs-use-windows-workspaces.page:31(div/p)
+msgid ""
+"To maximize a window, grab the window's titlebar and drag it to the top of "
+"the screen."
+msgstr ""
+"पटल मोठे करण्यासाठी, पटलाची शीर्षकपट्टी पकडून स्क्रीनच्या उच्चापर्यंत ओढा."
 
-#: C/getting-started.page:74(div/p) C/gs-switch-tasks.page:42(div/p)
-#: C/gs-use-windows-workspaces.page:46(div/p)
+#: C/getting-started.page:77(div/p) C/gs-use-windows-workspaces.page:35(div/p)
+msgid "When the screen is highlighted, release the window."
+msgstr "जेव्हा स्क्रीन दृष्टीवेधली असेल, पटल सोडा."
+
+#: C/getting-started.page:80(div/p) C/gs-use-windows-workspaces.page:38(div/p)
+msgid ""
+"To unmaximize a window, grab the window's titlebar and drag it away from the "
+"edges of the screen."
+msgstr ""
+"पटल छोटे करण्यासाठी, पटलाची शीर्षकपट्टी पकडून स्क्रीनच्या टोकांपासून दूर ओढा."
+
+#: C/getting-started.page:84(div/p) C/gs-use-windows-workspaces.page:42(div/p)
+msgid ""
+"You can also click the top bar to drag the window away and unmaximize it."
+msgstr "तुम्ही उच्च पट्टीवर क्लिक करून पटलाला दूर नेऊ शकता आणि छोटे करू शकता."
+
+#: C/getting-started.page:88(div/p) C/getting-started.page:160(div/p)
+#: C/gs-switch-tasks.page:42(div/p) C/gs-use-windows-workspaces.page:46(div/p)
 msgid ""
 "To maximize a window along the left side of the screen, grab the window's "
 "titlebar and drag it to the left."
@@ -163,14 +201,106 @@ msgstr ""
 "स्क्रीनच्या डाव्या बाजूला पटल मोठे करण्यासाठी, पटलाची शीर्षकपट्टी पकडून "
 "डावीकडे ओढा."
 
-#: C/getting-started.page:78(div/p) C/getting-started.page:86(div/p)
+#: C/getting-started.page:92(div/p) C/getting-started.page:100(div/p)
+#: C/getting-started.page:164(div/p) C/getting-started.page:172(div/p)
 #: C/gs-switch-tasks.page:46(div/p) C/gs-switch-tasks.page:54(div/p)
 #: C/gs-use-windows-workspaces.page:50(div/p)
 #: C/gs-use-windows-workspaces.page:58(div/p)
 msgid "When half of the screen is highlighted, release the window."
 msgstr "जेव्हा अर्धी स्क्रीन दृष्टीवेधली असेल, पटल सोडा."
 
-#: C/getting-started.page:82(div/p) C/gs-switch-tasks.page:50(div/p)
+#: C/getting-started.page:96(div/p) C/gs-use-windows-workspaces.page:54(div/p)
+msgid ""
+"To maximize a window along the right side of the screen, grab the window's "
+"titlebar and drag it to the right."
+msgstr ""
+"स्क्रीनच्या उजव्या बाजूला पटल मोठे करण्यासाठी, पटलाची शीर्षकपट्टी पकडून "
+"उजवीकडे ओढा."
+
+#: C/getting-started.page:104(div/p)
+#: C/gs-use-windows-workspaces.page:62(div/p)
+#: C/gs-use-windows-workspaces.page:133(item/p)
+msgid ""
+"To maximize a window using the keyboard, hold down the <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
+msgstr ""
+"पटल कीबोर्डने मोठे करण्यासाठी, <key href=\"help:gnome-help/keyboard-key-super"
+"\">Super</key> दाबून ठेवा आणि <key>↑</key> दाबा."
+
+#: C/getting-started.page:109(div/p)
+#: C/gs-use-windows-workspaces.page:67(div/p)
+msgid ""
+"To restore the window to its unmaximized size, hold down the <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
+"key>."
+msgstr ""
+"पटल कीबोर्डने पूर्वस्थितीत छोटे करण्यासाठी, <key "
+"href=\"help:gnome-help/keyboard-"
+"key-super\">Super</key> दाबून ठेवा आणि <key>↓</key> दाबा."
+
+#: C/getting-started.page:114(div/p)
+#: C/gs-use-windows-workspaces.page:72(div/p)
+#: C/gs-use-windows-workspaces.page:147(item/p)
+msgid ""
+"To maximize a window along the right side of the screen, hold down the <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
+"<key>→</key>."
+msgstr ""
+"पटल कीबोर्डने उजव्या बाजूला मोठे करण्यासाठी, <key "
+"href=\"help:gnome-help/keyboard-"
+"key-super\">Super</key> दाबून ठेवा आणि <key>→</key> दाबा."
+
+#: C/getting-started.page:119(div/p)
+#: C/gs-use-windows-workspaces.page:77(div/p)
+#: C/gs-use-windows-workspaces.page:150(item/p)
+msgid ""
+"To maximize a window along the left side of the screen, hold down the <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
+"<key>←</key>."
+msgstr ""
+"पटल कीबोर्डने डाव्या बाजूला मोठे करण्यासाठी, <key "
+"href=\"help:gnome-help/keyboard-"
+"key-super\">Super</key> दाबून ठेवा आणि <key>←</key> दाबा."
+
+#: C/getting-started.page:124(div/p)
+#: C/gs-use-windows-workspaces.page:82(div/p)
+msgid ""
+"To move to a workspace which is below the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Page Down</key></keyseq>."
+msgstr ""
+"आत्ताच्या वर्कस्पेसपेक्षा खालच्या वर्कस्पेसवर जाण्यासाठी, <keyseq><key "
+"href=\"help:gnome-"
+"help/keyboard-key-super\">Super </key><key>Page Down</key></keyseq> दाबा."
+
+#: C/getting-started.page:129(div/p)
+#: C/gs-use-windows-workspaces.page:87(div/p)
+msgid ""
+"To move to a workspace which is above the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Page Up</key></keyseq>."
+msgstr ""
+"आत्ताच्या वर्कस्पेसपेक्षा वरच्या वर्कस्पेसवर जाण्यासाठी, <keyseq><key "
+"href=\"help:gnome-"
+"help/keyboard-key-super\">Super </key><key>Page Up</key></keyseq> दाबा."
+
+#: C/getting-started.page:145(caption/desc)
+#: C/gs-switch-tasks.page:21(page/title)
+#: C/gs-switch-tasks.page:95(section/title)
+msgid "Switch tasks"
+msgstr "कामे स्थलांतरित करा"
+
+#: C/getting-started.page:150(div/p) C/gs-animation.xml:8(titles/t)
+#: C/gs-switch-tasks.page:32(div/p)
+msgid "Switching Tasks"
+msgstr "कामे स्थलांतरित करा"
+
+#: C/getting-started.page:157(div/p) C/gs-switch-tasks.page:39(div/p)
+#: C/gs-switch-tasks.page:104(item/p)
+msgid "Click a window to switch to that task."
+msgstr "त्या कामावर स्थलांतरित करण्यासाठी पटलावर क्लिक करा."
+
+#: C/getting-started.page:168(div/p) C/gs-switch-tasks.page:50(div/p)
 msgid ""
 "To maximize a window along the right side, grab the window's titlebar and "
 "drag it to the right."
@@ -178,144 +308,150 @@ msgstr ""
 "स्क्रीनच्या उजव्या बाजूला पटल मोठे करण्यासाठी, पटलाची शीर्षकपट्टी पकडून "
 "उजवीकडे ओढा."
 
-#: C/getting-started.page:90(div/p) C/gs-switch-tasks.page:58(div/p)
+#: C/getting-started.page:176(div/p) C/gs-switch-tasks.page:58(div/p)
 msgid ""
 "Press <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
 "key><key> Tab</key></keyseq> to show the <gui>window switcher</gui>."
 msgstr ""
-"<gui>पटल परिवर्तक</gui> दाखवण्यासाठी <keyseq> <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key><key> Tab</key></keyseq> दाबा."
+"<gui>पटल परिवर्तक</gui> दाखवण्यासाठी <keyseq> <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key><key> Tab</key></keyseq> दाबा."
 
-#: C/getting-started.page:95(div/p) C/gs-switch-tasks.page:63(div/p)
+#: C/getting-started.page:181(div/p) C/gs-switch-tasks.page:63(div/p)
 msgid ""
 "Release <key href=\"help:gnome-help/keyboard-key-super\">Super </key> to "
 "select the next highlighted window."
 msgstr ""
 "पुढचं दृष्टीवेधित पटल निवडण्यासाठी <key href=\"help:gnome-help/keyboard-key-su"
-"per\">Super </key> सोडा."
+"per"
+"\">Super </key> सोडा."
 
-#: C/getting-started.page:100(div/p) C/gs-switch-tasks.page:68(div/p)
-#: C/gs-switch-tasks.page:147(item/p)
+#: C/getting-started.page:186(div/p) C/gs-switch-tasks.page:68(div/p)
+#: C/gs-switch-tasks.page:149(item/p)
 msgid ""
 "To cycle through the list of open windows, do not release <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> but hold it down, and press "
 "<key>Tab</key>."
 msgstr ""
-"उघड्या पटलांमधून निवडण्यासाठी, <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> सोडू नका पण धरून ठेवा, आणि <key>"
-"Tab</key> दाबा."
+"उघड्या पटलांमधून निवडण्यासाठी, <key href=\"help:gnome-help/keyboard-key-super"
+"\">Super</key> सोडू नका पण धरून ठेवा, आणि <key>Tab</key> दाबा."
 
-#: C/getting-started.page:105(div/p) C/gs-switch-tasks.page:73(div/p)
+#: C/getting-started.page:191(div/p) C/gs-switch-tasks.page:73(div/p)
 msgid ""
 "Press the <key href=\"help:gnome-help/keyboard-key-super\">Super </key> key "
 "to show the <gui>Activities Overview</gui>."
 msgstr ""
-"<gui>कार्य सारांश</gui> दाखवण्यासाठी <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super </key> दाबा."
+"<gui>कार्य सारांश</gui> दाखवण्यासाठी <key href=\"help:gnome-help/keyboard-key-"
+"super\">Super </key> दाबा."
 
-#: C/getting-started.page:109(div/p) C/gs-switch-tasks.page:77(div/p)
+#: C/getting-started.page:195(div/p) C/gs-switch-tasks.page:77(div/p)
 msgid "Start typing the name of the application you want to switch to."
 msgstr ""
 "त्या ॲपलिकेशनचं नाव टाइप करायला सुरुवात करा ज्यावर तुम्हाला स्थलांतर करायचं "
 "आहे."
 
-#: C/getting-started.page:113(div/p) C/gs-switch-tasks.page:81(div/p)
+#: C/getting-started.page:199(div/p) C/gs-switch-tasks.page:81(div/p)
 msgid ""
 "When the application appears as the first result, press <key> Enter</key> to "
 "switch to it."
 msgstr ""
 "जेव्हा ॲपलिकेशन पाहिलं निष्कर्ष म्हणून दिसेल, त्यावर स्थलांतर करण्यासाठी <key>"
-"Enter</key> दाबा."
+"Enter</key> "
+"दाबा."
 
-#: C/getting-started.page:125(caption/desc)
+#: C/getting-started.page:211(caption/desc)
 #: C/gs-respond-messages.page:21(page/title)
 msgid "Respond to messages"
 msgstr "संदेशांना उत्तरे द्या"
 
-#: C/getting-started.page:131(div/p) C/gs-animation.xml:7(titles/t)
+#: C/getting-started.page:217(div/p) C/gs-animation.xml:7(titles/t)
 #: C/gs-respond-messages.page:29(div/p)
 msgid "Responding to Messages"
 msgstr "संदेशांना उत्तरे देत आहे"
 
-#: C/getting-started.page:134(div/p) C/gs-respond-messages.page:32(div/p)
+#: C/getting-started.page:220(div/p) C/gs-respond-messages.page:32(div/p)
 #: C/gs-respond-messages.page:91(item/p)
 msgid ""
 "Move your mouse to the message tray at the bottom of the screen and click "
 "the chat message."
 msgstr ""
 "तुमच्या माऊसला संदेश ताटावर हलवा जे स्क्रीनच्या खालच्या बाजुला आहे आणि चॅट "
-"संदेशावर क्लिक करा."
+"संदेशावर क्लिक "
+"करा."
 
-#: C/getting-started.page:138(div/p) C/gs-respond-messages.page:36(div/p)
+#: C/getting-started.page:224(div/p) C/gs-respond-messages.page:36(div/p)
 msgid ""
 "Start typing your reply and when finished, press <key>Enter </key> to send "
 "the reply."
 msgstr ""
 "तुमचं उत्तर लिहायला सुरुवात करा आणि संपल्यावर, उत्तर पाठविणयासाठी <key>Enter "
-"</key> दाबा."
+"</key> "
+"दाबा."
 
-#: C/getting-started.page:142(div/p) C/getting-started.page:163(div/p)
+#: C/getting-started.page:228(div/p) C/getting-started.page:249(div/p)
 #: C/gs-respond-messages.page:40(div/p) C/gs-respond-messages.page:61(div/p)
 msgid "Close the chat message."
 msgstr "चॅट संदेश बंद करा."
 
-#: C/getting-started.page:145(div/p) C/gs-animation.xml:9(titles/t)
+#: C/getting-started.page:231(div/p) C/gs-animation.xml:9(titles/t)
 #: C/gs-respond-messages.page:43(div/p)
 msgid "Delayed Response"
 msgstr "उशीर उत्तर"
 
-#: C/getting-started.page:148(div/p) C/gs-respond-messages.page:46(div/p)
+#: C/getting-started.page:234(div/p) C/gs-respond-messages.page:46(div/p)
 msgid ""
 "A chat message in the message tray disappears after a while if you do not "
 "move your mouse to the message tray."
 msgstr ""
 "संदेश ताटातलं चॅट संदेश काही वेळानंतर अदृशय होतं जर तुमही तुमच्या माऊसला "
-"संदेश ताटावर हलवलं नाही तर."
+"संदेश ताटावर हलवलं "
+"नाही तर."
 
-#: C/getting-started.page:152(div/p) C/gs-respond-messages.page:50(div/p)
+#: C/getting-started.page:238(div/p) C/gs-respond-messages.page:50(div/p)
 msgid ""
 "To get back to your unanswered message, move your mouse to the message tray."
 msgstr ""
 "अनुत्तरित संदेशांना परत मिळवण्यासाठी, तुमच्या माऊसला संदेश ताटावर हलवा."
 
-#: C/getting-started.page:156(div/p) C/gs-respond-messages.page:54(div/p)
+#: C/getting-started.page:242(div/p) C/gs-respond-messages.page:54(div/p)
 msgid "Click the person who sent you the message."
 msgstr "त्या इसमावर क्लिक करा ज्याने तुम्हाला संदेश पाठवला आहे."
 
-#: C/getting-started.page:159(div/p) C/getting-started.page:175(div/p)
+#: C/getting-started.page:245(div/p) C/getting-started.page:261(div/p)
 #: C/gs-respond-messages.page:57(div/p) C/gs-respond-messages.page:73(div/p)
 msgid "Start typing your reply and when finished, press <key>Enter </key>."
 msgstr ""
 "तुमचं उत्तर लिहायला सुरुवात करा आणि संपल्यावर, उत्तर पाठविणयासाठी <key>Enter<"
-"/key> दाबा."
+"/key> "
+"दाबा."
 
-#: C/getting-started.page:166(div/p) C/gs-respond-messages.page:64(div/p)
+#: C/getting-started.page:252(div/p) C/gs-respond-messages.page:64(div/p)
 msgid ""
 "To show the message tray, press <keyseq> <key href=\"help:gnome-help/"
 "keyboard-key-super\">Super</key> <key>M</key></keyseq>"
 msgstr ""
-"संदेश ताट दाखवण्यासाठी, <keyseq> <key href=\"help:gnome-help/keyboard-key-"
-"super\">Super</key> <key>M</key></keyseq> दाबा"
+"संदेश ताट दाखवण्यासाठी, <keyseq> <key href=\"help:gnome-help/keyboard-key-supe"
+"r"
+"\">Super</key> <key>M</key></keyseq> दाबा"
 
-#: C/getting-started.page:171(div/p) C/gs-respond-messages.page:69(div/p)
+#: C/getting-started.page:257(div/p) C/gs-respond-messages.page:69(div/p)
 msgid ""
 "Use the arrow keys to select the person you want to reply to, and press "
 "<key>Enter</key>."
 msgstr ""
 "तुम्हाला ज्या इसमाला उत्तर द्यायचं आहे त्याला ॲरो की द्वारा निवडा, आणि <key>"
-"Enter</key> दाबा."
+"Enter</"
+"key> दाबा."
 
-#: C/getting-started.page:179(div/p) C/gs-respond-messages.page:77(div/p)
+#: C/getting-started.page:265(div/p) C/gs-respond-messages.page:77(div/p)
 #: C/gs-respond-messages.page:131(item/p)
 msgid "Press <key>Esc</key> to close the chat message."
 msgstr "चॅट संदेश बंद करण्यासाठी <key>Esc</key> दाबा."
 
-#: C/getting-started.page:182(div/p) C/gs-respond-messages.page:80(div/p)
+#: C/getting-started.page:268(div/p) C/gs-respond-messages.page:80(div/p)
 msgid "To dismiss the message tray, press <key>Esc</key>."
 msgstr "संदेश ताट बंद करण्यासाठी, <key>Esc</key> दाबा."
 
-#: C/getting-started.page:191(links/title)
+#: C/getting-started.page:277(links/title)
 msgid "Common Tasks"
 msgstr "समान कामे"
 
@@ -326,10 +462,6 @@ msgstr "स्वागत"
 #: C/gs-animation.xml:6(titles/t) C/gs-change-wallpaper.page:29(div/p)
 msgid "Changing Wallpaper"
 msgstr "बदलतं भित्तीचित्र"
-
-#: C/gs-animation.xml:10(titles/t) C/gs-use-windows-workspaces.page:28(div/p)
-msgid "Windows and Workspaces"
-msgstr "पटल आणि वर्कस्पेसेस"
 
 #: C/gs-animation.xml:11(titles/t)
 msgid "Changing Date, Time and Timezone"
@@ -549,7 +681,8 @@ msgid ""
 "of the screen to show the <gui>Activities Overview</gui>."
 msgstr ""
 "<gui>कार्य सारांश</gui> दाखवण्यासाठी तुमचा माऊस प्वाइन्टर <gui>कृती</gui> "
-"येथे हलवा जे स्क्रीनच्या सगळ्यात वर डाव्या हाताच्या कोपऱ्यावर आहे."
+"येथे हलवा जे "
+"स्क्रीनच्या सगळ्यात वर डाव्या हाताच्या कोपऱ्यावर आहे."
 
 #: C/gs-browse-web.page:29(item/p)
 msgid ""
@@ -565,7 +698,8 @@ msgid ""
 "gui>."
 msgstr ""
 "पर्यायी, तुम्ही <gui>कार्य सारांश</gui>मध्ये <em>वेब</em> <link "
-"xref=\"gs-use-system-search\">टाइप करून</link> ब्राउझर लाँच करू शकता."
+"xref=\"gs-use-system-"
+"search\">टाइप करून</link> ब्राउझर लाँच करू शकता."
 
 #: C/gs-browse-web.page:40(item/p) C/gs-browse-web-firefox.page:59(item/p)
 msgid ""
@@ -573,7 +707,8 @@ msgid ""
 "the website you want to visit."
 msgstr ""
 "ब्राउझर पटलाच्या सगळ्यात वरच्या पत्ता पट्टीवर क्लिक करा आणि इच्छित वेबसाईट "
-"टाइप करारायला सुरुवात करा."
+"टाइप "
+"करारायला सुरुवात करा."
 
 #: C/gs-browse-web.page:42(item/p) C/gs-browse-web-firefox.page:61(item/p)
 msgid ""
@@ -581,7 +716,8 @@ msgid ""
 "bookmarks, so you do not need to remember the exact address."
 msgstr ""
 "वेबसाईट लिहिणं सुरु केल्यावर ब्राउझर इतिहासतात आणि वाचनखुणांमध्ये ते शोधलं "
-"जातं, त्यामुळे तुम्हाला पूर्ण पत्ता माहिती असणं गरजेचे नाही."
+"जातं, त्यामुळे "
+"तुम्हाला पूर्ण पत्ता माहिती असणं गरजेचे नाही."
 
 #: C/gs-browse-web.page:45(item/p) C/gs-browse-web-firefox.page:64(item/p)
 msgid ""
@@ -589,7 +725,8 @@ msgid ""
 "shown below the address bar."
 msgstr ""
 "जर वेबसाईट ब्राउझर इतिहासतात आणि वाचनखुणांमध्ये सापडली तर पत्ता पट्टीच्या "
-"खाली यादी दाखवली जाईल."
+"खाली यादी "
+"दाखवली जाईल."
 
 #: C/gs-browse-web.page:47(item/p) C/gs-browse-web-firefox.page:66(item/p)
 msgid ""
@@ -645,8 +782,7 @@ msgid ""
 "Select the <app>Firefox</app> browser icon from the bar on the left-hand "
 "side of the screen."
 msgstr ""
-"स्क्रीनच्या डाव्या हाताच्या पट्टीवरून <app>Firefox</app> ब्राउझर चिन्ह "
-"निवडा."
+"स्क्रीनच्या डाव्या हाताच्या पट्टीवरून <app>Firefox</app> ब्राउझर चिन्ह निवडा."
 
 #: C/gs-browse-web-firefox.page:37(note/p)
 msgid ""
@@ -655,13 +791,15 @@ msgid ""
 "Overview</gui>."
 msgstr ""
 "पर्यायी, तुम्ही <gui>कार्य सारांश</gui>मध्ये <em>Firefox</em> <link "
-"xref=\"gs-use-system-search\">टाइप करून</link> ब्राउझर लाँच करू शकता."
+"xref=\"gs-use-"
+"system-search\">टाइप करून</link> ब्राउझर लाँच करू शकता."
 
 #: C/gs-browse-web-firefox.page:47(item/p)
 msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
 msgstr ""
 "<gui>ॲप्लिकेशन्स</gui> मेनूवर क्लिक करा जे स्क्रीनच्या सगळ्यात वर डाव्या "
-"हाताच्या कोपऱ्यावर आहे."
+"हाताच्या "
+"कोपऱ्यावर आहे."
 
 #: C/gs-browse-web-firefox.page:49(item/p)
 msgid ""
@@ -750,7 +888,8 @@ msgid ""
 "clicking on the arrows to choose the hour, minute, and year."
 msgstr ""
 "पटलाच्या डाव्या हाताला, तास, मिनिट आणि वर्षवरच्या बाणांवर क्लिक करून तुम्ही "
-"तारीख आणि वेळ बदलू शकता."
+"तारीख आणि "
+"वेळ बदलू शकता."
 
 #: C/gs-change-date-time-timezone.page:83(item/p)
 msgid ""
@@ -819,7 +958,8 @@ msgid ""
 "<gui>Background</gui> window."
 msgstr ""
 "तुमच्या आत्ताच्या भित्तिचित्राच्या छबीच्या <gui>पार्श्वचित्र</gui> पटलाच्या "
-"मध्यावर क्लिक करा."
+"मध्यावर क्लिक "
+"करा."
 
 #: C/gs-change-wallpaper.page:65(item/p)
 msgid ""
@@ -913,7 +1053,8 @@ msgid ""
 "window."
 msgstr ""
 "तुम्ही आधी ऑनलाईन खातं बनवलं असेल, तर तुम्ही आणखी एक खात्याचा समावेश <gui>+<"
-"/gui> बटण क्लिक करून करू शकता जे पटलाच्या खाली डाव्या कोपऱ्यावर आहे."
+"/gui> बटण "
+"क्लिक करून करू शकता जे पटलाच्या खाली डाव्या कोपऱ्यावर आहे."
 
 #: C/gs-connect-online-accounts.page:45(item/p)
 msgid ""
@@ -921,7 +1062,8 @@ msgid ""
 "you can sign in to your online account."
 msgstr ""
 "तुम्हाला जे ऑनलाईन खात वापरायचं असेल त्यावर क्लिक करा. हे एक नवीन पटल उघडेल "
-"जिथे तुम्ही तुमच्या ऑनलाईन खात्यामध्ये साईन इन करू शकता."
+"जिथे तुम्ही "
+"तुमच्या ऑनलाईन खात्यामध्ये साईन इन करू शकता."
 
 #: C/gs-connect-online-accounts.page:52(item/p)
 msgid ""
@@ -929,7 +1071,8 @@ msgid ""
 "signing in to get started."
 msgstr ""
 "बऱ्याच वेळेस, तुम्हाला साईन इन करून सुरु व्हायला ऑनलाईन सेवेला प्रवेशासाठी "
-"होकार द्यावा लागेल."
+"होकार द्यावा "
+"लागेल."
 
 #: C/gs-connect-online-accounts.page:54(item/p)
 msgid ""
@@ -937,7 +1080,8 @@ msgid ""
 "click the <gui>Grant Access</gui> button."
 msgstr ""
 "उदाहरण म्हणून, जर तुम्ही Google खात्याशी जोडणी करत असाल तर तुम्हाला <gui>"
-"परवानगी स्वीकारा</gui> बटण क्लिक करावं लागेल."
+"परवानगी "
+"स्वीकारा</gui> बटण क्लिक करावं लागेल."
 
 #: C/gs-connect-online-accounts.page:61(item/p)
 msgid ""
@@ -946,8 +1090,10 @@ msgid ""
 "the <gui>ON/OFF</gui> switch on the right-hand side of the window."
 msgstr ""
 "बरेच ऑनलाईन खाते तुम्हाला तुमच्या खात्यासोबत सेवा निवडण्याचं स्वातंत्र्य "
-"देतात. तुम्हाला जर सेवा वापरायची नसेल, तर तुम्ही ती सेवा पटलाच्या उजव्या "
-"हाताला असलेले <gui>चालू/बंद</gui> बटणवर क्लिक करून बंद करू शकता."
+"देतात. तुम्हाला जर "
+"सेवा वापरायची नसेल, तर तुम्ही ती सेवा पटलाच्या उजव्या हाताला असलेले <gui>"
+"चालू/बंद</gui> "
+"बटणवर क्लिक करून बंद करू शकता."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -999,7 +1145,8 @@ msgid ""
 "the top bar, next to your name."
 msgstr ""
 "नेटवर्कची स्थिती तुम्ही उजव्या हाताला सगळ्यात वरच्या पट्टीवर,तुमच्या नावाच्या "
-"बाजूला पाहू शकता."
+"बाजूला पाहू "
+"शकता."
 
 #: C/gs-get-online.page:29(section/title)
 msgid "Connect to a wired network"
@@ -1011,7 +1158,8 @@ msgid ""
 "you are off-line."
 msgstr ""
 "नेटवर्कची जोडणी चिन्ह जे उजव्या हाताला सगळ्यात वरच्या पट्टीवर दाखवत आहे "
-"तुम्ही ऑफलाईन आहात."
+"तुम्ही ऑफलाईन "
+"आहात."
 
 #: C/gs-get-online.page:36(item/p)
 msgid ""
@@ -1019,7 +1167,8 @@ msgid ""
 "your network connection."
 msgstr ""
 "तुमच्या नेटवर्कची जोडणी स्थिती बद्दल अधिक माहिती साठी नेटवर्कची जोडणी "
-"चिन्हावर क्लिक करा."
+"चिन्हावर क्लिक "
+"करा."
 
 #: C/gs-get-online.page:38(item/p)
 msgid ""
@@ -1029,8 +1178,10 @@ msgid ""
 "area."
 msgstr ""
 "ऑफ-लाईन स्थिती ही वेगवेगळ्या कारणांमुळे निर्माण होऊ शकते: उदाहरण म्हणून, "
-"नेटवर्क तार निघाली, कम्प्युटर हा <em>एअरप्लेन मोड</em>मध्ये गेला आहे, किंवा "
-"तुमच्या क्षेत्रात उपलब्ध वायरलेस नेटवर्क नाहीत."
+"नेटवर्क तार "
+"निघाली, कम्प्युटर हा <em>एअरप्लेन मोड</em>मध्ये गेला आहे, किंवा तुमच्या "
+"क्षेत्रात उपलब्ध "
+"वायरलेस नेटवर्क नाहीत."
 
 #: C/gs-get-online.page:47(item/p)
 msgid ""
@@ -1039,15 +1190,16 @@ msgid ""
 "automatically."
 msgstr ""
 "तुम्हाला वायर्ड जोडणी वापरायची असेल तर, ऑनलाईन जायला फक्त जोडणी तार लावा. "
-"कम्प्युटर तुमच्यासाठी आपोआप नेटवर्क जोडणी स्थापित करण्याचा प्रयत्न करेल."
+"कम्प्युटर "
+"तुमच्यासाठी आपोआप नेटवर्क जोडणी स्थापित करण्याचा प्रयत्न करेल."
 
 #: C/gs-get-online.page:51(item/p)
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
 msgstr ""
-"संगणक तुमच्यासाठी नेटवर्कची जोडणी करत असतांना, नेटवर्कची जोडणी चिन्ह तीन "
-"टिंब दाखवतं."
+"संगणक तुमच्यासाठी नेटवर्कची जोडणी करत असतांना, नेटवर्कची जोडणी चिन्ह तीन टिंब "
+"दाखवतं."
 
 #: C/gs-get-online.page:53(item/p)
 msgid ""
@@ -1066,8 +1218,9 @@ msgid ""
 "There are various types of network connections that you can use with your "
 "computer, for example, mobile broadband, or wireless networks."
 msgstr ""
-"वेगवेगळ्या प्रकारच्या नेटवर्कची जोडण्या आहेत ज्या तुमच्या संगणकासोबत "
-"वापरल्या जाऊ शकतात, उदाहरण म्हणून, मोबाईल ब्रॉडबॅन्ड, किंवा वायरलेस नेटवर्क."
+"वेगवेगळ्या प्रकारच्या नेटवर्कची जोडण्या आहेत ज्या तुमच्या संगणकासोबत वापरल्या "
+"जाऊ शकतात, "
+"उदाहरण म्हणून, मोबाईल ब्रॉडबॅन्ड, किंवा वायरलेस नेटवर्क."
 
 #: C/gs-get-online.page:69(item/p)
 msgid ""
@@ -1077,8 +1230,10 @@ msgid ""
 "to connect to."
 msgstr ""
 "तुमच्या कमप्यूटर हार्डवेअर आणि नेटवर्क उपलब्धतेनुसार, उजव्या हाताला बाजूच्या "
-"उच्च पट्टीवरच्या नेटवर्क जोडणी चिन्हावर क्लिक करून इतर जोडणी प्रकार निवडू "
-"शकता आणि इच्छित नेटवर्क जोडणीशी जोडले जाऊ शकता."
+"उच्च पट्टीवरच्या "
+"नेटवर्क जोडणी चिन्हावर क्लिक करून इतर जोडणी प्रकार निवडू शकता आणि इच्छित "
+"नेटवर्क "
+"जोडणीशी जोडले जाऊ शकता."
 
 #: C/gs-goa1.svg:21(Work/format) C/gs-goa2.svg:38(Work/format)
 #: C/gs-goa3.svg:51(Work/format) C/gs-goa4.svg:36(Work/format)
@@ -1359,10 +1514,6 @@ msgctxt "link:seealso"
 msgid "A tutorial on launching applications"
 msgstr "ॲप्लिकेशन्स लॉँच करण्याबाबत वर्गपाठ"
 
-#: C/gs-launch-applications.page:22(page/title)
-msgid "Launch applications"
-msgstr "ॲप्लिकेशन्स लॉँच करा"
-
 #: C/gs-launch-applications.page:61(section/title)
 msgid "Launch applications with the mouse"
 msgstr "माउसने ॲप्लिकेशन्स लॉँच करा"
@@ -1379,7 +1530,8 @@ msgid ""
 "example, Help."
 msgstr ""
 "ॲपलिकेशन्सची यादी दाखवलेली आहे. जे ॲपलिकेशन सुरु करायचं असेल त्यावर क्लिक "
-"करा, उदाहरण, मदत."
+"करा, उदाहरण, "
+"मदत."
 
 #: C/gs-launch-applications.page:75(section/title)
 msgid "Launch applications with the keyboard"
@@ -1391,8 +1543,8 @@ msgid ""
 "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key."
 msgstr ""
-"<gui>कार्य सारांश</gui> <key href=\"help:gnome-help/keyboard-key-super\">"
-"Super</key> दाबुन उघडा."
+"<gui>कार्य सारांश</gui> <key href=\"help:gnome-help/keyboard-key-super"
+"\">Super</key> दाबुन उघडा."
 
 #: C/gs-launch-applications.page:80(item/p)
 msgid ""
@@ -1400,7 +1552,8 @@ msgid ""
 "the application begins instantly."
 msgstr ""
 "त्या ॲपलिकेशनचं नाव टाइप करायला सुरुवात करा जे लॉँच तुम्हाला करायचं आहे. "
-"ॲपलिकेशन शोध लगेच सुरु होतं."
+"ॲपलिकेशन शोध "
+"लगेच सुरु होतं."
 
 #: C/gs-launch-applications.page:82(item/p)
 msgid ""
@@ -1439,7 +1592,8 @@ msgid ""
 "the reply."
 msgstr ""
 "तुमचं उत्तर लिहायला सुरुवात करा आणि संपल्यावर, उत्तर पाठविणयासाठी <key>Enter<"
-"/key> दाबा."
+"/key> "
+"दाबा."
 
 #: C/gs-respond-messages.page:95(item/p)
 #: C/gs-respond-messages.page:114(item/p)
@@ -1448,7 +1602,8 @@ msgid ""
 "the chat message."
 msgstr ""
 "चॅट संदेश बंद करण्यासाठी, चॅट संदेशाच्या उजव्या हाताला वरच्या कोपऱ्यावरील बंद "
-"करा बटण क्लिक करा."
+"करा बटण "
+"क्लिक करा."
 
 #: C/gs-respond-messages.page:102(section/title)
 msgid "Delayed response to a chat message using the mouse"
@@ -1459,8 +1614,9 @@ msgid ""
 "When a chat message appears in the message tray and you do not move your "
 "mouse to the message tray, the message disappears after a while."
 msgstr ""
-"जेव्हा चॅट संदेश, संदेश ताटात दिसेल आणि जर तुम्ही तुमच्या माऊसला संदेश "
-"ताटावर हलवलं नाही तर संदेश ताटातलं चॅट संदेश, काही वेळानंतर अदृशय होतं."
+"जेव्हा चॅट संदेश, संदेश ताटात दिसेल आणि जर तुम्ही तुमच्या माऊसला संदेश ताटावर "
+"हलवलं नाही तर "
+"संदेश ताटातलं चॅट संदेश, काही वेळानंतर अदृशय होतं."
 
 #: C/gs-respond-messages.page:108(item/p)
 msgid ""
@@ -1476,7 +1632,8 @@ msgid ""
 "person who sent you the message."
 msgstr ""
 "जेव्हा संदेश ताट दिसेल, त्या इसमाला दर्शवणाऱ्या छोट्या छबीवर क्लिक करा ज्याने "
-"तुम्हाला संदेश पाठवला आहे."
+"तुम्हाला संदेश "
+"पाठवला आहे."
 
 #: C/gs-respond-messages.page:112(item/p)
 msgid ""
@@ -1484,7 +1641,8 @@ msgid ""
 "press <key>Enter</key> to send the reply."
 msgstr ""
 "जेव्हा चॅट संदेश दिसेल, तुमचं उत्तर लिहायला सुरुवात करा आणि संपल्यावर, उत्तर "
-"पाठविणयासाठी <key>Enter</key> दाबा."
+"पाठविणयासाठी "
+"<key>Enter</key> दाबा."
 
 #: C/gs-respond-messages.page:121(section/title)
 msgid "Delayed response to a chat message using the keyboard"
@@ -1497,8 +1655,9 @@ msgid ""
 "display the message tray that contains the messages."
 msgstr ""
 "अनुत्तरित संदेशांना परत मिळवण्यासाठी, संदेश ताटातील संदेश दिसण्यासाठी <keyseq>"
-" <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq> दाबा."
+" <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </"
+"keyseq> दाबा."
 
 #: C/gs-respond-messages.page:127(item/p)
 msgid ""
@@ -1506,15 +1665,17 @@ msgid ""
 "to reply to, and press <key>Enter</key>."
 msgstr ""
 "तुम्हाला ज्या इसमाला उत्तर द्यायचं आहे त्याला दर्शवणाऱ्या छोट्या छबीला ॲरो की "
-"द्वारा निवडा, आणि <key>Enter</key> दाबा."
+"द्वारा "
+"निवडा, आणि <key>Enter</key> दाबा."
 
 #: C/gs-respond-messages.page:132(item/p)
 msgid ""
 "To dismiss the message tray, press <key>Esc</key> or <keyseq> <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>."
 msgstr ""
-"संदेश ताट बंद करण्यासाठी, <key>Esc</key> किं‌वा <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq> दाबा."
+"संदेश ताट बंद करण्यासाठी, <key>Esc</key> किं‌वा <keyseq> <key "
+"href=\"help:gnome-"
+"help/keyboard-key-super\">Super</key><key>M</key> </keyseq> दाबा."
 
 #: C/gs-search1.svg:200(text/tspan)
 #, no-wrap
@@ -1613,11 +1774,6 @@ msgctxt "link:seealso"
 msgid "A tutorial on switching tasks"
 msgstr "कामे स्थलांतरित करण्याबाबत वर्गपाठ"
 
-#: C/gs-switch-tasks.page:21(page/title)
-#: C/gs-switch-tasks.page:95(section/title)
-msgid "Switch tasks"
-msgstr "कामे स्थलांतरित करा"
-
 #: C/gs-switch-tasks.page:101(item/p)
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
@@ -1625,27 +1781,34 @@ msgid ""
 "the currently running tasks displayed as small windows."
 msgstr ""
 "<gui>कार्य सारांश</gui> दाखवण्यासाठी तुमचा माऊस प्वाइन्टर <gui>कृती</gui> "
-"येथे हलवा जे स्क्रीनच्या सगळ्यात वर डाव्या हाताच्या कोपऱ्यावर आहे जेथे सध्या "
-"सुरु असलेले कार्ये छोटे पटल म्हणून दिसतात."
+"येथे हलवा जे "
+"स्क्रीनच्या सगळ्यात वर डाव्या हाताच्या कोपऱ्यावर आहे जेथे सध्या सुरु असलेले "
+"कार्ये छोटे पटल "
+"म्हणून दिसतात."
 
 #: C/gs-switch-tasks.page:111(item/p)
+#| msgid ""
+#| "You can switch between tasks by using the window list at the bottom of "
+#| "the screen. Open tasks appear as buttons in the window list."
 msgid ""
-"You can switch between tasks by using the window list at the bottom of the "
-"screen. Open tasks appear as buttons in the window list."
+"You can switch between tasks by using the <gui>window list</gui> at the "
+"bottom of the screen. Open tasks appear as buttons in the <gui>window list</"
+"gui>."
 msgstr ""
-"स्क्रीनच्या तळाला असलेल्या पटल यादीतून तुम्ही कार्य स्थलांतर करू शकता. सुरु "
-"असलेले कार्य पटल यादीत बटण म्हणून येतात."
+"स्क्रीनच्या तळाला असलेल्या <gui>पटल यादीतून</gui> तुम्ही कार्य स्थलांतर करू "
+"शकता. सुरु असलेले कार्य <gui>पटल यादीत</gui> बटण म्हणून येतात."
 
-#: C/gs-switch-tasks.page:113(item/p)
-msgid "Click a button in the window list to switch to that task."
-msgstr "त्या कामावर स्थलांतरित करण्यासाठी पटल यादीवर क्लिक करा."
+#: C/gs-switch-tasks.page:114(item/p)
+#| msgid "Click a button in the window list to switch to that task."
+msgid "Click a button in the <gui>window list</gui> to switch to that task."
+msgstr "त्या कामावर स्थलांतरित करण्यासाठी <gui>पटल यादीवर</gui> क्लिक करा."
 
-#: C/gs-switch-tasks.page:122(section/title)
+#: C/gs-switch-tasks.page:124(section/title)
 #: C/gs-use-windows-workspaces.page:113(section/title)
 msgid "Tile windows"
 msgstr "पटल टाइल करा"
 
-#: C/gs-switch-tasks.page:125(item/p)
+#: C/gs-switch-tasks.page:127(item/p)
 #: C/gs-use-windows-workspaces.page:117(item/p)
 msgid ""
 "To maximize a window along a side of the screen, grab the window's titlebar "
@@ -1654,7 +1817,7 @@ msgstr ""
 "स्क्रीनला लागून पटल मोठे करण्यासाठी, पटलाची शीर्षकपट्टी पकडून उजवीकडे किंवा "
 "डावीकडे ओढा."
 
-#: C/gs-switch-tasks.page:127(item/p)
+#: C/gs-switch-tasks.page:129(item/p)
 #: C/gs-use-windows-workspaces.page:119(item/p)
 msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
@@ -1663,16 +1826,17 @@ msgstr ""
 "जेव्हा अर्धी स्क्रीन दृष्टीवेधली असेल, मोठे करण्यासाठी स्क्रीनला लागून "
 "निवडलेला पटल सोडा."
 
-#: C/gs-switch-tasks.page:129(item/p)
+#: C/gs-switch-tasks.page:131(item/p)
 #: C/gs-use-windows-workspaces.page:121(item/p)
 msgid ""
 "To maximize two windows side-by-side, grab the titlebar of the second window "
 "and drag it to the opposite side of the screen."
 msgstr ""
 "दोन पटल आजूबाजूला मोठे करण्यासाठी, दुसऱ्या पटलाची शीर्षकपट्टी पकडून "
-"स्क्रीनच्या विरुद्ध दिशेला ओढा."
+"स्क्रीनच्या विरुद्ध "
+"दिशेला ओढा."
 
-#: C/gs-switch-tasks.page:131(item/p)
+#: C/gs-switch-tasks.page:133(item/p)
 #: C/gs-use-windows-workspaces.page:123(item/p)
 msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
@@ -1681,55 +1845,59 @@ msgstr ""
 "जेव्हा अर्धी स्क्रीन दृष्टीवेधली असेल, मोठे करण्यासाठी स्क्रीनच्या विरुद्ध "
 "दिशेला पटल सोडा."
 
-#: C/gs-switch-tasks.page:138(section/title)
+#: C/gs-switch-tasks.page:140(section/title)
 msgid "Switch between windows"
 msgstr "पटलांमध्ये स्थलांतर करा"
 
-#: C/gs-switch-tasks.page:141(item/p)
+#: C/gs-switch-tasks.page:143(item/p)
 msgid ""
 "Press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
 "key><key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which "
 "lists the currently open windows."
 msgstr ""
-"<gui>पटल परिवर्तक</gui> दाखवण्यासाठी <keyseq> <key href=\"help:gnome-help"
-"/keyboard-key-super\">Super </key><key> Tab</key></keyseq> दाबा, जे सध्या "
-"उघड्या पटलांची यादी दाखवतं."
+"<gui>पटल परिवर्तक</gui> दाखवण्यासाठी <keyseq> <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super </key><key> Tab</key></keyseq> दाबा, जे सध्या "
+"उघड्या "
+"पटलांची यादी दाखवतं."
 
-#: C/gs-switch-tasks.page:144(item/p)
+#: C/gs-switch-tasks.page:146(item/p)
 msgid ""
 "Release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> to "
 "select the next highlighted window in the <gui>window switcher</gui>."
 msgstr ""
 "<gui>पटल परिवर्तक</gui>मध्ये पुढचं दृष्टीवेधित पटल निवडण्यासाठी <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super </key> सोडा."
+"href=\"help:"
+"gnome-help/keyboard-key-super\">Super </key> सोडा."
 
-#: C/gs-switch-tasks.page:155(section/title)
+#: C/gs-switch-tasks.page:157(section/title)
 msgid "Use search to switch applications"
 msgstr "ॲप्लिकेशन्स बदलण्यासाठी शोध वापरा"
 
-#: C/gs-switch-tasks.page:158(item/p)
+#: C/gs-switch-tasks.page:160(item/p)
 msgid ""
 "Press the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key "
 "to show the <gui>Activities Overview</gui>."
 msgstr ""
-"<gui>कार्य सारांश</gui> दाखवण्यासाठी <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super </key> दाबा."
+"<gui>कार्य सारांश</gui> दाखवण्यासाठी <key href=\"help:gnome-help/keyboard-key-"
+"super\">Super </key> दाबा."
 
-#: C/gs-switch-tasks.page:160(item/p)
+#: C/gs-switch-tasks.page:162(item/p)
 msgid ""
 "Just start typing the name of the application you want to switch to. "
 "Applications matching what you have typed will appear as you type."
 msgstr ""
 "त्या ॲपलिकेशनचं नाव टाइप करायला सुरुवात करा ज्यावर तुम्हाला स्थलांतर करायचं "
-"आहे. टाइप केल्यानुसार मिळतेजुळते ॲपलिकेशन समोर येतील."
+"आहे. टाइप "
+"केल्यानुसार मिळतेजुळते ॲपलिकेशन समोर येतील."
 
-#: C/gs-switch-tasks.page:163(item/p)
+#: C/gs-switch-tasks.page:165(item/p)
 msgid ""
 "When the application that you want to switch to appears as the first result, "
 "press <key>Enter</key> to switch to it."
 msgstr ""
 "स्थलांतरासाठी जेव्हा इच्छित ॲपलिकेशन पहिलं निष्कर्ष म्हणून दिसेल, त्यावर "
-"स्थलांतरासाठी <key>Enter</key> दाबा."
+"स्थलांतरासाठी "
+"<key>Enter</key> दाबा."
 
 #: C/gs-thumb-responding-to-messages.svg:59(text/tspan)
 #, no-wrap
@@ -1951,7 +2119,8 @@ msgid ""
 "you type."
 msgstr ""
 "शोधण्यासाठी टाइप करायला सुरुवात करा. तुम्ही जसं टाइप करत आहात तसे मिळतेजुळते "
-"निष्कर्ष समोर येतील."
+"निष्कर्ष "
+"समोर येतील."
 
 #: C/gs-use-system-search.page:29(item/p)
 msgid ""
@@ -1959,7 +2128,8 @@ msgid ""
 "<key>Enter</key> to switch to the first highlighted result."
 msgstr ""
 "पहिला निष्कर्ष दर वेळेस दृष्टीवेधीत असतो आणि सगळ्यात उच्च दाखवला जातो. "
-"पहिल्या दृष्टीवेधीत निष्कर्षावर येण्याकरिता <key>Enter</key> दाबा."
+"पहिल्या "
+"दृष्टीवेधीत निष्कर्षावर येण्याकरिता <key>Enter</key> दाबा."
 
 #: C/gs-use-system-search.page:35(item/p)
 msgid "Items that may appear in the search results include:"
@@ -2006,11 +2176,14 @@ msgid ""
 "inside the application may give you better search results."
 msgstr ""
 "सिस्टीम शोध बऱ्याच ॲप्लिकेशन्सपासून निष्कर्ष एकत्र करतं. शोध निष्कर्षांच्या "
-"डाव्या हाताला, शोध निष्कर्ष पुरविणाऱ्या ॲप्लिकेशन्सचे चिन्ह तुम्ही बघू शकता. "
-"चिन्हासोबत निगडीत ॲप्लिकेशनच्या आतून शोध परत सुरु करण्यासाठी एका चिन्हावर "
-"क्लिक करा. कारण सगळ्यात जास्त मिळतेजुळते निष्कर्ष <gui>कार्य सारांश</gui>"
-"मध्ये दाखावले जातात, ॲप्लिकेशनच्या आतून शोधल्यावर तुम्हाला चांगले शोध "
-"निष्कर्ष मिळू शकतात."
+"डाव्या हाताला, "
+"शोध निष्कर्ष पुरविणाऱ्या ॲप्लिकेशन्सचे चिन्ह तुम्ही बघू शकता. चिन्हासोबत "
+"निगडीत "
+"ॲप्लिकेशनच्या आतून शोध परत सुरु करण्यासाठी एका चिन्हावर क्लिक करा. कारण "
+"सगळ्यात जास्त "
+"मिळतेजुळते निष्कर्ष <gui>कार्य सारांश</gui>मध्ये दाखावले जातात, ॲप्लिकेशनच्या "
+"आतून "
+"शोधल्यावर तुम्हाला चांगले शोध निष्कर्ष मिळू शकतात."
 
 #: C/gs-use-system-search.page:65(section/title)
 msgid "Customize search results"
@@ -2023,8 +2196,10 @@ msgid ""
 "want to show results for websites, photos, or music."
 msgstr ""
 "<gui>कार्य सारांश</gui> मधून तुम्हाला शोध निष्कर्षांमध्ये जे दाखवायचं असेल "
-"त्याबाबत GNOME सुधारणा करू देतं. उदहरण म्हणून, निष्कर्षांमध्ये वेबसाईट, छबी "
-"किंवा संगीत यापैकी काय दिसावं हे निवडू शकता."
+"त्याबाबत GNOME "
+"सुधारणा करू देतं. उदहरण म्हणून, निष्कर्षांमध्ये वेबसाईट, छबी किंवा संगीत "
+"यापैकी काय दिसावं हे "
+"निवडू शकता."
 
 #: C/gs-use-system-search.page:76(section/p)
 msgid "To customize what is displayed in the search results:"
@@ -2040,20 +2215,8 @@ msgid ""
 "the search location you want to enable or disable."
 msgstr ""
 "शोध स्थळांच्या यादीत, <gui>चालू/बंद</gui> बटण क्लिक करा जेणेकरून जे स्थळ "
-"तुम्हाला बंद किंवा चालू करायचं आहे ते शोधता येईल."
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-use-windows-workspaces.page:23(media)
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='399f502514acf244fd22ba774b1c812e'"
-msgstr ""
-"external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='399f502514acf244fd22ba774b1c812e'"
+"तुम्हाला बंद किंवा "
+"चालू करायचं आहे ते शोधता येईल."
 
 #: C/gs-use-windows-workspaces.page:15(info/title)
 msgctxt "link:trail"
@@ -2065,102 +2228,6 @@ msgctxt "link:seealso"
 msgid "A tutorial on using windows and workspaces"
 msgstr "पटल आणि वर्कस्पेसेस वापरण्याबाबत वर्गपाठ"
 
-#: C/gs-use-windows-workspaces.page:20(page/title)
-msgid "Use windows and workspaces"
-msgstr "पटल आणि वर्कस्पेसेस वापरा"
-
-#: C/gs-use-windows-workspaces.page:31(div/p)
-msgid ""
-"To maximize a window, grab the window's titlebar and drag it to the top of "
-"the screen."
-msgstr ""
-"पटल मोठे करण्यासाठी, पटलाची शीर्षकपट्टी पकडून स्क्रीनच्या उच्चापर्यंत ओढा."
-
-#: C/gs-use-windows-workspaces.page:35(div/p)
-msgid "When the screen is highlighted, release the window."
-msgstr "जेव्हा स्क्रीन दृष्टीवेधली असेल, पटल सोडा."
-
-#: C/gs-use-windows-workspaces.page:38(div/p)
-msgid ""
-"To unmaximize a window, grab the window's titlebar and drag it away from the "
-"edges of the screen."
-msgstr ""
-"पटल छोटे करण्यासाठी, पटलाची शीर्षकपट्टी पकडून स्क्रीनच्या टोकांपासून दूर ओढा."
-
-#: C/gs-use-windows-workspaces.page:42(div/p)
-msgid ""
-"You can also click the top bar to drag the window away and unmaximize it."
-msgstr "तुम्ही उच्च पट्टीवर क्लिक करून पटलाला दूर नेऊ शकता आणि छोटे करू शकता."
-
-#: C/gs-use-windows-workspaces.page:54(div/p)
-msgid ""
-"To maximize a window along the right side of the screen, grab the window's "
-"titlebar and drag it to the right."
-msgstr ""
-"स्क्रीनच्या उजव्या बाजूला पटल मोठे करण्यासाठी, पटलाची शीर्षकपट्टी पकडून "
-"उजवीकडे ओढा."
-
-#: C/gs-use-windows-workspaces.page:62(div/p)
-#: C/gs-use-windows-workspaces.page:133(item/p)
-msgid ""
-"To maximize a window using the keyboard, hold down the <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
-msgstr ""
-"पटल कीबोर्डने मोठे करण्यासाठी, <key href=\"help:gnome-help/keyboard-key-super"
-"\">Super</key> दाबून ठेवा आणि <key>↑</key> दाबा."
-
-#: C/gs-use-windows-workspaces.page:67(div/p)
-msgid ""
-"To restore the window to its unmaximized size, hold down the <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
-"key>."
-msgstr ""
-"पटल कीबोर्डने पूर्वस्थितीत छोटे करण्यासाठी, <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> दाबून ठेवा आणि <key>"
-"↓</key> दाबा."
-
-#: C/gs-use-windows-workspaces.page:72(div/p)
-#: C/gs-use-windows-workspaces.page:147(item/p)
-msgid ""
-"To maximize a window along the right side of the screen, hold down the <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
-"<key>→</key>."
-msgstr ""
-"पटल कीबोर्डने उजव्या बाजूला मोठे करण्यासाठी, <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> दाबून ठेवा आणि <key>"
-"→</key> दाबा."
-
-#: C/gs-use-windows-workspaces.page:77(div/p)
-#: C/gs-use-windows-workspaces.page:150(item/p)
-msgid ""
-"To maximize a window along the left side of the screen, hold down the <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
-"<key>←</key>."
-msgstr ""
-"पटल कीबोर्डने डाव्या बाजूला मोठे करण्यासाठी, <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> दाबून ठेवा आणि <key>"
-"←</key> दाबा."
-
-#: C/gs-use-windows-workspaces.page:82(div/p)
-msgid ""
-"To move to a workspace which is below the current workspace, press "
-"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
-"key><key>Page Down</key></keyseq>."
-msgstr ""
-"आत्ताच्या वर्कस्पेसपेक्षा खालच्या वर्कस्पेसवर जाण्यासाठी, <keyseq><key "
-"href=\"help:gnome-help/keyboard-key-super\">Super </"
-"key><key>Page Down</key></keyseq> दाबा."
-
-#: C/gs-use-windows-workspaces.page:87(div/p)
-msgid ""
-"To move to a workspace which is above the current workspace, press "
-"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
-"key><key>Page Up</key></keyseq>."
-msgstr ""
-"आत्ताच्या वर्कस्पेसपेक्षा वरच्या वर्कस्पेसवर जाण्यासाठी, <keyseq><key "
-"href=\"help:gnome-help/keyboard-key-super\">Super </key><key>Page "
-"Up</key></keyseq> दाबा."
-
 #: C/gs-use-windows-workspaces.page:97(section/title)
 msgid "Maximize and unmaximize windows"
 msgstr "पटल छोटे आणि मोठे करा"
@@ -2171,7 +2238,8 @@ msgid ""
 "grab the window's titlebar and drag it to the top of the screen."
 msgstr ""
 "पटल मोठे करण्यासाठी जेणेकरून तुमच्या डेस्कटॉपची जागा व्यापेल, पटलाची "
-"शीर्षकपट्टी पकडून स्क्रीनच्या उच्चापर्यंत ओढा."
+"शीर्षकपट्टी पकडून "
+"स्क्रीनच्या उच्चापर्यंत ओढा."
 
 #: C/gs-use-windows-workspaces.page:104(item/p)
 msgid "When the screen is highlighted, release the window to maximize it."
@@ -2212,8 +2280,8 @@ msgid ""
 "key><key>Page Down</key></keyseq>."
 msgstr ""
 "आत्ताच्या वर्कस्पेसपेक्षा खालच्या वर्कस्पेसवर जाण्यासाठी, <keyseq><key "
-"href=\"help:gnome-help/keyboard-key-super\">Super </"
-"key><key>Page Down</key></keyseq> दाबा."
+"href=\"help:gnome-"
+"help/keyboard-key-super\">Super </key><key>Page Down</key></keyseq> दाबा."
 
 #: C/gs-use-windows-workspaces.page:165(item/p)
 msgid ""
@@ -2222,8 +2290,8 @@ msgid ""
 "key><key>Page Up</key></keyseq>."
 msgstr ""
 "आत्ताच्या वर्कस्पेसपेक्षा वरच्या वर्कस्पेसवर जाण्यासाठी, <keyseq><key "
-"href=\"help:gnome-help/keyboard-key-super\">Super </key><key>Page "
-"Up</key></keyseq> दाबा."
+"href=\"help:gnome-"
+"help/keyboard-key-super\">Super </key><key>Page Up</key></keyseq> दाबा."
 
 #: C/gs-web-browser1-firefox-classic.svg:118(text/tspan)
 #, no-wrap
@@ -2269,3 +2337,9 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "GNOME ग्रह"
+
+#~ msgid "Launch Applications"
+#~ msgstr "ॲप्लिकेशन्स लॉँच करा"
+
+#~ msgid "Switch Tasks"
+#~ msgstr "कामे स्थलांतरित करा"
