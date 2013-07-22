@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-04-25 15:01+0000\n"
-"PO-Revision-Date: 2013-04-26 09:58+0300\n"
+"POT-Creation-Date: 2013-07-19 21:27+0000\n"
+"PO-Revision-Date: 2013-07-22 22:34+0300\n"
 "Last-Translator: Dimitris Spingos (Δημήτρης Σπίγγος) <dmtrs32@gmail.com>\n"
 "Language-Team: team@gnome.gr\n"
 "Language: el\n"
@@ -27,7 +27,7 @@ msgstr ""
 " Θάνος Τρυφωνίδης <tomtryf@gmail.com>, 2012\n"
 "Για περισσότερα δείτε http://www.gnome.gr/"
 
-#: C/index.page:8(page/title) C/getting-started.page:14(page/title)
+#: C/index.page:8(page/title) C/getting-started.page:15(page/title)
 #: C/gs-animation.xml:5(titles/t)
 msgid "Getting Started"
 msgstr "Ξεκινώντας"
@@ -41,14 +41,18 @@ msgstr "Ξεκινώντας"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:18(media) C/gs-launch-applications.page:25(media)
+#: C/getting-started.page:22(media) C/gs-launch-applications.page:25(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-launching-applications.webm' "
+#| "md5='074a675216f03881c0afb428d576eae3'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-launching-applications.webm' "
-"md5='074a675216f03881c0afb428d576eae3'"
+"md5='1182da390c28028167218c737619543d'"
 msgstr ""
 "external ref='figures/gnome-launching-applications.webm' "
-"md5='074a675216f03881c0afb428d576eae3'"
+"md5='1182da390c28028167218c737619543d'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -59,14 +63,18 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:57(media) C/gs-switch-tasks.page:23(media)
+#: C/getting-started.page:63(media) C/gs-use-windows-workspaces.page:23(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-windows-and-workspaces.webm' "
+#| "md5='53caf9578a37c07f8802c200d001064d'"
 msgctxt "_"
 msgid ""
-"external ref='figures/gnome-task-switching.webm' "
-"md5='bf6f8421e4064a71c05aadfb3c318e16'"
+"external ref='figures/gnome-windows-and-workspaces.webm' "
+"md5='399f502514acf244fd22ba774b1c812e'"
 msgstr ""
-"external ref='figures/gnome-task-switching.webm' "
-"md5='bf6f8421e4064a71c05aadfb3c318e16'"
+"external ref='figures/gnome-windows-and-workspaces.webm' "
+"md5='399f502514acf244fd22ba774b1c812e'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -77,40 +85,67 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:122(media) C/gs-respond-messages.page:24(media)
+#: C/getting-started.page:143(media) C/gs-switch-tasks.page:27(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-task-switching.webm' "
+#| "md5='bf6f8421e4064a71c05aadfb3c318e16'"
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-task-switching.webm' "
+"md5='a8fa976828cf7f4b4eac7cad346c65c1'"
+msgstr ""
+"external ref='figures/gnome-task-switching.webm' "
+"md5='a8fa976828cf7f4b4eac7cad346c65c1'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/getting-started.page:209(media) C/gs-respond-messages.page:24(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-responding-to-messages.webm' "
+#| "md5='ac44de55fba93ce64551c90fd6d30804'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-responding-to-messages.webm' "
-"md5='ac44de55fba93ce64551c90fd6d30804'"
+"md5='f8522ebe4ac4e7be319217399122025a'"
 msgstr ""
 "external ref='figures/gnome-responding-to-messages.webm' "
-"md5='ac44de55fba93ce64551c90fd6d30804'"
+"md5='f8522ebe4ac4e7be319217399122025a'"
 
-#: C/getting-started.page:9(info/desc)
+#: C/getting-started.page:10(info/desc)
 msgid "New to GNOME? Learn how to get around."
 msgstr "Νέος στο GNOME; Μάθετε πώς να τα καταφέρετε."
 
-#: C/getting-started.page:10(info/title)
+#: C/getting-started.page:11(info/title)
 msgctxt "link"
 msgid "Getting Started with GNOME"
 msgstr "Ξεκινώντας με το GNOME"
 
-#: C/getting-started.page:11(info/title)
+#: C/getting-started.page:12(info/title)
 msgctxt "text"
 msgid "Getting Started"
 msgstr "Ξεκινώντας"
 
-#: C/getting-started.page:20(caption/desc)
-msgid "Launch Applications"
+#: C/getting-started.page:24(caption/desc)
+#: C/gs-launch-applications.page:22(page/title)
+msgid "Launch applications"
 msgstr "Εκκίνηση εφαρμογών"
 
-#: C/getting-started.page:25(div/p) C/gs-animation.xml:4(titles/t)
+#: C/getting-started.page:29(div/p) C/gs-animation.xml:4(titles/t)
 #: C/gs-launch-applications.page:30(div/p)
 msgid "Launching Applications"
 msgstr "Εκκίνηση εφαρμογών"
 
-#: C/getting-started.page:28(div/p) C/getting-started.page:67(div/p)
-#: C/gs-launch-applications.page:33(div/p) C/gs-switch-tasks.page:31(div/p)
+#: C/getting-started.page:32(div/p) C/getting-started.page:153(div/p)
+#: C/gs-launch-applications.page:33(div/p) C/gs-switch-tasks.page:35(div/p)
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen."
@@ -118,49 +153,76 @@ msgstr ""
 "Μετακινήστε τον δείκτη του ποντικιού στη γωνία <gui>Ενέργειες</gui> στα πάνω "
 "αριστερά της οθόνης."
 
-#: C/getting-started.page:32(div/p) C/gs-launch-applications.page:37(div/p)
+#: C/getting-started.page:36(div/p) C/gs-launch-applications.page:37(div/p)
 msgid "Click the <gui>Show Applications</gui> icon."
 msgstr "Πατήστε το εικονίδιο <gui>Εμφάνιση εφαρμογών</gui>."
 
-#: C/getting-started.page:35(div/p) C/gs-launch-applications.page:40(div/p)
+#: C/getting-started.page:39(div/p) C/gs-launch-applications.page:40(div/p)
 msgid "Click the application you want to run, for example, Help."
 msgstr ""
 "Πατήστε την εφαρμογή που θέλετε να εκτελέσετε, για παράδειγμα, βοήθεια."
 
-#: C/getting-started.page:39(div/p) C/gs-launch-applications.page:44(div/p)
+#: C/getting-started.page:43(div/p) C/gs-launch-applications.page:44(div/p)
+#| msgid ""
+#| "Alternatively, use the keyboard to open the <gui>Activities Overview</"
+#| "gui> by pressing the <key xref=\"keyboard-key-super\">Super</key> key."
 msgid ""
 "Alternatively, use the keyboard to open the <gui>Activities Overview</gui> "
-"by pressing the <key xref=\"keyboard-key-super\">Super</key> key."
+"by pressing the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
+"key."
 msgstr ""
 "Εναλλακτικά, χρησιμοποιήστε το πληκτρολόγιο για να ανοίξετε το "
-"<gui>Επισκόπηση ενεργειών</gui> πατώντας το πλήκτρο <key xref=\"keyboard-key-"
-"super\">Λογότυπου</key>."
+"<gui>Επισκόπηση ενεργειών</gui> πατώντας το πλήκτρο του <key href=\"help"
+":gnome-help/keyboard-key-super\">Λογότυπου</key>."
 
-#: C/getting-started.page:44(div/p) C/gs-launch-applications.page:49(div/p)
+#: C/getting-started.page:48(div/p) C/gs-launch-applications.page:49(div/p)
 msgid "Start typing the name of the application you want to launch."
 msgstr ""
 "Αρχίστε να πληκτρολογείτε το όνομα της εφαρμογής που θέλετε να ξεκινήσετε."
 
-#: C/getting-started.page:48(div/p) C/gs-launch-applications.page:53(div/p)
+#: C/getting-started.page:52(div/p) C/gs-launch-applications.page:53(div/p)
 msgid "Press <key>Enter</key> to launch the application."
 msgstr "Πατήστε <key>Εισαγωγή-Enter</key> για να ξεκινήσετε την εφαρμογή."
 
-#: C/getting-started.page:59(caption/desc)
-msgid "Switch Tasks"
-msgstr "Εναλλαγή εργασιών"
+#: C/getting-started.page:65(caption/desc)
+#: C/gs-use-windows-workspaces.page:20(page/title)
+msgid "Use windows and workspaces"
+msgstr "Χρήση παραθύρων και χώρων εργασίας"
 
-#: C/getting-started.page:64(div/p) C/gs-animation.xml:8(titles/t)
-#: C/gs-switch-tasks.page:28(div/p)
-msgid "Switching Tasks"
-msgstr "Αλλαγή εργασιών"
+#: C/getting-started.page:70(div/p) C/gs-animation.xml:10(titles/t)
+#: C/gs-use-windows-workspaces.page:28(div/p)
+msgid "Windows and Workspaces"
+msgstr "Παράθυρα και χώροι εργασίας"
 
-#: C/getting-started.page:71(div/p) C/gs-switch-tasks.page:35(div/p)
-#: C/gs-switch-tasks.page:91(item/p)
-msgid "Click a window to switch to that task."
-msgstr "Πατήστε σε ένα παράθυρο για να αλλάξετε σε αυτήν την εργασία."
+#: C/getting-started.page:73(div/p) C/gs-use-windows-workspaces.page:31(div/p)
+msgid ""
+"To maximize a window, grab the window's titlebar and drag it to the top of "
+"the screen."
+msgstr ""
+"Για μεγιστοποίηση ενός παραθύρου, πάρτε τη γραμμή τίτλου του παραθύρου και "
+"μεταφέρτε το στην κορυφή της οθόνης."
 
-#: C/getting-started.page:74(div/p) C/gs-switch-tasks.page:38(div/p)
-#: C/gs-use-windows-workspaces.page:46(div/p)
+#: C/getting-started.page:77(div/p) C/gs-use-windows-workspaces.page:35(div/p)
+msgid "When the screen is highlighted, release the window."
+msgstr "Όταν η οθόνη επισημανθεί, ελευθερώστε το παράθυρο."
+
+#: C/getting-started.page:80(div/p) C/gs-use-windows-workspaces.page:38(div/p)
+msgid ""
+"To unmaximize a window, grab the window's titlebar and drag it away from the "
+"edges of the screen."
+msgstr ""
+"Για απομεγιστοποίηση ενός παραθύρου, πάρτε τη γραμμή τίτλου του παραθύρου "
+"και μεταφέρτε το από τις άκρες της οθόνης."
+
+#: C/getting-started.page:84(div/p) C/gs-use-windows-workspaces.page:42(div/p)
+msgid ""
+"You can also click the top bar to drag the window away and unmaximize it."
+msgstr ""
+"Μπορείτε επίσης να πατήσετε την πάνω γραμμή για να μεταφέρετε το παράθυρο "
+"μακριά και να το απομεγιστοποιήσετε."
+
+#: C/getting-started.page:88(div/p) C/getting-started.page:160(div/p)
+#: C/gs-switch-tasks.page:42(div/p) C/gs-use-windows-workspaces.page:46(div/p)
 msgid ""
 "To maximize a window along the left side of the screen, grab the window's "
 "titlebar and drag it to the left."
@@ -168,14 +230,129 @@ msgstr ""
 "Για μεγιστοποίηση ενός παραθύρου κατά μήκος της αριστερής πλευράς της "
 "οθόνης, πάρτε τη γραμμή τίτλου του παραθύρου και μεταφέρτε την στα αριστερά."
 
-#: C/getting-started.page:78(div/p) C/getting-started.page:86(div/p)
-#: C/gs-switch-tasks.page:42(div/p) C/gs-switch-tasks.page:50(div/p)
+#: C/getting-started.page:92(div/p) C/getting-started.page:100(div/p)
+#: C/getting-started.page:164(div/p) C/getting-started.page:172(div/p)
+#: C/gs-switch-tasks.page:46(div/p) C/gs-switch-tasks.page:54(div/p)
 #: C/gs-use-windows-workspaces.page:50(div/p)
 #: C/gs-use-windows-workspaces.page:58(div/p)
 msgid "When half of the screen is highlighted, release the window."
 msgstr "Όταν η μισή οθόνη επισημανθεί, ελευθερώστε το παράθυρο."
 
-#: C/getting-started.page:82(div/p) C/gs-switch-tasks.page:46(div/p)
+#: C/getting-started.page:96(div/p) C/gs-use-windows-workspaces.page:54(div/p)
+msgid ""
+"To maximize a window along the right side of the screen, grab the window's "
+"titlebar and drag it to the right."
+msgstr ""
+"Για μεγιστοποίηση ενός παραθύρου κατά μήκος της δεξιάς πλευράς της οθόνης, "
+"πάρτε τη γραμμή τίτλου του παραθύρου και μεταφέρτε την στα δεξιά."
+
+#: C/getting-started.page:104(div/p)
+#: C/gs-use-windows-workspaces.page:62(div/p)
+#: C/gs-use-windows-workspaces.page:133(item/p)
+#| msgid ""
+#| "To maximize a window using the keyboard, hold down the <key xref="
+#| "\"keyboard-key-super\">Super</key> key and press <key>↑</key>."
+msgid ""
+"To maximize a window using the keyboard, hold down the <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
+msgstr ""
+"Για μεγιστοποίηση ενός παραθύρου χρησιμοποιώντας το πληκτρολόγιο, κρατήστε "
+"πατημένο το πλήκτρο του <key href=\"help:gnome-help/keyboard-key-"
+"super\">λογότυπου</key> και πατήστε <key>↑</key>."
+
+#: C/getting-started.page:109(div/p)
+#: C/gs-use-windows-workspaces.page:67(div/p)
+#| msgid ""
+#| "To restore the window to its unmaximized size, hold down the <key xref="
+#| "\"keyboard-key-super\">Super</key> key and press <key>↓</key>."
+msgid ""
+"To restore the window to its unmaximized size, hold down the <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
+"key>."
+msgstr ""
+"Για επαναφορά παραθύρου στο αμεγιστοποίητο μέγεθος του, κρατήστε πατημένο το "
+"πλήκτρο του <key href=\"help:gnome-help/keyboard-key-super\">λογότυπου</key> "
+"και πατήστε <key>↓</key>."
+
+#: C/getting-started.page:114(div/p)
+#: C/gs-use-windows-workspaces.page:72(div/p)
+#: C/gs-use-windows-workspaces.page:147(item/p)
+#| msgid ""
+#| "To maximize a window along the right side of the screen, hold down the "
+#| "<key xref=\"keyboard-key-super\">Super</key> key and press <key>→</key>."
+msgid ""
+"To maximize a window along the right side of the screen, hold down the <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
+"<key>→</key>."
+msgstr ""
+"Για μεγιστοποίηση ενός παραθύρου κατά μήκος της δεξιάς πλευράς της οθόνης, "
+"κρατήστε πατημένο το πλήκτρο του <key href=\"help:gnome-help/keyboard-key-"
+"super\">λογότυπου</key> και πατήστε <key>→</key>."
+
+#: C/getting-started.page:119(div/p)
+#: C/gs-use-windows-workspaces.page:77(div/p)
+#: C/gs-use-windows-workspaces.page:150(item/p)
+#| msgid ""
+#| "To maximize a window along the left side of the screen, hold down the "
+#| "<key xref=\"keyboard-key-super\">Super</key> key and press <key>←</key>."
+msgid ""
+"To maximize a window along the left side of the screen, hold down the <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
+"<key>←</key>."
+msgstr ""
+"Για μεγιστοποίηση ενός παραθύρου κατά μήκος της αριστερής πλευράς της "
+"οθόνης, κρατήστε πατημένο το πλήκτρο του <key href=\"help:gnome-help"
+"/keyboard-key-super\">λογότυπου</key> και πατήστε <key>←</key>."
+
+#: C/getting-started.page:124(div/p)
+#: C/gs-use-windows-workspaces.page:82(div/p)
+#| msgid ""
+#| "To move to a workspace which is below the current workspace, press "
+#| "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key></"
+#| "keyseq>."
+msgid ""
+"To move to a workspace which is below the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Page Down</key></keyseq>."
+msgstr ""
+"Για μετακίνηση σε έναν χώρο εργασίας που είναι κάτω από τον τρέχοντα χώρο "
+"εργασίας, πατήστε το <keyseq><key href=\"help:gnome-help/keyboard-key-"
+"super\">πλήκτρο του λογότυπου</key><key>πλήκτρο της επόμενης "
+"σελίδας</key></keyseq>."
+
+#: C/getting-started.page:129(div/p)
+#: C/gs-use-windows-workspaces.page:87(div/p)
+#| msgid ""
+#| "To move to a workspace which is above the current workspace, press "
+#| "<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Page Up</key></"
+#| "keyseq>."
+msgid ""
+"To move to a workspace which is above the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Page Up</key></keyseq>."
+msgstr ""
+"Για μετακίνηση σε έναν χώρο εργασίας που είναι πάνω από τον τρέχοντα χώρο "
+"εργασίας, πατήστε το <keyseq><key href=\"help:gnome-help/keyboard-key-"
+"super\">πλήκτρο του λογότυπου</key> <key>πλήκτρο της προηγούμενης "
+"σελίδας</key></keyseq>."
+
+#: C/getting-started.page:145(caption/desc)
+#: C/gs-switch-tasks.page:21(page/title)
+#: C/gs-switch-tasks.page:95(section/title)
+msgid "Switch tasks"
+msgstr "Εναλλαγή εργασιών"
+
+#: C/getting-started.page:150(div/p) C/gs-animation.xml:8(titles/t)
+#: C/gs-switch-tasks.page:32(div/p)
+msgid "Switching Tasks"
+msgstr "Αλλαγή εργασιών"
+
+#: C/getting-started.page:157(div/p) C/gs-switch-tasks.page:39(div/p)
+#: C/gs-switch-tasks.page:104(item/p)
+msgid "Click a window to switch to that task."
+msgstr "Πατήστε σε ένα παράθυρο για να αλλάξετε σε αυτήν την εργασία."
+
+#: C/getting-started.page:168(div/p) C/gs-switch-tasks.page:50(div/p)
 msgid ""
 "To maximize a window along the right side, grab the window's titlebar and "
 "drag it to the right."
@@ -183,49 +360,63 @@ msgstr ""
 "Για μεγιστοποίηση ενός παραθύρου κατά μήκος της δεξιάς πλευράς, πάρτε τη "
 "γραμμή τίτλου του παραθύρου και μεταφέρτε την στα δεξιά."
 
-#: C/getting-started.page:90(div/p) C/gs-switch-tasks.page:54(div/p)
+#: C/getting-started.page:176(div/p) C/gs-switch-tasks.page:58(div/p)
+#| msgid ""
+#| "Press <keyseq><key xref=\"keyboard-key-super\">Super</key><key> Tab</"
+#| "key></keyseq> to show the <gui>window switcher</gui>."
 msgid ""
-"Press <keyseq><key xref=\"keyboard-key-super\">Super</key><key> Tab</key></"
-"keyseq> to show the <gui>window switcher</gui>."
+"Press <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
+"key><key> Tab</key></keyseq> to show the <gui>window switcher</gui>."
 msgstr ""
-"Πατήστε <keyseq><key xref=\"keyboard-key-super\">πλήκτρο λογότυπου</"
-"key><key>στηλοθέτης</key></keyseq> για να εμφανίσετε τον <gui>εναλλάκτη "
-"παραθύρου</gui>."
+"Πατήστε το <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">πλήκτρο "
+"του λογότυπου</key><key>στηλοθέτης</key></keyseq> για να εμφανίσετε τον "
+"<gui>εναλλάκτη παραθύρου</gui>."
 
-#: C/getting-started.page:94(div/p) C/gs-switch-tasks.page:58(div/p)
+#: C/getting-started.page:181(div/p) C/gs-switch-tasks.page:63(div/p)
+#| msgid ""
+#| "Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
+#| "highlighted window."
 msgid ""
-"Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
-"highlighted window."
+"Release <key href=\"help:gnome-help/keyboard-key-super\">Super </key> to "
+"select the next highlighted window."
 msgstr ""
-"Απελευθερώστε το <key xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key> "
-"για να επιλέξτε το επόμενο επισημασμένο παράθυρο."
+"Απελευθερώστε το <key href=\"help:gnome-help/keyboard-key-super\">πλήκτρο του "
+"λογότυπου</key> για να επιλέξτε το επόμενο επισημασμένο παράθυρο."
 
-#: C/getting-started.page:99(div/p) C/gs-switch-tasks.page:63(div/p)
+#: C/getting-started.page:186(div/p) C/gs-switch-tasks.page:68(div/p)
+#: C/gs-switch-tasks.page:149(item/p)
+#| msgid ""
+#| "To cycle through the list of open windows, do not release <key xref="
+#| "\"keyboard-key-super\">Super</key> but hold it down, and press <key>Tab</"
+#| "key>."
 msgid ""
-"To cycle through the list of open windows, do not release <key xref="
-"\"keyboard-key-super\">Super</key> but hold it down, and press <key>Tab</"
-"key>."
+"To cycle through the list of open windows, do not release <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> but hold it down, and press "
+"<key>Tab</key>."
 msgstr ""
 "Για να περιηγηθείτε στη λίστα των ανοικτών παραθύρων, μην αφήσετε το <key "
-"xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key>, αλλά κρατήστε το "
-"πατημένο και πατήστε <key>στηλοθέτης</key>."
+"href=\"help:gnome-help/keyboard-key-super\">πλήκτρο του λογότυπου</key>, αλλά "
+"κρατήστε το πατημένο και πατήστε <key>στηλοθέτης</key>."
 
-#: C/getting-started.page:104(div/p) C/gs-switch-tasks.page:68(div/p)
-#: C/gs-switch-tasks.page:132(item/p)
+#: C/getting-started.page:191(div/p) C/gs-switch-tasks.page:73(div/p)
+#| msgid ""
+#| "Press the <key xref=\"keyboard-key-super\">Super</key> key to show the "
+#| "<gui>Activities Overview</gui>."
 msgid ""
-"Press the <key xref=\"keyboard-key-super\">Super</key> key to show the "
-"<gui>Activities Overview</gui>."
+"Press the <key href=\"help:gnome-help/keyboard-key-super\">Super </key> key "
+"to show the <gui>Activities Overview</gui>."
 msgstr ""
-"Πατήστε το πλήκτρο <key xref=\"keyboard-key-super\">λογότυπου</key> για να "
-"εμφανίσετε την <gui>Επισκόπηση ενεργειών</gui>."
+"Πατήστε το πλήκτρο του <key href=\"help:gnome-help/keyboard-key-"
+"super\">λογότυπου</key> για να εμφανίσετε την <gui>Επισκόπηση "
+"ενεργειών</gui>."
 
-#: C/getting-started.page:108(div/p) C/gs-switch-tasks.page:72(div/p)
+#: C/getting-started.page:195(div/p) C/gs-switch-tasks.page:77(div/p)
 msgid "Start typing the name of the application you want to switch to."
 msgstr ""
 "Αρχίστε να πληκτρολογείτε το όνομα της εφαρμογής στην οποία θέλετε να "
 "μεταβείτε."
 
-#: C/getting-started.page:112(div/p) C/gs-switch-tasks.page:76(div/p)
+#: C/getting-started.page:199(div/p) C/gs-switch-tasks.page:81(div/p)
 msgid ""
 "When the application appears as the first result, press <key> Enter</key> to "
 "switch to it."
@@ -233,18 +424,18 @@ msgstr ""
 "Όταν η εφαρμογή εμφανιστεί ως το πρώτο αποτέλεσμα, πατήστε <key>Εισαγωγή</"
 "key> για να αλλάξετε σε αυτό."
 
-#: C/getting-started.page:124(caption/desc)
+#: C/getting-started.page:211(caption/desc)
 #: C/gs-respond-messages.page:21(page/title)
 msgid "Respond to messages"
 msgstr "Απάντηση σε μηνύματα"
 
-#: C/getting-started.page:130(div/p) C/gs-animation.xml:7(titles/t)
+#: C/getting-started.page:217(div/p) C/gs-animation.xml:7(titles/t)
 #: C/gs-respond-messages.page:29(div/p)
 msgid "Responding to Messages"
 msgstr "Απάντηση σε μηνύματα"
 
-#: C/getting-started.page:133(div/p) C/gs-respond-messages.page:32(div/p)
-#: C/gs-respond-messages.page:90(item/p)
+#: C/getting-started.page:220(div/p) C/gs-respond-messages.page:32(div/p)
+#: C/gs-respond-messages.page:91(item/p)
 msgid ""
 "Move your mouse to the message tray at the bottom of the screen and click "
 "the chat message."
@@ -252,7 +443,7 @@ msgstr ""
 "Μετακινήστε το ποντίκι σας στην περιοχή ειδοποιήσεων στο τέλος της οθόνης "
 "και πατήστε στο μήνυμα συνομιλίας."
 
-#: C/getting-started.page:137(div/p) C/gs-respond-messages.page:36(div/p)
+#: C/getting-started.page:224(div/p) C/gs-respond-messages.page:36(div/p)
 msgid ""
 "Start typing your reply and when finished, press <key>Enter </key> to send "
 "the reply."
@@ -260,17 +451,17 @@ msgstr ""
 "Αρχίστε να πληκτρολογείτε την απάντησή σας και όταν τελειώσετε, πατήστε το "
 "πλήκτρο <key>Εισαγωγή</key> για να στείλετε την απάντηση."
 
-#: C/getting-started.page:141(div/p) C/getting-started.page:162(div/p)
+#: C/getting-started.page:228(div/p) C/getting-started.page:249(div/p)
 #: C/gs-respond-messages.page:40(div/p) C/gs-respond-messages.page:61(div/p)
 msgid "Close the chat message."
 msgstr "Κλείστε το μήνυμα συνομιλίας."
 
-#: C/getting-started.page:144(div/p) C/gs-animation.xml:9(titles/t)
+#: C/getting-started.page:231(div/p) C/gs-animation.xml:9(titles/t)
 #: C/gs-respond-messages.page:43(div/p)
 msgid "Delayed Response"
 msgstr "Καθυστέρηση απάντησης"
 
-#: C/getting-started.page:147(div/p) C/gs-respond-messages.page:46(div/p)
+#: C/getting-started.page:234(div/p) C/gs-respond-messages.page:46(div/p)
 msgid ""
 "A chat message in the message tray disappears after a while if you do not "
 "move your mouse to the message tray."
@@ -278,33 +469,37 @@ msgstr ""
 "Ένα μήνυμα συνομιλίας στην περιοχή ειδοποιήσεων εξαφανίζεται μετά από λίγο, "
 "αν δεν μετακινήσετε το ποντίκι σας στην περιοχή ειδοποιήσεων."
 
-#: C/getting-started.page:151(div/p) C/gs-respond-messages.page:50(div/p)
+#: C/getting-started.page:238(div/p) C/gs-respond-messages.page:50(div/p)
 msgid ""
 "To get back to your unanswered message, move your mouse to the message tray."
 msgstr ""
 "Για να επιστρέψετε στο αναπάντητο μήνυμα, μετακινήστε το ποντίκι σας στην "
 "περιοχή ειδοποιήσεων."
 
-#: C/getting-started.page:155(div/p) C/gs-respond-messages.page:54(div/p)
+#: C/getting-started.page:242(div/p) C/gs-respond-messages.page:54(div/p)
 msgid "Click the person who sent you the message."
 msgstr "Πατήστε στο άτομο που σας έστειλε το μήνυμα."
 
-#: C/getting-started.page:158(div/p) C/getting-started.page:173(div/p)
-#: C/gs-respond-messages.page:57(div/p) C/gs-respond-messages.page:72(div/p)
+#: C/getting-started.page:245(div/p) C/getting-started.page:261(div/p)
+#: C/gs-respond-messages.page:57(div/p) C/gs-respond-messages.page:73(div/p)
 msgid "Start typing your reply and when finished, press <key>Enter </key>."
 msgstr ""
 "Αρχίστε να πληκτρολογείτε την απάντησή σας και όταν τελειώσετε, πατήστε το "
 "πλήκτρο <key>Εισαγωγή</key>."
 
-#: C/getting-started.page:165(div/p) C/gs-respond-messages.page:64(div/p)
+#: C/getting-started.page:252(div/p) C/gs-respond-messages.page:64(div/p)
+#| msgid ""
+#| "To show the message tray, press <keyseq> <key xref=\"keyboard-key-super"
+#| "\">Super</key><key>M</key></keyseq>"
 msgid ""
-"To show the message tray, press <keyseq> <key xref=\"keyboard-key-super"
-"\">Super</key><key>M</key></keyseq>"
+"To show the message tray, press <keyseq> <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> <key>M</key></keyseq>"
 msgstr ""
-"Για να εμφανίσετε την περιοχή ειδοποιήσεων, πατήστε <keyseq> <key xref="
-"\"keyboard-key-super\">Λογότυπος</key><key>M</key></keyseq>."
+"Για να εμφανίσετε την περιοχή ειδοποιήσεων, πατήστε το πλήκτρο του <keyseq> "
+"<key href=\"help:gnome-help/keyboard-key-"
+"super\">Λογότυπου</key><key>M</key></keyseq>."
 
-#: C/getting-started.page:169(div/p) C/gs-respond-messages.page:68(div/p)
+#: C/getting-started.page:257(div/p) C/gs-respond-messages.page:69(div/p)
 msgid ""
 "Use the arrow keys to select the person you want to reply to, and press "
 "<key>Enter</key>."
@@ -312,18 +507,18 @@ msgstr ""
 "Χρησιμοποιήστε τα πλήκτρα βελών για να επιλέξετε το άτομο στο οποίο θέλετε "
 "να απαντήσετε και πατήστε το πλήκτρο <key>Εισαγωγή</key>."
 
-#: C/getting-started.page:177(div/p) C/gs-respond-messages.page:76(div/p)
-#: C/gs-respond-messages.page:129(item/p)
+#: C/getting-started.page:265(div/p) C/gs-respond-messages.page:77(div/p)
+#: C/gs-respond-messages.page:131(item/p)
 msgid "Press <key>Esc</key> to close the chat message."
 msgstr "Πατήστε <key>Esc</key> για να κλείσετε το μήνυμα συνομιλίας."
 
-#: C/getting-started.page:180(div/p) C/gs-respond-messages.page:79(div/p)
+#: C/getting-started.page:268(div/p) C/gs-respond-messages.page:80(div/p)
 msgid "To dismiss the message tray, press <key>Esc</key>."
 msgstr ""
 "Για να διώξετε την περιοχή ειδοποιήσεων, πατήστε το πλήκτρο <key>Διαφυγή</"
 "key>."
 
-#: C/getting-started.page:189(links/title)
+#: C/getting-started.page:277(links/title)
 msgid "Common Tasks"
 msgstr "Συνηθισμένες εργασίες"
 
@@ -334,10 +529,6 @@ msgstr "Καλώς ήλθατε"
 #: C/gs-animation.xml:6(titles/t) C/gs-change-wallpaper.page:29(div/p)
 msgid "Changing Wallpaper"
 msgstr "Αλλαγή ταπετσαρίας"
-
-#: C/gs-animation.xml:10(titles/t) C/gs-use-windows-workspaces.page:28(div/p)
-msgid "Windows and Workspaces"
-msgstr "Παράθυρα και χώροι εργασίας"
 
 #: C/gs-animation.xml:11(titles/t)
 msgid "Changing Date, Time and Timezone"
@@ -375,6 +566,7 @@ msgstr "Δεξιό μισό της οθόνης"
 #: C/gs-thumb-task-switching.svg:158(text/tspan)
 #: C/gs-thumb-timezone.svg:47(text/tspan)
 #: C/gs-thumb-windows-and-workspaces.svg:95(text/tspan)
+#: C/gs-web-browser1-firefox.svg:122(text/tspan)
 #: C/gs-web-browser1.svg:122(text/tspan)
 #, no-wrap
 msgid "Activities"
@@ -512,28 +704,28 @@ msgstr ""
 "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
 
 #: C/gs-browse-web.page:10(credit/name)
-#: C/gs-browse-web-firefox.page:10(credit/name)
-#: C/gs-change-date-time-timezone.page:10(credit/name)
+#: C/gs-browse-web-firefox.page:11(credit/name)
+#: C/gs-change-date-time-timezone.page:11(credit/name)
 #: C/gs-change-wallpaper.page:10(credit/name)
 #: C/gs-connect-online-accounts.page:9(credit/name)
 #: C/gs-get-online.page:9(credit/name)
 #: C/gs-launch-applications.page:10(credit/name)
 #: C/gs-respond-messages.page:10(credit/name)
-#: C/gs-switch-tasks.page:9(credit/name)
+#: C/gs-switch-tasks.page:10(credit/name)
 #: C/gs-use-system-search.page:9(credit/name)
 #: C/gs-use-windows-workspaces.page:9(credit/name)
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
 #: C/gs-browse-web.page:13(credit/name)
-#: C/gs-browse-web-firefox.page:13(credit/name)
-#: C/gs-change-date-time-timezone.page:13(credit/name)
+#: C/gs-browse-web-firefox.page:14(credit/name)
+#: C/gs-change-date-time-timezone.page:14(credit/name)
 #: C/gs-change-wallpaper.page:13(credit/name)
 #: C/gs-connect-online-accounts.page:12(credit/name)
 #: C/gs-get-online.page:12(credit/name)
 #: C/gs-launch-applications.page:13(credit/name)
 #: C/gs-respond-messages.page:13(credit/name)
-#: C/gs-switch-tasks.page:12(credit/name)
+#: C/gs-switch-tasks.page:13(credit/name)
 #: C/gs-use-system-search.page:12(credit/name)
 #: C/gs-use-windows-workspaces.page:12(credit/name)
 msgid "Petr Kovar"
@@ -545,11 +737,11 @@ msgid "Browse the web"
 msgstr "Περιήγηση στον ιστό"
 
 #: C/gs-browse-web.page:21(page/title)
-#: C/gs-browse-web-firefox.page:21(page/title)
+#: C/gs-browse-web-firefox.page:22(page/title)
 msgid "Browse the web"
 msgstr "Περιήγηση στον ιστό"
 
-#: C/gs-browse-web.page:26(item/p) C/gs-browse-web-firefox.page:26(item/p)
+#: C/gs-browse-web.page:26(item/p) C/gs-browse-web-firefox.page:30(item/p)
 #: C/gs-launch-applications.page:64(item/p)
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
@@ -576,7 +768,7 @@ msgstr ""
 "search\">πληκτρολογώντας απλά</link> <em>web</em> στην <gui>Επισκόπηση "
 "ενεργειών</gui>."
 
-#: C/gs-browse-web.page:40(item/p) C/gs-browse-web-firefox.page:40(item/p)
+#: C/gs-browse-web.page:40(item/p) C/gs-browse-web-firefox.page:59(item/p)
 msgid ""
 "Click the address bar at the top of the browser window and start typing in "
 "the website you want to visit."
@@ -584,7 +776,7 @@ msgstr ""
 "Πατήστε στη γραμμή διευθύνσεων στην κορυφή του παραθύρου περιηγητή και "
 "αρχίστε να πληκτρολογείτε τον επιθυμητό ιστότοπο."
 
-#: C/gs-browse-web.page:42(item/p) C/gs-browse-web-firefox.page:42(item/p)
+#: C/gs-browse-web.page:42(item/p) C/gs-browse-web-firefox.page:61(item/p)
 msgid ""
 "Typing in a website starts searching for it in the browser history and "
 "bookmarks, so you do not need to remember the exact address."
@@ -593,7 +785,7 @@ msgstr ""
 "περιηγητή και τους σελιδοδείκτες, έτσι δεν χρειάζεστε να θυμόσαστε την "
 "ακριβή διεύθυνση."
 
-#: C/gs-browse-web.page:45(item/p) C/gs-browse-web-firefox.page:45(item/p)
+#: C/gs-browse-web.page:45(item/p) C/gs-browse-web-firefox.page:64(item/p)
 msgid ""
 "If the website is found in the history or bookmarks, a drop-down list is "
 "shown below the address bar."
@@ -601,7 +793,7 @@ msgstr ""
 "Εάν η ιστοσελίδα βρεθεί στο ιστορικό ή τους σελιδοδείκτες, μια πτυσσόμενη "
 "λίστα προβάλλεται κάτω από τη γραμμή διευθύνσεων."
 
-#: C/gs-browse-web.page:47(item/p) C/gs-browse-web-firefox.page:47(item/p)
+#: C/gs-browse-web.page:47(item/p) C/gs-browse-web-firefox.page:66(item/p)
 msgid ""
 "From the drop-down list, you can quickly select a website using the arrow "
 "keys."
@@ -609,7 +801,7 @@ msgstr ""
 "Από την πτυσσόμενη λίστα, μπορείτε γρήγορα να επιλέξετε μια ιστοσελίδα "
 "χρησιμοποιώντας τα πλήκτρα βελών."
 
-#: C/gs-browse-web.page:50(item/p) C/gs-browse-web-firefox.page:50(item/p)
+#: C/gs-browse-web.page:50(item/p) C/gs-browse-web-firefox.page:69(item/p)
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
 msgstr ""
 "Μετά την επιλογή μιας ιστοσελίδας, πατήστε <key>Εισαγωγή</key> για να την "
@@ -619,10 +811,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gs-browse-web-firefox.page:23(media)
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
+#: C/gs-browse-web-firefox.page:27(media)
 msgctxt "_"
 msgid ""
 "external ref='gs-web-browser1-firefox.svg' "
@@ -635,10 +824,24 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gs-browse-web-firefox.page:37(media)
+#: C/gs-browse-web-firefox.page:44(media)
 #| msgctxt "_"
 #| msgid ""
-#| "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
+#| "external ref='gs-web-browser1-firefox.svg' "
+#| "md5='f4958e0fad516473746fc14fbd0f4333'"
+msgctxt "_"
+msgid ""
+"external ref='gs-web-browser1-firefox-classic.svg' "
+"md5='fe09a8fa520c0f337bade21f8a5d0377'"
+msgstr ""
+"external ref='gs-web-browser1-firefox-classic.svg' "
+"md5='fe09a8fa520c0f337bade21f8a5d0377'"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-browse-web-firefox.page:56(media)
 msgctxt "_"
 msgid ""
 "external ref='gs-web-browser2-firefox.svg' "
@@ -647,10 +850,7 @@ msgstr ""
 "external ref='gs-web-browser2-firefox.svg' "
 "md5='d8f2a86ceef35a2e9a95fa54943ca76f'"
 
-#: C/gs-browse-web-firefox.page:29(item/p)
-#| msgid ""
-#| "Select the <app>Web</app> browser icon from the bar on the left-hand side "
-#| "of the screen."
+#: C/gs-browse-web-firefox.page:33(item/p)
 msgid ""
 "Select the <app>Firefox</app> browser icon from the bar on the left-hand "
 "side of the screen."
@@ -658,11 +858,7 @@ msgstr ""
 "Επιλέξτε το εικονίδιο περιηγητή <app>Firefox</app> από τη γραμμή στα "
 "αριστερά της οθόνης."
 
-#: C/gs-browse-web-firefox.page:33(note/p)
-#| msgid ""
-#| "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
-#| "search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
-#| "gui>."
+#: C/gs-browse-web-firefox.page:37(note/p)
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>Firefox</em> in the <gui>Activities "
@@ -672,55 +868,73 @@ msgstr ""
 "search\">πληκτρολογώντας απλά</link> <em>Firefox</em> στην <gui>Επισκόπηση "
 "ενεργειών</gui>."
 
+#: C/gs-browse-web-firefox.page:47(item/p)
+#| msgid ""
+#| "Move your mouse pointer to the <gui>Activities</gui> corner at the top "
+#| "left of the screen."
+msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
+msgstr "Πατήστε το μενού <gui>Εφαρμογές</gui> στα πάνω αριστερά της οθόνης."
+
+#: C/gs-browse-web-firefox.page:49(item/p)
+msgid ""
+"From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
+"guiseq>."
+msgstr ""
+"Από το μενού, επιλέξτε <guiseq><gui>Διαδίκτυο</gui><gui>Firefox</gui> "
+"</guiseq>."
+
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gs-change-date-time-timezone.page:25(media)
+#: C/gs-change-date-time-timezone.page:29(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-timezone.webm' "
+#| "md5='c9e227f87b1cf1abf40e3a6e6c01d8e9'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-timezone.webm' "
-"md5='c9e227f87b1cf1abf40e3a6e6c01d8e9'"
+"md5='a6eb6dd9f7ca9d428ff35aad8cbaab65'"
 msgstr ""
 "external ref='figures/gnome-timezone.webm' "
-"md5='c9e227f87b1cf1abf40e3a6e6c01d8e9'"
+"md5='a6eb6dd9f7ca9d428ff35aad8cbaab65'"
 
-#: C/gs-change-date-time-timezone.page:16(info/title)
+#: C/gs-change-date-time-timezone.page:17(info/title)
 msgctxt "link:trail"
 msgid "Change the date, time and timezone"
 msgstr "Αλλαγή ημερομηνίας, ώρας και ζώνης χρόνου"
 
-#: C/gs-change-date-time-timezone.page:18(info/title)
-#| msgid "Change the date, time and timezone"
+#: C/gs-change-date-time-timezone.page:19(info/title)
 msgctxt "link:seealso"
 msgid "A tutorial on changing the date, time and timezone"
 msgstr "Ένα μάθημα στην αλλαγή ημερομηνίας, ώρας και ζώνης χρόνου"
 
-#: C/gs-change-date-time-timezone.page:22(page/title)
-#: C/gs-change-date-time-timezone.page:54(section/title)
+#: C/gs-change-date-time-timezone.page:23(page/title)
+#: C/gs-change-date-time-timezone.page:63(section/title)
 msgid "Change the date, time and timezone"
 msgstr "Αλλαγή ημερομηνίας, ώρας και ζώνης χρόνου"
 
-#: C/gs-change-date-time-timezone.page:30(div/p)
+#: C/gs-change-date-time-timezone.page:34(div/p)
 msgid "Changing Date &amp; Time"
 msgstr "Αλλαγή ημερομηνίας &amp; ώρας"
 
-#: C/gs-change-date-time-timezone.page:33(div/p)
-#: C/gs-change-date-time-timezone.page:57(item/p)
+#: C/gs-change-date-time-timezone.page:37(div/p)
+#: C/gs-change-date-time-timezone.page:66(item/p)
 msgid "Click the clock on the top bar."
 msgstr "Πατήστε το ρολόι στην πάνω γραμμή."
 
-#: C/gs-change-date-time-timezone.page:36(div/p)
-#: C/gs-change-date-time-timezone.page:58(item/p)
+#: C/gs-change-date-time-timezone.page:40(div/p)
+#: C/gs-change-date-time-timezone.page:67(item/p)
 msgid "Select the <gui>Date &amp; Time Settings</gui> item."
 msgstr "Επιλέξτε το στοιχείο <gui>Ρυθμίσεις ημερομηνίας &amp; ώρας</gui>."
 
-#: C/gs-change-date-time-timezone.page:39(div/p)
-#: C/gs-change-date-time-timezone.page:63(item/p)
+#: C/gs-change-date-time-timezone.page:43(div/p)
+#: C/gs-change-date-time-timezone.page:77(item/p)
 msgid "Click on your location on the map."
 msgstr "Πατήστε στην τοποθεσία σας στον χάρτη."
 
-#: C/gs-change-date-time-timezone.page:42(div/p)
+#: C/gs-change-date-time-timezone.page:46(div/p)
 msgid ""
 "You can adjust the date and time by clicking on the arrows to choose the "
 "hour, minute, and year."
@@ -728,11 +942,11 @@ msgstr ""
 "Μπορείτε να ρυθμίσετε την ημερομηνία και ώρα πατώντας στα βέλη για να "
 "επιλέξετε ώρα, λεπτά και έτος."
 
-#: C/gs-change-date-time-timezone.page:46(div/p)
+#: C/gs-change-date-time-timezone.page:50(div/p)
 msgid "Close the window."
 msgstr "Κλείστε το παράθυρο."
 
-#: C/gs-change-date-time-timezone.page:61(item/p)
+#: C/gs-change-date-time-timezone.page:75(item/p)
 msgid ""
 "You may need to click the <gui>Unlock</gui> button and type the "
 "administrator's password."
@@ -740,7 +954,7 @@ msgstr ""
 "Μπορεί να χρειαστείτε να πατήσετε το κουμπί <gui>Ξεκλείδωμα</gui> και να "
 "πληκτρολογήσετε τον κωδικό πρόσβασης του διαχειριστή."
 
-#: C/gs-change-date-time-timezone.page:64(item/p)
+#: C/gs-change-date-time-timezone.page:78(item/p)
 msgid ""
 "This selects your current city, which you can also see and change in the "
 "drop-down list below the map."
@@ -748,7 +962,7 @@ msgstr ""
 "Αυτό επιλέγει την τρέχουσα πόλη, που μπορείτε επίσης να δείτε και να "
 "αλλάξετε στην πτυσσόμενη λίστα κάτω από τον χάρτη."
 
-#: C/gs-change-date-time-timezone.page:66(item/p)
+#: C/gs-change-date-time-timezone.page:80(item/p)
 msgid ""
 "On the left-hand side of the window, you can adjust the date and time by "
 "clicking on the arrows to choose the hour, minute, and year."
@@ -756,7 +970,7 @@ msgstr ""
 "Στα αριστερά του παραθύρου, μπορείτε να ρυθμίσετε την ημερομηνία και ώρα "
 "πατώντας στα βέλη για να επιλέξετε ώρα, λεπτά και έτος."
 
-#: C/gs-change-date-time-timezone.page:69(item/p)
+#: C/gs-change-date-time-timezone.page:83(item/p)
 msgid ""
 "Close the window by clicking the cross at the top-right corner of the window."
 msgstr ""
@@ -767,13 +981,17 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-change-wallpaper.page:24(media)
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/gnome-change-wallpaper.webm' "
+#| "md5='edf1a698f4da87db90f00b9b15897483'"
 msgctxt "_"
 msgid ""
 "external ref='figures/gnome-change-wallpaper.webm' "
-"md5='edf1a698f4da87db90f00b9b15897483'"
+"md5='132412626662c3b2f5ba11dd6c418457'"
 msgstr ""
 "external ref='figures/gnome-change-wallpaper.webm' "
-"md5='edf1a698f4da87db90f00b9b15897483'"
+"md5='132412626662c3b2f5ba11dd6c418457'"
 
 #: C/gs-change-wallpaper.page:16(info/title)
 msgctxt "link:trail"
@@ -781,7 +999,6 @@ msgid "Change the wallpaper"
 msgstr "Αλλαγή ταπετσαρίας"
 
 #: C/gs-change-wallpaper.page:18(info/title)
-#| msgid "Change the wallpaper"
 msgctxt "link:seealso"
 msgid "A tutorial on changing the wallpaper"
 msgstr "Ένα μάθημα στην αλλαγή ταπετσαρίας"
@@ -850,36 +1067,44 @@ msgstr "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:30(media)
+#| msgctxt "_"
+#| msgid "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
 msgctxt "_"
-msgid "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
-msgstr "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
+msgid "external ref='gs-goa2.svg' md5='ad86f77f168496c15fe171a0b2a4e8d6'"
+msgstr "external ref='gs-goa2.svg' md5='ad86f77f168496c15fe171a0b2a4e8d6'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:42(media)
+#| msgctxt "_"
+#| msgid "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
 msgctxt "_"
-msgid "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
-msgstr "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
+msgid "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
+msgstr "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:49(media)
+#| msgctxt "_"
+#| msgid "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
 msgctxt "_"
-msgid "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
-msgstr "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
+msgid "external ref='gs-goa4.svg' md5='a9c13c95ff7a2d0d7b89a5f52735dee0'"
+msgstr "external ref='gs-goa4.svg' md5='a9c13c95ff7a2d0d7b89a5f52735dee0'"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:58(media)
+#| msgctxt "_"
+#| msgid "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
 msgctxt "_"
-msgid "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
-msgstr "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
+msgid "external ref='gs-goa5.svg' md5='e570fa43b0ab4f854fc33de89721d44d'"
+msgstr "external ref='gs-goa5.svg' md5='e570fa43b0ab4f854fc33de89721d44d'"
 
 #: C/gs-connect-online-accounts.page:15(info/title)
 msgctxt "link:trail"
@@ -887,7 +1112,6 @@ msgid "Connect to online accounts"
 msgstr "Σύνδεση σε δικτυακούς λογαριασμούς"
 
 #: C/gs-connect-online-accounts.page:17(info/title)
-#| msgid "Connect to online accounts"
 msgctxt "link:seealso"
 msgid "A tutorial on connecting to online accounts"
 msgstr "Ένα μάθημα στη σύνδεση σε δικτυακούς λογαριασμούς"
@@ -897,12 +1121,12 @@ msgid "Connect to online accounts"
 msgstr "Σύνδεση σε δικτυακούς λογαριασμούς"
 
 #: C/gs-connect-online-accounts.page:26(item/p)
-#: C/gs-use-system-search.page:84(item/p)
+#: C/gs-use-system-search.page:79(item/p)
 msgid "Click your name on the top bar."
 msgstr "Πατήστε στο όνομα σας στη πάνω γραμμή."
 
 #: C/gs-connect-online-accounts.page:27(item/p)
-#: C/gs-use-system-search.page:85(item/p)
+#: C/gs-use-system-search.page:80(item/p)
 msgid "Select the <gui>Settings</gui> item."
 msgstr "Επιλέξτε το στοιχείο <gui>Ρυθμίσεις</gui>."
 
@@ -1096,7 +1320,7 @@ msgstr ""
 "δικτύου."
 
 #: C/gs-goa1.svg:21(Work/format) C/gs-goa2.svg:38(Work/format)
-#: C/gs-goa3.svg:38(Work/format) C/gs-goa4.svg:36(Work/format)
+#: C/gs-goa3.svg:51(Work/format) C/gs-goa4.svg:36(Work/format)
 #: C/gs-goa5.svg:35(Work/format) C/gs-go-online1.svg:220(Work/format)
 #: C/gs-go-online2.svg:219(Work/format) C/gs-go-online3.svg:256(Work/format)
 #: C/gs-search1.svg:88(Work/format) C/gs-search2.svg:124(Work/format)
@@ -1107,7 +1331,10 @@ msgstr ""
 #: C/gs-thumb-task-switching.svg:80(Work/format)
 #: C/gs-thumb-timezone.svg:32(Work/format)
 #: C/gs-thumb-windows-and-workspaces.svg:80(Work/format)
+#: C/gs-web-browser1-firefox-classic.svg:103(Work/format)
+#: C/gs-web-browser1-firefox.svg:108(Work/format)
 #: C/gs-web-browser1.svg:108(Work/format)
+#: C/gs-web-browser2-firefox.svg:100(Work/format)
 #: C/gs-web-browser2.svg:100(Work/format)
 msgid "image/svg+xml"
 msgstr "εικόνα/svg+xml"
@@ -1116,6 +1343,8 @@ msgstr "εικόνα/svg+xml"
 #: C/gs-go-online3.svg:269(text/tspan) C/gs-search1.svg:100(text/tspan)
 #: C/gs-thumb-timezone.svg:72(text/tspan)
 #: C/gs-thumb-timezone.svg:106(text/tspan)
+#: C/gs-web-browser1-firefox-classic.svg:115(text/tspan)
+#: C/gs-web-browser1-firefox.svg:120(text/tspan)
 #: C/gs-web-browser1.svg:120(text/tspan)
 #, no-wrap
 msgid "1"
@@ -1124,6 +1353,8 @@ msgstr "1"
 #: C/gs-goa1.svg:65(text/tspan) C/gs-go-online1.svg:283(text/tspan)
 #: C/gs-search2.svg:136(text/tspan) C/gs-thumb-timezone.svg:73(text/tspan)
 #: C/gs-thumb-timezone.svg:107(text/tspan)
+#: C/gs-web-browser1-firefox-classic.svg:137(text/tspan)
+#: C/gs-web-browser1-firefox.svg:153(text/tspan)
 #: C/gs-web-browser1.svg:153(text/tspan)
 #, no-wrap
 msgid "2"
@@ -1132,119 +1363,122 @@ msgstr "2"
 #: C/gs-goa2.svg:50(text/tspan) C/gs-go-online2.svg:231(text/tspan)
 #: C/gs-thumb-timezone.svg:74(text/tspan)
 #: C/gs-thumb-timezone.svg:108(text/tspan)
+#: C/gs-web-browser2-firefox.svg:164(text/tspan)
 #: C/gs-web-browser2.svg:163(text/tspan)
 #, no-wrap
 msgid "3"
 msgstr "3"
 
-#: C/gs-goa2.svg:81(text/tspan) C/gs-goa3.svg:81(text/tspan)
+#: C/gs-goa2.svg:81(text/tspan) C/gs-goa3.svg:113(text/tspan)
 #: C/gs-goa5.svg:79(text/tspan)
 #, no-wrap
 msgid "Online Accounts"
 msgstr "Διαδικτυακοί λογαριασμοί"
 
-#: C/gs-goa2.svg:83(text/tspan) C/gs-goa3.svg:83(text/tspan)
+#: C/gs-goa2.svg:83(text/tspan) C/gs-goa3.svg:115(text/tspan)
 #, no-wrap
 msgid "Add an online account"
 msgstr "Προσθήκη διαδικτυακού λογαριασμού"
 
-#: C/gs-goa3.svg:50(text/tspan) C/gs-thumb-timezone.svg:75(text/tspan)
+#: C/gs-goa3.svg:63(text/tspan) C/gs-thumb-timezone.svg:75(text/tspan)
 #: C/gs-thumb-timezone.svg:109(text/tspan)
+#: C/gs-web-browser2-firefox.svg:113(text/tspan)
 #: C/gs-web-browser2.svg:113(text/tspan)
 #, no-wrap
 msgid "4"
 msgstr "4"
 
-#: C/gs-goa3.svg:101(text/tspan)
+#: C/gs-goa3.svg:66(text/tspan)
 #, no-wrap
 msgid "Add Account"
 msgstr "Προσθήκη λογαριασμού"
 
-#: C/gs-goa3.svg:105(text/tspan) C/gs-goa4.svg:66(text/tspan)
-#: C/gs-goa4.svg:100(text/tspan)
+#: C/gs-goa3.svg:70(text/tspan) C/gs-goa4.svg:56(text/tspan)
+#: C/gs-goa4.svg:90(text/tspan)
 #, no-wrap
 msgid "Cancel"
 msgstr "Άκυρο"
 
-#: C/gs-goa3.svg:107(text/tspan) C/gs-goa4.svg:50(text/tspan)
+#: C/gs-goa3.svg:72(text/tspan) C/gs-goa4.svg:123(text/tspan)
 #: C/gs-goa5.svg:90(text/tspan) C/gs-goa5.svg:93(text/tspan)
 #, no-wrap
 msgid "Google"
 msgstr "Google"
 
-#: C/gs-goa3.svg:108(text/tspan) C/gs-goa4.svg:51(text/tspan)
+#: C/gs-goa3.svg:73(text/tspan) C/gs-goa4.svg:124(text/tspan)
 #, no-wrap
 msgid "Facebook"
 msgstr "Facebook"
 
-#: C/gs-goa3.svg:109(text/tspan) C/gs-goa4.svg:52(text/tspan)
+#: C/gs-goa3.svg:74(text/tspan) C/gs-goa4.svg:125(text/tspan)
 #, no-wrap
 msgid "Windows Live"
 msgstr "Windows Live"
 
-#: C/gs-goa3.svg:110(text/tspan) C/gs-goa4.svg:53(text/tspan)
+#: C/gs-goa3.svg:75(text/tspan) C/gs-goa4.svg:126(text/tspan)
 #, no-wrap
 msgid "Microsoft Exchange"
 msgstr "Microsoft Exchange"
 
-#: C/gs-goa3.svg:111(text/tspan) C/gs-goa4.svg:54(text/tspan)
+#: C/gs-goa3.svg:76(text/tspan) C/gs-goa4.svg:127(text/tspan)
 #, no-wrap
 msgid "Enterprise Login (Kerberos)"
 msgstr "Εταιρική σύνδεση (Kerberos)"
 
 #: C/gs-goa4.svg:48(text/tspan) C/gs-thumb-timezone.svg:76(text/tspan)
+#: C/gs-web-browser2-firefox.svg:259(text/tspan)
 #: C/gs-web-browser2.svg:261(text/tspan)
 #, no-wrap
 msgid "5"
 msgstr "5"
 
-#: C/gs-goa4.svg:62(text/tspan) C/gs-goa4.svg:96(text/tspan)
+#: C/gs-goa4.svg:52(text/tspan) C/gs-goa4.svg:86(text/tspan)
 #, no-wrap
 msgid "Google account"
 msgstr "Λογαριασμός Google"
 
-#: C/gs-goa4.svg:79(text/tspan)
+#: C/gs-goa4.svg:69(text/tspan)
 #, no-wrap
 msgid "SIGN UP"
 msgstr "Σύνδεση"
 
-#: C/gs-goa4.svg:80(text/tspan)
+#: C/gs-goa4.svg:70(text/tspan)
 #, no-wrap
 msgid "Sign in"
 msgstr "Σύνδεση"
 
-#: C/gs-goa4.svg:81(text/tspan)
+#: C/gs-goa4.svg:71(text/tspan)
 #, no-wrap
 msgid "Email"
 msgstr "Ηλεκτρονικό ταχυδρομείο"
 
-#: C/gs-goa4.svg:83(text/tspan)
+#: C/gs-goa4.svg:73(text/tspan)
 #, no-wrap
 msgid "Password"
 msgstr "Κωδικός πρόσβασης"
 
-#: C/gs-goa4.svg:86(text/tspan)
+#: C/gs-goa4.svg:76(text/tspan)
 #, no-wrap
 msgid "Sign In"
 msgstr "Σύνδεση"
 
-#: C/gs-goa4.svg:87(text/tspan) C/gs-goa5.svg:92(text/tspan)
+#: C/gs-goa4.svg:77(text/tspan) C/gs-goa5.svg:92(text/tspan)
 #: C/gs-goa5.svg:95(text/tspan)
 #, no-wrap
 msgid "john.doe@gmail.com"
 msgstr "john.doe@gmail.com"
 
-#: C/gs-goa4.svg:113(text/tspan)
+#: C/gs-goa4.svg:103(text/tspan)
 #, no-wrap
 msgid "Grant Access"
 msgstr "Παραχώρηση πρόσβασης"
 
-#: C/gs-goa4.svg:118(text/tspan)
+#: C/gs-goa4.svg:108(text/tspan)
 #, no-wrap
 msgid "Deny Access"
 msgstr "Άρνηση πρόσβασης"
 
-#: C/gs-goa4.svg:129(text/tspan) C/gs-thumb-timezone.svg:77(text/tspan)
+#: C/gs-goa4.svg:119(text/tspan) C/gs-thumb-timezone.svg:77(text/tspan)
 #, no-wrap
 msgid "6"
 msgstr "6"
@@ -1360,14 +1594,9 @@ msgid "Launch applications"
 msgstr "Εκκίνηση εφαρμογών"
 
 #: C/gs-launch-applications.page:19(info/title)
-#| msgid "Launching Applications"
 msgctxt "link:seealso"
 msgid "A tutorial on launching applications"
 msgstr "Ένα μάθημα στην εκκίνηση εφαρμογών"
-
-#: C/gs-launch-applications.page:22(page/title)
-msgid "Launch applications"
-msgstr "Εκκίνηση εφαρμογών"
 
 #: C/gs-launch-applications.page:61(section/title)
 msgid "Launch applications with the mouse"
@@ -1395,12 +1624,15 @@ msgstr "Έναρξη εφαρμογών με το πληκτρολόγιο"
 
 #: C/gs-launch-applications.page:78(item/p)
 #: C/gs-use-system-search.page:25(item/p)
+#| msgid ""
+#| "Open the <gui>Activities Overview</gui> by pressing the <key xref="
+#| "\"keyboard-key-super\">Super</key> key."
 msgid ""
-"Open the <gui>Activities Overview</gui> by pressing the <key xref=\"keyboard-"
-"key-super\">Super</key> key."
+"Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key."
 msgstr ""
-"Ανοίξτε την <gui>Επισκόπηση ενεργειών</gui> πατώντας το πλήκτρο <key xref="
-"\"keyboard-key-super\">Λογότυπου</key>."
+"Ανοίξτε την <gui>Επισκόπηση ενεργειών</gui> πατώντας το πλήκτρο του <key "
+"href=\"help:gnome-help/keyboard-key-super\">Λογότυπου</key>."
 
 #: C/gs-launch-applications.page:80(item/p)
 msgid ""
@@ -1432,17 +1664,16 @@ msgid "Respond to messages"
 msgstr "Απάντηση σε μηνύματα"
 
 #: C/gs-respond-messages.page:18(info/title)
-#| msgid "Responding to Messages"
 msgctxt "link:seealso"
 msgid "A tutorial on responding to messages"
 msgstr "Ένα μάθημα στην απάντηση σε μηνύματα"
 
-#: C/gs-respond-messages.page:87(section/title)
+#: C/gs-respond-messages.page:88(section/title)
 msgid "Respond to a chat message with the mouse"
 msgstr "Απάντηση σε μήνυμα συνομιλίας με το ποντίκι"
 
-#: C/gs-respond-messages.page:92(item/p)
-#: C/gs-respond-messages.page:127(item/p)
+#: C/gs-respond-messages.page:93(item/p)
+#: C/gs-respond-messages.page:129(item/p)
 msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send "
 "the reply."
@@ -1450,8 +1681,8 @@ msgstr ""
 "Αρχίστε να πληκτρολογείτε την απάντησή σας και όταν τελειώσετε, πατήστε το "
 "πλήκτρο <key>Εισαγωγή</key> για να στείλετε την απάντηση."
 
-#: C/gs-respond-messages.page:94(item/p)
-#: C/gs-respond-messages.page:113(item/p)
+#: C/gs-respond-messages.page:95(item/p)
+#: C/gs-respond-messages.page:114(item/p)
 msgid ""
 "To close the chat message, click the close button at the top right corner of "
 "the chat message."
@@ -1459,12 +1690,12 @@ msgstr ""
 "Για να κλείσετε το μήνυμα συνομιλίας, πατήστε το κουμπί κλεισίματος στην "
 "πάνω δεξιά γωνία του μηνύματος συνομιλίας."
 
-#: C/gs-respond-messages.page:101(section/title)
+#: C/gs-respond-messages.page:102(section/title)
 msgid "Delayed response to a chat message using the mouse"
 msgstr ""
 "Καθυστερημένη απάντηση σε ένα μήνυμα συνομιλίας χρησιμοποιώντας το ποντίκι"
 
-#: C/gs-respond-messages.page:104(item/p)
+#: C/gs-respond-messages.page:105(item/p)
 msgid ""
 "When a chat message appears in the message tray and you do not move your "
 "mouse to the message tray, the message disappears after a while."
@@ -1473,7 +1704,7 @@ msgstr ""
 "μετακινήσετε το ποντίκι σας στο δίσκο μηνυμάτων, το μήνυμα εξαφανίζεται μετά "
 "από λίγο."
 
-#: C/gs-respond-messages.page:107(item/p)
+#: C/gs-respond-messages.page:108(item/p)
 msgid ""
 "To get back to your unanswered message, move your mouse to the message tray "
 "at the very bottom of the screen."
@@ -1481,7 +1712,7 @@ msgstr ""
 "Για να επιστρέψετε στο αναπάντητο μήνυμα, μετακινήστε το ποντίκι σας στον "
 "δίσκο μηνυμάτων στον πυθμένα της οθόνης."
 
-#: C/gs-respond-messages.page:109(item/p)
+#: C/gs-respond-messages.page:110(item/p)
 msgid ""
 "When the message tray appears, click a small image that represents the "
 "person who sent you the message."
@@ -1489,7 +1720,7 @@ msgstr ""
 "Όταν ο δίσκος μηνυμάτων εμφανιστεί, πατήστε μια μικρή εικόνα που αναπαριστά "
 "το άτομο που σας έστειλε το μήνυμα."
 
-#: C/gs-respond-messages.page:111(item/p)
+#: C/gs-respond-messages.page:112(item/p)
 msgid ""
 "When the chat message is shown, start typing your reply and when finished, "
 "press <key>Enter</key> to send the reply."
@@ -1498,23 +1729,28 @@ msgstr ""
 "σας και όταν τελειώσετε, πατήστε το πλήκτρο <key>Εισαγωγή</key> για να "
 "στείλετε την απάντηση."
 
-#: C/gs-respond-messages.page:120(section/title)
+#: C/gs-respond-messages.page:121(section/title)
 msgid "Delayed response to a chat message using the keyboard"
 msgstr ""
 "Καθυστερημένη απάντηση σε ένα μήνυμα συνομιλίας χρησιμοποιώντας το "
 "πληκτρολόγιο"
 
-#: C/gs-respond-messages.page:122(item/p)
+#: C/gs-respond-messages.page:123(item/p)
+#| msgid ""
+#| "To get back to your unanswered chat messages, press <keyseq> <key xref="
+#| "\"keyboard-key-super\">Super</key><key>M</key></keyseq> to display the "
+#| "message tray that contains the messages."
 msgid ""
-"To get back to your unanswered chat messages, press <keyseq> <key xref="
-"\"keyboard-key-super\">Super</key><key>M</key></keyseq> to display the "
-"message tray that contains the messages."
+"To get back to your unanswered chat messages, press <keyseq> <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq> to "
+"display the message tray that contains the messages."
 msgstr ""
 "Για να επιστρέψετε στα αναπάντητα μηνύματα συνομιλίας, πατήστε <keyseq><key "
-"xref=\"keyboard-key-super\">Λογότυπος</key><key>Μ</key></keyseq> για να "
-"εμφανίσετε την περιοχή μηνυμάτων που περιέχει τα μηνύματα."
+"href=\"help:gnome-help/keyboard-key-"
+"super\">Λογότυπος</key><key>Μ</key></keyseq> για να εμφανίσετε την περιοχή "
+"μηνυμάτων που περιέχει τα μηνύματα."
 
-#: C/gs-respond-messages.page:125(item/p)
+#: C/gs-respond-messages.page:127(item/p)
 msgid ""
 "Use the arrow keys to select a small image representing the person you want "
 "to reply to, and press <key>Enter</key>."
@@ -1523,13 +1759,17 @@ msgstr ""
 "αντιπροσωπεύει το άτομο στο οποίο θέλετε να απαντήσετε και πατήστε το "
 "πλήκτρο <key>Εισαγωγή</key>."
 
-#: C/gs-respond-messages.page:130(item/p)
+#: C/gs-respond-messages.page:132(item/p)
+#| msgid ""
+#| "To dismiss the message tray, press <key>Esc</key> or <keyseq> <key xref="
+#| "\"keyboard-key-super\">Super</key><key>M</key></keyseq>."
 msgid ""
-"To dismiss the message tray, press <key>Esc</key> or <keyseq> <key xref="
-"\"keyboard-key-super\">Super</key><key>M</key></keyseq>."
+"To dismiss the message tray, press <key>Esc</key> or <keyseq> <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>."
 msgstr ""
 "Για να διώξετε την περιοχή μηνυμάτων, πατήστε <key>Esc</key> ή <keyseq> <key "
-"xref=\"keyboard-key-super\">Λογότυπος</key><key>M</key></keyseq>."
+"href=\"help:gnome-help/keyboard-key-"
+"super\">Λογότυπος</key><key>M</key></keyseq>."
 
 #: C/gs-search1.svg:200(text/tspan)
 #, no-wrap
@@ -1582,6 +1822,7 @@ msgid "Developer Conference 2012"
 msgstr "Διάσκεψη προγραμματιστών 2012"
 
 #: C/gs-search2.svg:265(text/tspan)
+#: C/gs-web-browser2-firefox.svg:218(text/tspan)
 #, no-wrap
 msgid "Firefox"
 msgstr "Firefox"
@@ -1617,22 +1858,17 @@ msgstr "Φωτογραφίες"
 msgid "Music"
 msgstr "Μουσική"
 
-#: C/gs-switch-tasks.page:15(info/title)
+#: C/gs-switch-tasks.page:16(info/title)
 msgctxt "link:trail"
 msgid "Switch tasks"
 msgstr "Εναλλαγή εργασιών"
 
-#: C/gs-switch-tasks.page:17(info/title)
+#: C/gs-switch-tasks.page:18(info/title)
 msgctxt "link:seealso"
 msgid "A tutorial on switching tasks"
 msgstr "Ένα μάθημα στην αλλαγή εργασιών"
 
-#: C/gs-switch-tasks.page:20(page/title)
-#: C/gs-switch-tasks.page:85(section/title)
-msgid "Switch tasks"
-msgstr "Εναλλαγή εργασιών"
-
-#: C/gs-switch-tasks.page:88(item/p)
+#: C/gs-switch-tasks.page:101(item/p)
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen to show the <gui>Activities Overview</gui> where you can see "
@@ -1643,12 +1879,29 @@ msgstr ""
 "gui>, όπου μπορείτε να δείτε τις τρέχουσες εκτελούμενες εργασίες που "
 "εμφανίζονται ως μικρά παράθυρα."
 
-#: C/gs-switch-tasks.page:97(section/title)
+#: C/gs-switch-tasks.page:111(item/p)
+msgid ""
+"You can switch between tasks by using the <gui>window list</gui> at the "
+"bottom of the screen. Open tasks appear as buttons in the <gui>window list</"
+"gui>."
+msgstr ""
+"Μπορείτε να αλλάξετε μεταξύ των εργασιών χρησιμοποιώντας τη <gui>λίστα "
+"παραθύρων</gui> στο τέλος της οθόνης. Το άνοιγμα εργασιών εμφανίζεται ως "
+"κουμπιά στη <gui>λίστα παραθύρων</gui>."
+
+#: C/gs-switch-tasks.page:114(item/p)
+#| msgid "Click a window to switch to that task."
+msgid "Click a button in the <gui>window list</gui> to switch to that task."
+msgstr ""
+"Πατήστε ένα κουμπί στη <gui>λίστα παραθύρων</gui> για να μεταβείτε σε αυτήν "
+"την εργασία."
+
+#: C/gs-switch-tasks.page:124(section/title)
 #: C/gs-use-windows-workspaces.page:113(section/title)
 msgid "Tile windows"
 msgstr "Παράθεση παραθύρων"
 
-#: C/gs-switch-tasks.page:100(item/p)
+#: C/gs-switch-tasks.page:127(item/p)
 #: C/gs-use-windows-workspaces.page:117(item/p)
 msgid ""
 "To maximize a window along a side of the screen, grab the window's titlebar "
@@ -1658,7 +1911,7 @@ msgstr ""
 "τη γραμμή τίτλου του παραθύρου και μεταφέρτε την στα αριστερά ή δεξιά της "
 "οθόνης."
 
-#: C/gs-switch-tasks.page:102(item/p)
+#: C/gs-switch-tasks.page:129(item/p)
 #: C/gs-use-windows-workspaces.page:119(item/p)
 msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
@@ -1667,7 +1920,7 @@ msgstr ""
 "Όταν επισημανθεί η μισή οθόνη, ελευθερώστε το παράθυρο για να το "
 "μεγιστοποιήσετε κατά μήκος της επιλεγμένης πλευράς της οθόνης."
 
-#: C/gs-switch-tasks.page:104(item/p)
+#: C/gs-switch-tasks.page:131(item/p)
 #: C/gs-use-windows-workspaces.page:121(item/p)
 msgid ""
 "To maximize two windows side-by-side, grab the titlebar of the second window "
@@ -1676,7 +1929,7 @@ msgstr ""
 "Για μεγιστοποίηση δύο παραθύρων πλάι-πλάι, πάρτε τη γραμμή τίτλου του "
 "δεύτερου παραθύρου και μεταφέρτε την στην αντίθετη πλευρά της οθόνης."
 
-#: C/gs-switch-tasks.page:106(item/p)
+#: C/gs-switch-tasks.page:133(item/p)
 #: C/gs-use-windows-workspaces.page:123(item/p)
 msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
@@ -1685,44 +1938,53 @@ msgstr ""
 "Όταν επισημανθεί η μισή οθόνη, ελευθερώστε το παράθυρο για να το "
 "μεγιστοποιήσετε κατά μήκος της αντίθετης πλευράς της οθόνης."
 
-#: C/gs-switch-tasks.page:113(section/title)
+#: C/gs-switch-tasks.page:140(section/title)
 msgid "Switch between windows"
 msgstr "Εναλλαγή μεταξύ παραθύρων"
 
-#: C/gs-switch-tasks.page:116(item/p)
+#: C/gs-switch-tasks.page:143(item/p)
+#| msgid ""
+#| "Press <keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Tab</"
+#| "key></keyseq> to show the <gui>window switcher</gui>, which lists the "
+#| "currently open windows."
 msgid ""
-"Press <keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Tab</key></"
-"keyseq> to show the <gui>window switcher</gui>, which lists the currently "
-"open windows."
+"Press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which "
+"lists the currently open windows."
 msgstr ""
-"Πατήστε <keyseq><key xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key> "
-"<key>στηλοθέτης</key></keyseq> για να προβάλετε τον <gui>εναλλάκτη "
-"παραθύρων</gui>, που εμφανίζει τα τρέχοντα ανοικτά παράθυρα."
+"Πατήστε <keyseq><key href=\"help:gnome-help/keyboard-key-super\">πλήκτρο του "
+"λογότυπου</key> <key>στηλοθέτης</key></keyseq> για να προβάλετε τον "
+"<gui>εναλλάκτη παραθύρων</gui>, που εμφανίζει τα τρέχοντα ανοικτά παράθυρα."
 
-#: C/gs-switch-tasks.page:119(item/p)
+#: C/gs-switch-tasks.page:146(item/p)
+#| msgid ""
+#| "Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
+#| "highlighted window in the <gui>window switcher</gui>."
 msgid ""
-"Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
-"highlighted window in the <gui>window switcher</gui>."
+"Release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> to "
+"select the next highlighted window in the <gui>window switcher</gui>."
 msgstr ""
-"Απελευθερώστε το <key xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key> "
-"για να επιλέξτε το επόμενο επισημασμένο παράθυρο στον <gui>εναλλάκτη "
-"παραθύρων</gui>."
+"Απελευθερώστε το <key href=\"help:gnome-help/keyboard-key-super\">πλήκτρο του "
+"λογότυπου</key> για να επιλέξτε το επόμενο επισημασμένο παράθυρο στον "
+"<gui>εναλλάκτη παραθύρων</gui>."
 
-#: C/gs-switch-tasks.page:121(item/p)
-msgid ""
-"To cycle through the list of open windows, do not release <key xref="
-"\"keyboard-key-super\">Super</key> but hold it down, and press <key> Tab</"
-"key>."
-msgstr ""
-"Για να περιηγηθείτε στη λίστα των ανοικτών παραθύρων, μην αφήσετε το <key "
-"xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key>, αλλά κρατήστε το "
-"πατημένο και πατήστε <key>στηλοθέτης</key>."
-
-#: C/gs-switch-tasks.page:129(section/title)
+#: C/gs-switch-tasks.page:157(section/title)
 msgid "Use search to switch applications"
 msgstr "Χρησιμοποιήστε την αναζήτηση για εναλλαγή εφαρμογών"
 
-#: C/gs-switch-tasks.page:134(item/p)
+#: C/gs-switch-tasks.page:160(item/p)
+#| msgid ""
+#| "Press the <key xref=\"keyboard-key-super\">Super</key> key to show the "
+#| "<gui>Activities Overview</gui>."
+msgid ""
+"Press the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key "
+"to show the <gui>Activities Overview</gui>."
+msgstr ""
+"Πατήστε το πλήκτρο του <key href=\"help:gnome-help/keyboard-key-"
+"super\">λογότυπου</key> για να εμφανίσετε την <gui>Επισκόπηση "
+"ενεργειών</gui>."
+
+#: C/gs-switch-tasks.page:162(item/p)
 msgid ""
 "Just start typing the name of the application you want to switch to. "
 "Applications matching what you have typed will appear as you type."
@@ -1731,7 +1993,7 @@ msgstr ""
 "αλλάξετε. Οι εφαρμογές που ταιριάζουν αυτό που πληκτρολογείτε θα εμφανιστούν "
 "καθώς πληκτρολογείτε."
 
-#: C/gs-switch-tasks.page:137(item/p)
+#: C/gs-switch-tasks.page:165(item/p)
 msgid ""
 "When the application that you want to switch to appears as the first result, "
 "press <key>Enter</key> to switch to it."
@@ -1932,7 +2194,7 @@ msgstr "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gs-use-system-search.page:72(media)
+#: C/gs-use-system-search.page:67(media)
 msgctxt "_"
 msgid ""
 "external ref='gs-search-settings.svg' md5='448b4f7f7881d9e26bdf215515fe014e'"
@@ -1945,7 +2207,6 @@ msgid "Use the system search"
 msgstr "Χρησιμοποιήστε το σύστημα αναζήτησης"
 
 #: C/gs-use-system-search.page:17(info/title)
-#| msgid "Use the system search"
 msgctxt "link:seealso"
 msgid "A tutorial on using the system search"
 msgstr "Ένα μάθημα στη χρήση του συστήματος αναζήτησης"
@@ -1963,16 +2224,20 @@ msgstr ""
 "με αυτά που πληκτρολογείτε θα εμφανιστούν καθώς πληκτρολογείτε."
 
 #: C/gs-use-system-search.page:29(item/p)
+#| msgid ""
+#| "The first result is always highlighted and shown at the top. To switch to "
+#| "the first highlighted result press <key>Enter</key>."
 msgid ""
-"The first result is always highlighted and shown at the top. To switch to "
-"the first highlighted result press <key>Enter</key>."
+"The first result is always highlighted and shown at the top. Press "
+"<key>Enter</key> to switch to the first highlighted result."
 msgstr ""
 "Το πρώτο αποτέλεσμα επισημαίνεται πάντα και εμφανίζεται στην κορυφή. Για να "
 "μεταβείτε στο πρώτο επισημασμένο αποτέλεσμα, πατήστε το πλήκτρο "
 "<key>Εισαγωγή</key>."
 
 #: C/gs-use-system-search.page:35(item/p)
-msgid "Items that can appear in the search results include:"
+#| msgid "Items that can appear in the search results include:"
+msgid "Items that may appear in the search results include:"
 msgstr ""
 "Τα στοιχεία που μπορούν να εμφανιστούν στα αποτελέσματα αναζήτησης "
 "περιλαμβάνουν:"
@@ -1988,8 +2253,9 @@ msgid "matching settings,"
 msgstr "τις ρυθμίσεις που ταιριάζουν,"
 
 #: C/gs-use-system-search.page:40(item/p)
-msgid "matching contacts,"
-msgstr "τις επαφές που ταιριάζουν,"
+#| msgid "matching contacts,"
+msgid "matching contacts, and"
+msgstr "τις επαφές που ταιριάζουν και"
 
 #: C/gs-use-system-search.page:41(item/p)
 msgid "matching documents."
@@ -2010,45 +2276,32 @@ msgstr ""
 "πατήστε <key>Εισαγωγή</key>."
 
 #: C/gs-use-system-search.page:51(section/title)
-msgid "Types of results"
-msgstr "Τύποι αποτελεσμάτων"
+#| msgid "Use search to switch applications"
+msgid "Search from inside applications"
+msgstr "Αναζήτηση μέσα από τις εφαρμογές"
 
 #: C/gs-use-system-search.page:53(section/p)
 msgid ""
-"System search aggregates results from various applications. The first group "
-"of results are application launchers. Activating a launcher will start an "
-"application."
+"The system search aggregates results from various applications. On the left-"
+"hand side of the search results, you can see icons of applications that "
+"provided the search results. Click one of the icons to restart the search "
+"from inside the application associated with that icon. Because only the best "
+"matches are shown in the <gui>Activities Overview</gui>, searching from "
+"inside the application may give you better search results."
 msgstr ""
-"Η αναζήτηση του συστήματος ενσωματώνει αποτελέσματα από ποικίλες εφαρμογές. "
-"Η πρώτη ομάδα αποτελεσμάτων είναι εκκινητές εφαρμογών. Ενεργοποιώντας έναν "
-"εκκινητή θα ξεκινήσει μια εφαρμογή."
+"Το σύστημα αναζήτησης συγκεντρώνει αποτελέσματα από ποικίλες εφαρμογές. Στα "
+"αριστερά των αποτελεσμάτων αναζήτησης, μπορείτε να δείτε εικονίδια εφαρμογών "
+"που παρέχουν τα αποτελέσματα αναζήτησης. Πατήστε ένα από τα εικονίδια για "
+"την επανεκκίνηση της αναζήτησης μέσα από την συνδεμένη εφαρμογή με αυτό το "
+"εικονίδιο. Επειδή εμφανίζονται μόνο οι βέλτιστες συμφωνίες στην "
+"<gui>Επισκόπηση ενεργειών</gui>, η αναζήτηση μέσα από την εφαρμογή μπορεί να "
+"δώσει καλύτερα αποτελέσματα αναζήτησης."
 
-#: C/gs-use-system-search.page:56(section/p)
-msgid ""
-"Other types of results might include <app>settings</app>, <app>contacts</"
-"app> or <app>documents</app>. Each type of result is preceded with an icon "
-"of the application that provided the result (apart from the application "
-"launchers at the top). Only the best matches are presented in the overview, "
-"so if you want more scope for your search, you can click or use the arrow "
-"keys to navigate to the application icon on the left to take you to the "
-"application itself. As soon as the associated application starts, your "
-"performed query will be performed in the application."
-msgstr ""
-"Άλλοι τύποι αποτελεσμάτων μπορεί να περιλαμβάνουν <app>ρυθμίσεις</app>, "
-"<app>επαφές</app> ή <app>έγγραφα</app>. Κάθε τύπος αποτελέσματος προηγείται "
-"με ένα εικονίδιο της εφαρμογής που παρέχει το αποτέλεσμα (πέρα από τους "
-"εκκινητές εφαρμογών στην κορυφή). Μόνο οι βέλτιστες συμφωνίες εμφανίζονται "
-"στην επισκόπηση, έτσι εάν θέλετε περισσότερη εμβέλεια για την αναζήτησή σας, "
-"μπορείτε να πατήσετε ή να χρησιμοποιήσετε τα πλήκτρα βελών για περιήγηση στο "
-"εικονίδιο εφαρμογής στα αριστερά για να σας πάει στην ίδια την εφαρμογή. "
-"Μόλις η συσχετισμένη εφαρμογή ξεκινά, το εκτελούμενο ερώτημα θα εκτελεστεί "
-"στην εφαρμογή."
-
-#: C/gs-use-system-search.page:70(section/title)
+#: C/gs-use-system-search.page:65(section/title)
 msgid "Customize search results"
 msgstr "Προσαρμογή αποτελεσμάτων αναζήτησης"
 
-#: C/gs-use-system-search.page:75(note/p)
+#: C/gs-use-system-search.page:70(note/p)
 msgid ""
 "GNOME lets you customize what you want to display in the search results in "
 "the <gui>Activities Overview</gui>. For example, you can choose whether you "
@@ -2059,15 +2312,15 @@ msgstr ""
 "μπορείτε να επιλέξετε εάν θέλετε να εμφανίζονται αποτελέσματα για "
 "ιστοτόπους, φωτογραφίες ή μουσική."
 
-#: C/gs-use-system-search.page:81(section/p)
+#: C/gs-use-system-search.page:76(section/p)
 msgid "To customize what is displayed in the search results:"
 msgstr "Για να προσαρμόσετε το τι εμφανίζεται στα αποτελέσματα αναζήτησης:"
 
-#: C/gs-use-system-search.page:86(item/p)
+#: C/gs-use-system-search.page:81(item/p)
 msgid "From the list of items, select <gui>Search</gui>."
 msgstr "Από τη λίστα των στοιχείων, επιλέξτε <gui>Αναζητήστε</gui>."
 
-#: C/gs-use-system-search.page:87(item/p)
+#: C/gs-use-system-search.page:82(item/p)
 msgid ""
 "In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
 "the search location you want to enable or disable."
@@ -2076,127 +2329,15 @@ msgstr ""
 "δίπλα στην τοποθεσία αναζήτησης που θέλετε να ενεργοποιήσετε ή να "
 "απενεργοποιήσετε."
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-use-windows-workspaces.page:23(media)
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='53caf9578a37c07f8802c200d001064d'"
-msgstr ""
-"external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='53caf9578a37c07f8802c200d001064d'"
-
 #: C/gs-use-windows-workspaces.page:15(info/title)
 msgctxt "link:trail"
 msgid "Use windows and workspaces"
 msgstr "Χρήση παραθύρων και χώρων εργασίας"
 
 #: C/gs-use-windows-workspaces.page:17(info/title)
-#| msgid "Use windows and workspaces"
 msgctxt "link:seealso"
 msgid "A tutorial on using windows and workspaces"
 msgstr "Ένα μάθημα στη χρήση παραθύρων και χώρων εργασίας"
-
-#: C/gs-use-windows-workspaces.page:20(page/title)
-msgid "Use windows and workspaces"
-msgstr "Χρήση παραθύρων και χώρων εργασίας"
-
-#: C/gs-use-windows-workspaces.page:31(div/p)
-msgid ""
-"To maximize a window, grab the window's titlebar and drag it to the top of "
-"the screen."
-msgstr ""
-"Για μεγιστοποίηση ενός παραθύρου, πάρτε τη γραμμή τίτλου του παραθύρου και "
-"μεταφέρτε το στην κορυφή της οθόνης."
-
-#: C/gs-use-windows-workspaces.page:35(div/p)
-msgid "When the screen is highlighted, release the window."
-msgstr "Όταν η οθόνη επισημανθεί, ελευθερώστε το παράθυρο."
-
-#: C/gs-use-windows-workspaces.page:38(div/p)
-msgid ""
-"To unmaximize a window, grab the window's titlebar and drag it away from the "
-"edges of the screen."
-msgstr ""
-"Για απομεγιστοποίηση ενός παραθύρου, πάρτε τη γραμμή τίτλου του παραθύρου "
-"και μεταφέρτε το από τις άκρες της οθόνης."
-
-#: C/gs-use-windows-workspaces.page:42(div/p)
-msgid ""
-"You can also click the top bar to drag the window away and unmaximize it."
-msgstr ""
-"Μπορείτε επίσης να πατήσετε την πάνω γραμμή για να μεταφέρετε το παράθυρο "
-"μακριά και να το απομεγιστοποιήσετε."
-
-#: C/gs-use-windows-workspaces.page:54(div/p)
-msgid ""
-"To maximize a window along the right side of the screen, grab the window's "
-"titlebar and drag it to the right."
-msgstr ""
-"Για μεγιστοποίηση ενός παραθύρου κατά μήκος της δεξιάς πλευράς της οθόνης, "
-"πάρτε τη γραμμή τίτλου του παραθύρου και μεταφέρτε την στα δεξιά."
-
-#: C/gs-use-windows-workspaces.page:62(div/p)
-#: C/gs-use-windows-workspaces.page:133(item/p)
-msgid ""
-"To maximize a window using the keyboard, hold down the <key xref=\"keyboard-"
-"key-super\">Super</key> key and press <key>↑</key>."
-msgstr ""
-"Για μεγιστοποίηση ενός παραθύρου χρησιμοποιώντας το πληκτρολόγιο, κρατήστε "
-"πατημένο το πλήκτρο <key xref=\"keyboard-key-super\">λογότυπου</key> και "
-"πατήστε <key>↑</key>."
-
-#: C/gs-use-windows-workspaces.page:67(div/p)
-msgid ""
-"To restore the window to its unmaximized size, hold down the <key xref="
-"\"keyboard-key-super\">Super</key> key and press <key>↓</key>."
-msgstr ""
-"Για επαναφορά παραθύρου στο αμεγιστοποίητο μέγεθος του, κρατήστε πατημένο το "
-"πλήκτρο <key xref=\"keyboard-key-super\">λογότυπου</key> και πατήστε <key>↓</"
-"key>."
-
-#: C/gs-use-windows-workspaces.page:72(div/p)
-#: C/gs-use-windows-workspaces.page:147(item/p)
-msgid ""
-"To maximize a window along the right side of the screen, hold down the <key "
-"xref=\"keyboard-key-super\">Super</key> key and press <key>→</key>."
-msgstr ""
-"Για μεγιστοποίηση ενός παραθύρου κατά μήκος της δεξιάς πλευράς της οθόνης, "
-"κρατήστε πατημένο το πλήκτρο <key xref=\"keyboard-key-super\">λογότυπου</"
-"key> και πατήστε <key>→</key>."
-
-#: C/gs-use-windows-workspaces.page:77(div/p)
-#: C/gs-use-windows-workspaces.page:150(item/p)
-msgid ""
-"To maximize a window along the left side of the screen, hold down the <key "
-"xref=\"keyboard-key-super\">Super</key> key and press <key>←</key>."
-msgstr ""
-"Για μεγιστοποίηση ενός παραθύρου κατά μήκος της αριστερής πλευράς της "
-"οθόνης, κρατήστε πατημένο το πλήκτρο <key xref=\"keyboard-key-super"
-"\">λογότυπου</key> και πατήστε <key>←</key>."
-
-#: C/gs-use-windows-workspaces.page:82(div/p)
-msgid ""
-"To move to a workspace which is below the current workspace, press "
-"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key></"
-"keyseq>."
-msgstr ""
-"Για μετακίνηση σε έναν χώρο εργασίας που είναι κάτω από τον τρέχοντα χώρο "
-"εργασίας, πατήστε <keyseq><key xref=\"keyboard-key-super\">πλήκτρο "
-"λογότυπου</key><key>πλήκτρο σελίδα κάτω</key></keyseq>."
-
-#: C/gs-use-windows-workspaces.page:87(div/p)
-msgid ""
-"To move to a workspace which is above the current workspace, press "
-"<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Page Up</key></"
-"keyseq>."
-msgstr ""
-"Για μετακίνηση σε έναν χώρο εργασίας που είναι πάνω από τον τρέχοντα χώρο "
-"εργασίας, πατήστε <keyseq><key xref=\"keyboard-key-super\">πλήκτρο "
-"λογότυπου</key> <key>πλήκτρο σελίδας επάνω</key></keyseq>."
 
 #: C/gs-use-windows-workspaces.page:97(section/title)
 msgid "Maximize and unmaximize windows"
@@ -2231,13 +2372,16 @@ msgstr ""
 "Μεγιστοποίηση και απομεγιστοποίηση παραθύρων χρησιμοποιώντας ρο πληκτρολόγιο"
 
 #: C/gs-use-windows-workspaces.page:136(item/p)
+#| msgid ""
+#| "To unmaximize a window using the keyboard, hold down the <key xref="
+#| "\"keyboard-key-super\">Super</key> key and press <key>↓</key>."
 msgid ""
-"To unmaximize a window using the keyboard, hold down the <key xref="
-"\"keyboard-key-super\">Super</key> key and press <key>↓</key>."
+"To unmaximize a window using the keyboard, hold down the <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</key>."
 msgstr ""
 "Για απομεγιστοποίηση ενός παραθύρου χρησιμοποιώντας το πληκτρολόγιο, "
-"κρατήστε πατημένο το πλήκτρο <key xref=\"keyboard-key-super\">λογότυπου</"
-"key> και πατήστε <key>↓</key>."
+"κρατήστε πατημένο το πλήκτρο του <key href=\"help:gnome-help/keyboard-key-"
+"super\">λογότυπου</key> και πατήστε <key>↓</key>."
 
 #: C/gs-use-windows-workspaces.page:144(section/title)
 msgid "Tile windows using the keyboard"
@@ -2248,54 +2392,151 @@ msgid "Switch workspaces using the keyboard"
 msgstr "Εναλλαγή χώρων εργασίας χρησιμοποιώντας το πληκτρολόγιο"
 
 #: C/gs-use-windows-workspaces.page:162(item/p)
+#| msgid ""
+#| "To move to a workspace which is below the current workspace, press "
+#| "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key></"
+#| "keyseq>."
 msgid ""
 "To move to a workspace which is below the current workspace, press "
-"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key> </"
-"keyseq>."
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
+"key><key>Page Down</key></keyseq>."
 msgstr ""
 "Για μετακίνηση σε έναν χώρο εργασίας που είναι κάτω από τον τρέχοντα χώρο "
-"εργασίας, πατήστε <keyseq><key xref=\"keyboard-key-super\">πλήκτρο "
-"λογότυπου</key><key>πλήκτρο σελίδας κάτω</key> </keyseq>."
+"εργασίας, πατήστε <keyseq><key href=\"help:gnome-help/keyboard-key-"
+"super\">πλήκτρο του λογότυπου</key><key>πλήκτρο επόμενης "
+"σελίδας</key></keyseq>."
 
 #: C/gs-use-windows-workspaces.page:165(item/p)
+#| msgid ""
+#| "To move to a workspace which is above the current workspace, press "
+#| "<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Page Up</key></"
+#| "keyseq>."
 msgid ""
 "To move to a workspace which is above the current workspace, press "
-"<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Up</key> </"
-"keyseq>."
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
+"key><key>Page Up</key></keyseq>."
 msgstr ""
 "Για μετακίνηση σε έναν χώρο εργασίας που είναι πάνω από τον τρέχοντα χώρο "
-"εργασίας, πατήστε <keyseq><key xref=\"keyboard-key-super\">πλήκτρο "
-"λογότυπου</key><key>πλήκτρο σελίδας επάνω</key> </keyseq>."
+"εργασίας, πατήστε το <keyseq><key href=\"help:gnome-help/keyboard-key-"
+"super\">πλήκτρο του λογότυπου</key> <key>πλήκτρο προηγούμενης "
+"σελίδας</key></keyseq>."
 
+#: C/gs-web-browser1-firefox-classic.svg:118(text/tspan)
+#, no-wrap
+#| msgid "Launch Applications"
+msgid "Applications"
+msgstr "Εφαρμογές"
+
+#: C/gs-web-browser2-firefox.svg:147(text/tspan)
 #: C/gs-web-browser2.svg:151(text/tspan)
 #, no-wrap
 msgid "gnome"
 msgstr "gnome"
 
+#: C/gs-web-browser2-firefox.svg:151(text/tspan)
 #: C/gs-web-browser2.svg:155(text/tspan)
 #, no-wrap
 msgid "Planet Gnome"
 msgstr "Πλανήτης Gnome"
 
+#: C/gs-web-browser2-firefox.svg:152(text/tspan)
 #: C/gs-web-browser2.svg:156(text/tspan)
 #, no-wrap
 msgid "GNOME 3"
 msgstr "GNOME 3"
 
+#: C/gs-web-browser2-firefox.svg:153(text/tspan)
 #: C/gs-web-browser2.svg:157(text/tspan)
 #, no-wrap
 msgid "http://planet.gnome.org"
 msgstr "http://planet.gnome.org"
 
+#: C/gs-web-browser2-firefox.svg:154(text/tspan)
 #: C/gs-web-browser2.svg:158(text/tspan)
 #, no-wrap
 msgid "http://gnome.org"
 msgstr "http://gnome.org"
 
+#: C/gs-web-browser2-firefox.svg:275(text/tspan)
+#, no-wrap
+#| msgid "http://planet.gnome.org"
+msgid "planet.gnome.org"
+msgstr "planet.gnome.org"
+
 #: C/gs-web-browser2.svg:252(text/tspan)
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Πλανήτης GNOME"
+
+#~ msgid "Switch Tasks"
+#~ msgstr "Εναλλαγή εργασιών"
+
+#~ msgctxt "_"
+#~ msgid "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
+#~ msgstr "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
+
+#~ msgctxt "_"
+#~ msgid "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
+#~ msgstr "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
+
+#~ msgid ""
+#~ "To cycle through the list of open windows, do not release <key xref="
+#~ "\"keyboard-key-super\">Super</key> but hold it down, and press <key> Tab</"
+#~ "key>."
+#~ msgstr ""
+#~ "Για να περιηγηθείτε στη λίστα των ανοικτών παραθύρων, μην αφήσετε το <key "
+#~ "xref=\"keyboard-key-super\">πλήκτρο λογότυπου</key>, αλλά κρατήστε το "
+#~ "πατημένο και πατήστε <key>στηλοθέτης</key>."
+
+#~ msgid "Types of results"
+#~ msgstr "Τύποι αποτελεσμάτων"
+
+#~ msgid ""
+#~ "System search aggregates results from various applications. The first "
+#~ "group of results are application launchers. Activating a launcher will "
+#~ "start an application."
+#~ msgstr ""
+#~ "Η αναζήτηση του συστήματος ενσωματώνει αποτελέσματα από ποικίλες "
+#~ "εφαρμογές. Η πρώτη ομάδα αποτελεσμάτων είναι εκκινητές εφαρμογών. "
+#~ "Ενεργοποιώντας έναν εκκινητή θα ξεκινήσει μια εφαρμογή."
+
+#~ msgid ""
+#~ "Other types of results might include <app>settings</app>, <app>contacts</"
+#~ "app> or <app>documents</app>. Each type of result is preceded with an "
+#~ "icon of the application that provided the result (apart from the "
+#~ "application launchers at the top). Only the best matches are presented in "
+#~ "the overview, so if you want more scope for your search, you can click or "
+#~ "use the arrow keys to navigate to the application icon on the left to "
+#~ "take you to the application itself. As soon as the associated application "
+#~ "starts, your performed query will be performed in the application."
+#~ msgstr ""
+#~ "Άλλοι τύποι αποτελεσμάτων μπορεί να περιλαμβάνουν <app>ρυθμίσεις</app>, "
+#~ "<app>επαφές</app> ή <app>έγγραφα</app>. Κάθε τύπος αποτελέσματος "
+#~ "προηγείται με ένα εικονίδιο της εφαρμογής που παρέχει το αποτέλεσμα (πέρα "
+#~ "από τους εκκινητές εφαρμογών στην κορυφή). Μόνο οι βέλτιστες συμφωνίες "
+#~ "εμφανίζονται στην επισκόπηση, έτσι εάν θέλετε περισσότερη εμβέλεια για "
+#~ "την αναζήτησή σας, μπορείτε να πατήσετε ή να χρησιμοποιήσετε τα πλήκτρα "
+#~ "βελών για περιήγηση στο εικονίδιο εφαρμογής στα αριστερά για να σας πάει "
+#~ "στην ίδια την εφαρμογή. Μόλις η συσχετισμένη εφαρμογή ξεκινά, το "
+#~ "εκτελούμενο ερώτημα θα εκτελεστεί στην εφαρμογή."
+
+#~ msgid ""
+#~ "To move to a workspace which is below the current workspace, press "
+#~ "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key> "
+#~ "</keyseq>."
+#~ msgstr ""
+#~ "Για μετακίνηση σε έναν χώρο εργασίας που είναι κάτω από τον τρέχοντα χώρο "
+#~ "εργασίας, πατήστε <keyseq><key xref=\"keyboard-key-super\">πλήκτρο "
+#~ "λογότυπου</key><key>πλήκτρο σελίδας κάτω</key> </keyseq>."
+
+#~ msgid ""
+#~ "To move to a workspace which is above the current workspace, press "
+#~ "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Up</key> </"
+#~ "keyseq>."
+#~ msgstr ""
+#~ "Για μετακίνηση σε έναν χώρο εργασίας που είναι πάνω από τον τρέχοντα χώρο "
+#~ "εργασίας, πατήστε <keyseq><key xref=\"keyboard-key-super\">πλήκτρο "
+#~ "λογότυπου</key><key>πλήκτρο σελίδας επάνω</key> </keyseq>."
 
 #~ msgctxt "_"
 #~ msgid ""
