@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-07-11 14:40+0000\n"
-"PO-Revision-Date: 2013-06-20 23:38+0100\n"
+"POT-Creation-Date: 2013-08-01 10:41+0000\n"
+"PO-Revision-Date: 2013-08-03 15:50+0100\n"
 "Last-Translator: Christian Kirbach <christian.kirbach@gmail.com>\n"
 "Language-Team: Deutsch <gnome-de@gnome.org>\n"
 "Language: de\n"
@@ -51,7 +51,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/gnome-launching-applications.webm' "
 "md5='1182da390c28028167218c737619543d'"
-msgstr "translated"
+msgstr "ok, Text wird beim Compilieren automatisch übersetzt"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -640,14 +640,13 @@ msgstr "Automatisch Datum und Uhrzeit einstellen"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-browse-web.page:23(media)
-#, fuzzy
 #| msgctxt "_"
 #| msgid ""
 #| "external ref='gs-web-browser1.svg' md5='c728997891819334e2a587515ff00eca'"
 msgctxt "_"
 msgid ""
 "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
-msgstr "translated"
+msgstr "ok, Text wird beim Compilieren automatisch übersetzt"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -769,7 +768,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-browse-web-firefox.page:27(media)
-#, fuzzy
 #| msgctxt "_"
 #| msgid ""
 #| "external ref='gs-web-browser1-firefox.svg' "
@@ -778,14 +776,13 @@ msgctxt "_"
 msgid ""
 "external ref='gs-web-browser1-firefox.svg' "
 "md5='f4958e0fad516473746fc14fbd0f4333'"
-msgstr "translated"
+msgstr "ok, Text wird beim Compilieren automatisch übersetzt"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-browse-web-firefox.page:44(media)
-#, fuzzy
 #| msgctxt "_"
 #| msgid ""
 #| "external ref='gs-web-browser2-firefox.svg' "
@@ -794,14 +791,13 @@ msgctxt "_"
 msgid ""
 "external ref='gs-web-browser1-firefox-classic.svg' "
 "md5='fe09a8fa520c0f337bade21f8a5d0377'"
-msgstr "translated"
+msgstr "ok, Text wird beim Compilieren automatisch übersetzt"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-browse-web-firefox.page:56(media)
-#, fuzzy
 #| msgctxt "_"
 #| msgid ""
 #| "external ref='gs-web-browser1-firefox.svg' "
@@ -810,7 +806,7 @@ msgctxt "_"
 msgid ""
 "external ref='gs-web-browser2-firefox.svg' "
 "md5='d8f2a86ceef35a2e9a95fa54943ca76f'"
-msgstr "translated"
+msgstr "ok, Text wird beim Compilieren automatisch übersetzt"
 
 #: C/gs-browse-web-firefox.page:33(item/p)
 msgid ""
@@ -831,20 +827,17 @@ msgstr ""
 "eintippen</link>"
 
 #: C/gs-browse-web-firefox.page:47(item/p)
-#, fuzzy
-#| msgid ""
-#| "Move your mouse pointer to the <gui>Activities</gui> corner at the top "
-#| "left of the screen."
 msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
 msgstr ""
-"Bewegen Sie den Mauszeiger zu der <gui>Aktivitäten</gui>-Ecke am linken "
-"oberen Rand des Bildschirms."
+"Klicken Sie auf das Menü <gui>Anwendungen</gui> in der linken oberen Ecke "
+"des Bildschirms."
 
 #: C/gs-browse-web-firefox.page:49(item/p)
 msgid ""
 "From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
 "guiseq>."
 msgstr ""
+"Wählen Sie im Menü <guiseq><gui>Internet</gui><gui>Firefox</gui> </guiseq>."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -925,11 +918,14 @@ msgstr ""
 "unterhalb der Karte sehen können."
 
 #: C/gs-change-date-time-timezone.page:80(item/p)
+#| msgid ""
+#| "On the left-hand side of the window, you can adjust the date and time by "
+#| "clicking on the arrows to choose the hour, minute, and year."
 msgid ""
-"On the left-hand side of the window, you can adjust the date and time by "
+"On the right-hand side of the window, you can adjust the date and time by "
 "clicking on the arrows to choose the hour, minute, and year."
 msgstr ""
-"An der linken Seite des Fensters können Sie Datum und Zeit anpassen, indem "
+"An der rechten Seite des Fensters können Sie Datum und Zeit anpassen, indem "
 "Sie auf die Pfeile klicken, um Stunde, Minute und Jahr zu wählen."
 
 #: C/gs-change-date-time-timezone.page:83(item/p)
@@ -944,7 +940,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-change-wallpaper.page:24(media)
-#, fuzzy
 #| msgctxt "_"
 #| msgid ""
 #| "external ref='figures/gnome-change-wallpaper.webm' "
@@ -953,7 +948,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/gnome-change-wallpaper.webm' "
 "md5='132412626662c3b2f5ba11dd6c418457'"
-msgstr "translated"
+msgstr ""
 
 #: C/gs-change-wallpaper.page:16(info/title)
 msgctxt "link:trail"
@@ -1031,48 +1026,44 @@ msgstr "translated"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:30(media)
-#, fuzzy
 #| msgctxt "_"
 #| msgid "external ref='gs-goa3.svg' md5='e4ae879bb449d9846d061c96b9070a9d'"
 msgctxt "_"
 msgid "external ref='gs-goa2.svg' md5='ad86f77f168496c15fe171a0b2a4e8d6'"
-msgstr "translated"
+msgstr "ok, Text wird beim Compilieren automatisch übersetzt"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:42(media)
-#, fuzzy
 #| msgctxt "_"
 #| msgid "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
 msgctxt "_"
 msgid "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-msgstr "translated"
+msgstr "ok, Text wird beim Compilieren automatisch übersetzt"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:49(media)
-#, fuzzy
 #| msgctxt "_"
 #| msgid "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
 msgctxt "_"
 msgid "external ref='gs-goa4.svg' md5='a9c13c95ff7a2d0d7b89a5f52735dee0'"
-msgstr "translated"
+msgstr "ok, Text wird beim Compilieren automatisch übersetzt"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-connect-online-accounts.page:58(media)
-#, fuzzy
 #| msgctxt "_"
 #| msgid "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
 msgctxt "_"
 msgid "external ref='gs-goa5.svg' md5='e570fa43b0ab4f854fc33de89721d44d'"
-msgstr "translated"
+msgstr "ok, Text wird beim Compilieren automatisch übersetzt"
 
 #: C/gs-connect-online-accounts.page:15(info/title)
 msgctxt "link:trail"
@@ -1158,39 +1149,36 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-get-online.page:31(media)
-#, fuzzy
 #| msgctxt "_"
 #| msgid ""
 #| "external ref='gs-go-online1.svg' md5='b338b5fe381a7c6529aa602e7e16d04c'"
 msgctxt "_"
 msgid "external ref='gs-go-online1.svg' md5='5e1aa458f42d9a534678ac2196cf84a2'"
-msgstr "translated"
+msgstr "ok, Text wird beim Compilieren automatisch übersetzt"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-get-online.page:44(media)
-#, fuzzy
 #| msgctxt "_"
 #| msgid ""
 #| "external ref='gs-go-online2.svg' md5='1b901346bb228634cb329e4929155897'"
 msgctxt "_"
 msgid "external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
-msgstr "translated"
+msgstr "ok, Text wird beim Compilieren automatisch übersetzt"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-get-online.page:63(media)
-#, fuzzy
 #| msgctxt "_"
 #| msgid ""
 #| "external ref='gs-go-online2.svg' md5='1b901346bb228634cb329e4929155897'"
 msgctxt "_"
 msgid "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
-msgstr "translated"
+msgstr "ok, Text wird beim Compilieren automatisch übersetzt"
 
 #: C/gs-get-online.page:15(info/title)
 msgctxt "link:trail"
@@ -1848,12 +1836,15 @@ msgid ""
 "bottom of the screen. Open tasks appear as buttons in the <gui>window list</"
 "gui>."
 msgstr ""
+"Sie können zwischen Anwendungen wechseln, in dem Sie die <gui>Fensterliste</"
+"gui> unten auf dem Bildschirm verwenden. Offene Anwendungen erscheinen als "
+"Knöpfe in der <gui>Fensterliste</gui>."
 
 #: C/gs-switch-tasks.page:114(item/p)
-#, fuzzy
-#| msgid "Click a window to switch to that task."
 msgid "Click a button in the <gui>window list</gui> to switch to that task."
-msgstr "Klicken Sie auf ein Fenster, um die Anwendung zu wechseln."
+msgstr ""
+"Klicken Sie auf einen Knopf in der <gui>Fensterliste</gui>, um zu dieser "
+"Anwendung zu wechseln."
 
 #: C/gs-switch-tasks.page:124(section/title)
 #: C/gs-use-windows-workspaces.page:113(section/title)
@@ -2137,19 +2128,17 @@ msgstr "translated"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-use-system-search.page:33(media)
-#, fuzzy
 #| msgctxt "_"
 #| msgid "external ref='gs-search1.svg' md5='8b04902cb3402f5953c79bcea7839cc8'"
 msgctxt "_"
 msgid "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
-msgstr "translated"
+msgstr "ok, Text wird beim Compilieren automatisch übersetzt"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/gs-use-system-search.page:67(media)
-#, fuzzy
 #| msgctxt "_"
 #| msgid ""
 #| "external ref='gs-search-settings.svg' "
@@ -2157,7 +2146,7 @@ msgstr "translated"
 msgctxt "_"
 msgid ""
 "external ref='gs-search-settings.svg' md5='448b4f7f7881d9e26bdf215515fe014e'"
-msgstr "translated"
+msgstr "ok, Text wird beim Compilieren automatisch übersetzt"
 
 #: C/gs-use-system-search.page:15(info/title)
 msgctxt "link:trail"
@@ -2349,10 +2338,9 @@ msgstr ""
 "href=\"help:gnome-help/keyboard-key-super\">Super</key><key>↑</key></keyseq>."
 
 #: C/gs-web-browser1-firefox-classic.svg:118(text/tspan)
-#, fuzzy, no-wrap
-#| msgid "Launch Applications"
+#, no-wrap
 msgid "Applications"
-msgstr "Anwendungen starten"
+msgstr "Anwendungen"
 
 #: C/gs-web-browser2-firefox.svg:147(text/tspan)
 #: C/gs-web-browser2.svg:151(text/tspan)
@@ -2396,70 +2384,3 @@ msgstr "Planet GNOME"
 
 #~ msgid "Switch Tasks"
 #~ msgstr "Zwischen Anwendungen wechseln"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser2.svg' md5='c224aee89a7b01c9ca33904b1a39fa13'"
-#~ msgstr "translated"
-
-#~| msgctxt "_"
-#~| msgid "external ref='gs-goa3.svg' md5='e4ae879bb449d9846d061c96b9070a9d'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa1.svg' md5='e41b417352f2b048804b0bb6913936a2'"
-#~ msgstr "translated"
-
-#~| msgctxt "_"
-#~| msgid "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa2.svg' md5='bc9ddc2193d87826a801063e6c6ec3a4'"
-#~ msgstr "translated"
-
-#, fuzzy
-#~| msgctxt "_"
-#~| msgid "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa5.svg' md5='af5852934fe9346674f0e8dada5a5f1d'"
-#~ msgstr "translated"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-go-online3.svg' md5='40a3047bad18d2d0ecf32c33f1924bd6'"
-#~ msgstr "translated"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-search2.svg' md5='2dc1fca2e2c04cf5b9f7202a5fe44cb6'"
-#~ msgstr "translated"
-
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
-#~ msgstr "translated"
-
-#~ msgid ""
-#~ "To cycle through the list of open windows, do not release <key xref="
-#~ "\"keyboard-key-super\">Super</key> but hold it down, and press <key> Tab</"
-#~ "key>."
-#~ msgstr ""
-#~ "Um durch die Liste geöffneter Fenster zu wechseln, drücken und halten Sie "
-#~ "<key xref=\"keyboard-key-super\">Super</key> und drücken Sie "
-#~ "<key>Tabulator</key>."
-
-#~ msgid "Types of results"
-#~ msgstr "Arten der Ergebnisse"
-
-#~ msgid ""
-#~ "System search aggregates results from various applications. The first "
-#~ "group of results are application launchers. Activating a launcher will "
-#~ "start an application."
-#~ msgstr ""
-#~ "Die Systemsuche vereint Ergebnisse von verschiedenen Anwendungen. Die "
-#~ "erste Ergebnisgruppe sind Anwendungsstarter. Mit Aktivierung eines "
-#~ "Starters wird die Anwendung aufgerufen."
