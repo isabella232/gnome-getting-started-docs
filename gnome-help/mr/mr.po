@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-07-21 17:22+0000\n"
-"PO-Revision-Date: 2013-07-21 23:29+0530\n"
+"POT-Creation-Date: 2013-07-29 11:48+0000\n"
+"PO-Revision-Date: 2013-08-04 09:03+0530\n"
 "Last-Translator: Sandeep Shedmake <sshedmak@redhat.com>\n"
 "Language-Team: Marathi <kde-i18n-doc@kde.org>\n"
 "Language: mr\n"
@@ -883,13 +883,15 @@ msgstr ""
 "निवडून बदलू शकता."
 
 #: C/gs-change-date-time-timezone.page:80(item/p)
+#| msgid ""
+#| "On the left-hand side of the window, you can adjust the date and time by "
+#| "clicking on the arrows to choose the hour, minute, and year."
 msgid ""
-"On the left-hand side of the window, you can adjust the date and time by "
+"On the right-hand side of the window, you can adjust the date and time by "
 "clicking on the arrows to choose the hour, minute, and year."
 msgstr ""
-"पटलाच्या डाव्या हाताला, तास, मिनिट आणि वर्षवरच्या बाणांवर क्लिक करून तुम्ही "
-"तारीख आणि "
-"वेळ बदलू शकता."
+"पटलाच्या डाव्या बाजूस, तास, मिनिट आणि वर्षवरच्या बाणांवर क्लिक करून तुम्ही "
+"दिनांक आणि वेळ बदलू शकता."
 
 #: C/gs-change-date-time-timezone.page:83(item/p)
 msgid ""
@@ -1736,7 +1738,7 @@ msgstr "Firefox"
 #: C/gs-search-settings.svg:137(text/tspan)
 #, no-wrap
 msgid "Search"
-msgstr "शाेधा"
+msgstr "शोधा"
 
 #: C/gs-search-settings.svg:148(text/tspan)
 #, no-wrap
@@ -1787,19 +1789,16 @@ msgstr ""
 "म्हणून दिसतात."
 
 #: C/gs-switch-tasks.page:111(item/p)
-#| msgid ""
-#| "You can switch between tasks by using the window list at the bottom of "
-#| "the screen. Open tasks appear as buttons in the window list."
 msgid ""
 "You can switch between tasks by using the <gui>window list</gui> at the "
 "bottom of the screen. Open tasks appear as buttons in the <gui>window list</"
 "gui>."
 msgstr ""
 "स्क्रीनच्या तळाला असलेल्या <gui>पटल यादीतून</gui> तुम्ही कार्य स्थलांतर करू "
-"शकता. सुरु असलेले कार्य <gui>पटल यादीत</gui> बटण म्हणून येतात."
+"शकता. सुरु "
+"असलेले कार्य <gui>पटल यादीत</gui> बटण म्हणून येतात."
 
 #: C/gs-switch-tasks.page:114(item/p)
-#| msgid "Click a button in the window list to switch to that task."
 msgid "Click a button in the <gui>window list</gui> to switch to that task."
 msgstr "त्या कामावर स्थलांतरित करण्यासाठी <gui>पटल यादीवर</gui> क्लिक करा."
 
