@@ -1,5 +1,6 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:ui="http://projectmallard.org/experimental/ui/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="topic" style="ui"
       id="gs-get-online">
 
@@ -28,7 +29,7 @@
 
     <title>Connect to a wired network</title>
 
-    <media type="image" src="gs-go-online1.svg" width="100%" />
+    <media type="image" its:translate="no" src="gs-go-online1.svg" width="100%" />
 
     <steps>
       <item><p>The network connection icon on the right-hand side of the top
@@ -41,7 +42,7 @@
        networks in your area.</p></item>
     </steps>
 
-    <media type="image" src="gs-go-online2.svg" width="100%" />
+    <media type="image" its:translate="no" src="gs-go-online2.svg" width="100%" />
 
     <steps style="continues">
       <item><p>If you want to use a wired connection, just plug in a network
@@ -60,7 +61,7 @@
 
     <title>Connect to other types of networks</title>
 
-    <media type="image" src="gs-go-online3.svg" width="100%" />
+    <media type="image" its:translate="no" src="gs-go-online3.svg" width="100%" />
     
     <steps>
     <item><p>There are various types of network connections that you can use

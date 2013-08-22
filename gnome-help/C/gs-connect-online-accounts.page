@@ -1,5 +1,6 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:ui="http://projectmallard.org/experimental/ui/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="topic" style="ui"
       id="gs-connect-online-accounts">
 
@@ -20,14 +21,14 @@
 
   <title>Connect to online accounts</title>
 
-    <media type="image" src="gs-goa1.svg" width="100%" />
+    <media type="image" its:translate="no" src="gs-goa1.svg" width="100%" />
 
     <steps>
       <item><p>Click your name on the top bar.</p></item>
       <item><p>Select the <gui>Settings</gui> item.</p></item>
     </steps>
        
-    <media type="image" src="gs-goa2.svg" width="100%" />
+    <media type="image" its:translate="no" src="gs-goa2.svg" width="100%" />
     
     <steps style="continues">
       <item><p>From the list of items, select <gui>Online Accounts</gui>.
@@ -39,14 +40,14 @@
      online account by clicking the <gui>+</gui> button at the bottom left
      corner of the window.</p></note>
     
-    <media type="image" src="gs-goa3.svg" width="100%" />
+    <media type="image" its:translate="no" src="gs-goa3.svg" width="100%" />
 
     <steps style="continues">  
       <item><p>Click the online account you want to use. This will open a new
        window where you can sign in to your online account.</p></item>
     </steps>
       
-    <media type="image" src="gs-goa4.svg" width="100%" />
+    <media type="image" its:translate="no" src="gs-goa4.svg" width="100%" />
 
     <steps style="continues">  
       <item><p>In most cases, you will have to grant access to the online
@@ -55,7 +56,7 @@
        will have to click the <gui>Grant Access</gui> button.</p></item>
     </steps>
 
-    <media type="image" src="gs-goa5.svg" width="100%" />
+    <media type="image" its:translate="no" src="gs-goa5.svg" width="100%" />
 
     <steps style="continues">  
       <item><p>Many online accounts let you choose the services you want to use

@@ -1,5 +1,6 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:ui="http://projectmallard.org/experimental/ui/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="topic"
       style="ui"
       id="gs-launch-applications">
@@ -22,9 +23,9 @@
   <title>Launch applications</title>
 
   <ui:overlay width="812" height="452">
-   <media type="video" src="figures/gnome-launching-applications.webm" width="700" height="394">
+   <media type="video" its:translate="no" src="figures/gnome-launching-applications.webm" width="700" height="394">
     <ui:thumb src="gs-thumb-launching-apps.svg"/>
-      <tt:tt xmlns:tt="http://www.w3.org/ns/ttml">
+      <tt:tt its:translate="yes" xmlns:tt="http://www.w3.org/ns/ttml">
        <tt:body>
          <tt:div begin="1s" end="5s">
            <tt:p>Launching Applications</tt:p>
