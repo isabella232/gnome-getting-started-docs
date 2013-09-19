@@ -1,0 +1,2260 @@
+# Tamil translation for gnome-getting-started-docs.
+# Copyright (C) 2013 gnome-getting-started-docs's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome-getting-started-docs package.
+# Shantha <shantha.thamizh@gmail.com>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-getting-started-docs master\n"
+"POT-Creation-Date: 2013-08-29 14:34+0000\n"
+"PO-Revision-Date: 2013-09-03 18:21+0530\n"
+"Last-Translator: Shantha kumar <shkumar@redhat.com>\n"
+"Language-Team: Tamil <ta@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ta\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
+#, fuzzy
+msgctxt "_"
+msgid "translator-credits"
+msgstr "Dr. T. Vasudevan <agnihot3@gmail.com>, 2012"
+
+#. (itstool) path: page/title
+#. (itstool) path: titles/t
+#: C/index.page:8 C/getting-started.page:16 C/gs-animation.xml:5
+#, fuzzy
+msgid "Getting Started"
+msgstr "z/VM ஆனது Linux on System&nbsp;z உடன் துவக்கம் பெறுகிறது"
+
+#. (itstool) path: info/desc
+#: C/getting-started.page:11
+#, fuzzy
+msgid "New to GNOME? Learn how to get around."
+msgstr "%s க்கு org.gnome.OnlineAccounts.Files ஐப் பெறுவதில் தோல்வியடைந்தது"
+
+#. (itstool) path: info/title
+#: C/getting-started.page:12
+#, fuzzy
+msgctxt "link"
+msgid "Getting Started with GNOME"
+msgstr "z/VM ஆனது Linux on System&nbsp;z உடன் துவக்கம் பெறுகிறது"
+
+#. (itstool) path: info/title
+#: C/getting-started.page:13
+#, fuzzy
+msgctxt "text"
+msgid "Getting Started"
+msgstr "z/VM ஆனது Linux on System&nbsp;z உடன் துவக்கம் பெறுகிறது"
+
+#. (itstool) path: caption/desc
+#. (itstool) path: page/title
+#: C/getting-started.page:25 C/gs-launch-applications.page:23
+#, fuzzy
+msgid "Launch applications"
+msgstr "பரிந்துரைக்கப்பட்ட பயன்பாடுகள்"
+
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:30 C/gs-animation.xml:4
+#: C/gs-launch-applications.page:31
+#, fuzzy
+msgid "Launching Applications"
+msgstr "பரிந்துரைக்கப்பட்ட பயன்பாடுகள்"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:33 C/getting-started.page:154
+#: C/gs-launch-applications.page:34 C/gs-switch-tasks.page:36
+msgid ""
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/getting-started.page:37 C/gs-launch-applications.page:38
+#, fuzzy
+msgid "Click the <gui>Show Applications</gui> icon."
+msgstr "அறிவிப்பு இடத்தில் சின்னத்தை  காட்டு (_n) "
+
+#. (itstool) path: div/p
+#: C/getting-started.page:40 C/gs-launch-applications.page:41
+#, fuzzy
+msgid "Click the application you want to run, for example, Help."
+msgstr "ஒரு வழக்கமான பயனருக்காக pppd-ஐ இயக்குவதற்கு அனுமதிக்க விரும்பினால்"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:44 C/gs-launch-applications.page:45
+msgid ""
+"Alternatively, use the keyboard to open the <gui>Activities Overview</gui> "
+"by pressing the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
+"key."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/getting-started.page:49 C/gs-launch-applications.page:50
+#, fuzzy
+msgid "Start typing the name of the application you want to launch."
+msgstr "நீங்கள் இணைக்க விரும்பும் அரட்டையின் பெயரை உள்ளிடு."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:53 C/gs-launch-applications.page:54
+#, fuzzy
+msgid "Press <key>Enter</key> to launch the application."
+msgstr "அமைத்த விசை: %s. உறுதி செய்ய  உள்ளிடு  விசையை அழுத்துக "
+
+#. (itstool) path: caption/desc
+#. (itstool) path: page/title
+#: C/getting-started.page:66 C/gs-use-windows-workspaces.page:21
+#, fuzzy
+msgid "Use windows and workspaces"
+msgstr "விண்டோக்கள் மற்றும் கணினியின் கடிகாரம்"
+
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:71 C/gs-animation.xml:10
+#: C/gs-use-windows-workspaces.page:29
+#, fuzzy
+msgid "Windows and Workspaces"
+msgstr "வின்டோஸ் மற்றும் பட்டன்கள்"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:74 C/gs-use-windows-workspaces.page:32
+#, fuzzy
+msgid ""
+"To maximize a window, grab the window's titlebar and drag it to the top of "
+"the screen."
+msgstr ""
+"கொடுக்கப்பட்ட நிறுவல் எண் [ %s ] சரியானது அல்ல. எனவே முந்தைய திரைக்கு சென்று அதனை "
+"சரியாக உள்ளிடவும்."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:78 C/gs-use-windows-workspaces.page:36
+#, fuzzy
+msgid "When the screen is highlighted, release the window."
+msgstr "(_y) எந்த %s சாளரம் திறந்து இருந்தாலும் அனைத்து ஓடைகளும் "
+
+#. (itstool) path: div/p
+#: C/getting-started.page:81 C/gs-use-windows-workspaces.page:39
+msgid ""
+"To unmaximize a window, grab the window's titlebar and drag it away from the "
+"edges of the screen."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/getting-started.page:85 C/gs-use-windows-workspaces.page:43
+msgid ""
+"You can also click the top bar to drag the window away and unmaximize it."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/getting-started.page:89 C/getting-started.page:161
+#: C/gs-switch-tasks.page:43 C/gs-use-windows-workspaces.page:47
+msgid ""
+"To maximize a window along the left side of the screen, grab the window's "
+"titlebar and drag it to the left."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/getting-started.page:93 C/getting-started.page:101
+#: C/getting-started.page:165 C/getting-started.page:173
+#: C/gs-switch-tasks.page:47 C/gs-switch-tasks.page:55
+#: C/gs-use-windows-workspaces.page:51 C/gs-use-windows-workspaces.page:59
+#, fuzzy
+msgid "When half of the screen is highlighted, release the window."
+msgstr "புதிய விடியோ ஏற்றப்பட்ட போது தானியங்கியாக சாளர அளவை மாற்றவும்."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:97 C/gs-use-windows-workspaces.page:55
+msgid ""
+"To maximize a window along the right side of the screen, grab the window's "
+"titlebar and drag it to the right."
+msgstr ""
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:105 C/gs-use-windows-workspaces.page:63
+#: C/gs-use-windows-workspaces.page:134
+msgid ""
+"To maximize a window using the keyboard, hold down the <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/getting-started.page:110 C/gs-use-windows-workspaces.page:68
+msgid ""
+"To restore the window to its unmaximized size, hold down the <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
+"key>."
+msgstr ""
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:115 C/gs-use-windows-workspaces.page:73
+#: C/gs-use-windows-workspaces.page:148
+msgid ""
+"To maximize a window along the right side of the screen, hold down the <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
+"<key>→</key>."
+msgstr ""
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:120 C/gs-use-windows-workspaces.page:78
+#: C/gs-use-windows-workspaces.page:151
+msgid ""
+"To maximize a window along the left side of the screen, hold down the <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
+"<key>←</key>."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/getting-started.page:125 C/gs-use-windows-workspaces.page:83
+msgid ""
+"To move to a workspace which is below the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Page Down</key></keyseq>."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/getting-started.page:130 C/gs-use-windows-workspaces.page:88
+msgid ""
+"To move to a workspace which is above the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Page Up</key></keyseq>."
+msgstr ""
+
+#. (itstool) path: caption/desc
+#. (itstool) path: page/title
+#. (itstool) path: section/title
+#: C/getting-started.page:146 C/gs-switch-tasks.page:22
+#: C/gs-switch-tasks.page:96
+#, fuzzy
+msgid "Switch tasks"
+msgstr "பணியை அச்சடி"
+
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:151 C/gs-animation.xml:8 C/gs-switch-tasks.page:33
+#, fuzzy
+msgid "Switching Tasks"
+msgstr "பணியை அச்சடி"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:158 C/gs-switch-tasks.page:40
+#: C/gs-switch-tasks.page:105
+#, fuzzy
+msgid "Click a window to switch to that task."
+msgstr "GtkWindow தாய் சாளரத்தை குறிக்கிறது"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:169 C/gs-switch-tasks.page:51
+msgid ""
+"To maximize a window along the right side, grab the window's titlebar and "
+"drag it to the right."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/getting-started.page:177 C/gs-switch-tasks.page:59
+msgid ""
+"Press <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
+"key><key> Tab</key></keyseq> to show the <gui>window switcher</gui>."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/getting-started.page:182 C/gs-switch-tasks.page:64
+msgid ""
+"Release <key href=\"help:gnome-help/keyboard-key-super\">Super </key> to "
+"select the next highlighted window."
+msgstr ""
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:187 C/gs-switch-tasks.page:69
+#: C/gs-switch-tasks.page:150
+msgid ""
+"To cycle through the list of open windows, do not release <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> but hold it down, and press "
+"<key>Tab</key>."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/getting-started.page:192 C/gs-switch-tasks.page:74
+msgid ""
+"Press the <key href=\"help:gnome-help/keyboard-key-super\">Super </key> key "
+"to show the <gui>Activities Overview</gui>."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/getting-started.page:196 C/gs-switch-tasks.page:78
+#, fuzzy
+msgid "Start typing the name of the application you want to switch to."
+msgstr "நீங்கள் இணைக்க விரும்பும் அரட்டையின் பெயரை உள்ளிடு."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:200 C/gs-switch-tasks.page:82
+msgid ""
+"When the application appears as the first result, press <key> Enter</key> to "
+"switch to it."
+msgstr ""
+
+#. (itstool) path: caption/desc
+#. (itstool) path: page/title
+#: C/getting-started.page:212 C/gs-respond-messages.page:22
+#, fuzzy
+msgid "Respond to messages"
+msgstr "'%s' க்கு செய்தியை நகர்த்துகிறது"
+
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:218 C/gs-animation.xml:7
+#: C/gs-respond-messages.page:30
+#, fuzzy
+msgid "Responding to Messages"
+msgstr "'%s' க்கு செய்தியை நகர்த்துகிறது"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:221 C/gs-respond-messages.page:33
+#: C/gs-respond-messages.page:92
+msgid ""
+"Move your mouse to the message tray at the bottom of the screen and click "
+"the chat message."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/getting-started.page:225 C/gs-respond-messages.page:37
+msgid ""
+"Start typing your reply and when finished, press <key>Enter </key> to send "
+"the reply."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/getting-started.page:229 C/getting-started.page:250
+#: C/gs-respond-messages.page:41 C/gs-respond-messages.page:62
+#, fuzzy
+msgid "Close the chat message."
+msgstr "இந்த செய்தியை மூடு"
+
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:232 C/gs-animation.xml:9
+#: C/gs-respond-messages.page:44
+#, fuzzy
+msgid "Delayed Response"
+msgstr "பேஸ்ட்பின் எதிர்வினை"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:235 C/gs-respond-messages.page:47
+msgid ""
+"A chat message in the message tray disappears after a while if you do not "
+"move your mouse to the message tray."
+msgstr ""
+"செய்திப் பலகத்தில் காண்பிக்கப்படும் ஒரு அரட்டைச் செய்தி, நீங்கள் செய்திப் பலகத்திற்கு உங்கள் "
+"சொடுக்கியைக் கொண்டு செல்லாவிட்டால் சற்று நேரம் கழித்து மறைந்துபோகும்."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:239 C/gs-respond-messages.page:51
+msgid ""
+"To get back to your unanswered message, move your mouse to the message tray."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/getting-started.page:243 C/gs-respond-messages.page:55
+#, fuzzy
+msgid "Click the person who sent you the message."
+msgstr "நீங்கள் அனுப்பிய செய்திக்கு பெயரை வரைந்து நிறமிடு."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:246 C/getting-started.page:262
+#: C/gs-respond-messages.page:58 C/gs-respond-messages.page:74
+#, fuzzy
+msgid "Start typing your reply and when finished, press <key>Enter </key>."
+msgstr ""
+"வகை <command>bootrec /fixmbr</command> மற்றும் இதை  <keycap>உள்ளிடு</keycap> "
+"அழுத்தவும்."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:253 C/gs-respond-messages.page:65
+msgid ""
+"To show the message tray, press <keyseq> <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> <key>M</key></keyseq>"
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/getting-started.page:258 C/gs-respond-messages.page:70
+msgid ""
+"Use the arrow keys to select the person you want to reply to, and press "
+"<key>Enter</key>."
+msgstr ""
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:266 C/gs-respond-messages.page:78
+#: C/gs-respond-messages.page:132
+#, fuzzy
+msgid "Press <key>Esc</key> to close the chat message."
+msgstr "செய்தி சாளரத்தை மூட விருப்பமா?"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:269 C/gs-respond-messages.page:81
+#, fuzzy
+msgid "To dismiss the message tray, press <key>Esc</key>."
+msgstr ""
+"<keycap>Esc</keycap> விசையை வெளியேறுவதற்கு <literal>நுழை</literal> முறைமையை "
+"அழுத்து."
+
+#. (itstool) path: links/title
+#: C/getting-started.page:278
+#, fuzzy
+msgid "Common Tasks"
+msgstr "பொது வேலைகள்"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:3
+#, fuzzy
+msgid "Welcome"
+msgstr "நல்வரவு"
+
+#. (itstool) path: titles/t
+#. (itstool) path: div/p
+#: C/gs-animation.xml:6 C/gs-change-wallpaper.page:30
+#, fuzzy
+msgid "Changing Wallpaper"
+msgstr "சுவர்-காகிதங்கள் சேர்."
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:11
+#, fuzzy
+msgid "Changing Date, Time and Timezone"
+msgstr "Firstboot தேதி மற்றும் நேர திரை"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:12
+#, fuzzy
+msgid "Maximize"
+msgstr "பெரிதாக்கு"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:13
+#, fuzzy
+msgid "Restore"
+msgstr "மீட்டு அமை"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:14
+#, fuzzy
+msgid "Left half of screen"
+msgstr "சாளரத்தை திரையின் மேற்கே (இடது) பக்கம் நகர்த்தவும்"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:15
+#, fuzzy
+msgid "Workspace down"
+msgstr "வேலையிடத்தின் கீழே நகர்த்தவும் (_D)"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:16
+#, fuzzy
+msgid "Workspace up"
+msgstr "வேலையிடத்தின் மேலே நகர்த்தவும் (_U)"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:17
+#, fuzzy
+msgid "Right half of screen"
+msgstr "பலகத்தின் X ஆயத்தொலைவு, திரையின் வலது பக்கம் துவங்கி"
+
+#. (itstool) path: titles/t
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:18 C/gs-go-online1.svg:241 C/gs-search1.svg:190
+#: C/gs-search2.svg:146 C/gs-thumb-changing-wallpaper.svg:71
+#: C/gs-thumb-launching-apps.svg:195 C/gs-thumb-responding-to-messages.svg:42
+#: C/gs-thumb-task-switching.svg:158 C/gs-thumb-timezone.svg:47
+#: C/gs-thumb-windows-and-workspaces.svg:95 C/gs-web-browser1-firefox.svg:122
+#: C/gs-web-browser1.svg:122
+#, fuzzy, no-wrap
+msgid "Activities"
+msgstr "செயல்பாடுகள்"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:19
+#, fuzzy
+msgid "Enter"
+msgstr "Enter"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:20
+#, fuzzy
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:21
+#, fuzzy
+msgid "Alt"
+msgstr "Alt"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:22
+#, fuzzy
+msgid "Tab"
+msgstr "தத்தல்"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:23
+msgid "Esc"
+msgstr ""
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:24
+#, fuzzy
+msgid "help"
+msgstr "உதவி"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:25
+#, fuzzy
+msgid "web"
+msgstr "வலை"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:26
+#, fuzzy
+msgid "Just start typing…"
+msgstr "கிக்ஸ்டார்ட் நிறுவலை துவக்கவும்."
+
+#. (itstool) path: titles/t
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:27 C/gs-goa1.svg:43 C/gs-goa1.svg:70
+#: C/gs-go-online1.svg:239 C/gs-go-online1.svg:250 C/gs-go-online1.svg:316
+#: C/gs-go-online2.svg:235 C/gs-go-online2.svg:266 C/gs-go-online3.svg:332
+#: C/gs-search1.svg:187 C/gs-search2.svg:143
+#: C/gs-thumb-changing-wallpaper.svg:72 C/gs-thumb-launching-apps.svg:196
+#: C/gs-thumb-responding-to-messages.svg:43
+#: C/gs-thumb-responding-to-messages.svg:61 C/gs-thumb-task-switching.svg:159
+#: C/gs-thumb-timezone.svg:48 C/gs-thumb-windows-and-workspaces.svg:96
+#, fuzzy, no-wrap
+msgid "John Doe"
+msgstr "செய்ன்ட் ஜான்ஸஸ்"
+
+#. (itstool) path: titles/t
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:28 C/gs-goa1.svg:75 C/gs-thumb-changing-wallpaper.svg:77
+#, fuzzy, no-wrap
+msgid "Settings"
+msgstr "அமைவுகள்"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:29
+#, fuzzy
+msgid "Background"
+msgstr "பின்னணி"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:30
+#, fuzzy
+msgid "Wallpapers"
+msgstr "சுவர்-காகிதங்கள்"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:31
+#, fuzzy
+msgid "Select"
+msgstr "தேர்ந்தெடுக்கவும்"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:32
+#, fuzzy
+msgid "Ready for the meeting?"
+msgstr "மீள்பார்வைக்கு தயார்"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:33
+#, fuzzy
+msgid "I'll be there in a sec..."
+msgstr "\"%s\" இல் வட்டு ஏதும் இல்லை"
+
+#. (itstool) path: titles/t
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:34 C/gs-thumb-responding-to-messages.svg:60
+#, fuzzy, no-wrap
+msgid "Good stuff, thanks again"
+msgstr "மீண்டும் எச்சரிக்காதே (_w)"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:35
+#, fuzzy
+msgid "Thanks for the support"
+msgstr "M2Crypto க்கான IPv6 ஆதரவு"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:36
+#, fuzzy
+msgid "No worries."
+msgstr "<phrase>no</phrase>"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:37
+#, fuzzy
+msgid "Too kind."
+msgstr "[மொத்தம்]3ன் வகை"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:38
+#, fuzzy
+msgid "Open Calendar"
+msgstr "நாள்காட்டியை திற"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:39
+#, fuzzy
+msgid "Open Clocks"
+msgstr "கடிகாரங்களைத் திற"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:40
+#, fuzzy
+msgid "Date and Time Settings"
+msgstr "தேதி நேரம் அமைப்புகள்"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:41
+#, fuzzy
+msgid "Automatic Date and Time"
+msgstr "தேதியையும் நேரத்தையும் சொருகவும்"
+
+#. (itstool) path: credit/name
+#: C/gs-browse-web.page:11 C/gs-browse-web-firefox.page:12
+#: C/gs-change-date-time-timezone.page:12 C/gs-change-wallpaper.page:11
+#: C/gs-connect-online-accounts.page:10 C/gs-get-online.page:10
+#: C/gs-launch-applications.page:11 C/gs-respond-messages.page:11
+#: C/gs-switch-tasks.page:11 C/gs-use-system-search.page:10
+#: C/gs-use-windows-workspaces.page:10
+msgid "Jakub Steiner"
+msgstr ""
+
+#. (itstool) path: credit/name
+#: C/gs-browse-web.page:14 C/gs-browse-web-firefox.page:15
+#: C/gs-change-date-time-timezone.page:15 C/gs-change-wallpaper.page:14
+#: C/gs-connect-online-accounts.page:13 C/gs-get-online.page:13
+#: C/gs-launch-applications.page:14 C/gs-respond-messages.page:14
+#: C/gs-switch-tasks.page:14 C/gs-use-system-search.page:13
+#: C/gs-use-windows-workspaces.page:13
+msgid "Petr Kovar"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/gs-browse-web.page:19
+#, fuzzy
+msgctxt "link:trail"
+msgid "Browse the web"
+msgstr "இணையத்தில் உலாவவும்"
+
+#. (itstool) path: page/title
+#: C/gs-browse-web.page:22 C/gs-browse-web-firefox.page:23
+#, fuzzy
+msgid "Browse the web"
+msgstr "இணையத்தில் உலாவவும்"
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:27 C/gs-browse-web-firefox.page:31
+#: C/gs-launch-applications.page:65
+msgid ""
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen to show the <gui>Activities Overview</gui>."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:30
+msgid ""
+"Select the <app>Web</app> browser icon from the bar on the left-hand side of "
+"the screen."
+msgstr ""
+
+#. (itstool) path: note/p
+#: C/gs-browse-web.page:34
+msgid ""
+"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
+"search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
+"gui>."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:41 C/gs-browse-web-firefox.page:60
+msgid ""
+"Click the address bar at the top of the browser window and start typing in "
+"the website you want to visit."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:43 C/gs-browse-web-firefox.page:62
+msgid ""
+"Typing in a website starts searching for it in the browser history and "
+"bookmarks, so you do not need to remember the exact address."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:46 C/gs-browse-web-firefox.page:65
+msgid ""
+"If the website is found in the history or bookmarks, a drop-down list is "
+"shown below the address bar."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:48 C/gs-browse-web-firefox.page:67
+msgid ""
+"From the drop-down list, you can quickly select a website using the arrow "
+"keys."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:51 C/gs-browse-web-firefox.page:70
+#, fuzzy
+msgid "After you have selected a website, press <key>Enter</key> to visit it."
+msgstr ""
+"[Enter], விசையை அழுத்தியவுடன் மாற்றங்களை காணலாம். அதற்கு முன் நீங்கள் உள்ளிட்ட கட்டளையை "
+"சரி பார்த்துக்கொள்ளவும்"
+
+#. (itstool) path: item/p
+#: C/gs-browse-web-firefox.page:34
+msgid ""
+"Select the <app>Firefox</app> browser icon from the bar on the left-hand "
+"side of the screen."
+msgstr ""
+
+#. (itstool) path: note/p
+#: C/gs-browse-web-firefox.page:38
+msgid ""
+"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
+"search\">just typing</link> <em>Firefox</em> in the <gui>Activities "
+"Overview</gui>."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-browse-web-firefox.page:48
+#, fuzzy
+msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
+msgstr "மெனு பட்டியல் விளிம்பில் இடது மற்றும் வலது பக்கங்களில் உள்ள கூடுதல் இடைவெளி"
+
+#. (itstool) path: item/p
+#: C/gs-browse-web-firefox.page:50
+#, fuzzy
+msgid ""
+"From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
+"guiseq>."
+msgstr ""
+"<guimenu>விசைப்பலகை</guimenu> பட்டியிலிருந்து கணினி விசைப்பலகை வகையை "
+"தேர்ந்தெடுக்கவும்."
+
+#. (itstool) path: info/title
+#: C/gs-change-date-time-timezone.page:18
+#, fuzzy
+msgctxt "link:trail"
+msgid "Change the date, time and timezone"
+msgstr "கணினி தேதி மற்றும் நேரத்தை மாற்றவும்"
+
+#. (itstool) path: info/title
+#: C/gs-change-date-time-timezone.page:20
+#, fuzzy
+msgctxt "link:seealso"
+msgid "A tutorial on changing the date, time and timezone"
+msgstr ""
+"ஒரு தொலை நேர சேவையகத்தை பயன்படுத்தும் பிணைய நேர நெறிமுறையில் உங்கள் கணினியில் "
+"ஒத்திசைக்கப்பட்ட தேதி மற்றும் நேரம்:"
+
+#. (itstool) path: page/title
+#. (itstool) path: section/title
+#: C/gs-change-date-time-timezone.page:24
+#: C/gs-change-date-time-timezone.page:64
+#, fuzzy
+msgid "Change the date, time and timezone"
+msgstr "கணினி தேதி மற்றும் நேரத்தை மாற்றவும்"
+
+#. (itstool) path: div/p
+#: C/gs-change-date-time-timezone.page:35
+#, fuzzy
+msgid "Changing Date &amp; Time"
+msgstr "தேதியையும் நேரத்தையும் சொருகவும்"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:38
+#: C/gs-change-date-time-timezone.page:67
+#, fuzzy
+msgid "Click the clock on the top bar."
+msgstr "தலைப்புப்பட்டியை இரண்டு-சொடுக்கு செய்யும் போது நிகழவேண்டியது"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:41
+#: C/gs-change-date-time-timezone.page:68
+#, fuzzy
+msgid "Select the <gui>Date &amp; Time Settings</gui> item."
+msgstr ""
+"உங்களுடைய கணினி நேரம் செல்லுபடியாகாதது. தேதி மற்றும்  நேரம் அமைப்புகளை சோதிக்கவும்."
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:44
+#: C/gs-change-date-time-timezone.page:78
+#, fuzzy
+msgid "Click on your location on the map."
+msgstr ""
+"உங்கள் இரட்டிப்பு சொடுக்கு அமைப்பை சோதிக்க  மின்விளக்கு மீது இரட்டிப்பு சொடுக்கு செய்க"
+
+#. (itstool) path: div/p
+#: C/gs-change-date-time-timezone.page:47
+msgid ""
+"You can adjust the date and time by clicking on the arrows to choose the "
+"hour, minute, and year."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/gs-change-date-time-timezone.page:51
+#, fuzzy
+msgid "Close the window."
+msgstr "சாளரத்தை மூடுக"
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:76
+msgid ""
+"You may need to click the <gui>Unlock</gui> button and type the "
+"administrator's password."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:79
+msgid ""
+"This selects your current city, which you can also see and change in the "
+"drop-down list below the map."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:81
+msgid ""
+"On the right-hand side of the window, you can adjust the date and time by "
+"clicking on the arrows to choose the hour, minute, and year."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:84
+#, fuzzy
+msgid ""
+"Close the window by clicking the cross at the top-right corner of the window."
+msgstr ""
+"மொழி பேனலின் இடம். 0 = மேல் இடது ஓரம், 1 = மேல் வலது ஓரம், 2 = கீழ் இடது ஓரம், 3 = கீழ் "
+"வலது ஓரம், 4 = தனிபயன்"
+
+#. (itstool) path: info/title
+#: C/gs-change-wallpaper.page:17
+#, fuzzy
+msgctxt "link:trail"
+msgid "Change the wallpaper"
+msgstr "உங்கள் பின்புலப் படத்தை வால்பேப்பர் அல்லது புகைப்படமாக மாற்றவும்"
+
+#. (itstool) path: info/title
+#: C/gs-change-wallpaper.page:19
+#, fuzzy
+msgctxt "link:seealso"
+msgid "A tutorial on changing the wallpaper"
+msgstr "நிலையை மாற்றுவதற்கு முன்னுள்ள நிமிடங்கள்"
+
+#. (itstool) path: page/title
+#. (itstool) path: section/title
+#: C/gs-change-wallpaper.page:22 C/gs-change-wallpaper.page:56
+#, fuzzy
+msgid "Change the wallpaper"
+msgstr "உங்கள் பின்புலப் படத்தை வால்பேப்பர் அல்லது புகைப்படமாக மாற்றவும்"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:33 C/gs-change-wallpaper.page:59
+msgid "Click your name on the top bar and select <gui>Settings</gui>."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/gs-change-wallpaper.page:36
+#, fuzzy
+msgid "Select <gui>Background</gui>."
+msgstr "பின்னணி நிறத்தை தேர்வுசெய்"
+
+#. (itstool) path: div/p
+#: C/gs-change-wallpaper.page:39
+#, fuzzy
+msgid "Click the image of your current wallpaper."
+msgstr "உங்கள் பின்புலப் படத்தை வால்பேப்பர் அல்லது புகைப்படமாக மாற்றவும்"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:42 C/gs-change-wallpaper.page:64
+#, fuzzy
+msgid "Click the background image that you want to use."
+msgstr "மென்பொருள் நிறுவலுக்கு பயன்படுத்த கூடுதல் தொகுபதிவகத்தை தேர்ந்தெடுக்கவும்."
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:45 C/gs-change-wallpaper.page:65
+#, fuzzy
+msgid "Click the <gui>Select</gui> button."
+msgstr "தேர்வு பலகத்தில் கோப்புகளை தேர்வு செய்து \"சேர்\" பொத்தான் ஐ சொடுக்கலாம்."
+
+#. (itstool) path: div/p
+#: C/gs-change-wallpaper.page:48
+#, fuzzy
+msgid "Close the <gui>Background</gui> window."
+msgstr "இந்த அறிவிப்பு சாளரத்தை மூடு "
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:61
+#, fuzzy
+msgid "From the list of items, select <gui>Background</gui>."
+msgstr "பட்டியலிருந்து உங்கள் மனநிலையை தேர்ந்தெடு."
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:62
+msgid ""
+"Click the image of your current wallpaper in the center of the "
+"<gui>Background</gui> window."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:66
+msgid ""
+"Close the <gui>Background</gui> window by clicking the cross at the top-"
+"right corner of the window."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/gs-connect-online-accounts.page:16
+#, fuzzy
+msgctxt "link:trail"
+msgid "Connect to online accounts"
+msgstr "ஆன் லைன் கணக்கு ஏதும் வடிவமைக்கப்படவில்லை"
+
+#. (itstool) path: info/title
+#: C/gs-connect-online-accounts.page:18
+#, fuzzy
+msgctxt "link:seealso"
+msgid "A tutorial on connecting to online accounts"
+msgstr "இந்த தேர்வு க்னோம் ஆன்லைன் அக்கவுண்ட்ஸ் சர்வீஸ் வழியாக சேவையகத்துக்கு இணைக்கும்."
+
+#. (itstool) path: page/title
+#: C/gs-connect-online-accounts.page:22
+#, fuzzy
+msgid "Connect to online accounts"
+msgstr "ஆன் லைன் கணக்கு ஏதும் வடிவமைக்கப்படவில்லை"
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:27 C/gs-use-system-search.page:80
+#, fuzzy
+msgid "Click your name on the top bar."
+msgstr "மேல் பட்டியில் முழுப் பெயரைக் காண்பி (_f)"
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:28 C/gs-use-system-search.page:81
+#, fuzzy
+msgid "Select the <gui>Settings</gui> item."
+msgstr "(_S) <b>உருவாக்க வேண்டிய உருப்படியை தேர்ந்தெடுக்கவும்:</b>"
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:34
+#, fuzzy
+msgid "From the list of items, select <gui>Online Accounts</gui>."
+msgstr "நீங்கள் %s இல் உங்கள் இணைய கணக்குகளை சேர்க்கலாம் "
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:36
+#, fuzzy
+msgid "Click on the <gui>Add an online account</gui> button."
+msgstr ""
+"IP பிணையத்தில் உங்களது கணினி முகவரிகள் அடையாளம்.  \"Add\" பட்டனுடன் சேர்த்துஒரு IP "
+"முகவரியை கிளிக் செய்யவும்."
+
+#. (itstool) path: note/p
+#: C/gs-connect-online-accounts.page:39
+msgid ""
+"If you have set up an online account before, you can add another online "
+"account by clicking the <gui>+</gui> button at the bottom left corner of the "
+"window."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:46
+msgid ""
+"Click the online account you want to use. This will open a new window where "
+"you can sign in to your online account."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:53
+msgid ""
+"In most cases, you will have to grant access to the online service after "
+"signing in to get started."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:55
+msgid ""
+"For example, if you are connecting to your Google account, you will have to "
+"click the <gui>Grant Access</gui> button."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:62
+msgid ""
+"Many online accounts let you choose the services you want to use with your "
+"online account. If you do not want to use a service, disable it by clicking "
+"the <gui>ON/OFF</gui> switch on the right-hand side of the window."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/gs-get-online.page:16
+#, fuzzy
+msgctxt "link:trail"
+msgid "Get online"
+msgstr "மேலும் ஆன்லைன் பின்னணிகளை பெறு"
+
+#. (itstool) path: info/title
+#: C/gs-get-online.page:18
+#, fuzzy
+msgctxt "link:seealso"
+msgid "A tutorial on getting online"
+msgstr "கணினியில் நிறுவப்பட்ட தொகுப்பின் பட்டியலை பெறுகிறது"
+
+#. (itstool) path: page/title
+#: C/gs-get-online.page:21
+#, fuzzy
+msgid "Get online"
+msgstr "மேலும் ஆன்லைன் பின்னணிகளை பெறு"
+
+#. (itstool) path: note/p
+#: C/gs-get-online.page:24
+msgid ""
+"You can see the status of your network connection on the right-hand side of "
+"the top bar, next to your name."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-get-online.page:30
+#, fuzzy
+msgid "Connect to a wired network"
+msgstr "மறைக்கப்பட்ட பிணையத்துக்கு இணைக்கவும்"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:35
+msgid ""
+"The network connection icon on the right-hand side of the top bar shows that "
+"you are off-line."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:37
+msgid ""
+"Click the network connection icon to show more details about the status of "
+"your network connection."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:39
+msgid ""
+"The off-line status can be caused by a number of reasons: for example, a "
+"network cable has been unplugged, the computer has been set to run in "
+"<em>airplane mode</em>, or there are no available wireless networks in your "
+"area."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:48
+msgid ""
+"If you want to use a wired connection, just plug in a network cable to go "
+"online. The computer will try to set up the network connection for you "
+"automatically."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:52
+msgid ""
+"While the computer sets up a network connection for you, the network "
+"connection icon shows three dots."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:54
+msgid ""
+"Once the network connection has been successfully set up, the network "
+"connection icon changes to the networked computer symbol."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-get-online.page:62
+#, fuzzy
+msgid "Connect to other types of networks"
+msgstr "மற்ற கணினிகளுடன் இணைக்க பயன்படும்."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:67
+msgid ""
+"There are various types of network connections that you can use with your "
+"computer, for example, mobile broadband, or wireless networks."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:70
+msgid ""
+"Depending on your computer hardware and the networks availability, you can "
+"choose other connection types by clicking the network connection icon on the "
+"right-hand side of the top bar and selecting the network connection you want "
+"to connect to."
+msgstr ""
+
+#. (itstool) path: Work/format
+#: C/gs-goa1.svg:21 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
+#: C/gs-goa5.svg:35 C/gs-go-online1.svg:220 C/gs-go-online2.svg:219
+#: C/gs-go-online3.svg:256 C/gs-search1.svg:88 C/gs-search2.svg:124
+#: C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:30
+#: C/gs-thumb-launching-apps.svg:180 C/gs-thumb-responding-to-messages.svg:27
+#: C/gs-thumb-task-switching.svg:80 C/gs-thumb-timezone.svg:32
+#: C/gs-thumb-windows-and-workspaces.svg:80
+#: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
+#: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
+#: C/gs-web-browser2.svg:100
+#, fuzzy
+msgid "image/svg+xml"
+msgstr "எக்ஸ்எம்எல் பகிரக்கூடிய பாடல் பட்டியல்"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa1.svg:61 C/gs-go-online1.svg:232 C/gs-go-online3.svg:269
+#: C/gs-search1.svg:100 C/gs-thumb-timezone.svg:72 C/gs-thumb-timezone.svg:106
+#: C/gs-web-browser1-firefox-classic.svg:115 C/gs-web-browser1-firefox.svg:120
+#: C/gs-web-browser1.svg:120
+#, fuzzy, no-wrap
+msgid "1"
+msgstr "1"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa1.svg:65 C/gs-go-online1.svg:283 C/gs-search2.svg:136
+#: C/gs-thumb-timezone.svg:73 C/gs-thumb-timezone.svg:107
+#: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
+#: C/gs-web-browser1.svg:153
+#, fuzzy, no-wrap
+msgid "2"
+msgstr "2"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa2.svg:50 C/gs-go-online2.svg:231 C/gs-thumb-timezone.svg:74
+#: C/gs-thumb-timezone.svg:108 C/gs-web-browser2-firefox.svg:164
+#: C/gs-web-browser2.svg:163
+#, fuzzy, no-wrap
+msgid "3"
+msgstr "3"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa2.svg:81 C/gs-goa3.svg:113 C/gs-goa5.svg:79
+#, fuzzy, no-wrap
+msgid "Online Accounts"
+msgstr "ஆன் லைன்  கணக்குகள்"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa2.svg:83 C/gs-goa3.svg:115
+#, fuzzy, no-wrap
+msgid "Add an online account"
+msgstr "ஒரு ஆன் லைன் கணக்கு சேர்"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:75 C/gs-thumb-timezone.svg:109
+#: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:113
+#, fuzzy, no-wrap
+msgid "4"
+msgstr "4"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:66
+#, fuzzy, no-wrap
+msgid "Add Account"
+msgstr "கணக்கை சேர்"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90
+#, fuzzy, no-wrap
+msgid "Cancel"
+msgstr "ரத்துசெய்க"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:90 C/gs-goa5.svg:93
+#, fuzzy, no-wrap
+msgid "Google"
+msgstr "கூகுள்"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:73 C/gs-goa4.svg:124
+#, fuzzy, no-wrap
+msgid "Facebook"
+msgstr "பேஸ்புக்"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:74 C/gs-goa4.svg:125
+#, fuzzy, no-wrap
+msgid "Windows Live"
+msgstr "விண்டோஸ் லைவ் "
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:75 C/gs-goa4.svg:126
+#, fuzzy, no-wrap
+msgid "Microsoft Exchange"
+msgstr "மைக்ரோசாஃப்ட் எக்ஸ்சேஞ்ச்."
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:76 C/gs-goa4.svg:127
+#, fuzzy, no-wrap
+msgid "Enterprise Login (Kerberos)"
+msgstr "என்டர்ப்ரைஸ் புகுபதிகை (கெர்பரோஸ்)"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:48 C/gs-thumb-timezone.svg:76
+#: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:261
+#, fuzzy, no-wrap
+msgid "5"
+msgstr "5"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:52 C/gs-goa4.svg:86
+#, fuzzy, no-wrap
+msgid "Google account"
+msgstr "Google கணக்கு அமைவுகள்:"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:69
+#, fuzzy, no-wrap
+msgid "SIGN UP"
+msgstr "ஒரு கணக்கிற்கு புகுபதிவு செய்"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:70
+#, fuzzy, no-wrap
+msgid "Sign in"
+msgstr "உள்நுழை (_S)"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:71
+#, fuzzy, no-wrap
+msgid "Email"
+msgstr "மின்னஞ்சல்"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:73
+#, fuzzy, no-wrap
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:76
+#, fuzzy, no-wrap
+msgid "Sign In"
+msgstr "உள்நுழை"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:77 C/gs-goa5.svg:92 C/gs-goa5.svg:95
+#, fuzzy, no-wrap
+msgid "john.doe@gmail.com"
+msgstr "<b>உதாரணம்:</b> user@gmail.com"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:103
+#, fuzzy, no-wrap
+msgid "Grant Access"
+msgstr "'%s'உடன் அணுகலை ஏற்கவும்"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:108
+#, fuzzy, no-wrap
+msgid "Deny Access"
+msgstr "DOS access"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:77
+#, fuzzy, no-wrap
+msgid "6"
+msgstr "6"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:47 C/gs-thumb-timezone.svg:78
+#, fuzzy, no-wrap
+msgid "7"
+msgstr "7"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:96
+#, fuzzy, no-wrap
+msgid "Use for"
+msgstr "இதை இதற்கு பயனாகுக"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:97
+#, fuzzy, no-wrap
+msgid "Mail"
+msgstr "மின்னஞ்சல்"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:102
+#, fuzzy, no-wrap
+msgid "Calendar"
+msgstr "நாள்காட்டி"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:107 C/gs-search2.svg:264
+#, fuzzy, no-wrap
+msgid "Contacts"
+msgstr "தொடர்புகள்"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:112
+#, fuzzy, no-wrap
+msgid "Chat"
+msgstr "அரட்டை"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:117
+#, fuzzy, no-wrap
+msgid "Documents"
+msgstr "ஆவணங்கள்"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:122 C/gs-goa5.svg:123 C/gs-goa5.svg:124 C/gs-goa5.svg:125
+#: C/gs-goa5.svg:126 C/gs-go-online3.svg:288 C/gs-search-settings.svg:155
+#: C/gs-search-settings.svg:272 C/gs-search-settings.svg:279
+#: C/gs-search-settings.svg:286
+#, fuzzy, no-wrap
+msgid "ON"
+msgstr "ஆன்"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:240 C/gs-search1.svg:188 C/gs-search2.svg:144
+#: C/gs-thumb-changing-wallpaper.svg:73 C/gs-thumb-launching-apps.svg:197
+#: C/gs-thumb-responding-to-messages.svg:44 C/gs-thumb-task-switching.svg:160
+#: C/gs-thumb-timezone.svg:49 C/gs-thumb-windows-and-workspaces.svg:97
+#, fuzzy, no-wrap
+msgid "14:30"
+msgstr "30 நிமிடங்கள்"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:287 C/gs-go-online3.svg:274
+#, fuzzy, no-wrap
+msgid "Network Settings"
+msgstr "பிணைய அமைவுகள்"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:288 C/gs-go-online3.svg:275
+#, fuzzy, no-wrap
+msgid "Wired"
+msgstr "ஒயர்டு"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:289 C/gs-go-online3.svg:276
+#, fuzzy, no-wrap
+msgid "Cable unplugged"
+msgstr "இணைப்பு துண்டிக்கப்பட்டது"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:290 C/gs-go-online3.svg:277
+#, fuzzy, no-wrap
+msgid "Mobile broadband"
+msgstr "லை அகலப்பட்டை"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:292 C/gs-go-online1.svg:301 C/gs-go-online3.svg:279
+#: C/gs-search-settings.svg:293
+#, fuzzy, no-wrap
+msgid "OFF"
+msgstr "ஆஃப்"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:299 C/gs-go-online3.svg:286
+#, fuzzy, no-wrap
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:309
+#, fuzzy, no-wrap
+msgid "Wireless"
+msgstr "கம்பியில்லா"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:310
+#, fuzzy, no-wrap
+msgid "Private"
+msgstr "தனிப்பட்ட"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:311
+#, fuzzy, no-wrap
+msgid "Weak"
+msgstr "பலகீனமானது"
+
+#. (itstool) path: info/title
+#: C/gs-launch-applications.page:18
+#, fuzzy
+msgctxt "link:trail"
+msgid "Launch applications"
+msgstr "பரிந்துரைக்கப்பட்ட பயன்பாடுகள்"
+
+#. (itstool) path: info/title
+#: C/gs-launch-applications.page:20
+#, fuzzy
+msgctxt "link:seealso"
+msgid "A tutorial on launching applications"
+msgstr "சாதனத்தில் நிறுவிய பயன்பாடுகளை பட்டியலிடுதல் தோல்வி அடைந்தது"
+
+#. (itstool) path: section/title
+#: C/gs-launch-applications.page:62
+#, fuzzy
+msgid "Launch applications with the mouse"
+msgstr "APPLICATION [URI...] - URI கொண்டு ஒரு APPLICATION ஐ ஏற்று."
+
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:67
+msgid ""
+"Click the <gui>Show Applications</gui> icon that is shown at the bottom of "
+"the bar on the left-hand side of the screen."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:69
+msgid ""
+"A list of applications is shown. Click the application you want to run, for "
+"example, Help."
+msgstr ""
+"பயன்பாடுகளின் பட்டியல் காண்பிக்கப்படுகிறது. நீங்கள் இயக்க விரும்பும் பட்டியலைச் சொடுக்கவும், "
+"உதாரணம் Help."
+
+#. (itstool) path: section/title
+#: C/gs-launch-applications.page:76
+#, fuzzy
+msgid "Launch applications with the keyboard"
+msgstr "APPLICATION [URI...] - URI கொண்டு ஒரு APPLICATION ஐ ஏற்று."
+
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:79 C/gs-use-system-search.page:26
+msgid ""
+"Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:81
+msgid ""
+"Start typing the name of the application you want to launch. Searching for "
+"the application begins instantly."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:83
+msgid ""
+"Once the icon of the application is shown and selected, press <key> Enter</"
+"key> to launch the application."
+msgstr ""
+
+#. (itstool) path: p/link
+#: C/gs-legal.xml:3
+#, fuzzy
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+msgstr ""
+"     * ஒரு சட்டம் சார்ந்த ஃப்ரேம் கலைஞர்களை பாதுகாக்கிறது (Creative Commons "
+"உரிமங்களுக்கு நன்றி)."
+
+#. (itstool) path: license/p
+#: C/gs-legal.xml:3
+#, fuzzy
+msgid "This work is licensed under a <_:link-1/>."
+msgstr "இந்த மென்பொருள்  GPL நிபந்தனை உரிமத்திற்கு அடியில்."
+
+#. (itstool) path: info/title
+#: C/gs-respond-messages.page:17
+#, fuzzy
+msgctxt "link:trail"
+msgid "Respond to messages"
+msgstr "'%s' க்கு செய்தியை நகர்த்துகிறது"
+
+#. (itstool) path: info/title
+#: C/gs-respond-messages.page:19
+#, fuzzy
+msgctxt "link:seealso"
+msgid "A tutorial on responding to messages"
+msgstr "பணிமுனைய செய்தியை stdout இல் எழுத வேண்டுமா"
+
+#. (itstool) path: section/title
+#: C/gs-respond-messages.page:89
+#, fuzzy
+msgid "Respond to a chat message with the mouse"
+msgstr "செய்தி வடத்துடன் பதிவு செய்ய முடியவில்லை"
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:94 C/gs-respond-messages.page:130
+msgid ""
+"Start typing your reply and when finished, press <key>Enter</key> to send "
+"the reply."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:96 C/gs-respond-messages.page:115
+msgid ""
+"To close the chat message, click the close button at the top right corner of "
+"the chat message."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-respond-messages.page:103
+#, fuzzy
+msgid "Delayed response to a chat message using the mouse"
+msgstr "குழு அரட்டையில் செல்லப்பெயர் கீற்றில் செல்லப்பெயருக்குப்பின் சேர்க்க வேண்டிய எழுத்துரு"
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:106
+msgid ""
+"When a chat message appears in the message tray and you do not move your "
+"mouse to the message tray, the message disappears after a while."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:109
+msgid ""
+"To get back to your unanswered message, move your mouse to the message tray "
+"at the very bottom of the screen."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:111
+msgid ""
+"When the message tray appears, click a small image that represents the "
+"person who sent you the message."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:113
+msgid ""
+"When the chat message is shown, start typing your reply and when finished, "
+"press <key>Enter</key> to send the reply."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-respond-messages.page:122
+#, fuzzy
+msgid "Delayed response to a chat message using the keyboard"
+msgstr "குழு அரட்டையில் செல்லப்பெயர் கீற்றில் செல்லப்பெயருக்குப்பின் சேர்க்க வேண்டிய எழுத்துரு"
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:124
+msgid ""
+"To get back to your unanswered chat messages, press <keyseq> <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq> to "
+"display the message tray that contains the messages."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:128
+msgid ""
+"Use the arrow keys to select a small image representing the person you want "
+"to reply to, and press <key>Enter</key>."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:133
+msgid ""
+"To dismiss the message tray, press <key>Esc</key> or <keyseq> <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>."
+msgstr ""
+
+#. (itstool) path: text/tspan
+#: C/gs-search1.svg:200
+#, fuzzy, no-wrap
+msgid "just type"
+msgstr "பகிர்வு வகை"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:153
+#, fuzzy, no-wrap
+msgid "con"
+msgstr "மாறிலிகள்"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:217
+#, fuzzy, no-wrap
+msgid "Accounts"
+msgstr "கணக்கு"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:218
+#, no-wrap
+msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+msgstr ""
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:219
+#, fuzzy, no-wrap
+msgid "config"
+msgstr "பிகேஜி கான்பிக்(pkg-config)"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:220 C/gs-search2.svg:223
+#, fuzzy, no-wrap
+msgid "fontconfig"
+msgstr "Fontconfig கட்டமைப்பு நேரம்"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:221
+#, fuzzy, no-wrap
+msgid "system-config-http.zip"
+msgstr "system-config-users பற்றி"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:222
+#, fuzzy, no-wrap
+msgid "Icon guidelines"
+msgstr "ஊடக சின்னம்"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:240
+#, fuzzy, no-wrap
+msgid "Secure Linux Containers"
+msgstr "LXC (Linux கன்டெய்னர்கள்)"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:241
+#, fuzzy, no-wrap
+msgid "Developer Conference 2012"
+msgstr "உரையாடலை உருவாக்குவதில் பிழை."
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:265 C/gs-web-browser2-firefox.svg:218
+#, fuzzy, no-wrap
+msgid "Firefox"
+msgstr "Firefox"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:137
+#, fuzzy, no-wrap
+msgid "Search"
+msgstr "தேடு"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:148
+#, fuzzy, no-wrap
+msgid "Files"
+msgstr "கோப்புகள்"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:149
+#, fuzzy, no-wrap
+msgid "Enabled"
+msgstr "செயலாக்கப்பட்டது"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:264 C/gs-web-browser2.svg:214
+#, fuzzy, no-wrap
+msgid "Web"
+msgstr "வலை"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:265
+#, fuzzy, no-wrap
+msgid "Photos"
+msgstr "படங்கள்"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:266
+#, fuzzy, no-wrap
+msgid "Music"
+msgstr "இசை"
+
+#. (itstool) path: info/title
+#: C/gs-switch-tasks.page:17
+#, fuzzy
+msgctxt "link:trail"
+msgid "Switch tasks"
+msgstr "பணியை அச்சடி"
+
+#. (itstool) path: info/title
+#: C/gs-switch-tasks.page:19
+#, fuzzy
+msgctxt "link:seealso"
+msgid "A tutorial on switching tasks"
+msgstr "கம்பியில்லா வட்டத்துக்கு மாறுவது <b>%s</b> யிலிருந்ஹ்டு உங்களை துண்டிக்கும்."
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:102
+msgid ""
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen to show the <gui>Activities Overview</gui> where you can see "
+"the currently running tasks displayed as small windows."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:112
+msgid ""
+"You can switch between tasks by using the <gui>window list</gui> at the "
+"bottom of the screen. Open tasks appear as buttons in the <gui>window list</"
+"gui>."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:115
+msgid "Click a button in the <gui>window list</gui> to switch to that task."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-switch-tasks.page:125 C/gs-use-windows-workspaces.page:114
+#, fuzzy
+msgid "Tile windows"
+msgstr "விண்டோஸ் லைவ் "
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:128 C/gs-use-windows-workspaces.page:118
+msgid ""
+"To maximize a window along a side of the screen, grab the window's titlebar "
+"and drag it to the left or right side of the screen."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:130 C/gs-use-windows-workspaces.page:120
+msgid ""
+"When half of the screen is highlighted, release the window to maximize it "
+"along the selected side of the screen."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:132 C/gs-use-windows-workspaces.page:122
+msgid ""
+"To maximize two windows side-by-side, grab the titlebar of the second window "
+"and drag it to the opposite side of the screen."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:134 C/gs-use-windows-workspaces.page:124
+msgid ""
+"When half of the screen is highlighted, release the window to maximize it "
+"along the opposite side of the screen."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-switch-tasks.page:141
+#, fuzzy
+msgid "Switch between windows"
+msgstr "சாளரங்களுக்கு இடையே மாற்றும் கருவி"
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:144
+msgid ""
+"Press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which "
+"lists the currently open windows."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:147
+msgid ""
+"Release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> to "
+"select the next highlighted window in the <gui>window switcher</gui>."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-switch-tasks.page:158
+#, fuzzy
+msgid "Use search to switch applications"
+msgstr "பயன்படுத்தப்படும் முன்னிருப்பு தேடும் முறை"
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:161
+msgid ""
+"Press the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key "
+"to show the <gui>Activities Overview</gui>."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:163
+msgid ""
+"Just start typing the name of the application you want to switch to. "
+"Applications matching what you have typed will appear as you type."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:166
+msgid ""
+"When the application that you want to switch to appears as the first result, "
+"press <key>Enter</key> to switch to it."
+msgstr ""
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-responding-to-messages.svg:59
+#, fuzzy, no-wrap
+msgid "Thanks f"
+msgstr "நன்றிகள்"
+
+#. (itstool) path: text/tspan
+#. Translators: S stands for Sunday here
+#: C/gs-thumb-timezone.svg:64
+#, fuzzy, no-wrap
+msgctxt "Sunday"
+msgid "S"
+msgstr "S"
+
+#. (itstool) path: text/tspan
+#. Translators: M stands for Monday here
+#: C/gs-thumb-timezone.svg:65
+#, fuzzy, no-wrap
+msgid "M"
+msgstr "தி"
+
+#. (itstool) path: text/tspan
+#. Translators: T stands for Tuesday here
+#: C/gs-thumb-timezone.svg:66
+#, fuzzy, no-wrap
+msgctxt "Tuesday"
+msgid "T"
+msgstr "செ"
+
+#. (itstool) path: text/tspan
+#. Translators: W stands for Wednesday here
+#: C/gs-thumb-timezone.svg:67
+#, fuzzy, no-wrap
+msgid "W"
+msgstr "பு"
+
+#. (itstool) path: text/tspan
+#. Translators: T stands for Thursday here
+#: C/gs-thumb-timezone.svg:68
+#, fuzzy, no-wrap
+msgctxt "Thursday"
+msgid "T"
+msgstr "செ"
+
+#. (itstool) path: text/tspan
+#. Translators: F stands for Friday here
+#: C/gs-thumb-timezone.svg:69
+#, fuzzy, no-wrap
+msgid "F"
+msgstr "வெ"
+
+#. (itstool) path: text/tspan
+#. Translators: S stands for Saturday here
+#: C/gs-thumb-timezone.svg:70
+#, fuzzy, no-wrap
+msgctxt "Saturday"
+msgid "S"
+msgstr "S"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:79
+#, fuzzy, no-wrap
+msgid "8"
+msgstr "8"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:80
+#, fuzzy, no-wrap
+msgid "9"
+msgstr "9"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:81
+#, fuzzy, no-wrap
+msgid "10"
+msgstr "10"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:82
+#, fuzzy, no-wrap
+msgid "11"
+msgstr "11"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:83
+#, fuzzy, no-wrap
+msgid "12"
+msgstr "12"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:84
+#, fuzzy, no-wrap
+msgid "13"
+msgstr "13"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:85
+#, fuzzy, no-wrap
+msgid "14"
+msgstr "14"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:87
+#, fuzzy, no-wrap
+msgid "15"
+msgstr "15"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:88
+#, fuzzy, no-wrap
+msgid "16"
+msgstr "16"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:89
+#, fuzzy, no-wrap
+msgid "17"
+msgstr "Auxiliary 17"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:90
+#, fuzzy, no-wrap
+msgid "18"
+msgstr "18"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:91
+#, fuzzy, no-wrap
+msgid "19"
+msgstr "Auxiliary 19"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:92
+#, fuzzy, no-wrap
+msgid "20"
+msgstr "20"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:93
+#, fuzzy, no-wrap
+msgid "21"
+msgstr "Auxiliary 21"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:95
+#, fuzzy, no-wrap
+msgid "22"
+msgstr "22"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:96
+#, fuzzy, no-wrap
+msgid "23"
+msgstr "Auxiliary 23"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:97
+#, fuzzy, no-wrap
+msgid "24"
+msgstr "24"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:98
+#, fuzzy, no-wrap
+msgid "25"
+msgstr "25%"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:99
+#, fuzzy, no-wrap
+msgid "26"
+msgstr "Auxiliary 26"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:100
+#, fuzzy, no-wrap
+msgid "27"
+msgstr "Auxiliary 27"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:101
+#, fuzzy, no-wrap
+msgid "28"
+msgstr "Auxiliary 28"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:103
+#, fuzzy, no-wrap
+msgid "29"
+msgstr "Auxiliary 29"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:104
+#, fuzzy, no-wrap
+msgid "30"
+msgstr "30%"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:105
+#, fuzzy, no-wrap
+msgid "31"
+msgstr "31"
+
+#. (itstool) path: info/title
+#: C/gs-use-system-search.page:16
+#, fuzzy
+msgctxt "link:trail"
+msgid "Use the system search"
+msgstr "கணினி இயல்பான நேர மண்டலத்தை பயன்படுத்து"
+
+#. (itstool) path: info/title
+#: C/gs-use-system-search.page:18
+#, fuzzy
+msgctxt "link:seealso"
+msgid "A tutorial on using the system search"
+msgstr ""
+"Linux ஆனது System&nbsp;z Red Hat Enterprise Linux இல் மொத்த கருவிகளை "
+"பயன்படுத்துகிறது"
+
+#. (itstool) path: page/title
+#: C/gs-use-system-search.page:21
+#, fuzzy
+msgid "Use the system search"
+msgstr "கணினி இயல்பான நேர மண்டலத்தை பயன்படுத்து"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:28
+msgid ""
+"Start typing to search. Results matching what you have typed will appear as "
+"you type."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:30
+msgid ""
+"The first result is always highlighted and shown at the top. Press "
+"<key>Enter</key> to switch to the first highlighted result."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:36
+#, fuzzy
+msgid "Items that may appear in the search results include:"
+msgstr ""
+"செயல்பாடுகளின் மேலோட்டப் பார்வையில், எந்த பயன்பாடுகள் தேடல் முடிவுகளைக் காண்பிக்க வேண்டும் "
+"என்பதைக் கட்டுப்படுத்தவும்"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:38
+#, fuzzy
+msgid "matching applications, shown at the top of the search results,"
+msgstr "மெனு பட்டியல் மேல் மற்றும் கீழ் உள்ள கூடுதல் இடைவெளி"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:40
+#, fuzzy
+msgid "matching settings,"
+msgstr "பிணைய அமைவுகள்"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:41
+#, fuzzy
+msgid "matching contacts, and"
+msgstr "தொடர்புகள் மற்றும் தானாக முடித்தல் பகுதியை இங்கே அமை"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:42
+#, fuzzy
+msgid "matching documents."
+msgstr "அனைத்து ஆவணங்கள்"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:45
+#, fuzzy
+msgid "In the search results, click the item to switch to it."
+msgstr ""
+"%s இமைப்பதை அனுப்பியது. <a href='msn-wink://%s'>இங்கே இதை இயக்க கிளக் செய்</a>"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:46
+#, fuzzy
+msgid ""
+"Alternatively, highlight an item using the arrow keys and press <key>Enter</"
+"key>."
+msgstr ""
+"வகை <command>bootrec /fixmbr</command> மற்றும் இதை  <keycap>உள்ளிடு</keycap> "
+"அழுத்தவும்."
+
+#. (itstool) path: section/title
+#: C/gs-use-system-search.page:52
+#, fuzzy
+msgid "Search from inside applications"
+msgstr "தேடலிருந்து தேடும் அடைவை உருவாக்கு... (_r)"
+
+#. (itstool) path: section/p
+#: C/gs-use-system-search.page:54
+msgid ""
+"The system search aggregates results from various applications. On the left-"
+"hand side of the search results, you can see icons of applications that "
+"provided the search results. Click one of the icons to restart the search "
+"from inside the application associated with that icon. Because only the best "
+"matches are shown in the <gui>Activities Overview</gui>, searching from "
+"inside the application may give you better search results."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-use-system-search.page:66
+#, fuzzy
+msgid "Customize search results"
+msgstr "'%s' க்குத் தேடு "
+
+#. (itstool) path: note/p
+#: C/gs-use-system-search.page:71
+msgid ""
+"GNOME lets you customize what you want to display in the search results in "
+"the <gui>Activities Overview</gui>. For example, you can choose whether you "
+"want to show results for websites, photos, or music."
+msgstr ""
+
+#. (itstool) path: section/p
+#: C/gs-use-system-search.page:77
+#, fuzzy
+msgid "To customize what is displayed in the search results:"
+msgstr ""
+"செயல்பாடுகளின் மேலோட்டப் பார்வையில், எந்த பயன்பாடுகள் தேடல் முடிவுகளைக் காண்பிக்க வேண்டும் "
+"என்பதைக் கட்டுப்படுத்தவும்"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:82
+#, fuzzy
+msgid "From the list of items, select <gui>Search</gui>."
+msgstr "கீழ் விரி பட்டியலிலிருந்து தேடல் விருப்பத்தை தேர்ந்தெடுக்கவும்"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:83
+msgid ""
+"In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
+"the search location you want to enable or disable."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/gs-use-windows-workspaces.page:16
+#, fuzzy
+msgctxt "link:trail"
+msgid "Use windows and workspaces"
+msgstr "விண்டோக்கள் மற்றும் கணினியின் கடிகாரம்"
+
+#. (itstool) path: info/title
+#: C/gs-use-windows-workspaces.page:18
+#, fuzzy
+msgctxt "link:seealso"
+msgid "A tutorial on using windows and workspaces"
+msgstr " விசைப்பலகையில் இருந்து அணுகல் சிறப்பு இயல்புகளை இயக்கு/இயக்கம் நீக்கு"
+
+#. (itstool) path: section/title
+#: C/gs-use-windows-workspaces.page:98
+#, fuzzy
+msgid "Maximize and unmaximize windows"
+msgstr "விண்டோக்கள் மற்றும் கணினியின் கடிகாரம்"
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:102
+msgid ""
+"To maximize a window so that it takes up all of the space on your desktop, "
+"grab the window's titlebar and drag it to the top of the screen."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:105
+#, fuzzy
+msgid "When the screen is highlighted, release the window to maximize it."
+msgstr ""
+"உண்மையெனில், சாளரத்தை பெரிதாக்கும் போது தற்போதைய பணியிடத்திற்கு நகர்த்து. அல்லது பணி "
+"இடத்தை வேறு சாளரத்திற்கு கொண்டு செல்."
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:107
+msgid ""
+"To restore a window to its unmaximized size, grab the window's titlebar and "
+"drag it away from the edges of the screen."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-use-windows-workspaces.page:131
+#, fuzzy
+msgid "Maximize and unmaximize windows using the keyboard"
+msgstr " விசைப்பலகையில் இருந்து அணுகல் சிறப்பு இயல்புகளை இயக்கு/இயக்கம் நீக்கு"
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:137
+msgid ""
+"To unmaximize a window using the keyboard, hold down the <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</key>."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-use-windows-workspaces.page:145
+#, fuzzy
+msgid "Tile windows using the keyboard"
+msgstr "விசைப்பலகையைப் பயன்படுத்தி நகர்தல்"
+
+#. (itstool) path: section/title
+#: C/gs-use-windows-workspaces.page:159
+#, fuzzy
+msgid "Switch workspaces using the keyboard"
+msgstr "விசைப்பலகையைப் பயன்படுத்தி நகர்தல்"
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:163
+msgid ""
+"To move to a workspace which is below the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
+"key><key>Page Down</key></keyseq>."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:166
+msgid ""
+"To move to a workspace which is above the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
+"key><key>Page Up</key></keyseq>."
+msgstr ""
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser1-firefox-classic.svg:118
+#, fuzzy, no-wrap
+msgid "Applications"
+msgstr "பயன்பாடுகள்"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:147 C/gs-web-browser2.svg:151
+#, fuzzy, no-wrap
+msgid "gnome"
+msgstr "GNOME"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:151 C/gs-web-browser2.svg:155
+#, fuzzy, no-wrap
+msgid "Planet Gnome"
+msgstr "க்னோம் கடிகாரங்கள்"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:152 C/gs-web-browser2.svg:156
+#, fuzzy, no-wrap
+msgid "GNOME 3"
+msgstr "GNOME"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:153 C/gs-web-browser2.svg:157
+#, fuzzy, no-wrap
+msgid "http://planet.gnome.org"
+msgstr "இது NetworkManager இன் நிரல் ஆகும் (http://projects.gnome.org/NetworkManager)."
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:154 C/gs-web-browser2.svg:158
+#, fuzzy, no-wrap
+msgid "http://gnome.org"
+msgstr "இது NetworkManager இன் நிரல் ஆகும் (http://projects.gnome.org/NetworkManager)."
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:275
+#, fuzzy, no-wrap
+msgid "planet.gnome.org"
+msgstr ""
+"GNOMEக்கான ஒரு ஒலி பதிவி\n"
+" gnome-multimedia@gnome.org"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2.svg:252
+#, fuzzy, no-wrap
+msgid "Planet GNOME"
+msgstr "க்னோம் கடிகாரங்கள்"
