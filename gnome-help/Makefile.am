@@ -10,8 +10,7 @@ HELP_MEDIA = \
 	figures/gnome-responding-to-messages.webm \
 	figures/gnome-task-switching.webm \
 	figures/gnome-timezone.webm \
-	figures/gnome-windows-and-workspaces.webm \
-	figures/gnome-yelp-intro.webm
+	figures/gnome-windows-and-workspaces.webm
 
 # Please ASK MAINTAINERS first before updating the HELP_FILES list below.
 # Keep in mind that some files are missing on purpose.
