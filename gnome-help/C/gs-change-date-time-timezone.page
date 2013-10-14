@@ -41,7 +41,8 @@
            <tt:p>Select the <gui>Date &amp; Time Settings</gui> item.</tt:p>
          </tt:div>
          <tt:div begin="13s" end="16s">
-           <tt:p>Click on your location on the map.</tt:p>
+           <tt:p>Click the <gui>Time Zone</gui> item, and then click on your
+           location on the map.</tt:p>
          </tt:div>
          <tt:div begin="16s" end="20s">
            <tt:p>You can adjust the date and time by clicking on the arrows to
@@ -64,25 +65,23 @@
     <title>Change the date, time and timezone</title>
 
   <steps>
-    <item><p>Click the clock on the top bar.</p></item>
-    <item><p>Select the <gui>Date &amp; Time Settings</gui> item.</p></item>
-    <item>
-    
-    <comment>
-    <cite date="2013-06-20">pmkovar</cite>
-    <p>Changing timezone hopefully won't require authorization.</p>
-    </comment>
-
-    <p>You may need to click the <gui>Unlock</gui> button and type the
-     administrator's password.</p></item>
-    <item><p>Click on your location on the map.</p>
-    <p>This selects your current city, which you can also see and change in the
-     drop-down list below the map.</p></item>
-    <item><p>On the right-hand side of the window, you can adjust the date and
-     time by clicking on the arrows to choose the hour, minute, and year.</p>
+    <item><p>Click the clock on the top bar and select the <gui>Date &amp; Time
+     Settings</gui> item.</p></item>
+    <item><p>Make sure that the <gui>Automatic Time Zone</gui> item is switched
+     off, and then click the <gui>Time Zone</gui> item below.</p></item>
+    <item><p>Click on your location on the map. This selects your current city,
+     which you can also search for in the
+     search box above the map.</p></item>
+    <item><p>Click the <gui>Close</gui> button to go back to the <gui>Date &amp;
+     Time Settings</gui> window.</p></item>
+    <item><p>Make sure that the <gui>Automatic Date &amp; Time</gui> item is
+     switched off, and then click the <gui>Date &amp; Time</gui> item below to
+     open the <gui>Date &amp; Time</gui> window. There you can adjust your date
+     and time settings by clicking on the <gui>+</gui> or <gui>-</gui> buttons.</p>
      </item>
-    <item><p>Close the window by clicking the cross at the top-right corner of
-     the window.</p></item>
+    <item><p>Click the <gui>Close</gui> button to go back to the <gui>Date &amp;
+     Time Settings</gui> window, and then close that window by clicking the
+     cross at the top-right corner of that window.</p></item>
   </steps>
 
   <!-- FIXME: 
