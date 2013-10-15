@@ -19,7 +19,7 @@ def main():
       bpy.data.objects['typewriter'].data.body = t[lang].find('t[@id="bubble.response"]').text
       bpy.data.objects['typewriter2'].data.body = t[lang].find('t[@id="bubble.response2"]').text
       bpy.data.objects['typewriter3'].data.body = t[lang].find('t[@id="bubble.response3"]').text
-      bpy.data.objects['user.mt.bubble'].data.body = bpy.data.objects['user'].data.body #needs to be left aligned :/
+      #bpy.data.objects['user.mt.bubble'].data.body = bpy.data.objects['user'].data.body #needs to be left aligned :/
       gnomerender.render(lang)
       gnomerender.transcode(lang)
     
