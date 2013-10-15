@@ -23,8 +23,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-10-14 17:29+0000\n"
-"PO-Revision-Date: 2013-10-15 16:58+0200\n"
+"POT-Creation-Date: 2013-10-15 15:02+0000\n"
+"PO-Revision-Date: 2013-10-15 17:02+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -634,6 +634,22 @@ msgstr "Configuración de fecha y hora"
 msgid "Automatic Date and Time"
 msgstr "Fecha y hora automáticas"
 
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:42
+#| msgid "Automatic Date and Time"
+msgid "Automatic Timezone"
+msgstr "Zona horaria automática"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:43
+msgid "14 October 2013, 20:00"
+msgstr "14 de octubre de 2013, 20:00"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:44
+msgid "14 October 2013, 14:00"
+msgstr "14 de octubre de 2013, 14:00"
+
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:11 C/gs-browse-web-firefox.page:12
 #: C/gs-change-date-time-timezone.page:12 C/gs-change-wallpaper.page:11
@@ -812,8 +828,6 @@ msgstr "Seleccione el elemento <gui>Configuración de fecha y hora</gui>."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:44
-#| msgid ""
-#| "Click the <gui>Applications</gui> menu at the top left of the screen."
 msgid ""
 "Click the <gui>Time Zone</gui> item, and then click on your location on the "
 "map."
@@ -837,7 +851,6 @@ msgstr "Cierre la ventana."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:68
-#| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
 msgid ""
 "Click the clock on the top bar and select the <gui>Date &amp; Time Settings</"
 "gui> item."
@@ -856,9 +869,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:72
-#| msgid ""
-#| "This selects your current city, which you can also see and change in the "
-#| "drop-down list below the map."
 msgid ""
 "Click on your location on the map. This selects your current city, which you "
 "can also search for in the search box above the map."
@@ -868,7 +878,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:75
-#| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
 msgid ""
 "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
 "Settings</gui> window."
@@ -891,9 +900,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:82
-#| msgid ""
-#| "Close the <gui>Background</gui> window by clicking the cross at the top-"
-#| "right corner of the window."
 msgid ""
 "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
 "Settings</gui> window, and then close that window by clicking the cross at "
@@ -937,14 +943,12 @@ msgstr "Seleccione <gui>Fondo</gui>."
 
 #. (itstool) path: div/p
 #: C/gs-change-wallpaper.page:40
-#| msgid "Click the background image that you want to use."
 msgid "Click the current background image."
 msgstr "Pulse la imagen de fondo actual."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:43 C/gs-change-wallpaper.page:65
-#| msgid "Click the background image that you want to use."
 msgid "Click the background image you want to use."
 msgstr "Pulse en la imagen de fondo que quiera utilizar."
 
@@ -975,9 +979,6 @@ msgstr "De la lista de elementos, seleccione <gui>Fondo</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:63
-#| msgid ""
-#| "Click the image of your current wallpaper in the center of the "
-#| "<gui>Background</gui> window."
 msgid ""
 "Click the current background image on the left side of the <gui>Background</"
 "gui> window."
@@ -1013,7 +1014,6 @@ msgstr "Conectarse a cuentas en línea"
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:27
-#| msgid "Click the clock on the top bar."
 msgid "Click the system menu on the right side of the top bar."
 msgstr "Pulse en el menú del sistema en la parte derecha de la barra superior."
 
@@ -1024,7 +1024,6 @@ msgstr "Pulse el botón de configuración en la parte inferior del menú."
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:34
-#| msgid "From the list of items, select <gui>Online Accounts</gui>."
 msgid ""
 "From the list of items, select <gui>Online Accounts</gui>, then click on the "
 "<gui>Add an online account</gui> button."
@@ -2135,9 +2134,6 @@ msgstr "Utilizar la búsqueda de sistema"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:26
-#| msgid ""
-#| "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
-#| "gnome-help/keyboard-key-super\">Super</key> key."
 msgid ""
 "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key. Start typing to search."
@@ -2157,9 +2153,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:31
-#| msgid ""
-#| "The first result is always highlighted and shown at the top. Press "
-#| "<key>Enter</key> to switch to the first highlighted result."
 msgid "Press <key>Enter</key> to switch to the first highlighted result."
 msgstr "Pulse <key>Intro</key> para cambiar al primer resultado resaltado."
 
