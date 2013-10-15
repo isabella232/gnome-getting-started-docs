@@ -23,8 +23,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-08-29 14:34+0000\n"
-"PO-Revision-Date: 2013-09-03 16:55+0200\n"
+"POT-Creation-Date: 2013-10-14 17:29+0000\n"
+"PO-Revision-Date: 2013-10-15 16:58+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -503,11 +503,11 @@ msgstr "Mitad derecha de la pantalla"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:18 C/gs-go-online1.svg:241 C/gs-search1.svg:190
-#: C/gs-search2.svg:146 C/gs-thumb-changing-wallpaper.svg:71
-#: C/gs-thumb-launching-apps.svg:195 C/gs-thumb-responding-to-messages.svg:42
-#: C/gs-thumb-task-switching.svg:158 C/gs-thumb-timezone.svg:47
-#: C/gs-thumb-windows-and-workspaces.svg:95 C/gs-web-browser1-firefox.svg:122
+#: C/gs-animation.xml:18 C/gs-go-online1.svg:241 C/gs-search1.svg:198
+#: C/gs-search2.svg:154 C/gs-thumb-changing-wallpaper.svg:54
+#: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-responding-to-messages.svg:51
+#: C/gs-thumb-task-switching.svg:167 C/gs-thumb-timezone.svg:56
+#: C/gs-thumb-windows-and-workspaces.svg:104 C/gs-web-browser1-firefox.svg:122
 #: C/gs-web-browser1.svg:122
 #, no-wrap
 msgid "Activities"
@@ -555,22 +555,15 @@ msgstr "Solo comience a escribir…"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:27 C/gs-goa1.svg:43 C/gs-goa1.svg:70
-#: C/gs-go-online1.svg:239 C/gs-go-online1.svg:250 C/gs-go-online1.svg:316
-#: C/gs-go-online2.svg:235 C/gs-go-online2.svg:266 C/gs-go-online3.svg:332
-#: C/gs-search1.svg:187 C/gs-search2.svg:143
-#: C/gs-thumb-changing-wallpaper.svg:72 C/gs-thumb-launching-apps.svg:196
-#: C/gs-thumb-responding-to-messages.svg:43
-#: C/gs-thumb-responding-to-messages.svg:61 C/gs-thumb-task-switching.svg:159
-#: C/gs-thumb-timezone.svg:48 C/gs-thumb-windows-and-workspaces.svg:96
+#: C/gs-animation.xml:27 C/gs-go-online1.svg:239 C/gs-go-online1.svg:250
+#: C/gs-go-online1.svg:316 C/gs-go-online2.svg:235 C/gs-go-online2.svg:266
+#: C/gs-go-online3.svg:332 C/gs-thumb-responding-to-messages.svg:90
 #, no-wrap
 msgid "John Doe"
 msgstr "Juan Pérez"
 
 #. (itstool) path: titles/t
-#. (itstool) path: text/tspan
-#: C/gs-animation.xml:28 C/gs-goa1.svg:75 C/gs-thumb-changing-wallpaper.svg:77
-#, no-wrap
+#: C/gs-animation.xml:28
 msgid "Settings"
 msgstr "Configuración"
 
@@ -601,7 +594,7 @@ msgstr "Estaré allí en un segundo…"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:34 C/gs-thumb-responding-to-messages.svg:60
+#: C/gs-animation.xml:34 C/gs-thumb-responding-to-messages.svg:89
 #, no-wrap
 msgid "Good stuff, thanks again"
 msgstr "¡Genial!, gracias de nuevo."
@@ -798,7 +791,7 @@ msgstr "Un tutorial para cambiar la fecha, la hora y la zona horaria"
 #. (itstool) path: page/title
 #. (itstool) path: section/title
 #: C/gs-change-date-time-timezone.page:24
-#: C/gs-change-date-time-timezone.page:64
+#: C/gs-change-date-time-timezone.page:65
 msgid "Change the date, time and timezone"
 msgstr "Cambiar la fecha, hora y zona horaria"
 
@@ -808,28 +801,28 @@ msgid "Changing Date &amp; Time"
 msgstr "Cambiar la fecha y la hora."
 
 #. (itstool) path: div/p
-#. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:38
-#: C/gs-change-date-time-timezone.page:67
 msgid "Click the clock on the top bar."
 msgstr "Pulse el reloj en la barra superior."
 
 #. (itstool) path: div/p
-#. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:41
-#: C/gs-change-date-time-timezone.page:68
 msgid "Select the <gui>Date &amp; Time Settings</gui> item."
 msgstr "Seleccione el elemento <gui>Configuración de fecha y hora</gui>."
 
 #. (itstool) path: div/p
-#. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:44
-#: C/gs-change-date-time-timezone.page:78
-msgid "Click on your location on the map."
-msgstr "Pulse en su ubicación en el mapa."
+#| msgid ""
+#| "Click the <gui>Applications</gui> menu at the top left of the screen."
+msgid ""
+"Click the <gui>Time Zone</gui> item, and then click on your location on the "
+"map."
+msgstr ""
+"Pulse en el elemento <gui>Zona horaria</gui> y luego pulse en su ubicación "
+"en el mapa."
 
 #. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:47
+#: C/gs-change-date-time-timezone.page:48
 msgid ""
 "You can adjust the date and time by clicking on the arrows to choose the "
 "hour, minute, and year."
@@ -838,47 +831,77 @@ msgstr ""
 "minutos y el año."
 
 #. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:51
+#: C/gs-change-date-time-timezone.page:52
 msgid "Close the window."
 msgstr "Cierre la ventana."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:76
+#: C/gs-change-date-time-timezone.page:68
+#| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
 msgid ""
-"You may need to click the <gui>Unlock</gui> button and type the "
-"administrator's password."
+"Click the clock on the top bar and select the <gui>Date &amp; Time Settings</"
+"gui> item."
 msgstr ""
-"Quizás necesite pulsar el botón <gui>Desbloquear</gui> y escribir la "
-"contraseña de administrador."
+"Pulse en el reloj en la barra superior y seleccione el elemento "
+"<gui>Configuración de fecha y hora</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:79
+#: C/gs-change-date-time-timezone.page:70
 msgid ""
-"This selects your current city, which you can also see and change in the "
-"drop-down list below the map."
+"Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
+"then click the <gui>Time Zone</gui> item below."
 msgstr ""
-"Esto selecciona su ciudad actual, que también puede ver y modificar en la "
-"lista desplegable que está debajo del mapa."
+"Asegúrese de que el elemento <gui>Zona horaria automática</gui> está "
+"desactivado y pulse en <gui>Zona horaria</gui> más abajo."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:81
+#: C/gs-change-date-time-timezone.page:72
 #| msgid ""
-#| "On the left-hand side of the window, you can adjust the date and time by "
-#| "clicking on the arrows to choose the hour, minute, and year."
+#| "This selects your current city, which you can also see and change in the "
+#| "drop-down list below the map."
 msgid ""
-"On the right-hand side of the window, you can adjust the date and time by "
-"clicking on the arrows to choose the hour, minute, and year."
+"Click on your location on the map. This selects your current city, which you "
+"can also search for in the search box above the map."
 msgstr ""
-"En el lado derecho de la ventana, puede ajustar la fecha y hora pulsando las "
-"flechas para elegir la hora, los minutos y el año."
+"Pulse en su ubicación en el mapa. Esto selecciona su ciudad actual, que "
+"también puede buscar en la caja de búsqueda de encima del mapa."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:84
+#: C/gs-change-date-time-timezone.page:75
+#| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
 msgid ""
-"Close the window by clicking the cross at the top-right corner of the window."
+"Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
+"Settings</gui> window."
 msgstr ""
-"Cierre la ventana pulsando la cruz que está en la esquina superior derecha "
-"de la ventana."
+"Pulse el botón <gui>Cerrar</gui> para volver a la ventana de "
+"<gui>Configuración de fecha y hora</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:77
+msgid ""
+"Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
+"off, and then click the <gui>Date &amp; Time</gui> item below to open the "
+"<gui>Date &amp; Time</gui> window. There you can adjust your date and time "
+"settings by clicking on the <gui>+</gui> or <gui>-</gui> buttons."
+msgstr ""
+"Asegúrese de que el elemento <gui>Fecha y hora automáticas</gui> está "
+"desactivado y pulse en <gui>Fecha y hora</gui> para abrir la ventana de "
+"<gui>Fecha y hora</gui>. Ahí podrá configurar la fecha y hora pulsando en "
+"los botones <gui>+</gui> o <gui>-</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:82
+#| msgid ""
+#| "Close the <gui>Background</gui> window by clicking the cross at the top-"
+#| "right corner of the window."
+msgid ""
+"Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
+"Settings</gui> window, and then close that window by clicking the cross at "
+"the top-right corner of that window."
+msgstr ""
+"Pulse el botón <gui>Cerrar</gui> para volver la ventana <gui>Configuración "
+"de fecha y hora</gui> y cierre esa ventana pulsando en la cruz en la esquina "
+"superior derecha de la ventana."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:17
@@ -894,60 +917,76 @@ msgstr "Un tutorial para cambiar el fondo de pantalla"
 
 #. (itstool) path: page/title
 #. (itstool) path: section/title
-#: C/gs-change-wallpaper.page:22 C/gs-change-wallpaper.page:56
+#: C/gs-change-wallpaper.page:22 C/gs-change-wallpaper.page:57
 msgid "Change the wallpaper"
 msgstr "Cambiar el fondo de pantalla"
 
 #. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:33 C/gs-change-wallpaper.page:59
-msgid "Click your name on the top bar and select <gui>Settings</gui>."
+#: C/gs-change-wallpaper.page:33
+msgid ""
+"Click the system menu on the right side of the top bar and press the "
+"settings button."
 msgstr ""
-"Pulse su nombre en la barra superior y seleccione <gui>Configuración</gui>."
+"Pulse en el menú del sistema en la parte derecha de la barra superior y "
+"pulse el botón de configuración."
 
 #. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:36
+#: C/gs-change-wallpaper.page:37
 msgid "Select <gui>Background</gui>."
 msgstr "Seleccione <gui>Fondo</gui>."
 
 #. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:39
-msgid "Click the image of your current wallpaper."
-msgstr "Pulse la imagen de su fondo de pantalla actual."
+#: C/gs-change-wallpaper.page:40
+#| msgid "Click the background image that you want to use."
+msgid "Click the current background image."
+msgstr "Pulse la imagen de fondo actual."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:42 C/gs-change-wallpaper.page:64
-msgid "Click the background image that you want to use."
-msgstr "Pulse la imagen de fondo que quiera utilizar."
+#: C/gs-change-wallpaper.page:43 C/gs-change-wallpaper.page:65
+#| msgid "Click the background image that you want to use."
+msgid "Click the background image you want to use."
+msgstr "Pulse en la imagen de fondo que quiera utilizar."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:45 C/gs-change-wallpaper.page:65
+#: C/gs-change-wallpaper.page:46 C/gs-change-wallpaper.page:66
 msgid "Click the <gui>Select</gui> button."
 msgstr "Pulse el botón <gui>Seleccionar</gui>."
 
 #. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:48
+#: C/gs-change-wallpaper.page:49
 msgid "Close the <gui>Background</gui> window."
 msgstr "Cierre la ventana <gui>Fondo</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:61
+#: C/gs-change-wallpaper.page:60 C/gs-use-system-search.page:80
+msgid ""
+"Click the system menu on the right side of the top bar and press the "
+"settings button at the bottom of the menu."
+msgstr ""
+"Pulse en el menú del sistema en la parte derecha de la barra superior y "
+"pulse el botón de configuración en la parte inferior del menú."
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:62
 msgid "From the list of items, select <gui>Background</gui>."
 msgstr "De la lista de elementos, seleccione <gui>Fondo</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:62
+#: C/gs-change-wallpaper.page:63
+#| msgid ""
+#| "Click the image of your current wallpaper in the center of the "
+#| "<gui>Background</gui> window."
 msgid ""
-"Click the image of your current wallpaper in the center of the "
-"<gui>Background</gui> window."
+"Click the current background image on the left side of the <gui>Background</"
+"gui> window."
 msgstr ""
-"Pulse la imagen del fondo de pantalla actual que está en el centro de la "
-"ventana <gui>Fondo</gui>."
+"Pulse la imagen del fondo de pantalla actual que está en la parte izquierda "
+"de la ventana <gui>Fondo</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:66
+#: C/gs-change-wallpaper.page:67
 msgid ""
 "Close the <gui>Background</gui> window by clicking the cross at the top-"
 "right corner of the window."
@@ -973,27 +1012,28 @@ msgid "Connect to online accounts"
 msgstr "Conectarse a cuentas en línea"
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:27 C/gs-use-system-search.page:80
-msgid "Click your name on the top bar."
-msgstr "Pulse su nombre en la barra superior."
+#: C/gs-connect-online-accounts.page:27
+#| msgid "Click the clock on the top bar."
+msgid "Click the system menu on the right side of the top bar."
+msgstr "Pulse en el menú del sistema en la parte derecha de la barra superior."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:28 C/gs-use-system-search.page:81
-msgid "Select the <gui>Settings</gui> item."
-msgstr "Seleccione el elemento <gui>Configuración</gui>."
+#: C/gs-connect-online-accounts.page:28
+msgid "Press the settings button at the bottom of the menu."
+msgstr "Pulse el botón de configuración en la parte inferior del menú."
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:34
-msgid "From the list of items, select <gui>Online Accounts</gui>."
-msgstr "De la lista de elementos, seleccione <gui>Cuentas en línea</gui>."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:36
-msgid "Click on the <gui>Add an online account</gui> button."
-msgstr "Pulse en el botón <gui>Agregar una cuenta en línea</gui>."
+#| msgid "From the list of items, select <gui>Online Accounts</gui>."
+msgid ""
+"From the list of items, select <gui>Online Accounts</gui>, then click on the "
+"<gui>Add an online account</gui> button."
+msgstr ""
+"De la lista de elementos, seleccione <gui>Cuentas en línea</gui> y pulse el "
+"botón <gui>Añadir una cuenta en línea</gui>."
 
 #. (itstool) path: note/p
-#: C/gs-connect-online-accounts.page:39
+#: C/gs-connect-online-accounts.page:38
 msgid ""
 "If you have set up an online account before, you can add another online "
 "account by clicking the <gui>+</gui> button at the bottom left corner of the "
@@ -1004,7 +1044,7 @@ msgstr ""
 "ventana."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:46
+#: C/gs-connect-online-accounts.page:45
 msgid ""
 "Click the online account you want to use. This will open a new window where "
 "you can sign in to your online account."
@@ -1013,7 +1053,7 @@ msgstr ""
 "donde puede iniciar sesión en su cuenta en línea."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:53
+#: C/gs-connect-online-accounts.page:52
 msgid ""
 "In most cases, you will have to grant access to the online service after "
 "signing in to get started."
@@ -1022,7 +1062,7 @@ msgstr ""
 "conceder acceso al servicio en línea para comenzar."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:55
+#: C/gs-connect-online-accounts.page:54
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
 "click the <gui>Grant Access</gui> button."
@@ -1031,7 +1071,7 @@ msgstr ""
 "<gui>Conceder acceso</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:62
+#: C/gs-connect-online-accounts.page:61
 msgid ""
 "Many online accounts let you choose the services you want to use with your "
 "online account. If you do not want to use a service, disable it by clicking "
@@ -1160,31 +1200,31 @@ msgstr ""
 "conexión de red a la que quiera conectarse."
 
 #. (itstool) path: Work/format
-#: C/gs-goa1.svg:21 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
-#: C/gs-goa5.svg:35 C/gs-go-online1.svg:220 C/gs-go-online2.svg:219
-#: C/gs-go-online3.svg:256 C/gs-search1.svg:88 C/gs-search2.svg:124
-#: C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:30
-#: C/gs-thumb-launching-apps.svg:180 C/gs-thumb-responding-to-messages.svg:27
-#: C/gs-thumb-task-switching.svg:80 C/gs-thumb-timezone.svg:32
-#: C/gs-thumb-windows-and-workspaces.svg:80
+#: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
+#: C/gs-goa5.svg:48 C/gs-go-online1.svg:220 C/gs-go-online2.svg:219
+#: C/gs-go-online3.svg:256 C/gs-search1.svg:97 C/gs-search2.svg:133
+#: C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:39
+#: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36
+#: C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
+#: C/gs-thumb-windows-and-workspaces.svg:89
 #: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
 #: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
-#: C/gs-web-browser2.svg:100
+#: C/gs-web-browser2.svg:102
 msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:61 C/gs-go-online1.svg:232 C/gs-go-online3.svg:269
-#: C/gs-search1.svg:100 C/gs-thumb-timezone.svg:72 C/gs-thumb-timezone.svg:106
-#: C/gs-web-browser1-firefox-classic.svg:115 C/gs-web-browser1-firefox.svg:120
-#: C/gs-web-browser1.svg:120
+#: C/gs-goa1.svg:80 C/gs-go-online1.svg:232 C/gs-go-online3.svg:269
+#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101
+#: C/gs-thumb-timezone.svg:135 C/gs-web-browser1-firefox-classic.svg:115
+#: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
 #, no-wrap
 msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:65 C/gs-go-online1.svg:283 C/gs-search2.svg:136
-#: C/gs-thumb-timezone.svg:73 C/gs-thumb-timezone.svg:107
+#: C/gs-goa1.svg:84 C/gs-go-online1.svg:283 C/gs-search2.svg:145
+#: C/gs-thumb-timezone.svg:102 C/gs-thumb-timezone.svg:136
 #: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
 #: C/gs-web-browser1.svg:153
 #, no-wrap
@@ -1192,28 +1232,28 @@ msgid "2"
 msgstr "2"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:50 C/gs-go-online2.svg:231 C/gs-thumb-timezone.svg:74
-#: C/gs-thumb-timezone.svg:108 C/gs-web-browser2-firefox.svg:164
-#: C/gs-web-browser2.svg:163
+#: C/gs-goa2.svg:50 C/gs-go-online2.svg:231 C/gs-thumb-timezone.svg:103
+#: C/gs-thumb-timezone.svg:137 C/gs-web-browser2-firefox.svg:164
+#: C/gs-web-browser2.svg:165
 #, no-wrap
 msgid "3"
 msgstr "3"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:81 C/gs-goa3.svg:113 C/gs-goa5.svg:79
+#: C/gs-goa2.svg:69 C/gs-goa3.svg:113 C/gs-goa5.svg:79
 #, no-wrap
 msgid "Online Accounts"
 msgstr "Cuentas en línea"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:83 C/gs-goa3.svg:115
+#: C/gs-goa2.svg:71 C/gs-goa3.svg:115
 #, no-wrap
 msgid "Add an online account"
 msgstr "Agregar una cuenta en línea"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:75 C/gs-thumb-timezone.svg:109
-#: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:113
+#: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
+#: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
 #, no-wrap
 msgid "4"
 msgstr "4"
@@ -1231,7 +1271,7 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:90 C/gs-goa5.svg:93
+#: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
 #, no-wrap
 msgid "Google"
 msgstr "Google"
@@ -1261,8 +1301,8 @@ msgid "Enterprise Login (Kerberos)"
 msgstr "Inicio de sesión corporativo (Kerberos)"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:48 C/gs-thumb-timezone.svg:76
-#: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:261
+#: C/gs-goa4.svg:48 C/gs-thumb-timezone.svg:105
+#: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
 #, no-wrap
 msgid "5"
 msgstr "5"
@@ -1304,7 +1344,7 @@ msgid "Sign In"
 msgstr "Registrarse"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:77 C/gs-goa5.svg:92 C/gs-goa5.svg:95
+#: C/gs-goa4.svg:77 C/gs-goa5.svg:88 C/gs-goa5.svg:91
 #, no-wrap
 msgid "john.doe@gmail.com"
 msgstr "juan.perez@gmail.com"
@@ -1322,56 +1362,56 @@ msgid "Deny Access"
 msgstr "Denegar acceso"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:77
+#: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:106
 #, no-wrap
 msgid "6"
 msgstr "6"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:47 C/gs-thumb-timezone.svg:78
+#: C/gs-goa5.svg:60 C/gs-thumb-timezone.svg:107
 #, no-wrap
 msgid "7"
 msgstr "7"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:96
+#: C/gs-goa5.svg:92
 #, no-wrap
 msgid "Use for"
 msgstr "Usar para"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:97
+#: C/gs-goa5.svg:93
 #, no-wrap
 msgid "Mail"
 msgstr "Correo"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:102
+#: C/gs-goa5.svg:98
 #, no-wrap
 msgid "Calendar"
 msgstr "Calendario"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:107 C/gs-search2.svg:264
+#: C/gs-goa5.svg:103 C/gs-search2.svg:293
 #, no-wrap
 msgid "Contacts"
 msgstr "Contactos"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:112
+#: C/gs-goa5.svg:108
 #, no-wrap
 msgid "Chat"
 msgstr "Chat"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:117
+#: C/gs-goa5.svg:113
 #, no-wrap
 msgid "Documents"
 msgstr "Documentos"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:122 C/gs-goa5.svg:123 C/gs-goa5.svg:124 C/gs-goa5.svg:125
-#: C/gs-goa5.svg:126 C/gs-go-online3.svg:288 C/gs-search-settings.svg:155
+#: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121
+#: C/gs-goa5.svg:122 C/gs-go-online3.svg:288 C/gs-search-settings.svg:155
 #: C/gs-search-settings.svg:272 C/gs-search-settings.svg:279
 #: C/gs-search-settings.svg:286
 #, no-wrap
@@ -1379,10 +1419,10 @@ msgid "ON"
 msgstr "I"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:240 C/gs-search1.svg:188 C/gs-search2.svg:144
-#: C/gs-thumb-changing-wallpaper.svg:73 C/gs-thumb-launching-apps.svg:197
-#: C/gs-thumb-responding-to-messages.svg:44 C/gs-thumb-task-switching.svg:160
-#: C/gs-thumb-timezone.svg:49 C/gs-thumb-windows-and-workspaces.svg:97
+#: C/gs-go-online1.svg:240 C/gs-search1.svg:196 C/gs-search2.svg:152
+#: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
+#: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
+#: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
 msgid "14:30"
 msgstr "14:30"
@@ -1483,7 +1523,7 @@ msgid "Launch applications with the keyboard"
 msgstr "Lanzar aplicaciones con el teclado"
 
 #. (itstool) path: item/p
-#: C/gs-launch-applications.page:79 C/gs-use-system-search.page:26
+#: C/gs-launch-applications.page:79
 msgid ""
 "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key."
@@ -1630,67 +1670,67 @@ msgstr ""
 "\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>."
 
 #. (itstool) path: text/tspan
-#: C/gs-search1.svg:200
+#: C/gs-search1.svg:229
 #, no-wrap
 msgid "just type"
 msgstr "simplemente escriba"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:153
+#: C/gs-search2.svg:182
 #, no-wrap
 msgid "con"
 msgstr "con"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:217
+#: C/gs-search2.svg:246
 #, no-wrap
 msgid "Accounts"
 msgstr "Cuentas"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:218
+#: C/gs-search2.svg:247
 #, no-wrap
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:219
+#: C/gs-search2.svg:248
 #, no-wrap
 msgid "config"
 msgstr "configuración"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:220 C/gs-search2.svg:223
+#: C/gs-search2.svg:249 C/gs-search2.svg:252
 #, no-wrap
 msgid "fontconfig"
 msgstr "fontconfig"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:221
+#: C/gs-search2.svg:250
 #, no-wrap
 msgid "system-config-http.zip"
 msgstr "system-config-http.zip"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:222
+#: C/gs-search2.svg:251
 #, no-wrap
 msgid "Icon guidelines"
 msgstr "Guías de iconos"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:240
+#: C/gs-search2.svg:269
 #, no-wrap
 msgid "Secure Linux Containers"
 msgstr "Contenedores Linux seguros"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:241
+#: C/gs-search2.svg:270
 #, no-wrap
 msgid "Developer Conference 2012"
 msgstr "Conferencia de desarrolladores 2012"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:265 C/gs-web-browser2-firefox.svg:218
+#: C/gs-search2.svg:294 C/gs-web-browser2-firefox.svg:218
 #, no-wrap
 msgid "Firefox"
 msgstr "Firefox"
@@ -1714,7 +1754,7 @@ msgid "Enabled"
 msgstr "Activado"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:264 C/gs-web-browser2.svg:214
+#: C/gs-search-settings.svg:264
 #, no-wrap
 msgid "Web"
 msgstr "Web"
@@ -1874,14 +1914,14 @@ msgstr ""
 "<key>Intro</key> para cambiar a ella."
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-responding-to-messages.svg:59
+#: C/gs-thumb-responding-to-messages.svg:88
 #, no-wrap
 msgid "Thanks f"
 msgstr "Gracias"
 
 #. (itstool) path: text/tspan
 #. Translators: S stands for Sunday here
-#: C/gs-thumb-timezone.svg:64
+#: C/gs-thumb-timezone.svg:93
 #, no-wrap
 msgctxt "Sunday"
 msgid "S"
@@ -1889,14 +1929,14 @@ msgstr "S"
 
 #. (itstool) path: text/tspan
 #. Translators: M stands for Monday here
-#: C/gs-thumb-timezone.svg:65
+#: C/gs-thumb-timezone.svg:94
 #, no-wrap
 msgid "M"
 msgstr "M"
 
 #. (itstool) path: text/tspan
 #. Translators: T stands for Tuesday here
-#: C/gs-thumb-timezone.svg:66
+#: C/gs-thumb-timezone.svg:95
 #, no-wrap
 msgctxt "Tuesday"
 msgid "T"
@@ -1904,14 +1944,14 @@ msgstr "T"
 
 #. (itstool) path: text/tspan
 #. Translators: W stands for Wednesday here
-#: C/gs-thumb-timezone.svg:67
+#: C/gs-thumb-timezone.svg:96
 #, no-wrap
 msgid "W"
 msgstr "W"
 
 #. (itstool) path: text/tspan
 #. Translators: T stands for Thursday here
-#: C/gs-thumb-timezone.svg:68
+#: C/gs-thumb-timezone.svg:97
 #, no-wrap
 msgctxt "Thursday"
 msgid "T"
@@ -1919,159 +1959,159 @@ msgstr "T"
 
 #. (itstool) path: text/tspan
 #. Translators: F stands for Friday here
-#: C/gs-thumb-timezone.svg:69
+#: C/gs-thumb-timezone.svg:98
 #, no-wrap
 msgid "F"
 msgstr "F"
 
 #. (itstool) path: text/tspan
 #. Translators: S stands for Saturday here
-#: C/gs-thumb-timezone.svg:70
+#: C/gs-thumb-timezone.svg:99
 #, no-wrap
 msgctxt "Saturday"
 msgid "S"
 msgstr "S"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:79
+#: C/gs-thumb-timezone.svg:108
 #, no-wrap
 msgid "8"
 msgstr "8"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:80
+#: C/gs-thumb-timezone.svg:109
 #, no-wrap
 msgid "9"
 msgstr "9"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:81
+#: C/gs-thumb-timezone.svg:110
 #, no-wrap
 msgid "10"
 msgstr "10"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:82
+#: C/gs-thumb-timezone.svg:111
 #, no-wrap
 msgid "11"
 msgstr "11"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:83
+#: C/gs-thumb-timezone.svg:112
 #, no-wrap
 msgid "12"
 msgstr "12"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:84
+#: C/gs-thumb-timezone.svg:113
 #, no-wrap
 msgid "13"
 msgstr "13"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:85
+#: C/gs-thumb-timezone.svg:114
 #, no-wrap
 msgid "14"
 msgstr "14"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:87
+#: C/gs-thumb-timezone.svg:116
 #, no-wrap
 msgid "15"
 msgstr "15"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:88
+#: C/gs-thumb-timezone.svg:117
 #, no-wrap
 msgid "16"
 msgstr "16"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:89
+#: C/gs-thumb-timezone.svg:118
 #, no-wrap
 msgid "17"
 msgstr "17"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:90
+#: C/gs-thumb-timezone.svg:119
 #, no-wrap
 msgid "18"
 msgstr "18"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:91
+#: C/gs-thumb-timezone.svg:120
 #, no-wrap
 msgid "19"
 msgstr "19"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:92
+#: C/gs-thumb-timezone.svg:121
 #, no-wrap
 msgid "20"
 msgstr "20"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:93
+#: C/gs-thumb-timezone.svg:122
 #, no-wrap
 msgid "21"
 msgstr "21"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:95
+#: C/gs-thumb-timezone.svg:124
 #, no-wrap
 msgid "22"
 msgstr "22"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:96
+#: C/gs-thumb-timezone.svg:125
 #, no-wrap
 msgid "23"
 msgstr "23"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:97
+#: C/gs-thumb-timezone.svg:126
 #, no-wrap
 msgid "24"
 msgstr "24"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:98
+#: C/gs-thumb-timezone.svg:127
 #, no-wrap
 msgid "25"
 msgstr "25"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:99
+#: C/gs-thumb-timezone.svg:128
 #, no-wrap
 msgid "26"
 msgstr "26"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:100
+#: C/gs-thumb-timezone.svg:129
 #, no-wrap
 msgid "27"
 msgstr "27"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:101
+#: C/gs-thumb-timezone.svg:130
 #, no-wrap
 msgid "28"
 msgstr "28"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:103
+#: C/gs-thumb-timezone.svg:132
 #, no-wrap
 msgid "29"
 msgstr "29"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:104
+#: C/gs-thumb-timezone.svg:133
 #, no-wrap
 msgid "30"
 msgstr "30"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:105
+#: C/gs-thumb-timezone.svg:134
 #, no-wrap
 msgid "31"
 msgstr "31"
@@ -2094,22 +2134,34 @@ msgid "Use the system search"
 msgstr "Utilizar la búsqueda de sistema"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:28
+#: C/gs-use-system-search.page:26
+#| msgid ""
+#| "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
+#| "gnome-help/keyboard-key-super\">Super</key> key."
 msgid ""
-"Start typing to search. Results matching what you have typed will appear as "
-"you type."
+"Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key. Start typing to search."
 msgstr ""
-"Para buscar, comience a escribir. Los resultados que coincidan con lo "
-"escrito aparecerán a medida que vaya escribiendo."
+"Abra la <gui>Vista de actividades</gui> pulsando la tecla <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> y empiece a escribir para buscar."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:30
+#: C/gs-use-system-search.page:29
 msgid ""
-"The first result is always highlighted and shown at the top. Press "
-"<key>Enter</key> to switch to the first highlighted result."
+"Results matching what you have typed will appear as you type. The first "
+"result is always highlighted and shown at the top."
 msgstr ""
-"El primer resultado siempre aparece arriba y resaltado. Para cambiarse al "
-"primer resultado resaltado, pulse <key>Intro</key>."
+"Los resultados que coincidan con lo que ha escritor aparecerán a medida que "
+"escribe. El primer resultado siempre se resalta y se muestra en la parte "
+"superior."
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:31
+#| msgid ""
+#| "The first result is always highlighted and shown at the top. Press "
+#| "<key>Enter</key> to switch to the first highlighted result."
+msgid "Press <key>Enter</key> to switch to the first highlighted result."
+msgstr "Pulse <key>Intro</key> para cambiar al primer resultado resaltado."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:36
@@ -2308,31 +2360,31 @@ msgid "Applications"
 msgstr "Aplicaciones"
 
 #. (itstool) path: text/tspan
-#: C/gs-web-browser2-firefox.svg:147 C/gs-web-browser2.svg:151
+#: C/gs-web-browser2-firefox.svg:147 C/gs-web-browser2.svg:153
 #, no-wrap
 msgid "gnome"
 msgstr "gnome"
 
 #. (itstool) path: text/tspan
-#: C/gs-web-browser2-firefox.svg:151 C/gs-web-browser2.svg:155
+#: C/gs-web-browser2-firefox.svg:151 C/gs-web-browser2.svg:157
 #, no-wrap
 msgid "Planet Gnome"
 msgstr "Planeta GNOME"
 
 #. (itstool) path: text/tspan
-#: C/gs-web-browser2-firefox.svg:152 C/gs-web-browser2.svg:156
+#: C/gs-web-browser2-firefox.svg:152 C/gs-web-browser2.svg:158
 #, no-wrap
 msgid "GNOME 3"
 msgstr "GNOME 3"
 
 #. (itstool) path: text/tspan
-#: C/gs-web-browser2-firefox.svg:153 C/gs-web-browser2.svg:157
+#: C/gs-web-browser2-firefox.svg:153 C/gs-web-browser2.svg:159
 #, no-wrap
 msgid "http://planet.gnome.org"
 msgstr "http://planet.gnome.org"
 
 #. (itstool) path: text/tspan
-#: C/gs-web-browser2-firefox.svg:154 C/gs-web-browser2.svg:158
+#: C/gs-web-browser2-firefox.svg:154 C/gs-web-browser2.svg:160
 #, no-wrap
 msgid "http://gnome.org"
 msgstr "http://gnome.org"
@@ -2344,10 +2396,61 @@ msgid "planet.gnome.org"
 msgstr "planet.gnome.org"
 
 #. (itstool) path: text/tspan
-#: C/gs-web-browser2.svg:252
+#: C/gs-web-browser2.svg:247
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planeta GNOME"
+
+#~ msgid "Click on your location on the map."
+#~ msgstr "Pulse en su ubicación en el mapa."
+
+#~ msgid ""
+#~ "You may need to click the <gui>Unlock</gui> button and type the "
+#~ "administrator's password."
+#~ msgstr ""
+#~ "Quizás necesite pulsar el botón <gui>Desbloquear</gui> y escribir la "
+#~ "contraseña de administrador."
+
+#~| msgid ""
+#~| "On the left-hand side of the window, you can adjust the date and time by "
+#~| "clicking on the arrows to choose the hour, minute, and year."
+#~ msgid ""
+#~ "On the right-hand side of the window, you can adjust the date and time by "
+#~ "clicking on the arrows to choose the hour, minute, and year."
+#~ msgstr ""
+#~ "En el lado derecho de la ventana, puede ajustar la fecha y hora pulsando "
+#~ "las flechas para elegir la hora, los minutos y el año."
+
+#~ msgid ""
+#~ "Close the window by clicking the cross at the top-right corner of the "
+#~ "window."
+#~ msgstr ""
+#~ "Cierre la ventana pulsando la cruz que está en la esquina superior "
+#~ "derecha de la ventana."
+
+#~ msgid "Click your name on the top bar and select <gui>Settings</gui>."
+#~ msgstr ""
+#~ "Pulse su nombre en la barra superior y seleccione <gui>Configuración</"
+#~ "gui>."
+
+#~ msgid "Click the image of your current wallpaper."
+#~ msgstr "Pulse la imagen de su fondo de pantalla actual."
+
+#~ msgid "Click your name on the top bar."
+#~ msgstr "Pulse su nombre en la barra superior."
+
+#~ msgid "Select the <gui>Settings</gui> item."
+#~ msgstr "Seleccione el elemento <gui>Configuración</gui>."
+
+#~ msgid "Click on the <gui>Add an online account</gui> button."
+#~ msgstr "Pulse en el botón <gui>Agregar una cuenta en línea</gui>."
+
+#~ msgid ""
+#~ "Start typing to search. Results matching what you have typed will appear "
+#~ "as you type."
+#~ msgstr ""
+#~ "Para buscar, comience a escribir. Los resultados que coincidan con lo "
+#~ "escrito aparecerán a medida que vaya escribiendo."
 
 #~ msgctxt "_"
 #~ msgid ""
