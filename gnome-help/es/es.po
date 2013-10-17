@@ -23,8 +23,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-10-15 15:02+0000\n"
-"PO-Revision-Date: 2013-10-15 17:02+0200\n"
+"POT-Creation-Date: 2013-10-15 15:51+0000\n"
+"PO-Revision-Date: 2013-10-17 18:19+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -636,7 +636,6 @@ msgstr "Fecha y hora automáticas"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:42
-#| msgid "Automatic Date and Time"
 msgid "Automatic Timezone"
 msgstr "Zona horaria automática"
 
@@ -807,7 +806,7 @@ msgstr "Un tutorial para cambiar la fecha, la hora y la zona horaria"
 #. (itstool) path: page/title
 #. (itstool) path: section/title
 #: C/gs-change-date-time-timezone.page:24
-#: C/gs-change-date-time-timezone.page:65
+#: C/gs-change-date-time-timezone.page:70
 msgid "Change the date, time and timezone"
 msgstr "Cambiar la fecha, hora y zona horaria"
 
@@ -823,34 +822,44 @@ msgstr "Pulse el reloj en la barra superior."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:41
-msgid "Select the <gui>Date &amp; Time Settings</gui> item."
-msgstr "Seleccione el elemento <gui>Configuración de fecha y hora</gui>."
+#| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
+msgid "Select <gui>Date &amp; Time Settings</gui>."
+msgstr "Seleccione <gui>Configuración de fecha y hora</gui>."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:44
-msgid ""
-"Click the <gui>Time Zone</gui> item, and then click on your location on the "
-"map."
+#| msgid ""
+#| "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, "
+#| "and then click the <gui>Time Zone</gui> item below."
+msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
 msgstr ""
-"Pulse en el elemento <gui>Zona horaria</gui> y luego pulse en su ubicación "
-"en el mapa."
+"Asegúrese de que el elemento <gui>Zona horaria automática</gui> está "
+"desactivado."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:48
-msgid ""
-"You can adjust the date and time by clicking on the arrows to choose the "
-"hour, minute, and year."
-msgstr ""
-"Puede ajustar la fecha y hora pulsando las flechas para elegir la hora, los "
-"minutos y el año."
+#| msgid "Click the <gui>Select</gui> button."
+msgid "Click <gui>Time Zone</gui>."
+msgstr "Pulse en <gui>Zona horaria</gui>."
 
 #. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:52
+#: C/gs-change-date-time-timezone.page:51
+msgid "Click on your location on the map."
+msgstr "Pulse en su ubicación en el mapa."
+
+#. (itstool) path: div/p
+#: C/gs-change-date-time-timezone.page:54
+#| msgid "Click the <gui>Select</gui> button."
+msgid "Click <gui>Close</gui>."
+msgstr "Pulse <gui>Cerrar</gui>."
+
+#. (itstool) path: div/p
+#: C/gs-change-date-time-timezone.page:57
 msgid "Close the window."
 msgstr "Cierre la ventana."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:68
+#: C/gs-change-date-time-timezone.page:73
 msgid ""
 "Click the clock on the top bar and select the <gui>Date &amp; Time Settings</"
 "gui> item."
@@ -859,7 +868,7 @@ msgstr ""
 "<gui>Configuración de fecha y hora</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:70
+#: C/gs-change-date-time-timezone.page:75
 msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
 "then click the <gui>Time Zone</gui> item below."
@@ -868,7 +877,7 @@ msgstr ""
 "desactivado y pulse en <gui>Zona horaria</gui> más abajo."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:72
+#: C/gs-change-date-time-timezone.page:77
 msgid ""
 "Click on your location on the map. This selects your current city, which you "
 "can also search for in the search box above the map."
@@ -877,7 +886,7 @@ msgstr ""
 "también puede buscar en la caja de búsqueda de encima del mapa."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:75
+#: C/gs-change-date-time-timezone.page:80
 msgid ""
 "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
 "Settings</gui> window."
@@ -886,7 +895,7 @@ msgstr ""
 "<gui>Configuración de fecha y hora</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:77
+#: C/gs-change-date-time-timezone.page:82
 msgid ""
 "Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
 "off, and then click the <gui>Date &amp; Time</gui> item below to open the "
@@ -899,7 +908,7 @@ msgstr ""
 "los botones <gui>+</gui> o <gui>-</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:82
+#: C/gs-change-date-time-timezone.page:87
 msgid ""
 "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
 "Settings</gui> window, and then close that window by clicking the cross at "
@@ -2394,8 +2403,19 @@ msgstr "planet.gnome.org"
 msgid "Planet GNOME"
 msgstr "Planeta GNOME"
 
-#~ msgid "Click on your location on the map."
-#~ msgstr "Pulse en su ubicación en el mapa."
+#~ msgid ""
+#~ "Click the <gui>Time Zone</gui> item, and then click on your location on "
+#~ "the map."
+#~ msgstr ""
+#~ "Pulse en el elemento <gui>Zona horaria</gui> y luego pulse en su "
+#~ "ubicación en el mapa."
+
+#~ msgid ""
+#~ "You can adjust the date and time by clicking on the arrows to choose the "
+#~ "hour, minute, and year."
+#~ msgstr ""
+#~ "Puede ajustar la fecha y hora pulsando las flechas para elegir la hora, "
+#~ "los minutos y el año."
 
 #~ msgid ""
 #~ "You may need to click the <gui>Unlock</gui> button and type the "
