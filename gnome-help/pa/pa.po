@@ -1,0 +1,2576 @@
+# Punjabi translation for gnome-getting-started-docs.
+# Copyright (C) 2013 gnome-getting-started-docs's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome-getting-started-docs package.
+#
+# A S Alam <aalam@users.sf.net>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-getting-started-docs master\n"
+"POT-Creation-Date: 2013-08-29 14:34+0000\n"
+"PO-Revision-Date: 2013-09-19 13:36-0500\n"
+"Last-Translator: A S Alam <aalam@users.sf.net>\n"
+"Language-Team: Punjabi/Panjabi <punjabi-users@lists.sf.net>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
+msgctxt "_"
+msgid "translator-credits"
+msgstr ""
+"ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮ <aalam@users.sf.net> 2013\n"
+"http://www.satluj.org"
+
+#. (itstool) path: page/title
+#. (itstool) path: titles/t
+#: C/index.page:8 C/getting-started.page:16 C/gs-animation.xml:5
+msgid "Getting Started"
+msgstr "ਸ਼ੁਰੂ ਕਰੀਏ"
+
+#. (itstool) path: info/desc
+#: C/getting-started.page:11
+msgid "New to GNOME? Learn how to get around."
+msgstr "ਗਨੋਮ ਵਿੱਚ ਨਵਾਂ ਕੀ ਹੈ? ਸ਼ੁਰੂ ਕਰਨ ਬਾਰੇ ਜਾਣਕਾਰੀ ਹਾਸਲ ਕਰੀਏ।"
+
+#. (itstool) path: info/title
+#: C/getting-started.page:12
+msgctxt "link"
+msgid "Getting Started with GNOME"
+msgstr "ਗਨੋਮ ਨਾਲ ਸ਼ੁਰੂਆਤ ਕਰੀਏ"
+
+#. (itstool) path: info/title
+#: C/getting-started.page:13
+msgctxt "text"
+msgid "Getting Started"
+msgstr "ਸ਼ੁਰੂ ਕਰੀਏ"
+
+#. (itstool) path: caption/desc
+#. (itstool) path: page/title
+#: C/getting-started.page:25 C/gs-launch-applications.page:23
+msgid "Launch applications"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਚਲਾਉਣਾ"
+
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:30 C/gs-animation.xml:4
+#: C/gs-launch-applications.page:31
+msgid "Launching Applications"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਚਲਾਉਣਾ"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:33 C/getting-started.page:154
+#: C/gs-launch-applications.page:34 C/gs-switch-tasks.page:36
+msgid ""
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen."
+msgstr ""
+"ਆਪਣੇ ਮਾਊਂਸ ਪੁਆਇੰਟਰ ਨੂੰ ਸਕਰੀਨ ਦੇ ਉੱਤੇ ਖੱਬੇ ਕੋਨੇ ਉੱਤੇ <gui>ਸਰਗਰਮੀ</gui> ਉੱਤੇ ਲੈ "
+"ਕੇ ਜਾਉ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:37 C/gs-launch-applications.page:38
+msgid "Click the <gui>Show Applications</gui> icon."
+msgstr "<gui>ਐਪਲੀਕੇਸ਼ਨ ਵੇਖਾਓ</gui> ਆਈਕਾਨ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:40 C/gs-launch-applications.page:41
+msgid "Click the application you want to run, for example, Help."
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ, ਜੋ ਤੁਸੀਂ ਚਲਾਉਣੀ ਚਾਹੁੰਦੇ ਹੋ, ਜਿਵੇਂ ਕਿ ਮੱਦਦ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:44 C/gs-launch-applications.page:45
+#| msgid ""
+#| "Alternatively, use the keyboard to open the <gui>Activities Overview</"
+#| "gui> by pressing the <key xref=\"keyboard-key-super\">Super</key> key."
+msgid ""
+"Alternatively, use the keyboard to open the <gui>Activities Overview</gui> "
+"by pressing the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
+"key."
+msgstr ""
+"ਬਦਲਵੇਂ ਰੂਪ ਵਿੱਚ <gui>ਸਰਗਰਮੀ ਝਲਕ</gui> ਖੋਲ੍ਹਣ ਲਈ ਕੀਬੋਰਡ ਤੋਂ <key "
+"href=\"help:gnome-help/keyboard-key-super\">ਸੁਪਰ</key> "
+"ਸਵਿੱਚ ਦੱਬੀ ਜਾ ਸਕਦੀ ਹੈ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:49 C/gs-launch-applications.page:50
+msgid "Start typing the name of the application you want to launch."
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਦਾ ਨਾਂ ਲਿਖਣਾ ਸ਼ੁਰੂ ਕਰੋ, ਜੋ ਕਿ ਤੁਸੀਂ ਚਲਾਉਣੀ ਚਾਹੁੰਦੇ ਹੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:53 C/gs-launch-applications.page:54
+msgid "Press <key>Enter</key> to launch the application."
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਚਲਾਉਣ ਲਈ <key>ਐਂਟਰ</key> ਦੱਬੋ।"
+
+#. (itstool) path: caption/desc
+#. (itstool) path: page/title
+#: C/getting-started.page:66 C/gs-use-windows-workspaces.page:21
+msgid "Use windows and workspaces"
+msgstr "ਵਿੰਡੋਜ਼ ਤੇ ਵਰਕਸਪੇਸ ਵਰਤੋਂ"
+
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:71 C/gs-animation.xml:10
+#: C/gs-use-windows-workspaces.page:29
+msgid "Windows and Workspaces"
+msgstr "ਵਿੰਡੋਜ਼ ਤੇ ਵਰਕਸਪੇਸ"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:74 C/gs-use-windows-workspaces.page:32
+msgid ""
+"To maximize a window, grab the window's titlebar and drag it to the top of "
+"the screen."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/getting-started.page:78 C/gs-use-windows-workspaces.page:36
+msgid "When the screen is highlighted, release the window."
+msgstr "ਜਦੋਂ ਸਕਰੀਨ ਨੂੰ ਉਭਾਰਿਆ ਜਾਵੇ ਤਾਂ ਵਿੰਡੋ ਨੂੰ ਛੱਡ ਦਿਉ"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:81 C/gs-use-windows-workspaces.page:39
+msgid ""
+"To unmaximize a window, grab the window's titlebar and drag it away from the "
+"edges of the screen."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/getting-started.page:85 C/gs-use-windows-workspaces.page:43
+msgid ""
+"You can also click the top bar to drag the window away and unmaximize it."
+msgstr ""
+"ਤੁਸੀਂ ਵਿੰਡੋ ਨੂੰ ਦੂਰ ਕਰਨ ਤੇ ਵੱਧ ਤੋਂ ਵੱਧ ਤੋਂ ਸਧਾਰਨ ਰੂਪ ਵਿੱਚ ਲਿਆਉਣ ਲਈ ਉੱਤਲੀ ਪੱਟੀ "
+"ਉੱਤੇ ਕਲਿੱਕ ਵੀ ਕਰ ਸਕਦੇ ਹੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:89 C/getting-started.page:161
+#: C/gs-switch-tasks.page:43 C/gs-use-windows-workspaces.page:47
+msgid ""
+"To maximize a window along the left side of the screen, grab the window's "
+"titlebar and drag it to the left."
+msgstr ""
+"ਕਿਸੇ ਵਿੰਡੋ ਨੂੰ ਸਕਰੀਨ ਦੇ ਖੱਬੇ ਹਿੱਸੇ ਉੱਤੇ ਵੱਧ ਤੋਂ ਵੱਧ ਕਰਨ ਲਈ, ਵਿੰਡੋ ਨੂੰ "
+"ਟਾਈਟਲ-ਬਾਰ ਤੋਂ ਫੜੋ ਅਤੇ ਖੱਬੇ ਪਾਸੇ "
+"ਖਿੱਚੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:93 C/getting-started.page:101
+#: C/getting-started.page:165 C/getting-started.page:173
+#: C/gs-switch-tasks.page:47 C/gs-switch-tasks.page:55
+#: C/gs-use-windows-workspaces.page:51 C/gs-use-windows-workspaces.page:59
+msgid "When half of the screen is highlighted, release the window."
+msgstr "ਜਦੋਂ ਸਕਰੀਨ ਦਾ ਅੱਧ ਉਭਾਰਿਆ ਜਾਵੇ ਤਾਂ ਵਿੰਡੋ ਨੂੰ ਛੱਡ ਦਿਉ"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:97 C/gs-use-windows-workspaces.page:55
+msgid ""
+"To maximize a window along the right side of the screen, grab the window's "
+"titlebar and drag it to the right."
+msgstr ""
+"ਕਿਸੇ ਵਿੰਡੋ ਨੂੰ ਸਕਰੀਨ ਦੇ ਸੱਜੇ ਹਿੱਸੇ ਉੱਤੇ ਵੱਧ ਤੋਂ ਵੱਧ ਕਰਨ ਲਈ, ਵਿੰਡੋ ਨੂੰ "
+"ਟਾਈਟਲ-ਬਾਰ ਤੋਂ ਫੜੋ ਅਤੇ ਸੱਜੇ ਪਾਸੇ "
+"ਖਿੱਚੋ।"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:105 C/gs-use-windows-workspaces.page:63
+#: C/gs-use-windows-workspaces.page:134
+#| msgid ""
+#| "To cycle through the list of open windows, do not release <key xref="
+#| "\"keyboard-key-super\">Super</key> but hold it down, and press <key>Tab</"
+#| "key>."
+msgid ""
+"To maximize a window using the keyboard, hold down the <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
+msgstr ""
+"ਕੀਬੋਰਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਵਿੰਡੋ ਨੂੰ ਵੱਧ ਤੋਂ ਵੱਧ ਕਰਨ ਲਈ, <key "
+"href=\"help:gnome-help/keyboard-key-super\">ਸੁਪਰ</key> "
+"ਕੁੰਜੀ ਦੱਬੀ ਰੱਖ ਕੇ <key>↑</key> ਦੱਬੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:110 C/gs-use-windows-workspaces.page:68
+#| msgid ""
+#| "To cycle through the list of open windows, do not release <key xref="
+#| "\"keyboard-key-super\">Super</key> but hold it down, and press <key>Tab</"
+#| "key>."
+msgid ""
+"To restore the window to its unmaximized size, hold down the <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
+"key>."
+msgstr ""
+"ਵਿੰਡੋ ਨੂੰ ਇਸ ਦੇ ਵੱਡ ਤੋਂ ਵੱਧ ਆਕਾਰ ਤੋਂ ਵਾਪਿਸ ਆਮ ਸਥਿਤੀ ਵਿੱਚ ਲਿਆਉਣ ਲਈ <key "
+"href=\"help:gnome-help/keyboard-key-super\">ਸੁਪਰ</key> "
+"ਸਵਿੱਚ ਦੱਬ ਕੇ <key>↓</key> ਨੂੰ ਦੱਬੋ।"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:115 C/gs-use-windows-workspaces.page:73
+#: C/gs-use-windows-workspaces.page:148
+#| msgid ""
+#| "To cycle through the list of open windows, do not release <key xref="
+#| "\"keyboard-key-super\">Super</key> but hold it down, and press <key>Tab</"
+#| "key>."
+msgid ""
+"To maximize a window along the right side of the screen, hold down the <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
+"<key>→</key>."
+msgstr ""
+"ਵਿੰਡੋ ਨੂੰ ਸਕਰੀਨ ਦੇ ਸੱਜੇ ਪਾਸੇ ਵੱਧ ਤੋਂ ਵੱਧ ਕਰਨ ਲਈ, <key "
+"href=\"help:gnome-help/keyboard-key-super\">ਸੁਪਰ</key> "
+"ਸਵਿੱਚ ਨੂੰ ਦੱਬੀ ਰੱਖ ਕੇ <key>→</key> ਦੱਬੋ।"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:120 C/gs-use-windows-workspaces.page:78
+#: C/gs-use-windows-workspaces.page:151
+#| msgid ""
+#| "To cycle through the list of open windows, do not release <key xref="
+#| "\"keyboard-key-super\">Super</key> but hold it down, and press <key>Tab</"
+#| "key>."
+msgid ""
+"To maximize a window along the left side of the screen, hold down the <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
+"<key>←</key>."
+msgstr ""
+"ਵਿੰਡੋ ਨੂੰ ਸਕਰੀਨ ਦੇ ਸੱਜੇ ਪਾਸੇ ਵੱਧ ਤੋਂ ਵੱਧ ਕਰਨ ਲਈ, <key "
+"href=\"help:gnome-help/keyboard-key-super\">ਸੁਪਰ</key> "
+"ਸਵਿੱਚ ਨੂੰ ਦੱਬੀ ਰੱਖ ਕੇ <key>←</key> ਦੱਬੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:125 C/gs-use-windows-workspaces.page:83
+#| msgid ""
+#| "To move to a workspace which is below the current workspace, press "
+#| "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key></"
+#| "keyseq>."
+msgid ""
+"To move to a workspace which is below the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Page Down</key></keyseq>."
+msgstr ""
+"ਵਰਕਸਪੇਸ ਵਿੱਚ ਜਾਣ ਲਈ, ਜੋ ਮੌਜੂਦਾ ਵਰਕਸਪੇਸ ਦੇ ਹੇਠਾਂ ਹੋਵੇ <keyseq><key "
+"href=\"help:gnome-help/keyboard-key-super\">ਸੁਪਰ</key> "
+"<key>Page Down</key> </keyseq> ਨੂੰ ਦੱਬੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:130 C/gs-use-windows-workspaces.page:88
+#| msgid ""
+#| "To move to a workspace which is above the current workspace, press "
+#| "<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Page Up</key></"
+#| "keyseq>."
+msgid ""
+"To move to a workspace which is above the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Page Up</key></keyseq>."
+msgstr ""
+"ਵਰਕਸਪੇਸ ਵਿੱਚ ਜਾਣ ਲਈ, ਜੋ ਮੌਜੂਦਾ ਵਰਕਸਪੇਸ ਦੇ ਉੱਤੇ ਹੋਵੇ <keyseq><key "
+"href=\"help:gnome-help/keyboard-key-super\">ਸੁਪਰ</key><key>Page Up</key> <"
+"/keyseq> ਨੂੰ ਦੱਬੋ।"
+
+#. (itstool) path: caption/desc
+#. (itstool) path: page/title
+#. (itstool) path: section/title
+#: C/getting-started.page:146 C/gs-switch-tasks.page:22
+#: C/gs-switch-tasks.page:96
+msgid "Switch tasks"
+msgstr "ਟਾਸਕ ਸਵਿੱਚ ਕਰੋ"
+
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:151 C/gs-animation.xml:8 C/gs-switch-tasks.page:33
+msgid "Switching Tasks"
+msgstr "ਟਾਸਕ ਸਵਿੱਚ ਕਰਨੇ"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:158 C/gs-switch-tasks.page:40
+#: C/gs-switch-tasks.page:105
+msgid "Click a window to switch to that task."
+msgstr "ਕਿਸੇ ਟਾਸਕ ਉੱਤੇ ਜਾਣ ਲਈ ਉਸ ਵਿੰਡੋ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:169 C/gs-switch-tasks.page:51
+msgid ""
+"To maximize a window along the right side, grab the window's titlebar and "
+"drag it to the right."
+msgstr ""
+"ਕਿਸੇ ਵਿੰਡੋ ਨੂੰ ਸਕਰੀਨ ਦੇ ਸੱਜੇ ਹਿੱਸੇ ਉੱਤੇ ਵੱਧ ਤੋਂ ਵੱਧ ਕਰਨ ਲਈ, ਵਿੰਡੋ ਨੂੰ "
+"ਟਾਈਟਲ-ਬਾਰ ਤੋਂ ਫੜੋ ਅਤੇ ਸੱਜੇ ਪਾਸੇ "
+"ਖਿੱਚੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:177 C/gs-switch-tasks.page:59
+#| msgid ""
+#| "Press <keyseq><key xref=\"keyboard-key-super\">Super</key><key> Tab</"
+#| "key></keyseq> to show the <gui>window switcher</gui>."
+msgid ""
+"Press <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
+"key><key> Tab</key></keyseq> to show the <gui>window switcher</gui>."
+msgstr ""
+"<gui>ਵਿੰਡੋ ਸਵਿੱਚਰ</gui> ਵੇਖਾਉਣ ਲਈ <keyseq> <key "
+"href=\"help:gnome-help/keyboard-key-super\">ਸੁਪਰ</"
+"key> <key>ਟੈਬ</key></keyseq> ਦੱਬੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:182 C/gs-switch-tasks.page:64
+#| msgid ""
+#| "Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
+#| "highlighted window."
+msgid ""
+"Release <key href=\"help:gnome-help/keyboard-key-super\">Super </key> to "
+"select the next highlighted window."
+msgstr ""
+"ਅਗਲੀ ਉਭਾਰੀ ਵਿੰਡੋ ਨੂੰ ਚੁਣਨ ਲਈ <key href=\"help:gnome-help/keyboard-key-super\">"
+"ਸੁਪਰ</key> ਸਵਿੱਚ ਛੱਡੋ।"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:187 C/gs-switch-tasks.page:69
+#: C/gs-switch-tasks.page:150
+#| msgid ""
+#| "To cycle through the list of open windows, do not release <key xref="
+#| "\"keyboard-key-super\">Super</key> but hold it down, and press <key>Tab</"
+#| "key>."
+msgid ""
+"To cycle through the list of open windows, do not release <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> but hold it down, and press "
+"<key>Tab</key>."
+msgstr ""
+"ਖੁੱਲ੍ਹੀਆਂ ਵਿੰਡੋਜ਼ ਦੀ ਸੂਚੀ ਵਿੱਚ ਲਗਾਤਾਰ ਜਾਰੀ ਰੱਖਣ ਲਈ, <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key> ਨੂੰ ਛੱਡੋ ਨਾ, "
+"ਫੜੀ ਰੱਖੋ ਤੇ <key> Tab</key> ਦੱਬੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:192 C/gs-switch-tasks.page:74
+#| msgid ""
+#| "Press the <key xref=\"keyboard-key-super\">Super</key> key to show the "
+#| "<gui>Activities Overview</gui>."
+msgid ""
+"Press the <key href=\"help:gnome-help/keyboard-key-super\">Super </key> key "
+"to show the <gui>Activities Overview</gui>."
+msgstr ""
+"<key href=\"help:gnome-help/keyboard-key-super\">Super</key> ਸਵਿੱਚ ਨੂੰ<gui>"
+"ਸਰਗਰਮੀ ਝਲਕ</gui> "
+"ਵੇਖਾਉਣ ਲਈ ਦੱਬੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:196 C/gs-switch-tasks.page:78
+msgid "Start typing the name of the application you want to switch to."
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਦਾ ਨਾਂ ਲਿਖਣਾ ਸ਼ੁਰੂ ਕਰੋ, ਜਿਸ ਲਈ ਤੁਸੀਂ ਬਦਲਣਾ ਚਾਹੁੰਦੇ ਹੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:200 C/gs-switch-tasks.page:82
+msgid ""
+"When the application appears as the first result, press <key> Enter</key> to "
+"switch to it."
+msgstr ""
+"ਜਦੋਂ ਐਪਲੀਕੇਸ਼ਨ ਪਹਿਲੇ ਨਤੀਜੇ ਵਜੋਂ ਵੇਖਾਈ ਦਿੰਦੀ ਹੈ ਤਾਂ ਉਸ ਉੱਤੇ ਜਾਣ ਲਈ <key>ਐਂਟਰ<"
+"/key> ਦੱਬੋ।"
+
+#. (itstool) path: caption/desc
+#. (itstool) path: page/title
+#: C/getting-started.page:212 C/gs-respond-messages.page:22
+msgid "Respond to messages"
+msgstr "ਸੁਨੇਹੇ ਨੂੰ ਜਵਾਬ ਦੇਣਾ"
+
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:218 C/gs-animation.xml:7
+#: C/gs-respond-messages.page:30
+msgid "Responding to Messages"
+msgstr "ਸੁਨੇਹਿਆਂ ਨੂੰ ਜਵਾਬ ਦੇਣਾ"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:221 C/gs-respond-messages.page:33
+#: C/gs-respond-messages.page:92
+msgid ""
+"Move your mouse to the message tray at the bottom of the screen and click "
+"the chat message."
+msgstr ""
+"ਆਪਣੇ ਮਾਊਂਸ ਪੁਆਇੰਟਰ ਨੂੰ ਸਕਰੀਨ ਦੇ ਹੇਠਾਂ ਸੁਨੇਹਾ ਟਰੇ ਉੱਤੇ ਲੈ ਜਾਉ ਅਤੇ ਗੱਲਬਾਤ "
+"ਸੁਨੇਹੇ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:225 C/gs-respond-messages.page:37
+msgid ""
+"Start typing your reply and when finished, press <key>Enter </key> to send "
+"the reply."
+msgstr ""
+"ਆਪਣਾ ਜਵਾਬ ਲਿਖਣਾ ਚਾਲੂ ਕਰੋ ਅਤੇ ਜਦੋਂ ਪੂਰਾ ਹੋ ਜਾਵੇ ਤਾਂ ਜਵਾਬ ਭੇਜਣ ਲਈ <key>ਐਂਟਰ<"
+"/key> ਦੱਬੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:229 C/getting-started.page:250
+#: C/gs-respond-messages.page:41 C/gs-respond-messages.page:62
+msgid "Close the chat message."
+msgstr "ਗੱਲਬਾਤ ਸੁਨੇਹਾ ਬੰਦ ਕਰੋ।"
+
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:232 C/gs-animation.xml:9
+#: C/gs-respond-messages.page:44
+msgid "Delayed Response"
+msgstr "ਦੇਰ ਨਾਲ ਜਵਾਬ ਦੇਣਾ"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:235 C/gs-respond-messages.page:47
+msgid ""
+"A chat message in the message tray disappears after a while if you do not "
+"move your mouse to the message tray."
+msgstr ""
+"ਸੁਨੇਹਾ ਟਰੇ ਵਿੱਚੋਂ ਗੱਲਬਾਤ ਸੁਨੇਹਾ ਕੁਝ ਦੇਰ ਬਾਅਦ ਗੁੰਮ ਹੋ ਜਾਂਦਾ ਹੈ, ਜੇ ਤੁਸੀਂ ਆਪਣੇ "
+"ਮਾਊਸ ਦੇ ਪੁਆਇੰਟਰ ਨੂੰ ਸੁਨੇਹਾ "
+"ਟਰੇ ਉੱਤੇ ਨਹੀਂ ਲੈ ਕੇ ਜਾਂਦੇ ਹੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:239 C/gs-respond-messages.page:51
+msgid ""
+"To get back to your unanswered message, move your mouse to the message tray."
+msgstr ""
+"ਆਪਣੇ ਨਾ-ਜਵਾਬ ਦਿੱਤੇ ਸੁਨੇਹੇ ਉੱਤੇ ਵਾਪਸ ਜਾਣ ਲਈ, ਆਪਣੇ ਮਾਊਸ ਨੂੰ ਸੁਨੇਹਾ ਟਰੇ ਉੱਤੇ ਲੈ "
+"ਜਾਉ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:243 C/gs-respond-messages.page:55
+msgid "Click the person who sent you the message."
+msgstr "ਵਿਅਕਤੀ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ, ਜਿਸ ਨੇ ਤੁਹਾਨੂੰ ਸੁਨੇਹਾ ਭੇਜਿਆ ਸੀ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:246 C/getting-started.page:262
+#: C/gs-respond-messages.page:58 C/gs-respond-messages.page:74
+msgid "Start typing your reply and when finished, press <key>Enter </key>."
+msgstr ""
+"ਆਪਣਾ ਜਵਾਬ ਲਿਖਣਾ ਚਾਲੂ ਕਰੋ ਅਤੇ ਜਦੋਂ ਪੂਰਾ ਹੋ ਜਾਵੇ ਤਾਂ <key>ਐਂਟਰ</key> ਦੱਬੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:253 C/gs-respond-messages.page:65
+#| msgid ""
+#| "To show the message tray, press <keyseq> <key xref=\"keyboard-key-super"
+#| "\">Super</key><key>M</key></keyseq>"
+msgid ""
+"To show the message tray, press <keyseq> <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> <key>M</key></keyseq>"
+msgstr ""
+"ਸੁਨੇਹਾ ਟਰੇ ਵੇਖਣ ਲਈ, <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">"
+"ਸੁਪਰ</key><key>M</"
+"key></keyseq> ਦੱਬੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:258 C/gs-respond-messages.page:70
+msgid ""
+"Use the arrow keys to select the person you want to reply to, and press "
+"<key>Enter</key>."
+msgstr ""
+"ਵਿਅਕਤੀ ਨੂੰ ਚੁਣਨ ਲਈ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਜਵਾਬ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਤੀਰ ਵਾਲੀਆਂ ਸਵਿੱਚ "
+"ਵਰਤੋਂ ਅਤੇ "
+"<key>ਐਂਟਰ</key> ਦੱਬੋ।"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:266 C/gs-respond-messages.page:78
+#: C/gs-respond-messages.page:132
+msgid "Press <key>Esc</key> to close the chat message."
+msgstr "ਗੱਲਬਾਤ ਸੁਨੇਹੇ ਨੂੰ ਬੰਦ ਕਰਨ ਲਈ <key>Esc</key> ਦੱਬੋ।"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:269 C/gs-respond-messages.page:81
+msgid "To dismiss the message tray, press <key>Esc</key>."
+msgstr "ਸੁਨੇਹਾ ਟਰੇ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰਨਾ ਲਈ, <key>Esc</key> ਸਵਿੱਚ ਦੱਬੋ।"
+
+#. (itstool) path: links/title
+#: C/getting-started.page:278
+msgid "Common Tasks"
+msgstr "ਆਮ ਟਾਸਕ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:3
+msgid "Welcome"
+msgstr "ਜੀ ਆਇਆਂ ਨੂੰ"
+
+#. (itstool) path: titles/t
+#. (itstool) path: div/p
+#: C/gs-animation.xml:6 C/gs-change-wallpaper.page:30
+msgid "Changing Wallpaper"
+msgstr "ਵਾਲਪੇਪਰ ਬਦਲਣਾ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:11
+msgid "Changing Date, Time and Timezone"
+msgstr "ਮਿਤੀ, ਸਮਾਂ ਤੇ ਸਮਾਂ-ਖੇਤਰ ਬਦਲਣਾ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:12
+msgid "Maximize"
+msgstr "ਵੱਧੋ-ਵੱਧ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:13
+msgid "Restore"
+msgstr "ਮੁੜ-ਸਟੋਰ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:14
+msgid "Left half of screen"
+msgstr "ਸਕਰੀਨ ਦਾ ਖੱਬਾ ਅੱਧ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:15
+msgid "Workspace down"
+msgstr "ਵਰਕਸਪੇਸ ਹੇਠਾਂ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:16
+msgid "Workspace up"
+msgstr "ਵਰਕਸਪੇਸ ਉੱਤੇ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:17
+msgid "Right half of screen"
+msgstr "ਸਕਰੀਨ ਦਾ ਸੱਜਾ ਅੱਧ"
+
+#. (itstool) path: titles/t
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:18 C/gs-go-online1.svg:241 C/gs-search1.svg:190
+#: C/gs-search2.svg:146 C/gs-thumb-changing-wallpaper.svg:71
+#: C/gs-thumb-launching-apps.svg:195 C/gs-thumb-responding-to-messages.svg:42
+#: C/gs-thumb-task-switching.svg:158 C/gs-thumb-timezone.svg:47
+#: C/gs-thumb-windows-and-workspaces.svg:95 C/gs-web-browser1-firefox.svg:122
+#: C/gs-web-browser1.svg:122
+#, no-wrap
+msgid "Activities"
+msgstr "ਸਰਗਰਮੀਆਂ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:19
+msgid "Enter"
+msgstr "ਐਂਟਰ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:20
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:21
+msgid "Alt"
+msgstr "Alt"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:22
+msgid "Tab"
+msgstr "Tab"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:23
+msgid "Esc"
+msgstr "Esc"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:24
+msgid "help"
+msgstr "ਮੱਦਦ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:25
+msgid "web"
+msgstr "ਵੈੱਬ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:26
+msgid "Just start typing…"
+msgstr "...ਬੱਸ ਲਿਖਣਾ ਸ਼ੁਰੂ ਕਰੋ"
+
+#. (itstool) path: titles/t
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:27 C/gs-goa1.svg:43 C/gs-goa1.svg:70
+#: C/gs-go-online1.svg:239 C/gs-go-online1.svg:250 C/gs-go-online1.svg:316
+#: C/gs-go-online2.svg:235 C/gs-go-online2.svg:266 C/gs-go-online3.svg:332
+#: C/gs-search1.svg:187 C/gs-search2.svg:143
+#: C/gs-thumb-changing-wallpaper.svg:72 C/gs-thumb-launching-apps.svg:196
+#: C/gs-thumb-responding-to-messages.svg:43
+#: C/gs-thumb-responding-to-messages.svg:61 C/gs-thumb-task-switching.svg:159
+#: C/gs-thumb-timezone.svg:48 C/gs-thumb-windows-and-workspaces.svg:96
+#, no-wrap
+msgid "John Doe"
+msgstr "ਜੋਨ ਡੋਏ"
+
+#. (itstool) path: titles/t
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:28 C/gs-goa1.svg:75 C/gs-thumb-changing-wallpaper.svg:77
+#, no-wrap
+msgid "Settings"
+msgstr "ਸੈਟਿੰਗ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:29
+msgid "Background"
+msgstr "ਬੈਕਗਰਾਊਂਡ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:30
+msgid "Wallpapers"
+msgstr "ਵਾਲਪੇਪਰ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:31
+msgid "Select"
+msgstr "ਚੁਣੋ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:32
+msgid "Ready for the meeting?"
+msgstr "ਮੀਟਿੰਗ ਲਈ ਤਿਆਰ ਹੋ?"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:33
+msgid "I'll be there in a sec..."
+msgstr "...ਮੈਂ ਇੱਕ ਸਕਿੰਟ ਵਿੱਚ ਆਉਂਦਾ/ਆਉਂਦੀ ਹਾਂ"
+
+#. (itstool) path: titles/t
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:34 C/gs-thumb-responding-to-messages.svg:60
+#, no-wrap
+msgid "Good stuff, thanks again"
+msgstr "ਚੰਗਾ ਕੰਮ ਆਂ, ਫੇਰ ਧੰਨਵਾਦ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:35
+msgid "Thanks for the support"
+msgstr "ਸਹਿਯੋਗ ਲਈ ਧੰਨਵਾਦ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:36
+msgid "No worries."
+msgstr "ਚਿੰਤਾ ਛੱਡੋ।"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:37
+msgid "Too kind."
+msgstr "ਬਹੁਤ ਮੇਹਰਬਾਨੀ।"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:38
+msgid "Open Calendar"
+msgstr "ਕੈਲੰਡਰ ਖੋਲ੍ਹੋ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:39
+msgid "Open Clocks"
+msgstr "ਘੜੀਆਂ ਖੋਲ੍ਹੋ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:40
+msgid "Date and Time Settings"
+msgstr "ਮਿਤੀ ਅਤੇ ਸਮਾਂ ਸੈਟਿੰਗ"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:41
+msgid "Automatic Date and Time"
+msgstr "ਆਟੋਮੈਟਿਕ ਮਿਤੀ ਤੇ ਸਮਾਂ"
+
+#. (itstool) path: credit/name
+#: C/gs-browse-web.page:11 C/gs-browse-web-firefox.page:12
+#: C/gs-change-date-time-timezone.page:12 C/gs-change-wallpaper.page:11
+#: C/gs-connect-online-accounts.page:10 C/gs-get-online.page:10
+#: C/gs-launch-applications.page:11 C/gs-respond-messages.page:11
+#: C/gs-switch-tasks.page:11 C/gs-use-system-search.page:10
+#: C/gs-use-windows-workspaces.page:10
+msgid "Jakub Steiner"
+msgstr "ਜੈਕਬ ਸਟਿਈਨੇਰ"
+
+#. (itstool) path: credit/name
+#: C/gs-browse-web.page:14 C/gs-browse-web-firefox.page:15
+#: C/gs-change-date-time-timezone.page:15 C/gs-change-wallpaper.page:14
+#: C/gs-connect-online-accounts.page:13 C/gs-get-online.page:13
+#: C/gs-launch-applications.page:14 C/gs-respond-messages.page:14
+#: C/gs-switch-tasks.page:14 C/gs-use-system-search.page:13
+#: C/gs-use-windows-workspaces.page:13
+msgid "Petr Kovar"
+msgstr "ਪੇਟਰ ਕੋਵਰ"
+
+#. (itstool) path: info/title
+#: C/gs-browse-web.page:19
+msgctxt "link:trail"
+msgid "Browse the web"
+msgstr "ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਕਰੋ"
+
+#. (itstool) path: page/title
+#: C/gs-browse-web.page:22 C/gs-browse-web-firefox.page:23
+msgid "Browse the web"
+msgstr "ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਕਰੋ"
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:27 C/gs-browse-web-firefox.page:31
+#: C/gs-launch-applications.page:65
+msgid ""
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen to show the <gui>Activities Overview</gui>."
+msgstr ""
+"<gui>ਸਰਗਰਮੀ ਝਲਕ</gui> ਵੇਖਣ ਲਈ ਆਪਣੇ ਮਾਊਂਸ ਪੁਆਇੰਟਰ ਨੂੰ ਸਕਰੀਨ ਦੇ ਉੱਤੇ ਖੱਬੇ ਕੋਨੇ "
+"ਉੱਤੇ "
+"<gui>ਸਰਗਰਮੀ</gui> ਉੱਤੇ ਲੈ ਕੇ ਜਾਉ।"
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:30
+msgid ""
+"Select the <app>Web</app> browser icon from the bar on the left-hand side of "
+"the screen."
+msgstr "ਸਕਰੀਨ ਦੇ ਖੱਬੇ ਪਾਸੇ ਪੱਟੀ ਤੋਂ <app>ਵੈੱਬ</app> ਬਰਾਊਜ਼ਰ ਆਈਕਾਨ ਚੁਣੋ।"
+
+#. (itstool) path: note/p
+#: C/gs-browse-web.page:34
+msgid ""
+"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
+"search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
+"gui>."
+msgstr ""
+"ਬਦਲਵੇਂ ਰੂਪ ਵਿੱਚ ਤੁਸੀਂ <gui>ਸਰਗਰਮੀ ਝਲਕ</gui> ਵਿੱਚ <em>ਵੈੱਬ</em> "
+"<link xref=\"gs-use-system-search\">ਲਿਖ ਕੇ ਹੀ</link> ਬਰਾਊਜ਼ਰ ਚਲਾ ਸਕਦੇ ਹੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:41 C/gs-browse-web-firefox.page:60
+msgid ""
+"Click the address bar at the top of the browser window and start typing in "
+"the website you want to visit."
+msgstr ""
+"ਬਰਾਊਜ਼ਰ ਵਿੰਡੋ ਵਿੱਚ ਉੱਤੇ ਐਡਰੈਸ ਪੱਟੀ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ ਅਤੇ ਲੋੜੀਦੀ ਵੈੱਬਸਾਈਟ ਨੂੰ "
+"ਖੋਲ੍ਹਣ ਲਈ ਲਿਖਣਾ "
+"ਸ਼ੁਰੂ ਕਰੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:43 C/gs-browse-web-firefox.page:62
+msgid ""
+"Typing in a website starts searching for it in the browser history and "
+"bookmarks, so you do not need to remember the exact address."
+msgstr ""
+"ਵੈੱਬਸਾਈਟ ਨੂੰ ਲਿਖਣਾ ਸ਼ੁਰੂ ਕਰਨ ਨਾਲ ਇਸਨੂੰ ਬਰਾਊਜ਼ਰ ਅਤੀਤ ਅਤੇ ਬੁੱਕਮਾਰਕ ਵਿੱਚ "
+"ਲੱਭਣਾ ਸ਼ੁਰੂ ਕਰ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ ਤਾਂ ਕਿ ਤੁਹਾਨੂੰ ਪੂਰਾ ਐਡਰੈਸ ਯਾਦ ਨਾ ਕਰਨਾ ਪਵੇ।"
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:46 C/gs-browse-web-firefox.page:65
+msgid ""
+"If the website is found in the history or bookmarks, a drop-down list is "
+"shown below the address bar."
+msgstr ""
+"ਜੇ ਵੈੱਬਸਾਈਟ ਅਤੀਤ ਜਾਂ ਬੁੱਕਮਾਰਕ ਵਿੱਚ ਲੱਭ ਜਾਵੇ ਤਾਂ ਇਸ ਨੂੰ ਐਡਰੈਸ ਪੱਟੀ ਵਿੱਚ ਹੇਠਾਂ "
+"ਨੂੰ ਲਟਕਦੀ "
+"ਸੂਚੀ ਵਿੱਚ ਵੇਖਾਇਆ ਜਾਂਦਾ ਹੈ।"
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:48 C/gs-browse-web-firefox.page:67
+msgid ""
+"From the drop-down list, you can quickly select a website using the arrow "
+"keys."
+msgstr ""
+"ਲਟਕਦੀ ਸੂਚੀ ਵਿੱਚੋਂ ਤੁਸੀਂ ਤੀਰ ਸਵਿੱਚਾਂ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਵੈੱਬਸਾਈਟ ਨੂੰ ਤੁਰੰਤ ਚੁਣ ਸਕਦੇ "
+"ਹੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:51 C/gs-browse-web-firefox.page:70
+msgid "After you have selected a website, press <key>Enter</key> to visit it."
+msgstr "ਜਦੋਂ ਤੁਸੀਂ ਵੈੱਬਸਾਈਟ ਚੁਣ ਲਈ ਤਾਂ ਇਸ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ <key>ਐਂਟਰ</key> ਦੱਬੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-browse-web-firefox.page:34
+msgid ""
+"Select the <app>Firefox</app> browser icon from the bar on the left-hand "
+"side of the screen."
+msgstr "ਸਕਰੀਨ ਦੇ ਖੱਬੇ ਪਾਸੇ ਪੱਟੀ ਤੋਂ <app>ਫਾਇਰਫਾਕਸ</app> ਬਰਾਊਜ਼ਰ ਆਈਕਾਨ ਚੁਣੋ।"
+
+#. (itstool) path: note/p
+#: C/gs-browse-web-firefox.page:38
+msgid ""
+"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
+"search\">just typing</link> <em>Firefox</em> in the <gui>Activities "
+"Overview</gui>."
+msgstr ""
+"ਬਦਲਵੇਂ ਰੂਪ ਵਿੱਚ ਤੁਸੀਂ <gui>ਸਰਗਰਮੀ ਝਲਕ</gui> ਵਿੱਚ <em>ਫਾਇਰਫਾਕਸ</em> "
+"<link xref=\"gs-use-system-search\">ਲਿਖ ਕੇ ਹੀ</link> ਬਰਾਊਜ਼ਰ ਚਲਾ ਸਕਦੇ ਹੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-browse-web-firefox.page:48
+#| msgid ""
+#| "Move your mouse pointer to the <gui>Activities</gui> corner at the top "
+#| "left of the screen."
+msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
+msgstr "ਸਕਰੀਨ ਦੇ ਉੱਤੇ ਖੱਬੇ ਕੋਨੇ ਉੱਤੇ <gui>ਐਪਲੀਕੇਸ਼ਨ</gui> ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-browse-web-firefox.page:50
+msgid ""
+"From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
+"guiseq>."
+msgstr ""
+"ਮੇਨੂ ਤੋਂ, <guiseq><gui>ਇੰਟਰਨੈੱਟ</gui><gui>ਫਾਇਰਫਾਕਸ</gui></guiseq> ਦੀ ਚੋਣ ਕਰੋ"
+
+#. (itstool) path: info/title
+#: C/gs-change-date-time-timezone.page:18
+msgctxt "link:trail"
+msgid "Change the date, time and timezone"
+msgstr "ਮਿਤੀ, ਸਮਾਂ ਅਤੇ ਸਮਾਂ-ਖੇਤਰ ਬਦਲੋ"
+
+#. (itstool) path: info/title
+#: C/gs-change-date-time-timezone.page:20
+msgctxt "link:seealso"
+msgid "A tutorial on changing the date, time and timezone"
+msgstr "ਮਿਤੀ, ਸਮਾਂ ਅਤੇ ਸਮਾਂ-ਖੇਤਰ ਬਦਲਣ ਲਈ ਸਿਖਲਾਈ"
+
+#. (itstool) path: page/title
+#. (itstool) path: section/title
+#: C/gs-change-date-time-timezone.page:24
+#: C/gs-change-date-time-timezone.page:64
+msgid "Change the date, time and timezone"
+msgstr "ਮਿਤੀ, ਸਮਾਂ ਅਤੇ ਸਮਾਂ-ਖੇਤਰ ਬਦਲੋ"
+
+#. (itstool) path: div/p
+#: C/gs-change-date-time-timezone.page:35
+msgid "Changing Date &amp; Time"
+msgstr "ਮਿਤੀ ਤੇ ਸਮਾਂ ਬਦਲਣਾ"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:38
+#: C/gs-change-date-time-timezone.page:67
+msgid "Click the clock on the top bar."
+msgstr "ਉੱਤੇ ਪੱਟੀ ਵਿੱਚੋਂ ਘੜੀ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:41
+#: C/gs-change-date-time-timezone.page:68
+msgid "Select the <gui>Date &amp; Time Settings</gui> item."
+msgstr "<gui>ਸਮਾਂ ਤੇ ਮਿਤੀ ਸੈਟਿੰਗ</gui> ਆਈਟਮ ਚੁਣੋ।"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:44
+#: C/gs-change-date-time-timezone.page:78
+msgid "Click on your location on the map."
+msgstr "ਨਕਸ਼ੇ ਉੱਤੇ ਆਪਣੇ ਟਿਕਾਣੇ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।"
+
+#. (itstool) path: div/p
+#: C/gs-change-date-time-timezone.page:47
+msgid ""
+"You can adjust the date and time by clicking on the arrows to choose the "
+"hour, minute, and year."
+msgstr ""
+"ਤੁਸੀਂ ਸਮੇਂ ਅਤੇ ਮਿਤੀ ਨੂੰ ਤੀਰ ਸਵਿੱਚਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋਏ ਘੰਟੇ, ਮਿੰਟ ਤੇ ਸਾਲ ਚੁਣ "
+"ਕੇ ਠੀਕ ਕਰ ਸਕਦੇ ਹੋ।"
+
+#. (itstool) path: div/p
+#: C/gs-change-date-time-timezone.page:51
+msgid "Close the window."
+msgstr "ਵਿੰਡੋ ਬੰਦ ਕਰੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:76
+msgid ""
+"You may need to click the <gui>Unlock</gui> button and type the "
+"administrator's password."
+msgstr ""
+"ਤੁਹਾਨੂੰ <gui>ਅਣ-ਲਾਕ</gui> ਬਟਨ ਨੂੰ ਕਲਿੱਕ ਕਰਕੇ ਪਰਸ਼ਾਸ਼ਕ ਦਾ ਪਾਸਵਰਡ "
+"ਦੇਣਾ ਪੈ ਸਕਦਾ ਹੈ।"
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:79
+msgid ""
+"This selects your current city, which you can also see and change in the "
+"drop-down list below the map."
+msgstr ""
+"ਇਹ ਤੁਹਾਡੇ ਮੌਜੂਦਾ ਸ਼ਹਿਰ ਨੂੰ ਚੁਣਦੇ ਹੈ, ਜਿਸ ਨੂੰ ਹੇਠ ਦਿੱਤੇ ਨਕਸ਼ੇ ਵਿੱਚ ਲਟਕਦੀ ਸੂਚੀ "
+"ਰਾਹੀਂ ਵੇਖ ਅਤੇ ਬਦਲ ਸਕਦੇ ਹੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:81
+msgid ""
+"On the right-hand side of the window, you can adjust the date and time by "
+"clicking on the arrows to choose the hour, minute, and year."
+msgstr ""
+"ਵਿੰਡੋ ਦੇ ਸੱਜੇ ਹੱਥ ਉੱਤੇ ਤੁਸੀਂ ਸਮੇਂ ਅਤੇ ਮਿਤੀ ਨੂੰ ਤੀਰ ਸਵਿੱਚਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋਏ "
+"ਘੰਟੇ, ਮਿੰਟ ਤੇ ਸਾਲ ਚੁਣ ਕੇ ਠੀਕ ਕਰ ਸਕਦੇ ਹੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:84
+msgid ""
+"Close the window by clicking the cross at the top-right corner of the window."
+msgstr ""
+"ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕਰਨ ਲਈ ਵਿੰਡੋ ਦੇ ਉੱਤਲੇ ਸੱਜੇ ਕੋਨੇ ਉੱਤੇ ਗੁਣਾ ਦੇ ਨਿਸ਼ਾਨ ਨੂੰ ਕਲਿੱਕ ਕਰ "
+"ਸਕਦੇ ਹੋ।"
+
+#. (itstool) path: info/title
+#: C/gs-change-wallpaper.page:17
+msgctxt "link:trail"
+msgid "Change the wallpaper"
+msgstr "ਵਾਲਪਪੇਰ ਬਦਲਣਾ"
+
+#. (itstool) path: info/title
+#: C/gs-change-wallpaper.page:19
+msgctxt "link:seealso"
+msgid "A tutorial on changing the wallpaper"
+msgstr "ਵਾਲਪਪੇਰ ਬਦਲਣ ਲਈ ਸਿਖਲਾਈ"
+
+#. (itstool) path: page/title
+#. (itstool) path: section/title
+#: C/gs-change-wallpaper.page:22 C/gs-change-wallpaper.page:56
+msgid "Change the wallpaper"
+msgstr "ਵਾਲਪਪੇਰ ਬਦਲਣਾ"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:33 C/gs-change-wallpaper.page:59
+msgid "Click your name on the top bar and select <gui>Settings</gui>."
+msgstr ""
+"ਉੱਤੇ ਪੱਟੀ ਵਿੱਚੋਂ ਆਪਣੇ ਨਾਂ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ ਅਤੇ <gui>ਸੈਟਿੰਗ</gui> ਦੀ ਚੋਣ ਕਰੋ।"
+
+#. (itstool) path: div/p
+#: C/gs-change-wallpaper.page:36
+msgid "Select <gui>Background</gui>."
+msgstr "<gui>ਬੈਕਗਰਾਊਂਡ</gui> ਚੁਣੋ।"
+
+#. (itstool) path: div/p
+#: C/gs-change-wallpaper.page:39
+msgid "Click the image of your current wallpaper."
+msgstr "ਆਪਣੇ ਮੌਜੂਦ ਵਾਲਪੇਪਰ ਦੇ ਚਿੱਤਰ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:42 C/gs-change-wallpaper.page:64
+msgid "Click the background image that you want to use."
+msgstr "ਬੈਕਗਰਾਊਂਡ ਚਿੱਤਰ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਵਰਤਣਾ ਚਾਹੁੰਦੇ ਹੋ।"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:45 C/gs-change-wallpaper.page:65
+msgid "Click the <gui>Select</gui> button."
+msgstr "<gui>ਚੁਣੋ</gui> ਬਟਨ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।"
+
+#. (itstool) path: div/p
+#: C/gs-change-wallpaper.page:48
+msgid "Close the <gui>Background</gui> window."
+msgstr "<gui>ਬੈਕਗਰਾਊਂਡ</gui> ਵਿੰਡੋ ਬੰਦ ਕਰੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:61
+msgid "From the list of items, select <gui>Background</gui>."
+msgstr "ਆਈਟਮਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚੋਂ <gui>ਬੈਕਗਰਾਊਂਡ</gui> ਚੁਣੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:62
+msgid ""
+"Click the image of your current wallpaper in the center of the "
+"<gui>Background</gui> window."
+msgstr ""
+"<gui>ਬੈਕਗਰਾਊਂਡ</gui> ਵਿੰਡੋ ਦੇ ਕੇਂਦਰ ਵਿੱਚ ਆਪਣੇ ਮੌਜੂਦਾ ਵਾਲਪੇਪਰ ਦੇ ਚਿੱਤਰ ਉੱਤੇ "
+"ਕਲਿੱਕ ਕਰੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:66
+msgid ""
+"Close the <gui>Background</gui> window by clicking the cross at the top-"
+"right corner of the window."
+msgstr ""
+"<gui>ਬੈਕਗਰਾਊਂਡ</gui> ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕਰਨ ਲਈ ਵਿੰਡੋ ਦੇ ਉੱਤਲੇ ਸੱਜੇ ਕੋਨੇ ਉੱਤੇ ਗੁਣਾ "
+"ਦੇ ਨਿਸ਼ਾਨ ਨੂੰ ਕਲਿੱਕ ਕਰ ਸਕਦੇ ਹੋ।"
+
+#. (itstool) path: info/title
+#: C/gs-connect-online-accounts.page:16
+msgctxt "link:trail"
+msgid "Connect to online accounts"
+msgstr "ਆਨਲਾਈਨ ਖਾਤਿਆਂ ਨਾਲ ਕੁਨੈਕਟ ਕਰਨਾ"
+
+#. (itstool) path: info/title
+#: C/gs-connect-online-accounts.page:18
+msgctxt "link:seealso"
+msgid "A tutorial on connecting to online accounts"
+msgstr "ਆਨਲਾਈਨ ਖਾਤਿਆਂ ਨਾਲ ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਸਿਖਲਾਈ"
+
+#. (itstool) path: page/title
+#: C/gs-connect-online-accounts.page:22
+msgid "Connect to online accounts"
+msgstr "ਆਨਲਾਈਨ ਖਾਤਿਆਂ ਨਾਲ ਕੁਨੈਕਟ ਕਰਨਾ"
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:27 C/gs-use-system-search.page:80
+msgid "Click your name on the top bar."
+msgstr "ਉੱਤੇ ਪੱਟੀ ਵਿੱਚੋਂ ਆਪਣੇ ਨਾਂ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:28 C/gs-use-system-search.page:81
+msgid "Select the <gui>Settings</gui> item."
+msgstr "<gui>ਸੈਟਿੰਗ</gui> ਦੀ ਚੋਣ ਕਰੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:34
+msgid "From the list of items, select <gui>Online Accounts</gui>."
+msgstr "ਆਈਟਮਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚੋਂ, <gui>ਆਨਲਾਈਨ ਅਕਾਊਂਟ</gui> ਚੁਣੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:36
+msgid "Click on the <gui>Add an online account</gui> button."
+msgstr "<gui>ਆਨਲਾਈਨ ਅਕਾਊਂਟ ਸ਼ਾਮਿਲ ਕਰੋ</gui> ਬਟਨ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।"
+
+#. (itstool) path: note/p
+#: C/gs-connect-online-accounts.page:39
+msgid ""
+"If you have set up an online account before, you can add another online "
+"account by clicking the <gui>+</gui> button at the bottom left corner of the "
+"window."
+msgstr ""
+"ਜੇ ਤੁਸੀਂ ਪਹਿਲਾਂ ਹੀ ਆਨਲਾਈਨ ਅਕਾਊਂਟ (ਖਾਤਾ) ਸੈਟ ਅੱਪ ਕੀਤਾ ਹੋਇਆ ਹੈ ਤਾਂ ਤੁਸੀਂ "
+"ਹੋਰ ਅਕਾਊਂਟ ਨੂੰ ਵਿੰਡੋ ਦੇ ਹੇਠਲੇ ਖੱਬੇ ਕੋਨੇ ਵਿੱਚ <gui>+</gui> ਨਿਸ਼ਾਨ ਨੂੰ ਕਲਿੱਕ "
+"ਕਰਕੇ ਕਰ ਸਕਦੇ ਹੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:46
+msgid ""
+"Click the online account you want to use. This will open a new window where "
+"you can sign in to your online account."
+msgstr ""
+"ਆਨਲਾਈਨ ਅਕਾਊਂਟ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਵਰਤਣਾ ਚਾਹੁੰਦੇ ਹੋ। ਇਸ ਨਾਲ ਨਵੀਂ "
+"ਵਿੰਡੋ ਖੁੱਲ੍ਹੇਗੀ, ਜਿੱਥੇ ਤੁਸੀਂ "
+"ਆਪਣੇ ਆਨਲਾਈਣ ਖਾਤੇ ਵਿੱਚ ਸਾਇਨ ਕਰ ਸਕਦੇ ਹੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:53
+msgid ""
+"In most cases, you will have to grant access to the online service after "
+"signing in to get started."
+msgstr ""
+"ਬਹੁਤੇ ਹਾਲਤਾਂ ਵਿੱਚ, ਤੁਹਾਨੂੰ ਸਾਇਨ ਇਨ ਕਰਨ ਦੇ ਬਾਅਦ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਆਨਲਾਈਨ ਸੇਵਾਵਾਂ ਲਈ "
+"ਅਧਿਕਾਰ ਦੇਣੇ ਪੈਣਗੇ।"
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:55
+msgid ""
+"For example, if you are connecting to your Google account, you will have to "
+"click the <gui>Grant Access</gui> button."
+msgstr ""
+"ਉਦਾਹਰਨ ਲਈ, ਜੇ ਤੁਸੀਂ ਆਪਣੇ ਗੂਗਲ ਅਕਾਊਂਟ ਨਾਲ ਕੁਨੈਕਟ ਹੋ ਰਹੇ ਹੋ ਤਾਂ ਤੁਹਾਨੂੰ "
+"<gui>ਅਧਿਕਾਰ ਮਨਜ਼ੂਰੀ (Grant Access)</gui> ਬਟਨ ਨੂੰ ਕਲਿੱਕ ਕਰਨਾ ਪਵੇਗਾ।"
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:62
+msgid ""
+"Many online accounts let you choose the services you want to use with your "
+"online account. If you do not want to use a service, disable it by clicking "
+"the <gui>ON/OFF</gui> switch on the right-hand side of the window."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/gs-get-online.page:16
+msgctxt "link:trail"
+msgid "Get online"
+msgstr "ਆਨਲਾਈਨ ਜਾਉ"
+
+#. (itstool) path: info/title
+#: C/gs-get-online.page:18
+msgctxt "link:seealso"
+msgid "A tutorial on getting online"
+msgstr "ਆਨਲਾਈਨ ਹੋਣ ਲਈ ਸਿਖਲਾਈ"
+
+#. (itstool) path: page/title
+#: C/gs-get-online.page:21
+msgid "Get online"
+msgstr "ਆਨਲਾਈਨ ਜਾਉ"
+
+#. (itstool) path: note/p
+#: C/gs-get-online.page:24
+msgid ""
+"You can see the status of your network connection on the right-hand side of "
+"the top bar, next to your name."
+msgstr ""
+"ਤੁਸੀਂ ਉੱਤੇ ਪੱਟੀ ਵਿੱਚ ਸੱਜੇ ਪਾਸੇ ਆਪਣੇ ਨਾਂ ਤੋਂ ਅੱਗੇ ਆਪਣਾ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਦੀ "
+"ਸਥਿਤੀ ਵੇਖ ਸਕਦੇ ਹੋ।"
+
+#. (itstool) path: section/title
+#: C/gs-get-online.page:30
+msgid "Connect to a wired network"
+msgstr "ਤਾਰ ਵਾਲੇ ਨੈੱਟਵਰਕ ਨਾਲ ਕੁਨੈਕਟ ਕਰਨਾ"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:35
+msgid ""
+"The network connection icon on the right-hand side of the top bar shows that "
+"you are off-line."
+msgstr ""
+"ਉੱਤੇ ਪੱਟੀ ਵਿੱਚ ਸੱਜੇ ਹੱਥ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਆਈਕਾਨ ਵੇਖਾਇਆ ਜਾਂਦਾ ਹੈ, ਜੇ ਤੁਸੀਂ "
+"ਆਫ-ਲਾਈਨ ਹੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:37
+msgid ""
+"Click the network connection icon to show more details about the status of "
+"your network connection."
+msgstr ""
+"ਆਪਣੇ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਦੀ ਹਾਲਤ ਬਾਰੇ ਵੇਰਵੇ ਸਮੇਤ ਜਾਣਕਾਰੀ ਵੇਖਣ ਲਈ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ "
+"ਆਈਕਾਨ "
+"ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:39
+msgid ""
+"The off-line status can be caused by a number of reasons: for example, a "
+"network cable has been unplugged, the computer has been set to run in "
+"<em>airplane mode</em>, or there are no available wireless networks in your "
+"area."
+msgstr ""
+"ਆਫਲਾਈਨ ਹੋਣ ਦੇ ਕਈ ਕਾਰਨ ਹੋ ਸਕਦੇ ਹਨ: ਉਦਾਹਰਨ ਲਈ, ਨੈੱਟਵਰਕ ਕੇਬਲ ਨਾ ਲੱਗੀ ਹੋਣੀ, "
+"ਕੰਪਿਊਟਰ ਨੂੰ <em>ਏਅਰਪਲੇਨ ਮੋਡ</em> ਵਿੱਚ ਸੈੱਟ ਕੀਤਾ ਹੋਣਾ ਜਾਂ ਤੁਹਾਡੇ ਖੇਤਰ ਵਿੱਚ "
+"ਕੋਈ ਵੀ ਬੇਤਾਰ ਨੈੱਟਵਰਕ ਉਪਲੱਬਧ ਹੋਣਾ ਹੋ ਸਕਦਾ ਹੈ।"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:48
+msgid ""
+"If you want to use a wired connection, just plug in a network cable to go "
+"online. The computer will try to set up the network connection for you "
+"automatically."
+msgstr ""
+"ਜੇ ਤੁਸੀਂ ਤਾਰ ਵਾਲਾ ਕੁਨੈਕਸ਼ਨ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਆਨਲਾਈਨ ਜਾਣ ਲਈ ਕੇਵਲ ਨੈੱਟਵਰਕ ਕੇਬਲ ਲਗਾ "
+"ਦਿਉ। "
+"ਕੰਪਿਊਟਰ ਤੁਹਾਡੇ ਲਈ ਆਪਣੇ-ਆਪ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਸੈੱਟ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੇਗਾ।"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:52
+msgid ""
+"While the computer sets up a network connection for you, the network "
+"connection icon shows three dots."
+msgstr ""
+"ਜਦੋਂ ਤੱਕ ਕੰਪਿਊਟਰ ਨੂੰ ਤੁਹਾਡੇ ਲਈ ਨੈੱਟਵਰਕ ਨਾਲ ਸੈਟਅੱਪ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੁੰਦਾ ਹੈ, "
+"ਨੈੱਟਵਰਕ "
+"ਕੁਨੈਕਸ਼ਨ ਆਈਕਾਨ ਨੂੰ ਤਿੰਨ ਬਿੰਦੂਆਂ ਵਜੋਂ ਵੇਖਾਇਆ ਜਾਂਦਾ ਹੈ।"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:54
+msgid ""
+"Once the network connection has been successfully set up, the network "
+"connection icon changes to the networked computer symbol."
+msgstr ""
+"ਜਦੋਂ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਠੀਕ ਤਰ੍ਹਾਂ ਸੈੱਟ ਅੱਪ ਹੋ ਗਿਆ ਤਾਂ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਆਈਕਾਨ ਨੂੰ "
+"ਨੈੱਟਵਰਕ ਨਾਲ "
+"ਜੁੜੇ ਹੋਏ ਕੰਪਿਊਟਰ ਨਿਸ਼ਾਨ ਨਾਲ ਬਦਲ ਦੇਵੇਗਾ।"
+
+#. (itstool) path: section/title
+#: C/gs-get-online.page:62
+msgid "Connect to other types of networks"
+msgstr "ਹੋਰ ਕਿਸਮ ਦੇ ਨੈੱਟਵਰਕ ਨਾਲ ਕੁਨੈਕਟ ਕਰਨਾ"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:67
+msgid ""
+"There are various types of network connections that you can use with your "
+"computer, for example, mobile broadband, or wireless networks."
+msgstr ""
+"ਕਈ ਕਿਸਮ ਦੇ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਉਪਲੱਬਧ ਹਨ, ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਨੂੰ ਕੁਨੈਕਟ "
+"ਕਰਨ "
+"ਲਈ ਵਰਤ ਸਕਦੇ ਹੋ ਜਿਵੇਂ ਕਿ ਮੋਬਾਇਲ ਬਰਾਡਬੈਂਡ ਜਾਂ ਬੇਤਾਰ ਨੈੱਟਵਰਕ।"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:70
+msgid ""
+"Depending on your computer hardware and the networks availability, you can "
+"choose other connection types by clicking the network connection icon on the "
+"right-hand side of the top bar and selecting the network connection you want "
+"to connect to."
+msgstr ""
+"ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਦੇ ਹਾਰਡਵੇਅਰ ਅਤੇ ਨੈੱਟਵਰਕ ਉਪਲੱਬਧਤਾ ਦੇ ਮੁਤਾਬਕ, ਤੁਸੀਂ ਹੋਰ "
+"ਕੁਨੈਕਸ਼ਨਾਂ ਨੂੰ ਉੱਤੇ "
+"ਪੱਟੀ ਦੇ ਸੱਜੇ ਹੱਥ ਮੌਜੂਦ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਆਈਕਾਨ ਉੱਤੇ ਕਲਿੱਕ ਕਰਕੇ ਉਸ ਕੁਨੈਕਸ਼ਨ ਦੀ "
+"ਚੋਣ ਕਰ ਸਕਦੇ ਹੋ, ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਕੁਨੈਕਟ ਹੋਣਾ ਚਾਹੁੰਦੇ ਹੋ।"
+
+#. (itstool) path: Work/format
+#: C/gs-goa1.svg:21 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
+#: C/gs-goa5.svg:35 C/gs-go-online1.svg:220 C/gs-go-online2.svg:219
+#: C/gs-go-online3.svg:256 C/gs-search1.svg:88 C/gs-search2.svg:124
+#: C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:30
+#: C/gs-thumb-launching-apps.svg:180 C/gs-thumb-responding-to-messages.svg:27
+#: C/gs-thumb-task-switching.svg:80 C/gs-thumb-timezone.svg:32
+#: C/gs-thumb-windows-and-workspaces.svg:80
+#: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
+#: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
+#: C/gs-web-browser2.svg:100
+msgid "image/svg+xml"
+msgstr "image/svg+xml"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa1.svg:61 C/gs-go-online1.svg:232 C/gs-go-online3.svg:269
+#: C/gs-search1.svg:100 C/gs-thumb-timezone.svg:72 C/gs-thumb-timezone.svg:106
+#: C/gs-web-browser1-firefox-classic.svg:115 C/gs-web-browser1-firefox.svg:120
+#: C/gs-web-browser1.svg:120
+#, no-wrap
+msgid "1"
+msgstr "1"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa1.svg:65 C/gs-go-online1.svg:283 C/gs-search2.svg:136
+#: C/gs-thumb-timezone.svg:73 C/gs-thumb-timezone.svg:107
+#: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
+#: C/gs-web-browser1.svg:153
+#, no-wrap
+msgid "2"
+msgstr "2"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa2.svg:50 C/gs-go-online2.svg:231 C/gs-thumb-timezone.svg:74
+#: C/gs-thumb-timezone.svg:108 C/gs-web-browser2-firefox.svg:164
+#: C/gs-web-browser2.svg:163
+#, no-wrap
+msgid "3"
+msgstr "3"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa2.svg:81 C/gs-goa3.svg:113 C/gs-goa5.svg:79
+#, no-wrap
+msgid "Online Accounts"
+msgstr "ਆਨਲਾਈਨ ਅਕਾਊਂਟ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa2.svg:83 C/gs-goa3.svg:115
+#, no-wrap
+msgid "Add an online account"
+msgstr "ਆਨਲਾਈਨ ਅਕਾਊਂਟ ਸ਼ਾਮਲ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:75 C/gs-thumb-timezone.svg:109
+#: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:113
+#, no-wrap
+msgid "4"
+msgstr "4"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:66
+#, no-wrap
+msgid "Add Account"
+msgstr "ਅਕਾਊਂਟ ਸ਼ਾਮਲ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90
+#, no-wrap
+msgid "Cancel"
+msgstr "ਰੱਦ ਕਰੋ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:90 C/gs-goa5.svg:93
+#, no-wrap
+msgid "Google"
+msgstr "ਗੂਗਲ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:73 C/gs-goa4.svg:124
+#, no-wrap
+msgid "Facebook"
+msgstr "ਫੇਸਬੁੱਕ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:74 C/gs-goa4.svg:125
+#, no-wrap
+msgid "Windows Live"
+msgstr "ਵਿੰਡੋਜ਼ ਲਾਈਵ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:75 C/gs-goa4.svg:126
+#, no-wrap
+msgid "Microsoft Exchange"
+msgstr "ਮਾਈਕਰੋਸਾਫਟ ਐਕਸਚੇਜ਼"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:76 C/gs-goa4.svg:127
+#, no-wrap
+msgid "Enterprise Login (Kerberos)"
+msgstr "ਇੰਟਰਪਰਾਈਜ਼ ਲਾਗਇਨ (ਕਰਬਰੋਸ)"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:48 C/gs-thumb-timezone.svg:76
+#: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:261
+#, no-wrap
+msgid "5"
+msgstr "5"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:52 C/gs-goa4.svg:86
+#, no-wrap
+msgid "Google account"
+msgstr "ਗੂਗਲ ਅਕਾਊਂਟ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:69
+#, no-wrap
+msgid "SIGN UP"
+msgstr "ਸਾਈਨ ਅੱਪ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:70
+#, no-wrap
+msgid "Sign in"
+msgstr "ਸਾਈਨ ਇਨ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:71
+#, no-wrap
+msgid "Email"
+msgstr "ਈਮੇਲ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:73
+#, no-wrap
+msgid "Password"
+msgstr "ਪਾਸਵਰਡ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:76
+#, no-wrap
+msgid "Sign In"
+msgstr "ਸਾਈਨ ਇਨ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:77 C/gs-goa5.svg:92 C/gs-goa5.svg:95
+#, no-wrap
+msgid "john.doe@gmail.com"
+msgstr "john.doe@gmail.com"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:103
+#, no-wrap
+msgid "Grant Access"
+msgstr "ਵਰਤੋਂ ਮਨਜ਼ੂਰੀ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:108
+#, no-wrap
+msgid "Deny Access"
+msgstr "ਵਰਤੋਂ ਪਾਬੰਦੀ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:77
+#, no-wrap
+msgid "6"
+msgstr "6"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:47 C/gs-thumb-timezone.svg:78
+#, no-wrap
+msgid "7"
+msgstr "7"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:96
+#, no-wrap
+msgid "Use for"
+msgstr "ਇਸ ਲਈ ਵਰਤੋਂ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:97
+#, no-wrap
+msgid "Mail"
+msgstr "ਮੇਲ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:102
+#, no-wrap
+msgid "Calendar"
+msgstr "ਕੈਲੰਡਰ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:107 C/gs-search2.svg:264
+#, no-wrap
+msgid "Contacts"
+msgstr "ਸੰਪਰਕ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:112
+#, no-wrap
+msgid "Chat"
+msgstr "ਗੱਲਬਾਤ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:117
+#, no-wrap
+msgid "Documents"
+msgstr "ਡੌਕੂਮੈਂਟ"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:122 C/gs-goa5.svg:123 C/gs-goa5.svg:124 C/gs-goa5.svg:125
+#: C/gs-goa5.svg:126 C/gs-go-online3.svg:288 C/gs-search-settings.svg:155
+#: C/gs-search-settings.svg:272 C/gs-search-settings.svg:279
+#: C/gs-search-settings.svg:286
+#, no-wrap
+msgid "ON"
+msgstr "ਚਾਲੂ"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:240 C/gs-search1.svg:188 C/gs-search2.svg:144
+#: C/gs-thumb-changing-wallpaper.svg:73 C/gs-thumb-launching-apps.svg:197
+#: C/gs-thumb-responding-to-messages.svg:44 C/gs-thumb-task-switching.svg:160
+#: C/gs-thumb-timezone.svg:49 C/gs-thumb-windows-and-workspaces.svg:97
+#, no-wrap
+msgid "14:30"
+msgstr "14:30"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:287 C/gs-go-online3.svg:274
+#, no-wrap
+msgid "Network Settings"
+msgstr "ਨੈੱਟਵਰਕ ਸੈਟਿੰਗ"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:288 C/gs-go-online3.svg:275
+#, no-wrap
+msgid "Wired"
+msgstr "ਤਾਰ"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:289 C/gs-go-online3.svg:276
+#, no-wrap
+msgid "Cable unplugged"
+msgstr "ਕੇਬਲ ਕੱਢੀ"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:290 C/gs-go-online3.svg:277
+#, no-wrap
+msgid "Mobile broadband"
+msgstr "ਮੋਬਾਇਲ ਬਰਾਡਬੈਂਡ"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:292 C/gs-go-online1.svg:301 C/gs-go-online3.svg:279
+#: C/gs-search-settings.svg:293
+#, no-wrap
+msgid "OFF"
+msgstr "ਬੰਦ"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:299 C/gs-go-online3.svg:286
+#, no-wrap
+msgid "Wi-Fi"
+msgstr "ਵਾਈ-ਫਾਈ"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:309
+#, no-wrap
+msgid "Wireless"
+msgstr "ਬੇਤਾਰ"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:310
+#, no-wrap
+msgid "Private"
+msgstr "ਪ੍ਰਾਈਵੇਟ"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:311
+#, no-wrap
+msgid "Weak"
+msgstr "ਕਮਜ਼ੋਰ"
+
+#. (itstool) path: info/title
+#: C/gs-launch-applications.page:18
+msgctxt "link:trail"
+msgid "Launch applications"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਚਲਾਉਣਾ"
+
+#. (itstool) path: info/title
+#: C/gs-launch-applications.page:20
+msgctxt "link:seealso"
+msgid "A tutorial on launching applications"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਚਲਾਉਣ ਲਈ ਸਿਖਲਾਈ"
+
+#. (itstool) path: section/title
+#: C/gs-launch-applications.page:62
+msgid "Launch applications with the mouse"
+msgstr "ਮਾਊਂਸ ਨਾਲ ਐਪਲੀਕੇਸ਼ਨ ਚਲਾਉਣੀਆਂ"
+
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:67
+msgid ""
+"Click the <gui>Show Applications</gui> icon that is shown at the bottom of "
+"the bar on the left-hand side of the screen."
+msgstr ""
+"ਸਕਰੀਨ ਦੇ ਖੱਬੇ-ਹੱਥ ਵਾਲੇ ਪਾਸੇ ਹੇਠਾਂ ਪੱਟੀ ਉੱਤੇ <gui>ਐਪਲੀਕੇਸ਼ਨ ਵੇਖਾਓ</gui> ਆਈਕਾਨ "
+"ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:69
+msgid ""
+"A list of applications is shown. Click the application you want to run, for "
+"example, Help."
+msgstr ""
+"ਐਪਲੀਕੇਸ਼ਨ ਦੀ ਸੂਚੀ ਵਿਖਾਈ ਜਾਂਦੀ ਹੈ। ਐਪਲੀਕੇਸ਼ਨ, ਜੋ ਤੁਸੀਂ ਚਲਾਉਣੀ ਚਾਹੁੰਦੇ ਹੋ, ਮੰਨ "
+"ਲਵੋ ਮੱਦਦ, ਉੱਤੇ "
+"ਕਲਿੱਕ ਕਰੋ।"
+
+#. (itstool) path: section/title
+#: C/gs-launch-applications.page:76
+msgid "Launch applications with the keyboard"
+msgstr "ਕੀਬੋਰਡ ਨਾਲ ਐਪਲੀਕੇਸ਼ਨ ਚਲਾਉਣੀਆਂ"
+
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:79 C/gs-use-system-search.page:26
+#| msgid ""
+#| "Open the <gui>Activities Overview</gui> by pressing the <key xref="
+#| "\"keyboard-key-super\">Super</key> key."
+msgid ""
+"Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key."
+msgstr ""
+"<gui>ਸਰਗਰਮੀ ਝਲਕ</gui> ਨੂੰ <key href=\"help:gnome-help/keyboard-key-super\">"
+"ਸੁਪਰ</key> "
+"ਸਵਿੱਚ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਖੋਲ੍ਹੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:81
+msgid ""
+"Start typing the name of the application you want to launch. Searching for "
+"the application begins instantly."
+msgstr ""
+"ਐਪਲੀਕੇਸ਼ਨ ਦਾ ਨਾਂ ਲਿਖਣਾ ਸ਼ੁਰੂ ਕਰੋ, ਜੋ ਕਿ ਤੁਸੀਂ ਚਲਾਉਣੀ ਚਾਹੁੰਦੇ ਹੋ। ਐਪਲੀਕੇਸ਼ਨ ਲਈ "
+"ਖੋਜ ਤੁਰੰਤ ਸ਼ੁਰੂ ਹੋ "
+"ਜਾਂਦੀ ਹੈ।"
+
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:83
+msgid ""
+"Once the icon of the application is shown and selected, press <key> Enter</"
+"key> to launch the application."
+msgstr ""
+"ਜਦੋਂ ਇੱਕ ਵਾਰ ਐਪਲੀਕੇਸ਼ਨ ਦਾ ਆਈਕਾਨ ਵੇਖਾਈ ਦਿੰਦਾ ਹੈ ਤੇ ਚੁਣਿਆ ਜਾਂਦਾ ਹੈ ਤਾਂ ਐਪਲੀਕੇਸ਼ਨ "
+"ਚਲਾਉਣ ਲਈ "
+"<key>ਐਂਟਰ</key> ਦੱਬੋ।"
+
+#. (itstool) path: p/link
+#: C/gs-legal.xml:3
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+msgstr "ਕਰੀਏਟਿਵ ਕਾਮਨਜ਼ ਐਟਰੀਬਿਊਟ-ਸ਼ੇਅਰਅਲਾਈਕ ੩.੦ ਅਨਪੋਰਟਡ ਲਾਈਸੈਂਸ"
+
+#. (itstool) path: license/p
+#: C/gs-legal.xml:3
+msgid "This work is licensed under a <_:link-1/>."
+msgstr "ਇਹ ਲਾਈਸੈਂਸ ਅਧੀਨ ਕੰਮ ਕਰਦਾ ਹੈ <_:link-1/>।"
+
+#. (itstool) path: info/title
+#: C/gs-respond-messages.page:17
+msgctxt "link:trail"
+msgid "Respond to messages"
+msgstr "ਸੁਨੇਹੇ ਨੂੰ ਜਵਾਬ ਦੇਣਾ"
+
+#. (itstool) path: info/title
+#: C/gs-respond-messages.page:19
+msgctxt "link:seealso"
+msgid "A tutorial on responding to messages"
+msgstr "ਸੁਨੇਹਿਆਂ ਨੂੰ ਜਵਾਬ ਦੇਣ ਲਈ ਸਿਖਲਾਈ"
+
+#. (itstool) path: section/title
+#: C/gs-respond-messages.page:89
+msgid "Respond to a chat message with the mouse"
+msgstr "ਮਾਊਂਸ ਨਾਲ ਗੱਲਬਾਤ ਸੁਨੇਹੇ ਨੂੰ ਜਵਾਬ ਦੇਣਾ"
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:94 C/gs-respond-messages.page:130
+msgid ""
+"Start typing your reply and when finished, press <key>Enter</key> to send "
+"the reply."
+msgstr ""
+"ਆਪਣਾ ਜਵਾਬ ਲਿਖਣਾ ਚਾਲੂ ਕਰੋ ਅਤੇ ਜਦੋਂ ਪੂਰਾ ਹੋ ਜਾਵੇ ਤਾਂ ਜਵਾਬ ਭੇਜਣ ਲਈ <key>ਐਂਟਰ<"
+"/key> ਦੱਬੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:96 C/gs-respond-messages.page:115
+msgid ""
+"To close the chat message, click the close button at the top right corner of "
+"the chat message."
+msgstr ""
+"ਗੱਲਬਾਤ ਸੁਨੇਹਾ ਬੰਦ ਕਰਨ ਲਈ, ਗੱਲਬਾਤ ਸੁਨੇਹੇ ਦੇ ਉੱਤੇ ਸੱਜੇ ਕੋਨੇ ਵਿੱਚ ਬੰਦ ਕਰਨ ਦੇ ਬਟਨ "
+"ਨੂੰ ਕਲਿੱਕ ਕਰੋ।"
+
+#. (itstool) path: section/title
+#: C/gs-respond-messages.page:103
+msgid "Delayed response to a chat message using the mouse"
+msgstr "ਮਾਊਂਸ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਗੱਲਬਾਤ ਸੁਨੇਹੇ ਨੂੰ ਦੇਰੀ ਨਾਲ ਜਵਾਬ ਦੇਣਾ"
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:106
+msgid ""
+"When a chat message appears in the message tray and you do not move your "
+"mouse to the message tray, the message disappears after a while."
+msgstr ""
+"ਜਦੋਂ ਸੁਨੇਹਾ ਟਰੇ ਵਿੱਚੋਂ ਗੱਲਬਾਤ ਸੁਨੇਹਾ ਆਉਂਦਾ ਹੈ ਹੈ,ਅਤੇ ਜੇ ਤੁਸੀਂ ਆਪਣੇ ਮਾਊਸ ਦੇ "
+"ਪੁਆਇੰਟਰ ਨੂੰ ਸੁਨੇਹਾ "
+"ਟਰੇ ਉੱਤੇ ਨਹੀਂ ਲੈ ਕੇ ਜਾਂਦੇ ਹੋ ਤਾਂ ਸੁਨੇਹਾ ਕੁਝ ਦੇਰ ਬਾਅਦ ਗੁੰਮ ਹੋ ਜਾਂਦਾ ਹੈ।"
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:109
+msgid ""
+"To get back to your unanswered message, move your mouse to the message tray "
+"at the very bottom of the screen."
+msgstr ""
+"ਆਪਣੇ ਨਾ-ਜਵਾਬ ਦਿੱਤੇ ਸੁਨੇਹੇ ਉੱਤੇ ਵਾਪਸ ਜਾਣ ਲਈ, ਆਪਣੇ ਮਾਊਸ ਨੂੰ ਸਕਰੀਨ ਦੇ ਬਿਲਕੁਲ "
+"ਹੇਠਾਂ ਸੁਨੇਹਾ ਟਰੇ ਉੱਤੇ "
+"ਲੈ ਜਾਉ।"
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:111
+msgid ""
+"When the message tray appears, click a small image that represents the "
+"person who sent you the message."
+msgstr ""
+"ਜਦੋਂ ਸੁਨੇਹਾ ਟਰੇ ਵਿਖਾਈ ਦੇਵੇ ਤਾਂ ਛੋਟੇ ਆਈਕਾਨ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ, ਜੋ ਕਿ ਵਿਅਕਤੀ ਨੂੰ "
+"ਦਰਸਾਉਂਦਾ ਹੈ, ਜਿਸ ਨੇ "
+"ਤੁਹਾਨੂੰ ਸੁਨੇਹਾ ਭੇਜਿਆ ਸੀ।"
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:113
+msgid ""
+"When the chat message is shown, start typing your reply and when finished, "
+"press <key>Enter</key> to send the reply."
+msgstr ""
+"ਜਦੋਂ ਗੱਲਾਬਤ ਸੁਨੇਹਾ ਵੇਖਾਇਆ ਜਾਂਦਾ ਹੈ ਤਾਂ ਆਪਣਾ ਜਵਾਬ ਲਿਖਣਾ ਚਾਲੂ ਕਰੋ ਅਤੇ ਜਦੋਂ ਪੂਰਾ "
+"ਹੋ ਜਾਵੇ ਤਾਂ "
+"ਜਵਾਬ ਭੇਜਣ ਲਈ <key>ਐਂਟਰ</key> ਦੱਬੋ।"
+
+#. (itstool) path: section/title
+#: C/gs-respond-messages.page:122
+msgid "Delayed response to a chat message using the keyboard"
+msgstr "ਕੀਬੋਰਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਗੱਲਬਾਤ ਸੁਨੇਹੇ ਨੂੰ ਦੇਰੀ ਨਾਲ ਜਵਾਬ ਦੇਣਾ"
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:124
+#| msgid ""
+#| "To show the message tray, press <keyseq> <key xref=\"keyboard-key-super"
+#| "\">Super</key><key>M</key></keyseq>"
+msgid ""
+"To get back to your unanswered chat messages, press <keyseq> <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq> to "
+"display the message tray that contains the messages."
+msgstr ""
+"ਆਪਣੇ ਨਾ-ਜਵਾਬ ਦਿੱਤੇ ਗੱਲਬਾਤ ਸੁਨੇਹੇ ਉੱਤੇ ਜਾਣ ਲਈ, ਸੁਨੇਹੇ ਰੱਖਣ ਵਾਲੀ ਸੁਨੇਹਾ ਟਰੇ "
+"ਵੇਖਾਉਣ ਵਾਸਤੇ "
+"<keyseq> <key href=\"help:gnome-help/keyboard-key-super\">ਸੁਪਰ</key> <key>M<"
+"/key> "
+"</keyseq> ਨੂੰ ਦੱਬੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:128
+msgid ""
+"Use the arrow keys to select a small image representing the person you want "
+"to reply to, and press <key>Enter</key>."
+msgstr ""
+"ਛੋਟੇ ਚਿੱਤਰ, ਜੋ ਉਸ ਵਿਅਕਤੀ ਨੂੰ ਦਰਸਾਉਂਦਾ ਹੈ, ਜਿਸ ਨਾਲ ਗੱਲ ਕਰਨੀ ਹੈ, ਚੁਣਨ ਲਈ ਤੀਰ "
+"ਸਵਿੱਚਾਂ ਵਰਤੋਂ "
+"ਅਤੇ <key>ਐਂਟਰ</key> ਦੱਬੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:133
+#| msgid ""
+#| "To dismiss the message tray, press <key>Esc</key> or <keyseq> <key xref="
+#| "\"keyboard-key-super\">Super</key><key>M</key></keyseq>."
+msgid ""
+"To dismiss the message tray, press <key>Esc</key> or <keyseq> <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>."
+msgstr ""
+"ਸੁਨੇਹਾ ਟਰੇ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰਨ ਲਈ <key>Esc</key> ਜਾਂ <keyseq> <key href="
+"\"help:gnome-help/keyboard-key-super\">ਸੁਪਰ</key><key>M</key> </keyseq> ਵਰਤੋਂ।"
+
+#. (itstool) path: text/tspan
+#: C/gs-search1.svg:200
+#, no-wrap
+msgid "just type"
+msgstr "ਬੱਸ ਲਿਖੋ"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:153
+#, no-wrap
+msgid "con"
+msgstr "ਕੰਟ"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:217
+#, no-wrap
+msgid "Accounts"
+msgstr "ਅਕਾਊਂਟ"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:218
+#, no-wrap
+msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:219
+#, no-wrap
+msgid "config"
+msgstr "ਸੰਰਚਨਾ"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:220 C/gs-search2.svg:223
+#, no-wrap
+msgid "fontconfig"
+msgstr "fontconfig"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:221
+#, no-wrap
+msgid "system-config-http.zip"
+msgstr "system-config-http.zip"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:222
+#, no-wrap
+msgid "Icon guidelines"
+msgstr "ਆਈਕਾਨ ਹਦਾਇਤਾਂ"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:240
+#, no-wrap
+msgid "Secure Linux Containers"
+msgstr "ਸੁਰੱਖਿਅਤ ਲੀਨਕਸ ਕਨਟੇਰਨਰ"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:241
+#, no-wrap
+msgid "Developer Conference 2012"
+msgstr "ਡਿਵੈਲਪਰ ਕਨਫਰੰਸ 2012"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:265 C/gs-web-browser2-firefox.svg:218
+#, no-wrap
+msgid "Firefox"
+msgstr "ਫਾਇਰਫਾਕਸ"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:137
+#, no-wrap
+msgid "Search"
+msgstr "ਖੋਜ"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:148
+#, no-wrap
+msgid "Files"
+msgstr "ਫਾਇਲਾਂ"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:149
+#, no-wrap
+msgid "Enabled"
+msgstr "ਚਾਲੂ ਹੈ"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:264 C/gs-web-browser2.svg:214
+#, no-wrap
+msgid "Web"
+msgstr "ਵੈੱਬ"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:265
+#, no-wrap
+msgid "Photos"
+msgstr "ਫੋਟੋ"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:266
+#, no-wrap
+msgid "Music"
+msgstr "ਸੰਗੀਤ"
+
+#. (itstool) path: info/title
+#: C/gs-switch-tasks.page:17
+msgctxt "link:trail"
+msgid "Switch tasks"
+msgstr "ਟਾਸਕ ਸਵਿੱਚ ਕਰੋ"
+
+#. (itstool) path: info/title
+#: C/gs-switch-tasks.page:19
+msgctxt "link:seealso"
+msgid "A tutorial on switching tasks"
+msgstr "ਕੰਮ ਬਦਲਣ ਲਈ ਸਿਖਲਾਈ"
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:102
+msgid ""
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen to show the <gui>Activities Overview</gui> where you can see "
+"the currently running tasks displayed as small windows."
+msgstr ""
+"<gui>ਸਰਗਰਮੀ ਝਲਕ</gui> ਵੇਖਣ ਲਈ ਆਪਣੇ ਮਾਊਂਸ ਪੁਆਇੰਟਰ ਨੂੰ ਸਕਰੀਨ ਦੇ ਉੱਤੇ ਖੱਬੇ ਕੋਨੇ "
+"ਉੱਤੇ "
+"<gui>ਸਰਗਰਮੀ</gui> ਉੱਤੇ ਲੈ ਕੇ ਜਾਉ, ਜਿੱਥੇ ਤੁਸੀਂ ਉਸ ਸਮੇਂ ਚੱਲ ਰਹੀਆਂ ਟਾਸਕ ਨੂੰ "
+"ਛੋਟੀਆਂ ਵਿੰਡੋ ਦੇ ਰੂਪ ਵਿੱਚ "
+"ਵੇਖ ਸਕਦੇ ਹੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:112
+msgid ""
+"You can switch between tasks by using the <gui>window list</gui> at the "
+"bottom of the screen. Open tasks appear as buttons in the <gui>window list</"
+"gui>."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:115
+#| msgid "Click a window to switch to that task."
+msgid "Click a button in the <gui>window list</gui> to switch to that task."
+msgstr "ਕਿਸੇ ਟਾਸਕ ਉੱਤੇ ਜਾਣ ਲਈ <gui>ਵਿੰਡੋ ਸੂਚੀ</gui> ਵਿੱਚ ਬਟਨ ਕਲਿੱਕ ਕਰੋ।"
+
+#. (itstool) path: section/title
+#: C/gs-switch-tasks.page:125 C/gs-use-windows-workspaces.page:114
+msgid "Tile windows"
+msgstr "ਟਾਈਲ ਵਿੰਡੋਜ਼"
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:128 C/gs-use-windows-workspaces.page:118
+msgid ""
+"To maximize a window along a side of the screen, grab the window's titlebar "
+"and drag it to the left or right side of the screen."
+msgstr ""
+"ਕਿਸੇ ਵਿੰਡੋ ਨੂੰ ਸਕਰੀਨ ਦੇ ਹਿੱਸੇ ਉੱਤੇ ਵੱਧ ਤੋਂ ਵੱਧ ਕਰਨ ਲਈ, ਵਿੰਡੋ ਨੂੰ ਟਾਈਟਲ-ਬਾਰ "
+"ਤੋਂ ਫੜੋ ਅਤੇ ਖੱਬੇ ਪਾਸੇ ਜਾਂ ਸੱਜੇ "
+"ਖਿੱਚੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:130 C/gs-use-windows-workspaces.page:120
+msgid ""
+"When half of the screen is highlighted, release the window to maximize it "
+"along the selected side of the screen."
+msgstr ""
+"ਜਦੋਂ ਅੱਧੀ ਸਕਰੀਨ ਉਭਾਰੀ ਜਾਵੇ ਤਾਂ ਵਿੰਡੋ ਨੂੰ ਸਕਰੀਨ ਦੇ ਚੁਣੇ ਪਾਸ ਵਿੱਚ ਵੱਧ ਤੋਂ ਵੱਧ "
+"ਫੈਲਣ "
+"ਲਈ ਛੱਡ ਦਿਉ।"
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:132 C/gs-use-windows-workspaces.page:122
+msgid ""
+"To maximize two windows side-by-side, grab the titlebar of the second window "
+"and drag it to the opposite side of the screen."
+msgstr ""
+"ਦੋ ਵਿੰਡੋ ਨੂੰ ਨਾਲ-ਨਾਲ ਵੱਧ ਤੋਂ ਵੱਧ ਕਰਨ ਲਈ, ਦੂਜੀ ਵਿੰਡੋ ਦੇ ਟਾਈਟਲ-ਪੱਟੀ ਨੂੰ ਫੜੋ ਅਤੇ "
+"ਇਸ ਨੂੰ ਸਕਰੀਨ ਦੇ ਉਲਟ ਦੂਜੇ ਪਾਸੇ "
+"ਖਿੱਚ ਦਿਉ।"
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:134 C/gs-use-windows-workspaces.page:124
+msgid ""
+"When half of the screen is highlighted, release the window to maximize it "
+"along the opposite side of the screen."
+msgstr ""
+"ਜਦੋਂ ਅੱਧੀ ਸਕਰੀਨ ਉਭਾਰੀ ਜਾਵੇ ਤਾਂ ਵਿੰਡੋ ਨੂੰ ਸਕਰੀਨ ਦੇ ਉਲਟ ਪਾਸਿਆਂ ਵਿੱਚ ਵੱਧ ਤੋਂ ਵੱਧ "
+"ਫੈਲਣ "
+"ਲਈ ਛੱਡ ਦਿਉ।"
+
+#. (itstool) path: section/title
+#: C/gs-switch-tasks.page:141
+msgid "Switch between windows"
+msgstr "ਵਿੰਡੋਜ਼ ਵਿੱਚ ਬਦਲਣਾ"
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:144
+#| msgid ""
+#| "Press <keyseq><key xref=\"keyboard-key-super\">Super</key><key> Tab</"
+#| "key></keyseq> to show the <gui>window switcher</gui>."
+msgid ""
+"Press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which "
+"lists the currently open windows."
+msgstr ""
+"<gui>ਵਿੰਡੋ ਸਵਿੱਚਰ</gui> ਵੇਖਾਉਣ ਲਈ <keyseq><key "
+"href=\"help:gnome-help/keyboard-key-super\">ਸੁਪਰ</"
+"key> <key>ਟੈਬ</key></keyseq> ਦੱਬੋ, ਜਿਸ ਵਿੱਚ ਮੌਜੂਦਾ ਵਿੰਡੋ ਖੁੱਲ੍ਹੀਆਂ ਹਨ।"
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:147
+#| msgid ""
+#| "Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
+#| "highlighted window."
+msgid ""
+"Release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> to "
+"select the next highlighted window in the <gui>window switcher</gui>."
+msgstr ""
+"<gui>ਵਿੰਡੋ ਸਵਿੱਚਰ</gui> ਵਿੱਚ ਅਗਲੀ ਉਭਾਰੀ ਵਿੰਡੋ ਨੂੰ ਚੁਣਨ ਲਈ <key "
+"href=\"help:gnome-help/keyboard-key-super\">ਸੁਪਰ</key> "
+"ਸਵਿੱਚ ਛੱਡੋ।"
+
+#. (itstool) path: section/title
+#: C/gs-switch-tasks.page:158
+msgid "Use search to switch applications"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਬਦਲਣ ਲਈ ਖੋਜ ਵਰਤਣਾ"
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:161
+#| msgid ""
+#| "Press the <key xref=\"keyboard-key-super\">Super</key> key to show the "
+#| "<gui>Activities Overview</gui>."
+msgid ""
+"Press the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key "
+"to show the <gui>Activities Overview</gui>."
+msgstr ""
+"<key href=\"help:gnome-help/keyboard-key-super\">Super</key> ਸਵਿੱਚ ਨੂੰ<gui>"
+"ਸਰਗਰਮੀ ਝਲਕ</gui> "
+"ਵੇਖਾਉਣ ਲਈ ਦੱਬੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:163
+msgid ""
+"Just start typing the name of the application you want to switch to. "
+"Applications matching what you have typed will appear as you type."
+msgstr ""
+"ਬੱਸ ਐਪਲੀਕੇਸ਼ਨ ਦਾ ਨਾਂ ਲਿਖਣਾ ਸ਼ੁਰੂ ਕਰੋ, ਜਿਸ ਲਈ ਤੁਸੀਂ ਬਦਲਣਾ ਚਾਹੁੰਦੇ ਹੋ। ਤੁਹਾਡੇ "
+"ਲਿਖਣ "
+"ਨਾਲ ਮਿਲਦੀਆਂ ਐਪਲੀਕੇਸ਼ਨ ਵੇਖਾਈ ਦੇਣੀਆਂ ਸ਼ੁਰੂ ਹੋ ਜਾਣਗੀਆਂ।"
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:166
+msgid ""
+"When the application that you want to switch to appears as the first result, "
+"press <key>Enter</key> to switch to it."
+msgstr ""
+"ਐਪਲੀਕੇਸ਼ਨ, ਜੋ ਤੁਸੀਂ ਬਦਲਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਪਹਿਲੇ ਨਤੀਜੇ ਵਜੋਂ ਵੇਖਾਈ ਦਿੰਦੀ ਹੈ ਤਾਂ ਉਸ "
+"ਉੱਤੇ ਜਾਣ ਲਈ "
+"<key>ਐਂਟਰ</key> ਦੱਬੋ।"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-responding-to-messages.svg:59
+#, no-wrap
+msgid "Thanks f"
+msgstr "ਧੰਨਵਾਦ"
+
+#. (itstool) path: text/tspan
+#. Translators: S stands for Sunday here
+#: C/gs-thumb-timezone.svg:64
+#, no-wrap
+msgctxt "Sunday"
+msgid "S"
+msgstr "ਐ"
+
+#. (itstool) path: text/tspan
+#. Translators: M stands for Monday here
+#: C/gs-thumb-timezone.svg:65
+#, no-wrap
+msgid "M"
+msgstr "ਸੋ"
+
+#. (itstool) path: text/tspan
+#. Translators: T stands for Tuesday here
+#: C/gs-thumb-timezone.svg:66
+#, no-wrap
+msgctxt "Tuesday"
+msgid "T"
+msgstr "ਮੰ"
+
+#. (itstool) path: text/tspan
+#. Translators: W stands for Wednesday here
+#: C/gs-thumb-timezone.svg:67
+#, no-wrap
+msgid "W"
+msgstr "ਬੁੱ"
+
+#. (itstool) path: text/tspan
+#. Translators: T stands for Thursday here
+#: C/gs-thumb-timezone.svg:68
+#, no-wrap
+msgctxt "Thursday"
+msgid "T"
+msgstr "ਵੀ"
+
+#. (itstool) path: text/tspan
+#. Translators: F stands for Friday here
+#: C/gs-thumb-timezone.svg:69
+#, no-wrap
+msgid "F"
+msgstr "ਸ਼ੁੱ"
+
+#. (itstool) path: text/tspan
+#. Translators: S stands for Saturday here
+#: C/gs-thumb-timezone.svg:70
+#, no-wrap
+msgctxt "Saturday"
+msgid "S"
+msgstr "ਸ਼"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:79
+#, no-wrap
+msgid "8"
+msgstr "8"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:80
+#, no-wrap
+msgid "9"
+msgstr "9"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:81
+#, no-wrap
+msgid "10"
+msgstr "10"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:82
+#, no-wrap
+msgid "11"
+msgstr "11"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:83
+#, no-wrap
+msgid "12"
+msgstr "12"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:84
+#, no-wrap
+msgid "13"
+msgstr "13"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:85
+#, no-wrap
+msgid "14"
+msgstr "14"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:87
+#, no-wrap
+msgid "15"
+msgstr "15"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:88
+#, no-wrap
+msgid "16"
+msgstr "16"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:89
+#, no-wrap
+msgid "17"
+msgstr "17"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:90
+#, no-wrap
+msgid "18"
+msgstr "18"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:91
+#, no-wrap
+msgid "19"
+msgstr "19"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:92
+#, no-wrap
+msgid "20"
+msgstr "20"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:93
+#, no-wrap
+msgid "21"
+msgstr "21"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:95
+#, no-wrap
+msgid "22"
+msgstr "22"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:96
+#, no-wrap
+msgid "23"
+msgstr "23"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:97
+#, no-wrap
+msgid "24"
+msgstr "24"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:98
+#, no-wrap
+msgid "25"
+msgstr "25"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:99
+#, no-wrap
+msgid "26"
+msgstr "26"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:100
+#, no-wrap
+msgid "27"
+msgstr "27"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:101
+#, no-wrap
+msgid "28"
+msgstr "28"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:103
+#, no-wrap
+msgid "29"
+msgstr "29"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:104
+#, no-wrap
+msgid "30"
+msgstr "30"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:105
+#, no-wrap
+msgid "31"
+msgstr "31"
+
+#. (itstool) path: info/title
+#: C/gs-use-system-search.page:16
+msgctxt "link:trail"
+msgid "Use the system search"
+msgstr "ਸਿਸਟਮ ਖੋਜ ਵਰਤੋਂ"
+
+#. (itstool) path: info/title
+#: C/gs-use-system-search.page:18
+msgctxt "link:seealso"
+msgid "A tutorial on using the system search"
+msgstr "ਸਿਸਟਮ ਖੋਜ ਵਰਤੋਂ ਲਈ ਸਿਖਲਾਈ"
+
+#. (itstool) path: page/title
+#: C/gs-use-system-search.page:21
+msgid "Use the system search"
+msgstr "ਸਿਸਟਮ ਖੋਜ ਵਰਤੋਂ"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:28
+msgid ""
+"Start typing to search. Results matching what you have typed will appear as "
+"you type."
+msgstr ""
+"ਖੋਜ ਲਈ ਲਿਖਣਾ ਸ਼ੁਰੂ ਕਰੋ। ਤੁਹਾਡੇ ਵਲੋਂ ਲਿਖੇ ਦੇ ਨਾਲ ਮਿਲਦੇ ਨਤੀਜੇ ਲਿਖਣ ਦੇ ਨਾਲ ਨਾਲ ਹੀ "
+"ਵੇਖਾਈ ਦੇਣ "
+"ਲੱਗਣਗੇ।"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:30
+msgid ""
+"The first result is always highlighted and shown at the top. Press "
+"<key>Enter</key> to switch to the first highlighted result."
+msgstr ""
+"ਪਹਿਲਾਂ ਨਤੀਜਾ ਹਮੇਸ਼ਾ ਉਭਾਰਿਆ ਜਾਂਦਾ ਹੈ ਅਤੇ ਉੱਤੇ ਵੇਖਾਇਆ ਹੁੰਦਾ ਹੈ। ਪਹਿਲੇ ਉਭਾਰੇ "
+"ਨਤੀਜੇ ਉੱਤੇ ਜਾਣ ਲਈ <key>Enter</key> ਦੱਬੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:36
+#| msgid "Items that can appear in the search results include:"
+msgid "Items that may appear in the search results include:"
+msgstr "ਖੋਜ ਨਤੀਜਿਆਂ ਵਿੱਚ, ਜੋ ਆਈਟਮਾਂ ਆ ਸਕਦੀਆਂ ਹਨ, ਉਹ ਹਨ:"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:38
+msgid "matching applications, shown at the top of the search results,"
+msgstr "ਮਿਲਦੀਆਂ ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਖੋਜ ਨਤੀਜਿਆਂ ਦੇ ਉੱਤੇ ਵੇਖਾਇਆ ਜਾਂਦਾ ਹੈ,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:40
+msgid "matching settings,"
+msgstr "ਮਿਲਦੀ ਸੈਟਿੰਗ,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:41
+#| msgid "matching contacts,"
+msgid "matching contacts, and"
+msgstr "ਮਿਲਦੇ ਸੰਪਰਕ, ਅਤੇ"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:42
+msgid "matching documents."
+msgstr "ਮਿਲਦੇ ਡੌਕੂਮੈਂਟ,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:45
+msgid "In the search results, click the item to switch to it."
+msgstr "ਖੋਜ ਨਤੀਜਿਆਂ ਵਿੱਚ, ਆਈਟਮ ਉੱਤੇ ਜਾਣ ਲਈ ਉਸ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:46
+msgid ""
+"Alternatively, highlight an item using the arrow keys and press <key>Enter</"
+"key>."
+msgstr ""
+"ਬਦਲਵੇਂ ਰੂਪ ਵਿੱਚ ਆਈਟਮ ਨੂੰ ਤੀਰ ਸਵਿੱਚਾਂ ਨਾਲ ਉਭਾਰੋ ਤੇ <key>ਐਂਟਰ</key> ਦੱਬੋ।"
+
+#. (itstool) path: section/title
+#: C/gs-use-system-search.page:52
+#| msgid "Use search to switch applications"
+msgid "Search from inside applications"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਵਿੱਚੋਂ ਖੋਜ"
+
+#. (itstool) path: section/p
+#: C/gs-use-system-search.page:54
+msgid ""
+"The system search aggregates results from various applications. On the left-"
+"hand side of the search results, you can see icons of applications that "
+"provided the search results. Click one of the icons to restart the search "
+"from inside the application associated with that icon. Because only the best "
+"matches are shown in the <gui>Activities Overview</gui>, searching from "
+"inside the application may give you better search results."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-use-system-search.page:66
+msgid "Customize search results"
+msgstr "ਖੋਜ ਨਤੀਜੇ ਪਸੰਦ ਮੁਤਾਬਕ ਬਣਾਉ"
+
+#. (itstool) path: note/p
+#: C/gs-use-system-search.page:71
+msgid ""
+"GNOME lets you customize what you want to display in the search results in "
+"the <gui>Activities Overview</gui>. For example, you can choose whether you "
+"want to show results for websites, photos, or music."
+msgstr ""
+"ਗਨੋਮ ਤੁਹਾਨੂੰ <gui>ਸਰਗਰਮੀ ਝਲਕ</gui> ਵਿੱਚ ਖੋਜ ਨਤੀਜਿਆਂ ਨੂੰ ਵੇਖਾਉਣ ਲਈ ਆਪਣੀ ਪਸੰਦ "
+"ਮੁਤਾਬਕ ਬਦਲਣ "
+"ਲਈ ਸਹਾਇਕ ਹੈ। ਉਦਾਹਰਨ ਲਈ, ਤੁਸੀਂ ਚੋਣ ਕਰ ਸਕਦੇ ਹੋ ਕਿ ਵੈੱਬਸਾਈਟ, ਫੋਟੋ ਜਾਂ ਸੰਗੀਤ "
+"ਨਤੀਜੇ ਵੇਖਾਏ ਜਾਣ ਕਿ "
+"ਨਾ।"
+
+#. (itstool) path: section/p
+#: C/gs-use-system-search.page:77
+msgid "To customize what is displayed in the search results:"
+msgstr "ਖੋਜ ਨਤੀਜਿਆਂ ਵਿੱਚ ਕੀ ਵੇਖਾਇਆ ਜਾਵੇ ਦੀ ਚੋਣ ਕਰਨ ਲਈ:"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:82
+msgid "From the list of items, select <gui>Search</gui>."
+msgstr "ਆਈਟਮਾਂ ਦੀ ਸੂਚੀ ਤੋਂ, <gui>ਖੋਜ</gui> ਚੁਣੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:83
+msgid ""
+"In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
+"the search location you want to enable or disable."
+msgstr ""
+"ਖੋਜ ਟਿਕਾਣਿਆਂ ਦੀ ਸੂਚੀ ਵਿੱਚ, ਉਹਨਾਂ ਖੋਜ ਟਿਕਾਣਿਆਂ ਜਿੰਨ੍ਹਾਂ ਲਈ ਤੁਸੀਂ ਖੋਜ ਚਾਲੂ ਜਾਂ "
+"ਬੰਦ "
+"ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਦੇ ਅੱਗੇ ਦਿੱਤੀ <gui>ਚਾਲੂ/ਬੰਦ</gui> ਸਵਿੱਚ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।"
+
+#. (itstool) path: info/title
+#: C/gs-use-windows-workspaces.page:16
+msgctxt "link:trail"
+msgid "Use windows and workspaces"
+msgstr "ਵਿੰਡੋਜ਼ ਤੇ ਵਰਕਸਪੇਸ ਵਰਤੋਂ"
+
+#. (itstool) path: info/title
+#: C/gs-use-windows-workspaces.page:18
+msgctxt "link:seealso"
+msgid "A tutorial on using windows and workspaces"
+msgstr "ਵਿੰਡੋਜ਼ ਤੇ ਵਰਕਸਪੇਸ ਵਰਤੋਂ ਬਾਰੇ ਸਿਖਲਾਈ"
+
+#. (itstool) path: section/title
+#: C/gs-use-windows-workspaces.page:98
+msgid "Maximize and unmaximize windows"
+msgstr "ਵਿੰਡੋ ਨੂੰ ਵੱਧ ਤੋਂ ਵੱਧ ਤੇ ਨਾ-ਵੱਧ ਤੋਂ ਵੱਧ ਕਰਨਾ"
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:102
+msgid ""
+"To maximize a window so that it takes up all of the space on your desktop, "
+"grab the window's titlebar and drag it to the top of the screen."
+msgstr ""
+"ਵਿੰਡੋ ਨੂੰ ਵੱਧੋ-ਵੱਧ ਕਰਨ ਲਈ ਤਾਂ ਕਿ ਤੁਹਾਡੇ ਡੈਸਕਟਾਪ ਦੀ ਸਾਰੀ ਥਾਂ ਭਰ ਸਕੇ, ਵਿੰਡੋ ਦੇ "
+"ਟਾਈਟਲ-ਪੱਟੀ ਨੂੰ "
+"ਫੜੋ ਅਤੇ ਇਸ ਨੂੰ ਸਕਰੀਨ ਦੇ ਉੱਤੇ ਵੱਖ ਖਿੱਚ ਦਿਉ।"
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:105
+msgid "When the screen is highlighted, release the window to maximize it."
+msgstr "ਜਦੋਂ ਸਕਰੀਨ ਨੂੰ ਉਭਾਰਿਆ ਜਾਵੇ ਤਾਂ ਵਿੰਡੋ ਨੂੰ ਵੱਧ ਤੋਂ ਵੱਧ ਕਰਨ ਲਈ ਛੱਡ ਦਿਉ"
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:107
+msgid ""
+"To restore a window to its unmaximized size, grab the window's titlebar and "
+"drag it away from the edges of the screen."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-use-windows-workspaces.page:131
+msgid "Maximize and unmaximize windows using the keyboard"
+msgstr "ਕੀਬੋਰਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਵਿੰਡੋ ਨੂੰ ਵੱਧ ਤੋਂ ਵੱਧ ਤੇ ਨਾ-ਵੱਧ ਤੋਂ ਵੱਧ ਕਰਨਾ"
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:137
+#| msgid ""
+#| "To cycle through the list of open windows, do not release <key xref="
+#| "\"keyboard-key-super\">Super</key> but hold it down, and press <key>Tab</"
+#| "key>."
+msgid ""
+"To unmaximize a window using the keyboard, hold down the <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</key>."
+msgstr ""
+"ਕੀਬੋਰਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਵਿੰਡੋ ਨੂੰ ਇਸ ਦੇ ਵੱਧ ਤੋਂ ਵੱਧ ਆਕਾਰ ਤੋਂ ਵਾਪਿਸ ਲਿਆਉਣ ਲਈ <key "
+"href=\"help:gnome-help/keyboard-key-super\">ਸੁਪਰ</key> "
+"ਸਵਿੱਚ ਦੱਬ ਕੇ <key>↓</key> ਨੂੰ ਦੱਬੋ।"
+
+#. (itstool) path: section/title
+#: C/gs-use-windows-workspaces.page:145
+msgid "Tile windows using the keyboard"
+msgstr "ਕੀਬੋਰਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਵਿੰਡੋਜ਼ ਨੂੰ ਟਾਈਲ ਕਰਨਾ"
+
+#. (itstool) path: section/title
+#: C/gs-use-windows-workspaces.page:159
+msgid "Switch workspaces using the keyboard"
+msgstr "ਕੀਬੋਰਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਵਰਕਸਪੇਸ ਵਿੱਚ ਜਾਣਾ"
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:163
+#| msgid ""
+#| "To move to a workspace which is below the current workspace, press "
+#| "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key></"
+#| "keyseq>."
+msgid ""
+"To move to a workspace which is below the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
+"key><key>Page Down</key></keyseq>."
+msgstr ""
+"ਵਰਕਸਪੇਸ ਵਿੱਚ ਜਾਣ ਲਈ, ਜੋ ਮੌਜੂਦਾ ਵਰਕਸਪੇਸ ਦੇ ਹੇਠਾਂ ਹੋਵੇ <keyseq><key "
+"href=\"help:gnome-help/keyboard-key-super\">ਸੁਪਰ</key> "
+"<key>Page Down</key> </keyseq> ਨੂੰ ਦੱਬੋ।"
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:166
+#| msgid ""
+#| "To move to a workspace which is above the current workspace, press "
+#| "<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>Page Up</key></"
+#| "keyseq>."
+msgid ""
+"To move to a workspace which is above the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
+"key><key>Page Up</key></keyseq>."
+msgstr ""
+"ਵਰਕਸਪੇਸ ਵਿੱਚ ਜਾਣ ਲਈ, ਜੋ ਮੌਜੂਦਾ ਵਰਕਸਪੇਸ ਦੇ ਉੱਤੇ ਹੋਵੇ <keyseq><key "
+"href=\"help:gnome-help/keyboard-key-super\">ਸੁਪਰ</key><key>Page Up</key> <"
+"/keyseq> ਨੂੰ ਦੱਬੋ।"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser1-firefox-classic.svg:118
+#, no-wrap
+#| msgid "Launch Applications"
+msgid "Applications"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:147 C/gs-web-browser2.svg:151
+#, no-wrap
+msgid "gnome"
+msgstr "ਗਨੋਮ"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:151 C/gs-web-browser2.svg:155
+#, no-wrap
+msgid "Planet Gnome"
+msgstr "ਪਲੈਨਟ ਗਨੋਮ"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:152 C/gs-web-browser2.svg:156
+#, no-wrap
+msgid "GNOME 3"
+msgstr "ਗਨੋਮ ੩"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:153 C/gs-web-browser2.svg:157
+#, no-wrap
+msgid "http://planet.gnome.org"
+msgstr "http://planet.gnome.org"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:154 C/gs-web-browser2.svg:158
+#, no-wrap
+msgid "http://gnome.org"
+msgstr "http://gnome.org"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:275
+#, no-wrap
+#| msgid "http://planet.gnome.org"
+msgid "planet.gnome.org"
+msgstr "planet.gnome.org"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2.svg:252
+#, no-wrap
+msgid "Planet GNOME"
+msgstr "ਪਲੈਨਟ ਗਨੋਮ"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='figures/gnome-launching-applications.webm' "
+#~ "md5='074a675216f03881c0afb428d576eae3'"
+#~ msgstr ""
+#~ "external ref='figures/gnome-launching-applications.webm' "
+#~ "md5='074a675216f03881c0afb428d576eae3'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='figures/gnome-task-switching.webm' "
+#~ "md5='bf6f8421e4064a71c05aadfb3c318e16'"
+#~ msgstr ""
+#~ "external ref='figures/gnome-task-switching.webm' "
+#~ "md5='bf6f8421e4064a71c05aadfb3c318e16'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='figures/gnome-responding-to-messages.webm' "
+#~ "md5='ac44de55fba93ce64551c90fd6d30804'"
+#~ msgstr ""
+#~ "external ref='figures/gnome-responding-to-messages.webm' "
+#~ "md5='ac44de55fba93ce64551c90fd6d30804'"
+
+#~ msgid "Switch Tasks"
+#~ msgstr "ਟਾਸਕ ਸਵਿੱਚ ਕਰੋ"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
+#~ msgstr ""
+#~ "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
+#~ msgstr ""
+#~ "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
+
+#~| msgctxt "_"
+#~| msgid ""
+#~| "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-web-browser1-firefox.svg' "
+#~ "md5='f4958e0fad516473746fc14fbd0f4333'"
+#~ msgstr ""
+#~ "external ref='gs-web-browser1-firefox.svg' "
+#~ "md5='f4958e0fad516473746fc14fbd0f4333'"
+
+#~| msgctxt "_"
+#~| msgid ""
+#~| "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-web-browser2-firefox.svg' "
+#~ "md5='d8f2a86ceef35a2e9a95fa54943ca76f'"
+#~ msgstr ""
+#~ "external ref='gs-web-browser2-firefox.svg' "
+#~ "md5='d8f2a86ceef35a2e9a95fa54943ca76f'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='figures/gnome-timezone.webm' "
+#~ "md5='c9e227f87b1cf1abf40e3a6e6c01d8e9'"
+#~ msgstr ""
+#~ " external ref='figures/gnome-timezone.webm' "
+#~ "md5='c9e227f87b1cf1abf40e3a6e6c01d8e9'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='figures/gnome-change-wallpaper.webm' "
+#~ "md5='edf1a698f4da87db90f00b9b15897483'"
+#~ msgstr ""
+#~ "external ref='figures/gnome-change-wallpaper.webm' "
+#~ "md5='edf1a698f4da87db90f00b9b15897483'"
+
+#~ msgctxt "_"
+#~ msgid "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
+#~ msgstr "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
+
+#~ msgctxt "_"
+#~ msgid "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
+#~ msgstr "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
+
+#~ msgctxt "_"
+#~ msgid "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
+#~ msgstr "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
+
+#~ msgctxt "_"
+#~ msgid "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
+#~ msgstr "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
+
+#~ msgctxt "_"
+#~ msgid "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
+#~ msgstr "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-go-online1.svg' md5='5e1aa458f42d9a534678ac2196cf84a2'"
+#~ msgstr ""
+#~ "external ref='gs-go-online1.svg' md5='5e1aa458f42d9a534678ac2196cf84a2'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
+#~ msgstr ""
+#~ "external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
+#~ msgstr ""
+#~ "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
+
+#~ msgid ""
+#~ "To cycle through the list of open windows, do not release <key xref="
+#~ "\"keyboard-key-super\">Super</key> but hold it down, and press <key> Tab</"
+#~ "key>."
+#~ msgstr ""
+#~ "ਖੁੱਲ੍ਹੀਆਂ ਵਿੰਡੋਜ਼ ਦੀ ਸੂਚੀ ਵਿੱਚ ਲਗਾਤਾਰ ਜਾਰੀ ਰੱਖਣ ਲਈ, <key xref=\"keyboard-key-super"
+#~ "\">Super</key> ਨੂੰ ਛੱਡ ਨਾ, ਫੜੀ ਰੱਖੋ ਤੇ <key> Tab</key> ਦੱਬੋ।"
+
+#~ msgctxt "_"
+#~ msgid "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
+#~ msgstr ""
+#~ "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
+
+#~ msgctxt "_"
+#~ msgid "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
+#~ msgstr ""
+#~ "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-search-settings.svg' "
+#~ "md5='448b4f7f7881d9e26bdf215515fe014e'"
+#~ msgstr ""
+#~ "external ref='gs-search-settings.svg' "
+#~ "md5='448b4f7f7881d9e26bdf215515fe014e'"
+
+#~ msgid "Types of results"
+#~ msgstr "ਨਤੀਜਿਆਂ ਦੀਆਂ ਕਿਸਮਾਂ"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='figures/gnome-windows-and-workspaces.webm' "
+#~ "md5='53caf9578a37c07f8802c200d001064d'"
+#~ msgstr ""
+#~ "external ref='figures/gnome-windows-and-workspaces.webm' "
+#~ "md5='53caf9578a37c07f8802c200d001064d'"
+
+#~ msgid ""
+#~ "To move to a workspace which is below the current workspace, press "
+#~ "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key> "
+#~ "</keyseq>."
+#~ msgstr ""
+#~ "ਵਰਕਸਪੇਸ ਵਿੱਚ ਜਾਣ ਲਈ, ਜੋ ਮੌਜੂਦਾ ਵਰਕਸਪੇਸ ਦੇ ਹੇਠਾਂ ਹੋਵੇ <keyseq><key xref=\"keyboard-"
+#~ "key-super\">ਸੁਪਰ</key><key>Page Down</key> </keyseq> ਨੂੰ ਦੱਬੋ।"
+
+#~ msgid ""
+#~ "To move to a workspace which is above the current workspace, press "
+#~ "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Up</key> </"
+#~ "keyseq>."
+#~ msgstr ""
+#~ "ਵਰਕਸਪੇਸ ਵਿੱਚ ਜਾਣ ਲਈ, ਜੋ ਮੌਜੂਦਾ ਵਰਕਸਪੇਸ ਦੇ ਉੱਤੇ ਹੋਵੇ <keyseq><key xref=\"keyboard-key-"
+#~ "super\">ਸੁਪਰ</key><key>Page Up</key> </keyseq> ਨੂੰ ਦੱਬੋ।"

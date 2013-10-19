@@ -1,5 +1,6 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:ui="http://projectmallard.org/experimental/ui/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="topic"
       style="ui"
       id="gs-browse-web">
@@ -12,32 +13,33 @@
     <credit type="author">
       <name>Petr Kovar</name>
     </credit>
+<!--Distributors might need to comment out the two elements below if they
+    don't ship GNOME's Web browser by default.-->
     <link type="guide" xref="getting-started" group="tasks"/>
     <title role="trail" type="link">Browse the web</title>
   </info>
 
   <title>Browse the web</title>
 
-    <media type="image" src="gs-web-browser1.svg" width="100%" />
+    <media type="image" its:translate="no" src="gs-web-browser1.svg" width="100%" />
 
     <steps>
       <item><p>Move your mouse pointer to the <gui>Activities</gui> corner at
       the top left of the screen to show the <gui>Activities Overview</gui>.
-      <!--Alternatively you can use the <key>Super</key> key or the FIXME
-      gesture.--></p></item>
+      </p></item>
       <item><p>Select the <app>Web</app> browser icon from the bar on the
       left-hand side of the screen.</p></item>
     </steps>
 
-    <note><p>Alternatively, you can launch the <app>Web</app> browser by <link 
-    xref="gs-use-system-search">just typing</link> the browser name in the
+    <note><p>Alternatively, you can launch the browser by <link 
+    xref="gs-use-system-search">just typing</link> <em>web</em> in the
     <gui>Activities Overview</gui>.</p></note>
 
-    <media type="image" src="gs-web-browser2.svg" width="100%" />
+    <media type="image" its:translate="no" src="gs-web-browser2.svg" width="100%" />
 
     <steps style="continues">
-      <item><p>Click the address bar at the top of the <app>Web</app> browser
-       window and start typing in the website you want to visit.</p></item>
+      <item><p>Click the address bar at the top of the browser window and start
+       typing in the website you want to visit.</p></item>
       <item><p>Typing in a website starts searching for it in the
        browser history and bookmarks, so you do not need to remember the exact
         address.</p>

@@ -2,7 +2,7 @@
 
 HELP_ID = gnome-help
 
-HELP_LINGUAS = cs de el es gl hu id it pl pt_BR
+HELP_LINGUAS = as ca cs de el es fr gl gu hu id it ja lv mr pa pl pt_BR ru sk ta
 
 HELP_MEDIA = \
 	figures/gnome-change-wallpaper.webm \
@@ -10,13 +10,16 @@ HELP_MEDIA = \
 	figures/gnome-responding-to-messages.webm \
 	figures/gnome-task-switching.webm \
 	figures/gnome-timezone.webm \
-	figures/gnome-windows-and-workspaces.webm \
-	figures/gnome-yelp-intro.webm
+	figures/gnome-windows-and-workspaces.webm
+
+# Please ASK MAINTAINERS first before updating the HELP_FILES list below.
+# Keep in mind that some files are missing on purpose.
 
 HELP_FILES = \
 	getting-started.page \
 	gs-animation.xml \
 	gs-browse-web.page \
+	gs-browse-web-firefox.page \
 	gs-change-date-time-timezone.page \
 	gs-change-wallpaper.page \
 	gs-connect-online-accounts.page \
@@ -44,6 +47,9 @@ HELP_FILES = \
 	gs-thumb-windows-and-workspaces.svg \
 	gs-use-system-search.page \
 	gs-use-windows-workspaces.page \
+	gs-web-browser1-firefox-classic.svg \
+	gs-web-browser1-firefox.svg \
 	gs-web-browser1.svg \
+	gs-web-browser2-firefox.svg \
 	gs-web-browser2.svg
 
