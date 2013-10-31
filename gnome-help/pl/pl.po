@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2013-10-15 16:22+0000\n"
-"PO-Revision-Date: 2013-09-05 16:01+0200\n"
+"POT-Creation-Date: 2013-10-29 17:35+0000\n"
+"PO-Revision-Date: 2013-10-31 01:03+0100\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <gnomepl@aviary.pl>\n"
 "Language: pl\n"
@@ -487,7 +487,7 @@ msgstr "Prawa strona ekranu"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:18 C/gs-go-online1.svg:241 C/gs-search1.svg:198
+#: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:198
 #: C/gs-search2.svg:154 C/gs-thumb-changing-wallpaper.svg:54
 #: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-responding-to-messages.svg:51
 #: C/gs-thumb-task-switching.svg:167 C/gs-thumb-timezone.svg:56
@@ -539,9 +539,8 @@ msgstr "Po prostu zacznij pisać…"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:27 C/gs-go-online1.svg:239 C/gs-go-online1.svg:250
-#: C/gs-go-online1.svg:316 C/gs-go-online2.svg:235 C/gs-go-online2.svg:266
-#: C/gs-go-online3.svg:332 C/gs-thumb-responding-to-messages.svg:90
+#: C/gs-animation.xml:27 C/gs-go-online1.svg:249
+#: C/gs-thumb-responding-to-messages.svg:90
 #, no-wrap
 msgid "John Doe"
 msgstr "Jan Kowalski"
@@ -1113,7 +1112,7 @@ msgstr ""
 "dostępnych sieci bezprzewodowych w okolicy."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:48
+#: C/gs-get-online.page:43
 msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
@@ -1123,7 +1122,7 @@ msgstr ""
 "spróbuje automatycznie ustawić połączenie sieciowe."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:52
+#: C/gs-get-online.page:47
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
@@ -1132,7 +1131,7 @@ msgstr ""
 "kropki."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:54
+#: C/gs-get-online.page:49
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to the networked computer symbol."
@@ -1141,12 +1140,12 @@ msgstr ""
 "symbol komputera podłączonego do sieci."
 
 #. (itstool) path: section/title
-#: C/gs-get-online.page:62
+#: C/gs-get-online.page:57
 msgid "Connect to other types of networks"
 msgstr "Łączenie z innymi rodzajami sieci"
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:67
+#: C/gs-get-online.page:62
 msgid ""
 "There are various types of network connections that you can use with your "
 "computer, for example, mobile broadband, or wireless networks."
@@ -1155,7 +1154,7 @@ msgstr ""
 "przez połączenie komórkowe lub sieci bezprzewodowe."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:70
+#: C/gs-get-online.page:65
 msgid ""
 "Depending on your computer hardware and the networks availability, you can "
 "choose other connection types by clicking the network connection icon on the "
@@ -1168,8 +1167,8 @@ msgstr ""
 
 #. (itstool) path: Work/format
 #: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
-#: C/gs-goa5.svg:48 C/gs-go-online1.svg:220 C/gs-go-online2.svg:219
-#: C/gs-go-online3.svg:256 C/gs-search1.svg:97 C/gs-search2.svg:133
+#: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
+#: C/gs-go-online3.svg:293 C/gs-search1.svg:97 C/gs-search2.svg:133
 #: C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:39
 #: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36
 #: C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
@@ -1181,7 +1180,7 @@ msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:80 C/gs-go-online1.svg:232 C/gs-go-online3.svg:269
+#: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
 #: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101
 #: C/gs-thumb-timezone.svg:135 C/gs-web-browser1-firefox-classic.svg:115
 #: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
@@ -1190,18 +1189,17 @@ msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:84 C/gs-go-online1.svg:283 C/gs-search2.svg:145
-#: C/gs-thumb-timezone.svg:102 C/gs-thumb-timezone.svg:136
-#: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
-#: C/gs-web-browser1.svg:153
+#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:306
+#: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102
+#: C/gs-thumb-timezone.svg:136 C/gs-web-browser1-firefox-classic.svg:137
+#: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
 msgstr "2"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:50 C/gs-go-online2.svg:231 C/gs-thumb-timezone.svg:103
-#: C/gs-thumb-timezone.svg:137 C/gs-web-browser2-firefox.svg:164
-#: C/gs-web-browser2.svg:165
+#: C/gs-goa2.svg:50 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
+#: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
 #, no-wrap
 msgid "3"
 msgstr "3"
@@ -1232,7 +1230,7 @@ msgid "Add Account"
 msgstr "Dodaj konto"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90
+#: C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:343
 #, no-wrap
 msgid "Cancel"
 msgstr "Anuluj"
@@ -1378,15 +1376,14 @@ msgstr "Dokumenty"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121
-#: C/gs-goa5.svg:122 C/gs-go-online3.svg:288 C/gs-search-settings.svg:155
-#: C/gs-search-settings.svg:272 C/gs-search-settings.svg:279
-#: C/gs-search-settings.svg:286
+#: C/gs-goa5.svg:122 C/gs-search-settings.svg:155 C/gs-search-settings.svg:272
+#: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
 #, no-wrap
 msgid "ON"
 msgstr "|"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:240 C/gs-search1.svg:196 C/gs-search2.svg:152
+#: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
 #: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
 #: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
 #: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
@@ -1395,59 +1392,76 @@ msgid "14:30"
 msgstr "14:30"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:287 C/gs-go-online3.svg:274
-#, no-wrap
-msgid "Network Settings"
-msgstr "Ustawienia sieci"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:288 C/gs-go-online3.svg:275
-#, no-wrap
-msgid "Wired"
-msgstr "Przewodowe"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:289 C/gs-go-online3.svg:276
-#, no-wrap
-msgid "Cable unplugged"
-msgstr "Kabel jest niepodłączony"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:290 C/gs-go-online3.svg:277
-#, no-wrap
-msgid "Mobile broadband"
-msgstr "Połączenie komórkowe"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:292 C/gs-go-online1.svg:301 C/gs-go-online3.svg:279
-#: C/gs-search-settings.svg:293
-#, no-wrap
-msgid "OFF"
-msgstr "◯"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:299 C/gs-go-online3.svg:286
+#: C/gs-go-online2.svg:328
 #, no-wrap
 msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
 #. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
+#, no-wrap
+msgid "homenetwork"
+msgstr "sieć_domowa"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:338
+#, no-wrap
+msgid "Select Network"
+msgstr "Wybierz sieć"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:339
+#, no-wrap
+msgid "Turn Off"
+msgstr "Wyłącz"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:340
+#, no-wrap
+msgid "Network Settings"
+msgstr "Ustawienia sieci"
+
+#. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:309
 #, no-wrap
-msgid "Wireless"
-msgstr "Bezprzewodowe"
+msgid "Wi-Fi Networks"
+msgstr "Ustawienia sieci Wi-Fi"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:310
+#: C/gs-go-online3.svg:313
 #, no-wrap
-msgid "Private"
-msgstr "Prywatne"
+msgid "Connect"
+msgstr "Połącz"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:311
+#: C/gs-go-online3.svg:316
 #, no-wrap
-msgid "Weak"
-msgstr "Słabe"
+msgid "wireless"
+msgstr "bezprzewodowe"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:317
+#, no-wrap
+msgid "netgear"
+msgstr "netgear"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:318
+#, no-wrap
+msgid "weak"
+msgstr "słabe"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:319
+#, no-wrap
+msgid "private"
+msgstr "prywatne"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:320
+#, no-wrap
+msgid "Select a network"
+msgstr "Wybór sieci"
 
 #. (itstool) path: info/title
 #: C/gs-launch-applications.page:18
@@ -1737,6 +1751,12 @@ msgstr "Zdjęcia"
 #, no-wrap
 msgid "Music"
 msgstr "Muzyka"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:293
+#, no-wrap
+msgid "OFF"
+msgstr "◯"
 
 #. (itstool) path: info/title
 #: C/gs-switch-tasks.page:17
