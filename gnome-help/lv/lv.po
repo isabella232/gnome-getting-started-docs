@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2013-10-15 15:51+0000\n"
-"PO-Revision-Date: 2013-10-19 12:42+0300\n"
+"POT-Creation-Date: 2013-10-29 17:35+0000\n"
+"PO-Revision-Date: 2013-11-04 18:25+0200\n"
 "Last-Translator: Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>\n"
 "Language-Team: Latvian <lata-l10n@googlegroups.com>\n"
 "Language: lv\n"
@@ -477,7 +477,7 @@ msgstr "Labā ekrāna puse"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:18 C/gs-go-online1.svg:241 C/gs-search1.svg:198
+#: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:198
 #: C/gs-search2.svg:154 C/gs-thumb-changing-wallpaper.svg:54
 #: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-responding-to-messages.svg:51
 #: C/gs-thumb-task-switching.svg:167 C/gs-thumb-timezone.svg:56
@@ -529,9 +529,8 @@ msgstr "Vienkārši sāciet rakstīt…"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:27 C/gs-go-online1.svg:239 C/gs-go-online1.svg:250
-#: C/gs-go-online1.svg:316 C/gs-go-online2.svg:235 C/gs-go-online2.svg:266
-#: C/gs-go-online3.svg:332 C/gs-thumb-responding-to-messages.svg:90
+#: C/gs-animation.xml:27 C/gs-go-online1.svg:249
+#: C/gs-thumb-responding-to-messages.svg:90
 #, no-wrap
 msgid "John Doe"
 msgstr "Jānis Bērziņš"
@@ -610,7 +609,6 @@ msgstr "Automātisks datums un laiks"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:42
-#| msgid "Automatic Date and Time"
 msgid "Automatic Timezone"
 msgstr "Automātiskā laika josla"
 
@@ -786,7 +784,6 @@ msgstr "Spiediet uz pulksteņa augšējā joslā."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:41
-#| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
 msgid "Select <gui>Date &amp; Time Settings</gui>."
 msgstr "Izvēlieties <gui>Datuma un laika iestatījumus</gui>."
 
@@ -797,7 +794,6 @@ msgstr "Pārliecinieties, ka ir izslēgta <gui>Automātiskā laika josla</gui>."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:48
-#| msgid "Click the <gui>Select</gui> button."
 msgid "Click <gui>Time Zone</gui>."
 msgstr "Spiediet <gui>Laika josla</gui>."
 
@@ -808,7 +804,6 @@ msgstr "Spiediet kartē uz savu atrašanās vietu."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:54
-#| msgid "Click the <gui>Select</gui> button."
 msgid "Click <gui>Close</gui>."
 msgstr "Spiediet <gui>Aizvērt</gui>."
 
@@ -819,7 +814,6 @@ msgstr "Aizvērt logu."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:73
-#| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
 msgid ""
 "Click the clock on the top bar and select the <gui>Date &amp; Time Settings</"
 "gui> item."
@@ -838,9 +832,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:77
-#| msgid ""
-#| "This selects your current city, which you can also see and change in the "
-#| "drop-down list below the map."
 msgid ""
 "Click on your location on the map. This selects your current city, which you "
 "can also search for in the search box above the map."
@@ -850,7 +841,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:80
-#| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
 msgid ""
 "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
 "Settings</gui> window."
@@ -866,24 +856,21 @@ msgid ""
 "<gui>Date &amp; Time</gui> window. There you can adjust your date and time "
 "settings by clicking on the <gui>+</gui> or <gui>-</gui> buttons."
 msgstr ""
-"Pārliecinieties, ka ir izslēgts vienums <gui>Automātisks datums un laiks</gui>"
-", tad spiediet uz zemāk esošā vienuma <gui>Datums un laiks</gui>, lai atvērtu "
-"logu <gui>Datums un laiks</gui>. Tur varat pielāgot datumu un laiku, spiežot "
-"pogas <gui>+</gui> un <gui>-</gui>."
+"Pārliecinieties, ka ir izslēgts vienums <gui>Automātisks datums un laiks</"
+"gui>, tad spiediet uz zemāk esošā vienuma <gui>Datums un laiks</gui>, lai "
+"atvērtu logu <gui>Datums un laiks</gui>. Tur varat pielāgot datumu un laiku, "
+"spiežot pogas <gui>+</gui> un <gui>-</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:87
-#| msgid ""
-#| "Close the <gui>Background</gui> window by clicking the cross at the top-"
-#| "right corner of the window."
 msgid ""
 "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
 "Settings</gui> window, and then close that window by clicking the cross at "
 "the top-right corner of that window."
 msgstr ""
 "Spiediet pogu <gui>Aizvērt</gui>, lai dotos atpakaļ uz logu <gui>Datuma un "
-"laika iestatījumi</gui>, tad aizveriet to logu, spiežot krustiņu loga augšējā "
-"labajā stūrī."
+"laika iestatījumi</gui>, tad aizveriet to logu, spiežot krustiņu loga "
+"augšējā labajā stūrī."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:17
@@ -919,14 +906,12 @@ msgstr "Izvēlieties <gui>fonu</gui>."
 
 #. (itstool) path: div/p
 #: C/gs-change-wallpaper.page:40
-#| msgid "Click the background image that you want to use."
 msgid "Click the current background image."
 msgstr "Spiediet uz pašreizējā fona attēla."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:43 C/gs-change-wallpaper.page:65
-#| msgid "Click the background image that you want to use."
 msgid "Click the background image you want to use."
 msgstr "Spiediet uz fona attēla, kuru vēlaties izmantot."
 
@@ -957,9 +942,6 @@ msgstr "No vienumu saraksta izvēlieties <gui>Fons</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:63
-#| msgid ""
-#| "Click the image of your current wallpaper in the center of the "
-#| "<gui>Background</gui> window."
 msgid ""
 "Click the current background image on the left side of the <gui>Background</"
 "gui> window."
@@ -995,7 +977,6 @@ msgstr "Savienoties ar tiešsaistes kontiem"
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:27
-#| msgid "Click the clock on the top bar."
 msgid "Click the system menu on the right side of the top bar."
 msgstr "Spiediet sistēmas izvēlni augšējās joslas labajā pusē."
 
@@ -1006,7 +987,6 @@ msgstr "Spiediet iestatījumu pogu izvēlnes apakšā."
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:34
-#| msgid "From the list of items, select <gui>Online Accounts</gui>."
 msgid ""
 "From the list of items, select <gui>Online Accounts</gui>, then click on the "
 "<gui>Add an online account</gui> button."
@@ -1123,7 +1103,7 @@ msgstr ""
 "šajā telpā nav pieejamu bezvadu tīklu."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:48
+#: C/gs-get-online.page:43
 msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
@@ -1133,7 +1113,7 @@ msgstr ""
 "piekļūtu internetam. Dators automātiski mēģinās izveidot tīkla savienojumu."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:52
+#: C/gs-get-online.page:47
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
@@ -1142,7 +1122,7 @@ msgstr ""
 "trīs punkti."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:54
+#: C/gs-get-online.page:49
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to the networked computer symbol."
@@ -1151,12 +1131,12 @@ msgstr ""
 "mainīsies uz pie tīkla pieslēgta datora simbolu."
 
 #. (itstool) path: section/title
-#: C/gs-get-online.page:62
+#: C/gs-get-online.page:57
 msgid "Connect to other types of networks"
 msgstr "Savienoties ar cita veida tīkliem"
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:67
+#: C/gs-get-online.page:62
 msgid ""
 "There are various types of network connections that you can use with your "
 "computer, for example, mobile broadband, or wireless networks."
@@ -1165,7 +1145,7 @@ msgstr ""
 "mobilā platjosla vai bezvadu tīkls."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:70
+#: C/gs-get-online.page:65
 msgid ""
 "Depending on your computer hardware and the networks availability, you can "
 "choose other connection types by clicking the network connection icon on the "
@@ -1178,8 +1158,8 @@ msgstr ""
 
 #. (itstool) path: Work/format
 #: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
-#: C/gs-goa5.svg:48 C/gs-go-online1.svg:220 C/gs-go-online2.svg:219
-#: C/gs-go-online3.svg:256 C/gs-search1.svg:97 C/gs-search2.svg:133
+#: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
+#: C/gs-go-online3.svg:293 C/gs-search1.svg:97 C/gs-search2.svg:133
 #: C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:39
 #: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36
 #: C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
@@ -1191,7 +1171,7 @@ msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:80 C/gs-go-online1.svg:232 C/gs-go-online3.svg:269
+#: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
 #: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101
 #: C/gs-thumb-timezone.svg:135 C/gs-web-browser1-firefox-classic.svg:115
 #: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
@@ -1200,18 +1180,17 @@ msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:84 C/gs-go-online1.svg:283 C/gs-search2.svg:145
-#: C/gs-thumb-timezone.svg:102 C/gs-thumb-timezone.svg:136
-#: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
-#: C/gs-web-browser1.svg:153
+#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:306
+#: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102
+#: C/gs-thumb-timezone.svg:136 C/gs-web-browser1-firefox-classic.svg:137
+#: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
 msgstr "2"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:50 C/gs-go-online2.svg:231 C/gs-thumb-timezone.svg:103
-#: C/gs-thumb-timezone.svg:137 C/gs-web-browser2-firefox.svg:164
-#: C/gs-web-browser2.svg:165
+#: C/gs-goa2.svg:50 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
+#: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
 #, no-wrap
 msgid "3"
 msgstr "3"
@@ -1242,7 +1221,7 @@ msgid "Add Account"
 msgstr "Pievienot kontu"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90
+#: C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:343
 #, no-wrap
 msgid "Cancel"
 msgstr "Atcelt"
@@ -1388,15 +1367,14 @@ msgstr "_Dokumenti"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121
-#: C/gs-goa5.svg:122 C/gs-go-online3.svg:288 C/gs-search-settings.svg:155
-#: C/gs-search-settings.svg:272 C/gs-search-settings.svg:279
-#: C/gs-search-settings.svg:286
+#: C/gs-goa5.svg:122 C/gs-search-settings.svg:155 C/gs-search-settings.svg:272
+#: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
 #, no-wrap
 msgid "ON"
 msgstr "❙"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:240 C/gs-search1.svg:196 C/gs-search2.svg:152
+#: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
 #: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
 #: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
 #: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
@@ -1405,59 +1383,80 @@ msgid "14:30"
 msgstr "14.30"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:287 C/gs-go-online3.svg:274
-#, no-wrap
-msgid "Network Settings"
-msgstr "Tīkla iestatījumi"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:288 C/gs-go-online3.svg:275
-#, no-wrap
-msgid "Wired"
-msgstr "Vadu"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:289 C/gs-go-online3.svg:276
-#, no-wrap
-msgid "Cable unplugged"
-msgstr "Vads atvienots"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:290 C/gs-go-online3.svg:277
-#, no-wrap
-msgid "Mobile broadband"
-msgstr "Mobilā platjosla"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:292 C/gs-go-online1.svg:301 C/gs-go-online3.svg:279
-#: C/gs-search-settings.svg:293
-#, no-wrap
-msgid "OFF"
-msgstr "○"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:299 C/gs-go-online3.svg:286
+#: C/gs-go-online2.svg:328
 #, no-wrap
 msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
 #. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
+#, no-wrap
+msgid "homenetwork"
+msgstr "mājastīkls"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:338
+#, no-wrap
+#| msgid "Select"
+msgid "Select Network"
+msgstr "Izvēlieties tīklu"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:339
+#, no-wrap
+msgid "Turn Off"
+msgstr "Izslēgt"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:340
+#, no-wrap
+msgid "Network Settings"
+msgstr "Tīkla iestatījumi"
+
+#. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:309
 #, no-wrap
-msgid "Wireless"
-msgstr "Bezvadu tīkls"
+msgid "Wi-Fi Networks"
+msgstr "Bezvadu tīkli"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:310
+#: C/gs-go-online3.svg:313
 #, no-wrap
-msgid "Private"
-msgstr "Privāts"
+msgid "Connect"
+msgstr "Savienoties"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:311
+#: C/gs-go-online3.svg:316
 #, no-wrap
-msgid "Weak"
-msgstr "Vājš"
+#| msgid "Wireless"
+msgid "wireless"
+msgstr "bezvadu"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:317
+#, no-wrap
+msgid "netgear"
+msgstr "netgear"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:318
+#, no-wrap
+msgid "weak"
+msgstr "vājš"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:319
+#, no-wrap
+#| msgid "Private"
+msgid "private"
+msgstr "privāts"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:320
+#, no-wrap
+#| msgid "Connect to a wired network"
+msgid "Select a network"
+msgstr "Izvēlieties tīklu"
 
 #. (itstool) path: info/title
 #: C/gs-launch-applications.page:18
@@ -1747,6 +1746,12 @@ msgstr "Fotogrāfijas"
 #, no-wrap
 msgid "Music"
 msgstr "Mūzika"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:293
+#, no-wrap
+msgid "OFF"
+msgstr "○"
 
 #. (itstool) path: info/title
 #: C/gs-switch-tasks.page:17
@@ -2106,9 +2111,6 @@ msgstr "Izmantot sistēmas meklēšanu"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:26
-#| msgid ""
-#| "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
-#| "gnome-help/keyboard-key-super\">Super</key> key."
 msgid ""
 "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key. Start typing to search."
@@ -2122,14 +2124,11 @@ msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
 msgstr ""
-"Rezultāti, kas atbilst ierakstītajam, parādīsies rakstīšanas laikā."
-"Pirmais rezultāts vienmēr ir izcelts un atrodas augšpusē."
+"Rezultāti, kas atbilst ierakstītajam, parādīsies rakstīšanas laikā.Pirmais "
+"rezultāts vienmēr ir izcelts un atrodas augšpusē."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:31
-#| msgid ""
-#| "The first result is always highlighted and shown at the top. Press "
-#| "<key>Enter</key> to switch to the first highlighted result."
 msgid "Press <key>Enter</key> to switch to the first highlighted result."
 msgstr "Spiediet <key>Enter</key>, lai pārslēgtos uz pirmo izcelto rezultātu."
 
@@ -2363,6 +2362,18 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "GNOME planēta"
+
+#~ msgid "Wired"
+#~ msgstr "Vadu"
+
+#~ msgid "Cable unplugged"
+#~ msgstr "Vads atvienots"
+
+#~ msgid "Mobile broadband"
+#~ msgstr "Mobilā platjosla"
+
+#~ msgid "Weak"
+#~ msgstr "Vājš"
 
 #~ msgid ""
 #~ "You can adjust the date and time by clicking on the arrows to choose the "
