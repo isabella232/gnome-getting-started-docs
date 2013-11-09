@@ -22,7 +22,7 @@
   
   <note style="important">
       <p>You can see the status of your network connection on the right-hand
-       side of the top bar, next to your name.</p>
+       side of the top bar.</p>
   </note>  
 
   <section id="going-online-wired">
@@ -33,18 +33,15 @@
 
     <steps>
       <item><p>The network connection icon on the right-hand side of the top
-       bar shows that you are off-line.</p></item>
-      <item><p>Click the network connection icon to show more details about
-       the status of your network connection.</p>
+       bar shows that you are off-line.</p>
       <p>The off-line status can be caused by a number of reasons: for
        example, a network cable has been unplugged, the computer has been set
-       to run in <em>airplane mode</em>, or there are no available wireless
-       networks in your area.</p></item>
-      <item><p>If you want to use a wired connection, just plug in a network
+       to run in <em>airplane mode</em>, or there are no available Wi-Fi
+       networks in your area.</p>
+      <p>If you want to use a wired connection, just plug in a network
       cable to go online. The computer will try to set up the network
       connection for you automatically.</p>
-      </item>
-      <item><p>While the computer sets up a network connection for you, the
+      <p>While the computer sets up a network connection for you, the
       network connection icon shows three dots.</p></item>
       <item><p>Once the network connection has been successfully set up, the
       network connection icon changes to the networked computer symbol.</p></item>
@@ -52,25 +49,34 @@
     
   </section>
 
-  <section id="going-online-other">
+  <section id="going-online-wifi">
 
-    <title>Connect to other types of networks</title>
+    <title>Connect to a Wi-Fi network</title>
 
     <media type="image" its:translate="no" src="gs-go-online2.svg" width="100%" />
     
     <steps>
-    <item><p>There are various types of network connections that you can use
-     with your computer, for example, mobile broadband, or wireless networks.
-     </p></item>
-    <item><p>Depending on your computer hardware and the networks availability,
-     you can choose other connection types by clicking the network connection
-     icon on the right-hand side of the top bar and selecting the network
-     connection you want to connect to.</p></item>
-     </steps>
+    <item><p>To connect to a Wi-Fi (wireless) network, click the status menu at
+     the top right of the screen, and then click <gui>Select Network</gui>.</p>
+    </item>
+    </steps>
 
-    <media type="image" its:translate="no" src="gs-go-online3.svg" width="100%" />    
+     <note style="important">
+       <p>You can only connect to a Wi-Fi network if your computer hardware
+        supports it and you are in an area with Wi-Fi coverage.</p>
+     </note>
+
+    <media type="image" its:translate="no" src="gs-go-online3.svg" width="100%" />
+
+    <steps style="continues">
+    <item><p>From the list of available Wi-Fi networks, select the network you
+    want to connect to, and click <gui>Connect</gui> to confirm.</p>
+    <p>Depending on the network configuration, you may be prompted for network
+     credentials.</p></item>
+    </steps>
+
     <!-- FIXME: links to existing wireless/broadband connection documents. -->
-    
+
   </section>
 
 </page>
