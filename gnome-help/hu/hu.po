@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started master\n"
-"POT-Creation-Date: 2013-10-29 17:35+0000\n"
-"PO-Revision-Date: 2013-11-05 15:14+0100\n"
+"POT-Creation-Date: 2013-11-09 19:36+0000\n"
+"PO-Revision-Date: 2013-11-10 23:32+0100\n"
 "Last-Translator: Gabor Kelemen <kelemeng at gnome dot hu>\n"
 "Language-Team: Hungarian <openscope at googlegroups dot com>\n"
 "Language: hu\n"
@@ -618,7 +618,6 @@ msgstr "Automatikus dátum és idő"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:42
-#| msgid "Automatic Date and Time"
 msgid "Automatic Timezone"
 msgstr "Automatikus időzóna"
 
@@ -799,7 +798,6 @@ msgstr "Kattintson az órára a felső sávban."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:41
-#| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
 msgid "Select <gui>Date &amp; Time Settings</gui>."
 msgstr "Válassza a <gui>Dátum és idő beállításai</gui> elemet."
 
@@ -811,7 +809,6 @@ msgstr ""
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:48
-#| msgid "Click the <gui>Select</gui> button."
 msgid "Click <gui>Time Zone</gui>."
 msgstr "Kattintson az <gui>Időzóna</gui> elemre."
 
@@ -822,7 +819,6 @@ msgstr "Kattintson a földrajzi helyére a térképen."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:54
-#| msgid "Click the <gui>Select</gui> button."
 msgid "Click <gui>Close</gui>."
 msgstr "Nyomja meg a <gui>Bezárás</gui> gombot."
 
@@ -833,7 +829,6 @@ msgstr "Zárja be az ablakot."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:73
-#| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
 msgid ""
 "Click the clock on the top bar and select the <gui>Date &amp; Time Settings</"
 "gui> item."
@@ -852,9 +847,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:77
-#| msgid ""
-#| "This selects your current city, which you can also see and change in the "
-#| "drop-down list below the map."
 msgid ""
 "Click on your location on the map. This selects your current city, which you "
 "can also search for in the search box above the map."
@@ -864,13 +856,12 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:80
-#| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
 msgid ""
 "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
 "Settings</gui> window."
 msgstr ""
-"Kattintson a <emph>Bezárás</emph> gombra a visszatéréshez a <gui>Dátum és idő "
-"beállításai</gui> ablakhoz."
+"Kattintson a <emph>Bezárás</emph> gombra a visszatéréshez a <gui>Dátum és "
+"idő beállításai</gui> ablakhoz."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:82
@@ -887,17 +878,14 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:87
-#| msgid ""
-#| "Close the <gui>Background</gui> window by clicking the cross at the top-"
-#| "right corner of the window."
 msgid ""
 "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
 "Settings</gui> window, and then close that window by clicking the cross at "
 "the top-right corner of that window."
 msgstr ""
-"Kattintson a <emph>Bezárás</emph> gombra a visszatéréshez a <gui>Dátum és idő "
-"beállításai</gui> ablakhoz, majd zárja be azt az ablakot az ablak jobb felső "
-"sarkában lévő keresztre kattintva."
+"Kattintson a <emph>Bezárás</emph> gombra a visszatéréshez a <gui>Dátum és "
+"idő beállításai</gui> ablakhoz, majd zárja be azt az ablakot az ablak jobb "
+"felső sarkában lévő keresztre kattintva."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:17
@@ -933,14 +921,12 @@ msgstr "Válassza a <gui>Háttér</gui> ikont."
 
 #. (itstool) path: div/p
 #: C/gs-change-wallpaper.page:40
-#| msgid "Click the background image that you want to use."
 msgid "Click the current background image."
 msgstr "Kattintson az aktuális háttérképre."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:43 C/gs-change-wallpaper.page:65
-#| msgid "Click the background image that you want to use."
 msgid "Click the background image you want to use."
 msgstr "Kattintson a használni kívánt háttérképre."
 
@@ -971,14 +957,12 @@ msgstr "Az elemek listájából válassza a <gui>Háttér</gui> ikont."
 
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:63
-#| msgid ""
-#| "Click the image of your current wallpaper in the center of the "
-#| "<gui>Background</gui> window."
 msgid ""
 "Click the current background image on the left side of the <gui>Background</"
 "gui> window."
 msgstr ""
-"Kattintson a jelenlegi háttérkép képére a <gui>Háttér</gui> ablak bal oldalán."
+"Kattintson a jelenlegi háttérkép képére a <gui>Háttér</gui> ablak bal "
+"oldalán."
 
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:67
@@ -1008,7 +992,6 @@ msgstr "Kapcsolódás online fiókokhoz"
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:27
-#| msgid "Click the clock on the top bar."
 msgid "Click the system menu on the right side of the top bar."
 msgstr "Kattintson a rendszer menüre a felső sáv jobb oldalán."
 
@@ -1019,7 +1002,6 @@ msgstr "Nyomja meg a Beállítások gombot a menü alján."
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:34
-#| msgid "From the list of items, select <gui>Online Accounts</gui>."
 msgid ""
 "From the list of items, select <gui>Online Accounts</gui>, then click on the "
 "<gui>Add an online account</gui> button."
@@ -1094,12 +1076,13 @@ msgstr "Kapcsolódás a hálózatra"
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:24
+#| msgid ""
+#| "You can see the status of your network connection on the right-hand side "
+#| "of the top bar, next to your name."
 msgid ""
 "You can see the status of your network connection on the right-hand side of "
-"the top bar, next to your name."
-msgstr ""
-"A hálózati kapcsolat állapotát a felső sáv jobb szélén, a neve mellett "
-"láthatja."
+"the top bar."
+msgstr "A hálózati kapcsolat állapotát a felső sáv jobb szélén láthatja."
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:30
@@ -1117,27 +1100,23 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:37
-msgid ""
-"Click the network connection icon to show more details about the status of "
-"your network connection."
-msgstr ""
-"Kattintson a hálózati kapcsolat ikonra további részletek megjelenítéséhez a "
-"hálózati kapcsolat állapotáról."
-
-#. (itstool) path: item/p
-#: C/gs-get-online.page:39
+#| msgid ""
+#| "The off-line status can be caused by a number of reasons: for example, a "
+#| "network cable has been unplugged, the computer has been set to run in "
+#| "<em>airplane mode</em>, or there are no available wireless networks in "
+#| "your area."
 msgid ""
 "The off-line status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
-"<em>airplane mode</em>, or there are no available wireless networks in your "
+"<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
 msgstr ""
 "A kapcsolat nélküli állapotnak számos oka lehet: például egy hálózati kábel "
 "kihúzódott, a számítógép <em>repülő módban</em> való futásra lett beállítva, "
-"vagy nincs a közelben elérhető vezeték nélküli hálózat."
+"vagy nincs a közelben elérhető Wi-Fi hálózat."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:43
+#: C/gs-get-online.page:41
 msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
@@ -1148,7 +1127,7 @@ msgstr ""
 "hálózati kapcsolatot."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:47
+#: C/gs-get-online.page:44
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
@@ -1157,7 +1136,7 @@ msgstr ""
 "ikon három pontot jelenít meg."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:49
+#: C/gs-get-online.page:46
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to the networked computer symbol."
@@ -1166,30 +1145,46 @@ msgstr ""
 "kapcsolódott számítógép szimbólumra vált."
 
 #. (itstool) path: section/title
-#: C/gs-get-online.page:57
-msgid "Connect to other types of networks"
-msgstr "Csatlakozás más típusú hálózatokhoz"
+#: C/gs-get-online.page:54
+#| msgid "Connect to a wired network"
+msgid "Connect to a Wi-Fi network"
+msgstr "Csatlakozás Wi-Fi hálózathoz"
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:62
+#: C/gs-get-online.page:59
 msgid ""
-"There are various types of network connections that you can use with your "
-"computer, for example, mobile broadband, or wireless networks."
+"To connect to a Wi-Fi (wireless) network, click the status menu at the top "
+"right of the screen, and then click <gui>Select Network</gui>."
 msgstr ""
-"Számítógépével különböző típusú hálózati kapcsolatokat használhat, mint "
-"például a mobil széles sávú vagy vezeték nélküli hálózat."
+"Wi-Fi (vezeték nélküli) hálózathoz kapcsolódáshoz kattintson a képernyő jobb "
+"felső sarkában lévő állapotmenüre, majd a <gui>Válasszon hálózatot</gui> "
+"pontra."
 
-#. (itstool) path: item/p
+#. (itstool) path: note/p
 #: C/gs-get-online.page:65
 msgid ""
-"Depending on your computer hardware and the networks availability, you can "
-"choose other connection types by clicking the network connection icon on the "
-"right-hand side of the top bar and selecting the network connection you want "
-"to connect to."
+"You can only connect to a Wi-Fi network if your computer hardware supports "
+"it and you are in an area with Wi-Fi coverage."
 msgstr ""
-"A számítógép hardverétől és a hálózatok elérhetőségétől függően más "
-"kapcsolattípusokat is kiválaszthat a felső sáv jobb szélén lévő hálózati "
-"kapcsolat ikonra kattintva, és a kívánt hálózati kapcsolatot kiválasztva."
+"Csak akkor kapcsolódhat Wi-Fi hálózathoz, ha a számítógép hardvere ezt "
+"támogatja, és Wi-Fi lefedettséggel rendelkező területen tartózkodik."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:72
+msgid ""
+"From the list of available Wi-Fi networks, select the network you want to "
+"connect to, and click <gui>Connect</gui> to confirm."
+msgstr ""
+"Az elérhető Wi-Fi hálózatok listájából válasszon egy hálózatot, majd "
+"kattintson a <gui>Kapcsolódás</gui> gombra a megerősítéshez."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:74
+msgid ""
+"Depending on the network configuration, you may be prompted for network "
+"credentials."
+msgstr ""
+"A hálózat beállításaitól függően szükség lehet hitelesítési adatok megadására."
 
 #. (itstool) path: Work/format
 #: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
@@ -1432,7 +1427,6 @@ msgstr "otthonihálózat"
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:338
 #, no-wrap
-#| msgid "Select"
 msgid "Select Network"
 msgstr "Válasszon hálózatot"
 
@@ -1463,7 +1457,6 @@ msgstr "Kapcsolódás"
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:316
 #, no-wrap
-#| msgid "Wireless"
 msgid "wireless"
 msgstr "vezeték nélküli"
 
@@ -1482,14 +1475,12 @@ msgstr "gyenge"
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:319
 #, no-wrap
-#| msgid "Private"
 msgid "private"
 msgstr "személyes"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:320
 #, no-wrap
-#| msgid "Connect to a wired network"
 msgid "Select a network"
 msgstr "Válasszon egy hálózatot"
 
@@ -2151,9 +2142,6 @@ msgstr "Rendszerkeresés használata"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:26
-#| msgid ""
-#| "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
-#| "gnome-help/keyboard-key-super\">Super</key> key."
 msgid ""
 "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key. Start typing to search."
@@ -2173,12 +2161,10 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:31
-#| msgid ""
-#| "The first result is always highlighted and shown at the top. Press "
-#| "<key>Enter</key> to switch to the first highlighted result."
 msgid "Press <key>Enter</key> to switch to the first highlighted result."
 msgstr ""
-"Az első kiemelt találatra váltáshoz nyomja meg az <key>Enter</key> billentyűt."
+"Az első kiemelt találatra váltáshoz nyomja meg az <key>Enter</key> "
+"billentyűt."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:36
@@ -2412,6 +2398,33 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
+
+#~ msgid ""
+#~ "Click the network connection icon to show more details about the status "
+#~ "of your network connection."
+#~ msgstr ""
+#~ "Kattintson a hálózati kapcsolat ikonra további részletek megjelenítéséhez "
+#~ "a hálózati kapcsolat állapotáról."
+
+#~ msgid "Connect to other types of networks"
+#~ msgstr "Csatlakozás más típusú hálózatokhoz"
+
+#~ msgid ""
+#~ "There are various types of network connections that you can use with your "
+#~ "computer, for example, mobile broadband, or wireless networks."
+#~ msgstr ""
+#~ "Számítógépével különböző típusú hálózati kapcsolatokat használhat, mint "
+#~ "például a mobil széles sávú vagy vezeték nélküli hálózat."
+
+#~ msgid ""
+#~ "Depending on your computer hardware and the networks availability, you "
+#~ "can choose other connection types by clicking the network connection icon "
+#~ "on the right-hand side of the top bar and selecting the network "
+#~ "connection you want to connect to."
+#~ msgstr ""
+#~ "A számítógép hardverétől és a hálózatok elérhetőségétől függően más "
+#~ "kapcsolattípusokat is kiválaszthat a felső sáv jobb szélén lévő hálózati "
+#~ "kapcsolat ikonra kattintva, és a kívánt hálózati kapcsolatot kiválasztva."
 
 #~| msgctxt "_"
 #~| msgid ""
