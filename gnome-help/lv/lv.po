@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2013-10-29 17:35+0000\n"
-"PO-Revision-Date: 2013-11-04 18:25+0200\n"
+"POT-Creation-Date: 2013-11-09 19:36+0000\n"
+"PO-Revision-Date: 2013-11-10 22:13+0200\n"
 "Last-Translator: Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>\n"
 "Language-Team: Latvian <lata-l10n@googlegroups.com>\n"
 "Language: lv\n"
@@ -1061,12 +1061,14 @@ msgstr "Nokļūt internetā"
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:24
+#| msgid ""
+#| "You can see the status of your network connection on the right-hand side "
+#| "of the top bar, next to your name."
 msgid ""
 "You can see the status of your network connection on the right-hand side of "
-"the top bar, next to your name."
+"the top bar."
 msgstr ""
-"Jūs varat redzēt sava tīkla savienojuma statusu augšējās joslas labajā pusē, "
-"blakus savam vārdam."
+"Jūs varat redzēt sava tīkla savienojuma statusu augšējās joslas labajā pusē."
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:30
@@ -1083,27 +1085,23 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:37
-msgid ""
-"Click the network connection icon to show more details about the status of "
-"your network connection."
-msgstr ""
-"Spiediet uz tīkla ikonas, lai uzzinātu vairāk par sava tīkla savienojuma "
-"statusu."
-
-#. (itstool) path: item/p
-#: C/gs-get-online.page:39
+#| msgid ""
+#| "The off-line status can be caused by a number of reasons: for example, a "
+#| "network cable has been unplugged, the computer has been set to run in "
+#| "<em>airplane mode</em>, or there are no available wireless networks in "
+#| "your area."
 msgid ""
 "The off-line status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
-"<em>airplane mode</em>, or there are no available wireless networks in your "
+"<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
 msgstr ""
 "Savienojuma trūkumam jeb nesaistei var būt vairāki iemesli, piemēram, tīkla "
 "vads varētu būt atvienots, dators atrodas <em>lidmašīnas režīmā</em> vai arī "
-"šajā telpā nav pieejamu bezvadu tīklu."
+"šajā telpā nav pieejamu Wi-Fi tīklu."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:43
+#: C/gs-get-online.page:41
 msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
@@ -1113,7 +1111,7 @@ msgstr ""
 "piekļūtu internetam. Dators automātiski mēģinās izveidot tīkla savienojumu."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:47
+#: C/gs-get-online.page:44
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
@@ -1122,7 +1120,7 @@ msgstr ""
 "trīs punkti."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:49
+#: C/gs-get-online.page:46
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to the networked computer symbol."
@@ -1131,30 +1129,46 @@ msgstr ""
 "mainīsies uz pie tīkla pieslēgta datora simbolu."
 
 #. (itstool) path: section/title
-#: C/gs-get-online.page:57
-msgid "Connect to other types of networks"
-msgstr "Savienoties ar cita veida tīkliem"
+#: C/gs-get-online.page:54
+#| msgid "Connect to a wired network"
+msgid "Connect to a Wi-Fi network"
+msgstr "Savienoties ar Wi-Fi tīklu"
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:62
+#: C/gs-get-online.page:59
 msgid ""
-"There are various types of network connections that you can use with your "
-"computer, for example, mobile broadband, or wireless networks."
+"To connect to a Wi-Fi (wireless) network, click the status menu at the top "
+"right of the screen, and then click <gui>Select Network</gui>."
 msgstr ""
-"Ir dažādu veidu tīkli, ar kuriem šis dators var savienoties, piemēram, "
-"mobilā platjosla vai bezvadu tīkls."
+"Lai savienotos ar Wi-Fi (bezvadu) tīklu, spiediet uz statusa izvēlnes ekrāna "
+"augšējā labajā stūrī un spiediet <gui>Izvēlieties tīklu</gui>."
 
-#. (itstool) path: item/p
+#. (itstool) path: note/p
 #: C/gs-get-online.page:65
 msgid ""
-"Depending on your computer hardware and the networks availability, you can "
-"choose other connection types by clicking the network connection icon on the "
-"right-hand side of the top bar and selecting the network connection you want "
-"to connect to."
+"You can only connect to a Wi-Fi network if your computer hardware supports "
+"it and you are in an area with Wi-Fi coverage."
 msgstr ""
-"Atkarībā no datora aparatūras un tīkla pieejamības, jūs varat izvēlēties "
-"citus savienojuma veidus, spiežot uz tīkla savienojuma ikonas augšējās "
-"joslas labajā pusē un izvēloties tīkla savienojumu, ar ko savienoties."
+"Jūs varat savienoties ar Wi-Fi tīklu tikai tad, ja to atbalsta datora "
+"aparatūra un ja ir Wi-Fi pārklājums."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:72
+msgid ""
+"From the list of available Wi-Fi networks, select the network you want to "
+"connect to, and click <gui>Connect</gui> to confirm."
+msgstr ""
+"No pieejamo Wi-Fi tīklu saraksta izvēlieties tīklu, ar kuru vēlaties "
+"savienoties un spiediet <gui>Savienot</gui>, lai apstiprinātu."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:74
+msgid ""
+"Depending on the network configuration, you may be prompted for network "
+"credentials."
+msgstr ""
+"Atkarība no tīkla konfigurācijas, jums varētu prasīt tīkla akreditācijas "
+"datus."
 
 #. (itstool) path: Work/format
 #: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
@@ -1397,7 +1411,6 @@ msgstr "mājastīkls"
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:338
 #, no-wrap
-#| msgid "Select"
 msgid "Select Network"
 msgstr "Izvēlieties tīklu"
 
@@ -1428,7 +1441,6 @@ msgstr "Savienoties"
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:316
 #, no-wrap
-#| msgid "Wireless"
 msgid "wireless"
 msgstr "bezvadu"
 
@@ -1447,14 +1459,12 @@ msgstr "vājš"
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:319
 #, no-wrap
-#| msgid "Private"
 msgid "private"
 msgstr "privāts"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:320
 #, no-wrap
-#| msgid "Connect to a wired network"
 msgid "Select a network"
 msgstr "Izvēlieties tīklu"
 
@@ -2362,6 +2372,33 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "GNOME planēta"
+
+#~ msgid ""
+#~ "Click the network connection icon to show more details about the status "
+#~ "of your network connection."
+#~ msgstr ""
+#~ "Spiediet uz tīkla ikonas, lai uzzinātu vairāk par sava tīkla savienojuma "
+#~ "statusu."
+
+#~ msgid "Connect to other types of networks"
+#~ msgstr "Savienoties ar cita veida tīkliem"
+
+#~ msgid ""
+#~ "There are various types of network connections that you can use with your "
+#~ "computer, for example, mobile broadband, or wireless networks."
+#~ msgstr ""
+#~ "Ir dažādu veidu tīkli, ar kuriem šis dators var savienoties, piemēram, "
+#~ "mobilā platjosla vai bezvadu tīkls."
+
+#~ msgid ""
+#~ "Depending on your computer hardware and the networks availability, you "
+#~ "can choose other connection types by clicking the network connection icon "
+#~ "on the right-hand side of the top bar and selecting the network "
+#~ "connection you want to connect to."
+#~ msgstr ""
+#~ "Atkarībā no datora aparatūras un tīkla pieejamības, jūs varat izvēlēties "
+#~ "citus savienojuma veidus, spiežot uz tīkla savienojuma ikonas augšējās "
+#~ "joslas labajā pusē un izvēloties tīkla savienojumu, ar ko savienoties."
 
 #~ msgid "Wired"
 #~ msgstr "Vadu"
