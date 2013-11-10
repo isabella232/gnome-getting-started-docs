@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2013-10-29 17:35+0000\n"
-"PO-Revision-Date: 2013-10-31 01:03+0100\n"
+"POT-Creation-Date: 2013-11-09 19:36+0000\n"
+"PO-Revision-Date: 2013-11-10 01:54+0100\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <gnomepl@aviary.pl>\n"
 "Language: pl\n"
@@ -1071,10 +1071,9 @@ msgstr "Łączenie z siecią"
 #: C/gs-get-online.page:24
 msgid ""
 "You can see the status of your network connection on the right-hand side of "
-"the top bar, next to your name."
+"the top bar."
 msgstr ""
-"Można zobaczyć stan połączenia sieciowego po prawej stronie górnego paska, "
-"obok swojego imienia."
+"Można zobaczyć stan połączenia sieciowego po prawej stronie górnego paska."
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:30
@@ -1093,26 +1092,17 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/gs-get-online.page:37
 msgid ""
-"Click the network connection icon to show more details about the status of "
-"your network connection."
-msgstr ""
-"Kliknięcie ikony połączenia sieciowego wyświetli więcej informacji o stanie "
-"połączenia."
-
-#. (itstool) path: item/p
-#: C/gs-get-online.page:39
-msgid ""
 "The off-line status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
-"<em>airplane mode</em>, or there are no available wireless networks in your "
+"<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
 msgstr ""
 "Stan offline może mieć wiele przyczyn: na przykład kabel mógł zostać "
 "odłączony, komputer został ustawiony w <em>trybie samolotowym</em> lub brak "
-"dostępnych sieci bezprzewodowych w okolicy."
+"dostępnych sieci Wi-Fi w okolicy."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:43
+#: C/gs-get-online.page:41
 msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
@@ -1122,7 +1112,7 @@ msgstr ""
 "spróbuje automatycznie ustawić połączenie sieciowe."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:47
+#: C/gs-get-online.page:44
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
@@ -1131,7 +1121,7 @@ msgstr ""
 "kropki."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:49
+#: C/gs-get-online.page:46
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to the networked computer symbol."
@@ -1140,30 +1130,45 @@ msgstr ""
 "symbol komputera podłączonego do sieci."
 
 #. (itstool) path: section/title
-#: C/gs-get-online.page:57
-msgid "Connect to other types of networks"
-msgstr "Łączenie z innymi rodzajami sieci"
+#: C/gs-get-online.page:54
+msgid "Connect to a Wi-Fi network"
+msgstr "Łączenie z siecią Wi-Fi"
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:62
+#: C/gs-get-online.page:59
 msgid ""
-"There are various types of network connections that you can use with your "
-"computer, for example, mobile broadband, or wireless networks."
+"To connect to a Wi-Fi (wireless) network, click the status menu at the top "
+"right of the screen, and then click <gui>Select Network</gui>."
 msgstr ""
-"Komputer można podłączyć do sieci na wiele różnych sposobów, na przykład "
-"przez połączenie komórkowe lub sieci bezprzewodowe."
+"Aby połączyć z bezprzewodową siecią Wi-Fi, kliknij menu stanu w górnym "
+"prawym rogu ekranu, a następnie kliknij <gui>Wybierz sieć</gui>."
 
-#. (itstool) path: item/p
+#. (itstool) path: note/p
 #: C/gs-get-online.page:65
 msgid ""
-"Depending on your computer hardware and the networks availability, you can "
-"choose other connection types by clicking the network connection icon on the "
-"right-hand side of the top bar and selecting the network connection you want "
-"to connect to."
+"You can only connect to a Wi-Fi network if your computer hardware supports "
+"it and you are in an area with Wi-Fi coverage."
 msgstr ""
-"W zależności od sprzętu i dostępności sieci, można wybrać inny rodzaj "
-"połączenia klikając ikonę połączenia sieciowego po prawej stronie górnego "
-"paska i wybierając rodzaj sieci, z którą się połączyć."
+"Można łączyć się z sieciami Wi-Fi tylko, jeśli komputer je obsługuje oraz "
+"jest w zasięgu jednej z nich."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:72
+msgid ""
+"From the list of available Wi-Fi networks, select the network you want to "
+"connect to, and click <gui>Connect</gui> to confirm."
+msgstr ""
+"Z listy dostępnych sieci Wi-Fi wybierz sieć, z którą połączyć, i kliknij "
+"<gui>Połącz</gui>, aby potwierdzić."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:74
+msgid ""
+"Depending on the network configuration, you may be prompted for network "
+"credentials."
+msgstr ""
+"W zależności od konfiguracji sieci, może być wymagane podanie danych "
+"uwierzytelniających sieci."
 
 #. (itstool) path: Work/format
 #: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
