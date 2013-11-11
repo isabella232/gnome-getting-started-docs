@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2013-10-29 17:35+0000\n"
-"PO-Revision-Date: 2013-10-30 17:41+0530\n"
+"POT-Creation-Date: 2013-11-09 19:36+0000\n"
+"PO-Revision-Date: 2013-11-11 13:41+0630\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
 "Language: en_US\n"
@@ -1065,12 +1065,13 @@ msgstr "অনলাইন হওক"
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:24
+#| msgid ""
+#| "You can see the status of your network connection on the right-hand side "
+#| "of the top bar, next to your name."
 msgid ""
 "You can see the status of your network connection on the right-hand side of "
-"the top bar, next to your name."
-msgstr ""
-"আপুনি আপোনাৰ নেটৱাৰ্ক সংযোগৰ অৱস্থা ওপৰ বাৰৰ সোঁ-ফালে দেখা পাব, আপোনাৰ নামৰ "
-"ওচৰত।"
+"the top bar."
+msgstr "আপুনি আপোনাৰ নেটৱাৰ্ক সংযোগৰ অৱস্থা ওপৰ বাৰৰ সোঁ-ফালে দেখা পাব।"
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:30
@@ -1087,29 +1088,24 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:37
-msgid ""
-"Click the network connection icon to show more details about the status of "
-"your network connection."
-msgstr ""
-"আপোনাৰ নেটৱাৰ্ক সংযোগৰ অৱস্থাৰ বিষয়ে অধিক বিৱৰণ দেখুৱাবলে নেটৱাৰ্ক সংযোগ "
-"আইকনত "
-"ক্লিক কৰক।"
-
-#. (itstool) path: item/p
-#: C/gs-get-online.page:39
+#| msgid ""
+#| "The off-line status can be caused by a number of reasons: for example, a "
+#| "network cable has been unplugged, the computer has been set to run in "
+#| "<em>airplane mode</em>, or there are no available wireless networks in "
+#| "your area."
 msgid ""
 "The off-line status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
-"<em>airplane mode</em>, or there are no available wireless networks in your "
+"<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
 msgstr ""
 "অফলাইন অৱস্থা কেইবাটাও কাৰণৰ বাবে হ'ব পাৰে: উদাহৰণস্বৰূপ, এটা নেটৱাৰ্ক কেবুল "
 "আনপ্লাগ্গড্ থাকিব পাৰে, কমপিউটাৰক হয়তো <em>বিমান অৱস্থা</em> ত চলিবলৈ সংহতি "
 "কৰা "
-"আছে, অথবা আপোনাৰ স্থানত কোনো বেতাঁৰ নেটৱাৰ্ক উপলব্ধ নাই।"
+"আছে, অথবা আপোনাৰ স্থানত কোনো Wi-Fi নেটৱাৰ্ক উপলব্ধ নাই।"
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:43
+#: C/gs-get-online.page:41
 msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
@@ -1122,7 +1118,7 @@ msgstr ""
 "চেষ্টা কৰিব।"
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:47
+#: C/gs-get-online.page:44
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
@@ -1131,7 +1127,7 @@ msgstr ""
 "সংযোগ আইকনে তিনিটা বিন্দু দেখুৱাব।"
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:49
+#: C/gs-get-online.page:46
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to the networked computer symbol."
@@ -1140,32 +1136,49 @@ msgstr ""
 "কমপিউটাৰ চিহ্নলৈ পৰিবৰ্তন হৈ যায়।"
 
 #. (itstool) path: section/title
-#: C/gs-get-online.page:57
-msgid "Connect to other types of networks"
-msgstr "অন্য ধৰণৰ নেটৱাৰ্কৰ সৈতে সংযোগ কৰক"
+#: C/gs-get-online.page:54
+#| msgid "Connect to a wired network"
+msgid "Connect to a Wi-Fi network"
+msgstr "এটা Wi-Fi নেটৱাৰ্কৰ সৈতে সংযোগ কৰক"
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:62
+#: C/gs-get-online.page:59
 msgid ""
-"There are various types of network connections that you can use with your "
-"computer, for example, mobile broadband, or wireless networks."
+"To connect to a Wi-Fi (wireless) network, click the status menu at the top "
+"right of the screen, and then click <gui>Select Network</gui>."
 msgstr ""
-"আপুনি আপোনাৰ কমপিউটাৰৰ সৈতে ব্যৱহাৰ কৰিবলে বিভিন্ন ধৰণৰ নেটৱাৰ্ক সংযোগ উপলব্ধ "
-"আছে, উদাহৰণস্বৰূপ, মবাইল ব্ৰডবেণ্ড, অথবা বেতাঁৰ নেটৱাৰ্ক।"
+"এটা Wi-Fi (বেতাঁৰ) নেটৱাৰ্কৰ সৈতে সংযোগ কৰিবলৈ, পৰ্দাৰ ওপৰ সোঁফালে অৱস্থা "
+"মেনুত ক্লিক কৰক, "
+"আৰু তাৰ পিছত <gui>নেটৱাৰ্ক বাছক</gui> ক্লিক কৰক।"
 
-#. (itstool) path: item/p
+#. (itstool) path: note/p
 #: C/gs-get-online.page:65
 msgid ""
-"Depending on your computer hardware and the networks availability, you can "
-"choose other connection types by clicking the network connection icon on the "
-"right-hand side of the top bar and selecting the network connection you want "
-"to connect to."
+"You can only connect to a Wi-Fi network if your computer hardware supports "
+"it and you are in an area with Wi-Fi coverage."
 msgstr ""
-"আপোনাৰ কমপিউটাৰ হাৰ্ডৱেৰ আৰু নেটৱাৰ্কৰ উপলব্ধতাৰ ওপৰত নিৰ্ভৰ কৰি, আপুনি ওপৰ "
-"বাৰৰ "
-"সোঁ-ফালে নেটৱাৰ্ক সংযোগ আইকন ক্লিক কৰি আৰু আপুনি সংযোগ কৰিব বিচৰা নেটৱাৰ্ক "
-"সংযোগ "
-"নিৰ্বাচন কৰি অন্য নেটৱাৰ্ক সংযোগ ধৰণসমূহ বাছিব পাৰিব।"
+"আপুনি এটা Wi-Fi নেটৱাৰ্কৰ সৈতে কেৱল তেতিয়াহে সংযোগ কৰিব পাৰিব যদি আপোনাৰ "
+"কমপিউটাৰে "
+"ইয়াক সমৰ্থন কৰে আৰু আপুনি Wi-Fi পৰিধিৰ স্থানত থাকে।"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:72
+msgid ""
+"From the list of available Wi-Fi networks, select the network you want to "
+"connect to, and click <gui>Connect</gui> to confirm."
+msgstr ""
+"উপলব্ধ Wi-Fi নেটৱাৰ্কসমূহৰ তালিকাৰ পৰা, আপুনি সংযোগ কৰিব বিচৰা নেটৱাৰ্ক বাছক, "
+"আৰু "
+"সুনিশ্চিত কৰিবলৈ <gui>সংযোগ কৰক</gui> ক্লিক কৰক।"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:74
+msgid ""
+"Depending on the network configuration, you may be prompted for network "
+"credentials."
+msgstr ""
+"নেটৱাৰ্ক সংযোগৰ ওপৰত নিৰ্ভৰ কৰি, আপোনাক নেটৱাৰ্ক তথ্যসমূহৰ বাবে প্ৰমপ্ট কৰা "
+"হব পাৰে।"
 
 #. (itstool) path: Work/format
 #: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
@@ -1408,7 +1421,6 @@ msgstr "ঘৰৰনেটৱাৰ্ক"
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:338
 #, no-wrap
-#| msgid "Select"
 msgid "Select Network"
 msgstr "নেটৱাৰ্ক বাছক"
 
@@ -1439,7 +1451,6 @@ msgstr "সংযোগ কৰক"
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:316
 #, no-wrap
-#| msgid "Wireless"
 msgid "wireless"
 msgstr "বেতাঁৰ"
 
@@ -1458,14 +1469,12 @@ msgstr "দূৰ্বল"
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:319
 #, no-wrap
-#| msgid "Private"
 msgid "private"
 msgstr "ব্যক্তিগত"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:320
 #, no-wrap
-#| msgid "Connect to a wired network"
 msgid "Select a network"
 msgstr "এটা নেটৱাৰ্ক বাছক"
 
@@ -2394,6 +2403,33 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
+
+#~ msgid ""
+#~ "Click the network connection icon to show more details about the status "
+#~ "of your network connection."
+#~ msgstr ""
+#~ "আপোনাৰ নেটৱাৰ্ক সংযোগৰ অৱস্থাৰ বিষয়ে অধিক বিৱৰণ দেখুৱাবলে নেটৱাৰ্ক সংযোগ "
+#~ "আইকনত ক্লিক কৰক।"
+
+#~ msgid "Connect to other types of networks"
+#~ msgstr "অন্য ধৰণৰ নেটৱাৰ্কৰ সৈতে সংযোগ কৰক"
+
+#~ msgid ""
+#~ "There are various types of network connections that you can use with your "
+#~ "computer, for example, mobile broadband, or wireless networks."
+#~ msgstr ""
+#~ "আপুনি আপোনাৰ কমপিউটাৰৰ সৈতে ব্যৱহাৰ কৰিবলে বিভিন্ন ধৰণৰ নেটৱাৰ্ক সংযোগ উপলব্ধ "
+#~ "আছে, উদাহৰণস্বৰূপ, মবাইল ব্ৰডবেণ্ড, অথবা বেতাঁৰ নেটৱাৰ্ক।"
+
+#~ msgid ""
+#~ "Depending on your computer hardware and the networks availability, you "
+#~ "can choose other connection types by clicking the network connection icon "
+#~ "on the right-hand side of the top bar and selecting the network "
+#~ "connection you want to connect to."
+#~ msgstr ""
+#~ "আপোনাৰ কমপিউটাৰ হাৰ্ডৱেৰ আৰু নেটৱাৰ্কৰ উপলব্ধতাৰ ওপৰত নিৰ্ভৰ কৰি, আপুনি ওপৰ "
+#~ "বাৰৰ সোঁ-ফালে নেটৱাৰ্ক সংযোগ আইকন ক্লিক কৰি আৰু আপুনি সংযোগ কৰিব বিচৰা নেটৱাৰ্ক "
+#~ "সংযোগ নিৰ্বাচন কৰি অন্য নেটৱাৰ্ক সংযোগ ধৰণসমূহ বাছিব পাৰিব।"
 
 #~ msgid "Wired"
 #~ msgstr "তাঁৰযুক্ত"
