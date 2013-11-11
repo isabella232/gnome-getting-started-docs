@@ -6,14 +6,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-08-29 14:34+0000\n"
-"PO-Revision-Date: 2013-09-23 17:15+0530\n"
+"POT-Creation-Date: 2013-11-09 19:36+0000\n"
+"PO-Revision-Date: 2013-11-11 17:37+0530\n"
 "Last-Translator: Shantha kumar <shkumar@redhat.com>\n"
 "Language-Team: Tamil <ta@li.org>\n"
+"Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ta\n"
 "X-Generator: Poedit 1.5.4\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
@@ -482,11 +482,11 @@ msgstr "திரையின் வலது பாதி"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:18 C/gs-go-online1.svg:241 C/gs-search1.svg:190
-#: C/gs-search2.svg:146 C/gs-thumb-changing-wallpaper.svg:71
-#: C/gs-thumb-launching-apps.svg:195 C/gs-thumb-responding-to-messages.svg:42
-#: C/gs-thumb-task-switching.svg:158 C/gs-thumb-timezone.svg:47
-#: C/gs-thumb-windows-and-workspaces.svg:95 C/gs-web-browser1-firefox.svg:122
+#: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:198
+#: C/gs-search2.svg:154 C/gs-thumb-changing-wallpaper.svg:54
+#: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-responding-to-messages.svg:51
+#: C/gs-thumb-task-switching.svg:167 C/gs-thumb-timezone.svg:56
+#: C/gs-thumb-windows-and-workspaces.svg:104 C/gs-web-browser1-firefox.svg:122
 #: C/gs-web-browser1.svg:122
 #, no-wrap
 msgid "Activities"
@@ -534,22 +534,14 @@ msgstr "தட்டச்சு செய்யத் தொடங்கவு�
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:27 C/gs-goa1.svg:43 C/gs-goa1.svg:70
-#: C/gs-go-online1.svg:239 C/gs-go-online1.svg:250 C/gs-go-online1.svg:316
-#: C/gs-go-online2.svg:235 C/gs-go-online2.svg:266 C/gs-go-online3.svg:332
-#: C/gs-search1.svg:187 C/gs-search2.svg:143
-#: C/gs-thumb-changing-wallpaper.svg:72 C/gs-thumb-launching-apps.svg:196
-#: C/gs-thumb-responding-to-messages.svg:43
-#: C/gs-thumb-responding-to-messages.svg:61 C/gs-thumb-task-switching.svg:159
-#: C/gs-thumb-timezone.svg:48 C/gs-thumb-windows-and-workspaces.svg:96
+#: C/gs-animation.xml:27 C/gs-go-online1.svg:249
+#: C/gs-thumb-responding-to-messages.svg:90
 #, no-wrap
 msgid "John Doe"
 msgstr "ஜான் டோ"
 
 #. (itstool) path: titles/t
-#. (itstool) path: text/tspan
-#: C/gs-animation.xml:28 C/gs-goa1.svg:75 C/gs-thumb-changing-wallpaper.svg:77
-#, no-wrap
+#: C/gs-animation.xml:28
 msgid "Settings"
 msgstr "அமைவுகள்"
 
@@ -580,7 +572,7 @@ msgstr "சில வினாடிகளில் வந்துவிடு�
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:34 C/gs-thumb-responding-to-messages.svg:60
+#: C/gs-animation.xml:34 C/gs-thumb-responding-to-messages.svg:89
 #, no-wrap
 msgid "Good stuff, thanks again"
 msgstr "நன்றாக உள்ளது, மீண்டும் நன்றி"
@@ -619,6 +611,22 @@ msgstr "தேதி மற்றும் நேரம் அமைவுகள
 #: C/gs-animation.xml:41
 msgid "Automatic Date and Time"
 msgstr "தானியக்க தேதி மற்றும் நேரம்"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:42
+#| msgid "Automatic Date and Time"
+msgid "Automatic Timezone"
+msgstr "தானியங்கு நேர மண்டலம்"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:43
+msgid "14 October 2013, 20:00"
+msgstr "14 அக்டோபர் 2013, 20:00"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:44
+msgid "14 October 2013, 14:00"
+msgstr "14 அக்டோபர் 2013, 14:00"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:11 C/gs-browse-web-firefox.page:12
@@ -773,7 +781,7 @@ msgstr "தேதி, நேரம், நேர மண்டலம் ஆகி
 #. (itstool) path: page/title
 #. (itstool) path: section/title
 #: C/gs-change-date-time-timezone.page:24
-#: C/gs-change-date-time-timezone.page:64
+#: C/gs-change-date-time-timezone.page:70
 msgid "Change the date, time and timezone"
 msgstr "தேதி, நேரம், நேரமண்டலம் ஆகியவற்றை மாற்றவும்"
 
@@ -783,72 +791,111 @@ msgid "Changing Date &amp; Time"
 msgstr "தேதியையும் நேரத்தையும் மாற்றுதல்"
 
 #. (itstool) path: div/p
-#. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:38
-#: C/gs-change-date-time-timezone.page:67
 msgid "Click the clock on the top bar."
 msgstr "மேல் பட்டியில் உள்ள கடிகாரத்தைச் சொடுக்கவும்."
 
 #. (itstool) path: div/p
-#. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:41
-#: C/gs-change-date-time-timezone.page:68
-msgid "Select the <gui>Date &amp; Time Settings</gui> item."
-msgstr "<gui>தேதி &amp; நேர அமைவுகள்</gui> உருப்படியைத் தேர்ந்தெடுக்கவும்."
+#| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
+msgid "Select <gui>Date &amp; Time Settings</gui>."
+msgstr "<gui>தேதி &amp; நேர அமைவுகள்</gui>ஐத் தேர்ந்தெடுக்கவும்."
 
 #. (itstool) path: div/p
-#. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:44
-#: C/gs-change-date-time-timezone.page:78
+msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
+msgstr "<gui>தானியங்கு நேரமண்டலம்</gui> அணைக்கப்பட்டுள்ளதை உறுதிப்படுத்திக் கொள்ளவும்."
+
+#. (itstool) path: div/p
+#: C/gs-change-date-time-timezone.page:48
+#| msgid "Click the <gui>Select</gui> button."
+msgid "Click <gui>Time Zone</gui>."
+msgstr "<gui>நேர மண்டலம்</gui> என்பதைச் சொடுக்கவும்."
+
+#. (itstool) path: div/p
+#: C/gs-change-date-time-timezone.page:51
 msgid "Click on your location on the map."
 msgstr "வரைபடத்தில் உங்கள் இடத்தைச் சொடுக்கவும்."
 
 #. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:47
-msgid ""
-"You can adjust the date and time by clicking on the arrows to choose the "
-"hour, minute, and year."
-msgstr ""
-"மணி, நிமிடம் மற்றும் ஆண்டைத் தேர்வு செய்ய அம்புக்குறிகளைச் சொடுக்குவதன் மூலம் நீங்கள் "
-"தேதியையும் நேரத்தையும் சரிசெய்யலாம்."
+#: C/gs-change-date-time-timezone.page:54
+#| msgid "Click the <gui>Select</gui> button."
+msgid "Click <gui>Close</gui>."
+msgstr "<gui>மூடு</gui> என்பதைச் சொடுக்கவும்."
 
 #. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:51
+#: C/gs-change-date-time-timezone.page:57
 msgid "Close the window."
 msgstr "சாளரத்தை மூடு."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:76
+#: C/gs-change-date-time-timezone.page:73
+#| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
 msgid ""
-"You may need to click the <gui>Unlock</gui> button and type the "
-"administrator's password."
+"Click the clock on the top bar and select the <gui>Date &amp; Time Settings</"
+"gui> item."
 msgstr ""
-"நீங்கள் <gui>பூட்டுத்திற</gui> பொத்தானை சொடுக்கி, நிர்வாகி கடவுச்சொல்லைத் தட்டச்சு செய்ய "
-"வேண்டி இருக்கலாம்."
+"மேல் பட்டியில் உள்ள கடிகாரத்தைச் சொடுக்கி, <gui>தேதி &amp; நேர அமைவுகள்</gui> "
+"உருப்படியைத் தேர்ந்தெடுக்கவும்."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:79
+#: C/gs-change-date-time-timezone.page:75
 msgid ""
-"This selects your current city, which you can also see and change in the "
-"drop-down list below the map."
+"Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
+"then click the <gui>Time Zone</gui> item below."
 msgstr ""
-"இது உங்கள் நடப்பு நகரத்தைத் தேர்ந்தெடுக்கும், இதை நீங்கள் வரைபடத்திற்குக் கீழே உள்ள கீழ் தோன்று "
-"பட்டியலில் காணவும் மாற்றவும் முடியும்."
+"<gui>தானியங்கு நேர மண்டலம்</gui> உருப்படி அணைக்கப்பட்டுள்ளதா என உறுதிப்படுத்திவிட்டு, "
+"கீழே உள்ள <gui>நேர மண்டலம்</gui> உருப்படியை சொடுக்கவும்."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:81
+#: C/gs-change-date-time-timezone.page:77
+#| msgid ""
+#| "This selects your current city, which you can also see and change in the "
+#| "drop-down list below the map."
 msgid ""
-"On the right-hand side of the window, you can adjust the date and time by "
-"clicking on the arrows to choose the hour, minute, and year."
+"Click on your location on the map. This selects your current city, which you "
+"can also search for in the search box above the map."
 msgstr ""
-"சாளரத்தின் வலது பக்கத்தில், மணி, நிமிடம் மற்றும் ஆண்டைத் தேர்வு செய்ய அம்புக்குறிகளைச் "
-"சொடுக்குவதன் மூலம் தேதியையும் நேரத்தையும் சரிசெய்யலாம்."
+"வரைபடத்தில் உங்கள் இருப்பிடத்தைச் சொடுக்கவும். அப்போது உங்கள் தற்போதைய நகரம் "
+"தேர்ந்தெடுக்கப்படும், இதை வரைபடத்திற்கு மேல் உள்ள தேடல் பெட்டியில் தேடியும் நீங்கள் "
+"கண்டறியலாம்."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:84
+#: C/gs-change-date-time-timezone.page:80
+#| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
 msgid ""
-"Close the window by clicking the cross at the top-right corner of the window."
-msgstr "சாளரத்தின் மேல் வலது மூலையில் உள்ள கூட்டல் குறியைச் சொடுக்கி, சாளரத்தை மூடவும்."
+"Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
+"Settings</gui> window."
+msgstr ""
+"மீண்டும் <gui>தேதி &amp; நேர அமைவுகள்</gui> சாளரத்திற்குச் செல்ல <gui>மூடு</gui> "
+"பொத்தானைச் சொடுக்கவும்."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:82
+msgid ""
+"Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
+"off, and then click the <gui>Date &amp; Time</gui> item below to open the "
+"<gui>Date &amp; Time</gui> window. There you can adjust your date and time "
+"settings by clicking on the <gui>+</gui> or <gui>-</gui> buttons."
+msgstr ""
+"<gui>தானியங்கு தேதி &amp; நேரம்</gui> உருப்படி அணைக்கப்பட்டுள்ளதா என "
+"உறுதிப்படுத்திவிட்டு, <gui>தேதி &amp; நேரம்</gui> சாளரத்தைத் திறக்க கீழே உள்ள "
+"<gui>தேதி &amp; நேரம்</gui> உருப்படியை சொடுக்கவும். அங்கு நீங்கள் <gui>+</gui> அல்லது "
+"<gui>-</gui> பொத்தான்களைச் சொடுக்கி தேதி மற்றும் நேர அமைவுகளை சரி செய்யலாம்."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:87
+#| msgid ""
+#| "Close the <gui>Background</gui> window by clicking the cross at the top-"
+#| "right corner of the window."
+msgid ""
+"Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
+"Settings</gui> window, and then close that window by clicking the cross at "
+"the top-right corner of that window."
+msgstr ""
+"மீண்டும் <gui>தேதி &amp; நேர அமைவுகள்</gui> சாளரத்திற்குச் செல்ல <gui>மூடு</gui> "
+"பொத்தானை சொடுக்கவும். அந்த சாளரத்தை மூட, அதன் மேல் வலது மூலையில் உள்ள கூட்டல் குறியை "
+"சொடுக்கவும்."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:17
@@ -864,60 +911,74 @@ msgstr "சுவர்சித்திரத்தை மாற்றுவ�
 
 #. (itstool) path: page/title
 #. (itstool) path: section/title
-#: C/gs-change-wallpaper.page:22 C/gs-change-wallpaper.page:56
+#: C/gs-change-wallpaper.page:22 C/gs-change-wallpaper.page:57
 msgid "Change the wallpaper"
 msgstr "சுவர்ச்சித்திரத்தை மாற்றவும்"
 
 #. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:33 C/gs-change-wallpaper.page:59
-msgid "Click your name on the top bar and select <gui>Settings</gui>."
+#: C/gs-change-wallpaper.page:33
+msgid ""
+"Click the system menu on the right side of the top bar and press the "
+"settings button."
 msgstr ""
-"மேல் பட்டியில் உங்கள் பெயரைச் சொடுக்கி, <gui>அமைவுகள்</gui> என்பதைத் தேர்ந்தெடுக்கவும்."
+"மேல்பட்டியின் வலப்புறம் உள்ள கணினி மெனுவைச் சொடுக்கி, அமைவுகள் பொத்தானை அழுத்தவும்."
 
 #. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:36
+#: C/gs-change-wallpaper.page:37
 msgid "Select <gui>Background</gui>."
 msgstr "<gui>பின்புலம்</gui> என்பதைத் தேர்ந்தெடுக்கவும்."
 
 #. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:39
-msgid "Click the image of your current wallpaper."
-msgstr "உங்கள் நடப்பு சுவர்ச்சித்திரத்தின் படத்தைச் சொடுக்கவும்."
+#: C/gs-change-wallpaper.page:40
+#| msgid "Click the background image that you want to use."
+msgid "Click the current background image."
+msgstr "தற்போதைய பின்புலப் படத்தைச் சொடுக்கவும்."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:42 C/gs-change-wallpaper.page:64
-msgid "Click the background image that you want to use."
+#: C/gs-change-wallpaper.page:43 C/gs-change-wallpaper.page:65
+#| msgid "Click the background image that you want to use."
+msgid "Click the background image you want to use."
 msgstr "நீங்கள் பயன்படுத்த விரும்பும் பின்புலப் படத்தைச் சொடுக்கவும்."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:45 C/gs-change-wallpaper.page:65
+#: C/gs-change-wallpaper.page:46 C/gs-change-wallpaper.page:66
 msgid "Click the <gui>Select</gui> button."
 msgstr "<gui>தேர்ந்தெடு</gui> பொத்தானைச் சொடுக்கவும்."
 
 #. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:48
+#: C/gs-change-wallpaper.page:49
 msgid "Close the <gui>Background</gui> window."
 msgstr "<gui>பின்புலம்</gui> சாளரத்தை மூடு."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:61
+#: C/gs-change-wallpaper.page:60 C/gs-use-system-search.page:80
+msgid ""
+"Click the system menu on the right side of the top bar and press the "
+"settings button at the bottom of the menu."
+msgstr ""
+"மேல்பட்டியின் வலப்புறம் உள்ள கணினி மெனுவைச் சொடுக்கி, மெனுவின் அடிப்பகுதியில் உள்ள "
+"அமைவுகள் பொத்தானை அழுத்தவும்."
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:62
 msgid "From the list of items, select <gui>Background</gui>."
 msgstr "உருப்படிகளின் பட்டியலிருந்து <gui>பின்புலம்</gui> என்பதைத் தேர்ந்தெடுக்கவும்."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:62
+#: C/gs-change-wallpaper.page:63
+#| msgid ""
+#| "Click the image of your current wallpaper in the center of the "
+#| "<gui>Background</gui> window."
 msgid ""
-"Click the image of your current wallpaper in the center of the "
-"<gui>Background</gui> window."
+"Click the current background image on the left side of the <gui>Background</"
+"gui> window."
 msgstr ""
-"<gui>பின்புலம்</gui> சாளரத்தின் மையத்தில் உள்ள உங்கள் தற்போதைய சுவர்சித்திரப் படத்தை "
-"சொடுக்கவும்."
+"<gui>பின்புலம்</gui> சாளரத்தின் இடது புறம் உள்ள தற்போதைய பின்புலப் படத்தைச் சொடுக்கவும்."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:66
+#: C/gs-change-wallpaper.page:67
 msgid ""
 "Close the <gui>Background</gui> window by clicking the cross at the top-"
 "right corner of the window."
@@ -943,28 +1004,28 @@ msgid "Connect to online accounts"
 msgstr "ஆன்லைன் கணக்குகளுக்கு இணைக்கவும்"
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:27 C/gs-use-system-search.page:80
-msgid "Click your name on the top bar."
-msgstr "மேல் பட்டியில் உங்கள் பெயரைச் சொடுக்கவும்."
+#: C/gs-connect-online-accounts.page:27
+#| msgid "Click the clock on the top bar."
+msgid "Click the system menu on the right side of the top bar."
+msgstr "மேல் பட்டியின் வலப்புறம் உள்ள கணினி மெனுவைச் சொடுக்கவும்."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:28 C/gs-use-system-search.page:81
-msgid "Select the <gui>Settings</gui> item."
-msgstr "<gui>அமைவுகள்</gui> உருப்படியைத் தேர்ந்தெடுக்கவும்."
+#: C/gs-connect-online-accounts.page:28
+msgid "Press the settings button at the bottom of the menu."
+msgstr "மெனுவின் அடிப்பகுதியில் உள்ள அமைவுகள் பொத்தானை அழுத்தவும்."
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:34
-msgid "From the list of items, select <gui>Online Accounts</gui>."
+#| msgid "From the list of items, select <gui>Online Accounts</gui>."
+msgid ""
+"From the list of items, select <gui>Online Accounts</gui>, then click on the "
+"<gui>Add an online account</gui> button."
 msgstr ""
-"உருப்படிகளின் பட்டியலிருந்து <gui>ஆன்லைன் கணக்குகள்</gui> என்பதைத் தேர்ந்தெடுக்கவும்."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:36
-msgid "Click on the <gui>Add an online account</gui> button."
-msgstr "<gui>ஒரு ஆன்லைன் கணக்கைச் சேர்</gui> பொத்தானைச் சொடுக்கவும்."
+"உருப்படிகளின் பட்டியலிருந்து <gui>ஆன்லைன் கணக்குகள்</gui> என்பதைத் தேர்ந்தெடுத்து, "
+"<gui>ஒரு ஆன்லைன் கணக்கைச் சேர்</gui> என்பதைச் சொடுக்கவும்."
 
 #. (itstool) path: note/p
-#: C/gs-connect-online-accounts.page:39
+#: C/gs-connect-online-accounts.page:38
 msgid ""
 "If you have set up an online account before, you can add another online "
 "account by clicking the <gui>+</gui> button at the bottom left corner of the "
@@ -974,7 +1035,7 @@ msgstr ""
 "உள்ள <gui>+</gui> பொத்தானைச் சொடுக்குவதன் மூலம் மற்றுமொரு ஆன்லைன் கணக்கைச் சேர்க்கலாம்."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:46
+#: C/gs-connect-online-accounts.page:45
 msgid ""
 "Click the online account you want to use. This will open a new window where "
 "you can sign in to your online account."
@@ -983,7 +1044,7 @@ msgstr ""
 "திறக்கும், அதில் உங்கள் ஆன்லைன் கணக்கில் நீங்கள் உள் நுழைய முடியும்."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:53
+#: C/gs-connect-online-accounts.page:52
 msgid ""
 "In most cases, you will have to grant access to the online service after "
 "signing in to get started."
@@ -992,7 +1053,7 @@ msgstr ""
 "வேண்டியிருக்கும்."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:55
+#: C/gs-connect-online-accounts.page:54
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
 "click the <gui>Grant Access</gui> button."
@@ -1001,7 +1062,7 @@ msgstr ""
 "வழங்கு</gui> பொத்தானைச் சொடுக்க வேண்டும்."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:62
+#: C/gs-connect-online-accounts.page:61
 msgid ""
 "Many online accounts let you choose the services you want to use with your "
 "online account. If you do not want to use a service, disable it by clicking "
@@ -1031,11 +1092,13 @@ msgstr "ஆன்லைனில் பெறுக"
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:24
+#| msgid ""
+#| "You can see the status of your network connection on the right-hand side "
+#| "of the top bar, next to your name."
 msgid ""
 "You can see the status of your network connection on the right-hand side of "
-"the top bar, next to your name."
-msgstr ""
-"மேல் பட்டியில் வலப்புறம் உங்கள் பெயருக்கு அருகில் உங்கள் பிணைய இணைப்பின் நிலையைக் காணலாம்."
+"the top bar."
+msgstr "மேல் பட்டியில் வலப்புறம் உங்கள் பிணைய இணைப்பின் நிலையைக் காணலாம்."
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:30
@@ -1053,27 +1116,23 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:37
-msgid ""
-"Click the network connection icon to show more details about the status of "
-"your network connection."
-msgstr ""
-"உங்கள் பிணைய இணைப்பின் நிலை பற்றிய கூடுதல் விவரங்களைக் காண்பிக்க பிணைய இணைப்பு சின்னத்தை "
-"சொடுக்கவும்."
-
-#. (itstool) path: item/p
-#: C/gs-get-online.page:39
+#| msgid ""
+#| "The off-line status can be caused by a number of reasons: for example, a "
+#| "network cable has been unplugged, the computer has been set to run in "
+#| "<em>airplane mode</em>, or there are no available wireless networks in "
+#| "your area."
 msgid ""
 "The off-line status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
-"<em>airplane mode</em>, or there are no available wireless networks in your "
+"<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
 msgstr ""
 "இணைப்பில்லா நிலைக்கு பல காரணங்கள் இருக்கலாம்: எடுத்துக்காட்டாக, பிணைய கேபிள் "
-"அகற்றப்பட்டிருக்கலாம், கணினி <em>விமானப் பயன்முறையில்</em> இயங்கும் படி "
-"அமைக்கப்பட்டிருக்கலாம் அல்லது உங்கள் இடத்தில் கம்பியில்லா பிணையங்கள் கிடைக்காதிருக்கலாம்."
+"அகற்றப்பட்டிருக்கலாம், கணினி <em>விமானப் பயன்முறையில்</em> இயங்கும்படி "
+"அமைக்கப்பட்டிருக்கலாம் அல்லது உங்கள் இடத்தில் Wi-Fi பிணையம் கிடைக்காதிருக்கலாம்."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:48
+#: C/gs-get-online.page:41
 msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
@@ -1083,7 +1142,7 @@ msgstr ""
 "போதும். உங்களுக்காக கணினியே பிணைய இணைப்பை தானாக அமைக்க முயற்சிக்கும்."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:52
+#: C/gs-get-online.page:44
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
@@ -1092,7 +1151,7 @@ msgstr ""
 "புள்ளிகள் காண்பிக்கப்படும்."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:54
+#: C/gs-get-online.page:46
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to the networked computer symbol."
@@ -1101,86 +1160,99 @@ msgstr ""
 "சின்னமாக மாறும்."
 
 #. (itstool) path: section/title
-#: C/gs-get-online.page:62
-msgid "Connect to other types of networks"
-msgstr "மற்ற வகை பிணையங்களுக்கு இணைக்கவும்"
+#: C/gs-get-online.page:54
+#| msgid "Connect to a wired network"
+msgid "Connect to a Wi-Fi network"
+msgstr "ஒரு Wi-Fi பிணையத்திற்கு இணைக்கவும்"
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:67
+#: C/gs-get-online.page:59
 msgid ""
-"There are various types of network connections that you can use with your "
-"computer, for example, mobile broadband, or wireless networks."
+"To connect to a Wi-Fi (wireless) network, click the status menu at the top "
+"right of the screen, and then click <gui>Select Network</gui>."
 msgstr ""
-"உங்கள் கணினியுடன் பயன்படுத்துவதற்கு பல்வேறு வகை பிணைய இணைப்புகள் உள்ளன, "
-"எடுத்துக்காட்டுக்கு, மொபைல் ப்ராட்பேன்ட் அல்லது வயர்லெஸ் பிணையங்களைக் கூறலாம்."
+"ஒரு Wi-Fi (வயர்லெஸ்) பிணையத்துடன் இணைக்க, திரையின் மேல் வலது பக்கம் உள்ள நிலை மெனுவை "
+"சொடுக்கி <gui>பிணையத்தைத் தேர்ந்தெடு</gui> என்பதைச் சொடுக்கவும்."
+
+#. (itstool) path: note/p
+#: C/gs-get-online.page:65
+msgid ""
+"You can only connect to a Wi-Fi network if your computer hardware supports "
+"it and you are in an area with Wi-Fi coverage."
+msgstr ""
+"உங்கள் கணினி வன்பொருளின் ஆதரவும் இருந்து நீங்கள் Wi-Fi எல்லைக்குள் இருந்தால் மட்டுமே நீங்கள் "
+"ஒரு Wi-Fi பிணையத்துடன் இணைய முடியும்."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:70
+#: C/gs-get-online.page:72
 msgid ""
-"Depending on your computer hardware and the networks availability, you can "
-"choose other connection types by clicking the network connection icon on the "
-"right-hand side of the top bar and selecting the network connection you want "
-"to connect to."
+"From the list of available Wi-Fi networks, select the network you want to "
+"connect to, and click <gui>Connect</gui> to confirm."
 msgstr ""
-"உங்கள் கணினி வன்பொருள் மற்றும் பிணையங்கள் கிடைக்கும் தன்மையைப் பொறுத்து, நீங்கள் மேல் பட்டியில் "
-"வலது புறம் உள்ள பிணைய இணைப்பு சின்னத்தைச் சொடுக்கி, நீங்கள் இணைக்க விரும்பும் பிணைய "
-"இணைப்பைத் தேர்ந்தெடுப்பதன் மூலம் நீங்கள் மற்ற இணைப்பு வகைகளைத் தேர்வு செய்து கொள்ளலாம்."
+"கிடைக்கும் Wi-Fi பிணையங்களின் பட்டியலில் இருந்து, நீங்கள் இணைக்க விரும்பும் பிணையத்தைத் "
+"தேர்ந்தெடுத்து, அதை உறுதிப்படுத்த <gui>இணை</gui> என்பதை சொடுக்கவும்."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:74
+msgid ""
+"Depending on the network configuration, you may be prompted for network "
+"credentials."
+msgstr "பிணைய அமைவாக்கத்தைப் பொறுத்து, உங்களிடம் பிணைய சான்றளிப்புகள் கேட்கப்படலாம்."
 
 #. (itstool) path: Work/format
-#: C/gs-goa1.svg:21 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
-#: C/gs-goa5.svg:35 C/gs-go-online1.svg:220 C/gs-go-online2.svg:219
-#: C/gs-go-online3.svg:256 C/gs-search1.svg:88 C/gs-search2.svg:124
-#: C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:30
-#: C/gs-thumb-launching-apps.svg:180 C/gs-thumb-responding-to-messages.svg:27
-#: C/gs-thumb-task-switching.svg:80 C/gs-thumb-timezone.svg:32
-#: C/gs-thumb-windows-and-workspaces.svg:80
+#: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
+#: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
+#: C/gs-go-online3.svg:293 C/gs-search1.svg:97 C/gs-search2.svg:133
+#: C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:39
+#: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36
+#: C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
+#: C/gs-thumb-windows-and-workspaces.svg:89
 #: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
 #: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
-#: C/gs-web-browser2.svg:100
+#: C/gs-web-browser2.svg:102
 msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:61 C/gs-go-online1.svg:232 C/gs-go-online3.svg:269
-#: C/gs-search1.svg:100 C/gs-thumb-timezone.svg:72 C/gs-thumb-timezone.svg:106
-#: C/gs-web-browser1-firefox-classic.svg:115 C/gs-web-browser1-firefox.svg:120
-#: C/gs-web-browser1.svg:120
+#: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
+#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101
+#: C/gs-thumb-timezone.svg:135 C/gs-web-browser1-firefox-classic.svg:115
+#: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
 #, no-wrap
 msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:65 C/gs-go-online1.svg:283 C/gs-search2.svg:136
-#: C/gs-thumb-timezone.svg:73 C/gs-thumb-timezone.svg:107
-#: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
-#: C/gs-web-browser1.svg:153
+#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:306
+#: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102
+#: C/gs-thumb-timezone.svg:136 C/gs-web-browser1-firefox-classic.svg:137
+#: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
 msgstr "2"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:50 C/gs-go-online2.svg:231 C/gs-thumb-timezone.svg:74
-#: C/gs-thumb-timezone.svg:108 C/gs-web-browser2-firefox.svg:164
-#: C/gs-web-browser2.svg:163
+#: C/gs-goa2.svg:50 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
+#: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
 #, no-wrap
 msgid "3"
 msgstr "3"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:81 C/gs-goa3.svg:113 C/gs-goa5.svg:79
+#: C/gs-goa2.svg:69 C/gs-goa3.svg:113 C/gs-goa5.svg:79
 #, no-wrap
 msgid "Online Accounts"
 msgstr "ஆன்லைன்  கணக்குகள்"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:83 C/gs-goa3.svg:115
+#: C/gs-goa2.svg:71 C/gs-goa3.svg:115
 #, no-wrap
 msgid "Add an online account"
 msgstr "ஒரு ஆன்லைன் கணக்கைச் சேர்"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:75 C/gs-thumb-timezone.svg:109
-#: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:113
+#: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
+#: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
 #, no-wrap
 msgid "4"
 msgstr "4"
@@ -1192,13 +1264,13 @@ msgid "Add Account"
 msgstr "கணக்கைச் சேர்"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90
+#: C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:343
 #, no-wrap
 msgid "Cancel"
 msgstr "ரத்துசெய்"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:90 C/gs-goa5.svg:93
+#: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
 #, no-wrap
 msgid "Google"
 msgstr "Google"
@@ -1228,8 +1300,8 @@ msgid "Enterprise Login (Kerberos)"
 msgstr "என்டர்ப்ரைஸ் புகுபதிகை (கெர்பரோஸ்)"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:48 C/gs-thumb-timezone.svg:76
-#: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:261
+#: C/gs-goa4.svg:48 C/gs-thumb-timezone.svg:105
+#: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
 #, no-wrap
 msgid "5"
 msgstr "5"
@@ -1271,7 +1343,7 @@ msgid "Sign In"
 msgstr "உள்நுழை"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:77 C/gs-goa5.svg:92 C/gs-goa5.svg:95
+#: C/gs-goa4.svg:77 C/gs-goa5.svg:88 C/gs-goa5.svg:91
 #, no-wrap
 msgid "john.doe@gmail.com"
 msgstr "john.doe@gmail.com"
@@ -1289,125 +1361,145 @@ msgid "Deny Access"
 msgstr "அணுகல் மறு"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:77
+#: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:106
 #, no-wrap
 msgid "6"
 msgstr "6"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:47 C/gs-thumb-timezone.svg:78
+#: C/gs-goa5.svg:60 C/gs-thumb-timezone.svg:107
 #, no-wrap
 msgid "7"
 msgstr "7"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:96
+#: C/gs-goa5.svg:92
 #, no-wrap
 msgid "Use for"
 msgstr "இதற்கு பயன்படுத்து"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:97
+#: C/gs-goa5.svg:93
 #, no-wrap
 msgid "Mail"
 msgstr "அஞ்சல்"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:102
+#: C/gs-goa5.svg:98
 #, no-wrap
 msgid "Calendar"
 msgstr "நாள்காட்டி"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:107 C/gs-search2.svg:264
+#: C/gs-goa5.svg:103 C/gs-search2.svg:293
 #, no-wrap
 msgid "Contacts"
 msgstr "தொடர்புகள்"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:112
+#: C/gs-goa5.svg:108
 #, no-wrap
 msgid "Chat"
 msgstr "அரட்டை"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:117
+#: C/gs-goa5.svg:113
 #, no-wrap
 msgid "Documents"
 msgstr "ஆவணங்கள்"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:122 C/gs-goa5.svg:123 C/gs-goa5.svg:124 C/gs-goa5.svg:125
-#: C/gs-goa5.svg:126 C/gs-go-online3.svg:288 C/gs-search-settings.svg:155
-#: C/gs-search-settings.svg:272 C/gs-search-settings.svg:279
-#: C/gs-search-settings.svg:286
+#: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121
+#: C/gs-goa5.svg:122 C/gs-search-settings.svg:155 C/gs-search-settings.svg:272
+#: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
 #, no-wrap
 msgid "ON"
 msgstr "ஆன்"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:240 C/gs-search1.svg:188 C/gs-search2.svg:144
-#: C/gs-thumb-changing-wallpaper.svg:73 C/gs-thumb-launching-apps.svg:197
-#: C/gs-thumb-responding-to-messages.svg:44 C/gs-thumb-task-switching.svg:160
-#: C/gs-thumb-timezone.svg:49 C/gs-thumb-windows-and-workspaces.svg:97
+#: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
+#: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
+#: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
+#: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
 msgid "14:30"
 msgstr "14:30"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:287 C/gs-go-online3.svg:274
-#, no-wrap
-msgid "Network Settings"
-msgstr "பிணைய அமைவுகள்"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:288 C/gs-go-online3.svg:275
-#, no-wrap
-msgid "Wired"
-msgstr "கம்பியுள்ளது"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:289 C/gs-go-online3.svg:276
-#, no-wrap
-msgid "Cable unplugged"
-msgstr "கேபிள் அகற்றப்பட்டது"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:290 C/gs-go-online3.svg:277
-#, no-wrap
-msgid "Mobile broadband"
-msgstr "மொபைல் ப்ராட்பேன்ட்"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:292 C/gs-go-online1.svg:301 C/gs-go-online3.svg:279
-#: C/gs-search-settings.svg:293
-#, no-wrap
-msgid "OFF"
-msgstr "ஆஃப்"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:299 C/gs-go-online3.svg:286
+#: C/gs-go-online2.svg:328
 #, no-wrap
 msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:309
+#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
 #, no-wrap
-msgid "Wireless"
-msgstr "கம்பியில்லா"
+msgid "homenetwork"
+msgstr "சொந்த பிணையம்"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:310
+#: C/gs-go-online2.svg:338
 #, no-wrap
-msgid "Private"
+#| msgid "Select"
+msgid "Select Network"
+msgstr "பிணையத்தைத் தேர்ந்தெடுக்கவும்"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:339
+#, no-wrap
+msgid "Turn Off"
+msgstr "அணை"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:340
+#, no-wrap
+msgid "Network Settings"
+msgstr "பிணைய அமைவுகள்"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:309
+#, no-wrap
+msgid "Wi-Fi Networks"
+msgstr "Wi-Fi பிணையங்கள்"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:313
+#, no-wrap
+msgid "Connect"
+msgstr "இணைக்கவும்"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:316
+#, no-wrap
+#| msgid "Wireless"
+msgid "wireless"
+msgstr "வயர்லெஸ்"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:317
+#, no-wrap
+msgid "netgear"
+msgstr "netgear"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:318
+#, no-wrap
+msgid "weak"
+msgstr "வலுவில்லாதது"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:319
+#, no-wrap
+#| msgid "Private"
+msgid "private"
 msgstr "தனிப்பட்ட"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:311
+#: C/gs-go-online3.svg:320
 #, no-wrap
-msgid "Weak"
-msgstr "வலுவற்றது"
+#| msgid "Connect to a wired network"
+msgid "Select a network"
+msgstr "ஒரு பிணையத்தைத் தேர்ந்தெடுக்கவும்"
 
 #. (itstool) path: info/title
 #: C/gs-launch-applications.page:18
@@ -1450,7 +1542,7 @@ msgid "Launch applications with the keyboard"
 msgstr "விசைப்பலகையைப் பயன்படுத்தி பயன்பாடுகளைத் துவக்கவும்"
 
 #. (itstool) path: item/p
-#: C/gs-launch-applications.page:79 C/gs-use-system-search.page:26
+#: C/gs-launch-applications.page:79
 msgid ""
 "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key."
@@ -1597,67 +1689,67 @@ msgstr ""
 "keyboard-key-super\">Super</key><key>M</key> </keyseq> ஐ அழுத்தவும்."
 
 #. (itstool) path: text/tspan
-#: C/gs-search1.svg:200
+#: C/gs-search1.svg:229
 #, no-wrap
 msgid "just type"
 msgstr "தட்டச்சு செய்யுங்கள்"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:153
+#: C/gs-search2.svg:182
 #, no-wrap
 msgid "con"
 msgstr "con"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:217
+#: C/gs-search2.svg:246
 #, no-wrap
 msgid "Accounts"
 msgstr "கணக்குகள்"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:218
+#: C/gs-search2.svg:247
 #, no-wrap
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:219
+#: C/gs-search2.svg:248
 #, no-wrap
 msgid "config"
 msgstr "அமைவாக்கம்"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:220 C/gs-search2.svg:223
+#: C/gs-search2.svg:249 C/gs-search2.svg:252
 #, no-wrap
 msgid "fontconfig"
 msgstr "fontconfig"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:221
+#: C/gs-search2.svg:250
 #, no-wrap
 msgid "system-config-http.zip"
 msgstr "system-config-http.zip"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:222
+#: C/gs-search2.svg:251
 #, no-wrap
 msgid "Icon guidelines"
 msgstr "சின்னம் வழிகாட்டல்கள்"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:240
+#: C/gs-search2.svg:269
 #, no-wrap
 msgid "Secure Linux Containers"
 msgstr "பாதுகாப்பான Linux கன்டெய்னர்கள்"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:241
+#: C/gs-search2.svg:270
 #, no-wrap
 msgid "Developer Conference 2012"
 msgstr "உருவாக்குநர் மாநாடு 2012"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:265 C/gs-web-browser2-firefox.svg:218
+#: C/gs-search2.svg:294 C/gs-web-browser2-firefox.svg:218
 #, no-wrap
 msgid "Firefox"
 msgstr "Firefox"
@@ -1681,7 +1773,7 @@ msgid "Enabled"
 msgstr "செயலாக்கப்பட்டது"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:264 C/gs-web-browser2.svg:214
+#: C/gs-search-settings.svg:264
 #, no-wrap
 msgid "Web"
 msgstr "வலை"
@@ -1697,6 +1789,12 @@ msgstr "புகைப்படங்கள்"
 #, no-wrap
 msgid "Music"
 msgstr "இசை"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:293
+#, no-wrap
+msgid "OFF"
+msgstr "ஆஃப்"
 
 #. (itstool) path: info/title
 #: C/gs-switch-tasks.page:17
@@ -1837,14 +1935,14 @@ msgstr ""
 "<key>Enter</key> ஐ அழுத்தவும்."
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-responding-to-messages.svg:59
+#: C/gs-thumb-responding-to-messages.svg:88
 #, no-wrap
 msgid "Thanks f"
 msgstr "நன்றி f"
 
 #. (itstool) path: text/tspan
 #. Translators: S stands for Sunday here
-#: C/gs-thumb-timezone.svg:64
+#: C/gs-thumb-timezone.svg:93
 #, no-wrap
 msgctxt "Sunday"
 msgid "S"
@@ -1852,14 +1950,14 @@ msgstr "S"
 
 #. (itstool) path: text/tspan
 #. Translators: M stands for Monday here
-#: C/gs-thumb-timezone.svg:65
+#: C/gs-thumb-timezone.svg:94
 #, no-wrap
 msgid "M"
 msgstr "M"
 
 #. (itstool) path: text/tspan
 #. Translators: T stands for Tuesday here
-#: C/gs-thumb-timezone.svg:66
+#: C/gs-thumb-timezone.svg:95
 #, no-wrap
 msgctxt "Tuesday"
 msgid "T"
@@ -1867,14 +1965,14 @@ msgstr "T"
 
 #. (itstool) path: text/tspan
 #. Translators: W stands for Wednesday here
-#: C/gs-thumb-timezone.svg:67
+#: C/gs-thumb-timezone.svg:96
 #, no-wrap
 msgid "W"
 msgstr "W"
 
 #. (itstool) path: text/tspan
 #. Translators: T stands for Thursday here
-#: C/gs-thumb-timezone.svg:68
+#: C/gs-thumb-timezone.svg:97
 #, no-wrap
 msgctxt "Thursday"
 msgid "T"
@@ -1882,159 +1980,159 @@ msgstr "T"
 
 #. (itstool) path: text/tspan
 #. Translators: F stands for Friday here
-#: C/gs-thumb-timezone.svg:69
+#: C/gs-thumb-timezone.svg:98
 #, no-wrap
 msgid "F"
 msgstr "F"
 
 #. (itstool) path: text/tspan
 #. Translators: S stands for Saturday here
-#: C/gs-thumb-timezone.svg:70
+#: C/gs-thumb-timezone.svg:99
 #, no-wrap
 msgctxt "Saturday"
 msgid "S"
 msgstr "S"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:79
+#: C/gs-thumb-timezone.svg:108
 #, no-wrap
 msgid "8"
 msgstr "8"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:80
+#: C/gs-thumb-timezone.svg:109
 #, no-wrap
 msgid "9"
 msgstr "9"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:81
+#: C/gs-thumb-timezone.svg:110
 #, no-wrap
 msgid "10"
 msgstr "10"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:82
+#: C/gs-thumb-timezone.svg:111
 #, no-wrap
 msgid "11"
 msgstr "11"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:83
+#: C/gs-thumb-timezone.svg:112
 #, no-wrap
 msgid "12"
 msgstr "12"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:84
+#: C/gs-thumb-timezone.svg:113
 #, no-wrap
 msgid "13"
 msgstr "13"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:85
+#: C/gs-thumb-timezone.svg:114
 #, no-wrap
 msgid "14"
 msgstr "14"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:87
+#: C/gs-thumb-timezone.svg:116
 #, no-wrap
 msgid "15"
 msgstr "15"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:88
+#: C/gs-thumb-timezone.svg:117
 #, no-wrap
 msgid "16"
 msgstr "16"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:89
+#: C/gs-thumb-timezone.svg:118
 #, no-wrap
 msgid "17"
 msgstr "17"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:90
+#: C/gs-thumb-timezone.svg:119
 #, no-wrap
 msgid "18"
 msgstr "18"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:91
+#: C/gs-thumb-timezone.svg:120
 #, no-wrap
 msgid "19"
 msgstr "19"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:92
+#: C/gs-thumb-timezone.svg:121
 #, no-wrap
 msgid "20"
 msgstr "20"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:93
+#: C/gs-thumb-timezone.svg:122
 #, no-wrap
 msgid "21"
 msgstr "21"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:95
+#: C/gs-thumb-timezone.svg:124
 #, no-wrap
 msgid "22"
 msgstr "22"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:96
+#: C/gs-thumb-timezone.svg:125
 #, no-wrap
 msgid "23"
 msgstr "23"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:97
+#: C/gs-thumb-timezone.svg:126
 #, no-wrap
 msgid "24"
 msgstr "24"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:98
+#: C/gs-thumb-timezone.svg:127
 #, no-wrap
 msgid "25"
 msgstr "25"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:99
+#: C/gs-thumb-timezone.svg:128
 #, no-wrap
 msgid "26"
 msgstr "26"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:100
+#: C/gs-thumb-timezone.svg:129
 #, no-wrap
 msgid "27"
 msgstr "27"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:101
+#: C/gs-thumb-timezone.svg:130
 #, no-wrap
 msgid "28"
 msgstr "28"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:103
+#: C/gs-thumb-timezone.svg:132
 #, no-wrap
 msgid "29"
 msgstr "29"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:104
+#: C/gs-thumb-timezone.svg:133
 #, no-wrap
 msgid "30"
 msgstr "30"
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:105
+#: C/gs-thumb-timezone.svg:134
 #, no-wrap
 msgid "31"
 msgstr "31"
@@ -2057,22 +2155,34 @@ msgid "Use the system search"
 msgstr "கணினி தேடலைப் பயன்படுத்து"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:28
+#: C/gs-use-system-search.page:26
+#| msgid ""
+#| "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
+#| "gnome-help/keyboard-key-super\">Super</key> key."
 msgid ""
-"Start typing to search. Results matching what you have typed will appear as "
-"you type."
+"Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key. Start typing to search."
 msgstr ""
-"தேட தட்டச்சு செய்யத் தொடங்கவும். நீங்கள் தட்டச்சு செய்த உரைக்குப் பொருந்தும் முடிவுகள் நீங்கள் "
-"தட்டச்சு செய்யும் போதே காண்பிக்கப்படும்."
+"<key href=\"help:gnome-help/keyboard-key-super\">Super</key> விசையை அழுத்தி "
+"<gui>செயல்பாடுகள் மேலோட்டம்</gui> ஐத் திறக்கவும். தேடுவதற்கு தட்டச்சு செய்யத் தொடங்கும்."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:30
+#: C/gs-use-system-search.page:29
 msgid ""
-"The first result is always highlighted and shown at the top. Press "
-"<key>Enter</key> to switch to the first highlighted result."
+"Results matching what you have typed will appear as you type. The first "
+"result is always highlighted and shown at the top."
 msgstr ""
-"எப்போதும் முதல் முடிவு தனிப்படுத்திக் காண்பிக்கப்பட்டு மேலே காண்பிக்கப்படும். முதல் "
-"தனிப்படுத்தப்பட்ட முடிவுக்கு மாற <key>Enter</key> ஐ அழுத்தவும்."
+"நீங்கள் தட்டச்சு செய்யும் போதே, நீங்கள் தட்டச்சு செய்த உரைக்குப் பொருந்தும் முடிவுகள் "
+"காண்பிக்கப்படும். முதல் முடிவு எப்போதும் தனிப்படுத்தப்பட்டு மேலே காண்பிக்கப்படும்."
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:31
+#| msgid ""
+#| "The first result is always highlighted and shown at the top. Press "
+#| "<key>Enter</key> to switch to the first highlighted result."
+msgid "Press <key>Enter</key> to switch to the first highlighted result."
+msgstr ""
+"தனிப்படுத்திக் காண்பிக்கப்படும் முதல் முடிவுக்கு மாற <key>Enter</key> ஐ அழுத்தவும்."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:36
@@ -2264,31 +2374,31 @@ msgid "Applications"
 msgstr "பயன்பாடுகள்"
 
 #. (itstool) path: text/tspan
-#: C/gs-web-browser2-firefox.svg:147 C/gs-web-browser2.svg:151
+#: C/gs-web-browser2-firefox.svg:147 C/gs-web-browser2.svg:153
 #, no-wrap
 msgid "gnome"
 msgstr "gnome"
 
 #. (itstool) path: text/tspan
-#: C/gs-web-browser2-firefox.svg:151 C/gs-web-browser2.svg:155
+#: C/gs-web-browser2-firefox.svg:151 C/gs-web-browser2.svg:157
 #, no-wrap
 msgid "Planet Gnome"
 msgstr "Planet Gnome"
 
 #. (itstool) path: text/tspan
-#: C/gs-web-browser2-firefox.svg:152 C/gs-web-browser2.svg:156
+#: C/gs-web-browser2-firefox.svg:152 C/gs-web-browser2.svg:158
 #, no-wrap
 msgid "GNOME 3"
 msgstr "GNOME 3"
 
 #. (itstool) path: text/tspan
-#: C/gs-web-browser2-firefox.svg:153 C/gs-web-browser2.svg:157
+#: C/gs-web-browser2-firefox.svg:153 C/gs-web-browser2.svg:159
 #, no-wrap
 msgid "http://planet.gnome.org"
 msgstr "http://planet.gnome.org"
 
 #. (itstool) path: text/tspan
-#: C/gs-web-browser2-firefox.svg:154 C/gs-web-browser2.svg:158
+#: C/gs-web-browser2-firefox.svg:154 C/gs-web-browser2.svg:160
 #, no-wrap
 msgid "http://gnome.org"
 msgstr "http://gnome.org"
@@ -2300,7 +2410,97 @@ msgid "planet.gnome.org"
 msgstr "planet.gnome.org"
 
 #. (itstool) path: text/tspan
-#: C/gs-web-browser2.svg:252
+#: C/gs-web-browser2.svg:247
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
+
+#~ msgid ""
+#~ "You can adjust the date and time by clicking on the arrows to choose the "
+#~ "hour, minute, and year."
+#~ msgstr ""
+#~ "மணி, நிமிடம் மற்றும் ஆண்டைத் தேர்வு செய்ய அம்புக்குறிகளைச் சொடுக்குவதன் மூலம் நீங்கள் "
+#~ "தேதியையும் நேரத்தையும் சரிசெய்யலாம்."
+
+#~ msgid ""
+#~ "You may need to click the <gui>Unlock</gui> button and type the "
+#~ "administrator's password."
+#~ msgstr ""
+#~ "நீங்கள் <gui>பூட்டுத்திற</gui> பொத்தானை சொடுக்கி, நிர்வாகி கடவுச்சொல்லைத் தட்டச்சு "
+#~ "செய்ய வேண்டி இருக்கலாம்."
+
+#~ msgid ""
+#~ "On the right-hand side of the window, you can adjust the date and time by "
+#~ "clicking on the arrows to choose the hour, minute, and year."
+#~ msgstr ""
+#~ "சாளரத்தின் வலது பக்கத்தில், மணி, நிமிடம் மற்றும் ஆண்டைத் தேர்வு செய்ய அம்புக்குறிகளைச் "
+#~ "சொடுக்குவதன் மூலம் தேதியையும் நேரத்தையும் சரிசெய்யலாம்."
+
+#~ msgid ""
+#~ "Close the window by clicking the cross at the top-right corner of the "
+#~ "window."
+#~ msgstr ""
+#~ "சாளரத்தின் மேல் வலது மூலையில் உள்ள கூட்டல் குறியைச் சொடுக்கி, சாளரத்தை மூடவும்."
+
+#~ msgid "Click your name on the top bar and select <gui>Settings</gui>."
+#~ msgstr ""
+#~ "மேல் பட்டியில் உங்கள் பெயரைச் சொடுக்கி, <gui>அமைவுகள்</gui> என்பதைத் தேர்ந்தெடுக்கவும்."
+
+#~ msgid "Click the image of your current wallpaper."
+#~ msgstr "உங்கள் நடப்பு சுவர்ச்சித்திரத்தின் படத்தைச் சொடுக்கவும்."
+
+#~ msgid "Click your name on the top bar."
+#~ msgstr "மேல் பட்டியில் உங்கள் பெயரைச் சொடுக்கவும்."
+
+#~ msgid "Select the <gui>Settings</gui> item."
+#~ msgstr "<gui>அமைவுகள்</gui> உருப்படியைத் தேர்ந்தெடுக்கவும்."
+
+#~ msgid "Click on the <gui>Add an online account</gui> button."
+#~ msgstr "<gui>ஒரு ஆன்லைன் கணக்கைச் சேர்</gui> பொத்தானைச் சொடுக்கவும்."
+
+#~ msgid ""
+#~ "Click the network connection icon to show more details about the status "
+#~ "of your network connection."
+#~ msgstr ""
+#~ "உங்கள் பிணைய இணைப்பின் நிலை பற்றிய கூடுதல் விவரங்களைக் காண்பிக்க பிணைய இணைப்பு "
+#~ "சின்னத்தை சொடுக்கவும்."
+
+#~ msgid "Connect to other types of networks"
+#~ msgstr "மற்ற வகை பிணையங்களுக்கு இணைக்கவும்"
+
+#~ msgid ""
+#~ "There are various types of network connections that you can use with your "
+#~ "computer, for example, mobile broadband, or wireless networks."
+#~ msgstr ""
+#~ "உங்கள் கணினியுடன் பயன்படுத்துவதற்கு பல்வேறு வகை பிணைய இணைப்புகள் உள்ளன, "
+#~ "எடுத்துக்காட்டுக்கு, மொபைல் ப்ராட்பேன்ட் அல்லது வயர்லெஸ் பிணையங்களைக் கூறலாம்."
+
+#~ msgid ""
+#~ "Depending on your computer hardware and the networks availability, you "
+#~ "can choose other connection types by clicking the network connection icon "
+#~ "on the right-hand side of the top bar and selecting the network "
+#~ "connection you want to connect to."
+#~ msgstr ""
+#~ "உங்கள் கணினி வன்பொருள் மற்றும் பிணையங்கள் கிடைக்கும் தன்மையைப் பொறுத்து, நீங்கள் மேல் "
+#~ "பட்டியில் வலது புறம் உள்ள பிணைய இணைப்பு சின்னத்தைச் சொடுக்கி, நீங்கள் இணைக்க விரும்பும் "
+#~ "பிணைய இணைப்பைத் தேர்ந்தெடுப்பதன் மூலம் நீங்கள் மற்ற இணைப்பு வகைகளைத் தேர்வு செய்து "
+#~ "கொள்ளலாம்."
+
+#~ msgid "Wired"
+#~ msgstr "கம்பியுள்ளது"
+
+#~ msgid "Cable unplugged"
+#~ msgstr "கேபிள் அகற்றப்பட்டது"
+
+#~ msgid "Mobile broadband"
+#~ msgstr "மொபைல் ப்ராட்பேன்ட்"
+
+#~ msgid "Weak"
+#~ msgstr "வலுவற்றது"
+
+#~ msgid ""
+#~ "Start typing to search. Results matching what you have typed will appear "
+#~ "as you type."
+#~ msgstr ""
+#~ "தேட தட்டச்சு செய்யத் தொடங்கவும். நீங்கள் தட்டச்சு செய்த உரைக்குப் பொருந்தும் முடிவுகள் "
+#~ "நீங்கள் தட்டச்சு செய்யும் போதே காண்பிக்கப்படும்."
