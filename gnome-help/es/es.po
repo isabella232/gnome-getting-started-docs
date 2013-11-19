@@ -23,8 +23,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-10-15 15:51+0000\n"
-"PO-Revision-Date: 2013-10-17 18:19+0200\n"
+"POT-Creation-Date: 2013-11-09 19:36+0000\n"
+"PO-Revision-Date: 2013-11-19 17:21+0100\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -503,7 +503,7 @@ msgstr "Mitad derecha de la pantalla"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:18 C/gs-go-online1.svg:241 C/gs-search1.svg:198
+#: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:198
 #: C/gs-search2.svg:154 C/gs-thumb-changing-wallpaper.svg:54
 #: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-responding-to-messages.svg:51
 #: C/gs-thumb-task-switching.svg:167 C/gs-thumb-timezone.svg:56
@@ -555,9 +555,8 @@ msgstr "Solo comience a escribir…"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:27 C/gs-go-online1.svg:239 C/gs-go-online1.svg:250
-#: C/gs-go-online1.svg:316 C/gs-go-online2.svg:235 C/gs-go-online2.svg:266
-#: C/gs-go-online3.svg:332 C/gs-thumb-responding-to-messages.svg:90
+#: C/gs-animation.xml:27 C/gs-go-online1.svg:249
+#: C/gs-thumb-responding-to-messages.svg:90
 #, no-wrap
 msgid "John Doe"
 msgstr "Juan Pérez"
@@ -822,15 +821,11 @@ msgstr "Pulse el reloj en la barra superior."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:41
-#| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
 msgid "Select <gui>Date &amp; Time Settings</gui>."
 msgstr "Seleccione <gui>Configuración de fecha y hora</gui>."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:44
-#| msgid ""
-#| "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, "
-#| "and then click the <gui>Time Zone</gui> item below."
 msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
 msgstr ""
 "Asegúrese de que el elemento <gui>Zona horaria automática</gui> está "
@@ -838,7 +833,6 @@ msgstr ""
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:48
-#| msgid "Click the <gui>Select</gui> button."
 msgid "Click <gui>Time Zone</gui>."
 msgstr "Pulse en <gui>Zona horaria</gui>."
 
@@ -849,7 +843,6 @@ msgstr "Pulse en su ubicación en el mapa."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:54
-#| msgid "Click the <gui>Select</gui> button."
 msgid "Click <gui>Close</gui>."
 msgstr "Pulse <gui>Cerrar</gui>."
 
@@ -1109,12 +1102,15 @@ msgstr "Conectarse a Internet"
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:24
+#| msgid ""
+#| "You can see the status of your network connection on the right-hand side "
+#| "of the top bar, next to your name."
 msgid ""
 "You can see the status of your network connection on the right-hand side of "
-"the top bar, next to your name."
+"the top bar."
 msgstr ""
-"El estado de su conexión de red aparece en el lado derecho de la barra "
-"superior, al lado de su nombre."
+"Puede ver el estado de su conexión de red en el lado derecho de la barra "
+"superior."
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:30
@@ -1132,27 +1128,23 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:37
-msgid ""
-"Click the network connection icon to show more details about the status of "
-"your network connection."
-msgstr ""
-"Pulse el icono de conexión de red para mostrar más detalles sobre el estado "
-"de su conexión de red."
-
-#. (itstool) path: item/p
-#: C/gs-get-online.page:39
+#| msgid ""
+#| "The off-line status can be caused by a number of reasons: for example, a "
+#| "network cable has been unplugged, the computer has been set to run in "
+#| "<em>airplane mode</em>, or there are no available wireless networks in "
+#| "your area."
 msgid ""
 "The off-line status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
-"<em>airplane mode</em>, or there are no available wireless networks in your "
+"<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
 msgstr ""
 "Existen varias razones por las que el estado es desconectado. Por ejemplo, "
 "el cable de red está desenchufado, se ha configurado el equipo en <em>modo "
-"avión</em> o no existen redes de conexión inalámbrica disponibles en su área."
+"avión</em> o no existen redes inalámbricas disponibles en su área."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:48
+#: C/gs-get-online.page:41
 msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
@@ -1163,7 +1155,7 @@ msgstr ""
 "automática."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:52
+#: C/gs-get-online.page:44
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
@@ -1172,7 +1164,7 @@ msgstr ""
 "red muestra tres puntos."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:54
+#: C/gs-get-online.page:46
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to the networked computer symbol."
@@ -1181,36 +1173,51 @@ msgstr ""
 "red cambiará al símbolo de equipo en red."
 
 #. (itstool) path: section/title
-#: C/gs-get-online.page:62
-msgid "Connect to other types of networks"
-msgstr "Conectarse a otros tipos de redes"
+#: C/gs-get-online.page:54
+#| msgid "Connect to a wired network"
+msgid "Connect to a Wi-Fi network"
+msgstr "Conectarse a una red inalámbrica"
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:67
+#: C/gs-get-online.page:59
 msgid ""
-"There are various types of network connections that you can use with your "
-"computer, for example, mobile broadband, or wireless networks."
+"To connect to a Wi-Fi (wireless) network, click the status menu at the top "
+"right of the screen, and then click <gui>Select Network</gui>."
 msgstr ""
-"Existen varios tipos de conexiones de red que puede utilizar con su equipo; "
-"por ejemplo, banda ancha móvil o conexiones inalámbricas."
+"Para conectarse a una red inalámbrica (Wi-Fi), pulse en el menú de estado en "
+"la parte derecha de la pantalla y luego pulse en <gui>Seleccionar red</gui>."
+
+#. (itstool) path: note/p
+#: C/gs-get-online.page:65
+msgid ""
+"You can only connect to a Wi-Fi network if your computer hardware supports "
+"it and you are in an area with Wi-Fi coverage."
+msgstr ""
+"Sólo puede conectarse a una red inalámbrica si el hardware de su equipo lo "
+"soporta y si está en el área de cobertura de la red inalámbrica."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:70
+#: C/gs-get-online.page:72
 msgid ""
-"Depending on your computer hardware and the networks availability, you can "
-"choose other connection types by clicking the network connection icon on the "
-"right-hand side of the top bar and selecting the network connection you want "
-"to connect to."
+"From the list of available Wi-Fi networks, select the network you want to "
+"connect to, and click <gui>Connect</gui> to confirm."
 msgstr ""
-"Dependiendo del soporte físico de su equipo y la disponibilidad de las "
-"redes, puede elegir otros tipos de conexión pulsando el icono de conexión de "
-"red que está en el lado derecho de la barra superior y seleccionando la "
-"conexión de red a la que quiera conectarse."
+"Seleccione la red a la que quiere conectarse en la lista de redes "
+"disponibles y pulse <gui>Conectar</gui> para confirmar."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:74
+msgid ""
+"Depending on the network configuration, you may be prompted for network "
+"credentials."
+msgstr ""
+"Dependiendo de la configuración de la red, se le pedirán credenciales para "
+"conectarse."
 
 #. (itstool) path: Work/format
 #: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
-#: C/gs-goa5.svg:48 C/gs-go-online1.svg:220 C/gs-go-online2.svg:219
-#: C/gs-go-online3.svg:256 C/gs-search1.svg:97 C/gs-search2.svg:133
+#: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
+#: C/gs-go-online3.svg:293 C/gs-search1.svg:97 C/gs-search2.svg:133
 #: C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:39
 #: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36
 #: C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
@@ -1222,7 +1229,7 @@ msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:80 C/gs-go-online1.svg:232 C/gs-go-online3.svg:269
+#: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
 #: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101
 #: C/gs-thumb-timezone.svg:135 C/gs-web-browser1-firefox-classic.svg:115
 #: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
@@ -1231,18 +1238,17 @@ msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:84 C/gs-go-online1.svg:283 C/gs-search2.svg:145
-#: C/gs-thumb-timezone.svg:102 C/gs-thumb-timezone.svg:136
-#: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
-#: C/gs-web-browser1.svg:153
+#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:306
+#: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102
+#: C/gs-thumb-timezone.svg:136 C/gs-web-browser1-firefox-classic.svg:137
+#: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
 msgstr "2"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:50 C/gs-go-online2.svg:231 C/gs-thumb-timezone.svg:103
-#: C/gs-thumb-timezone.svg:137 C/gs-web-browser2-firefox.svg:164
-#: C/gs-web-browser2.svg:165
+#: C/gs-goa2.svg:50 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
+#: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
 #, no-wrap
 msgid "3"
 msgstr "3"
@@ -1273,7 +1279,7 @@ msgid "Add Account"
 msgstr "Agregar una cuenta"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90
+#: C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:343
 #, no-wrap
 msgid "Cancel"
 msgstr "Cancelar"
@@ -1419,15 +1425,14 @@ msgstr "Documentos"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121
-#: C/gs-goa5.svg:122 C/gs-go-online3.svg:288 C/gs-search-settings.svg:155
-#: C/gs-search-settings.svg:272 C/gs-search-settings.svg:279
-#: C/gs-search-settings.svg:286
+#: C/gs-goa5.svg:122 C/gs-search-settings.svg:155 C/gs-search-settings.svg:272
+#: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
 #, no-wrap
 msgid "ON"
 msgstr "I"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:240 C/gs-search1.svg:196 C/gs-search2.svg:152
+#: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
 #: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
 #: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
 #: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
@@ -1436,59 +1441,80 @@ msgid "14:30"
 msgstr "14:30"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:287 C/gs-go-online3.svg:274
-#, no-wrap
-msgid "Network Settings"
-msgstr "Configuración de red"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:288 C/gs-go-online3.svg:275
-#, no-wrap
-msgid "Wired"
-msgstr "Cableada"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:289 C/gs-go-online3.svg:276
-#, no-wrap
-msgid "Cable unplugged"
-msgstr "Cable desconectado"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:290 C/gs-go-online3.svg:277
-#, no-wrap
-msgid "Mobile broadband"
-msgstr "Banda ancha móvil"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:292 C/gs-go-online1.svg:301 C/gs-go-online3.svg:279
-#: C/gs-search-settings.svg:293
-#, no-wrap
-msgid "OFF"
-msgstr "O"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:299 C/gs-go-online3.svg:286
+#: C/gs-go-online2.svg:328
 #, no-wrap
 msgid "Wi-Fi"
 msgstr "Inalámbrica"
 
 #. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
+#, no-wrap
+msgid "homenetwork"
+msgstr "Red de casa"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:338
+#, no-wrap
+#| msgid "Select"
+msgid "Select Network"
+msgstr "Seleccionar red"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:339
+#, no-wrap
+msgid "Turn Off"
+msgstr "Apagar"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:340
+#, no-wrap
+msgid "Network Settings"
+msgstr "Configuración de red"
+
+#. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:309
 #, no-wrap
-msgid "Wireless"
-msgstr "Conexión inalámbrica"
+msgid "Wi-Fi Networks"
+msgstr "Redes inalámbricas"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:310
+#: C/gs-go-online3.svg:313
 #, no-wrap
-msgid "Private"
-msgstr "Privada"
+msgid "Connect"
+msgstr "Conectar"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:311
+#: C/gs-go-online3.svg:316
 #, no-wrap
-msgid "Weak"
-msgstr "Débil"
+#| msgid "Wireless"
+msgid "wireless"
+msgstr "inalámbrica1"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:317
+#, no-wrap
+msgid "netgear"
+msgstr "inalámbrica2"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:318
+#, no-wrap
+msgid "weak"
+msgstr "inalámbrica3"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:319
+#, no-wrap
+#| msgid "Private"
+msgid "private"
+msgstr "privada"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:320
+#, no-wrap
+#| msgid "Connect to a wired network"
+msgid "Select a network"
+msgstr "Seleccionar una red"
 
 #. (itstool) path: info/title
 #: C/gs-launch-applications.page:18
@@ -1778,6 +1804,12 @@ msgstr "Fotografías"
 #, no-wrap
 msgid "Music"
 msgstr "Música"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:293
+#, no-wrap
+msgid "OFF"
+msgstr "O"
 
 #. (itstool) path: info/title
 #: C/gs-switch-tasks.page:17
@@ -2402,6 +2434,46 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planeta GNOME"
+
+#~ msgid ""
+#~ "Click the network connection icon to show more details about the status "
+#~ "of your network connection."
+#~ msgstr ""
+#~ "Pulse el icono de conexión de red para mostrar más detalles sobre el "
+#~ "estado de su conexión de red."
+
+#~ msgid "Connect to other types of networks"
+#~ msgstr "Conectarse a otros tipos de redes"
+
+#~ msgid ""
+#~ "There are various types of network connections that you can use with your "
+#~ "computer, for example, mobile broadband, or wireless networks."
+#~ msgstr ""
+#~ "Existen varios tipos de conexiones de red que puede utilizar con su "
+#~ "equipo; por ejemplo, banda ancha móvil o conexiones inalámbricas."
+
+#~ msgid ""
+#~ "Depending on your computer hardware and the networks availability, you "
+#~ "can choose other connection types by clicking the network connection icon "
+#~ "on the right-hand side of the top bar and selecting the network "
+#~ "connection you want to connect to."
+#~ msgstr ""
+#~ "Dependiendo del soporte físico de su equipo y la disponibilidad de las "
+#~ "redes, puede elegir otros tipos de conexión pulsando el icono de conexión "
+#~ "de red que está en el lado derecho de la barra superior y seleccionando "
+#~ "la conexión de red a la que quiera conectarse."
+
+#~ msgid "Wired"
+#~ msgstr "Cableada"
+
+#~ msgid "Cable unplugged"
+#~ msgstr "Cable desconectado"
+
+#~ msgid "Mobile broadband"
+#~ msgstr "Banda ancha móvil"
+
+#~ msgid "Weak"
+#~ msgstr "Débil"
 
 #~ msgid ""
 #~ "Click the <gui>Time Zone</gui> item, and then click on your location on "
