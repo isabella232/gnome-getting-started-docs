@@ -2,7 +2,7 @@
 
 HELP_ID = gnome-help
 
-HELP_LINGUAS = as ca cs de el es fr gl gu hu id it ja lv mr pa pl pt_BR ru sk ta te kn
+HELP_LINGUAS = as ca cs de el es fr gl gu hu id it ja kn lv mr pa pl pt_BR ru sk ta
 
 HELP_MEDIA = \
 	figures/gnome-change-wallpaper.webm \
