@@ -2,297 +2,335 @@
 # Copyright (C) 2013 gnome-getting-started-docs's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-getting-started-docs package.
 # Andika Triwidada <andika@gmail.com>, 2013.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-12-13 12:44+0000\n"
-"PO-Revision-Date: 2013-12-16 19:06+0700\n"
+"POT-Creation-Date: 2013-12-19 10:12+0000\n"
+"PO-Revision-Date: 2013-12-25 03:32+0700\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <gnome@i15n.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Project-Style: gnome\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
 msgstr "Andika Triwidada <andika@gmail.com>, 2013"
 
-#. (itstool) path: page/title
-#. (itstool) path: titles/t
-#: C/index.page:7 C/getting-started.page:16 C/gs-animation.xml:5
+#: C/index.page:7(page/title) C/getting-started.page:16(page/title)
+#: C/gs-animation.xml:5(titles/t)
 msgid "Getting Started"
 msgstr "Memulai"
 
-#. (itstool) path: info/desc
-#: C/getting-started.page:11
-msgid "New to GNOME? Learn how to get around."
-msgstr ""
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/getting-started.page:23(media) C/gs-launch-applications.page:24(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-launching-applications.webm' "
+"md5='53d8153cc527633f622a60fd969df40b'"
+msgstr "-"
 
-#. (itstool) path: info/title
-#: C/getting-started.page:12
-#, fuzzy
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/getting-started.page:64(media) C/gs-use-windows-workspaces.page:23(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-windows-and-workspaces.webm' "
+"md5='c63a0887b51fba338c4a4711af9b9011'"
+msgstr "-"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/getting-started.page:144(media) C/gs-switch-tasks.page:27(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-task-switching.webm' "
+"md5='71e1e12fa2083f95c43194e974164fd6'"
+msgstr "-"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#.
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/getting-started.page:210(media) C/gs-respond-messages.page:23(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-responding-to-messages.webm' "
+"md5='b457055f8ae820b33f1d8bd5d9842067'"
+msgstr "-"
+
+#: C/getting-started.page:11(info/desc)
+msgid "New to GNOME? Learn how to get around."
+msgstr "Baru kenal GNOME? Pelajari bagaimana memakainya."
+
+#: C/getting-started.page:12(info/title)
 msgctxt "link"
 msgid "Getting Started with GNOME"
-msgstr "Memulai"
+msgstr "Mulai Memakai GNOME"
 
-#. (itstool) path: info/title
-#: C/getting-started.page:13
+#: C/getting-started.page:13(info/title)
 msgctxt "text"
 msgid "Getting Started"
-msgstr "Memulai"
+msgstr "Mulai Memakai"
 
-#. (itstool) path: caption/desc
-#. (itstool) path: page/title
-#: C/getting-started.page:25 C/gs-launch-applications.page:21
+#: C/getting-started.page:25(caption/desc)
+#: C/gs-launch-applications.page:21(page/title)
 msgid "Launch applications"
 msgstr "Meluncurkan aplikasi"
 
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:30 C/gs-animation.xml:4
-#: C/gs-launch-applications.page:29
+#: C/getting-started.page:30(div/p) C/gs-animation.xml:4(titles/t)
+#: C/gs-launch-applications.page:29(div/p)
 msgid "Launching Applications"
 msgstr "Meluncurkan Aplikasi"
 
-#. (itstool) path: div/p
-#: C/getting-started.page:33 C/getting-started.page:154
-#: C/gs-launch-applications.page:32 C/gs-switch-tasks.page:35
-#, fuzzy
+#: C/getting-started.page:33(div/p) C/getting-started.page:154(div/p)
+#: C/gs-launch-applications.page:32(div/p) C/gs-switch-tasks.page:35(div/p)
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen."
 msgstr ""
 "Pindahkan penunjuk tetikus Anda ke pojok <gui>Aktivitas</gui> di kiri atas "
-"layar untuk menampilkan <gui>Ringkasan Aktivitas</gui>."
+"layar."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:37 C/gs-launch-applications.page:36
-#, fuzzy
+#: C/getting-started.page:37(div/p) C/gs-launch-applications.page:36(div/p)
 msgid "Click the <gui>Show Applications</gui> icon."
-msgstr "Klik tombol <gui>Pilih</gui>."
+msgstr "Klik ikon <gui>Tampilkan Aplikasi</gui>."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:40 C/gs-launch-applications.page:39
-#, fuzzy
+#: C/getting-started.page:40(div/p) C/gs-launch-applications.page:39(div/p)
 msgid "Click the application you want to run, for example, Help."
-msgstr ""
-"Suatu daftar aplikasi ditampilkan. Klik aplikasi yang ingin Anda jalankan, "
-"sebagai contoh, Bantuan."
+msgstr "Klik aplikasi yang ingin Anda jalankan, sebagai contoh, Bantuan."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:44 C/gs-launch-applications.page:43
-#, fuzzy
+#: C/getting-started.page:44(div/p) C/gs-launch-applications.page:43(div/p)
 msgid ""
 "Alternatively, use the keyboard to open the <gui>Activities Overview</gui> "
 "by pressing the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
 "key."
 msgstr ""
-"Buka <gui>Ringkasan Aktivitas</gui> dengan menekan tombol <key>Super</key>."
+"Sebagai alternatif, gunakan papan tik untuk membuka <gui>Ringkasan "
+"Aktivitas</gui> dengan menekan tombol <key href=\"help:gnome-help/keyboard-"
+"key-super\">Super</key>."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:49 C/gs-launch-applications.page:48
-#, fuzzy
+#: C/getting-started.page:49(div/p) C/gs-launch-applications.page:48(div/p)
 msgid "Start typing the name of the application you want to launch."
-msgstr "Mulailah mengetik nama aplikasi seketika."
+msgstr "Mulailah mengetik nama aplikasi yang ingin Anda luncurkan."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:53 C/gs-launch-applications.page:52
-#, fuzzy
+#: C/getting-started.page:53(div/p) C/gs-launch-applications.page:52(div/p)
 msgid "Press <key>Enter</key> to launch the application."
-msgstr "Tekan <key>Esc</key> untuk menutup pesan obrolan."
+msgstr "Tekan <key>Enter</key> untuk meluncurkan aplikasi."
 
-#. (itstool) path: caption/desc
-#. (itstool) path: page/title
-#: C/getting-started.page:66 C/gs-use-windows-workspaces.page:20
+#: C/getting-started.page:66(caption/desc)
+#: C/gs-use-windows-workspaces.page:20(page/title)
 msgid "Use windows and workspaces"
 msgstr "Memakai jendela dan area kerja"
 
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:71 C/gs-animation.xml:10
-#: C/gs-use-windows-workspaces.page:28
+#: C/getting-started.page:71(div/p) C/gs-animation.xml:10(titles/t)
+#: C/gs-use-windows-workspaces.page:28(div/p)
 msgid "Windows and Workspaces"
 msgstr "Jendela dan Area Kerja"
 
-#. (itstool) path: div/p
-#: C/getting-started.page:74 C/gs-use-windows-workspaces.page:31
-#, fuzzy
+#: C/getting-started.page:74(div/p) C/gs-use-windows-workspaces.page:31(div/p)
 msgid ""
 "To maximize a window, grab the window's titlebar and drag it to the top of "
 "the screen."
 msgstr ""
-"Untuk memaksimalkan suatu jendela sepanjang sisi layar, tangkap bilah judul "
-"jendela dan seretlah ke sisi kiri atau kanan layar."
+"Untuk memaksimalkan suatu jendela, tangkap bilah judul jendela dan seretlah "
+"ke puncak layar."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:78 C/gs-use-windows-workspaces.page:35
+#: C/getting-started.page:78(div/p) C/gs-use-windows-workspaces.page:35(div/p)
 msgid "When the screen is highlighted, release the window."
-msgstr ""
+msgstr "Ketika layar disorot, lepaskan jendela."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:81 C/gs-use-windows-workspaces.page:38
-#, fuzzy
+#: C/getting-started.page:81(div/p) C/gs-use-windows-workspaces.page:38(div/p)
 msgid ""
 "To unmaximize a window, grab the window's titlebar and drag it away from the "
 "edges of the screen."
 msgstr ""
-"Untuk memaksimalkan suatu jendela sepanjang sisi layar, tangkap bilah judul "
-"jendela dan seretlah ke sisi kiri atau kanan layar."
+"Untuk tak memaksimalkan suatu jendela, tangkap bilah judul jendela dan "
+"jauhkan dari puncak layar."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:85 C/gs-use-windows-workspaces.page:42
+#: C/getting-started.page:85(div/p) C/gs-use-windows-workspaces.page:42(div/p)
 msgid ""
 "You can also click the top bar to drag the window away and unmaximize it."
 msgstr ""
+"Anda juga dapat mengklik pada bilah puncak untuk menyeret pergi jendela dan "
+"tak memaksimalkannya."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:89 C/getting-started.page:161
-#: C/gs-switch-tasks.page:42 C/gs-use-windows-workspaces.page:46
-#, fuzzy
+#: C/getting-started.page:89(div/p) C/getting-started.page:161(div/p)
+#: C/gs-switch-tasks.page:42(div/p) C/gs-use-windows-workspaces.page:46(div/p)
 msgid ""
 "To maximize a window along the left side of the screen, grab the window's "
 "titlebar and drag it to the left."
 msgstr ""
-"Untuk memaksimalkan suatu jendela sepanjang sisi layar, tangkap bilah judul "
-"jendela dan seretlah ke sisi kiri atau kanan layar."
+"Untuk memaksimalkan suatu jendela sepanjang sisi kiri layar, tangkap bilah "
+"judul jendela dan seretlah ke sisi kiri."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:93 C/getting-started.page:101
-#: C/getting-started.page:165 C/getting-started.page:173
-#: C/gs-switch-tasks.page:46 C/gs-switch-tasks.page:54
-#: C/gs-use-windows-workspaces.page:50 C/gs-use-windows-workspaces.page:58
-#, fuzzy
+#: C/getting-started.page:93(div/p) C/getting-started.page:101(div/p)
+#: C/getting-started.page:165(div/p) C/getting-started.page:173(div/p)
+#: C/gs-switch-tasks.page:46(div/p) C/gs-switch-tasks.page:54(div/p)
+#: C/gs-use-windows-workspaces.page:50(div/p)
+#: C/gs-use-windows-workspaces.page:58(div/p)
 msgid "When half of the screen is highlighted, release the window."
-msgstr ""
-"Ketika separuh layar sedang disorot, jatuhkan jendela untuk memaksimalkannya "
-"sepanjang sisi layar yang dipilih."
+msgstr "Ketika separuh layar sedang disorot, jatuhkan jendela."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:97 C/gs-use-windows-workspaces.page:54
-#, fuzzy
+#: C/getting-started.page:97(div/p) C/gs-use-windows-workspaces.page:54(div/p)
 msgid ""
 "To maximize a window along the right side of the screen, grab the window's "
 "titlebar and drag it to the right."
 msgstr ""
-"Untuk memaksimalkan suatu jendela sepanjang sisi layar, tangkap bilah judul "
-"jendela dan seretlah ke sisi kiri atau kanan layar."
+"Untuk memaksimalkan suatu jendela sepanjang sisi kanan layar, tangkap bilah "
+"judul jendela dan seretlah ke sisi kanan."
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:105 C/gs-use-windows-workspaces.page:62
-#: C/gs-use-windows-workspaces.page:133
+#: C/getting-started.page:105(div/p)
+#: C/gs-use-windows-workspaces.page:62(div/p)
+#: C/gs-use-windows-workspaces.page:133(item/p)
 msgid ""
 "To maximize a window using the keyboard, hold down the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
 msgstr ""
+"Untuk memaksimalkan suatu jendela memakai papan tik, tahan tombol <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key> dan tekan <key>↑</key>."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:110 C/gs-use-windows-workspaces.page:67
+#: C/getting-started.page:110(div/p)
+#: C/gs-use-windows-workspaces.page:67(div/p)
 msgid ""
 "To restore the window to its unmaximized size, hold down the <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
 "key>."
 msgstr ""
+"Untuk mengembalikan jendela ke ukuran semula yang tidak termaksimalkan, "
+"tahan tombol <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
+"dan tekan <key>↓</key>."
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:115 C/gs-use-windows-workspaces.page:72
-#: C/gs-use-windows-workspaces.page:147
+#: C/getting-started.page:115(div/p)
+#: C/gs-use-windows-workspaces.page:72(div/p)
+#: C/gs-use-windows-workspaces.page:147(item/p)
 msgid ""
 "To maximize a window along the right side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
 "<key>→</key>."
 msgstr ""
+"Untuk memaksimalkan suatu jendela sepanjang sisi kanan layar, tahan tombol "
+"<key href=\"help:gnome-help/keyboard-key-super\">Super</key> dan tekan "
+"<key>→</key>."
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:120 C/gs-use-windows-workspaces.page:77
-#: C/gs-use-windows-workspaces.page:150
+#: C/getting-started.page:120(div/p)
+#: C/gs-use-windows-workspaces.page:77(div/p)
+#: C/gs-use-windows-workspaces.page:150(item/p)
 msgid ""
 "To maximize a window along the left side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
 "<key>←</key>."
 msgstr ""
+"Untuk memaksimalkan suatu jendela sepanjang sisi kiri layar, tahan tombol "
+"<key href=\"help:gnome-help/keyboard-key-super\">Super</key> dan tekan "
+"<key>←</key>."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:125 C/gs-use-windows-workspaces.page:82
+#: C/getting-started.page:125(div/p)
+#: C/gs-use-windows-workspaces.page:82(div/p)
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
 "key><key>Page Down</key></keyseq>."
 msgstr ""
+"Untuk berpindah ke suatu ruang kerja yang berada di bawah ruang kerja saat "
+"ini, tekan tombol <key href=\"help:gnome-help/keyboard-key-super\">Super</"
+"key><key>Page Down</key></keyseq>."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:130 C/gs-use-windows-workspaces.page:87
+#: C/getting-started.page:130(div/p)
+#: C/gs-use-windows-workspaces.page:87(div/p)
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
 "key><key>Page Up</key></keyseq>."
 msgstr ""
+"Untuk berpindah ke suatu ruang kerja yang berada di atas ruang kerja saat "
+"ini, tekan tombol <key href=\"help:gnome-help/keyboard-key-super\">Super</"
+"key><key>Page Up</key></keyseq>."
 
-#. (itstool) path: caption/desc
-#. (itstool) path: page/title
-#. (itstool) path: section/title
-#: C/getting-started.page:146 C/gs-switch-tasks.page:21
-#: C/gs-switch-tasks.page:95
-#, fuzzy
+#: C/getting-started.page:146(caption/desc)
+#: C/gs-switch-tasks.page:21(page/title)
+#: C/gs-switch-tasks.page:95(section/title)
 msgid "Switch tasks"
-msgstr "Bertukar tugas"
+msgstr "Berganti tugas"
 
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:151 C/gs-animation.xml:8 C/gs-switch-tasks.page:32
+#: C/getting-started.page:151(div/p) C/gs-animation.xml:8(titles/t)
+#: C/gs-switch-tasks.page:32(div/p)
 msgid "Switching Tasks"
-msgstr "Bertukar Tugas"
+msgstr "Berganti Tugas"
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:158 C/gs-switch-tasks.page:39
-#: C/gs-switch-tasks.page:104
-#, fuzzy
+#: C/getting-started.page:158(div/p) C/gs-switch-tasks.page:39(div/p)
+#: C/gs-switch-tasks.page:104(item/p)
 msgid "Click a window to switch to that task."
-msgstr "Klik suatu jendela bertukar tugas."
+msgstr "Klik suatu jendela untuk bertukar ke tugas tersebut."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:169 C/gs-switch-tasks.page:50
-#, fuzzy
+#: C/getting-started.page:169(div/p) C/gs-switch-tasks.page:50(div/p)
 msgid ""
 "To maximize a window along the right side, grab the window's titlebar and "
 "drag it to the right."
 msgstr ""
-"Untuk memaksimalkan suatu jendela sepanjang sisi layar, tangkap bilah judul "
-"jendela dan seretlah ke sisi kiri atau kanan layar."
+"Untuk memaksimalkan suatu jendela sepanjang sisi kanan layar, tangkap bilah "
+"judul jendela dan seretlah ke sisi kanan."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:177 C/gs-switch-tasks.page:58
+#: C/getting-started.page:177(div/p) C/gs-switch-tasks.page:58(div/p)
 msgid ""
 "Press <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
 "key><key> Tab</key></keyseq> to show the <gui>window switcher</gui>."
 msgstr ""
+"Tekan <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
+"key><key> Tab</key></keyseq> untuk menampilkan <gui>penukar jendela</gui>."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:182 C/gs-switch-tasks.page:63
+#: C/getting-started.page:182(div/p) C/gs-switch-tasks.page:63(div/p)
 msgid ""
 "Release <key href=\"help:gnome-help/keyboard-key-super\">Super </key> to "
 "select the next highlighted window."
 msgstr ""
+"Lepaskan <key href=\"help:gnome-help/keyboard-key-super\">Super </key> untuk "
+"memilih jendela tersorot berikutnya."
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:187 C/gs-switch-tasks.page:68
-#: C/gs-switch-tasks.page:149
+#: C/getting-started.page:187(div/p) C/gs-switch-tasks.page:68(div/p)
+#: C/gs-switch-tasks.page:149(item/p)
 msgid ""
 "To cycle through the list of open windows, do not release <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> but hold it down, and press "
 "<key>Tab</key>."
 msgstr ""
+"Untuk menggilir melalui daftar dari jendela yang terbuka, jangan melepas "
+"<key href=\"help:gnome-help/keyboard-key-super\">Super</key> tapi tahanlah "
+"itu, dan tekan <key>Tab</key>."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:192 C/gs-switch-tasks.page:73
+#: C/getting-started.page:192(div/p) C/gs-switch-tasks.page:73(div/p)
 msgid ""
 "Press the <key href=\"help:gnome-help/keyboard-key-super\">Super </key> key "
 "to show the <gui>Activities Overview</gui>."
@@ -300,50 +338,38 @@ msgstr ""
 "Tekan tombol <key href=\"help:gnome-help/keyboard-key-super\">Super </key> "
 "untuk menampilkan <gui>Ringkasan Aktivitas</gui>."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:196 C/gs-switch-tasks.page:77
-#, fuzzy
+#: C/getting-started.page:196(div/p) C/gs-switch-tasks.page:77(div/p)
 msgid "Start typing the name of the application you want to switch to."
-msgstr "Mulailah mengetik nama aplikasi seketika."
+msgstr "Mulailah mengetik nama aplikasi yang ingin Anda tuju."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:200 C/gs-switch-tasks.page:81
-#, fuzzy
+#: C/getting-started.page:200(div/p) C/gs-switch-tasks.page:81(div/p)
 msgid ""
 "When the application appears as the first result, press <key> Enter</key> to "
 "switch to it."
 msgstr ""
 "Ketika ikon aplikasi muncul sebagai hasil pertama, tekan <key>Enter</key> "
-"untuk mengaktifkan jendelanya yang terakhir dipakai."
+"untuk bertukar kesana."
 
-#. (itstool) path: caption/desc
-#. (itstool) path: page/title
-#: C/getting-started.page:212 C/gs-respond-messages.page:20
+#: C/getting-started.page:212(caption/desc)
+#: C/gs-respond-messages.page:20(page/title)
 msgid "Respond to messages"
 msgstr "Merespon ke pesan"
 
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:218 C/gs-animation.xml:7
-#: C/gs-respond-messages.page:28
+#: C/getting-started.page:218(div/p) C/gs-animation.xml:7(titles/t)
+#: C/gs-respond-messages.page:28(div/p)
 msgid "Responding to Messages"
 msgstr "Merespon ke Pesan"
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:221 C/gs-respond-messages.page:31
-#: C/gs-respond-messages.page:90
-#, fuzzy
+#: C/getting-started.page:221(div/p) C/gs-respond-messages.page:31(div/p)
+#: C/gs-respond-messages.page:90(item/p)
 msgid ""
 "Move your mouse to the message tray at the bottom of the screen and click "
 "the chat message."
 msgstr ""
-"Gerakkan penunjuk tetikus Anda ke baki pesan yang dapat ditemukan di dasar "
-"layar dan klik pesan obrolan tersebut."
+"Gerakkan penunjuk tetikus Anda ke baki pesan di dasar layar dan klik pesan "
+"obrolan tersebut."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:225 C/gs-respond-messages.page:35
-#, fuzzy
+#: C/getting-started.page:225(div/p) C/gs-respond-messages.page:35(div/p)
 msgid ""
 "Start typing your reply and when finished, press <key>Enter </key> to send "
 "the reply."
@@ -351,319 +377,288 @@ msgstr ""
 "Mulailah mengetikkan jawaban Anda dan ketika selesai, tekan <key>Enter</key> "
 "untuk mengirim jawaban."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:229 C/getting-started.page:250
-#: C/gs-respond-messages.page:39 C/gs-respond-messages.page:60
+#: C/getting-started.page:229(div/p) C/getting-started.page:250(div/p)
+#: C/gs-respond-messages.page:39(div/p) C/gs-respond-messages.page:60(div/p)
 msgid "Close the chat message."
 msgstr "Tutup pesan obrolan."
 
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:232 C/gs-animation.xml:9
-#: C/gs-respond-messages.page:42
+#: C/getting-started.page:232(div/p) C/gs-animation.xml:9(titles/t)
+#: C/gs-respond-messages.page:42(div/p)
 msgid "Delayed Response"
 msgstr "Respon Tertunda"
 
-#. (itstool) path: div/p
-#: C/getting-started.page:235 C/gs-respond-messages.page:45
-#, fuzzy
+#: C/getting-started.page:235(div/p) C/gs-respond-messages.page:45(div/p)
 msgid ""
 "A chat message in the message tray disappears after a while if you do not "
 "move your mouse to the message tray."
 msgstr ""
-"Ketika suatu pesan obrolan muncul di baki pesan dan Anda tak menggerakkan "
-"tetikus Anda ke baki pesan, pesan lenyap setelah beberapa saat."
+"Suatu pesan obrolan di baki pesan lenyap setelah beberapa saat bila Anda tak "
+"menggerakkan tetikus Anda ke baki pesan."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:239 C/gs-respond-messages.page:49
-#, fuzzy
+#: C/getting-started.page:239(div/p) C/gs-respond-messages.page:49(div/p)
 msgid ""
 "To get back to your unanswered message, move your mouse to the message tray."
 msgstr ""
-"Untuk mendapat kembali pesan Anda yang belum terjawab, gerakkan tetikus Anda "
-"ke baki pesan di bagian paling dasar layar."
+"Untuk mendapatkan kembali pesan Anda yang belum terjawab, gerakkan tetikus "
+"Anda ke baki pesan."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:243 C/gs-respond-messages.page:53
+#: C/getting-started.page:243(div/p) C/gs-respond-messages.page:53(div/p)
 msgid "Click the person who sent you the message."
-msgstr ""
+msgstr "Klik orang yang ingin Anda kirimi pesan."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:246 C/getting-started.page:262
-#: C/gs-respond-messages.page:56 C/gs-respond-messages.page:72
-#, fuzzy
+#: C/getting-started.page:246(div/p) C/getting-started.page:262(div/p)
+#: C/gs-respond-messages.page:56(div/p) C/gs-respond-messages.page:72(div/p)
 msgid "Start typing your reply and when finished, press <key>Enter </key>."
 msgstr ""
-"Mulailah mengetikkan jawaban Anda dan ketika selesai, tekan <key>Enter</key> "
-"untuk mengirim jawaban."
+"Mulailah mengetikkan jawaban Anda dan ketika selesai, tekan <key>Enter</key>."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:253 C/gs-respond-messages.page:63
-#, fuzzy
+#: C/getting-started.page:253(div/p) C/gs-respond-messages.page:63(div/p)
 msgid ""
 "To show the message tray, press <keyseq> <key href=\"help:gnome-help/"
 "keyboard-key-super\">Super</key> <key>M</key></keyseq>"
 msgstr ""
-"Untuk menyembunyikan baki pesan, tekan <key>Esc</key> atau "
-"<keyseq><key>Super</key><key>M</key></keyseq>."
+"Untuk menampilkan baki pesan, tekan <keyseq> <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> <key>M</key></keyseq>"
 
-#. (itstool) path: div/p
-#: C/getting-started.page:258 C/gs-respond-messages.page:68
-#, fuzzy
+#: C/getting-started.page:258(div/p) C/gs-respond-messages.page:68(div/p)
 msgid ""
 "Use the arrow keys to select the person you want to reply to, and press "
 "<key>Enter</key>."
 msgstr ""
-"Gunakan tombol panah untuk memiliki gambar kecil yang mewakili orang yang "
-"ingin Anda balas, dan tekan <key>Enter</key>."
+"Gunakan tombol panah untuk memilih orang yang ingin Anda balas, dan tekan "
+"<key>Enter</key>."
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:266 C/gs-respond-messages.page:76
-#: C/gs-respond-messages.page:130
+#: C/getting-started.page:266(div/p) C/gs-respond-messages.page:76(div/p)
+#: C/gs-respond-messages.page:130(item/p)
 msgid "Press <key>Esc</key> to close the chat message."
 msgstr "Tekan <key>Esc</key> untuk menutup pesan obrolan."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:269 C/gs-respond-messages.page:79
-#, fuzzy
+#: C/getting-started.page:269(div/p) C/gs-respond-messages.page:79(div/p)
 msgid "To dismiss the message tray, press <key>Esc</key>."
-msgstr ""
-"Untuk menyembunyikan baki pesan, tekan <key>Esc</key> atau "
-"<keyseq><key>Super</key><key>M</key></keyseq>."
+msgstr "Untuk menyembunyikan baki pesan, tekan <key>Esc</key>."
 
-#. (itstool) path: links/title
-#: C/getting-started.page:278
+#: C/getting-started.page:278(links/title)
 msgid "Common Tasks"
 msgstr "Tugas Umum"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:3
+#: C/gs-animation.xml:3(titles/t)
 msgid "Welcome"
 msgstr "Selamat datang"
 
-#. (itstool) path: titles/t
-#. (itstool) path: div/p
-#: C/gs-animation.xml:6 C/gs-change-wallpaper.page:28
+#: C/gs-animation.xml:6(titles/t) C/gs-change-wallpaper.page:28(div/p)
 msgid "Changing Wallpaper"
 msgstr "Mengubah Gambar Latar"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:11
+#: C/gs-animation.xml:11(titles/t)
 msgid "Changing Date, Time and Timezone"
 msgstr "Mengubah Tanggal, Jam, dan Zona Waktu"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:12
+#: C/gs-animation.xml:12(titles/t)
 msgid "Maximize"
 msgstr "Maksimalkan"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:13
+#: C/gs-animation.xml:13(titles/t)
 msgid "Restore"
 msgstr "Kembalikan"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:14
+#: C/gs-animation.xml:14(titles/t)
 msgid "Left half of screen"
 msgstr "Separuh layar bagian kiri"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:15
+#: C/gs-animation.xml:15(titles/t)
 msgid "Workspace down"
 msgstr "Area kerja turun"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:16
+#: C/gs-animation.xml:16(titles/t)
 msgid "Workspace up"
 msgstr "Area kerja naik"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:17
+#: C/gs-animation.xml:17(titles/t)
 msgid "Right half of screen"
 msgstr "Separuh layar bagian kanan"
 
-#. (itstool) path: titles/t
-#. (itstool) path: text/tspan
-#: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:198
-#: C/gs-search2.svg:154 C/gs-thumb-changing-wallpaper.svg:54
-#: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-responding-to-messages.svg:51
-#: C/gs-thumb-task-switching.svg:167 C/gs-thumb-timezone.svg:56
-#: C/gs-thumb-windows-and-workspaces.svg:104 C/gs-web-browser1-firefox.svg:122
-#: C/gs-web-browser1.svg:122
+#: C/gs-animation.xml:18(titles/t) C/gs-go-online1.svg:251(text/tspan)
+#: C/gs-search1.svg:198(text/tspan) C/gs-search2.svg:154(text/tspan)
+#: C/gs-thumb-changing-wallpaper.svg:54(text/tspan)
+#: C/gs-thumb-launching-apps.svg:204(text/tspan)
+#: C/gs-thumb-responding-to-messages.svg:51(text/tspan)
+#: C/gs-thumb-task-switching.svg:167(text/tspan)
+#: C/gs-thumb-timezone.svg:56(text/tspan)
+#: C/gs-thumb-windows-and-workspaces.svg:104(text/tspan)
+#: C/gs-web-browser1-firefox.svg:122(text/tspan)
+#: C/gs-web-browser1.svg:122(text/tspan)
 #, no-wrap
 msgid "Activities"
 msgstr "Aktivitas"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:19
+#: C/gs-animation.xml:19(titles/t)
 msgid "Enter"
 msgstr "Enter"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:20
+#: C/gs-animation.xml:20(titles/t)
 msgid "Ctrl"
 msgstr "Ctrl"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:21
+#: C/gs-animation.xml:21(titles/t)
 msgid "Alt"
 msgstr "Alt"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:22
+#: C/gs-animation.xml:22(titles/t)
 msgid "Tab"
 msgstr "Tab"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:23
+#: C/gs-animation.xml:23(titles/t)
 msgid "Esc"
 msgstr "Esc"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:24
+#: C/gs-animation.xml:24(titles/t)
 msgid "help"
 msgstr "bantuan"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:25
+#: C/gs-animation.xml:25(titles/t)
 msgid "web"
 msgstr "web"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:26
+#: C/gs-animation.xml:26(titles/t)
 msgid "Just start typing…"
 msgstr "Mulai mengetik saja…"
 
-#. (itstool) path: titles/t
-#. (itstool) path: text/tspan
-#: C/gs-animation.xml:27 C/gs-go-online1.svg:249
-#: C/gs-thumb-responding-to-messages.svg:90
+#: C/gs-animation.xml:27(titles/t) C/gs-go-online1.svg:249(text/tspan)
+#: C/gs-thumb-responding-to-messages.svg:90(text/tspan)
 #, no-wrap
 msgid "John Doe"
 msgstr "John Doe"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:28
+#: C/gs-animation.xml:28(titles/t)
 msgid "Settings"
 msgstr "Pengaturan"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:29
+#: C/gs-animation.xml:29(titles/t)
 msgid "Background"
 msgstr "Latar belakang"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:30
+#: C/gs-animation.xml:30(titles/t)
 msgid "Wallpapers"
 msgstr "Gambar latar"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:31
+#: C/gs-animation.xml:31(titles/t)
 msgid "Select"
 msgstr "Pilih"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:32
+#: C/gs-animation.xml:32(titles/t)
 msgid "Ready for the meeting?"
 msgstr "Siap rapat?"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:33
+#: C/gs-animation.xml:33(titles/t)
 msgid "I'll be there in a sec..."
 msgstr "Saya siap sebentar lagi..."
 
-#. (itstool) path: titles/t
-#. (itstool) path: text/tspan
-#: C/gs-animation.xml:34 C/gs-thumb-responding-to-messages.svg:89
+#: C/gs-animation.xml:34(titles/t)
+#: C/gs-thumb-responding-to-messages.svg:89(text/tspan)
 #, no-wrap
 msgid "Good stuff, thanks again"
 msgstr "Barang bagus, terima kasih lagi"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:35
+#: C/gs-animation.xml:35(titles/t)
 msgid "Thanks for the support"
 msgstr "Terima kasih untuk dukungannya"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:36
+#: C/gs-animation.xml:36(titles/t)
 msgid "No worries."
 msgstr "Tak usah khawatir."
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:37
+#: C/gs-animation.xml:37(titles/t)
 msgid "Too kind."
 msgstr "Terlalu baik."
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:38
+#: C/gs-animation.xml:38(titles/t)
 msgid "Open Calendar"
 msgstr "Buka Kalender"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:39
+#: C/gs-animation.xml:39(titles/t)
 msgid "Open Clocks"
 msgstr "Buka Jam"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:40
+#: C/gs-animation.xml:40(titles/t)
 msgid "Date and Time Settings"
 msgstr "Pengaturan Tanggal dan Jam"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:41
+#: C/gs-animation.xml:41(titles/t)
 msgid "Automatic Date and Time"
 msgstr "Tanggal dan Jam Otomatis"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:42
+#: C/gs-animation.xml:42(titles/t)
 msgid "Automatic Timezone"
 msgstr "Zona Waktu Otomatis"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:43
+#: C/gs-animation.xml:43(titles/t)
 msgid "14 October 2013, 20:00"
 msgstr "14 Oktober 2013, 20:00"
 
-#. (itstool) path: titles/t
-#: C/gs-animation.xml:44
+#: C/gs-animation.xml:44(titles/t)
 msgid "14 October 2013, 14:00"
 msgstr "14 Oktober 2013, 14:00"
 
-#. (itstool) path: credit/name
-#: C/gs-browse-web.page:9 C/gs-browse-web-firefox.page:10
-#: C/gs-change-date-time-timezone.page:10 C/gs-change-wallpaper.page:9
-#: C/gs-connect-online-accounts.page:9 C/gs-get-online.page:9
-#: C/gs-launch-applications.page:9 C/gs-respond-messages.page:9
-#: C/gs-switch-tasks.page:10 C/gs-use-system-search.page:9
-#: C/gs-use-windows-workspaces.page:9
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-browse-web.page:22(media)
+msgctxt "_"
+msgid ""
+"external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
+msgstr "-"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-browse-web.page:36(media)
+msgctxt "_"
+msgid ""
+"external ref='gs-web-browser2.svg' md5='e233174303fc55cd512ae71f950ae915'"
+msgstr "-"
+
+#: C/gs-browse-web.page:9(credit/name)
+#: C/gs-browse-web-firefox.page:10(credit/name)
+#: C/gs-change-date-time-timezone.page:10(credit/name)
+#: C/gs-change-wallpaper.page:9(credit/name)
+#: C/gs-connect-online-accounts.page:9(credit/name)
+#: C/gs-get-online.page:9(credit/name)
+#: C/gs-launch-applications.page:9(credit/name)
+#: C/gs-respond-messages.page:9(credit/name)
+#: C/gs-switch-tasks.page:10(credit/name)
+#: C/gs-use-system-search.page:9(credit/name)
+#: C/gs-use-windows-workspaces.page:9(credit/name)
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
-#. (itstool) path: credit/name
-#: C/gs-browse-web.page:12 C/gs-browse-web-firefox.page:13
-#: C/gs-change-date-time-timezone.page:13 C/gs-change-wallpaper.page:12
-#: C/gs-connect-online-accounts.page:12 C/gs-get-online.page:12
-#: C/gs-launch-applications.page:12 C/gs-respond-messages.page:12
-#: C/gs-switch-tasks.page:13 C/gs-use-system-search.page:12
-#: C/gs-use-windows-workspaces.page:12
+#: C/gs-browse-web.page:12(credit/name)
+#: C/gs-browse-web-firefox.page:13(credit/name)
+#: C/gs-change-date-time-timezone.page:13(credit/name)
+#: C/gs-change-wallpaper.page:12(credit/name)
+#: C/gs-connect-online-accounts.page:12(credit/name)
+#: C/gs-get-online.page:12(credit/name)
+#: C/gs-launch-applications.page:12(credit/name)
+#: C/gs-respond-messages.page:12(credit/name)
+#: C/gs-switch-tasks.page:13(credit/name)
+#: C/gs-use-system-search.page:12(credit/name)
+#: C/gs-use-windows-workspaces.page:12(credit/name)
 msgid "Petr Kovar"
 msgstr "Petr Kovar"
 
-#. (itstool) path: info/title
-#: C/gs-browse-web.page:17
+#: C/gs-browse-web.page:17(info/title)
 msgctxt "link:trail"
 msgid "Browse the web"
 msgstr "Jelajah web"
 
-#. (itstool) path: page/title
-#: C/gs-browse-web.page:20 C/gs-browse-web-firefox.page:21
+#: C/gs-browse-web.page:20(page/title)
+#: C/gs-browse-web-firefox.page:21(page/title)
 msgid "Browse the web"
 msgstr "Jelajah web"
 
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:25 C/gs-browse-web-firefox.page:29
-#: C/gs-launch-applications.page:63
+#: C/gs-browse-web.page:25(item/p) C/gs-browse-web-firefox.page:29(item/p)
+#: C/gs-launch-applications.page:63(item/p)
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen to show the <gui>Activities Overview</gui>."
@@ -671,16 +666,13 @@ msgstr ""
 "Pindahkan penunjuk tetikus Anda ke pojok <gui>Aktivitas</gui> di kiri atas "
 "layar untuk menampilkan <gui>Ringkasan Aktivitas</gui>."
 
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:28
-#, fuzzy
+#: C/gs-browse-web.page:28(item/p)
 msgid ""
 "Select the <app>Web</app> browser icon from the bar on the left-hand side of "
 "the screen."
-msgstr "Pilih ikon aplikasi <app>Web</app> dari dash di kiri."
+msgstr "Pilih ikon peramban <app>Web</app> dari bilah di kiri layar."
 
-#. (itstool) path: note/p
-#: C/gs-browse-web.page:32
+#: C/gs-browse-web.page:32(note/p)
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
@@ -690,8 +682,7 @@ msgstr ""
 "use-system-search\">sekedar mengetik</link> <em>web</em> dalam "
 "<gui>Ringkasan Aktivitas</gui>."
 
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:39 C/gs-browse-web-firefox.page:58
+#: C/gs-browse-web.page:39(item/p) C/gs-browse-web-firefox.page:58(item/p)
 msgid ""
 "Click the address bar at the top of the browser window and start typing in "
 "the website you want to visit."
@@ -699,147 +690,171 @@ msgstr ""
 "Klik pada bilah alamat di bagian atas jendela peramban dan mulailah "
 "mengetikkan situs web yang ingin Anda kunjungi."
 
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:41 C/gs-browse-web-firefox.page:60
+#: C/gs-browse-web.page:41(item/p) C/gs-browse-web-firefox.page:60(item/p)
 msgid ""
 "Typing in a website starts searching for it in the browser history and "
 "bookmarks, so you do not need to remember the exact address."
 msgstr ""
+"Mengetikkan suatu situs web memulai pencariannya dalam riwayat peramban dan "
+"penanda taut, sehingga Anda tidak perlu mengingat alamat persisnya."
 
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:44 C/gs-browse-web-firefox.page:63
+#: C/gs-browse-web.page:44(item/p) C/gs-browse-web-firefox.page:63(item/p)
 msgid ""
 "If the website is found in the history or bookmarks, a drop-down list is "
 "shown below the address bar."
 msgstr ""
+"Bila situs web tersebut ditemukan dalam riwayat atau penanda taut, suatu "
+"daftar drop down ditampilkan di bawah bilah alamat."
 
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:46 C/gs-browse-web-firefox.page:65
+#: C/gs-browse-web.page:46(item/p) C/gs-browse-web-firefox.page:65(item/p)
 msgid ""
 "From the drop-down list, you can quickly select a website using the arrow "
 "keys."
 msgstr ""
+"Dari daftar drop down, Anda dapat memilih suatu situs web secara cepat "
+"memakai tombol panah."
 
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:49 C/gs-browse-web-firefox.page:68
-#, fuzzy
+#: C/gs-browse-web.page:49(item/p) C/gs-browse-web-firefox.page:68(item/p)
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
 msgstr ""
-"Mulailah mengetikkan jawaban Anda dan ketika selesai, tekan <key>Enter</key> "
-"untuk mengirim jawaban."
+"Setelah Anda memilih suatu situs web, tekan <key>Enter</key> untuk "
+"mengunjunginya."
 
-#. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:32
-#, fuzzy
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-browse-web-firefox.page:26(media)
+msgctxt "_"
+msgid ""
+"external ref='gs-web-browser1-firefox.svg' "
+"md5='f4958e0fad516473746fc14fbd0f4333'"
+msgstr "-"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-browse-web-firefox.page:43(media)
+msgctxt "_"
+msgid ""
+"external ref='gs-web-browser1-firefox-classic.svg' "
+"md5='fe09a8fa520c0f337bade21f8a5d0377'"
+msgstr "-"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-browse-web-firefox.page:55(media)
+msgctxt "_"
+msgid ""
+"external ref='gs-web-browser2-firefox.svg' "
+"md5='d8f2a86ceef35a2e9a95fa54943ca76f'"
+msgstr "-"
+
+#: C/gs-browse-web-firefox.page:32(item/p)
 msgid ""
 "Select the <app>Firefox</app> browser icon from the bar on the left-hand "
 "side of the screen."
-msgstr "Pilih ikon aplikasi <app>Web</app> dari dash di kiri."
+msgstr "Pilih ikon peramban <app>Firefox</app> dari bilah di kiri layar."
 
-#. (itstool) path: note/p
-#: C/gs-browse-web-firefox.page:36
+#: C/gs-browse-web-firefox.page:36(note/p)
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>Firefox</em> in the <gui>Activities "
 "Overview</gui>."
 msgstr ""
-"Sebagai alternatif, Anda dapat meluncurkan peramban dengan link xref=\"gs-"
+"Sebagai alternatif, Anda dapat meluncurkan peramban dengan <link xref=\"gs-"
 "use-system-search\">sekedar mengetik</link> <em>Firefox</em> dalam "
 "<gui>Ringkasan Aktivitas</gui>."
 
-#. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:46
-#, fuzzy
+#: C/gs-browse-web-firefox.page:46(item/p)
 msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
-msgstr ""
-"Klik butir <gui>Tampilkan Aplikasi</gui> yang ditunjukkan di dasar bilah di "
-"sisi kiri layar."
+msgstr "Klik menu <gui>Aplikasi</gui> di sisi kiri atas layar."
 
-#. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:48
+#: C/gs-browse-web-firefox.page:48(item/p)
 msgid ""
 "From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
 "guiseq>."
 msgstr ""
+"Dari menu, pilih <guiseq><gui>Internet</gui><gui>Firefox</gui> </guiseq>."
 
-#. (itstool) path: info/title
-#: C/gs-change-date-time-timezone.page:16
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-change-date-time-timezone.page:28(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-timezone.webm' "
+"md5='9ccb1cc474a45ef7ed0a67e1fdaf7a31'"
+msgstr "-"
+
+#: C/gs-change-date-time-timezone.page:16(info/title)
 msgctxt "link:trail"
 msgid "Change the date, time and timezone"
 msgstr "Mengubah tanggal, waktu, dan zona waktu"
 
-#. (itstool) path: info/title
-#: C/gs-change-date-time-timezone.page:18
-#, fuzzy
+#: C/gs-change-date-time-timezone.page:18(info/title)
 msgctxt "link:seealso"
 msgid "A tutorial on changing the date, time and timezone"
-msgstr "Ubah tanggal, waktu, dan zona waktu"
+msgstr "Tutorial tentang mengubah tanggal, jam, dan zona waktu"
 
-#. (itstool) path: page/title
-#. (itstool) path: section/title
-#: C/gs-change-date-time-timezone.page:22
-#: C/gs-change-date-time-timezone.page:68
+#: C/gs-change-date-time-timezone.page:22(page/title)
+#: C/gs-change-date-time-timezone.page:68(section/title)
 msgid "Change the date, time and timezone"
 msgstr "Mengubah tanggal, waktu, dan zona waktu"
 
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:33
+#: C/gs-change-date-time-timezone.page:33(div/p)
 msgid "Changing Date &amp; Time"
 msgstr "Mengubah Tanggal &amp; Jam"
 
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:36
+#: C/gs-change-date-time-timezone.page:36(div/p)
 msgid "Click the clock on the top bar."
 msgstr "Klik pada jam di bilah puncak."
 
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:39
-#, fuzzy
+#: C/gs-change-date-time-timezone.page:39(div/p)
 msgid "Select <gui>Date &amp; Time Settings</gui>."
-msgstr "Pilih butir <gui>Pengaturan</gui>."
+msgstr "Pilih <gui>Pengaturan Tanggal &amp; Jam</gui>."
 
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:42
+#: C/gs-change-date-time-timezone.page:42(div/p)
 msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
-msgstr ""
+msgstr "Pastikan bahwa <gui>Zona Waktu Otomatis</gui> dimatikan."
 
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:46
+#: C/gs-change-date-time-timezone.page:46(div/p)
 msgid "Click <gui>Time Zone</gui>."
 msgstr "Klik <gui>Zona Waktu</gui>."
 
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:49
+#: C/gs-change-date-time-timezone.page:49(div/p)
 msgid "Click on your location on the map."
 msgstr "Klik lokasi Anda pada peta."
 
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:52
+#: C/gs-change-date-time-timezone.page:52(div/p)
 msgid "Click <gui>Close</gui>."
 msgstr "Klik <gui>Tutup</gui>."
 
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:55
+#: C/gs-change-date-time-timezone.page:55(div/p)
 msgid "Close the window."
 msgstr "Tutup jendela."
 
-#. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:71
-#, fuzzy
+#: C/gs-change-date-time-timezone.page:71(item/p)
 msgid ""
 "Click the clock on the top bar and select the <gui>Date &amp; Time Settings</"
 "gui> item."
-msgstr "Pilih butir <gui>Pengaturan</gui>."
+msgstr ""
+"Klik jam di bilah puncak dan pilih butir <gui>Pengaturan Tanggal &amp; Jam</"
+"gui>."
 
-#. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:73
+#: C/gs-change-date-time-timezone.page:73(item/p)
 msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
 "then click the <gui>Time Zone</gui> item below."
 msgstr ""
+"Pastikan bahwa butir <gui>Zona Waktu Otomatis</gui> dimatikan, lalu klik "
+"butir <gui>Zona Waktu</gui> di bawah."
 
-#. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:75
+#: C/gs-change-date-time-timezone.page:75(item/p)
 msgid ""
 "Click on your location on the map. This selects your current city, which you "
 "can also search for in the search box above the map."
@@ -847,115 +862,112 @@ msgstr ""
 "Klik pada lokasi Anda di peta. Ini memilih kota Anda saat ini, yang juga "
 "dapat Anda cari dalam kotak pencarian di atas peta."
 
-#. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:78
-#, fuzzy
+#: C/gs-change-date-time-timezone.page:78(item/p)
 msgid ""
 "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
 "Settings</gui> window."
-msgstr "Pilih butir <gui>Pengaturan</gui>."
+msgstr ""
+"Klik tombol <gui>Tutup</gui> untuk kembali ke jendela <gui>Pengaturan "
+"Tanggal &amp; Jam</gui>."
 
-#. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:80
+#: C/gs-change-date-time-timezone.page:80(item/p)
 msgid ""
 "Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
 "off, and then click the <gui>Date &amp; Time</gui> item below to open the "
 "<gui>Date &amp; Time</gui> window. There you can adjust your date and time "
 "settings by clicking on the <gui>+</gui> or <gui>-</gui> buttons."
 msgstr ""
+"Pastikan bahwa butir <gui>Tanggal &amp; Jam Otomatis</gui> dimatikan, lalu "
+"klik butir <gui>Tanggal &amp; Jam</gui> di bawah untuk membuka jendela "
+"<gui>Tanggal &amp; Jam</gui>. Di sana Anda dapat menyetel pengaturan tanggal "
+"dan jam Anda dengan mengklik pada tombol-tombol <gui>+</gui> atau <gui>-</"
+"gui>."
 
-#. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:85
-#, fuzzy
+#: C/gs-change-date-time-timezone.page:85(item/p)
 msgid ""
 "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
 "Settings</gui> window, and then close that window by clicking the cross at "
 "the top-right corner of that window."
 msgstr ""
-"Tutup jendela <gui>Latar Belakang</gui> dengan mengklik tanda silang di "
-"pojok kanan atas jendela."
+"Klik tombol <gui>Tutup</gui> untuk kembali ke jendela <gui>Pengaturan "
+"Tanggal &amp; Jam</gui>, lalu tutup jendela tersebutdengan mengklik tanda "
+"silang di pojok kanan atas jendela."
 
-#. (itstool) path: info/title
-#: C/gs-change-wallpaper.page:15
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-change-wallpaper.page:23(media)
+msgctxt "_"
+msgid ""
+"external ref='figures/gnome-change-wallpaper.webm' "
+"md5='04641291f5d2ba02b7bbc5e165c7f103'"
+msgstr "-"
+
+#: C/gs-change-wallpaper.page:15(info/title)
 msgctxt "link:trail"
 msgid "Change the wallpaper"
 msgstr "Ubah gambar latar"
 
-#. (itstool) path: info/title
-#: C/gs-change-wallpaper.page:17
-#, fuzzy
+#: C/gs-change-wallpaper.page:17(info/title)
 msgctxt "link:seealso"
 msgid "A tutorial on changing the wallpaper"
-msgstr "Ubah gambar latar"
+msgstr "Tutorial cara mengubah gambar latar"
 
-#. (itstool) path: page/title
-#. (itstool) path: section/title
-#: C/gs-change-wallpaper.page:20 C/gs-change-wallpaper.page:55
+#: C/gs-change-wallpaper.page:20(page/title)
+#: C/gs-change-wallpaper.page:55(section/title)
 msgid "Change the wallpaper"
 msgstr "Ubah gambar latar"
 
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:31
+#: C/gs-change-wallpaper.page:31(div/p)
 msgid ""
 "Click the system menu on the right side of the top bar and press the "
 "settings button."
 msgstr ""
+"Klik menu sistem di bagian kanan bilah puncak dan tekan tombol pengaturan."
 
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:35
-#, fuzzy
+#: C/gs-change-wallpaper.page:35(div/p)
 msgid "Select <gui>Background</gui>."
-msgstr "Dari daftar butir, pilih <gui>Latar Belakang</gui>."
+msgstr "Pilih <gui>Latar Belakang</gui>."
 
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:38
-#, fuzzy
+#: C/gs-change-wallpaper.page:38(div/p)
 msgid "Click the current background image."
-msgstr "Klik gambar latar yang ingin Anda pakai."
+msgstr "Klik gambar latar saat ini."
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:63
-#, fuzzy
+#: C/gs-change-wallpaper.page:41(div/p) C/gs-change-wallpaper.page:63(item/p)
 msgid "Click the background image you want to use."
 msgstr "Klik gambar latar yang ingin Anda pakai."
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:64
+#: C/gs-change-wallpaper.page:44(div/p) C/gs-change-wallpaper.page:64(item/p)
 msgid "Click the <gui>Select</gui> button."
 msgstr "Klik tombol <gui>Pilih</gui>."
 
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:47
-#, fuzzy
+#: C/gs-change-wallpaper.page:47(div/p)
 msgid "Close the <gui>Background</gui> window."
-msgstr "Dari daftar butir, pilih <gui>Latar Belakang</gui>."
+msgstr "Tutup jendela <gui>Latar Belakang</gui>."
 
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:58 C/gs-use-system-search.page:79
+#: C/gs-change-wallpaper.page:58(item/p)
+#: C/gs-use-system-search.page:79(item/p)
 msgid ""
 "Click the system menu on the right side of the top bar and press the "
 "settings button at the bottom of the menu."
 msgstr ""
+"Klik menu sistem pada sisi kanan bilah puncak dan tekan tombol pengaturan "
+"pada bagian dasar menu."
 
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:60
+#: C/gs-change-wallpaper.page:60(item/p)
 msgid "From the list of items, select <gui>Background</gui>."
 msgstr "Dari daftar butir, pilih <gui>Latar Belakang</gui>."
 
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:61
-#, fuzzy
+#: C/gs-change-wallpaper.page:61(item/p)
 msgid ""
 "Click the current background image on the left side of the <gui>Background</"
 "gui> window."
 msgstr ""
-"Klik gambar dari gambar latar kini di tengah jendela <gui>Latar Belakang</"
-"gui>."
+"Klik gambar dari gambar latar kini di sisi kiri jendela <gui>Latar "
+"Belakang</gui>."
 
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:65
+#: C/gs-change-wallpaper.page:65(item/p)
 msgid ""
 "Close the <gui>Background</gui> window by clicking the cross at the top-"
 "right corner of the window."
@@ -963,526 +975,565 @@ msgstr ""
 "Tutup jendela <gui>Latar Belakang</gui> dengan mengklik tanda silang di "
 "pojok kanan atas jendela."
 
-#. (itstool) path: info/title
-#: C/gs-connect-online-accounts.page:15
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-connect-online-accounts.page:23(media)
+msgctxt "_"
+msgid "external ref='gs-goa1.svg' md5='453f88bed412133019558a3eaaea5885'"
+msgstr "-"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-connect-online-accounts.page:30(media)
+msgctxt "_"
+msgid "external ref='gs-goa2.svg' md5='c899c0eeb13f7ae3416e9d5ae92294d6'"
+msgstr "-"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-connect-online-accounts.page:41(media)
+msgctxt "_"
+msgid "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
+msgstr "-"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-connect-online-accounts.page:48(media)
+msgctxt "_"
+msgid "external ref='gs-goa4.svg' md5='a9c13c95ff7a2d0d7b89a5f52735dee0'"
+msgstr "-"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-connect-online-accounts.page:57(media)
+msgctxt "_"
+msgid "external ref='gs-goa5.svg' md5='71bfdfe7f394b6aa9b057c47057d8535'"
+msgstr "-"
+
+#: C/gs-connect-online-accounts.page:15(info/title)
 msgctxt "link:trail"
 msgid "Connect to online accounts"
 msgstr "Menyambung ke akun daring"
 
-#. (itstool) path: info/title
-#: C/gs-connect-online-accounts.page:17
-#, fuzzy
+#: C/gs-connect-online-accounts.page:17(info/title)
 msgctxt "link:seealso"
 msgid "A tutorial on connecting to online accounts"
-msgstr "Menyambung ke akun daring"
+msgstr "Tutorial tentang menyambung ke akun daring"
 
-#. (itstool) path: page/title
-#: C/gs-connect-online-accounts.page:21
+#: C/gs-connect-online-accounts.page:21(page/title)
 msgid "Connect to online accounts"
 msgstr "Menyambung ke akun daring"
 
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:26
-#, fuzzy
+#: C/gs-connect-online-accounts.page:26(item/p)
 msgid "Click the system menu on the right side of the top bar."
-msgstr "Klik nama Anda pada bilah puncak dan pilih <gui>Pengaturan</gui>."
+msgstr "Klik menu sistem pada sisi kanan bilah puncak."
 
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:27
+#: C/gs-connect-online-accounts.page:27(item/p)
 msgid "Press the settings button at the bottom of the menu."
-msgstr ""
+msgstr "Tekan tombol pengaturan di dasar menu."
 
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:33
-#, fuzzy
+#: C/gs-connect-online-accounts.page:33(item/p)
 msgid ""
 "From the list of items, select <gui>Online Accounts</gui>, then click on the "
 "<gui>Add an online account</gui> button."
-msgstr "Dari daftar butir, pilih <gui>Latar Belakang</gui>."
+msgstr ""
+"Dari daftar butir, pilih <gui>Akun Daring</gui>, lalu klik pada tombol "
+"<gui>Tambahkan akun daring</gui>."
 
-#. (itstool) path: note/p
-#: C/gs-connect-online-accounts.page:37
-#, fuzzy
+#: C/gs-connect-online-accounts.page:37(note/p)
 msgid ""
 "If you have set up an online account before, you can add another online "
 "account by clicking the <gui>+</gui> button at the bottom left corner of the "
 "window."
 msgstr ""
-"Bila Anda telah memiliki suatu akun yang disiapkan dimasa lalu, klik tombol "
-"<gui>+</gui> di dasar daftar bilah sisi untuk menambah satu lagi."
+"Bila Anda telah menyiapkan suatu akun daring sebelumnya, Anda dapat "
+"menambahkan sebuah akun daring lain dengan mengklik tombol <gui>+</gui> di "
+"pojok kiri bawah jendela."
 
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:44
+#: C/gs-connect-online-accounts.page:44(item/p)
 msgid ""
 "Click the online account you want to use. This will open a new window where "
 "you can sign in to your online account."
 msgstr ""
+"Klik pada akun daring yang ingin Anda pakai. Ini akan membuka suatu jendela "
+"baru dimana Anda dapat masuk ke akun daring Anda."
 
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:51
+#: C/gs-connect-online-accounts.page:51(item/p)
 msgid ""
 "In most cases, you will have to grant access to the online service after "
 "signing in to get started."
 msgstr ""
+"Dalam kebanyakan kasus, Anda mesti memberi hak akses ke layanan daring "
+"setelah masuk untuk memulai."
 
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:53
-#, fuzzy
+#: C/gs-connect-online-accounts.page:53(item/p)
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
 "click the <gui>Grant Access</gui> button."
 msgstr ""
-"Untuk akun google cukup dengan mengklik tombol <gui>Berikan akses</gui>."
+"Sebagai contoh, bila Anda menyambung ke akun Google Anda, Anda mesti "
+"mengklik tombol <gui>Berikan Akses</gui>."
 
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:60
-#, fuzzy
+#: C/gs-connect-online-accounts.page:60(item/p)
 msgid ""
 "Many online accounts let you choose the services you want to use with your "
 "online account. If you do not want to use a service, disable it by clicking "
 "the <gui>ON/OFF</gui> switch on the right-hand side of the window."
 msgstr ""
-"Banyak akun yang mengijinkan Anda menggubah jenis layanan apa yang akan Anda "
-"pakai. Bila Anda tak berharap memakai suatu layanan tertentu, matikanlah itu "
-"dengan <gui>saklar nyala/mati</gui> di kanan."
+"Banyak akun daring yang mengijinkan Anda memilih jenis layanan apa yang akan "
+"Anda pakai dengan akun daring Anda. Bila Anda tak berharap memakai suatu "
+"layanan tertentu, matikanlah itu dengan mengklik saklar "
+"<gui>NYALA/MATI</gui> di sisi kanan jendela."
 
-#. (itstool) path: info/title
-#: C/gs-get-online.page:15
-#, fuzzy
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-get-online.page:31(media)
+msgctxt "_"
+msgid "external ref='gs-go-online1.svg' md5='8ef86ba33c73fe6a46ec5730b6a14831'"
+msgstr "-"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-get-online.page:55(media)
+msgctxt "_"
+msgid "external ref='gs-go-online2.svg' md5='738b078b74cf44c454fa8b179846ba5a'"
+msgstr "-"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-get-online.page:68(media)
+msgctxt "_"
+msgid "external ref='gs-go-online3.svg' md5='13095e2de523ca89c3a504ca8839e586'"
+msgstr "-"
+
+#: C/gs-get-online.page:15(info/title)
 msgctxt "link:trail"
 msgid "Get online"
 msgstr "Menuju daring"
 
-#. (itstool) path: info/title
-#: C/gs-get-online.page:17
+#: C/gs-get-online.page:17(info/title)
 msgctxt "link:seealso"
 msgid "A tutorial on getting online"
 msgstr "Tutorial cara daring"
 
-#. (itstool) path: page/title
-#: C/gs-get-online.page:20
-#, fuzzy
+#: C/gs-get-online.page:20(page/title)
 msgid "Get online"
 msgstr "Menuju daring"
 
-#. (itstool) path: note/p
-#: C/gs-get-online.page:23
-#, fuzzy
+#: C/gs-get-online.page:23(note/p)
 msgid ""
 "You can see the status of your network connection on the right-hand side of "
 "the top bar."
 msgstr ""
-"Status koneksi jaringan Anda diindikasikan di bilah puncak, sebelah status "
-"obrolan/nama Anda."
+"Anda dapat melihat status koneksi jaringan Anda di sisi kanan bilah puncak."
 
-#. (itstool) path: section/title
-#: C/gs-get-online.page:29
+#: C/gs-get-online.page:29(section/title)
 msgid "Connect to a wired network"
 msgstr "Menyambung ke jaringan kabel"
 
-#. (itstool) path: item/p
-#: C/gs-get-online.page:34
-#, fuzzy
+#: C/gs-get-online.page:34(item/p)
 msgid ""
 "The network connection icon on the right-hand side of the top bar shows that "
 "you are off-line."
-msgstr "Ikon status di pojok kanan atas mengindikasikan bahwa Anda luring."
+msgstr ""
+"Ikon koneksi jaringan di sisi kanan bilah puncak menunjukkan bahwa Anda "
+"luring."
 
-#. (itstool) path: item/p
-#: C/gs-get-online.page:36
+#: C/gs-get-online.page:36(item/p)
 msgid ""
 "The off-line status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
 "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
 msgstr ""
+"Status luring bisa disebabkan oleh sejumlah alasan: sebagai contoh, suatu "
+"kabel jaringan telah terlepas, komputer telah ditata agar berjalan dalam "
+"<em>mode pesawat terbang</em>, atau tidak ada jaringan Wi-Fi yang tersedia "
+"di area Anda."
 
-#. (itstool) path: item/p
-#: C/gs-get-online.page:40
+#: C/gs-get-online.page:40(item/p)
 msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
 "automatically."
 msgstr ""
+"Bila Anda ingin memakai jaringa lewat kabel, tancapkan saja kabel jaringan "
+"untuk menuju daring. Komputer akan mencoba menyiapkan koneksi jaringan untuk "
+"Anda secara otomatis."
 
-#. (itstool) path: item/p
-#: C/gs-get-online.page:43
+#: C/gs-get-online.page:43(item/p)
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
 msgstr ""
+"Ketika komputer menyiapkan suatu koneksi jaringan untuk Anda, ikon koneksi "
+"jaringan menampilkan tiga titik."
 
-#. (itstool) path: item/p
-#: C/gs-get-online.page:45
-#, fuzzy
+#: C/gs-get-online.page:45(item/p)
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to the networked computer symbol."
 msgstr ""
-"Setelah konfigurasi sukses, ikon status berubah menjadi simbol komputer "
-"terjejaring."
+"Setelah koneksi jaringan telah sukses disiapkan, ikon koneksi jaringan "
+"berubah menjadi simbol komputer terjejaring."
 
-#. (itstool) path: section/title
-#: C/gs-get-online.page:53
+#: C/gs-get-online.page:53(section/title)
 msgid "Connect to a Wi-Fi network"
 msgstr "Menyambung ke jaringan Wi-Fi"
 
-#. (itstool) path: item/p
-#: C/gs-get-online.page:58
+#: C/gs-get-online.page:58(item/p)
 msgid ""
 "To connect to a Wi-Fi (wireless) network, click the status menu at the top "
 "right of the screen, and then click <gui>Select Network</gui>."
 msgstr ""
+"Untuk menyambung ke suatu jaringan Wi-Fi (nirkabel), klik menu status di "
+"kanan atas layar, lalu klik <gui>Pilih Jaringan</gui>."
 
-#. (itstool) path: note/p
-#: C/gs-get-online.page:64
+#: C/gs-get-online.page:64(note/p)
 msgid ""
 "You can only connect to a Wi-Fi network if your computer hardware supports "
 "it and you are in an area with Wi-Fi coverage."
 msgstr ""
+"Anda hanya dapat menyambung ke suatu jaringan Wi-Fi bila perangkat keras "
+"komputer Anda mendukungnya dan Anda berada di suatu area dengan cakupan Wi-"
+"Fi."
 
-#. (itstool) path: item/p
-#: C/gs-get-online.page:71
+#: C/gs-get-online.page:71(item/p)
 msgid ""
 "From the list of available Wi-Fi networks, select the network you want to "
 "connect to, and click <gui>Connect</gui> to confirm."
 msgstr ""
+"Dari daftar jaringan Wi-Fi yang tersedia, pilih jaringan tempat Anda ingin "
+"menyambung, dan klik <gui>Sambung</gui> untuk mengkonfirmasi."
 
-#. (itstool) path: item/p
-#: C/gs-get-online.page:73
+#: C/gs-get-online.page:73(item/p)
 msgid ""
 "Depending on the network configuration, you may be prompted for network "
 "credentials."
 msgstr ""
+"Bergantung kepada konfigurasi jaringan, Anda mungkin dimintai kredensial "
+"jaringan."
 
-#. (itstool) path: Work/format
-#: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
-#: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
-#: C/gs-go-online3.svg:293 C/gs-search1.svg:97 C/gs-search2.svg:133
-#: C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:39
-#: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36
-#: C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
-#: C/gs-thumb-windows-and-workspaces.svg:89
-#: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
-#: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
-#: C/gs-web-browser2.svg:102
+#: C/gs-goa1.svg:41(Work/format) C/gs-goa2.svg:38(Work/format)
+#: C/gs-goa3.svg:51(Work/format) C/gs-goa4.svg:36(Work/format)
+#: C/gs-goa5.svg:48(Work/format) C/gs-go-online1.svg:230(Work/format)
+#: C/gs-go-online2.svg:265(Work/format) C/gs-go-online3.svg:293(Work/format)
+#: C/gs-search1.svg:97(Work/format) C/gs-search2.svg:133(Work/format)
+#: C/gs-search-settings.svg:98(Work/format)
+#: C/gs-thumb-changing-wallpaper.svg:39(Work/format)
+#: C/gs-thumb-launching-apps.svg:189(Work/format)
+#: C/gs-thumb-responding-to-messages.svg:36(Work/format)
+#: C/gs-thumb-task-switching.svg:89(Work/format)
+#: C/gs-thumb-timezone.svg:41(Work/format)
+#: C/gs-thumb-windows-and-workspaces.svg:89(Work/format)
+#: C/gs-web-browser1-firefox-classic.svg:103(Work/format)
+#: C/gs-web-browser1-firefox.svg:108(Work/format)
+#: C/gs-web-browser1.svg:108(Work/format)
+#: C/gs-web-browser2-firefox.svg:100(Work/format)
+#: C/gs-web-browser2.svg:102(Work/format)
 msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
-#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101
-#: C/gs-thumb-timezone.svg:135 C/gs-web-browser1-firefox-classic.svg:115
-#: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
+#: C/gs-goa1.svg:80(text/tspan) C/gs-go-online1.svg:242(text/tspan)
+#: C/gs-go-online2.svg:278(text/tspan) C/gs-search1.svg:109(text/tspan)
+#: C/gs-thumb-timezone.svg:101(text/tspan)
+#: C/gs-thumb-timezone.svg:135(text/tspan)
+#: C/gs-web-browser1-firefox-classic.svg:115(text/tspan)
+#: C/gs-web-browser1-firefox.svg:120(text/tspan)
+#: C/gs-web-browser1.svg:120(text/tspan)
 #, no-wrap
 msgid "1"
 msgstr "1"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:306
-#: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102
-#: C/gs-thumb-timezone.svg:136 C/gs-web-browser1-firefox-classic.svg:137
-#: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
+#: C/gs-goa1.svg:84(text/tspan) C/gs-go-online1.svg:266(text/tspan)
+#: C/gs-go-online3.svg:306(text/tspan) C/gs-search2.svg:145(text/tspan)
+#: C/gs-thumb-timezone.svg:102(text/tspan)
+#: C/gs-thumb-timezone.svg:136(text/tspan)
+#: C/gs-web-browser1-firefox-classic.svg:137(text/tspan)
+#: C/gs-web-browser1-firefox.svg:153(text/tspan)
+#: C/gs-web-browser1.svg:153(text/tspan)
 #, no-wrap
 msgid "2"
 msgstr "2"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa2.svg:50 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
-#: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
+#: C/gs-goa2.svg:50(text/tspan) C/gs-thumb-timezone.svg:103(text/tspan)
+#: C/gs-thumb-timezone.svg:137(text/tspan)
+#: C/gs-web-browser2-firefox.svg:164(text/tspan)
+#: C/gs-web-browser2.svg:165(text/tspan)
 #, no-wrap
 msgid "3"
 msgstr "3"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa2.svg:69 C/gs-goa3.svg:113 C/gs-goa5.svg:79
+#: C/gs-goa2.svg:69(text/tspan) C/gs-goa3.svg:113(text/tspan)
+#: C/gs-goa5.svg:79(text/tspan)
 #, no-wrap
 msgid "Online Accounts"
 msgstr "Akun Daring"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa2.svg:71 C/gs-goa3.svg:115
+#: C/gs-goa2.svg:71(text/tspan) C/gs-goa3.svg:115(text/tspan)
 #, no-wrap
 msgid "Add an online account"
 msgstr "Menambah suatu akun daring"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
-#: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
+#: C/gs-goa3.svg:63(text/tspan) C/gs-thumb-timezone.svg:104(text/tspan)
+#: C/gs-thumb-timezone.svg:138(text/tspan)
+#: C/gs-web-browser2-firefox.svg:113(text/tspan)
+#: C/gs-web-browser2.svg:115(text/tspan)
 #, no-wrap
 msgid "4"
 msgstr "4"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:66
+#: C/gs-goa3.svg:66(text/tspan)
 #, no-wrap
 msgid "Add Account"
 msgstr "Tambah Akun"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:343
+#: C/gs-goa3.svg:70(text/tspan) C/gs-goa4.svg:56(text/tspan)
+#: C/gs-goa4.svg:90(text/tspan) C/gs-go-online3.svg:343(text/tspan)
 #, no-wrap
 msgid "Cancel"
 msgstr "Batal"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
+#: C/gs-goa3.svg:72(text/tspan) C/gs-goa4.svg:123(text/tspan)
+#: C/gs-goa5.svg:86(text/tspan) C/gs-goa5.svg:89(text/tspan)
 #, no-wrap
 msgid "Google"
 msgstr "Google"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:73 C/gs-goa4.svg:124
+#: C/gs-goa3.svg:73(text/tspan) C/gs-goa4.svg:124(text/tspan)
 #, no-wrap
 msgid "Facebook"
 msgstr "Facebook"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:74 C/gs-goa4.svg:125
+#: C/gs-goa3.svg:74(text/tspan) C/gs-goa4.svg:125(text/tspan)
 #, no-wrap
 msgid "Windows Live"
 msgstr "Windows Live"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:75 C/gs-goa4.svg:126
+#: C/gs-goa3.svg:75(text/tspan) C/gs-goa4.svg:126(text/tspan)
 #, no-wrap
 msgid "Microsoft Exchange"
 msgstr "Microsoft Exchange"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:76 C/gs-goa4.svg:127
+#: C/gs-goa3.svg:76(text/tspan) C/gs-goa4.svg:127(text/tspan)
 #, no-wrap
 msgid "Enterprise Login (Kerberos)"
 msgstr "Log Masuk Enterprise (Kerberos)"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:48 C/gs-thumb-timezone.svg:105
-#: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
+#: C/gs-goa4.svg:48(text/tspan) C/gs-thumb-timezone.svg:105(text/tspan)
+#: C/gs-web-browser2-firefox.svg:259(text/tspan)
+#: C/gs-web-browser2.svg:255(text/tspan)
 #, no-wrap
 msgid "5"
 msgstr "5"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:52 C/gs-goa4.svg:86
+#: C/gs-goa4.svg:52(text/tspan) C/gs-goa4.svg:86(text/tspan)
 #, no-wrap
 msgid "Google account"
 msgstr "Akun Google"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:69
+#: C/gs-goa4.svg:69(text/tspan)
 #, no-wrap
 msgid "SIGN UP"
 msgstr "MENDAFTAR"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:70
+#: C/gs-goa4.svg:70(text/tspan)
 #, no-wrap
 msgid "Sign in"
 msgstr "Masuk"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:71
+#: C/gs-goa4.svg:71(text/tspan)
 #, no-wrap
 msgid "Email"
 msgstr "Surel"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:73
+#: C/gs-goa4.svg:73(text/tspan)
 #, no-wrap
 msgid "Password"
 msgstr "Sandi"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:76
+#: C/gs-goa4.svg:76(text/tspan)
 #, no-wrap
 msgid "Sign In"
 msgstr "Masuk"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:77 C/gs-goa5.svg:88 C/gs-goa5.svg:91
+#: C/gs-goa4.svg:77(text/tspan) C/gs-goa5.svg:88(text/tspan)
+#: C/gs-goa5.svg:91(text/tspan)
 #, no-wrap
 msgid "john.doe@gmail.com"
 msgstr "john.doe@gmail.com"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:103
+#: C/gs-goa4.svg:103(text/tspan)
 #, no-wrap
 msgid "Grant Access"
 msgstr "Berikan Akses"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:108
+#: C/gs-goa4.svg:108(text/tspan)
 #, no-wrap
 msgid "Deny Access"
 msgstr "Tolak Akses"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:106
+#: C/gs-goa4.svg:119(text/tspan) C/gs-thumb-timezone.svg:106(text/tspan)
 #, no-wrap
 msgid "6"
 msgstr "6"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:60 C/gs-thumb-timezone.svg:107
+#: C/gs-goa5.svg:60(text/tspan) C/gs-thumb-timezone.svg:107(text/tspan)
 #, no-wrap
 msgid "7"
 msgstr "7"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:92
+#: C/gs-goa5.svg:92(text/tspan)
 #, no-wrap
 msgid "Use for"
 msgstr "Gunakan untuk"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:93
+#: C/gs-goa5.svg:93(text/tspan)
 #, no-wrap
 msgid "Mail"
 msgstr "Surat"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:98
+#: C/gs-goa5.svg:98(text/tspan)
 #, no-wrap
 msgid "Calendar"
 msgstr "Kalender"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:103 C/gs-search2.svg:293
+#: C/gs-goa5.svg:103(text/tspan) C/gs-search2.svg:293(text/tspan)
 #, no-wrap
 msgid "Contacts"
 msgstr "Kontak"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:108
+#: C/gs-goa5.svg:108(text/tspan)
 #, no-wrap
 msgid "Chat"
 msgstr "Obrolan"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:113
+#: C/gs-goa5.svg:113(text/tspan)
 #, no-wrap
 msgid "Documents"
 msgstr "Dokumen"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121
-#: C/gs-goa5.svg:122 C/gs-search-settings.svg:155 C/gs-search-settings.svg:272
-#: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
+#: C/gs-goa5.svg:118(text/tspan) C/gs-goa5.svg:119(text/tspan)
+#: C/gs-goa5.svg:120(text/tspan) C/gs-goa5.svg:121(text/tspan)
+#: C/gs-goa5.svg:122(text/tspan) C/gs-search-settings.svg:155(text/tspan)
+#: C/gs-search-settings.svg:272(text/tspan)
+#: C/gs-search-settings.svg:279(text/tspan)
+#: C/gs-search-settings.svg:286(text/tspan)
 #, no-wrap
 msgid "ON"
-msgstr "I"
+msgstr "Nyala"
 
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
-#: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
-#: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
-#: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
+#: C/gs-go-online1.svg:250(text/tspan) C/gs-search1.svg:196(text/tspan)
+#: C/gs-search2.svg:152(text/tspan)
+#: C/gs-thumb-changing-wallpaper.svg:55(text/tspan)
+#: C/gs-thumb-launching-apps.svg:205(text/tspan)
+#: C/gs-thumb-responding-to-messages.svg:52(text/tspan)
+#: C/gs-thumb-task-switching.svg:168(text/tspan)
+#: C/gs-thumb-timezone.svg:57(text/tspan)
+#: C/gs-thumb-windows-and-workspaces.svg:105(text/tspan)
 #, no-wrap
 msgid "14:30"
 msgstr "14:30"
 
-#. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:328
+#: C/gs-go-online2.svg:328(text/tspan)
 #, no-wrap
 msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
-#. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
+#: C/gs-go-online2.svg:336(text/tspan) C/gs-go-online3.svg:315(text/tspan)
 #, no-wrap
 msgid "homenetwork"
-msgstr ""
+msgstr "jaringanrumah"
 
-#. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:338
+#: C/gs-go-online2.svg:338(text/tspan)
 #, no-wrap
 msgid "Select Network"
 msgstr "Pilih Jaringan"
 
-#. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:339
+#: C/gs-go-online2.svg:339(text/tspan)
 #, no-wrap
 msgid "Turn Off"
-msgstr ""
+msgstr "Matikan"
 
-#. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:340
+#: C/gs-go-online2.svg:340(text/tspan)
 #, no-wrap
 msgid "Network Settings"
 msgstr "Pengaturan Jaringan"
 
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:309
+#: C/gs-go-online3.svg:309(text/tspan)
 #, no-wrap
 msgid "Wi-Fi Networks"
-msgstr ""
+msgstr "Jaringan Wi-Fi"
 
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:313
+#: C/gs-go-online3.svg:313(text/tspan)
 #, no-wrap
 msgid "Connect"
 msgstr "Menyambung"
 
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:316
+#: C/gs-go-online3.svg:316(text/tspan)
 #, no-wrap
 msgid "wireless"
 msgstr "nirkabel"
 
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:317
+#: C/gs-go-online3.svg:317(text/tspan)
 #, no-wrap
 msgid "netgear"
 msgstr "netgear"
 
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:318
+#: C/gs-go-online3.svg:318(text/tspan)
 #, no-wrap
 msgid "weak"
-msgstr ""
+msgstr "lemah"
 
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:319
+#: C/gs-go-online3.svg:319(text/tspan)
 #, no-wrap
 msgid "private"
 msgstr "pribadi"
 
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:320
+#: C/gs-go-online3.svg:320(text/tspan)
 #, no-wrap
 msgid "Select a network"
 msgstr "Memilih suatu jaringan"
 
-#. (itstool) path: info/title
-#: C/gs-launch-applications.page:16
+#: C/gs-launch-applications.page:16(info/title)
 msgctxt "link:trail"
 msgid "Launch applications"
 msgstr "Meluncurkan aplikasi"
 
-#. (itstool) path: info/title
-#: C/gs-launch-applications.page:18
-#, fuzzy
+#: C/gs-launch-applications.page:18(info/title)
 msgctxt "link:seealso"
 msgid "A tutorial on launching applications"
-msgstr "Meluncurkan aplikasi"
+msgstr "Tutorial tentang meluncurkan aplikasi"
 
-#. (itstool) path: section/title
-#: C/gs-launch-applications.page:60
+#: C/gs-launch-applications.page:60(section/title)
 msgid "Launch applications with the mouse"
 msgstr "Meluncurkan aplikasi dengan tetikus"
 
-#. (itstool) path: item/p
-#: C/gs-launch-applications.page:65
-#, fuzzy
+#: C/gs-launch-applications.page:65(item/p)
 msgid ""
 "Click the <gui>Show Applications</gui> icon that is shown at the bottom of "
 "the bar on the left-hand side of the screen."
 msgstr ""
-"Klik butir <gui>Tampilkan Aplikasi</gui> yang ditunjukkan di dasar bilah di "
+"Klik ikon <gui>Tampilkan Aplikasi</gui> yang ditunjukkan di dasar bilah di "
 "sisi kiri layar."
 
-#. (itstool) path: item/p
-#: C/gs-launch-applications.page:67
+#: C/gs-launch-applications.page:67(item/p)
 msgid ""
 "A list of applications is shown. Click the application you want to run, for "
 "example, Help."
@@ -1490,32 +1541,27 @@ msgstr ""
 "Suatu daftar aplikasi ditampilkan. Klik aplikasi yang ingin Anda jalankan, "
 "sebagai contoh, Bantuan."
 
-#. (itstool) path: section/title
-#: C/gs-launch-applications.page:74
+#: C/gs-launch-applications.page:74(section/title)
 msgid "Launch applications with the keyboard"
 msgstr "Meluncurkan aplikasi dengan papan tik"
 
-#. (itstool) path: item/p
-#: C/gs-launch-applications.page:77
-#, fuzzy
+#: C/gs-launch-applications.page:77(item/p)
 msgid ""
 "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key."
 msgstr ""
-"Buka <gui>Ringkasan Aktivitas</gui> dengan menekan tombol <key>Super</key>."
+"Buka <gui>Ringkasan Aktivitas</gui> dengan menekan tombol <key href=\"help"
+":gnome-help/keyboard-key-super\">Super</key>."
 
-#. (itstool) path: item/p
-#: C/gs-launch-applications.page:79
-#, fuzzy
+#: C/gs-launch-applications.page:79(item/p)
 msgid ""
 "Start typing the name of the application you want to launch. Searching for "
 "the application begins instantly."
 msgstr ""
-"Mulailah mengetik nama aplikasi yang ingin Anda luncurkan. Pencarian "
+"Mulailah mengetikkan nama aplikasi yang ingin Anda luncurkan. Pencarian "
 "aplikasi dimulai seketika."
 
-#. (itstool) path: item/p
-#: C/gs-launch-applications.page:81
+#: C/gs-launch-applications.page:81(item/p)
 msgid ""
 "Once the icon of the application is shown and selected, press <key> Enter</"
 "key> to launch the application."
@@ -1523,36 +1569,30 @@ msgstr ""
 "Sekali ikon aplikasi ditampilkan dan dipilih, tekan <key>Enter</key> untuk "
 "meluncurkan aplikasi."
 
-#. (itstool) path: p/link
-#: C/gs-legal.xml:3
+#: C/gs-legal.xml:3(p/link)
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
 msgstr "Creative Commons Attribution-ShareAlike 3.0 Unported License"
 
-#. (itstool) path: license/p
-#: C/gs-legal.xml:3
+#: C/gs-legal.xml:3(license/p)
 msgid "This work is licensed under a <_:link-1/>."
 msgstr "Karya ini dilisensikan di bawah <_:link-1/>."
 
-#. (itstool) path: info/title
-#: C/gs-respond-messages.page:15
+#: C/gs-respond-messages.page:15(info/title)
 msgctxt "link:trail"
 msgid "Respond to messages"
 msgstr "Merespon ke pesan"
 
-#. (itstool) path: info/title
-#: C/gs-respond-messages.page:17
-#, fuzzy
+#: C/gs-respond-messages.page:17(info/title)
 msgctxt "link:seealso"
 msgid "A tutorial on responding to messages"
-msgstr "Merespon ke pesan"
+msgstr "Tutorial tentang merespon ke pesan"
 
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:87
+#: C/gs-respond-messages.page:87(section/title)
 msgid "Respond to a chat message with the mouse"
 msgstr "Merespon ke pesan obrolan memakai tetikus"
 
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:92 C/gs-respond-messages.page:128
+#: C/gs-respond-messages.page:92(item/p)
+#: C/gs-respond-messages.page:128(item/p)
 msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send "
 "the reply."
@@ -1560,8 +1600,8 @@ msgstr ""
 "Mulailah mengetikkan jawaban Anda dan ketika selesai, tekan <key>Enter</key> "
 "untuk mengirim jawaban."
 
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:94 C/gs-respond-messages.page:113
+#: C/gs-respond-messages.page:94(item/p)
+#: C/gs-respond-messages.page:113(item/p)
 msgid ""
 "To close the chat message, click the close button at the top right corner of "
 "the chat message."
@@ -1569,13 +1609,11 @@ msgstr ""
 "Untuk menutup pesan obrolan, klik tombol tutup pada pojok kanan atas dari "
 "pesan obrolan tersebut."
 
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:101
+#: C/gs-respond-messages.page:101(section/title)
 msgid "Delayed response to a chat message using the mouse"
 msgstr "Respon tertunda ke pesan obrolan memakai tetikus"
 
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:104
+#: C/gs-respond-messages.page:104(item/p)
 msgid ""
 "When a chat message appears in the message tray and you do not move your "
 "mouse to the message tray, the message disappears after a while."
@@ -1583,8 +1621,7 @@ msgstr ""
 "Ketika suatu pesan obrolan muncul di baki pesan dan Anda tak menggerakkan "
 "tetikus Anda ke baki pesan, pesan lenyap setelah beberapa saat."
 
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:107
+#: C/gs-respond-messages.page:107(item/p)
 msgid ""
 "To get back to your unanswered message, move your mouse to the message tray "
 "at the very bottom of the screen."
@@ -1592,8 +1629,7 @@ msgstr ""
 "Untuk mendapat kembali pesan Anda yang belum terjawab, gerakkan tetikus Anda "
 "ke baki pesan di bagian paling dasar layar."
 
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:109
+#: C/gs-respond-messages.page:109(item/p)
 msgid ""
 "When the message tray appears, click a small image that represents the "
 "person who sent you the message."
@@ -1601,8 +1637,7 @@ msgstr ""
 "Ketika baki pesan muncul, klik gambar kecil yang mewakili orang yang "
 "mengirimi Anda pesan."
 
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:111
+#: C/gs-respond-messages.page:111(item/p)
 msgid ""
 "When the chat message is shown, start typing your reply and when finished, "
 "press <key>Enter</key> to send the reply."
@@ -1610,25 +1645,22 @@ msgstr ""
 "Ketika pesan obrolan ditampilkan, mulailah mengetikkan jawaban Anda dan "
 "ketika selesai, tekan <key>Enter</key> untuk mengirim jawaban."
 
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:120
+#: C/gs-respond-messages.page:120(section/title)
 msgid "Delayed response to a chat message using the keyboard"
 msgstr "Respon tertunda ke suatu pesan obrolan memakai papan tik"
 
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:122
-#, fuzzy
+#: C/gs-respond-messages.page:122(item/p)
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq> <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq> to "
 "display the message tray that contains the messages."
 msgstr ""
 "Untuk mendapat kembali pesan-pesan obrolan Anda yang belum terjawab, tekan "
-"<keyseq><key>Super</key><key>M</key></keyseq> untuk menampilkan baki pesan "
-"yang memuat pesan-pesan."
+"<keyseq><key href=\"help:gnome-help/keyboard-key-"
+"super\">Super</key><key>M</key></keyseq> untuk menampilkan baki pesan yang "
+"memuat pesan-pesan."
 
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:126
+#: C/gs-respond-messages.page:126(item/p)
 msgid ""
 "Use the arrow keys to select a small image representing the person you want "
 "to reply to, and press <key>Enter</key>."
@@ -1636,140 +1668,116 @@ msgstr ""
 "Gunakan tombol panah untuk memiliki gambar kecil yang mewakili orang yang "
 "ingin Anda balas, dan tekan <key>Enter</key>."
 
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:131
-#, fuzzy
+#: C/gs-respond-messages.page:131(item/p)
 msgid ""
 "To dismiss the message tray, press <key>Esc</key> or <keyseq> <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>."
 msgstr ""
-"Untuk menyembunyikan baki pesan, tekan <key>Esc</key> atau "
-"<keyseq><key>Super</key><key>M</key></keyseq>."
+"Untuk menyembunyikan baki pesan, tekan <key>Esc</key> atau <keyseq><key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key></keyseq>."
 
-#. (itstool) path: text/tspan
-#: C/gs-search1.svg:229
+#: C/gs-search1.svg:229(text/tspan)
 #, no-wrap
 msgid "just type"
 msgstr "ketik saja"
 
-#. (itstool) path: text/tspan
-#: C/gs-search2.svg:182
+#: C/gs-search2.svg:182(text/tspan)
 #, no-wrap
 msgid "con"
 msgstr "con"
 
-#. (itstool) path: text/tspan
-#: C/gs-search2.svg:246
+#: C/gs-search2.svg:246(text/tspan)
 #, no-wrap
 msgid "Accounts"
 msgstr "Akun"
 
-#. (itstool) path: text/tspan
-#: C/gs-search2.svg:247
+#: C/gs-search2.svg:247(text/tspan)
 #, no-wrap
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
 
-#. (itstool) path: text/tspan
-#: C/gs-search2.svg:248
+#: C/gs-search2.svg:248(text/tspan)
 #, no-wrap
 msgid "config"
 msgstr "config"
 
-#. (itstool) path: text/tspan
-#: C/gs-search2.svg:249 C/gs-search2.svg:252
+#: C/gs-search2.svg:249(text/tspan) C/gs-search2.svg:252(text/tspan)
 #, no-wrap
 msgid "fontconfig"
 msgstr "fontconfig"
 
-#. (itstool) path: text/tspan
-#: C/gs-search2.svg:250
+#: C/gs-search2.svg:250(text/tspan)
 #, no-wrap
 msgid "system-config-http.zip"
 msgstr "system-config-http.zip"
 
-#. (itstool) path: text/tspan
-#: C/gs-search2.svg:251
+#: C/gs-search2.svg:251(text/tspan)
 #, no-wrap
 msgid "Icon guidelines"
 msgstr "Panduan ikon"
 
-#. (itstool) path: text/tspan
-#: C/gs-search2.svg:269
+#: C/gs-search2.svg:269(text/tspan)
 #, no-wrap
 msgid "Secure Linux Containers"
 msgstr "Secure Linux Containers"
 
-#. (itstool) path: text/tspan
-#: C/gs-search2.svg:270
+#: C/gs-search2.svg:270(text/tspan)
 #, no-wrap
 msgid "Developer Conference 2012"
 msgstr "Konferensi Pengembang 2012"
 
-#. (itstool) path: text/tspan
-#: C/gs-search2.svg:294 C/gs-web-browser2-firefox.svg:218
+#: C/gs-search2.svg:294(text/tspan)
+#: C/gs-web-browser2-firefox.svg:218(text/tspan)
 #, no-wrap
 msgid "Firefox"
 msgstr "Firefox"
 
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:137
+#: C/gs-search-settings.svg:137(text/tspan)
 #, no-wrap
 msgid "Search"
 msgstr "Cari"
 
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:148
+#: C/gs-search-settings.svg:148(text/tspan)
 #, no-wrap
 msgid "Files"
 msgstr "Berkas"
 
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:149
+#: C/gs-search-settings.svg:149(text/tspan)
 #, no-wrap
 msgid "Enabled"
 msgstr "Diaktifkan"
 
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:264
+#: C/gs-search-settings.svg:264(text/tspan)
 #, no-wrap
 msgid "Web"
 msgstr "Web"
 
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:265
+#: C/gs-search-settings.svg:265(text/tspan)
 #, no-wrap
 msgid "Photos"
 msgstr "Foto"
 
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:266
+#: C/gs-search-settings.svg:266(text/tspan)
 #, no-wrap
 msgid "Music"
 msgstr "Musik"
 
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:293
+#: C/gs-search-settings.svg:293(text/tspan)
 #, no-wrap
 msgid "OFF"
 msgstr "○"
 
-#. (itstool) path: info/title
-#: C/gs-switch-tasks.page:16
-#, fuzzy
+#: C/gs-switch-tasks.page:16(info/title)
 msgctxt "link:trail"
 msgid "Switch tasks"
 msgstr "Bertukar tugas"
 
-#. (itstool) path: info/title
-#: C/gs-switch-tasks.page:18
-#, fuzzy
+#: C/gs-switch-tasks.page:18(info/title)
 msgctxt "link:seealso"
 msgid "A tutorial on switching tasks"
-msgstr "Bertukar tugas"
+msgstr "Tutorial tentang bertukar tugas"
 
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:101
+#: C/gs-switch-tasks.page:101(item/p)
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen to show the <gui>Activities Overview</gui> where you can see "
@@ -1780,28 +1788,29 @@ msgstr ""
 "dapat melihat tugas-tugas yang sedang berjalan yang ditampilkan sebagai "
 "jendela-jendela kecil."
 
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:111
+#: C/gs-switch-tasks.page:111(item/p)
 msgid ""
 "You can switch between tasks by using the <gui>window list</gui> at the "
 "bottom of the screen. Open tasks appear as buttons in the <gui>window list</"
 "gui>."
 msgstr ""
+"Anda dapat berpindah antar tugas dengan memakai <gui>daftar jendela</gui> di "
+"bagian bawah layar. Tugas-tugas yang terbuka muncul sebagai tombol-tombol "
+"di dalam <gui>daftar jendela</gui>."
 
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:114
-#, fuzzy
+#: C/gs-switch-tasks.page:114(item/p)
 msgid "Click a button in the <gui>window list</gui> to switch to that task."
-msgstr "Klik suatu jendela bertukar tugas."
+msgstr ""
+"Klik suatu tombol dalam <gui>daftar jendela</gui> untuk berpindah ke tugas "
+"itu."
 
-#. (itstool) path: section/title
-#: C/gs-switch-tasks.page:124 C/gs-use-windows-workspaces.page:113
-#, fuzzy
+#: C/gs-switch-tasks.page:124(section/title)
+#: C/gs-use-windows-workspaces.page:113(section/title)
 msgid "Tile windows"
-msgstr "Menjajarkan Jendela"
+msgstr "Menjajarkan jendela"
 
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:127 C/gs-use-windows-workspaces.page:117
+#: C/gs-switch-tasks.page:127(item/p)
+#: C/gs-use-windows-workspaces.page:117(item/p)
 msgid ""
 "To maximize a window along a side of the screen, grab the window's titlebar "
 "and drag it to the left or right side of the screen."
@@ -1809,9 +1818,8 @@ msgstr ""
 "Untuk memaksimalkan suatu jendela sepanjang sisi layar, tangkap bilah judul "
 "jendela dan seretlah ke sisi kiri atau kanan layar."
 
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:129 C/gs-use-windows-workspaces.page:119
-#, fuzzy
+#: C/gs-switch-tasks.page:129(item/p)
+#: C/gs-use-windows-workspaces.page:119(item/p)
 msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
 "along the selected side of the screen."
@@ -1819,55 +1827,51 @@ msgstr ""
 "Ketika separuh layar sedang disorot, jatuhkan jendela untuk memaksimalkannya "
 "sepanjang sisi layar yang dipilih."
 
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:131 C/gs-use-windows-workspaces.page:121
-#, fuzzy
+#: C/gs-switch-tasks.page:131(item/p)
+#: C/gs-use-windows-workspaces.page:121(item/p)
 msgid ""
 "To maximize two windows side-by-side, grab the titlebar of the second window "
 "and drag it to the opposite side of the screen."
 msgstr ""
 "Untuk memaksimalkan dua jendela bersisian, tangkap bilah judul dari jendela "
-"kedua dan seretlah ke sisi berlawanan dari layar. Ketika separuh dari layar "
-"sedang disorot, jatuhkan jendela."
+"kedua dan seretlah ke sisi berlawanan dari layar."
 
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:133 C/gs-use-windows-workspaces.page:123
-#, fuzzy
+#: C/gs-switch-tasks.page:133(item/p)
+#: C/gs-use-windows-workspaces.page:123(item/p)
 msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
 "along the opposite side of the screen."
 msgstr ""
 "Ketika separuh layar sedang disorot, jatuhkan jendela untuk memaksimalkannya "
-"sepanjang sisi layar yang dipilih."
+"sepanjang sisi berlawanan dari layar."
 
-#. (itstool) path: section/title
-#: C/gs-switch-tasks.page:140
+#: C/gs-switch-tasks.page:140(section/title)
 msgid "Switch between windows"
-msgstr ""
+msgstr "Berpindah antar jendela"
 
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:143
+#: C/gs-switch-tasks.page:143(item/p)
 msgid ""
 "Press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
 "key><key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which "
 "lists the currently open windows."
 msgstr ""
+"Tekan <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super "
+"</key><key>Tab</key></keyseq> untuk menampilkan <gui>penukar jendela</gui>, "
+"yang menampilkan daftar jendela yang kini sedang terbuka."
 
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:146
+#: C/gs-switch-tasks.page:146(item/p)
 msgid ""
 "Release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> to "
 "select the next highlighted window in the <gui>window switcher</gui>."
 msgstr ""
+"Lepaskan <key href=\"help:gnome-help/keyboard-key-super\">Super</key> untuk "
+"memilih jendela berikutnya yang disorot dalam <gui>penukar jendela</gui>."
 
-#. (itstool) path: section/title
-#: C/gs-switch-tasks.page:157
-#, fuzzy
+#: C/gs-switch-tasks.page:157(section/title)
 msgid "Use search to switch applications"
-msgstr "Meluncurkan aplikasi"
+msgstr "Memakai pencarian untuk berpindah aplikasi"
 
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:160
+#: C/gs-switch-tasks.page:160(item/p)
 msgid ""
 "Press the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key "
 "to show the <gui>Activities Overview</gui>."
@@ -1875,305 +1879,282 @@ msgstr ""
 "Tekan tombol <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
 "untuk menampilkan <gui>Ringkasan Aktivitas</gui>."
 
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:162
-#, fuzzy
+#: C/gs-switch-tasks.page:162(item/p)
 msgid ""
 "Just start typing the name of the application you want to switch to. "
 "Applications matching what you have typed will appear as you type."
 msgstr ""
-"Mulailah mengetik nama aplikasi yang ingin Anda luncurkan. Pencarian "
-"aplikasi dimulai seketika."
+"Mulailah mengetikkan nama aplikasi yang ingin Anda tuju. Aplikasi-aplikasi "
+"yang cocok dengan apa yang telah Anda ketikkan akan muncul ketika Anda "
+"mengetik."
 
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:165
-#, fuzzy
+#: C/gs-switch-tasks.page:165(item/p)
 msgid ""
 "When the application that you want to switch to appears as the first result, "
 "press <key>Enter</key> to switch to it."
 msgstr ""
-"Ketika ikon aplikasi muncul sebagai hasil pertama, tekan <key>Enter</key> "
-"untuk mengaktifkan jendelanya yang terakhir dipakai."
+"Ketika aplikasi yang ingin Anda tuju muncul sebagai hasil pertama, tekan "
+"<key>Enter</key> untuk bertukar ke sana."
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-responding-to-messages.svg:88
+#: C/gs-thumb-responding-to-messages.svg:88(text/tspan)
 #, no-wrap
 msgid "Thanks f"
-msgstr ""
+msgstr "Terima kasih"
 
-#. (itstool) path: text/tspan
 #. Translators: S stands for Sunday here
-#: C/gs-thumb-timezone.svg:93
+#: C/gs-thumb-timezone.svg:93(text/tspan)
 #, no-wrap
 msgctxt "Sunday"
 msgid "S"
-msgstr ""
-
-#. (itstool) path: text/tspan
-#. Translators: M stands for Monday here
-#: C/gs-thumb-timezone.svg:94
-#, no-wrap
-msgid "M"
 msgstr "M"
 
-#. (itstool) path: text/tspan
+#. Translators: M stands for Monday here
+#: C/gs-thumb-timezone.svg:94(text/tspan)
+#, no-wrap
+msgid "M"
+msgstr "S"
+
 #. Translators: T stands for Tuesday here
-#: C/gs-thumb-timezone.svg:95
+#: C/gs-thumb-timezone.svg:95(text/tspan)
 #, no-wrap
 msgctxt "Tuesday"
 msgid "T"
-msgstr ""
+msgstr "S"
 
-#. (itstool) path: text/tspan
 #. Translators: W stands for Wednesday here
-#: C/gs-thumb-timezone.svg:96
+#: C/gs-thumb-timezone.svg:96(text/tspan)
 #, no-wrap
 msgid "W"
-msgstr "W"
+msgstr "R"
 
-#. (itstool) path: text/tspan
 #. Translators: T stands for Thursday here
-#: C/gs-thumb-timezone.svg:97
+#: C/gs-thumb-timezone.svg:97(text/tspan)
 #, no-wrap
 msgctxt "Thursday"
 msgid "T"
-msgstr ""
+msgstr "K"
 
-#. (itstool) path: text/tspan
 #. Translators: F stands for Friday here
-#: C/gs-thumb-timezone.svg:98
+#: C/gs-thumb-timezone.svg:98(text/tspan)
 #, no-wrap
 msgid "F"
-msgstr "F"
+msgstr "J"
 
-#. (itstool) path: text/tspan
 #. Translators: S stands for Saturday here
-#: C/gs-thumb-timezone.svg:99
+#: C/gs-thumb-timezone.svg:99(text/tspan)
 #, no-wrap
 msgctxt "Saturday"
 msgid "S"
-msgstr ""
+msgstr "S"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:108
+#: C/gs-thumb-timezone.svg:108(text/tspan)
 #, no-wrap
 msgid "8"
 msgstr "8"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:109
+#: C/gs-thumb-timezone.svg:109(text/tspan)
 #, no-wrap
 msgid "9"
 msgstr "9"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:110
+#: C/gs-thumb-timezone.svg:110(text/tspan)
 #, no-wrap
 msgid "10"
 msgstr "10"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:111
+#: C/gs-thumb-timezone.svg:111(text/tspan)
 #, no-wrap
 msgid "11"
 msgstr "11"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:112
+#: C/gs-thumb-timezone.svg:112(text/tspan)
 #, no-wrap
 msgid "12"
 msgstr "12"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:113
+#: C/gs-thumb-timezone.svg:113(text/tspan)
 #, no-wrap
 msgid "13"
 msgstr "13"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:114
+#: C/gs-thumb-timezone.svg:114(text/tspan)
 #, no-wrap
 msgid "14"
 msgstr "14"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:116
+#: C/gs-thumb-timezone.svg:116(text/tspan)
 #, no-wrap
 msgid "15"
 msgstr "15"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:117
+#: C/gs-thumb-timezone.svg:117(text/tspan)
 #, no-wrap
 msgid "16"
 msgstr "16"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:118
+#: C/gs-thumb-timezone.svg:118(text/tspan)
 #, no-wrap
 msgid "17"
 msgstr "17"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:119
+#: C/gs-thumb-timezone.svg:119(text/tspan)
 #, no-wrap
 msgid "18"
 msgstr "18"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:120
+#: C/gs-thumb-timezone.svg:120(text/tspan)
 #, no-wrap
 msgid "19"
 msgstr "19"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:121
+#: C/gs-thumb-timezone.svg:121(text/tspan)
 #, no-wrap
 msgid "20"
 msgstr "20"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:122
+#: C/gs-thumb-timezone.svg:122(text/tspan)
 #, no-wrap
 msgid "21"
 msgstr "21"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:124
+#: C/gs-thumb-timezone.svg:124(text/tspan)
 #, no-wrap
 msgid "22"
 msgstr "22"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:125
+#: C/gs-thumb-timezone.svg:125(text/tspan)
 #, no-wrap
 msgid "23"
 msgstr "23"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:126
+#: C/gs-thumb-timezone.svg:126(text/tspan)
 #, no-wrap
 msgid "24"
 msgstr "24"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:127
+#: C/gs-thumb-timezone.svg:127(text/tspan)
 #, no-wrap
 msgid "25"
 msgstr "25"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:128
+#: C/gs-thumb-timezone.svg:128(text/tspan)
 #, no-wrap
 msgid "26"
 msgstr "26"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:129
+#: C/gs-thumb-timezone.svg:129(text/tspan)
 #, no-wrap
 msgid "27"
 msgstr "27"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:130
+#: C/gs-thumb-timezone.svg:130(text/tspan)
 #, no-wrap
 msgid "28"
 msgstr "28"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:132
+#: C/gs-thumb-timezone.svg:132(text/tspan)
 #, no-wrap
 msgid "29"
 msgstr "29"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:133
+#: C/gs-thumb-timezone.svg:133(text/tspan)
 #, no-wrap
 msgid "30"
 msgstr "30"
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:134
+#: C/gs-thumb-timezone.svg:134(text/tspan)
 #, no-wrap
 msgid "31"
 msgstr "31"
 
-#. (itstool) path: info/title
-#: C/gs-use-system-search.page:15
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-use-system-search.page:22(media)
+msgctxt "_"
+msgid "external ref='gs-search1.svg' md5='d3c7dff33da14c6a7b32e3d2a0c80b29'"
+msgstr "-"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-use-system-search.page:33(media)
+msgctxt "_"
+msgid "external ref='gs-search2.svg' md5='108a030eecdd8fd56990f9987fdea110'"
+msgstr "-"
+
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-use-system-search.page:67(media)
+msgctxt "_"
+msgid ""
+"external ref='gs-search-settings.svg' md5='448b4f7f7881d9e26bdf215515fe014e'"
+msgstr "-"
+
+#: C/gs-use-system-search.page:15(info/title)
 msgctxt "link:trail"
 msgid "Use the system search"
 msgstr "Memakai pencarian sistem"
 
-#. (itstool) path: info/title
-#: C/gs-use-system-search.page:17
-#, fuzzy
+#: C/gs-use-system-search.page:17(info/title)
 msgctxt "link:seealso"
 msgid "A tutorial on using the system search"
-msgstr "Memakai pencarian sistem"
+msgstr "Tutorial tentang memakai pencarian sistem"
 
-#. (itstool) path: page/title
-#: C/gs-use-system-search.page:20
+#: C/gs-use-system-search.page:20(page/title)
 msgid "Use the system search"
 msgstr "Memakai pencarian sistem"
 
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:25
-#, fuzzy
+#: C/gs-use-system-search.page:25(item/p)
 msgid ""
 "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key. Start typing to search."
 msgstr ""
-"Buka <gui>Ringkasan Aktivitas</gui> dengan menekan tombol <key>Super</key>."
+"Buka <gui>Ringkasan Aktivitas</gui> dengan menekan tombol <key href=\"help"
+":gnome-help/keyboard-key-super\">Super</key>. Mulailah mengetik untuk "
+"mencari."
 
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:28
+#: C/gs-use-system-search.page:28(item/p)
 msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
 msgstr ""
+"Hasil yang cocok dengan apa yang telah Anda ketikkan akan muncul ketika Anda "
+"mengetik. Hasil pertama selalu disorot dan ditampilkan di puncak."
 
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:30
-#, fuzzy
+#: C/gs-use-system-search.page:30(item/p)
 msgid "Press <key>Enter</key> to switch to the first highlighted result."
-msgstr ""
-"Hasil yang paling awal selalu disorot, memungkinkan Anda dalam seketika "
-"melanjutkan query pencarian dengan <key>Enter</key> untuk mengaktifkannya."
+msgstr "Tekan <key>Enter</key> untuk bertukar ke hasil pertama yang disorot."
 
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:35
+#: C/gs-use-system-search.page:35(item/p)
 msgid "Items that may appear in the search results include:"
-msgstr ""
+msgstr "Butir-butir yang mungkin muncul dalam hasil pencarian termasuk:"
 
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:37
-#, fuzzy
+#: C/gs-use-system-search.page:37(item/p)
 msgid "matching applications, shown at the top of the search results,"
-msgstr "Meluncurkan aplikasi dengan papan tik"
+msgstr "aplikasi yang cocok, ditampilkan di bagian puncak hasil pencarian,"
 
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:39
-#, fuzzy
+#: C/gs-use-system-search.page:39(item/p)
 msgid "matching settings,"
-msgstr "Pengaturan Pencarian"
+msgstr "pengaturan yang cocok,"
 
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:40
+#: C/gs-use-system-search.page:40(item/p)
 msgid "matching contacts, and"
-msgstr ""
+msgstr "kontak yang cocok, dan"
 
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:41
+#: C/gs-use-system-search.page:41(item/p)
 msgid "matching documents."
-msgstr ""
+msgstr "dokumen yang cocok."
 
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:44
+#: C/gs-use-system-search.page:44(item/p)
 msgid "In the search results, click the item to switch to it."
-msgstr ""
+msgstr "Di dalam hasil pencarian, klik butir tersebut untuk bertukar ke sana."
 
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:45
+#: C/gs-use-system-search.page:45(item/p)
 msgid ""
 "Alternatively, highlight an item using the arrow keys and press <key>Enter</"
 "key>."
@@ -2181,14 +2162,11 @@ msgstr ""
 "Sebagai alternatif, sorot suatu butir memakai tombol panah dan tekan "
 "<key>Enter</key>."
 
-#. (itstool) path: section/title
-#: C/gs-use-system-search.page:51
-#, fuzzy
+#: C/gs-use-system-search.page:51(section/title)
 msgid "Search from inside applications"
-msgstr "Meluncurkan aplikasi"
+msgstr "Mencari dari dalam aplikasi"
 
-#. (itstool) path: section/p
-#: C/gs-use-system-search.page:53
+#: C/gs-use-system-search.page:53(section/p)
 msgid ""
 "The system search aggregates results from various applications. On the left-"
 "hand side of the search results, you can see icons of applications that "
@@ -2197,168 +2175,161 @@ msgid ""
 "matches are shown in the <gui>Activities Overview</gui>, searching from "
 "inside the application may give you better search results."
 msgstr ""
+"Pencarian sistem mengagregasi hasil-hasil dari berbagai aplikasi. Pada sisi "
+"kiri hasil pencarian, Anda dapat melihat ikon-ikon aplikasi yang menyediakan "
+"hasil pencarian. Klik sat dari ikon-ikon tersebut untuk memulai lagi "
+"pencarian dari dalam aplikasi yang terkait dengan ikon itu. Karena hanya "
+"kecocokan terbaik yang ditampilkan dalam <gui>Ringkasan Aktivitas</gui>, "
+"mencari dari dalam aplikasi mungkin memberikan hasil pencarian yang lebih "
+"baik."
 
-#. (itstool) path: section/title
-#: C/gs-use-system-search.page:65
+#: C/gs-use-system-search.page:65(section/title)
 msgid "Customize search results"
 msgstr "Menggubah hasil pencarian"
 
-#. (itstool) path: note/p
-#: C/gs-use-system-search.page:70
+#: C/gs-use-system-search.page:70(note/p)
 msgid ""
 "GNOME lets you customize what you want to display in the search results in "
 "the <gui>Activities Overview</gui>. For example, you can choose whether you "
 "want to show results for websites, photos, or music."
 msgstr ""
+"GNOME memungkinkan Anda untuk menggubah apa yang ingin Anda tampilkan dalam "
+"hasil pencarian di <gui>Ringkasan Aktivitas</gui>. Sebagai contoh, Anda "
+"dapat memilih apakah Anda ingin menampilkan hasil untuk situs-situs web, "
+"foto-foto, atau musik."
 
-#. (itstool) path: section/p
-#: C/gs-use-system-search.page:76
+#: C/gs-use-system-search.page:76(section/p)
 msgid "To customize what is displayed in the search results:"
-msgstr ""
+msgstr "Untuk menggubah apa yang ditampilkan dalam hasil pencarian:"
 
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:81
-#, fuzzy
+#: C/gs-use-system-search.page:81(item/p)
 msgid "From the list of items, select <gui>Search</gui>."
-msgstr "Dari daftar butir, pilih <gui>Latar Belakang</gui>."
+msgstr "Dari daftar butir, pilih <gui>Cari</gui>."
 
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:82
+#: C/gs-use-system-search.page:82(item/p)
 msgid ""
 "In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
 "the search location you want to enable or disable."
 msgstr ""
+"Dalam daftar lokasi pencarian, klik saklar <gui>NYALA/MATI</gui> di sebelah "
+"lokasi pencarian yang ingin Anda fungsikan atau nonaktifkan."
 
-#. (itstool) path: info/title
-#: C/gs-use-windows-workspaces.page:15
+#: C/gs-use-windows-workspaces.page:15(info/title)
 msgctxt "link:trail"
 msgid "Use windows and workspaces"
 msgstr "Memakai jendela dan area kerja"
 
-#. (itstool) path: info/title
-#: C/gs-use-windows-workspaces.page:17
-#, fuzzy
+#: C/gs-use-windows-workspaces.page:17(info/title)
 msgctxt "link:seealso"
 msgid "A tutorial on using windows and workspaces"
-msgstr "Jendela dan Area Kerja"
+msgstr "Tutorial tentang memakai jendela dan ruang kerja"
 
-#. (itstool) path: section/title
-#: C/gs-use-windows-workspaces.page:97
+#: C/gs-use-windows-workspaces.page:97(section/title)
 msgid "Maximize and unmaximize windows"
-msgstr ""
+msgstr "Maksimalkan dan tak maksimalkan jendela"
 
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:101
-#, fuzzy
+#: C/gs-use-windows-workspaces.page:101(item/p)
 msgid ""
 "To maximize a window so that it takes up all of the space on your desktop, "
 "grab the window's titlebar and drag it to the top of the screen."
 msgstr ""
-"Untuk memaksimalkan suatu jendela sepanjang sisi layar, tangkap bilah judul "
-"jendela dan seretlah ke sisi kiri atau kanan layar."
+"Untuk memaksimalkan suatu jendela sehingga itu memakai seluruh ruang pada "
+"desktop Anda, tangkap bilah judul jendela dan seretlah ke puncak layar."
 
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:104
-#, fuzzy
+#: C/gs-use-windows-workspaces.page:104(item/p)
 msgid "When the screen is highlighted, release the window to maximize it."
-msgstr ""
-"Ketika separuh layar sedang disorot, jatuhkan jendela untuk memaksimalkannya "
-"sepanjang sisi layar yang dipilih."
+msgstr "Ketika layar sedang disorot, jatuhkan jendela untuk memaksimalkannya."
 
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:106
-#, fuzzy
+#: C/gs-use-windows-workspaces.page:106(item/p)
 msgid ""
 "To restore a window to its unmaximized size, grab the window's titlebar and "
 "drag it away from the edges of the screen."
 msgstr ""
-"Untuk memaksimalkan suatu jendela sepanjang sisi layar, tangkap bilah judul "
-"jendela dan seretlah ke sisi kiri atau kanan layar."
+"Untuk mengembalikan suatu jendela ke ukuran tak maksimal, tangkap bilah "
+"judul jendela dan seretlah menjauh dari tepi layar."
 
-#. (itstool) path: section/title
-#: C/gs-use-windows-workspaces.page:130
+#: C/gs-use-windows-workspaces.page:130(section/title)
 msgid "Maximize and unmaximize windows using the keyboard"
-msgstr ""
+msgstr "Memaksimalkan dan tak memaksimalkan jendela memakai papan tik"
 
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:136
+#: C/gs-use-windows-workspaces.page:136(item/p)
 msgid ""
 "To unmaximize a window using the keyboard, hold down the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</key>."
 msgstr ""
+"Untuk tak memaksimalkan suatu jendela memakai papan tik, tahan tombol <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key> dan tekan "
+"<key>↓</key>."
 
-#. (itstool) path: section/title
-#: C/gs-use-windows-workspaces.page:144
+#: C/gs-use-windows-workspaces.page:144(section/title)
 msgid "Tile windows using the keyboard"
-msgstr ""
+msgstr "Jajarkan jendela memakai papan tik"
 
-#. (itstool) path: section/title
-#: C/gs-use-windows-workspaces.page:158
-#, fuzzy
+#: C/gs-use-windows-workspaces.page:158(section/title)
 msgid "Switch workspaces using the keyboard"
-msgstr "Respon tertunda ke suatu pesan obrolan memakai papan tik"
+msgstr "Bertukar ruang kerja memakai papan tik"
 
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:162
+#: C/gs-use-windows-workspaces.page:162(item/p)
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
 "key><key>Page Down</key></keyseq>."
 msgstr ""
+"Untuk memindah ke suatu ruang kerja di bawah yang saat ini, tekan "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</key><key>Page "
+"Down</key></keyseq>."
 
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:165
+#: C/gs-use-windows-workspaces.page:165(item/p)
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
 "key><key>Page Up</key></keyseq>."
 msgstr ""
+"Untuk memindah ke suatu ruang kerja di atas yang saat ini, tekan "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</key><key>Page "
+"Up</key></keyseq>."
 
-#. (itstool) path: text/tspan
-#: C/gs-web-browser1-firefox-classic.svg:118
+#: C/gs-web-browser1-firefox-classic.svg:118(text/tspan)
 #, no-wrap
 msgid "Applications"
 msgstr "Aplikasi"
 
-#. (itstool) path: text/tspan
-#: C/gs-web-browser2-firefox.svg:147 C/gs-web-browser2.svg:153
+#: C/gs-web-browser2-firefox.svg:147(text/tspan)
+#: C/gs-web-browser2.svg:153(text/tspan)
 #, no-wrap
 msgid "gnome"
 msgstr "gnome"
 
-#. (itstool) path: text/tspan
-#: C/gs-web-browser2-firefox.svg:151 C/gs-web-browser2.svg:157
+#: C/gs-web-browser2-firefox.svg:151(text/tspan)
+#: C/gs-web-browser2.svg:157(text/tspan)
 #, no-wrap
 msgid "Planet Gnome"
 msgstr "Planet Gnome"
 
-#. (itstool) path: text/tspan
-#: C/gs-web-browser2-firefox.svg:152 C/gs-web-browser2.svg:158
+#: C/gs-web-browser2-firefox.svg:152(text/tspan)
+#: C/gs-web-browser2.svg:158(text/tspan)
 #, no-wrap
 msgid "GNOME 3"
 msgstr "GNOME 3"
 
-#. (itstool) path: text/tspan
-#: C/gs-web-browser2-firefox.svg:153 C/gs-web-browser2.svg:159
+#: C/gs-web-browser2-firefox.svg:153(text/tspan)
+#: C/gs-web-browser2.svg:159(text/tspan)
 #, no-wrap
 msgid "http://planet.gnome.org"
 msgstr "http://planet.gnome.org"
 
-#. (itstool) path: text/tspan
-#: C/gs-web-browser2-firefox.svg:154 C/gs-web-browser2.svg:160
+#: C/gs-web-browser2-firefox.svg:154(text/tspan)
+#: C/gs-web-browser2.svg:160(text/tspan)
 #, no-wrap
 msgid "http://gnome.org"
 msgstr "http://gnome.org"
 
-#. (itstool) path: text/tspan
-#: C/gs-web-browser2-firefox.svg:275
+#: C/gs-web-browser2-firefox.svg:275(text/tspan)
 #, no-wrap
 msgid "planet.gnome.org"
 msgstr "planet.gnome.org"
 
-#. (itstool) path: text/tspan
-#: C/gs-web-browser2.svg:247
+#: C/gs-web-browser2.svg:247(text/tspan)
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
-
