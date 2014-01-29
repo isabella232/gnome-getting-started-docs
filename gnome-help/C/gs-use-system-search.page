@@ -19,7 +19,8 @@
 
   <title>Use the system search</title>
 
-    <media type="image" its:translate="no" src="gs-search1.svg" width="100%" />
+    <media its:translate="no" type="image" mime="image/svg"
+    src="gs-search1.svg" width="100%" />
     
     <steps>
     <item><p>Open the <gui>Activities Overview</gui> by pressing the
@@ -30,7 +31,8 @@
     <p>Press <key>Enter</key> to switch to the first highlighted result.</p></item>
     </steps>
     
-    <media type="image" its:translate="no" src="gs-search2.svg" width="100%" />
+    <media its:translate="no" type="image" mime="image/svg"
+    src="gs-search2.svg" width="100%" />
     <steps style="continues">
       <item><p>Items that may appear in the search results include:</p>
       <list>
@@ -64,7 +66,8 @@
 
       <title>Customize search results</title>
 
-      <media type="image" its:translate="no" src="gs-search-settings.svg" width="100%" />
+      <media its:translate="no" type="image" mime="image/svg"
+      src="gs-search-settings.svg" width="100%" />
 
       <note style="important">
       <p>GNOME lets you customize what you want to display in the search

@@ -23,7 +23,8 @@
 <if:choose>
 <if:when test="!platform:gnome-classic">
 
-    <media type="image" its:translate="no" src="gs-web-browser1-firefox.svg" width="100%" />
+    <media its:translate="no" type="image" mime="image/svg"
+    src="gs-web-browser1-firefox.svg" width="100%" />
 
     <steps>
       <item><p>Move your mouse pointer to the <gui>Activities</gui> corner at
@@ -40,7 +41,8 @@
 </if:when>
 <if:when test="platform:gnome-classic">
 
-    <media type="image" its:translate="no" src="gs-web-browser1-firefox-classic.svg" width="100%" />
+    <media its:translate="no" type="image" mime="image/svg"
+    src="gs-web-browser1-firefox-classic.svg" width="100%" />
 
     <steps>
       <item><p>Click the <gui>Applications</gui> menu at the top left of the
@@ -52,7 +54,8 @@
 </if:when>
 </if:choose>
 
-    <media type="image" its:translate="no" src="gs-web-browser2-firefox.svg" width="100%" />
+    <media its:translate="no" type="image" mime="image/svg"
+    src="gs-web-browser2-firefox.svg" width="100%" />
 
     <steps style="continues">
       <item><p>Click the address bar at the top of the browser window and start

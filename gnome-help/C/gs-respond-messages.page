@@ -21,7 +21,7 @@
 
   <ui:overlay width="812" height="452">
   <media type="video" its:translate="no" src="figures/gnome-responding-to-messages.webm" width="700" height="394">
-    <ui:thumb src="gs-thumb-responding-to-messages.svg"/>
+    <ui:thumb type="image" mime="image/svg" src="gs-thumb-responding-to-messages.svg"/>
       <tt:tt its:translate="yes" xmlns:tt="http://www.w3.org/ns/ttml">
        <tt:body>
          <tt:div begin="1s" end="3s">
