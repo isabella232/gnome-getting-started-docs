@@ -7,7 +7,7 @@ case $1 in
 	  blender="blender";;
 esac
 
-for script in *py
+for script in gnome*py
   do blend=`basename $script py`blend
   $blender -b $blend -P $script
 done
