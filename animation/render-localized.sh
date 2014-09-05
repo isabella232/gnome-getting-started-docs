@@ -9,5 +9,5 @@ esac
 
 for script in gnome*py
   do blend=`basename $script py`blend
-  $blender -b $blend -P $script
+  $blender -b $blend -P $script # > /dev/null
 done
