@@ -1,396 +1,401 @@
-# Krishnababu Krothapalli <kkrothap@redhat.com>, 2013.
+# Krishnababu Krothapalli <kkrothap@redhat.com>, 2013, 2014.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-12-22 21:19+0000\n"
-"PO-Revision-Date: 2013-10-10 08:51-0400\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2014-09-11 06:50+0000\n"
+"PO-Revision-Date: 2014-09-12 10:12+0530\n"
 "Last-Translator: Krishnababu Krothapalli <kkrothap@redhat.com>\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
 "Language: te\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Zanata 3.1.2\n"
+"X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "KrishnaBabu K <kkrothap@redhat.com> 2013."
+msgstr "KrishnaBabu K <kkrothap@redhat.com> 2013, 2014."
 
-#: C/index.page:7(page/title) C/getting-started.page:16(page/title)
-#: C/gs-animation.xml:5(titles/t)
-msgid "Getting Started"
-msgstr "ప్రారంభించుట"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:23(media) C/gs-launch-applications.page:24(media)
-#, fuzzy
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-launching-applications.webm' "
-"md5='53d8153cc527633f622a60fd969df40b'"
-msgstr ""
-"external ref='figures/gnome-launching-applications.webm' "
-"md5='1182da390c28028167218c737619543d'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:64(media) C/gs-use-windows-workspaces.page:23(media)
-#, fuzzy
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='c63a0887b51fba338c4a4711af9b9011'"
-msgstr ""
-"external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='399f502514acf244fd22ba774b1c812e'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:144(media) C/gs-switch-tasks.page:27(media)
-#, fuzzy
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-task-switching.webm' "
-"md5='71e1e12fa2083f95c43194e974164fd6'"
-msgstr ""
-"external ref='figures/gnome-task-switching.webm' "
-"md5='a8fa976828cf7f4b4eac7cad346c65c1'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:210(media) C/gs-respond-messages.page:23(media)
-#, fuzzy
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-responding-to-messages.webm' "
-"md5='b457055f8ae820b33f1d8bd5d9842067'"
-msgstr ""
-"external ref='figures/gnome-responding-to-messages.webm' "
-"md5='f8522ebe4ac4e7be319217399122025a'"
-
-#: C/getting-started.page:11(info/desc)
+#. (itstool) path: info/desc
+#: C/getting-started.page:11
 msgid "New to GNOME? Learn how to get around."
 msgstr "గ్నోమ్ కు కొత్తా? ఎలా వుపయోగించాలో నేర్చుకోండి."
 
-#: C/getting-started.page:12(info/title)
+#. (itstool) path: info/title
+#: C/getting-started.page:12
 msgctxt "link"
 msgid "Getting Started with GNOME"
 msgstr "గ్నోమ్ తో ప్రారంభించండి"
 
-#: C/getting-started.page:13(info/title)
+#. (itstool) path: info/title
+#: C/getting-started.page:13
 msgctxt "text"
 msgid "Getting Started"
 msgstr "ప్రారంభించండి"
 
-#: C/getting-started.page:25(caption/desc)
-#: C/gs-launch-applications.page:21(page/title)
+#. (itstool) path: page/title
+#. (itstool) path: titles/t
+#: C/getting-started.page:16 C/gs-animation.xml:5
+msgid "Getting Started"
+msgstr "ప్రారంభించుట"
+
+#. (itstool) path: caption/desc
+#. (itstool) path: page/title
+#: C/getting-started.page:25 C/gs-launch-applications.page:22
 msgid "Launch applications"
 msgstr "అనువర్తనాలు ఆరంభించండి"
 
-#: C/getting-started.page:30(div/p) C/gs-animation.xml:4(titles/t)
-#: C/gs-launch-applications.page:29(div/p)
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:30 C/gs-animation.xml:4
+#: C/gs-launch-applications.page:30
 msgid "Launching Applications"
 msgstr "అనువర్తనాలు ఆరంభించుట"
 
-#: C/getting-started.page:33(div/p) C/getting-started.page:154(div/p)
-#: C/gs-launch-applications.page:32(div/p) C/gs-switch-tasks.page:35(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:33 C/getting-started.page:154
+#: C/gs-launch-applications.page:33 C/gs-switch-tasks.page:36
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen."
-msgstr "తెర పైన ఎడమవైపు మూలన <gui>కార్యకలాపాలు</gui> కు మీ మౌస్ సూచకిని కదుపుము."
+msgstr ""
+"తెర పైన ఎడమవైపు మూలన <gui>కార్యకలాపాలు</gui> కు మీ మౌస్ సూచకిని కదుపుము."
 
-#: C/getting-started.page:37(div/p) C/gs-launch-applications.page:36(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:37 C/gs-launch-applications.page:37
 msgid "Click the <gui>Show Applications</gui> icon."
 msgstr "<gui>అనువర్తనాలు చూపు</gui> ప్రతిమపై నొక్కుము."
 
-#: C/getting-started.page:40(div/p) C/gs-launch-applications.page:39(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:40 C/gs-launch-applications.page:40
 msgid "Click the application you want to run, for example, Help."
 msgstr "మీరు నడపాలనుకొంటున్న అనువర్తనంపై నొక్కుము, ఉదాహరణకు, సహాయం."
 
-#: C/getting-started.page:44(div/p) C/gs-launch-applications.page:43(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:44 C/gs-launch-applications.page:44
 msgid ""
 "Alternatively, use the keyboard to open the <gui>Activities Overview</gui> "
 "by pressing the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
 "key."
 msgstr ""
-"ప్రత్యామ్నాయంగా, <gui>కార్యకలాపాల అవలోకనం</gui> తెరుచుటకు కీబోర్డు వుపయోగించి <key href=\"help:"
+"ప్రత్యామ్నాయంగా, <gui>కార్యకలాపాల అవలోకనం</gui> తెరుచుటకు కీబోర్డు వుపయోగించి "
+"<key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> కీను నొక్కుము."
 
-#: C/getting-started.page:49(div/p) C/gs-launch-applications.page:48(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:49 C/gs-launch-applications.page:49
 msgid "Start typing the name of the application you want to launch."
 msgstr "మీరు ఆరంభించాలనుకొంటున్న అనువర్తనం పేరు టైపు చేసి దానిని ప్రారంభించు."
 
-#: C/getting-started.page:53(div/p) C/gs-launch-applications.page:52(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:53 C/gs-launch-applications.page:53
 msgid "Press <key>Enter</key> to launch the application."
 msgstr "అనువర్తనం ఆరంభించుటకు <key>Enter</key> వత్తుము."
 
-#: C/getting-started.page:66(caption/desc)
-#: C/gs-use-windows-workspaces.page:20(page/title)
+#. (itstool) path: caption/desc
+#. (itstool) path: page/title
+#: C/getting-started.page:66 C/gs-use-windows-workspaces.page:21
 msgid "Use windows and workspaces"
 msgstr "విండోలు మరియు పనిస్థలాలు వుపయోగించు"
 
-#: C/getting-started.page:71(div/p) C/gs-animation.xml:10(titles/t)
-#: C/gs-use-windows-workspaces.page:28(div/p)
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:71 C/gs-animation.xml:10
+#: C/gs-use-windows-workspaces.page:29
 msgid "Windows and Workspaces"
 msgstr "విండోలు మరియు పనిస్థలాలు"
 
-#: C/getting-started.page:74(div/p) C/gs-use-windows-workspaces.page:31(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:74 C/gs-use-windows-workspaces.page:32
 msgid ""
 "To maximize a window, grab the window's titlebar and drag it to the top of "
 "the screen."
-msgstr "విండోను పెద్దది చేయుటకు, విండో యొక్క శీర్షికపట్టీను పట్టుకొని తెర పైభాగమునకు లాగుము."
+msgstr ""
+"విండోను పెద్దది చేయుటకు, విండో యొక్క శీర్షికపట్టీను పట్టుకొని తెర పైభాగమునకు "
+"లాగుము."
 
-#: C/getting-started.page:78(div/p) C/gs-use-windows-workspaces.page:35(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:78 C/gs-use-windows-workspaces.page:36
 msgid "When the screen is highlighted, release the window."
 msgstr "తెర ఉద్దీపనం కాగానే, విండోను వదులుము."
 
-#: C/getting-started.page:81(div/p) C/gs-use-windows-workspaces.page:38(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:81 C/gs-use-windows-workspaces.page:39
 msgid ""
 "To unmaximize a window, grab the window's titlebar and drag it away from the "
 "edges of the screen."
-msgstr "విండో పరిమాణం తగ్గించుటకు, విండో యొక్క శీర్షికపట్టీను పట్టుకొని తెర యొక్క అంచులనుండి లాగివేయండి."
+msgstr ""
+"విండో పరిమాణం తగ్గించుటకు, విండో యొక్క శీర్షికపట్టీను పట్టుకొని తెర యొక్క "
+"అంచులనుండి లాగివేయండి."
 
-#: C/getting-started.page:85(div/p) C/gs-use-windows-workspaces.page:42(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:85 C/gs-use-windows-workspaces.page:43
 msgid ""
 "You can also click the top bar to drag the window away and unmaximize it."
 msgstr "విండో పరిమాణం తగ్గించుటకు మీరు పై పట్టీను నొక్కి విండోను లాగివేయవచ్చు."
 
-#: C/getting-started.page:89(div/p) C/getting-started.page:161(div/p)
-#: C/gs-switch-tasks.page:42(div/p) C/gs-use-windows-workspaces.page:46(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:89 C/getting-started.page:161
+#: C/gs-switch-tasks.page:43 C/gs-use-windows-workspaces.page:47
 msgid ""
 "To maximize a window along the left side of the screen, grab the window's "
 "titlebar and drag it to the left."
-msgstr "తెర ఎడమ వైపుకు విండోను పెద్దది చేయుటకు, విండో శీర్షికపట్టీను పట్టుకొని ఎడమవైపుకు లాగండి."
+msgstr ""
+"తెర ఎడమ వైపుకు విండోను పెద్దది చేయుటకు, విండో శీర్షికపట్టీను పట్టుకొని "
+"ఎడమవైపుకు లాగండి."
 
-#: C/getting-started.page:93(div/p) C/getting-started.page:101(div/p)
-#: C/getting-started.page:165(div/p) C/getting-started.page:173(div/p)
-#: C/gs-switch-tasks.page:46(div/p) C/gs-switch-tasks.page:54(div/p)
-#: C/gs-use-windows-workspaces.page:50(div/p)
-#: C/gs-use-windows-workspaces.page:58(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:93 C/getting-started.page:101
+#: C/getting-started.page:165 C/getting-started.page:173
+#: C/gs-switch-tasks.page:47 C/gs-switch-tasks.page:55
+#: C/gs-use-windows-workspaces.page:51 C/gs-use-windows-workspaces.page:59
 msgid "When half of the screen is highlighted, release the window."
 msgstr "తెర అర్ధభాగం ఉద్దీపనం కాగానే, విండోను వదులుము."
 
-#: C/getting-started.page:97(div/p) C/gs-use-windows-workspaces.page:54(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:97 C/gs-use-windows-workspaces.page:55
 msgid ""
 "To maximize a window along the right side of the screen, grab the window's "
 "titlebar and drag it to the right."
-msgstr "తెర కుడి వైపుకు విండోను పెద్దది చేయుటకు, విండో శీర్షికపట్టీను పట్టుకొని కుడివైపుకు లాగండి."
+msgstr ""
+"తెర కుడి వైపుకు విండోను పెద్దది చేయుటకు, విండో శీర్షికపట్టీను పట్టుకొని "
+"కుడివైపుకు లాగండి."
 
-#: C/getting-started.page:105(div/p)
-#: C/gs-use-windows-workspaces.page:62(div/p)
-#: C/gs-use-windows-workspaces.page:133(item/p)
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:105 C/gs-use-windows-workspaces.page:63
+#: C/gs-use-windows-workspaces.page:134
 msgid ""
 "To maximize a window using the keyboard, hold down the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
 msgstr ""
-"కీబోర్డు వుపయోగించి విండోను పెద్దది చేయుటకు, <key href=\"help:gnome-help/keyboard-key-"
+"కీబోర్డు వుపయోగించి విండోను పెద్దది చేయుటకు, <key "
+"href=\"help:gnome-help/keyboard-key-"
 "super\">Super</key> కీ నొక్కిపట్టి <key>↑</key> వత్తుము."
 
-#: C/getting-started.page:110(div/p)
-#: C/gs-use-windows-workspaces.page:67(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:110 C/gs-use-windows-workspaces.page:68
 msgid ""
 "To restore the window to its unmaximized size, hold down the <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
 "key>."
 msgstr ""
-"విండోను దాని క్రితం పరిమాణంకు తిప్పివుంచుటకు, <key href=\"help:gnome-help/keyboard-key-"
+"విండోను దాని క్రితం పరిమాణంకు తిప్పివుంచుటకు, <key "
+"href=\"help:gnome-help/keyboard-key-"
 "super\">Super</key> కీ నొక్కిపట్టి <key>↓</key> వత్తండి."
 
-#: C/getting-started.page:115(div/p)
-#: C/gs-use-windows-workspaces.page:72(div/p)
-#: C/gs-use-windows-workspaces.page:147(item/p)
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:115 C/gs-use-windows-workspaces.page:73
+#: C/gs-use-windows-workspaces.page:148
 msgid ""
 "To maximize a window along the right side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
 "<key>→</key>."
 msgstr ""
-"విండోను తెర కుడివైపునకు పెద్దది చేయుటకు, <key href=\"help:gnome-help/keyboard-key-"
+"విండోను తెర కుడివైపునకు పెద్దది చేయుటకు, <key "
+"href=\"help:gnome-help/keyboard-key-"
 "super\">Super</key> కీ నొక్కిపట్టి <key>→</key> వత్తండి."
 
-#: C/getting-started.page:120(div/p)
-#: C/gs-use-windows-workspaces.page:77(div/p)
-#: C/gs-use-windows-workspaces.page:150(item/p)
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:120 C/gs-use-windows-workspaces.page:78
+#: C/gs-use-windows-workspaces.page:151
 msgid ""
 "To maximize a window along the left side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
 "<key>←</key>."
 msgstr ""
-"విండోను తెర ఎడమవైపునకు పెద్దది చేయుటకు, <key href=\"help:gnome-help/keyboard-key-"
+"విండోను తెర ఎడమవైపునకు పెద్దది చేయుటకు, <key "
+"href=\"help:gnome-help/keyboard-key-"
 "super\">Super</key> కీ నొక్కిపట్టి <key>←</key> వత్తండి."
 
-#: C/getting-started.page:125(div/p)
-#: C/gs-use-windows-workspaces.page:82(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:125 C/gs-use-windows-workspaces.page:83
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
 "key><key>Page Down</key></keyseq>."
 msgstr ""
-"ప్రస్తుత పనిస్థలమునకు కిందన వున్న పనిస్థలమునకు కదుల్చుటకు, <keyseq><key href=\"help:"
+"ప్రస్తుత పనిస్థలమునకు కిందన వున్న పనిస్థలమునకు కదుల్చుటకు, <keyseq><key "
+"href=\"help:"
 "gnome-help/keyboard-key-super\">Super </key><key>Page Down</key></keyseq> "
 "వత్తండి."
 
-#: C/getting-started.page:130(div/p)
-#: C/gs-use-windows-workspaces.page:87(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:130 C/gs-use-windows-workspaces.page:88
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
 "key><key>Page Up</key></keyseq>."
 msgstr ""
-"ప్రస్తుత పనిస్థలమునకు పైని పనిస్థలమునకు కదుల్చుటకు,  <keyseq><key href=\"help:gnome-"
+"ప్రస్తుత పనిస్థలమునకు పైని పనిస్థలమునకు కదుల్చుటకు,  <keyseq><key "
+"href=\"help:gnome-"
 "help/keyboard-key-super\">Super </key><key>Page Up</key></keyseq> వత్తండి."
 
-#: C/getting-started.page:146(caption/desc)
-#: C/gs-switch-tasks.page:21(page/title)
-#: C/gs-switch-tasks.page:95(section/title)
+#. (itstool) path: caption/desc
+#. (itstool) path: page/title
+#. (itstool) path: section/title
+#: C/getting-started.page:146 C/gs-switch-tasks.page:22
+#: C/gs-switch-tasks.page:96
 msgid "Switch tasks"
 msgstr "కర్తవ్యాలను మార్చు"
 
-#: C/getting-started.page:151(div/p) C/gs-animation.xml:8(titles/t)
-#: C/gs-switch-tasks.page:32(div/p)
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:151 C/gs-animation.xml:8 C/gs-switch-tasks.page:33
 msgid "Switching Tasks"
 msgstr "కర్తవ్యాలను మార్చుట"
 
-#: C/getting-started.page:158(div/p) C/gs-switch-tasks.page:39(div/p)
-#: C/gs-switch-tasks.page:104(item/p)
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:158 C/gs-switch-tasks.page:40
+#: C/gs-switch-tasks.page:105
 msgid "Click a window to switch to that task."
 msgstr "కర్తవ్యమునకు మారుటకు విండోను నొక్కుము."
 
-#: C/getting-started.page:169(div/p) C/gs-switch-tasks.page:50(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:169 C/gs-switch-tasks.page:51
 msgid ""
 "To maximize a window along the right side, grab the window's titlebar and "
 "drag it to the right."
-msgstr "కుడి వైపుకు విండోను పెద్దది చేయుటకు, విండో శీర్షికపట్టీను పట్టుకొని కుడివైపుకు లాగండి."
+msgstr ""
+"కుడి వైపుకు విండోను పెద్దది చేయుటకు, విండో శీర్షికపట్టీను పట్టుకొని "
+"కుడివైపుకు లాగండి."
 
-#: C/getting-started.page:177(div/p) C/gs-switch-tasks.page:58(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:177 C/gs-switch-tasks.page:59
 msgid ""
 "Press <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
 "key><key> Tab</key></keyseq> to show the <gui>window switcher</gui>."
 msgstr ""
-"<gui>విండో మార్చునది</gui> చూపుటకు <keyseq> <key href=\"help:gnome-help/keyboard-"
+"<gui>విండో మార్చునది</gui> చూపుటకు <keyseq> <key "
+"href=\"help:gnome-help/keyboard-"
 "key-super\">Super</key><key> Tab</key></keyseq> వత్తుము."
 
-#: C/getting-started.page:182(div/p) C/gs-switch-tasks.page:63(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:182 C/gs-switch-tasks.page:64
 msgid ""
 "Release <key href=\"help:gnome-help/keyboard-key-super\">Super </key> to "
 "select the next highlighted window."
 msgstr ""
-"తరువాతి ఉద్దీపన విండో ఎంపికచేయుటకు <key href=\"help:gnome-help/keyboard-key-super"
+"తరువాతి ఉద్దీపన విండో ఎంపికచేయుటకు <key href=\"help:gnome-help/keyboard-key-su"
+"per"
 "\">Super </key> ను వదులుము."
 
-#: C/getting-started.page:187(div/p) C/gs-switch-tasks.page:68(div/p)
-#: C/gs-switch-tasks.page:149(item/p)
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:187 C/gs-switch-tasks.page:69
+#: C/gs-switch-tasks.page:150
 msgid ""
 "To cycle through the list of open windows, do not release <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> but hold it down, and press "
 "<key>Tab</key>."
 msgstr ""
-"తెరచిన విండోల జాబితా చుట్టిరావడానికి, <key href=\"help:gnome-help/keyboard-key-super"
+"తెరచిన విండోల జాబితా చుట్టిరావడానికి, <key "
+"href=\"help:gnome-help/keyboard-key-super"
 "\">Super</key> ను నొక్కివుంచి,  <key>Tab</key> వత్తుము."
 
-#: C/getting-started.page:192(div/p) C/gs-switch-tasks.page:73(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:192 C/gs-switch-tasks.page:74
 msgid ""
 "Press the <key href=\"help:gnome-help/keyboard-key-super\">Super </key> key "
 "to show the <gui>Activities Overview</gui>."
 msgstr ""
-"<gui>కార్యకలాపాల అవలోకనం</gui> చూపుటకు <key href=\"help:gnome-help/keyboard-key-"
+"<gui>కార్యకలాపాల అవలోకనం</gui> చూపుటకు <key "
+"href=\"help:gnome-help/keyboard-key-"
 "super\">Super </key> కీ వత్తుము."
 
-#: C/getting-started.page:196(div/p) C/gs-switch-tasks.page:77(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:196 C/gs-switch-tasks.page:78
 msgid "Start typing the name of the application you want to switch to."
 msgstr "మీరు మారాలనుకొంటున్న అనువర్తనం పేరు టైపు చేసి దానికి మారండి."
 
-#: C/getting-started.page:200(div/p) C/gs-switch-tasks.page:81(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:200 C/gs-switch-tasks.page:82
 msgid ""
 "When the application appears as the first result, press <key> Enter</key> to "
 "switch to it."
-msgstr "అనువర్తనం మొదటి ఫలితంగా కనిపించినప్పుడు, దానికి మారులకు <key> Enter</key> వత్తండి."
+msgstr ""
+"అనువర్తనం మొదటి ఫలితంగా కనిపించినప్పుడు, దానికి మారులకు <key> Enter</key> "
+"వత్తండి."
 
-#: C/getting-started.page:212(caption/desc)
-#: C/gs-respond-messages.page:20(page/title)
+#. (itstool) path: caption/desc
+#. (itstool) path: page/title
+#: C/getting-started.page:212 C/gs-respond-messages.page:21
 msgid "Respond to messages"
 msgstr "స్పందన సందేశాలు"
 
-#: C/getting-started.page:218(div/p) C/gs-animation.xml:7(titles/t)
-#: C/gs-respond-messages.page:28(div/p)
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:218 C/gs-animation.xml:7
+#: C/gs-respond-messages.page:29
 msgid "Responding to Messages"
 msgstr "సందేశాలను స్పందించుచున్నది"
 
-#: C/getting-started.page:221(div/p) C/gs-respond-messages.page:31(div/p)
-#: C/gs-respond-messages.page:90(item/p)
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:221 C/gs-respond-messages.page:32
+#: C/gs-respond-messages.page:91
 msgid ""
 "Move your mouse to the message tray at the bottom of the screen and click "
 "the chat message."
-msgstr "తెర కింది వైపున సందేశాల ట్రేనకు మీ మౌస్‌ను కదిపి సంభాషణ సందేశాలపై నొక్కుము."
+msgstr ""
+"తెర కింది వైపున సందేశాల ట్రేనకు మీ మౌస్‌ను కదిపి సంభాషణ సందేశాలపై నొక్కుము."
 
-#: C/getting-started.page:225(div/p) C/gs-respond-messages.page:35(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:225 C/gs-respond-messages.page:36
 msgid ""
 "Start typing your reply and when finished, press <key>Enter </key> to send "
 "the reply."
-msgstr "మీ ప్రత్యుత్తరమును టైపు చేసి పూర్తవగానే, దానిని పంపుటకు <key>Enter </key> వత్తండి."
+msgstr ""
+"మీ ప్రత్యుత్తరమును టైపు చేసి పూర్తవగానే, దానిని పంపుటకు <key>Enter </key> "
+"వత్తండి."
 
-#: C/getting-started.page:229(div/p) C/getting-started.page:250(div/p)
-#: C/gs-respond-messages.page:39(div/p) C/gs-respond-messages.page:60(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:229 C/getting-started.page:250
+#: C/gs-respond-messages.page:40 C/gs-respond-messages.page:61
 msgid "Close the chat message."
 msgstr "సంభాషణ సందేశం మూయండి."
 
-#: C/getting-started.page:232(div/p) C/gs-animation.xml:9(titles/t)
-#: C/gs-respond-messages.page:42(div/p)
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:232 C/gs-animation.xml:9
+#: C/gs-respond-messages.page:43
 msgid "Delayed Response"
 msgstr "ఆలస్యమైన స్పందన"
 
-#: C/getting-started.page:235(div/p) C/gs-respond-messages.page:45(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:235 C/gs-respond-messages.page:46
 msgid ""
 "A chat message in the message tray disappears after a while if you do not "
 "move your mouse to the message tray."
 msgstr ""
-"మీ మౌస్‌ను సందేశ ట్రేనకు కదల్చకపోతే కొంతసేపటి తరువాత సందేశ ట్రే నందలి సంభాషణ సందేశం కనిపించదు."
+"మీ మౌస్‌ను సందేశ ట్రేనకు కదల్చకపోతే కొంతసేపటి తరువాత సందేశ ట్రే నందలి సంభాషణ "
+"సందేశం కనిపించదు."
 
-#: C/getting-started.page:239(div/p) C/gs-respond-messages.page:49(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:239 C/gs-respond-messages.page:50
 msgid ""
 "To get back to your unanswered message, move your mouse to the message tray."
-msgstr "మీరు సమాధానమివ్వని సందేశం తిరిగి పొందుటకు, మీ మౌస్‌ను సందేశ ట్రేనకు కదుల్చుము."
+msgstr ""
+"మీరు సమాధానమివ్వని సందేశం తిరిగి పొందుటకు, మీ మౌస్‌ను సందేశ ట్రేనకు కదుల్చుము."
 
-#: C/getting-started.page:243(div/p) C/gs-respond-messages.page:53(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:243 C/gs-respond-messages.page:54
 msgid "Click the person who sent you the message."
 msgstr "మీ సందేశం పంపిన వ్యక్తిని నొక్కుము."
 
-#: C/getting-started.page:246(div/p) C/getting-started.page:262(div/p)
-#: C/gs-respond-messages.page:56(div/p) C/gs-respond-messages.page:72(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:246 C/getting-started.page:262
+#: C/gs-respond-messages.page:57 C/gs-respond-messages.page:73
 msgid "Start typing your reply and when finished, press <key>Enter </key>."
 msgstr "మీ ప్రత్యుత్తరమును టైపు చేసి పూర్తవగానే, <key>Enter </key> వత్తండి."
 
-#: C/getting-started.page:253(div/p) C/gs-respond-messages.page:63(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:253 C/gs-respond-messages.page:64
 msgid ""
 "To show the message tray, press <keyseq> <key href=\"help:gnome-help/"
 "keyboard-key-super\">Super</key> <key>M</key></keyseq>"
@@ -398,1122 +403,1120 @@ msgstr ""
 "సందేశ ట్రేను చూపుటకు, <keyseq> <key href=\"help:gnome-help/keyboard-key-super"
 "\">Super</key> <key>M</key></keyseq> వత్తుము"
 
-#: C/getting-started.page:258(div/p) C/gs-respond-messages.page:68(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:258 C/gs-respond-messages.page:69
 msgid ""
 "Use the arrow keys to select the person you want to reply to, and press "
 "<key>Enter</key>."
 msgstr ""
-"మీరు ప్రత్యుత్తరము ఇవ్వాలనుకుంటున్న వ్యక్తిని ఎంపికచేయుటకు బాణపు గుర్తులను వుపయోగించుము, మరియు "
+"మీరు ప్రత్యుత్తరము ఇవ్వాలనుకుంటున్న వ్యక్తిని ఎంపికచేయుటకు బాణపు గుర్తులను "
+"వుపయోగించుము, మరియు "
 "<key>Enter</key> వత్తుము."
 
-#: C/getting-started.page:266(div/p) C/gs-respond-messages.page:76(div/p)
-#: C/gs-respond-messages.page:130(item/p)
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:266 C/gs-respond-messages.page:77
+#: C/gs-respond-messages.page:131
 msgid "Press <key>Esc</key> to close the chat message."
 msgstr "సంభాషణ సందేశం మూయుటకు <key>Esc</key> వత్తండి."
 
-#: C/getting-started.page:269(div/p) C/gs-respond-messages.page:79(div/p)
+#. (itstool) path: div/p
+#: C/getting-started.page:269 C/gs-respond-messages.page:80
 msgid "To dismiss the message tray, press <key>Esc</key>."
 msgstr "సందేశ ట్రేను తొలగించుటకు, <key>Esc</key> వత్తండి."
 
-#: C/getting-started.page:278(links/title)
+#. (itstool) path: links/title
+#: C/getting-started.page:278
 msgid "Common Tasks"
 msgstr "ఉమ్మడి కర్తవ్యాలు"
 
-#: C/gs-animation.xml:3(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:3
 msgid "Welcome"
 msgstr "స్వాగతం"
 
-#: C/gs-animation.xml:6(titles/t) C/gs-change-wallpaper.page:28(div/p)
+#. (itstool) path: titles/t
+#. (itstool) path: div/p
+#: C/gs-animation.xml:6 C/gs-change-wallpaper.page:28
 msgid "Changing Wallpaper"
 msgstr "నేపథ్యచిత్రం మార్చుట"
 
-#: C/gs-animation.xml:11(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:11
 msgid "Changing Date, Time and Timezone"
 msgstr "తేది, సమయం మరియు సమయక్షేత్రం మార్చుట"
 
-#: C/gs-animation.xml:12(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:12
 msgid "Maximize"
 msgstr "పెద్దదిచేయి"
 
-#: C/gs-animation.xml:13(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:13
 msgid "Restore"
 msgstr "తిరిగివుంచు"
 
-#: C/gs-animation.xml:14(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:14
 msgid "Left half of screen"
 msgstr "తెర ఎడమవైపు సగం"
 
-#: C/gs-animation.xml:15(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:15
 msgid "Workspace down"
 msgstr "కింది పనిస్థలం"
 
-#: C/gs-animation.xml:16(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:16
 msgid "Workspace up"
 msgstr "పై పనిస్థలం"
 
-#: C/gs-animation.xml:17(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:17
 msgid "Right half of screen"
 msgstr "తెర కుడివైపు సగం"
 
-#: C/gs-animation.xml:18(titles/t) C/gs-go-online1.svg:251(text/tspan)
-#: C/gs-search1.svg:198(text/tspan) C/gs-search2.svg:154(text/tspan)
-#: C/gs-thumb-changing-wallpaper.svg:54(text/tspan)
-#: C/gs-thumb-launching-apps.svg:204(text/tspan)
-#: C/gs-thumb-responding-to-messages.svg:51(text/tspan)
-#: C/gs-thumb-task-switching.svg:167(text/tspan)
-#: C/gs-thumb-timezone.svg:56(text/tspan)
-#: C/gs-thumb-windows-and-workspaces.svg:104(text/tspan)
-#: C/gs-web-browser1-firefox.svg:122(text/tspan)
-#: C/gs-web-browser1.svg:122(text/tspan)
+#. (itstool) path: titles/t
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:198
+#: C/gs-search2.svg:154 C/gs-thumb-changing-wallpaper.svg:54
+#: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-responding-to-messages.svg:51
+#: C/gs-thumb-task-switching.svg:167 C/gs-thumb-timezone.svg:56
+#: C/gs-thumb-windows-and-workspaces.svg:104 C/gs-web-browser1-firefox.svg:122
+#: C/gs-web-browser1.svg:122
 #, no-wrap
 msgid "Activities"
 msgstr "కార్యకలాపాలు"
 
-#: C/gs-animation.xml:19(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:19
 msgid "Enter"
 msgstr "Enter"
 
-#: C/gs-animation.xml:20(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:20
 msgid "Ctrl"
 msgstr "Ctrl"
 
-#: C/gs-animation.xml:21(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:21
 msgid "Alt"
 msgstr "Alt"
 
-#: C/gs-animation.xml:22(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:22
 msgid "Tab"
 msgstr "Tab"
 
-#: C/gs-animation.xml:23(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:23
 msgid "Esc"
 msgstr "Esc"
 
-#: C/gs-animation.xml:24(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:24
 msgid "help"
 msgstr "సహాయం"
 
-#: C/gs-animation.xml:25(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:25
 msgid "web"
 msgstr "వెబ్"
 
-#: C/gs-animation.xml:26(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:26
 msgid "Just start typing…"
 msgstr "టైపు చేయుట ప్రారంభించు..."
 
-#: C/gs-animation.xml:27(titles/t) C/gs-go-online1.svg:249(text/tspan)
-#: C/gs-thumb-responding-to-messages.svg:90(text/tspan)
+#. (itstool) path: titles/t
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:27 C/gs-go-online1.svg:249
+#: C/gs-thumb-responding-to-messages.svg:90
 #, no-wrap
 msgid "John Doe"
 msgstr "జాన్ డౌ"
 
-#: C/gs-animation.xml:28(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:28
 msgid "Settings"
 msgstr "అమరికలు"
 
-#: C/gs-animation.xml:29(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:29
 msgid "Background"
 msgstr "బాక్‌గ్రౌండ్"
 
-#: C/gs-animation.xml:30(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:30
 msgid "Wallpapers"
 msgstr "నేపథ్యచిత్రాలు"
 
-#: C/gs-animation.xml:31(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:31
 msgid "Select"
 msgstr "ఎంపికచేయి"
 
-#: C/gs-animation.xml:32(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:32
 msgid "Ready for the meeting?"
 msgstr "సమావేశంకు సిద్దమేనా?"
 
-#: C/gs-animation.xml:33(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:33
 msgid "I'll be there in a sec..."
 msgstr "నేను ఇంకో క్షణంలో అక్కడవుంటాను..."
 
-#: C/gs-animation.xml:34(titles/t)
-#: C/gs-thumb-responding-to-messages.svg:89(text/tspan)
+#. (itstool) path: titles/t
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:34 C/gs-thumb-responding-to-messages.svg:89
 #, no-wrap
 msgid "Good stuff, thanks again"
 msgstr "మంచి విషయం, ధన్యవాదములు"
 
-#: C/gs-animation.xml:35(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:35
 msgid "Thanks for the support"
 msgstr "తోడ్పాటునకు ధన్యవాదములు"
 
-#: C/gs-animation.xml:36(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:36
 msgid "No worries."
 msgstr "మరేం పర్వాలేదు."
 
-#: C/gs-animation.xml:37(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:37
 msgid "Too kind."
 msgstr "మరీ సహృదయులు."
 
-#: C/gs-animation.xml:38(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:38
 msgid "Open Calendar"
 msgstr "కాలెండర్ తెరువుము"
 
-#: C/gs-animation.xml:39(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:39
 msgid "Open Clocks"
 msgstr "గడియారాలు తెరువు"
 
-#: C/gs-animation.xml:40(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:40
 msgid "Date and Time Settings"
 msgstr "తేదీ మరియు సమయం అమరికలు"
 
-#: C/gs-animation.xml:41(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:41
 msgid "Automatic Date and Time"
 msgstr "స్యయంచాలక తేది మరియు సమయం"
 
-#: C/gs-animation.xml:42(titles/t)
-#, fuzzy
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:42
 msgid "Automatic Timezone"
-msgstr "స్యయంచాలక తేది మరియు సమయం"
+msgstr "స్యయంచాలక సమయక్షేత్రం"
 
-#: C/gs-animation.xml:43(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:43
 msgid "14 October 2013, 20:00"
-msgstr ""
+msgstr "14 అక్టోబర్ 2013, 20:00"
 
-#: C/gs-animation.xml:44(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:44
 msgid "14 October 2013, 14:00"
-msgstr ""
+msgstr "14 అక్టోబర్ 2013, 14:00"
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-browse-web.page:22(media)
-msgctxt "_"
-msgid ""
-"external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
-msgstr ""
-"external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-browse-web.page:36(media)
-#, fuzzy
-msgctxt "_"
-msgid ""
-"external ref='gs-web-browser2.svg' md5='e233174303fc55cd512ae71f950ae915'"
-msgstr ""
-"external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
-
-#: C/gs-browse-web.page:9(credit/name)
-#: C/gs-browse-web-firefox.page:10(credit/name)
-#: C/gs-change-date-time-timezone.page:10(credit/name)
-#: C/gs-change-wallpaper.page:9(credit/name)
-#: C/gs-connect-online-accounts.page:9(credit/name)
-#: C/gs-get-online.page:9(credit/name)
-#: C/gs-launch-applications.page:9(credit/name)
-#: C/gs-respond-messages.page:9(credit/name)
-#: C/gs-switch-tasks.page:10(credit/name)
-#: C/gs-use-system-search.page:9(credit/name)
-#: C/gs-use-windows-workspaces.page:9(credit/name)
+#. (itstool) path: credit/name
+#: C/gs-browse-web.page:9 C/gs-browse-web-firefox.page:10
+#: C/gs-change-date-time-timezone.page:10 C/gs-change-wallpaper.page:9
+#: C/gs-connect-online-accounts.page:9 C/gs-get-online.page:9
+#: C/gs-launch-applications.page:9 C/gs-respond-messages.page:9
+#: C/gs-switch-tasks.page:10 C/gs-use-system-search.page:9
+#: C/gs-use-windows-workspaces.page:9
 msgid "Jakub Steiner"
 msgstr "జాకబ్ స్టైనర్"
 
-#: C/gs-browse-web.page:12(credit/name)
-#: C/gs-browse-web-firefox.page:13(credit/name)
-#: C/gs-change-date-time-timezone.page:13(credit/name)
-#: C/gs-change-wallpaper.page:12(credit/name)
-#: C/gs-connect-online-accounts.page:12(credit/name)
-#: C/gs-get-online.page:12(credit/name)
-#: C/gs-launch-applications.page:12(credit/name)
-#: C/gs-respond-messages.page:12(credit/name)
-#: C/gs-switch-tasks.page:13(credit/name)
-#: C/gs-use-system-search.page:12(credit/name)
-#: C/gs-use-windows-workspaces.page:12(credit/name)
+#. (itstool) path: credit/name
+#: C/gs-browse-web.page:12 C/gs-browse-web-firefox.page:13
+#: C/gs-change-date-time-timezone.page:13 C/gs-change-wallpaper.page:12
+#: C/gs-connect-online-accounts.page:12 C/gs-get-online.page:12
+#: C/gs-launch-applications.page:12 C/gs-respond-messages.page:12
+#: C/gs-switch-tasks.page:13 C/gs-use-system-search.page:12
+#: C/gs-use-windows-workspaces.page:12
 msgid "Petr Kovar"
 msgstr "పెత్ర్ కోవర్"
 
-#: C/gs-browse-web.page:17(info/title)
+#. (itstool) path: info/title
+#: C/gs-browse-web.page:17
 msgctxt "link:trail"
 msgid "Browse the web"
 msgstr "వెబ్ బ్రౌజ్ చేయి"
 
-#: C/gs-browse-web.page:20(page/title)
-#: C/gs-browse-web-firefox.page:21(page/title)
+#. (itstool) path: page/title
+#: C/gs-browse-web.page:20 C/gs-browse-web-firefox.page:21
 msgid "Browse the web"
 msgstr "వెబ్ బ్రౌజ్ చేయి"
 
-#: C/gs-browse-web.page:25(item/p) C/gs-browse-web-firefox.page:29(item/p)
-#: C/gs-launch-applications.page:63(item/p)
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:26 C/gs-browse-web-firefox.page:30
+#: C/gs-launch-applications.page:64
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen to show the <gui>Activities Overview</gui>."
 msgstr ""
-"<gui>కార్యకలాపాల అవలోకనం</gui> చూపుటకు తెర పైన ఎడమవైపు మూలన <gui>కార్యకలాపాలు</gui> కు మీ "
+"<gui>కార్యకలాపాల అవలోకనం</gui> చూపుటకు తెర పైన ఎడమవైపు మూలన <gui>"
+"కార్యకలాపాలు</gui> కు మీ "
 "మౌస్ సూచకిని కదుపుము"
 
-#: C/gs-browse-web.page:28(item/p)
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:29
 msgid ""
 "Select the <app>Web</app> browser icon from the bar on the left-hand side of "
 "the screen."
-msgstr "తెర ఎడమ-చేతి వైపుని పట్టీ నుండి <app>వెబ్</app> బ్రౌజర్ ప్రతిమ ఎంపికచేయి."
+msgstr ""
+"తెర ఎడమ-చేతి వైపుని పట్టీ నుండి <app>వెబ్</app> బ్రౌజర్ ప్రతిమ ఎంపికచేయి."
 
-#: C/gs-browse-web.page:32(note/p)
+#. (itstool) path: note/p
+#: C/gs-browse-web.page:33
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
 "gui>."
 msgstr ""
-"ప్రత్యామ్నాయంగా, <gui>కార్యకలాపాల అవలోకనం</gui> నందు <em>web</em> <link xref=\"gs-use-"
+"ప్రత్యామ్నాయంగా, <gui>కార్యకలాపాల అవలోకనం</gui> నందు <em>web</em> <link "
+"xref=\"gs-use-"
 "system-search\">టైపు చేయుట</link> ద్వారా మీరు బ్రౌజర్ ఆరంభించవచ్చు."
 
-#: C/gs-browse-web.page:39(item/p) C/gs-browse-web-firefox.page:58(item/p)
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:41 C/gs-browse-web-firefox.page:61
 msgid ""
 "Click the address bar at the top of the browser window and start typing in "
 "the website you want to visit."
 msgstr ""
-"బ్రౌజర్ విండో పైన చిరునామా పట్టీ పై నొక్కి మీరు దర్శించాలని అనుకొనుచున్న వెబ్‌సైట్ టైపు చేయుట ప్రారంభించవచ్చు."
+"బ్రౌజర్ విండో పైన చిరునామా పట్టీ పై నొక్కి మీరు దర్శించాలని అనుకొనుచున్న "
+"వెబ్‌సైట్ టైపు చేయుట ప్రారంభించవచ్చు."
 
-#: C/gs-browse-web.page:41(item/p) C/gs-browse-web-firefox.page:60(item/p)
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:43 C/gs-browse-web-firefox.page:63
 msgid ""
 "Typing in a website starts searching for it in the browser history and "
 "bookmarks, so you do not need to remember the exact address."
 msgstr ""
-"వెబ్‌సైటు టైపు చేస్తే దాని కొరకు బ్రౌజర్ చరిత్ర నందు మరియు ఇష్టాంశాల నందు వెతుకును, కనుక మీరు "
+"వెబ్‌సైటు టైపు చేస్తే దాని కొరకు బ్రౌజర్ చరిత్ర నందు మరియు ఇష్టాంశాల నందు "
+"వెతుకును, కనుక మీరు "
 "ఖచ్చితమైన చిరునామాను గుర్తుంచుకోనవసరం లేదు."
 
-#: C/gs-browse-web.page:44(item/p) C/gs-browse-web-firefox.page:63(item/p)
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:46 C/gs-browse-web-firefox.page:66
 msgid ""
 "If the website is found in the history or bookmarks, a drop-down list is "
 "shown below the address bar."
 msgstr ""
-"ఒకవేళ వెబ్‌సైట్ అనునది చరిత్ర లేదా ఇష్టాంశముల నందు కనబడితే, చిరునామా పట్టీ కిందకు డ్రాప్-డౌన్ జాబితా "
+"ఒకవేళ వెబ్‌సైట్ అనునది చరిత్ర లేదా ఇష్టాంశముల నందు కనబడితే, చిరునామా పట్టీ "
+"కిందకు డ్రాప్-డౌన్ జాబితా "
 "కనబడును."
 
-#: C/gs-browse-web.page:46(item/p) C/gs-browse-web-firefox.page:65(item/p)
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:48 C/gs-browse-web-firefox.page:68
 msgid ""
 "From the drop-down list, you can quickly select a website using the arrow "
 "keys."
-msgstr "డ్రాప్-డౌన్ జాబితా నుండి, మీరు వెబ్‌సైటును బాణపు కీలను వుపయోగించి త్వరగా ఎంపికచేయవచ్చు."
+msgstr ""
+"డ్రాప్-డౌన్ జాబితా నుండి, మీరు వెబ్‌సైటును బాణపు కీలను వుపయోగించి త్వరగా "
+"ఎంపికచేయవచ్చు."
 
-#: C/gs-browse-web.page:49(item/p) C/gs-browse-web-firefox.page:68(item/p)
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:51 C/gs-browse-web-firefox.page:71
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
-msgstr "మీరు వెబ్‌సైటును ఎంపికచేసిన తరువాత, దానిని దర్శించుటకు <key>Enter</key> వత్తుము."
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-browse-web-firefox.page:26(media)
-msgctxt "_"
-msgid ""
-"external ref='gs-web-browser1-firefox.svg' "
-"md5='f4958e0fad516473746fc14fbd0f4333'"
 msgstr ""
-"external ref='gs-web-browser1-firefox.svg' "
-"md5='f4958e0fad516473746fc14fbd0f4333'"
+"మీరు వెబ్‌సైటును ఎంపికచేసిన తరువాత, దానిని దర్శించుటకు <key>Enter</key> "
+"వత్తుము."
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-browse-web-firefox.page:43(media)
-msgctxt "_"
-msgid ""
-"external ref='gs-web-browser1-firefox-classic.svg' "
-"md5='fe09a8fa520c0f337bade21f8a5d0377'"
-msgstr ""
-"external ref='gs-web-browser1-firefox-classic.svg' "
-"md5='fe09a8fa520c0f337bade21f8a5d0377'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-browse-web-firefox.page:55(media)
-msgctxt "_"
-msgid ""
-"external ref='gs-web-browser2-firefox.svg' "
-"md5='d8f2a86ceef35a2e9a95fa54943ca76f'"
-msgstr ""
-"external ref='gs-web-browser2-firefox.svg' "
-"md5='d8f2a86ceef35a2e9a95fa54943ca76f'"
-
-#: C/gs-browse-web-firefox.page:32(item/p)
+#. (itstool) path: item/p
+#: C/gs-browse-web-firefox.page:33
 msgid ""
 "Select the <app>Firefox</app> browser icon from the bar on the left-hand "
 "side of the screen."
-msgstr "తెర ఎడమ-చేతి వైపుని పట్టీ నుండి <app>ఫైర్‌ఫాక్స్</app> బ్రౌజర్ ప్రతిమను ఎంపికచేయి."
+msgstr ""
+"తెర ఎడమ-చేతి వైపుని పట్టీ నుండి <app>ఫైర్‌ఫాక్స్</app> బ్రౌజర్ ప్రతిమను "
+"ఎంపికచేయి."
 
-#: C/gs-browse-web-firefox.page:36(note/p)
+#. (itstool) path: note/p
+#: C/gs-browse-web-firefox.page:37
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>Firefox</em> in the <gui>Activities "
 "Overview</gui>."
 msgstr ""
-"ప్రత్యామ్నాయంగా, <gui>కార్యకలాపాల అవలోకనం</gui> నందు <em>Firefox</em> <link xref=\"gs-"
+"ప్రత్యామ్నాయంగా, <gui>కార్యకలాపాల అవలోకనం</gui> నందు <em>Firefox</em> <link "
+"xref=\"gs-"
 "use-system-search\">టైపు చేయుట</link> ద్వారా మీరు బ్రౌజర్ ఆరంభించవచ్చు."
 
-#: C/gs-browse-web-firefox.page:46(item/p)
+#. (itstool) path: item/p
+#: C/gs-browse-web-firefox.page:48
 msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
 msgstr "తెర పైఎడమ వద్ద <gui>అనువర్తనాలు</gui> మెనూ నొక్కుము."
 
-#: C/gs-browse-web-firefox.page:48(item/p)
+#. (itstool) path: item/p
+#: C/gs-browse-web-firefox.page:50
 msgid ""
 "From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
 "guiseq>."
-msgstr "మెనూ నుండి, <guiseq><gui>అంతర్జాలం</gui><gui>ఫైర్‌ఫాక్స్</gui> </guiseq> ఎంపికచేయి."
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-change-date-time-timezone.page:28(media)
-#, fuzzy
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-timezone.webm' "
-"md5='9ccb1cc474a45ef7ed0a67e1fdaf7a31'"
 msgstr ""
-"external ref='figures/gnome-timezone.webm' "
-"md5='a6eb6dd9f7ca9d428ff35aad8cbaab65'"
+"మెనూ నుండి, <guiseq><gui>అంతర్జాలం</gui><gui>ఫైర్‌ఫాక్స్</gui> </guiseq> "
+"ఎంపికచేయి."
 
-#: C/gs-change-date-time-timezone.page:16(info/title)
+#. (itstool) path: info/title
+#: C/gs-change-date-time-timezone.page:16
 msgctxt "link:trail"
 msgid "Change the date, time and timezone"
 msgstr "తేదీ, సమయం మరియు సమయక్షేత్రం మార్చు"
 
-#: C/gs-change-date-time-timezone.page:18(info/title)
+#. (itstool) path: info/title
+#: C/gs-change-date-time-timezone.page:18
 msgctxt "link:seealso"
 msgid "A tutorial on changing the date, time and timezone"
 msgstr "తేదీ, సమయం మరియు సమయక్షేత్రం మార్చుటపై ట్యుటోరియల్"
 
-#: C/gs-change-date-time-timezone.page:22(page/title)
-#: C/gs-change-date-time-timezone.page:68(section/title)
+#. (itstool) path: page/title
+#. (itstool) path: section/title
+#: C/gs-change-date-time-timezone.page:23
+#: C/gs-change-date-time-timezone.page:69
 msgid "Change the date, time and timezone"
 msgstr "తేదీ, సమయం మరియు సమయక్షేత్రం మార్చు"
 
-#: C/gs-change-date-time-timezone.page:33(div/p)
+#. (itstool) path: div/p
+#: C/gs-change-date-time-timezone.page:34
 msgid "Changing Date &amp; Time"
 msgstr "తేదీ మరియు సమయం మార్చుట"
 
-#: C/gs-change-date-time-timezone.page:36(div/p)
+#. (itstool) path: div/p
+#: C/gs-change-date-time-timezone.page:37
 msgid "Click the clock on the top bar."
 msgstr "పై పట్టీ పై గడియారం నొక్కుము."
 
-#: C/gs-change-date-time-timezone.page:39(div/p)
-#, fuzzy
+#. (itstool) path: div/p
+#: C/gs-change-date-time-timezone.page:40
 msgid "Select <gui>Date &amp; Time Settings</gui>."
-msgstr "<gui>తేదీ మరియు సమయ అమరికలు</gui> అంశము ఎంపికచేయి."
+msgstr "<gui>తేదీ మరియు సమయ అమరికలు</gui> ఎంపికచేయి."
 
-#: C/gs-change-date-time-timezone.page:42(div/p)
+#. (itstool) path: div/p
+#: C/gs-change-date-time-timezone.page:43
 msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
-msgstr ""
+msgstr "<gui>స్వయంచాలకంగా సమయ క్షేత్రం</gui> స్విచ్ ఆఫ్ అగునట్లు చూసుకోండి."
 
-#: C/gs-change-date-time-timezone.page:46(div/p)
-#, fuzzy
+#. (itstool) path: div/p
+#: C/gs-change-date-time-timezone.page:47
 msgid "Click <gui>Time Zone</gui>."
-msgstr "<gui>ఎంపికచేయి</gui> బటన్ నొక్కుము."
+msgstr "<gui>సమయ క్షేత్రం</gui> నొక్కుము."
 
-#: C/gs-change-date-time-timezone.page:49(div/p)
+#. (itstool) path: div/p
+#: C/gs-change-date-time-timezone.page:50
 msgid "Click on your location on the map."
 msgstr "మాప్ పైన మీ స్థానము పై నొక్కుము."
 
-#: C/gs-change-date-time-timezone.page:52(div/p)
-#, fuzzy
+#. (itstool) path: div/p
+#: C/gs-change-date-time-timezone.page:53
 msgid "Click <gui>Close</gui>."
-msgstr "<gui>ఎంపికచేయి</gui> బటన్ నొక్కుము."
+msgstr "<gui>మూయి</gui> నొక్కుము."
 
-#: C/gs-change-date-time-timezone.page:55(div/p)
+#. (itstool) path: div/p
+#: C/gs-change-date-time-timezone.page:56
 msgid "Close the window."
 msgstr "విండోను మూయి."
 
-#: C/gs-change-date-time-timezone.page:71(item/p)
-#, fuzzy
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:72
 msgid ""
 "Click the clock on the top bar and select the <gui>Date &amp; Time Settings</"
 "gui> item."
-msgstr "<gui>తేదీ మరియు సమయ అమరికలు</gui> అంశము ఎంపికచేయి."
+msgstr ""
+"పై పట్టీ నందలి గడియారం నొక్కి <gui>తేదీ మరియు సమయ అమరికలు</gui> అంశము "
+"ఎంపికచేయి."
 
-#: C/gs-change-date-time-timezone.page:73(item/p)
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:74
 msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
 "then click the <gui>Time Zone</gui> item below."
 msgstr ""
+"<gui>స్వయంచాలకంగా సమయ క్షేత్రం</gui> అను అంశం స్విచ్ ఆఫ్ అగునట్లు చూసుకోండి, "
+"మరియు కిందన <gui>సమయ క్షేత్రం</gui> అంశాన్ని నొక్కండి."
 
-#: C/gs-change-date-time-timezone.page:75(item/p)
-#, fuzzy
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:76
 msgid ""
 "Click on your location on the map. This selects your current city, which you "
 "can also search for in the search box above the map."
 msgstr ""
-"ఇది మీ ప్రస్తుత పట్టణం ఎంపికచేయును, దానిని మీరు మాప్ కింది డ్రాప్-డౌన్ జాబితా నందు చూసి మార్చవచ్చు."
+"పటం పైని మీ ప్రాంతముపై నొక్కుము. ఇది మీ ప్రస్తుత పట్టణం ఎంపికచేయును, దీనినే "
+"మీరు మాప్ పైని శోధన పెట్టెనందు కూడా వెతకవచ్చు."
 
-#: C/gs-change-date-time-timezone.page:78(item/p)
-#, fuzzy
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:79
 msgid ""
 "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
 "Settings</gui> window."
-msgstr "<gui>తేదీ మరియు సమయ అమరికలు</gui> అంశము ఎంపికచేయి."
+msgstr ""
+"<gui>తేదీ మరియు సమయ అమరికలు</gui> విండోకు వెళ్ళుటకు <gui>మూయి</gui> బటన్ "
+"నొక్కుము."
 
-#: C/gs-change-date-time-timezone.page:80(item/p)
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:81
 msgid ""
 "Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
 "off, and then click the <gui>Date &amp; Time</gui> item below to open the "
 "<gui>Date &amp; Time</gui> window. There you can adjust your date and time "
 "settings by clicking on the <gui>+</gui> or <gui>-</gui> buttons."
 msgstr ""
+"<gui>స్వయంచాలకంగా తేదీ మరియు సమయం</gui> అను అంశం స్విచ్ ఆఫ్ అగునట్లు "
+"చూసుకోండి, మరియు <gui>తేదీ మరియు సమయం</gui> విండోను తెరుచుటకు <gui>తేదీ మరియు "
+"సమయం</gui> అంశాన్ని నొక్కండి. మీరు అక్కడ <gui>+</gui> లేదా <gui>-</gui> "
+"బటన్లు నొక్కుతూ తేదీ మరియు సమయం అమరికలను సర్దవచ్చు."
 
-#: C/gs-change-date-time-timezone.page:85(item/p)
-#, fuzzy
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:86
 msgid ""
 "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
 "Settings</gui> window, and then close that window by clicking the cross at "
 "the top-right corner of that window."
-msgstr "విండో యొక్క పై-కుడి మూలన వున్న క్రాస్ నొక్కి <gui>బ్యాక్‌గ్రౌండ్</gui> విండో మూయి."
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-change-wallpaper.page:23(media)
-#, fuzzy
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-change-wallpaper.webm' "
-"md5='04641291f5d2ba02b7bbc5e165c7f103'"
 msgstr ""
-"external ref='figures/gnome-change-wallpaper.webm' "
-"md5='132412626662c3b2f5ba11dd6c418457'"
+"<gui>తేదీ మరియు సమయ అమరికలు</gui> విండోకు వెళ్ళుటకు <gui>మూయి</gui> బటన్ "
+"నొక్కుము, అప్పుడు విండో యొక్క పై-కుడి మూలన వున్న క్రాస్ నొక్కి విండోను మూయండి."
 
-#: C/gs-change-wallpaper.page:15(info/title)
+#. (itstool) path: info/title
+#: C/gs-change-wallpaper.page:15
 msgctxt "link:trail"
 msgid "Change the wallpaper"
 msgstr "నేపథ్యచిత్రం మార్చు"
 
-#: C/gs-change-wallpaper.page:17(info/title)
+#. (itstool) path: info/title
+#: C/gs-change-wallpaper.page:17
 msgctxt "link:seealso"
 msgid "A tutorial on changing the wallpaper"
 msgstr "నేపథ్యచిత్రం మార్చుటపై ట్యుటోరియల్"
 
-#: C/gs-change-wallpaper.page:20(page/title)
-#: C/gs-change-wallpaper.page:55(section/title)
+#. (itstool) path: page/title
+#. (itstool) path: section/title
+#: C/gs-change-wallpaper.page:20 C/gs-change-wallpaper.page:55
 msgid "Change the wallpaper"
 msgstr "నేపథ్యచిత్రం మార్చు"
 
-#: C/gs-change-wallpaper.page:31(div/p)
+#. (itstool) path: div/p
+#: C/gs-change-wallpaper.page:31
 msgid ""
 "Click the system menu on the right side of the top bar and press the "
 "settings button."
-msgstr ""
+msgstr "పై పట్టీ పైన కుడివైపుని సిస్టమ్ మెనూను నొక్కి అమరికలు బటన్ వత్తుము."
 
-#: C/gs-change-wallpaper.page:35(div/p)
+#. (itstool) path: div/p
+#: C/gs-change-wallpaper.page:35
 msgid "Select <gui>Background</gui>."
 msgstr "<gui>బ్యాక్‌గ్రౌండ్</gui> ఎంపికచేయి."
 
-#: C/gs-change-wallpaper.page:38(div/p)
-#, fuzzy
+#. (itstool) path: div/p
+#: C/gs-change-wallpaper.page:38
 msgid "Click the current background image."
-msgstr "మీరు వుపయోగించాలనుకొంటున్న బ్యాక్‌గ్రౌండ్ చిత్రమును నొక్కుము."
+msgstr "ప్రస్తుత బ్యాక్‌గ్రౌండ్ చిత్రాన్ని నొక్కండి."
 
-#: C/gs-change-wallpaper.page:41(div/p) C/gs-change-wallpaper.page:63(item/p)
-#, fuzzy
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:63
 msgid "Click the background image you want to use."
-msgstr "మీరు వుపయోగించాలనుకొంటున్న బ్యాక్‌గ్రౌండ్ చిత్రమును నొక్కుము."
+msgstr "మీరు వుపయోగించాలనుకుంటున్న బ్యాక్‌గ్రౌండ్ చిత్రమును నొక్కుము."
 
-#: C/gs-change-wallpaper.page:44(div/p) C/gs-change-wallpaper.page:64(item/p)
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:64
 msgid "Click the <gui>Select</gui> button."
 msgstr "<gui>ఎంపికచేయి</gui> బటన్ నొక్కుము."
 
-#: C/gs-change-wallpaper.page:47(div/p)
+#. (itstool) path: div/p
+#: C/gs-change-wallpaper.page:47
 msgid "Close the <gui>Background</gui> window."
 msgstr "<gui>బ్యాక్‌గ్రౌండ్</gui> విండో మూయి."
 
-#: C/gs-change-wallpaper.page:58(item/p)
-#: C/gs-use-system-search.page:79(item/p)
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:58 C/gs-use-system-search.page:83
 msgid ""
 "Click the system menu on the right side of the top bar and press the "
 "settings button at the bottom of the menu."
 msgstr ""
+"పై పట్టీ పైన కుడివైపుని సిస్టమ్ మెనూను నొక్కి దానిలో కిందన వున్న అమరికలు బటన్ "
+"వత్తుము."
 
-#: C/gs-change-wallpaper.page:60(item/p)
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:60
 msgid "From the list of items, select <gui>Background</gui>."
 msgstr "అంశముల జాబితా నుండి, <gui>బ్యాక్‌గ్రౌండ్</gui> ఎంపికచేయి."
 
-#: C/gs-change-wallpaper.page:61(item/p)
-#, fuzzy
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:61
 msgid ""
 "Click the current background image on the left side of the <gui>Background</"
 "gui> window."
-msgstr "మీ ప్రస్తుత నేపథ్యచిత్రం యొక్క చిత్రమును <gui>బ్యాక్‌గ్రౌండ్</gui> విండో మధ్యన నొక్కుము."
+msgstr ""
+"<gui>బ్యాక్‌గ్రౌండ్</gui> విండో యొక్క ఎడమవైపుని ప్రస్తుత బ్యాక్‌గ్రౌండ్ "
+"చిత్రాన్ని నొక్కండి."
 
-#: C/gs-change-wallpaper.page:65(item/p)
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:65
 msgid ""
 "Close the <gui>Background</gui> window by clicking the cross at the top-"
 "right corner of the window."
-msgstr "విండో యొక్క పై-కుడి మూలన వున్న క్రాస్ నొక్కి <gui>బ్యాక్‌గ్రౌండ్</gui> విండో మూయి."
+msgstr ""
+"విండో యొక్క పై-కుడి మూలన వున్న క్రాస్ నొక్కి <gui>బ్యాక్‌గ్రౌండ్</gui> విండో "
+"మూయి."
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-connect-online-accounts.page:23(media)
-#, fuzzy
-msgctxt "_"
-msgid "external ref='gs-goa1.svg' md5='453f88bed412133019558a3eaaea5885'"
-msgstr "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-connect-online-accounts.page:30(media)
-#, fuzzy
-msgctxt "_"
-msgid "external ref='gs-goa2.svg' md5='c899c0eeb13f7ae3416e9d5ae92294d6'"
-msgstr "external ref='gs-goa2.svg' md5='ad86f77f168496c15fe171a0b2a4e8d6'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-connect-online-accounts.page:41(media)
-msgctxt "_"
-msgid "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-msgstr "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-connect-online-accounts.page:48(media)
-msgctxt "_"
-msgid "external ref='gs-goa4.svg' md5='a9c13c95ff7a2d0d7b89a5f52735dee0'"
-msgstr "external ref='gs-goa4.svg' md5='a9c13c95ff7a2d0d7b89a5f52735dee0'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-connect-online-accounts.page:57(media)
-#, fuzzy
-msgctxt "_"
-msgid "external ref='gs-goa5.svg' md5='71bfdfe7f394b6aa9b057c47057d8535'"
-msgstr "external ref='gs-goa5.svg' md5='e570fa43b0ab4f854fc33de89721d44d'"
-
-#: C/gs-connect-online-accounts.page:15(info/title)
+#. (itstool) path: info/title
+#: C/gs-connect-online-accounts.page:15
 msgctxt "link:trail"
 msgid "Connect to online accounts"
 msgstr "ఆన్‌లైన్ ఖాతాలకు అనుసంధానించు"
 
-#: C/gs-connect-online-accounts.page:17(info/title)
+#. (itstool) path: info/title
+#: C/gs-connect-online-accounts.page:17
 msgctxt "link:seealso"
 msgid "A tutorial on connecting to online accounts"
 msgstr "ఆన్‌లైన్ ఖాతాలకు అనుసంధానమగుటపై ట్యుటోరియల్"
 
-#: C/gs-connect-online-accounts.page:21(page/title)
+#. (itstool) path: page/title
+#: C/gs-connect-online-accounts.page:22
 msgid "Connect to online accounts"
 msgstr "ఆన్‌లైన్ ఖాతాలకు అనుసంధానించు"
 
-#: C/gs-connect-online-accounts.page:26(item/p)
-#, fuzzy
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:28
 msgid "Click the system menu on the right side of the top bar."
-msgstr "పై పట్టీ పై గడియారం నొక్కుము."
+msgstr "పై పట్టీ కుడి వైపుని సిస్టమ్ మెనూను నొక్కుము."
 
-#: C/gs-connect-online-accounts.page:27(item/p)
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:29
 msgid "Press the settings button at the bottom of the menu."
-msgstr ""
+msgstr "మెనూ కిందన వున్న అమరికల బటన్ వత్తుము."
 
-#: C/gs-connect-online-accounts.page:33(item/p)
-#, fuzzy
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:36
 msgid ""
 "From the list of items, select <gui>Online Accounts</gui>, then click on the "
 "<gui>Add an online account</gui> button."
-msgstr "అంశముల జాబితా నుండి, <gui>ఆన్‌లైన్ ఖాతాలు</gui> ఎంపికచేయి."
+msgstr ""
+"అంశముల జాబితా నుండి, <gui>ఆన్‌లైన్ ఖాతాలు</gui> ఎంపికచేయి, అప్పుడు <gui>ఒక "
+"ఆన్‌లైన్ ఖాతా జతచేయి</gui> బటన్ నొక్కుము."
 
-#: C/gs-connect-online-accounts.page:37(note/p)
+#. (itstool) path: note/p
+#: C/gs-connect-online-accounts.page:40
 msgid ""
 "If you have set up an online account before, you can add another online "
 "account by clicking the <gui>+</gui> button at the bottom left corner of the "
 "window."
 msgstr ""
-"మీరు ఇంతకు ముందు ఆన్‌లైన్ ఖాతాను అమర్చివుంటే, మీరు ఇంకొక ఆన్‌లైన్ ఖాతాను <gui>+</gui> బటన్‌ను "
+"మీరు ఇంతకు ముందు ఆన్‌లైన్ ఖాతాను అమర్చివుంటే, మీరు ఇంకొక ఆన్‌లైన్ ఖాతాను <gui>"
+"+</gui> బటన్‌ను "
 "విండో యొక్క ఎడమ మూలన నొక్కుట ద్వారా జతచేయవచ్చు."
 
-#: C/gs-connect-online-accounts.page:44(item/p)
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:48
 msgid ""
 "Click the online account you want to use. This will open a new window where "
 "you can sign in to your online account."
 msgstr ""
-"మీరు వుపయోగించాలని అనుకొనుచున్న ఆన్‌లైన్ ఖాతాపై నొక్కుము. ఇది మీరు మీ ఆన్‌లైన్ ఖాతాకు సైన్ ఇన్ కాగలిగే కొత్త "
+"మీరు వుపయోగించాలని అనుకొనుచున్న ఆన్‌లైన్ ఖాతాపై నొక్కుము. ఇది మీరు మీ "
+"ఆన్‌లైన్ ఖాతాకు సైన్ ఇన్ కాగలిగే కొత్త "
 "విండోను తెరుచును."
 
-#: C/gs-connect-online-accounts.page:51(item/p)
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:56
 msgid ""
 "In most cases, you will have to grant access to the online service after "
 "signing in to get started."
 msgstr ""
-"చాలా సందర్భాలలో, సైన్ఇన్ అయిన తరువాత ప్రారంభించుటకు మీరు ఆన్‌లైన్ సేవకు ఏక్సెస్‌ను ఇవ్వవలసి వుంటుంది."
+"చాలా సందర్భాలలో, సైన్ఇన్ అయిన తరువాత ప్రారంభించుటకు మీరు ఆన్‌లైన్ సేవకు "
+"ఏక్సెస్‌ను ఇవ్వవలసి వుంటుంది."
 
-#: C/gs-connect-online-accounts.page:53(item/p)
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:58
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
 "click the <gui>Grant Access</gui> button."
 msgstr ""
-"ఉదాహరణకు, మీరు మీ గూగుల్ ఖాతాకు అనుసంధానమౌతుంటే, మీరు <gui>ఏక్సెస్ ఇవ్వు</gui> బటన్‌పై నొక్కవలసి "
+"ఉదాహరణకు, మీరు మీ గూగుల్ ఖాతాకు అనుసంధానమౌతుంటే, మీరు <gui>ఏక్సెస్ ఇవ్వు</gui>"
+" బటన్‌పై నొక్కవలసి "
 "వుంటుంది."
 
-#: C/gs-connect-online-accounts.page:60(item/p)
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:66
 msgid ""
 "Many online accounts let you choose the services you want to use with your "
 "online account. If you do not want to use a service, disable it by clicking "
 "the <gui>ON/OFF</gui> switch on the right-hand side of the window."
 msgstr ""
-"చాలా ఆన్‌లైన్ ఖాతాలు మీరు మీ ఆన్‌లైన్ ఖాతాతో వుపయోగించాలనుకొంటున్న సేవలను ఎంచుకొనుటకు అనుమతించును. "
-"మీరు సేవను వుపయోగించాలనుకోకపోతే, విండో యొక్క కుడి-చేతివైపుని <gui>ఆన్/ఆఫ్</gui> స్విచ్‌ను నొక్కి "
+"చాలా ఆన్‌లైన్ ఖాతాలు మీరు మీ ఆన్‌లైన్ ఖాతాతో వుపయోగించాలనుకొంటున్న సేవలను "
+"ఎంచుకొనుటకు అనుమతించును. "
+"మీరు సేవను వుపయోగించాలనుకోకపోతే, విండో యొక్క కుడి-చేతివైపుని <gui>ఆన్/ఆఫ్<"
+"/gui> స్విచ్‌ను నొక్కి "
 "అచేతనంచేయవచ్చు."
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-get-online.page:31(media)
-#, fuzzy
-msgctxt "_"
-msgid "external ref='gs-go-online1.svg' md5='8ef86ba33c73fe6a46ec5730b6a14831'"
-msgstr ""
-"external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-get-online.page:55(media)
-#, fuzzy
-msgctxt "_"
-msgid "external ref='gs-go-online2.svg' md5='738b078b74cf44c454fa8b179846ba5a'"
-msgstr ""
-"external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-get-online.page:68(media)
-#, fuzzy
-msgctxt "_"
-msgid "external ref='gs-go-online3.svg' md5='13095e2de523ca89c3a504ca8839e586'"
-msgstr ""
-"external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
-
-#: C/gs-get-online.page:15(info/title)
+#. (itstool) path: info/title
+#: C/gs-get-online.page:15
 msgctxt "link:trail"
 msgid "Get online"
 msgstr "ఆన్‌లైన్ రండి"
 
-#: C/gs-get-online.page:17(info/title)
+#. (itstool) path: info/title
+#: C/gs-get-online.page:17
 msgctxt "link:seealso"
 msgid "A tutorial on getting online"
 msgstr "ఆన్‌లైన్‌కు వచ్చుటపై ట్యుటోరియల్"
 
-#: C/gs-get-online.page:20(page/title)
+#. (itstool) path: page/title
+#: C/gs-get-online.page:21
 msgid "Get online"
 msgstr "ఆన్‌లైన్ రండి"
 
-#: C/gs-get-online.page:23(note/p)
-#, fuzzy
+#. (itstool) path: note/p
+#: C/gs-get-online.page:24
 msgid ""
 "You can see the status of your network connection on the right-hand side of "
 "the top bar."
-msgstr "మీ నెట్వర్కు అనుసంధానం స్థితిని మీరు పై పట్టీ కుడి-చేతి వైపున, మీ పేరు పక్కన చూడవచ్చు."
+msgstr "మీ నెట్వర్కు అనుసంధాన స్థితిని మీరు పై పట్టీ కుడి-చేతి వైపున చూడవచ్చు."
 
-#: C/gs-get-online.page:29(section/title)
+#. (itstool) path: section/title
+#: C/gs-get-online.page:30
 msgid "Connect to a wired network"
-msgstr "వైర్డు నెట్వర్కునకు అనుసంధానమవ్వు"
+msgstr "వైరుగల నెట్వర్కునకు అనుసంధానమవ్వు"
 
-#: C/gs-get-online.page:34(item/p)
+#. (itstool) path: item/p
+#: C/gs-get-online.page:36
 msgid ""
 "The network connection icon on the right-hand side of the top bar shows that "
 "you are off-line."
 msgstr ""
-"పై పట్టీ యొక్క కుడి-చేతి వైపుని నెట్వర్కు అనుసంధానం ప్రతిమ మీరు ఆఫ్-లైన్ నందు వున్నారని చూపును."
+"పై పట్టీ యొక్క కుడి-చేతి వైపుని నెట్వర్కు అనుసంధానం ప్రతిమ మీరు ఆఫ్-లైన్ నందు "
+"వున్నారని చూపును."
 
-#: C/gs-get-online.page:36(item/p)
-#, fuzzy
+#. (itstool) path: item/p
+#: C/gs-get-online.page:38
 msgid ""
 "The off-line status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
 "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
 msgstr ""
-"ఆఫ్‌-లైన్ స్థితి చాలా కారణాల వలన కలిగివుండవచ్చు: ఉదాహరణకు, నెట్వర్కు కేబుల్ వూడిపోయి వుండవచ్చు, "
-"కంప్యూటర్ అనునది <em>విమాన రీతి</em> నందు నడుచుటకు వుంచివుండవచ్చు, లేదా మీ ప్రాంతమునందు ఏ "
-"వైర్‌లెస్ నెట్వర్కులు అందుబాటులో వుండివుండకపోవచ్చు."
+"ఆఫ్‌-లైన్ స్థితి చాలా కారణాల వలన కలిగివుండవచ్చు: ఉదాహరణకు, నెట్వర్కు కేబుల్ "
+"వూడిపోయి వుండవచ్చు, "
+"కంప్యూటర్ అనునది <em>విమాన రీతి</em> నందు నడుచుటకు వుంచివుండవచ్చు, లేదా మీ "
+"ప్రాంతమునందు ఏ "
+"వై-ఫై నెట్వర్కులు అందుబాటులో వుండివుండకపోవచ్చు."
 
-#: C/gs-get-online.page:40(item/p)
+#. (itstool) path: item/p
+#: C/gs-get-online.page:42
 msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
 "automatically."
 msgstr ""
-"మీరు వైరు అనుసంధానం వుపయోగించాలని అనుకుంటే, ఆన్‌లైన్‌కు వెళ్ళుటకు నెట్వర్కు కేబుల్ గుచ్చండి. "
+"మీరు వైరు అనుసంధానం వుపయోగించాలని అనుకుంటే, ఆన్‌లైన్‌కు వెళ్ళుటకు నెట్వర్కు "
+"కేబుల్ గుచ్చండి. "
 "కంప్యూటర్ మీ కొరకు నెట్వర్కు అనుసంధానం స్వయంచాలకంగా ఏర్పరుచుటకు ప్రయత్నించును."
 
-#: C/gs-get-online.page:43(item/p)
+#. (itstool) path: item/p
+#: C/gs-get-online.page:45
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
 msgstr ""
-"మీ కొరకు కంప్యూటర్ నెట్వర్కు అనుసంధానం అమర్చునప్పుడు, నెట్వర్కు అనుసంధానం ప్రతిమ మూడు "
+"మీ కొరకు కంప్యూటర్ నెట్వర్కు అనుసంధానం అమర్చునప్పుడు, నెట్వర్కు అనుసంధానం "
+"ప్రతిమ మూడు "
 "చుక్కలను చూపును."
 
-#: C/gs-get-online.page:45(item/p)
+#. (itstool) path: item/p
+#: C/gs-get-online.page:47
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to the networked computer symbol."
 msgstr ""
-"ఒకసారి నెట్వర్కు అనుసంధానం సఫలవంతంగా అమర్చిన తరువాత, నెట్వర్కు అనుసంధానం ప్రతిమ నెట్వర్కువున్న "
+"ఒకసారి నెట్వర్కు అనుసంధానం సఫలవంతంగా అమర్చిన తరువాత, నెట్వర్కు అనుసంధానం "
+"ప్రతిమ నెట్వర్కువున్న "
 "కంప్యూటర్ చిహ్నముకు మారును."
 
-#: C/gs-get-online.page:53(section/title)
-#, fuzzy
+#. (itstool) path: section/title
+#: C/gs-get-online.page:55
 msgid "Connect to a Wi-Fi network"
-msgstr "వైర్డు నెట్వర్కునకు అనుసంధానమవ్వు"
+msgstr "వై-ఫై నెట్వర్కునకు అనుసంధానమవ్వు"
 
-#: C/gs-get-online.page:58(item/p)
+#. (itstool) path: item/p
+#: C/gs-get-online.page:61
 msgid ""
 "To connect to a Wi-Fi (wireless) network, click the status menu at the top "
 "right of the screen, and then click <gui>Select Network</gui>."
 msgstr ""
+"వై-ఫై (వైరులేని) నెట్వర్క్‌నకు అనుసంధానమగుటకు, తెర పై కుడి మూలనవున్న స్థితి "
+"మెనూను నొక్కి, అప్పుడు <gui>నెట్వర్కు ఎంపికచేయి</gui> నొక్కుము."
 
-#: C/gs-get-online.page:64(note/p)
+#. (itstool) path: note/p
+#: C/gs-get-online.page:67
 msgid ""
 "You can only connect to a Wi-Fi network if your computer hardware supports "
 "it and you are in an area with Wi-Fi coverage."
 msgstr ""
+"మీ కంప్యూటర్ హార్డ్‌వేర్ వై-ఫై నెట్వర్క్ తోడ్పాటును కలిగివుండి మరియు వై-ఫై "
+"పరిధిలో ఉంటేనే మీరు వై-ఫై నెట్వర్కునకు అనుసంధానం కాగలరు."
 
-#: C/gs-get-online.page:71(item/p)
+#. (itstool) path: item/p
+#: C/gs-get-online.page:75
 msgid ""
 "From the list of available Wi-Fi networks, select the network you want to "
 "connect to, and click <gui>Connect</gui> to confirm."
 msgstr ""
+"అందుబాటులోవున్న వై-ఫై నెట్వర్కుల జాబితానుండి, మీరు అనుసంధానించదలచిన "
+"నెట్వర్కును ఎంపికచేయుము, ఖాయపరచుటకు <gui>అనుసంధానించు</gui> నొక్కుము."
 
-#: C/gs-get-online.page:73(item/p)
+#. (itstool) path: item/p
+#: C/gs-get-online.page:77
 msgid ""
 "Depending on the network configuration, you may be prompted for network "
 "credentials."
 msgstr ""
+"నెట్వర్క్ ఆకృతీకరణపై ఆధారపడి, మిమ్ములను నెట్వర్క్ క్రెడెన్షియల్స్ అడుగవచ్చు."
 
-#: C/gs-goa1.svg:41(Work/format) C/gs-goa2.svg:38(Work/format)
-#: C/gs-goa3.svg:51(Work/format) C/gs-goa4.svg:36(Work/format)
-#: C/gs-goa5.svg:48(Work/format) C/gs-go-online1.svg:230(Work/format)
-#: C/gs-go-online2.svg:265(Work/format) C/gs-go-online3.svg:293(Work/format)
-#: C/gs-search1.svg:97(Work/format) C/gs-search2.svg:133(Work/format)
-#: C/gs-search-settings.svg:98(Work/format)
-#: C/gs-thumb-changing-wallpaper.svg:39(Work/format)
-#: C/gs-thumb-launching-apps.svg:189(Work/format)
-#: C/gs-thumb-responding-to-messages.svg:36(Work/format)
-#: C/gs-thumb-task-switching.svg:89(Work/format)
-#: C/gs-thumb-timezone.svg:41(Work/format)
-#: C/gs-thumb-windows-and-workspaces.svg:89(Work/format)
-#: C/gs-web-browser1-firefox-classic.svg:103(Work/format)
-#: C/gs-web-browser1-firefox.svg:108(Work/format)
-#: C/gs-web-browser1.svg:108(Work/format)
-#: C/gs-web-browser2-firefox.svg:100(Work/format)
-#: C/gs-web-browser2.svg:102(Work/format)
+#. (itstool) path: Work/format
+#: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
+#: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
+#: C/gs-go-online3.svg:293 C/gs-search1.svg:97 C/gs-search2.svg:133
+#: C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:39
+#: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36
+#: C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
+#: C/gs-thumb-windows-and-workspaces.svg:89
+#: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
+#: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
+#: C/gs-web-browser2.svg:102
 msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
-#: C/gs-goa1.svg:80(text/tspan) C/gs-go-online1.svg:242(text/tspan)
-#: C/gs-go-online2.svg:278(text/tspan) C/gs-search1.svg:109(text/tspan)
-#: C/gs-thumb-timezone.svg:101(text/tspan)
-#: C/gs-thumb-timezone.svg:135(text/tspan)
-#: C/gs-web-browser1-firefox-classic.svg:115(text/tspan)
-#: C/gs-web-browser1-firefox.svg:120(text/tspan)
-#: C/gs-web-browser1.svg:120(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
+#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101
+#: C/gs-thumb-timezone.svg:135 C/gs-web-browser1-firefox-classic.svg:115
+#: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
 #, no-wrap
 msgid "1"
 msgstr "1"
 
-#: C/gs-goa1.svg:84(text/tspan) C/gs-go-online1.svg:266(text/tspan)
-#: C/gs-go-online3.svg:306(text/tspan) C/gs-search2.svg:145(text/tspan)
-#: C/gs-thumb-timezone.svg:102(text/tspan)
-#: C/gs-thumb-timezone.svg:136(text/tspan)
-#: C/gs-web-browser1-firefox-classic.svg:137(text/tspan)
-#: C/gs-web-browser1-firefox.svg:153(text/tspan)
-#: C/gs-web-browser1.svg:153(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:306
+#: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102
+#: C/gs-thumb-timezone.svg:136 C/gs-web-browser1-firefox-classic.svg:137
+#: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
 msgstr "2"
 
-#: C/gs-goa2.svg:50(text/tspan) C/gs-thumb-timezone.svg:103(text/tspan)
-#: C/gs-thumb-timezone.svg:137(text/tspan)
-#: C/gs-web-browser2-firefox.svg:164(text/tspan)
-#: C/gs-web-browser2.svg:165(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa2.svg:50 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
+#: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
 #, no-wrap
 msgid "3"
 msgstr "3"
 
-#: C/gs-goa2.svg:69(text/tspan) C/gs-goa3.svg:113(text/tspan)
-#: C/gs-goa5.svg:79(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa2.svg:69 C/gs-goa3.svg:113 C/gs-goa5.svg:79
 #, no-wrap
 msgid "Online Accounts"
 msgstr "ఆన్‌లైన్ ఖాతాలు"
 
-#: C/gs-goa2.svg:71(text/tspan) C/gs-goa3.svg:115(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa2.svg:71 C/gs-goa3.svg:115
 #, no-wrap
 msgid "Add an online account"
 msgstr "ఒక ఆన్‌లైన్ ఖాతాను జతచేయి"
 
-#: C/gs-goa3.svg:63(text/tspan) C/gs-thumb-timezone.svg:104(text/tspan)
-#: C/gs-thumb-timezone.svg:138(text/tspan)
-#: C/gs-web-browser2-firefox.svg:113(text/tspan)
-#: C/gs-web-browser2.svg:115(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
+#: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
 #, no-wrap
 msgid "4"
 msgstr "4"
 
-#: C/gs-goa3.svg:66(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:66
 #, no-wrap
 msgid "Add Account"
 msgstr "ఖాతాను జతచేయండి"
 
-#: C/gs-goa3.svg:70(text/tspan) C/gs-goa4.svg:56(text/tspan)
-#: C/gs-goa4.svg:90(text/tspan) C/gs-go-online3.svg:343(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:343
 #, no-wrap
 msgid "Cancel"
 msgstr "రద్దుచేయి"
 
-#: C/gs-goa3.svg:72(text/tspan) C/gs-goa4.svg:123(text/tspan)
-#: C/gs-goa5.svg:86(text/tspan) C/gs-goa5.svg:89(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
 #, no-wrap
 msgid "Google"
 msgstr "గూగుల్"
 
-#: C/gs-goa3.svg:73(text/tspan) C/gs-goa4.svg:124(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:73 C/gs-goa4.svg:124
 #, no-wrap
 msgid "Facebook"
 msgstr "ఫేస్‌బుక్"
 
-#: C/gs-goa3.svg:74(text/tspan) C/gs-goa4.svg:125(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:74 C/gs-goa4.svg:125
 #, no-wrap
 msgid "Windows Live"
 msgstr "విండోస్ లైవ్ "
 
-#: C/gs-goa3.svg:75(text/tspan) C/gs-goa4.svg:126(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:75 C/gs-goa4.svg:126
 #, no-wrap
 msgid "Microsoft Exchange"
 msgstr "మైక్రొసాఫ్ట్‍ ఎక్సేంజి"
 
-#: C/gs-goa3.svg:76(text/tspan) C/gs-goa4.svg:127(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:76 C/gs-goa4.svg:127
 #, no-wrap
 msgid "Enterprise Login (Kerberos)"
 msgstr "ఎంటర్‌ప్రైజ్ లాగిన్ (కెర్బరోస్)"
 
-#: C/gs-goa4.svg:48(text/tspan) C/gs-thumb-timezone.svg:105(text/tspan)
-#: C/gs-web-browser2-firefox.svg:259(text/tspan)
-#: C/gs-web-browser2.svg:255(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:48 C/gs-thumb-timezone.svg:105
+#: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
 #, no-wrap
 msgid "5"
 msgstr "5"
 
-#: C/gs-goa4.svg:52(text/tspan) C/gs-goa4.svg:86(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:52 C/gs-goa4.svg:86
 #, no-wrap
 msgid "Google account"
 msgstr "గూగుల్ ఖాతా"
 
-#: C/gs-goa4.svg:69(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:69
 #, no-wrap
 msgid "SIGN UP"
 msgstr "సైన్ అప్"
 
-#: C/gs-goa4.svg:70(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:70
 #, no-wrap
 msgid "Sign in"
 msgstr "ప్రవేశించండి"
 
-#: C/gs-goa4.svg:71(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:71
 #, no-wrap
 msgid "Email"
 msgstr "ఈమెయిల్"
 
-#: C/gs-goa4.svg:73(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:73
 #, no-wrap
 msgid "Password"
 msgstr "సంకేతపదం"
 
-#: C/gs-goa4.svg:76(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:76
 #, no-wrap
 msgid "Sign In"
 msgstr "ప్రవేశించండి"
 
-#: C/gs-goa4.svg:77(text/tspan) C/gs-goa5.svg:88(text/tspan)
-#: C/gs-goa5.svg:91(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:77 C/gs-goa5.svg:88 C/gs-goa5.svg:91
 #, no-wrap
 msgid "john.doe@gmail.com"
 msgstr "john.doe@gmail.com"
 
-#: C/gs-goa4.svg:103(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:103
 #, no-wrap
 msgid "Grant Access"
 msgstr "ఏక్సెస్ ఇవ్వు"
 
-#: C/gs-goa4.svg:108(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:108
 #, no-wrap
 msgid "Deny Access"
 msgstr "ఏక్సెస్ తిరస్కరించు"
 
-#: C/gs-goa4.svg:119(text/tspan) C/gs-thumb-timezone.svg:106(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:106
 #, no-wrap
 msgid "6"
 msgstr "6"
 
-#: C/gs-goa5.svg:60(text/tspan) C/gs-thumb-timezone.svg:107(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:60 C/gs-thumb-timezone.svg:107
 #, no-wrap
 msgid "7"
 msgstr "7"
 
-#: C/gs-goa5.svg:92(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:92
 #, no-wrap
 msgid "Use for"
 msgstr "దీనికి వాడు"
 
-#: C/gs-goa5.svg:93(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:93
 #, no-wrap
 msgid "Mail"
 msgstr "మెయిల్"
 
-#: C/gs-goa5.svg:98(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:98
 #, no-wrap
 msgid "Calendar"
 msgstr "క్యాలెండర్"
 
-#: C/gs-goa5.svg:103(text/tspan) C/gs-search2.svg:293(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:103 C/gs-search2.svg:293
 #, no-wrap
 msgid "Contacts"
 msgstr "పరిచయాలు"
 
-#: C/gs-goa5.svg:108(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:108
 #, no-wrap
 msgid "Chat"
 msgstr "సంభాషణ"
 
-#: C/gs-goa5.svg:113(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:113
 #, no-wrap
 msgid "Documents"
 msgstr "పత్రములు"
 
-#: C/gs-goa5.svg:118(text/tspan) C/gs-goa5.svg:119(text/tspan)
-#: C/gs-goa5.svg:120(text/tspan) C/gs-goa5.svg:121(text/tspan)
-#: C/gs-goa5.svg:122(text/tspan) C/gs-search-settings.svg:155(text/tspan)
-#: C/gs-search-settings.svg:272(text/tspan)
-#: C/gs-search-settings.svg:279(text/tspan)
-#: C/gs-search-settings.svg:286(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121
+#: C/gs-goa5.svg:122 C/gs-search-settings.svg:155 C/gs-search-settings.svg:272
+#: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
 #, no-wrap
 msgid "ON"
 msgstr "ఆన్"
 
-#: C/gs-go-online1.svg:250(text/tspan) C/gs-search1.svg:196(text/tspan)
-#: C/gs-search2.svg:152(text/tspan)
-#: C/gs-thumb-changing-wallpaper.svg:55(text/tspan)
-#: C/gs-thumb-launching-apps.svg:205(text/tspan)
-#: C/gs-thumb-responding-to-messages.svg:52(text/tspan)
-#: C/gs-thumb-task-switching.svg:168(text/tspan)
-#: C/gs-thumb-timezone.svg:57(text/tspan)
-#: C/gs-thumb-windows-and-workspaces.svg:105(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
+#: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
+#: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
+#: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
 msgid "14:30"
 msgstr "14:30"
 
-#: C/gs-go-online2.svg:328(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:328
 #, no-wrap
 msgid "Wi-Fi"
 msgstr "వై-ఫై"
 
-#: C/gs-go-online2.svg:336(text/tspan) C/gs-go-online3.svg:315(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
 #, no-wrap
 msgid "homenetwork"
-msgstr ""
+msgstr "హోమ్‌నెట్వర్క్"
 
-#: C/gs-go-online2.svg:338(text/tspan)
-#, fuzzy, no-wrap
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:338
+#, no-wrap
 msgid "Select Network"
-msgstr "ఎంపికచేయి"
+msgstr "నెట్వర్క్ ఎంపికచేయి"
 
-#: C/gs-go-online2.svg:339(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:339
 #, no-wrap
 msgid "Turn Off"
-msgstr ""
+msgstr "ఆఫ్ చేయి"
 
-#: C/gs-go-online2.svg:340(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:340
 #, no-wrap
 msgid "Network Settings"
 msgstr "నెట్‌వర్క్ అమరికలు"
 
-#: C/gs-go-online3.svg:309(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:309
 #, no-wrap
 msgid "Wi-Fi Networks"
-msgstr ""
+msgstr "వై-ఫై నెట్వర్క్స్"
 
-#: C/gs-go-online3.svg:313(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:313
 #, no-wrap
 msgid "Connect"
-msgstr ""
+msgstr "అనుసంధానించు"
 
-#: C/gs-go-online3.svg:316(text/tspan)
-#, fuzzy, no-wrap
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:316
+#, no-wrap
 msgid "wireless"
 msgstr "వైరులేని"
 
-#: C/gs-go-online3.svg:317(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:317
 #, no-wrap
 msgid "netgear"
-msgstr ""
+msgstr "నెట్‌గేర్"
 
-#: C/gs-go-online3.svg:318(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:318
 #, no-wrap
 msgid "weak"
-msgstr ""
+msgstr "బలహీనం"
 
-#: C/gs-go-online3.svg:319(text/tspan)
-#, fuzzy, no-wrap
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:319
+#, no-wrap
 msgid "private"
 msgstr "వ్యక్తిగత"
 
-#: C/gs-go-online3.svg:320(text/tspan)
-#, fuzzy, no-wrap
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:320
+#, no-wrap
 msgid "Select a network"
-msgstr "వైర్డు నెట్వర్కునకు అనుసంధానమవ్వు"
+msgstr "నెట్వర్కును ఎంపికచేయి"
 
-#: C/gs-launch-applications.page:16(info/title)
+#. (itstool) path: info/title
+#: C/gs-launch-applications.page:16
 msgctxt "link:trail"
 msgid "Launch applications"
 msgstr "అనువర్తనాలు ఆరంభించండి"
 
-#: C/gs-launch-applications.page:18(info/title)
+#. (itstool) path: info/title
+#: C/gs-launch-applications.page:18
 msgctxt "link:seealso"
 msgid "A tutorial on launching applications"
 msgstr "అనువర్తనాలు ఆరంభించుట పై ట్యుటోరియల్"
 
-#: C/gs-launch-applications.page:60(section/title)
+#. (itstool) path: section/title
+#: C/gs-launch-applications.page:61
 msgid "Launch applications with the mouse"
 msgstr "అనువర్తనాలను మౌస్‌తో ఆరంభించండి"
 
-#: C/gs-launch-applications.page:65(item/p)
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:66
 msgid ""
 "Click the <gui>Show Applications</gui> icon that is shown at the bottom of "
 "the bar on the left-hand side of the screen."
 msgstr ""
-"తెర ఎడమ-చేతి వైపున కింది పట్టీ పైన కనబడుతున్న <gui>అనువర్తనాలు చూపు</gui> ప్రతిమను నొక్కుము."
+"తెర ఎడమ-చేతి వైపున కింది పట్టీ పైన కనబడుతున్న <gui>అనువర్తనాలు చూపు</gui> "
+"ప్రతిమను నొక్కుము."
 
-#: C/gs-launch-applications.page:67(item/p)
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:68
 msgid ""
 "A list of applications is shown. Click the application you want to run, for "
 "example, Help."
 msgstr ""
-"అనువర్తనాల జాబితా చూపబడును. మీరు నడుపాలని అనుకొనుచున్న అనువర్తనం నొక్కుము, ఉదాహరణకు, సహాయం."
+"అనువర్తనాల జాబితా చూపబడును. మీరు నడుపాలని అనుకొనుచున్న అనువర్తనం నొక్కుము, "
+"ఉదాహరణకు, సహాయం."
 
-#: C/gs-launch-applications.page:74(section/title)
+#. (itstool) path: section/title
+#: C/gs-launch-applications.page:75
 msgid "Launch applications with the keyboard"
 msgstr "అనువర్తనాలను కీబోర్డుతో ఆరంభించండి"
 
-#: C/gs-launch-applications.page:77(item/p)
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:78
 msgid ""
 "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key."
@@ -1521,607 +1524,694 @@ msgstr ""
 "<key href=\"help:gnome-help/keyboard-key-super\">Super</key> కీ వత్తుట ద్వారా "
 "<gui>కార్యకలాపాల అవలోకనం</gui> తెరువుము."
 
-#: C/gs-launch-applications.page:79(item/p)
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:80
 msgid ""
 "Start typing the name of the application you want to launch. Searching for "
 "the application begins instantly."
 msgstr ""
-"మీరు ఆరంభించాలనుకొంటున్న అనువర్తనం పేరు టైపు చేసి దానిని ప్రారంభించు. అనువర్తనం కొరకు వెతుకుట "
+"మీరు ఆరంభించాలనుకొంటున్న అనువర్తనం పేరు టైపు చేసి దానిని ప్రారంభించు. "
+"అనువర్తనం కొరకు వెతుకుట "
 "తక్షణమే ప్రారంభమగును."
 
-#: C/gs-launch-applications.page:81(item/p)
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:82
 msgid ""
 "Once the icon of the application is shown and selected, press <key> Enter</"
 "key> to launch the application."
 msgstr ""
-"ఒకసారి అనువర్తనం ప్రతిమ కనబడి మరియు ఎంపికైన తరువాత, అనువర్తనం ఆరంభించుటకు <key> Enter</"
+"ఒకసారి అనువర్తనం ప్రతిమ కనబడి మరియు ఎంపికైన తరువాత, అనువర్తనం ఆరంభించుటకు <"
+"key> Enter</"
 "key> వత్తండి."
 
-#: C/gs-legal.xml:3(p/link)
+#. (itstool) path: p/link
+#: C/gs-legal.xml:3
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
 msgstr "క్రియేటివ్ కామన్స్ Attribution-ShareAlike 3.0 తోడ్పాటులేని లైసెన్స్"
 
-#: C/gs-legal.xml:3(license/p)
+#. (itstool) path: license/p
+#: C/gs-legal.xml:3
 msgid "This work is licensed under a <_:link-1/>."
 msgstr "ఈ పని <_:link-1/> కిందన లైసెన్స్ కాబడినది."
 
-#: C/gs-respond-messages.page:15(info/title)
+#. (itstool) path: info/title
+#: C/gs-respond-messages.page:15
 msgctxt "link:trail"
 msgid "Respond to messages"
 msgstr "సందేశాలకు స్పందించు"
 
-#: C/gs-respond-messages.page:17(info/title)
+#. (itstool) path: info/title
+#: C/gs-respond-messages.page:17
 msgctxt "link:seealso"
 msgid "A tutorial on responding to messages"
 msgstr "సందేశాలకు స్పందించుటపై ట్యుటోరియల్"
 
-#: C/gs-respond-messages.page:87(section/title)
+#. (itstool) path: section/title
+#: C/gs-respond-messages.page:88
 msgid "Respond to a chat message with the mouse"
 msgstr "మౌస్‌తో సంభాషణ సందేశముకు స్పందించు"
 
-#: C/gs-respond-messages.page:92(item/p)
-#: C/gs-respond-messages.page:128(item/p)
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:93 C/gs-respond-messages.page:129
 msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send "
 "the reply."
-msgstr "మీ ప్రత్యుత్తరమును టైపు చేసి పూర్తవగానే, దానిని పంపుటకు <key>Enter</key> వత్తండి."
+msgstr ""
+"మీ ప్రత్యుత్తరమును టైపు చేసి పూర్తవగానే, దానిని పంపుటకు <key>Enter</key> "
+"వత్తండి."
 
-#: C/gs-respond-messages.page:94(item/p)
-#: C/gs-respond-messages.page:113(item/p)
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:95 C/gs-respond-messages.page:114
 msgid ""
 "To close the chat message, click the close button at the top right corner of "
 "the chat message."
-msgstr "సంభాషణ సందేశం మూయుటకు, సంభాషణ సందేశపు పై కుడి మూలవద్దని మూయి బటన్ నొక్కుము."
+msgstr ""
+"సంభాషణ సందేశం మూయుటకు, సంభాషణ సందేశపు పై కుడి మూలవద్దని మూయి బటన్ నొక్కుము."
 
-#: C/gs-respond-messages.page:101(section/title)
+#. (itstool) path: section/title
+#: C/gs-respond-messages.page:102
 msgid "Delayed response to a chat message using the mouse"
 msgstr "మౌస్ వుపయోగించే సంభాషణ సందేశమునకు ఆలస్యమైన స్పందన"
 
-#: C/gs-respond-messages.page:104(item/p)
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:105
 msgid ""
 "When a chat message appears in the message tray and you do not move your "
 "mouse to the message tray, the message disappears after a while."
 msgstr ""
-"సందేశ ట్రే నందు సంభాషణ సందేశం కనిపించినప్పుడు మీ మౌస్‌ను సందేశ ట్రే కు కదల్చకపోతే, సందేశం కొంత "
+"సందేశ ట్రే నందు సంభాషణ సందేశం కనిపించినప్పుడు మీ మౌస్‌ను సందేశ ట్రే కు "
+"కదల్చకపోతే, సందేశం కొంత "
 "సేపటి తరువాత కనిపించదు."
 
-#: C/gs-respond-messages.page:107(item/p)
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:108
 msgid ""
 "To get back to your unanswered message, move your mouse to the message tray "
 "at the very bottom of the screen."
 msgstr ""
-"మీరు సమాధానమివ్వని సందేశమునకు తిరిగివచ్చుటకు, మీ మౌస్‌ను తెర సాంతం కిందన వున్న సందేశం ట్రే కు "
+"మీరు సమాధానమివ్వని సందేశమునకు తిరిగివచ్చుటకు, మీ మౌస్‌ను తెర సాంతం కిందన "
+"వున్న సందేశం ట్రే కు "
 "కదుపుము."
 
-#: C/gs-respond-messages.page:109(item/p)
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:110
 msgid ""
 "When the message tray appears, click a small image that represents the "
 "person who sent you the message."
-msgstr "సందేశం ట్రే కనిపించినప్పుడు, మీకు సందేశం పంపిన వ్యక్తిని తెలిపే చిన్ని చిత్రముపై నొక్కుము."
+msgstr ""
+"సందేశం ట్రే కనిపించినప్పుడు, మీకు సందేశం పంపిన వ్యక్తిని తెలిపే చిన్ని "
+"చిత్రముపై నొక్కుము."
 
-#: C/gs-respond-messages.page:111(item/p)
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:112
 msgid ""
 "When the chat message is shown, start typing your reply and when finished, "
 "press <key>Enter</key> to send the reply."
 msgstr ""
-"సంభాషణ సందేశం చూపబడినప్పుడు, మీ ప్రత్యుత్తరము టైపుచేయుట ప్రారంబించుము మరియు పూర్తవగానే, "
+"సంభాషణ సందేశం చూపబడినప్పుడు, మీ ప్రత్యుత్తరము టైపుచేయుట ప్రారంబించుము మరియు "
+"పూర్తవగానే, "
 "ప్రత్యుత్తరమును పంపుటకు <key>Enter</key> వత్తుము."
 
-#: C/gs-respond-messages.page:120(section/title)
+#. (itstool) path: section/title
+#: C/gs-respond-messages.page:121
 msgid "Delayed response to a chat message using the keyboard"
 msgstr "కీబోర్డు వుపయోగించే సంభాషణ సందేశమునకు ఆలస్యమైన స్పందన"
 
-#: C/gs-respond-messages.page:122(item/p)
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:123
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq> <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq> to "
 "display the message tray that contains the messages."
 msgstr ""
-"మీరు సమాధానమివ్వని సంభాషణ సందేశాలకు తిరిగి వచ్చుటకు, సందేశాలను కలిగివున్న సందేశ ట్రే "
+"మీరు సమాధానమివ్వని సంభాషణ సందేశాలకు తిరిగి వచ్చుటకు, సందేశాలను కలిగివున్న "
+"సందేశ ట్రే "
 "ప్రదర్శింపచేయుటకు <keyseq> <key href=\"help:gnome-help/keyboard-key-super"
 "\">Super</key><key>M</key> </keyseq> వత్తుము."
 
-#: C/gs-respond-messages.page:126(item/p)
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:127
 msgid ""
 "Use the arrow keys to select a small image representing the person you want "
 "to reply to, and press <key>Enter</key>."
 msgstr ""
-"మీరు ప్రత్యుత్తరము ఇవ్వాలనుకుంటున్న వ్యక్తిని తెలిపే చిన్న చిత్రమును ఎంపికచేయుటకు బాణపు గుర్తులను "
+"మీరు ప్రత్యుత్తరము ఇవ్వాలనుకుంటున్న వ్యక్తిని తెలిపే చిన్న చిత్రమును "
+"ఎంపికచేయుటకు బాణపు గుర్తులను "
 "వుపయోగించుము, మరియు <key>Enter</key> వత్తుము."
 
-#: C/gs-respond-messages.page:131(item/p)
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:132
 msgid ""
 "To dismiss the message tray, press <key>Esc</key> or <keyseq> <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>."
 msgstr ""
-"సందేశ ట్రేను రద్దుచేయుటకు, <key>Esc</key> లేదా <keyseq> <key href=\"help:gnome-help/"
+"సందేశ ట్రేను రద్దుచేయుటకు, <key>Esc</key> లేదా <keyseq> <key "
+"href=\"help:gnome-help/"
 "keyboard-key-super\">Super</key><key>M</key> </keyseq> వత్తుము."
 
-#: C/gs-search1.svg:229(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search1.svg:229
 #, no-wrap
 msgid "just type"
 msgstr "టైపు చేయి"
 
-#: C/gs-search2.svg:182(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:182
 #, no-wrap
 msgid "con"
 msgstr "అనుసంధానం"
 
-#: C/gs-search2.svg:246(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:246
 #, no-wrap
 msgid "Accounts"
 msgstr "ఖాతాలు"
 
-#: C/gs-search2.svg:247(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:247
 #, no-wrap
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 
-#: C/gs-search2.svg:248(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:248
 #, no-wrap
 msgid "config"
 msgstr "ఆకృతీకరించు"
 
-#: C/gs-search2.svg:249(text/tspan) C/gs-search2.svg:252(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:249 C/gs-search2.svg:252
 #, no-wrap
 msgid "fontconfig"
 msgstr "ఫాంట్‌ఆకృతీకరణ"
 
-#: C/gs-search2.svg:250(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:250
 #, no-wrap
 msgid "system-config-http.zip"
 msgstr "system-config-http.zip"
 
-#: C/gs-search2.svg:251(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:251
 #, no-wrap
 msgid "Icon guidelines"
 msgstr "ప్రతిమ మార్గదర్శకాలు"
 
-#: C/gs-search2.svg:269(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:269
 #, no-wrap
 msgid "Secure Linux Containers"
 msgstr "లైనక్స్ కంటైనర్స్ సురక్షితంచేయి"
 
-#: C/gs-search2.svg:270(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:270
 #, no-wrap
 msgid "Developer Conference 2012"
 msgstr "అభివృద్దికారి కాన్ఫరెన్స్ 2012"
 
-#: C/gs-search2.svg:294(text/tspan)
-#: C/gs-web-browser2-firefox.svg:218(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:294 C/gs-web-browser2-firefox.svg:218
 #, no-wrap
 msgid "Firefox"
 msgstr "ఫైర్‌ఫాక్స్"
 
-#: C/gs-search-settings.svg:137(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:137
 #, no-wrap
 msgid "Search"
 msgstr "వెతుకు"
 
-#: C/gs-search-settings.svg:148(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:148
 #, no-wrap
 msgid "Files"
 msgstr "ఫైళ్ళు"
 
-#: C/gs-search-settings.svg:149(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:149
 #, no-wrap
 msgid "Enabled"
 msgstr "చేతనమైన"
 
-#: C/gs-search-settings.svg:264(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:264
 #, no-wrap
 msgid "Web"
 msgstr "వెబ్"
 
-#: C/gs-search-settings.svg:265(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:265
 #, no-wrap
 msgid "Photos"
 msgstr "ఫొటోలు"
 
-#: C/gs-search-settings.svg:266(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:266
 #, no-wrap
 msgid "Music"
 msgstr "సంగీతం"
 
-#: C/gs-search-settings.svg:293(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:293
 #, no-wrap
 msgid "OFF"
 msgstr "ఆఫ్"
 
-#: C/gs-switch-tasks.page:16(info/title)
+#. (itstool) path: info/title
+#: C/gs-switch-tasks.page:16
 msgctxt "link:trail"
 msgid "Switch tasks"
 msgstr "కర్తవ్యాలను మార్చు"
 
-#: C/gs-switch-tasks.page:18(info/title)
+#. (itstool) path: info/title
+#: C/gs-switch-tasks.page:18
 msgctxt "link:seealso"
 msgid "A tutorial on switching tasks"
 msgstr "కర్తవ్యాలను మార్చుటపై ట్యుటోరియల్"
 
-#: C/gs-switch-tasks.page:101(item/p)
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:102
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen to show the <gui>Activities Overview</gui> where you can see "
 "the currently running tasks displayed as small windows."
 msgstr ""
-"ప్రస్తుతం నడుస్తున్న కర్తవ్యాలను చిన్న విండోల వలె ప్రదర్శింపచేయుటకు మీ మౌస్ సూచికిని తెర పైన ఎడమ "
-"వైపుని <gui>కార్యకలాపాలు</gui> మూలకు కదిపిన <gui>కార్యకలాపాల అవలోకనం</gui> కనిపించును."
+"ప్రస్తుతం నడుస్తున్న కర్తవ్యాలను చిన్న విండోల వలె ప్రదర్శింపచేయుటకు మీ మౌస్ "
+"సూచికిని తెర పైన ఎడమ "
+"వైపుని <gui>కార్యకలాపాలు</gui> మూలకు కదిపిన <gui>కార్యకలాపాల అవలోకనం</gui> "
+"కనిపించును."
 
-#: C/gs-switch-tasks.page:111(item/p)
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:112
 msgid ""
 "You can switch between tasks by using the <gui>window list</gui> at the "
 "bottom of the screen. Open tasks appear as buttons in the <gui>window list</"
 "gui>."
 msgstr ""
-"కర్తవ్యాల మద్యన మారుటకు మీరు తెర కిందన వున్న <gui>విండో జాబితా</gui> వుపయోగించవచ్చు. <gui>విండో "
+"కర్తవ్యాల మద్యన మారుటకు మీరు తెర కిందన వున్న <gui>విండో జాబితా</gui> "
+"వుపయోగించవచ్చు. <gui>విండో "
 "జాబితా</gui> నందు బటన్ల వలె కనిపించు కర్తవ్యాలను తెరువుము."
 
-#: C/gs-switch-tasks.page:114(item/p)
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:115
 msgid "Click a button in the <gui>window list</gui> to switch to that task."
 msgstr "<gui>విండో జాబితా</gui> నందలి బటన్ పైన నొక్కి ఆ కర్తవ్యమునకు మారుము."
 
-#: C/gs-switch-tasks.page:124(section/title)
-#: C/gs-use-windows-workspaces.page:113(section/title)
+#. (itstool) path: section/title
+#: C/gs-switch-tasks.page:125 C/gs-use-windows-workspaces.page:114
 msgid "Tile windows"
 msgstr "టైల్ విండోలు"
 
-#: C/gs-switch-tasks.page:127(item/p)
-#: C/gs-use-windows-workspaces.page:117(item/p)
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:128 C/gs-use-windows-workspaces.page:118
 msgid ""
 "To maximize a window along a side of the screen, grab the window's titlebar "
 "and drag it to the left or right side of the screen."
 msgstr ""
-"తెర వెంబడి విండోను పెద్దది చేయుటకు, విండో యొక్క శీర్షికపట్టీను పట్టి దానిని తెర ఎడమ వైపుకు లేదా కుడి "
+"తెర వెంబడి విండోను పెద్దది చేయుటకు, విండో యొక్క శీర్షికపట్టీను పట్టి దానిని "
+"తెర ఎడమ వైపుకు లేదా కుడి "
 "వైపుకు లాగుము."
 
-#: C/gs-switch-tasks.page:129(item/p)
-#: C/gs-use-windows-workspaces.page:119(item/p)
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:130 C/gs-use-windows-workspaces.page:120
 msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
 "along the selected side of the screen."
-msgstr "తెర అర్ధభాగం ఉద్దీపనం కాగానే, విండోను ఎంపికచేసిన తెర వైపుకు పెద్దది చేయుటకు దానిని వదులుము."
+msgstr ""
+"తెర అర్ధభాగం ఉద్దీపనం కాగానే, విండోను ఎంపికచేసిన తెర వైపుకు పెద్దది చేయుటకు "
+"దానిని వదులుము."
 
-#: C/gs-switch-tasks.page:131(item/p)
-#: C/gs-use-windows-workspaces.page:121(item/p)
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:132 C/gs-use-windows-workspaces.page:122
 msgid ""
 "To maximize two windows side-by-side, grab the titlebar of the second window "
 "and drag it to the opposite side of the screen."
 msgstr ""
-"వెండు విండోలను పక్క-పక్కనే పెద్దవి చేయుటకు, రెండో విండో యొక్క శీర్షిక పట్టీను పట్టీ దానిని తెరకు వ్యతిరేక "
+"వెండు విండోలను పక్క-పక్కనే పెద్దవి చేయుటకు, రెండో విండో యొక్క శీర్షిక పట్టీను "
+"పట్టీ దానిని తెరకు వ్యతిరేక "
 "దిశలో లాగుము."
 
-#: C/gs-switch-tasks.page:133(item/p)
-#: C/gs-use-windows-workspaces.page:123(item/p)
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:134 C/gs-use-windows-workspaces.page:124
 msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
 "along the opposite side of the screen."
 msgstr ""
-"తెర అర్ధభాగం ఉద్దీపనం కాగానే, విండోను ఎంపికచేసిన తెర వ్యతిరేక దిశకు పెద్దది చేయుటకు దానిని వదులుము."
+"తెర అర్ధభాగం ఉద్దీపనం కాగానే, విండోను ఎంపికచేసిన తెర వ్యతిరేక దిశకు పెద్దది "
+"చేయుటకు దానిని వదులుము."
 
-#: C/gs-switch-tasks.page:140(section/title)
+#. (itstool) path: section/title
+#: C/gs-switch-tasks.page:141
 msgid "Switch between windows"
 msgstr "విండోల మద్యన మారుము"
 
-#: C/gs-switch-tasks.page:143(item/p)
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:144
 msgid ""
 "Press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
 "key><key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which "
 "lists the currently open windows."
 msgstr ""
-"<gui>విండో మార్చునది</gui> చూపుటకు <keyseq><key href=\"help:gnome-help/keyboard-"
-"key-super\">Super </key><key>Tab</key></keyseq> వత్తుము, అది ప్రస్తుతం తెరిచివున్న "
+"<gui>విండో మార్చునది</gui> చూపుటకు <keyseq><key "
+"href=\"help:gnome-help/keyboard-"
+"key-super\">Super </key><key>Tab</key></keyseq> వత్తుము, అది ప్రస్తుతం "
+"తెరిచివున్న "
 "విండోలను జాబితా చేయును."
 
-#: C/gs-switch-tasks.page:146(item/p)
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:147
 msgid ""
 "Release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> to "
 "select the next highlighted window in the <gui>window switcher</gui>."
 msgstr ""
-"<gui>విండో మార్చునది</gui> నందలి తరువాతి వుద్దీపన విండో ఎంపికచేయుటకు <key href=\"help:"
+"<gui>విండో మార్చునది</gui> నందలి తరువాతి వుద్దీపన విండో ఎంపికచేయుటకు <key "
+"href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> వదులుము."
 
-#: C/gs-switch-tasks.page:157(section/title)
+#. (itstool) path: section/title
+#: C/gs-switch-tasks.page:158
 msgid "Use search to switch applications"
 msgstr "అనువర్తనాలను మారుటకు అన్వేషణ వుపయోగించు"
 
-#: C/gs-switch-tasks.page:160(item/p)
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:161
 msgid ""
 "Press the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key "
 "to show the <gui>Activities Overview</gui>."
 msgstr ""
-"<gui>కార్యకలాపాల అవలోకనం</gui> చూపుటకు <key href=\"help:gnome-help/keyboard-key-"
+"<gui>కార్యకలాపాల అవలోకనం</gui> చూపుటకు <key "
+"href=\"help:gnome-help/keyboard-key-"
 "super\">Super</key> కీ వత్తుము."
 
-#: C/gs-switch-tasks.page:162(item/p)
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:163
 msgid ""
 "Just start typing the name of the application you want to switch to. "
 "Applications matching what you have typed will appear as you type."
 msgstr ""
-"మీరు మారాలని అనుకొనుచున్న అనువర్తనం పేరును టైపు చేయుట ప్రారంభించుము. మీరు టైపు చేసిన దానికి "
+"మీరు మారాలని అనుకొనుచున్న అనువర్తనం పేరును టైపు చేయుట ప్రారంభించుము. మీరు "
+"టైపు చేసిన దానికి "
 "సరిపోలిన అనువర్తనాలు కనిపించును."
 
-#: C/gs-switch-tasks.page:165(item/p)
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:166
 msgid ""
 "When the application that you want to switch to appears as the first result, "
 "press <key>Enter</key> to switch to it."
 msgstr ""
-"మీరు మారాలని అనుకొనుచున్న అనువర్తనం మొదటి ఫలితంగా రాగానే, దానికి మారుటుకు <key>Enter</key> "
+"మీరు మారాలని అనుకొనుచున్న అనువర్తనం మొదటి ఫలితంగా రాగానే, దానికి మారుటుకు <"
+"key>Enter</key> "
 "వత్తండి."
 
-#: C/gs-thumb-responding-to-messages.svg:88(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-responding-to-messages.svg:88
 #, no-wrap
 msgid "Thanks f"
 msgstr "ధన్యవాదములు"
 
+#. (itstool) path: text/tspan
 #. Translators: S stands for Sunday here
-#: C/gs-thumb-timezone.svg:93(text/tspan)
+#: C/gs-thumb-timezone.svg:93
 #, no-wrap
 msgctxt "Sunday"
 msgid "S"
 msgstr "ఆ"
 
+#. (itstool) path: text/tspan
 #. Translators: M stands for Monday here
-#: C/gs-thumb-timezone.svg:94(text/tspan)
+#: C/gs-thumb-timezone.svg:94
 #, no-wrap
 msgid "M"
 msgstr "సో"
 
+#. (itstool) path: text/tspan
 #. Translators: T stands for Tuesday here
-#: C/gs-thumb-timezone.svg:95(text/tspan)
+#: C/gs-thumb-timezone.svg:95
 #, no-wrap
 msgctxt "Tuesday"
 msgid "T"
 msgstr "మం"
 
+#. (itstool) path: text/tspan
 #. Translators: W stands for Wednesday here
-#: C/gs-thumb-timezone.svg:96(text/tspan)
+#: C/gs-thumb-timezone.svg:96
 #, no-wrap
 msgid "W"
 msgstr "బు"
 
+#. (itstool) path: text/tspan
 #. Translators: T stands for Thursday here
-#: C/gs-thumb-timezone.svg:97(text/tspan)
+#: C/gs-thumb-timezone.svg:97
 #, no-wrap
 msgctxt "Thursday"
 msgid "T"
 msgstr "గు"
 
+#. (itstool) path: text/tspan
 #. Translators: F stands for Friday here
-#: C/gs-thumb-timezone.svg:98(text/tspan)
+#: C/gs-thumb-timezone.svg:98
 #, no-wrap
 msgid "F"
 msgstr "శు"
 
+#. (itstool) path: text/tspan
 #. Translators: S stands for Saturday here
-#: C/gs-thumb-timezone.svg:99(text/tspan)
+#: C/gs-thumb-timezone.svg:99
 #, no-wrap
 msgctxt "Saturday"
 msgid "S"
 msgstr "శ"
 
-#: C/gs-thumb-timezone.svg:108(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:108
 #, no-wrap
 msgid "8"
 msgstr "8"
 
-#: C/gs-thumb-timezone.svg:109(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:109
 #, no-wrap
 msgid "9"
 msgstr "9"
 
-#: C/gs-thumb-timezone.svg:110(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:110
 #, no-wrap
 msgid "10"
 msgstr "10"
 
-#: C/gs-thumb-timezone.svg:111(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:111
 #, no-wrap
 msgid "11"
 msgstr "11"
 
-#: C/gs-thumb-timezone.svg:112(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:112
 #, no-wrap
 msgid "12"
 msgstr "12"
 
-#: C/gs-thumb-timezone.svg:113(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:113
 #, no-wrap
 msgid "13"
 msgstr "13"
 
-#: C/gs-thumb-timezone.svg:114(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:114
 #, no-wrap
 msgid "14"
 msgstr "14"
 
-#: C/gs-thumb-timezone.svg:116(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:116
 #, no-wrap
 msgid "15"
 msgstr "15"
 
-#: C/gs-thumb-timezone.svg:117(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:117
 #, no-wrap
 msgid "16"
 msgstr "16"
 
-#: C/gs-thumb-timezone.svg:118(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:118
 #, no-wrap
 msgid "17"
 msgstr "17"
 
-#: C/gs-thumb-timezone.svg:119(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:119
 #, no-wrap
 msgid "18"
 msgstr "18"
 
-#: C/gs-thumb-timezone.svg:120(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:120
 #, no-wrap
 msgid "19"
 msgstr "19"
 
-#: C/gs-thumb-timezone.svg:121(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:121
 #, no-wrap
 msgid "20"
 msgstr "20"
 
-#: C/gs-thumb-timezone.svg:122(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:122
 #, no-wrap
 msgid "21"
 msgstr "21"
 
-#: C/gs-thumb-timezone.svg:124(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:124
 #, no-wrap
 msgid "22"
 msgstr "22"
 
-#: C/gs-thumb-timezone.svg:125(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:125
 #, no-wrap
 msgid "23"
 msgstr "23"
 
-#: C/gs-thumb-timezone.svg:126(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:126
 #, no-wrap
 msgid "24"
 msgstr "24"
 
-#: C/gs-thumb-timezone.svg:127(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:127
 #, no-wrap
 msgid "25"
 msgstr "25"
 
-#: C/gs-thumb-timezone.svg:128(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:128
 #, no-wrap
 msgid "26"
 msgstr "26"
 
-#: C/gs-thumb-timezone.svg:129(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:129
 #, no-wrap
 msgid "27"
 msgstr "27"
 
-#: C/gs-thumb-timezone.svg:130(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:130
 #, no-wrap
 msgid "28"
 msgstr "28"
 
-#: C/gs-thumb-timezone.svg:132(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:132
 #, no-wrap
 msgid "29"
 msgstr "29"
 
-#: C/gs-thumb-timezone.svg:133(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:133
 #, no-wrap
 msgid "30"
 msgstr "30"
 
-#: C/gs-thumb-timezone.svg:134(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:134
 #, no-wrap
 msgid "31"
 msgstr "31"
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-use-system-search.page:22(media)
-#, fuzzy
-msgctxt "_"
-msgid "external ref='gs-search1.svg' md5='d3c7dff33da14c6a7b32e3d2a0c80b29'"
-msgstr "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-use-system-search.page:33(media)
-#, fuzzy
-msgctxt "_"
-msgid "external ref='gs-search2.svg' md5='108a030eecdd8fd56990f9987fdea110'"
-msgstr "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-use-system-search.page:67(media)
-msgctxt "_"
-msgid ""
-"external ref='gs-search-settings.svg' md5='448b4f7f7881d9e26bdf215515fe014e'"
-msgstr ""
-"external ref='gs-search-settings.svg' md5='448b4f7f7881d9e26bdf215515fe014e'"
-
-#: C/gs-use-system-search.page:15(info/title)
+#. (itstool) path: info/title
+#: C/gs-use-system-search.page:15
 msgctxt "link:trail"
 msgid "Use the system search"
 msgstr "వ్యవస్థ అన్వేషణను వుపయోగించుము"
 
-#: C/gs-use-system-search.page:17(info/title)
+#. (itstool) path: info/title
+#: C/gs-use-system-search.page:17
 msgctxt "link:seealso"
 msgid "A tutorial on using the system search"
 msgstr "వ్యవస్థ అన్వేషణను వుపయోగించుటపై వొక ట్యుటోరియల్"
 
-#: C/gs-use-system-search.page:20(page/title)
+#. (itstool) path: page/title
+#: C/gs-use-system-search.page:21
 msgid "Use the system search"
 msgstr "వ్యవస్థ అన్వేషణను వుపయోగించు"
 
-#: C/gs-use-system-search.page:25(item/p)
-#, fuzzy
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:27
 msgid ""
 "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key. Start typing to search."
 msgstr ""
 "<key href=\"help:gnome-help/keyboard-key-super\">Super</key> కీ వత్తుట ద్వారా "
-"<gui>కార్యకలాపాల అవలోకనం</gui> తెరువుము."
+"<gui>కార్యకలాపాల అవలోకనం</gui> తెరువుము. వెతుకుటకు టైపు చేయండి."
 
-#: C/gs-use-system-search.page:28(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:30
 msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
 msgstr ""
+"మీరు టైపు చేసిన దానితో సరిపోయిన ఫలితాలు మీరు టైపు చేయగానే కనపడును. ఎల్లప్పుడూ "
+"మొదటి ఫలితం ఉద్దీపించబడి అన్నిటికంటే పైన చూపబడును."
 
-#: C/gs-use-system-search.page:30(item/p)
-#, fuzzy
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:32
 msgid "Press <key>Enter</key> to switch to the first highlighted result."
-msgstr ""
-"మొదటి ఫలితం ఎల్లప్పుడూ ఉద్దీపనం చేయబడి వుండును మరియు పైన కనబడుతుంది. మొదటి ఉద్దీపన ఫలితంకు "
-"మారుటకు <key>Enter</key> వత్తుము."
+msgstr "మొదట ఉద్దీపనం చేయబడిన ఫలితంకు మారుటకు <key>Enter</key> వత్తుము."
 
-#: C/gs-use-system-search.page:35(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:38
 msgid "Items that may appear in the search results include:"
 msgstr "అన్వేషణ ఫలితాల నందు కనిపించు అంశాలు వీటిని కలిగివుండవచ్చు:"
 
-#: C/gs-use-system-search.page:37(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:40
 msgid "matching applications, shown at the top of the search results,"
 msgstr "సరిపోలిన అనువర్తనాలు, అన్వేషణ ఫలితాల పైన చూపబడును,"
 
-#: C/gs-use-system-search.page:39(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:42
 msgid "matching settings,"
 msgstr "సరిపోలిన అమరికలు,"
 
-#: C/gs-use-system-search.page:40(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:43
 msgid "matching contacts, and"
 msgstr "సరిపోలిన పరిచయాలు, మరియు"
 
-#: C/gs-use-system-search.page:41(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:44
 msgid "matching documents."
 msgstr "సరిపోలిన పత్రములు."
 
-#: C/gs-use-system-search.page:44(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:47
 msgid "In the search results, click the item to switch to it."
 msgstr "అన్వేషణ ఫలితాల నందు, అంశమునకు మారుటకు దానిని నొక్కండి."
 
-#: C/gs-use-system-search.page:45(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:48
 msgid ""
 "Alternatively, highlight an item using the arrow keys and press <key>Enter</"
 "key>."
 msgstr ""
-"ప్రత్యామ్నాయంగా, అంశమును బాణపు గుర్తులను వుపయోగించి ఉద్దీపనం చేసి <key>Enter</key> వత్తండి."
+"ప్రత్యామ్నాయంగా, అంశమును బాణపు గుర్తులను వుపయోగించి ఉద్దీపనం చేసి <key>Enter<"
+"/key> వత్తండి."
 
-#: C/gs-use-system-search.page:51(section/title)
+#. (itstool) path: section/title
+#: C/gs-use-system-search.page:54
 msgid "Search from inside applications"
 msgstr "లోపని అనువర్తనాల నుండి అన్వేషించు"
 
-#: C/gs-use-system-search.page:53(section/p)
+#. (itstool) path: section/p
+#: C/gs-use-system-search.page:56
 msgid ""
 "The system search aggregates results from various applications. On the left-"
 "hand side of the search results, you can see icons of applications that "
@@ -2130,157 +2220,345 @@ msgid ""
 "matches are shown in the <gui>Activities Overview</gui>, searching from "
 "inside the application may give you better search results."
 msgstr ""
-"వ్యవస్థ అన్వేషణ అనునది ఫలితాలను వివిధ అనువర్తనాల నుండి సగటు తీయును. అన్వేషణ ఫలితాల ఎడమ-చేతి "
-"వైపున, అన్వేషణ ఫలితాలు అందించిన అనువర్తనాల ప్రతిమలను చూడవచ్చు. ఆ ప్రతిమలలో వొక దానిపై నొక్కి ఆ "
-"ప్రతిమతో సంభందించివున్న అనువర్తనం లోపల అన్వేషణను పునఃప్రారంభించుము. ఎంచేతంటే బాగా సరిపోయినవి మాత్రమే "
-"<gui>కార్యకలాపాల అవలోకనం</gui> నందు చూపబడును, అనువర్తనం లోపల అన్వేషించుట మీకు వుత్తమ "
+"వ్యవస్థ అన్వేషణ అనునది ఫలితాలను వివిధ అనువర్తనాల నుండి సగటు తీయును. అన్వేషణ "
+"ఫలితాల ఎడమ-చేతి "
+"వైపున, అన్వేషణ ఫలితాలు అందించిన అనువర్తనాల ప్రతిమలను చూడవచ్చు. ఆ ప్రతిమలలో "
+"వొక దానిపై నొక్కి ఆ "
+"ప్రతిమతో సంభందించివున్న అనువర్తనం లోపల అన్వేషణను పునఃప్రారంభించుము. ఎంచేతంటే "
+"బాగా సరిపోయినవి మాత్రమే "
+"<gui>కార్యకలాపాల అవలోకనం</gui> నందు చూపబడును, అనువర్తనం లోపల అన్వేషించుట మీకు "
+"వుత్తమ "
 "ఫలితాలను ఇన్వవచ్చు."
 
-#: C/gs-use-system-search.page:65(section/title)
+#. (itstool) path: section/title
+#: C/gs-use-system-search.page:68
 msgid "Customize search results"
 msgstr "అన్వేషణ ఫలితాలను మలచుకొనుము"
 
-#: C/gs-use-system-search.page:70(note/p)
+#. (itstool) path: note/p
+#: C/gs-use-system-search.page:74
 msgid ""
 "GNOME lets you customize what you want to display in the search results in "
 "the <gui>Activities Overview</gui>. For example, you can choose whether you "
 "want to show results for websites, photos, or music."
 msgstr ""
-"<gui>కార్యకలాపాల అవలోకనం</gui> నందు మీరు ఏ అన్వేషణ ఫలితాలను ప్రదర్శించాలని అనుకొనుచున్నారో "
-"మలచుకొనుటకు గ్నోమ్ మిమ్ములను అనుమతించును. ఉదాహరణకు, మీరు వెబ్‌సైట్లు, ఫోటోలు, లేదా సంగీతం కొరకు "
+"<gui>కార్యకలాపాల అవలోకనం</gui> నందు మీరు ఏ అన్వేషణ ఫలితాలను ప్రదర్శించాలని "
+"అనుకొనుచున్నారో "
+"మలచుకొనుటకు గ్నోమ్ మిమ్ములను అనుమతించును. ఉదాహరణకు, మీరు వెబ్‌సైట్లు, ఫోటోలు, "
+"లేదా సంగీతం కొరకు "
 "ఫలితాలను చూపించాలా వద్దా అనేది మీరు ఎంచుకోవచ్చు."
 
-#: C/gs-use-system-search.page:76(section/p)
+#. (itstool) path: section/p
+#: C/gs-use-system-search.page:80
 msgid "To customize what is displayed in the search results:"
 msgstr "అన్వేషణ ఫలితాల నందు ఏమి కనిపించాలో మలచుకొనుటకు:"
 
-#: C/gs-use-system-search.page:81(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:85
 msgid "From the list of items, select <gui>Search</gui>."
 msgstr "అంశాల జాబితా నుండి, <gui>అన్వేషించు</gui> ఎంపికచేయి."
 
-#: C/gs-use-system-search.page:82(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:86
 msgid ""
 "In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
 "the search location you want to enable or disable."
 msgstr ""
-"అన్వేషణ స్థానాల జాబితా నుండి, మీరు చేతనం లేదా అచేతనం చేయాలనుకుంటున్న అన్వేషణ స్థానం తరువాత వున్న "
+"అన్వేషణ స్థానాల జాబితా నుండి, మీరు చేతనం లేదా అచేతనం చేయాలనుకుంటున్న అన్వేషణ "
+"స్థానం తరువాత వున్న "
 "<gui>ఆన్/ఆఫ్</gui> స్విచ్ నొక్కుము."
 
-#: C/gs-use-windows-workspaces.page:15(info/title)
+#. (itstool) path: info/title
+#: C/gs-use-windows-workspaces.page:15
 msgctxt "link:trail"
 msgid "Use windows and workspaces"
 msgstr "విండోలు మరియు పనిస్థలాలు వుపయోగించుము"
 
-#: C/gs-use-windows-workspaces.page:17(info/title)
+#. (itstool) path: info/title
+#: C/gs-use-windows-workspaces.page:17
 msgctxt "link:seealso"
 msgid "A tutorial on using windows and workspaces"
 msgstr "విండోలు మరియు పనిస్థలాలు వుపయోగించుటపై ట్యుటోరియల్"
 
-#: C/gs-use-windows-workspaces.page:97(section/title)
+#. (itstool) path: section/title
+#: C/gs-use-windows-workspaces.page:98
 msgid "Maximize and unmaximize windows"
 msgstr "విండోలను పెద్దవిచేయి మరియు పరిమాణంతగ్గించు"
 
-#: C/gs-use-windows-workspaces.page:101(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:102
 msgid ""
 "To maximize a window so that it takes up all of the space on your desktop, "
 "grab the window's titlebar and drag it to the top of the screen."
 msgstr ""
-"మీ డెస్కుటాప్ పైని మొత్తం జాగాను తీసుకొని విండోను పెద్దది చేయుటకు, విండో శీర్షికపట్టీను పట్టి దానిని తెర పై "
+"మీ డెస్కుటాప్ పైని మొత్తం జాగాను తీసుకొని విండోను పెద్దది చేయుటకు, విండో "
+"శీర్షికపట్టీను పట్టి దానిని తెర పై "
 "భాగముకు లాగుము."
 
-#: C/gs-use-windows-workspaces.page:104(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:105
 msgid "When the screen is highlighted, release the window to maximize it."
 msgstr "తెర ఉద్దీపనం చెందగానే, దానిని పెద్దదిచేయుటకు విండోను వదులుము."
 
-#: C/gs-use-windows-workspaces.page:106(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:107
 msgid ""
 "To restore a window to its unmaximized size, grab the window's titlebar and "
 "drag it away from the edges of the screen."
 msgstr ""
-"విండోను దాని గతపరిమాణంకు వుంచుటకు, విండో శీర్షికపట్టీ పట్టుకొని తెర అంచులనుండి దూరంగా లాగివేయి."
+"విండోను దాని గతపరిమాణంకు వుంచుటకు, విండో శీర్షికపట్టీ పట్టుకొని తెర "
+"అంచులనుండి దూరంగా లాగివేయి."
 
-#: C/gs-use-windows-workspaces.page:130(section/title)
+#. (itstool) path: section/title
+#: C/gs-use-windows-workspaces.page:131
 msgid "Maximize and unmaximize windows using the keyboard"
 msgstr "కీబోర్డు వుపయోగించి విండోలను పెద్దవిచేయి మరియు పరిమాణంతగ్గించు"
 
-#: C/gs-use-windows-workspaces.page:136(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:137
 msgid ""
 "To unmaximize a window using the keyboard, hold down the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</key>."
 msgstr ""
-"కీబోర్డు వుపయోగించి విండోను గతపరిమాణంకు వుంచుటకు, <key href=\"help:gnome-help/keyboard-"
+"కీబోర్డు వుపయోగించి విండోను గతపరిమాణంకు వుంచుటకు, <key "
+"href=\"help:gnome-help/keyboard-"
 "key-super\">Super</key> పట్టివుంచి <key>↓</key> నొక్కుము."
 
-#: C/gs-use-windows-workspaces.page:144(section/title)
+#. (itstool) path: section/title
+#: C/gs-use-windows-workspaces.page:145
 msgid "Tile windows using the keyboard"
 msgstr "కీబోర్డు వుపయోగించి టైల్ విండోలు"
 
-#: C/gs-use-windows-workspaces.page:158(section/title)
+#. (itstool) path: section/title
+#: C/gs-use-windows-workspaces.page:159
 msgid "Switch workspaces using the keyboard"
 msgstr "కీబోర్డు వుపయోగించి పనిస్థలాలు మార్చు"
 
-#: C/gs-use-windows-workspaces.page:162(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:163
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
 "key><key>Page Down</key></keyseq>."
 msgstr ""
-"ప్రస్తుత పనిస్థలం కిందవున్న పనిస్థలంకు మారుటకు, <keyseq><key href=\"help:gnome-help/"
+"ప్రస్తుత పనిస్థలం కిందవున్న పనిస్థలంకు మారుటకు, <keyseq><key "
+"href=\"help:gnome-help/"
 "keyboard-key-super\">Super</key><key>Page Down</key></keyseq> వత్తుము."
 
-#: C/gs-use-windows-workspaces.page:165(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:166
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
 "key><key>Page Up</key></keyseq>."
 msgstr ""
-"ప్రస్తుత పనిస్థలమునకు పైని పనిస్థలమునకు కదుల్చుటకు,  <keyseq><key href=\"help:gnome-"
+"ప్రస్తుత పనిస్థలమునకు పైని పనిస్థలమునకు కదుల్చుటకు,  <keyseq><key "
+"href=\"help:gnome-"
 "help/keyboard-key-super\">Super</key><key>Page Up</key></keyseq> వత్తండి."
 
-#: C/gs-web-browser1-firefox-classic.svg:118(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-web-browser1-firefox-classic.svg:118
 #, no-wrap
 msgid "Applications"
 msgstr "అనువర్తనాలు"
 
-#: C/gs-web-browser2-firefox.svg:147(text/tspan)
-#: C/gs-web-browser2.svg:153(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:147 C/gs-web-browser2.svg:153
 #, no-wrap
 msgid "gnome"
 msgstr "గ్నోమ్"
 
-#: C/gs-web-browser2-firefox.svg:151(text/tspan)
-#: C/gs-web-browser2.svg:157(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:151 C/gs-web-browser2.svg:157
 #, no-wrap
 msgid "Planet Gnome"
 msgstr "ప్లానెట్ గ్నోమ్"
 
-#: C/gs-web-browser2-firefox.svg:152(text/tspan)
-#: C/gs-web-browser2.svg:158(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:152 C/gs-web-browser2.svg:158
 #, no-wrap
 msgid "GNOME 3"
 msgstr "గ్నోమ్ 3"
 
-#: C/gs-web-browser2-firefox.svg:153(text/tspan)
-#: C/gs-web-browser2.svg:159(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:153 C/gs-web-browser2.svg:159
 #, no-wrap
 msgid "http://planet.gnome.org"
 msgstr "http://planet.gnome.org"
 
-#: C/gs-web-browser2-firefox.svg:154(text/tspan)
-#: C/gs-web-browser2.svg:160(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:154 C/gs-web-browser2.svg:160
 #, no-wrap
 msgid "http://gnome.org"
 msgstr "http://gnome.org"
 
-#: C/gs-web-browser2-firefox.svg:275(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:275
 #, no-wrap
 msgid "planet.gnome.org"
 msgstr "planet.gnome.org"
 
-#: C/gs-web-browser2.svg:247(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2.svg:247
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "ప్లానెట్ గ్నోమ్"
+
+#, fuzzy
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='figures/gnome-launching-applications.webm' "
+#~ "md5='53d8153cc527633f622a60fd969df40b'"
+#~ msgstr ""
+#~ "external ref='figures/gnome-launching-applications.webm' "
+#~ "md5='1182da390c28028167218c737619543d'"
+
+#, fuzzy
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='figures/gnome-windows-and-workspaces.webm' "
+#~ "md5='c63a0887b51fba338c4a4711af9b9011'"
+#~ msgstr ""
+#~ "external ref='figures/gnome-windows-and-workspaces.webm' "
+#~ "md5='399f502514acf244fd22ba774b1c812e'"
+
+#, fuzzy
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='figures/gnome-task-switching.webm' "
+#~ "md5='71e1e12fa2083f95c43194e974164fd6'"
+#~ msgstr ""
+#~ "external ref='figures/gnome-task-switching.webm' "
+#~ "md5='a8fa976828cf7f4b4eac7cad346c65c1'"
+
+#, fuzzy
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='figures/gnome-responding-to-messages.webm' "
+#~ "md5='b457055f8ae820b33f1d8bd5d9842067'"
+#~ msgstr ""
+#~ "external ref='figures/gnome-responding-to-messages.webm' "
+#~ "md5='f8522ebe4ac4e7be319217399122025a'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
+#~ msgstr ""
+#~ "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
+
+#, fuzzy
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-web-browser2.svg' md5='e233174303fc55cd512ae71f950ae915'"
+#~ msgstr ""
+#~ "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-web-browser1-firefox.svg' "
+#~ "md5='f4958e0fad516473746fc14fbd0f4333'"
+#~ msgstr ""
+#~ "external ref='gs-web-browser1-firefox.svg' "
+#~ "md5='f4958e0fad516473746fc14fbd0f4333'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-web-browser1-firefox-classic.svg' "
+#~ "md5='fe09a8fa520c0f337bade21f8a5d0377'"
+#~ msgstr ""
+#~ "external ref='gs-web-browser1-firefox-classic.svg' "
+#~ "md5='fe09a8fa520c0f337bade21f8a5d0377'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-web-browser2-firefox.svg' "
+#~ "md5='d8f2a86ceef35a2e9a95fa54943ca76f'"
+#~ msgstr ""
+#~ "external ref='gs-web-browser2-firefox.svg' "
+#~ "md5='d8f2a86ceef35a2e9a95fa54943ca76f'"
+
+#, fuzzy
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='figures/gnome-timezone.webm' "
+#~ "md5='9ccb1cc474a45ef7ed0a67e1fdaf7a31'"
+#~ msgstr ""
+#~ "external ref='figures/gnome-timezone.webm' "
+#~ "md5='a6eb6dd9f7ca9d428ff35aad8cbaab65'"
+
+#, fuzzy
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='figures/gnome-change-wallpaper.webm' "
+#~ "md5='04641291f5d2ba02b7bbc5e165c7f103'"
+#~ msgstr ""
+#~ "external ref='figures/gnome-change-wallpaper.webm' "
+#~ "md5='132412626662c3b2f5ba11dd6c418457'"
+
+#, fuzzy
+#~ msgctxt "_"
+#~ msgid "external ref='gs-goa1.svg' md5='453f88bed412133019558a3eaaea5885'"
+#~ msgstr ""
+#~ "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
+
+#, fuzzy
+#~ msgctxt "_"
+#~ msgid "external ref='gs-goa2.svg' md5='c899c0eeb13f7ae3416e9d5ae92294d6'"
+#~ msgstr "external ref='gs-goa2.svg' md5='ad86f77f168496c15fe171a0b2a4e8d6'"
+
+#~ msgctxt "_"
+#~ msgid "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
+#~ msgstr "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
+
+#~ msgctxt "_"
+#~ msgid "external ref='gs-goa4.svg' md5='a9c13c95ff7a2d0d7b89a5f52735dee0'"
+#~ msgstr "external ref='gs-goa4.svg' md5='a9c13c95ff7a2d0d7b89a5f52735dee0'"
+
+#, fuzzy
+#~ msgctxt "_"
+#~ msgid "external ref='gs-goa5.svg' md5='71bfdfe7f394b6aa9b057c47057d8535'"
+#~ msgstr "external ref='gs-goa5.svg' md5='e570fa43b0ab4f854fc33de89721d44d'"
+
+#, fuzzy
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-go-online1.svg' md5='8ef86ba33c73fe6a46ec5730b6a14831'"
+#~ msgstr ""
+#~ "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
+
+#, fuzzy
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-go-online2.svg' md5='738b078b74cf44c454fa8b179846ba5a'"
+#~ msgstr ""
+#~ "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
+
+#, fuzzy
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-go-online3.svg' md5='13095e2de523ca89c3a504ca8839e586'"
+#~ msgstr ""
+#~ "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
+
+#, fuzzy
+#~ msgctxt "_"
+#~ msgid "external ref='gs-search1.svg' md5='d3c7dff33da14c6a7b32e3d2a0c80b29'"
+#~ msgstr ""
+#~ "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
+
+#, fuzzy
+#~ msgctxt "_"
+#~ msgid "external ref='gs-search2.svg' md5='108a030eecdd8fd56990f9987fdea110'"
+#~ msgstr ""
+#~ "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-search-settings.svg' "
+#~ "md5='448b4f7f7881d9e26bdf215515fe014e'"
+#~ msgstr ""
+#~ "external ref='gs-search-settings.svg' "
+#~ "md5='448b4f7f7881d9e26bdf215515fe014e'"
 
 #~ msgid ""
 #~ "You can adjust the date and time by clicking on the arrows to choose the "
