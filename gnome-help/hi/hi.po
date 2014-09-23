@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
 "POT-Creation-Date: 2014-09-22 06:50+0000\n"
-"PO-Revision-Date: 2014-09-22 13:30+0630\n"
+"PO-Revision-Date: 2014-09-23 17:22+0630\n"
 "Last-Translator: rajesh <rajesh>\n"
 "Language-Team: Hindi <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,9 @@ msgstr ""
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "राजेश रंजन (rranjan@redhat.com, rajeshkajha@yahoo.com)"
+msgstr ""
+"शिवेन्द्र मिश्रा (quitmishra@gmail.com)"
+"राजेश रंजन (rranjan@redhat.com)"
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:11
@@ -567,7 +569,7 @@ msgstr "बैठक के लिए तैयार?"
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:33
 msgid "I'll be there in a sec..."
-msgstr ""
+msgstr "वहाँ में सेकेंड में होउँगा..."
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
@@ -614,7 +616,7 @@ msgstr "स्वचालित दिनांक व समय"
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:42
 msgid "Automatic Timezone"
-msgstr ""
+msgstr "स्वचालित समयक्षेत्र"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:43
@@ -792,17 +794,17 @@ msgstr "शीर्ष पट्टी पर घड़ी क्लिक क�
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:40
 msgid "Select <gui>Date &amp; Time Settings</gui>."
-msgstr ""
+msgstr "<gui>तिथि व समय सेटिंग</gui> चुनें."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:43
 msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
-msgstr ""
+msgstr "पक्का करें कि <gui>स्वचालित समय क्षेत्र</gui> बंद है."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:47
 msgid "Click <gui>Time Zone</gui>."
-msgstr ""
+msgstr "<gui>समय क्षेत्र</gui> क्लिक करें."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:50
@@ -825,6 +827,7 @@ msgid ""
 "Click the clock on the top bar and select the <gui>Date &amp; Time Settings</"
 "gui> item."
 msgstr ""
+"घड़ी को शीर्ष पट्टी पर क्लिक करें और <gui>तिथि व समय सेटिंग</gui> मद को चुनें."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:74
@@ -832,6 +835,8 @@ msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
 "then click the <gui>Time Zone</gui> item below."
 msgstr ""
+"पक्का करें कि <gui>स्वचालित समय क्षेत्र</gui> मद बंद है और फिर <gui>समय "
+"क्षेत्र</gui> को नीचे क्लिक करें."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:76
@@ -839,6 +844,8 @@ msgid ""
 "Click on your location on the map. This selects your current city, which you "
 "can also search for in the search box above the map."
 msgstr ""
+"मानचित्र पर अपने स्थान क्लिक करें. यह आपके मौजूदा शहर को चुनता है, जिसे आप "
+"खोज पेटी के लिए नक्शे पर खोज सकते हैं."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:79
@@ -846,6 +853,8 @@ msgid ""
 "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
 "Settings</gui> window."
 msgstr ""
+"<gui>बंद करें</gui> बटन को <gui>तिथि व समय सेटिंग</gui> विंडो पर जाने के लिए "
+"क्लिक करें."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:81
@@ -855,6 +864,10 @@ msgid ""
 "<gui>Date &amp; Time</gui> window. There you can adjust your date and time "
 "settings by clicking on the <gui>+</gui> or <gui>-</gui> buttons."
 msgstr ""
+"पक्का करें कि <gui>स्वचालित तिथि व समय</gui> मद बंद किए जाते हैं, और फिर <gui>"
+"तिथि व समय</gui> मद को को <gui>तिथि व समय</gui> विंडो खोलने के लिए क्लिक "
+"करें. वहाँ आप अपनी तिथि और समय को <gui>+</gui> या <gui>-</gui> बटन पर क्लिक "
+"करके समायोजित कर सकते हैं."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:86
@@ -863,6 +876,9 @@ msgid ""
 "Settings</gui> window, and then close that window by clicking the cross at "
 "the top-right corner of that window."
 msgstr ""
+"<gui>बंद करें</gui> बटन को <gui>तिथि व समय सेटिंग</gui> विंडो पर जाने के लिए "
+"क्लिक करें और फिर विंडो को विंडो के ऊपर दाहिने कोने में बने क्रॉस के निशान पर "
+"क्लिक करके बंद करें."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:15
@@ -888,6 +904,7 @@ msgid ""
 "Click the system menu on the right side of the top bar and press the "
 "settings button."
 msgstr ""
+"शीर्ष पट्टी के दाहिनी ओर तंत्र मेन्यू पर क्लिक करें और सेटिंग बटन दबाएँ."
 
 #. (itstool) path: div/p
 #: C/gs-change-wallpaper.page:35
@@ -897,13 +914,13 @@ msgstr "<gui>पृष्ठभूमि</gui>चुनें."
 #. (itstool) path: div/p
 #: C/gs-change-wallpaper.page:38
 msgid "Click the current background image."
-msgstr ""
+msgstr "मौजूदा पृष्ठभूमि छवि क्लिक करें."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:63
 msgid "Click the background image you want to use."
-msgstr ""
+msgstr "पृष्ठभूमि छवि क्लिक करें जिसे आप उपयोग करना चाहते हैं."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
@@ -922,6 +939,8 @@ msgid ""
 "Click the system menu on the right side of the top bar and press the "
 "settings button at the bottom of the menu."
 msgstr ""
+"शीर्ष पट्टी के दाहिनी ओर तंत्र मेन्यू पर क्लिक करें और सेटिंग बटन मेन्यू के "
+"तल में दबाएँ."
 
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:60
@@ -933,7 +952,7 @@ msgstr "मदों की सूची से, <gui>पृष्ठभूम�
 msgid ""
 "Click the current background image on the left side of the <gui>Background</"
 "gui> window."
-msgstr ""
+msgstr "<gui>पृष्ठभूमि</gui> विंडो के बायीं ओर मौजूदा पृष्ठभूमि छवि क्लिक करें"
 
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:65
@@ -964,12 +983,12 @@ msgstr "ऑनलाइन खातों से कनेक्ट करे�
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:28
 msgid "Click the system menu on the right side of the top bar."
-msgstr ""
+msgstr "शीर्ष पट्टी के दाहिनी ओर तंत्र मेन्यू पर क्लिक करें."
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:29
 msgid "Press the settings button at the bottom of the menu."
-msgstr ""
+msgstr "मेन्यू के तल में सेटिंग बटन दबाएँ."
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:36
@@ -977,6 +996,8 @@ msgid ""
 "From the list of items, select <gui>Online Accounts</gui>, then click on the "
 "<gui>Add an online account</gui> button."
 msgstr ""
+"मद की सूची से, <gui>ऑनलाइन खाता</gui> चुनें, फिर <gui>ऑनलाइन खाता जोड़ें</gui>"
+" बटन को क्लिक करें."
 
 #. (itstool) path: note/p
 #: C/gs-connect-online-accounts.page:40
@@ -1049,6 +1070,7 @@ msgid ""
 "You can see the status of your network connection on the right-hand side of "
 "the top bar."
 msgstr ""
+"आप अपने संजाल कनेक्शन की स्थिति को शीर्ष पट्टी के दाहिनी ओर देख सकते हैं."
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:30
@@ -1115,6 +1137,8 @@ msgid ""
 "To connect to a Wi-Fi (wireless) network, click the status menu at the top "
 "right of the screen, and then click <gui>Select Network</gui>."
 msgstr ""
+"वाई-फ़ाई (बेतार) संजाल से कनेक्ट करने के लिए, स्क्रीन के दाहिनी ओर स्थिति "
+"मेन्यू क्लिक करें, और फिर <gui>संजाल चुनें</gui> क्लिक करें."
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:67
@@ -1122,6 +1146,8 @@ msgid ""
 "You can only connect to a Wi-Fi network if your computer hardware supports "
 "it and you are in an area with Wi-Fi coverage."
 msgstr ""
+"आप केवल वाई-फ़ाई संजाल से जुड़ सकते हैं यदि आपका कंप्यूटर हार्डवेयर इसे "
+"समर्थन करता है और वाई-फाई कवरेज के क्षेत्र में."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:75
@@ -1129,6 +1155,8 @@ msgid ""
 "From the list of available Wi-Fi networks, select the network you want to "
 "connect to, and click <gui>Connect</gui> to confirm."
 msgstr ""
+"उपलब्ध वाई-फ़ाई संजाल की सूची से, संजाल चुनें जिसमें आप कनेक्ट होना चाहते "
+"हैं, और <gui>कनेक्ट करें</gui> को पुष्टि करने के लिए क्लिक करें."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:77
@@ -1136,6 +1164,8 @@ msgid ""
 "Depending on the network configuration, you may be prompted for network "
 "credentials."
 msgstr ""
+"संजाल विन्यास पर निर्भर रहते हुए, आपको संजाल प्रमाण के लिए प्रांप्ट किया "
+"जाएगा."
 
 #. (itstool) path: Work/format
 #: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
@@ -2106,11 +2136,13 @@ msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
 msgstr ""
+"जैसे ही आप टाइप करेंगे मेल खाते परिणाम प्रकट होंगे. पहला परिणाम हमेशा आलोकित "
+"होगा और उसे शीर्ष पर दिखाया जाएगा."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:32
 msgid "Press <key>Enter</key> to switch to the first highlighted result."
-msgstr ""
+msgstr "<key>Enter</key> को पहले आलोकित परिणाम में स्विच करने के लिए दबाएँ."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:38
@@ -2341,4 +2373,5 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "प्लैनेट गनोम"
+
 
