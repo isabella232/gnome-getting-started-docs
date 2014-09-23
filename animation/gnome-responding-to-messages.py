@@ -1,6 +1,29 @@
 import bpy,os,re,gnomerender
 from xml.etree import ElementTree as ET
 
+def typewriteit(scene):
+  typewrite = bpy.data.objects['typewriter'].data.body
+  typewrite2 = bpy.data.objects['typewriter2'].data.body
+  typewrite3 = bpy.data.objects['typewriter3'].data.body
+  #psani zacina v sekvenci na 152
+  if bpy.context.scene.frame_current >= 152:
+    i = int((bpy.context.scene.frame_current-152)/2)
+  else:
+    i = 0
+  if bpy.context.scene.frame_current >= 640:
+    j = int((bpy.context.scene.frame_current-640)/2)
+  else:
+    j = 0
+  if bpy.context.scene.frame_current >= 1024:
+    k = int((bpy.context.scene.frame_current-1024)/2)
+    #print(k,typewrite3)
+  else:
+    k = 0
+  #print(typewrite, i, typewrite[:i])
+  bpy.data.objects['bubble.response'].data.body = typewrite[:i]
+  bpy.data.objects['bubble.response2'].data.body = typewrite2[:j]
+  bpy.data.objects['bubble.response3'].data.body = typewrite3[:k]
+
 def main():
   
   t = {}
@@ -24,6 +47,7 @@ def main():
       gnomerender.transcode(lang)
     
 if __name__ == '__main__':
-    main()
+  bpy.app.handlers.frame_change_pre.append(typewriteit)
+  main()
 
 # vim: tabstop=2 expandtab

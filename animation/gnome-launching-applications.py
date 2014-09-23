@@ -1,5 +1,17 @@
 import bpy,os,re,gnomerender
 from xml.etree import ElementTree as ET
+#from bpy.app.handlers import persistent
+
+def typewriteit(scene):
+  #FIXME make this happen only in scene "launching apps - keyboard"
+  typewrite = bpy.data.objects['typewriter'].data.body
+  #psani zacina v sekvenci na 630
+  if bpy.context.scene.frame_current >= 630:
+    i = int((bpy.context.scene.frame_current- 630)/3)
+  else:
+    i = 0
+  #print(typewrite, i, typewrite[:i])
+  bpy.data.objects['search'].data.body = typewrite[:i]
 
 def main():
   global typewrite
@@ -24,6 +36,7 @@ def main():
       gnomerender.transcode(lang)
     
 if __name__ == '__main__':
-    main()
+  bpy.app.handlers.frame_change_pre.append(typewriteit)
+  main()
 
 # vim: tabstop=2 expandtab
