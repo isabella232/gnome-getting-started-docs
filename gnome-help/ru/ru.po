@@ -10,26 +10,28 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
 "POT-Creation-Date: 2013-07-30 10:13+0000\n"
-"PO-Revision-Date: 2013-08-04 08:57+0400\n"
-"Last-Translator: Yuri Myasoedov <omerta13@yandex.ru>\n"
+"PO-Revision-Date: 2014-12-08 23:37+0300\n"
+"Last-Translator: Yuri Myasoedov <ymyasoedov@yandex.ru>\n"
 "Language-Team: русский <gnome-cyr@gnome.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
-"X-Generator: Lokalize 1.5\n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.6.11\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Юлия Дронова <juliette.tux@gmail.com>"
+msgstr ""
+"Юлия Дронова <juliette.tux@gmail.com>, 2014\n"
+"Юрий Мясоедов <ymyasoedov@yandex.ru>, 2014"
 
 #: C/index.page:8(page/title) C/getting-started.page:15(page/title)
 #: C/gs-animation.xml:5(titles/t)
 msgid "Getting Started"
-msgstr "Приступая к работе"
+msgstr "Начало работы"
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -110,12 +112,12 @@ msgstr "Новичок в GNOME? Узнай, с чего начать."
 #: C/getting-started.page:11(info/title)
 msgctxt "link"
 msgid "Getting Started with GNOME"
-msgstr "Приступая к работе в GNOME"
+msgstr "Начало работы с GNOME"
 
 #: C/getting-started.page:12(info/title)
 msgctxt "text"
 msgid "Getting Started"
-msgstr "Приступая к работе"
+msgstr "Начало работы"
 
 #: C/getting-started.page:24(caption/desc)
 #: C/gs-launch-applications.page:22(page/title)
@@ -366,7 +368,7 @@ msgstr ""
 #: C/getting-started.page:211(caption/desc)
 #: C/gs-respond-messages.page:21(page/title)
 msgid "Respond to messages"
-msgstr "Ответить на сообщения"
+msgstr "Ответ на сообщение"
 
 #: C/getting-started.page:217(div/p) C/gs-animation.xml:7(titles/t)
 #: C/gs-respond-messages.page:29(div/p)
@@ -554,7 +556,7 @@ msgstr "Просто начните вводить…"
 #: C/gs-thumb-windows-and-workspaces.svg:96(text/tspan)
 #, no-wrap
 msgid "John Doe"
-msgstr "Джон Доу (John Doe)"
+msgstr "Саша Пушкин"
 
 #: C/gs-animation.xml:28(titles/t) C/gs-goa1.svg:75(text/tspan)
 #: C/gs-thumb-changing-wallpaper.svg:77(text/tspan)
@@ -586,7 +588,7 @@ msgstr "Буду через секунду…"
 #: C/gs-thumb-responding-to-messages.svg:60(text/tspan)
 #, no-wrap
 msgid "Good stuff, thanks again"
-msgstr "Хороший материал, ёще раз спасибо"
+msgstr "Спасибо за материал!"
 
 #: C/gs-animation.xml:35(titles/t)
 msgid "Thanks for the support"
@@ -667,16 +669,14 @@ msgid "Petr Kovar"
 msgstr "Пётр Ковар (Petr Kovar)"
 
 #: C/gs-browse-web.page:18(info/title)
-#, fuzzy
 msgctxt "link:trail"
 msgid "Browse the web"
-msgstr "Просматривать сетевые ресурсы"
+msgstr "Путешествие по Интернету"
 
 #: C/gs-browse-web.page:21(page/title)
 #: C/gs-browse-web-firefox.page:22(page/title)
-#, fuzzy
 msgid "Browse the web"
-msgstr "Просмотр сетевых ресурсов"
+msgstr "Путешествие по Интернету"
 
 #: C/gs-browse-web.page:26(item/p) C/gs-browse-web-firefox.page:30(item/p)
 #: C/gs-launch-applications.page:64(item/p)
@@ -695,14 +695,13 @@ msgstr ""
 "Выберите значок <app>веб-браузера</app> в панели с левой стороны экрана."
 
 #: C/gs-browse-web.page:33(note/p)
-#, fuzzy
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
 "gui>."
 msgstr ""
-"Веб-браузер также можно запустить <link xref=\"gs-use-system-search\">просто "
-"напечатав</link> <em>web</em> в <gui>Режиме обзора</gui>."
+"Веб-браузер можно запустить <link xref=\"gs-use-system-search\">просто "
+"напечатав</link> <em>web</em> в <gui>режиме обзора</gui>."
 
 #: C/gs-browse-web.page:40(item/p) C/gs-browse-web-firefox.page:59(item/p)
 msgid ""
@@ -786,14 +785,13 @@ msgstr ""
 "экрана."
 
 #: C/gs-browse-web-firefox.page:37(note/p)
-#, fuzzy
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>Firefox</em> in the <gui>Activities "
 "Overview</gui>."
 msgstr ""
-"Веб-браузер также можно запустить <link xref=\"gs-use-system-search\">просто "
-"напечатав</link> <em>Firefox</em> в <gui>Режиме обзора</gui>."
+"Веб-браузер можно запустить <link xref=\"gs-use-system-search\">просто "
+"напечатав</link> <em>Firefox</em> в <gui>режиме обзора</gui>."
 
 #: C/gs-browse-web-firefox.page:47(item/p)
 msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
@@ -1022,7 +1020,7 @@ msgstr "Подключиться к сетевой учётной записи"
 #: C/gs-connect-online-accounts.page:17(info/title)
 msgctxt "link:seealso"
 msgid "A tutorial on connecting to online accounts"
-msgstr "Как подключаться к сетевым учётным записям"
+msgstr "Как подключить сетевые учётные записи"
 
 #: C/gs-connect-online-accounts.page:21(page/title)
 msgid "Connect to online accounts"
@@ -1368,7 +1366,7 @@ msgstr "Войти"
 #: C/gs-goa5.svg:95(text/tspan)
 #, no-wrap
 msgid "john.doe@gmail.com"
-msgstr "john.doe@gmail.com"
+msgstr "apushkin@gmail.com"
 
 #: C/gs-goa4.svg:103(text/tspan)
 #, no-wrap
@@ -1696,7 +1694,7 @@ msgstr "system-config-http.zip"
 #: C/gs-search2.svg:222(text/tspan)
 #, no-wrap
 msgid "Icon guidelines"
-msgstr "Руководство по созданию значков"
+msgstr "Руководство по значкам"
 
 #: C/gs-search2.svg:240(text/tspan)
 #, no-wrap
@@ -1795,8 +1793,8 @@ msgid ""
 "To maximize a window along a side of the screen, grab the window's titlebar "
 "and drag it to the left or right side of the screen."
 msgstr ""
-"Чтобы распахнуть окно вдоль стороны экрана, захватите заголовок окна и "
-"перетащите окно на правую или на левую сторону экрана."
+"Чтобы развернуть окно вдоль правой или левой стороны экрана, перетащите "
+"заголовок окна на правую или на левую сторону экрана."
 
 #: C/gs-switch-tasks.page:129(item/p)
 #: C/gs-use-windows-workspaces.page:119(item/p)
@@ -1804,8 +1802,8 @@ msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
 "along the selected side of the screen."
 msgstr ""
-"Когда выделится половина экрана, отпустите окно, чтобы оно распахнулось на "
-"всю выбранную половину экрана."
+"Когда выделится половина экрана, отпустите окно, чтобы оно развернулось на "
+"всю выделенную область."
 
 #: C/gs-switch-tasks.page:131(item/p)
 #: C/gs-use-windows-workspaces.page:121(item/p)
@@ -1813,8 +1811,8 @@ msgid ""
 "To maximize two windows side-by-side, grab the titlebar of the second window "
 "and drag it to the opposite side of the screen."
 msgstr ""
-"Чтобы распахнуть два окна рядом, захватите заголовок второго окна и "
-"перетащите его на противоположную половину экрана."
+"Чтобы развернуть два окна рядом друг с другом, захватите заголовок второго "
+"окна и перетащите его на противоположную сторону экрана."
 
 #: C/gs-switch-tasks.page:133(item/p)
 #: C/gs-use-windows-workspaces.page:123(item/p)
@@ -1822,8 +1820,8 @@ msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
 "along the opposite side of the screen."
 msgstr ""
-"Когда выделится половина экрана, отпустите окно, чтобы оно распахнулось на "
-"всю противоположную половину экрана."
+"Когда выделится половина экрана, отпустите окно, чтобы оно развернулось на "
+"всю противоположную сторону экрана."
 
 #: C/gs-switch-tasks.page:140(section/title)
 msgid "Switch between windows"
@@ -1880,7 +1878,7 @@ msgstr ""
 #: C/gs-thumb-responding-to-messages.svg:59(text/tspan)
 #, no-wrap
 msgid "Thanks f"
-msgstr "Спасибо за"
+msgstr "Не за что"
 
 #. Translators: S stands for Sunday here
 #: C/gs-thumb-timezone.svg:64(text/tspan)
