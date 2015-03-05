@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
 "POT-Creation-Date: 2015-03-05 07:54+0000\n"
-"PO-Revision-Date: 2015-03-05 06:49-0400\n"
+"PO-Revision-Date: 2015-03-05 17:37+0300\n"
 "Last-Translator: Yuri Myasoedov <ymyasoedov@yandex.ru>\n"
 "Language-Team: русский <gnome-cyr@gnome.org>\n"
 "Language: ru\n"
@@ -472,13 +472,11 @@ msgstr "Левая половина экрана"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:15
-#, fuzzy
 msgid "Workspace down"
 msgstr "Рабочее место ниже"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:16
-#, fuzzy
 msgid "Workspace up"
 msgstr "Рабочее место выше"
 
@@ -630,20 +628,19 @@ msgstr "Автоматические дата и время"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:52
-#, fuzzy
 #| msgid "Automatic Date and Time"
 msgid "Automatic Timezone"
-msgstr "Автоматические дата и время"
+msgstr "Автоматический часовой пояс"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:53
 msgid "14 October 2013, 20:00"
-msgstr ""
+msgstr "14 октября 2013, 20:00"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:54
 msgid "14 October 2013, 14:00"
-msgstr ""
+msgstr "14 октября 2013, 14:00"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:9 C/gs-browse-web-firefox.page:10
@@ -808,10 +805,9 @@ msgstr "Нажмите на часы в верхней панели."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:40
-#, fuzzy
 #| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
 msgid "Select <gui>Date &amp; Time Settings</gui>."
-msgstr "Выберите пункт <gui>Настроить дату и время</gui>."
+msgstr "Выберите <gui>Параметры даты и времени</gui>."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:43
@@ -1312,9 +1308,9 @@ msgstr "Microsoft Exchange"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:76 C/gs-goa4.svg:127
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Enterprise Login (Kerberos)"
-msgstr "Enterprise Login (Kerberos)"
+msgstr "Корпоративный вход (Kerberos)"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:48 C/gs-thumb-timezone.svg:105
@@ -1840,7 +1836,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-switch-tasks.page:112
-#, fuzzy
 #| msgid ""
 #| "You can switch between tasks by using the window list at the bottom of "
 #| "the screen. Open tasks appear as buttons in the window list."
@@ -1849,15 +1844,16 @@ msgid ""
 "bottom of the screen. Open tasks appear as buttons in the <gui>window list</"
 "gui>."
 msgstr ""
-"Переключаться между задачами можно с помощью списка окон внизу экрана. "
-"Открытые задачи появляются в списке окон в виде кнопок."
+"Переключаться между задачами можно с помощью <gui>списка окон</gui> в нижней "
+"части экрана. Открытые задачи появляются в <gui>списке окон</gui> в виде "
+"кнопок."
 
 #. (itstool) path: item/p
 #: C/gs-switch-tasks.page:115
-#, fuzzy
 #| msgid "Click a button in the window list to switch to that task."
 msgid "Click a button in the <gui>window list</gui> to switch to that task."
-msgstr "Нажмите на кнопку в списке окон чтобы переключиться на эту задачу."
+msgstr ""
+"Нажмите кнопку в <gui>списке окон</gui>, чтобы переключиться на эту задачу."
 
 #. (itstool) path: section/title
 #: C/gs-switch-tasks.page:125 C/gs-use-windows-workspaces.page:114
@@ -2445,244 +2441,3 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Планета GNOME"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-launching-applications.webm' "
-#~ "md5='1182da390c28028167218c737619543d'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-launching-applications.webm' "
-#~ "md5='1182da390c28028167218c737619543d'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-windows-and-workspaces.webm' "
-#~ "md5='399f502514acf244fd22ba774b1c812e'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-windows-and-workspaces.webm' "
-#~ "md5='399f502514acf244fd22ba774b1c812e'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-task-switching.webm' "
-#~ "md5='a8fa976828cf7f4b4eac7cad346c65c1'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-task-switching.webm' "
-#~ "md5='a8fa976828cf7f4b4eac7cad346c65c1'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-responding-to-messages.webm' "
-#~ "md5='f8522ebe4ac4e7be319217399122025a'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-responding-to-messages.webm' "
-#~ "md5='f8522ebe4ac4e7be319217399122025a'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser1-firefox.svg' "
-#~ "md5='f4958e0fad516473746fc14fbd0f4333'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser1-firefox.svg' "
-#~ "md5='f4958e0fad516473746fc14fbd0f4333'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser1-firefox-classic.svg' "
-#~ "md5='fe09a8fa520c0f337bade21f8a5d0377'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser1-firefox-classic.svg' "
-#~ "md5='fe09a8fa520c0f337bade21f8a5d0377'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser2-firefox.svg' "
-#~ "md5='d8f2a86ceef35a2e9a95fa54943ca76f'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser2-firefox.svg' "
-#~ "md5='d8f2a86ceef35a2e9a95fa54943ca76f'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-timezone.webm' "
-#~ "md5='a6eb6dd9f7ca9d428ff35aad8cbaab65'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-timezone.webm' "
-#~ "md5='a6eb6dd9f7ca9d428ff35aad8cbaab65'"
-
-#~ msgid ""
-#~ "You can adjust the date and time by clicking on the arrows to choose the "
-#~ "hour, minute, and year."
-#~ msgstr ""
-#~ "Вы можете установить дату и время с помощью клавиш со стрелками, "
-#~ "устанавливая год, часы и минуты."
-
-#~ msgid ""
-#~ "You may need to click the <gui>Unlock</gui> button and type the "
-#~ "administrator's password."
-#~ msgstr ""
-#~ "Возможно потребуется нажать кнопку <gui>Разблокировать</gui> и ввести "
-#~ "пароль администратора."
-
-#, fuzzy
-#~| msgid ""
-#~| "On the left-hand side of the window, you can adjust the date and time by "
-#~| "clicking on the arrows to choose the hour, minute, and year."
-#~ msgid ""
-#~ "On the right-hand side of the window, you can adjust the date and time by "
-#~ "clicking on the arrows to choose the hour, minute, and year."
-#~ msgstr ""
-#~ "В левой стороне окна можно настроить дату и время, нажимая на стрелки "
-#~ "выбора часа, минуты и года."
-
-#~ msgid ""
-#~ "Close the window by clicking the cross at the top-right corner of the "
-#~ "window."
-#~ msgstr "Закройте окно, нажав на крестик в верхнем правом углу окна."
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-change-wallpaper.webm' "
-#~ "md5='132412626662c3b2f5ba11dd6c418457'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-change-wallpaper.webm' "
-#~ "md5='132412626662c3b2f5ba11dd6c418457'"
-
-#~ msgid "Click your name on the top bar and select <gui>Settings</gui>."
-#~ msgstr ""
-#~ "Нажмите на своё имя в верхней панели и выберите <gui>Параметры</gui>."
-
-#~ msgid "Click the image of your current wallpaper."
-#~ msgstr ""
-#~ "Нажмите на изображение, используемое в данный момент в качестве обоев."
-
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
-#~ msgstr "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
-
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa2.svg' md5='ad86f77f168496c15fe171a0b2a4e8d6'"
-#~ msgstr "external ref='gs-goa2.svg' md5='ad86f77f168496c15fe171a0b2a4e8d6'"
-
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-#~ msgstr "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa4.svg' md5='a9c13c95ff7a2d0d7b89a5f52735dee0'"
-#~ msgstr "external ref='gs-goa4.svg' md5='a9c13c95ff7a2d0d7b89a5f52735dee0'"
-
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa5.svg' md5='e570fa43b0ab4f854fc33de89721d44d'"
-#~ msgstr "external ref='gs-goa5.svg' md5='e570fa43b0ab4f854fc33de89721d44d'"
-
-#~ msgid "Click your name on the top bar."
-#~ msgstr "Нажмите на ваше имя на верхней панели."
-
-#~ msgid "Select the <gui>Settings</gui> item."
-#~ msgstr "Выберите элемент <gui>Параметры</gui>."
-
-#~ msgid "Click on the <gui>Add an online account</gui> button."
-#~ msgstr "Нажмите на кнопку <gui>Добавить сетевую учётную запись</gui>"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-go-online1.svg' md5='5e1aa458f42d9a534678ac2196cf84a2'"
-#~ msgstr ""
-#~ "external ref='gs-go-online1.svg' md5='5e1aa458f42d9a534678ac2196cf84a2'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
-#~ msgstr ""
-#~ "external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
-#~ msgstr ""
-#~ "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
-
-#~ msgid ""
-#~ "Click the network connection icon to show more details about the status "
-#~ "of your network connection."
-#~ msgstr ""
-#~ "Нажмите на значок сетевого подключения, чтобы просмотреть подробности о "
-#~ "состоянии сетевого подключения."
-
-#~ msgid "Connect to other types of networks"
-#~ msgstr "Подключение к другим типам сетей"
-
-#~ msgid ""
-#~ "There are various types of network connections that you can use with your "
-#~ "computer, for example, mobile broadband, or wireless networks."
-#~ msgstr ""
-#~ "Существуют различные типы сетевых соединений, которые можно использовать "
-#~ "на вашем компьютере, например, мобильное широкополосное соединение или "
-#~ "беспроводное соединение."
-
-#~ msgid ""
-#~ "Depending on your computer hardware and the networks availability, you "
-#~ "can choose other connection types by clicking the network connection icon "
-#~ "on the right-hand side of the top bar and selecting the network "
-#~ "connection you want to connect to."
-#~ msgstr ""
-#~ "В зависимости от аппаратных компонентов вашей машины и доступности сети "
-#~ "можно выбрать другие типы соединений, нажав значок сетевых соединений в "
-#~ "верхней панели с правой стороны и выбрав нужный тип соединения."
-
-#~ msgid "Wired"
-#~ msgstr "Проводное"
-
-#~ msgid "Cable unplugged"
-#~ msgstr "Кабель отключён"
-
-#~ msgid "Mobile broadband"
-#~ msgstr "Мобильное широкополосное"
-
-#, fuzzy
-#~ msgid "Weak"
-#~ msgstr "Неделя"
-
-#~ msgctxt "_"
-#~ msgid "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
-#~ msgstr ""
-#~ "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
-
-#~ msgctxt "_"
-#~ msgid "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
-#~ msgstr ""
-#~ "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-search-settings.svg' "
-#~ "md5='448b4f7f7881d9e26bdf215515fe014e'"
-#~ msgstr ""
-#~ "external ref='gs-search-settings.svg' "
-#~ "md5='448b4f7f7881d9e26bdf215515fe014e'"
-
-#~ msgid ""
-#~ "Start typing to search. Results matching what you have typed will appear "
-#~ "as you type."
-#~ msgstr ""
-#~ "Для начала поиска начинайте вводить текст. Результаты, соответствующие "
-#~ "тому, что вы уже ввели, будут появляться по мере набора текста."
-
-#~ msgid "Launch Applications"
-#~ msgstr "Запуск приложений"
-
-#~ msgid "Switch Tasks"
-#~ msgstr "Переключение задач."
