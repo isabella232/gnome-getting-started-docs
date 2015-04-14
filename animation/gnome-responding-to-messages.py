@@ -6,8 +6,8 @@ def typewriteit(scene):
   typewrite2 = bpy.data.objects['typewriter2'].data.body
   typewrite3 = bpy.data.objects['typewriter3'].data.body
   #psani zacina v sekvenci na 152
-  if bpy.context.scene.frame_current >= 152:
-    i = int((bpy.context.scene.frame_current-152)/2)
+  if bpy.context.scene.frame_current >= 146:
+    i = int((bpy.context.scene.frame_current-146)/2)
   else:
     i = 0
   if bpy.context.scene.frame_current >= 640:
