@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: getting-started\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-02 17:53+0000\n"
-"PO-Revision-Date: 2015-03-07 14:21+0100\n"
+"POT-Creation-Date: 2015-04-23 07:15+0000\n"
+"PO-Revision-Date: 2015-04-23 10:31+0200\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>\n"
 "Language-Team: Czech <gnome-cs-list@gnome.org>\n"
 "Language: cs\n"
@@ -75,7 +75,6 @@ msgstr ""
 
 #. (itstool) path: div/p
 #: C/getting-started.page:37 C/gs-launch-applications.page:37
-#| msgid "Click the <gui>Select</gui> button."
 msgid "Click the <gui>Show Applications</gui> icon."
 msgstr "Klikněte na ikonu <gui>Zobrazit aplikace</gui>."
 
@@ -346,13 +345,13 @@ msgstr "Odpovídání na zprávy"
 #. (itstool) path: div/p
 #. (itstool) path: item/p
 #: C/getting-started.page:221 C/gs-respond-messages.page:32
-#: C/gs-respond-messages.page:91
+#: C/gs-respond-messages.page:80
 msgid ""
-"Move your mouse to the message tray at the bottom of the screen and click "
-"the chat message."
+"Move your mouse over the chat message that appears near the top of the "
+"screen."
 msgstr ""
-"Přesuňte ukazatel myši na pořadač zpráv v dolní části obrazovky a klikněte "
-"na zprávu z diskuze."
+"Přejeďte ukazatelem myši na zprávu z diskuze, která se objevila v horní "
+"části obrazovky."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:225 C/gs-respond-messages.page:36
@@ -364,8 +363,7 @@ msgstr ""
 "key>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:229 C/getting-started.page:250
-#: C/gs-respond-messages.page:40 C/gs-respond-messages.page:61
+#: C/getting-started.page:229 C/gs-respond-messages.page:40
 msgid "Close the chat message."
 msgstr "Zavřete zprávu z diskuze."
 
@@ -379,64 +377,52 @@ msgstr "Opožděná odpověď"
 #. (itstool) path: div/p
 #: C/getting-started.page:235 C/gs-respond-messages.page:46
 msgid ""
-"A chat message in the message tray disappears after a while if you do not "
-"move your mouse to the message tray."
+"A chat message near the top of the screen disappears after a while if you do "
+"not move your mouse over the message."
 msgstr ""
-"V případě, že ukazatelem myši nenajedete do pořadače zpráv, zpráva z něj po "
-"chvíli zmizí."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:239 C/gs-respond-messages.page:50
-msgid ""
-"To get back to your unanswered message, move your mouse to the message tray."
-msgstr ""
-"Abyste nezodpovězenou zprávu získali zpět, přesuňte ukazatel myši do "
-"pořadače zpráv."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:243 C/gs-respond-messages.page:54
-msgid "Click the person who sent you the message."
-msgstr "Klikněte na osobu, které chcete poslat zprávu."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:246 C/getting-started.page:262
-#: C/gs-respond-messages.page:57 C/gs-respond-messages.page:73
-msgid "Start typing your reply and when finished, press <key>Enter </key>."
-msgstr ""
-"Začněte psát svou odpověď a po jejím dokončení zmáčkněte <key>Enter</key>."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:253 C/gs-respond-messages.page:64
-msgid ""
-"To show the message tray, press <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> <key>M</key></keyseq>"
-msgstr ""
-"Pro zobrazení pořadače zpráv, zmáčkněte <keyseq><key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key><key>M</key></keyseq>."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:258 C/gs-respond-messages.page:69
-msgid ""
-"Use the arrow keys to select the person you want to reply to, and press "
-"<key>Enter</key>."
-msgstr ""
-"Pomocí klávesových šipek vyberte osobu, které chcete odpovědět, a zmáčkněte "
-"<key>Enter</key>."
+"V případě, že ukazatelem myši nenajedete na zprávu v horní části obrazovky, "
+"zpráva po chvíli zmizí."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:266 C/gs-respond-messages.page:77
-#: C/gs-respond-messages.page:131
-msgid "Press <key>Esc</key> to close the chat message."
-msgstr "Zmáčknutím <key>Esc</key> zprávu z diskuze zavřete."
+#: C/getting-started.page:239 C/gs-respond-messages.page:50
+#: C/gs-respond-messages.page:96
+msgid "To get back to your unanswered message, click the clock on the top bar."
+msgstr ""
+"Abyste se k nezodpovězené zprávě znovu dostali, klikněte na hodiny na horní "
+"liště."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:269 C/gs-respond-messages.page:80
-msgid "To dismiss the message tray, press <key>Esc</key>."
-msgstr "Pro skrytí zprávy zmáčkněte <key>Esc</key>."
+#: C/getting-started.page:243 C/gs-respond-messages.page:54
+msgid "From the notification list, choose your message."
+msgstr "V seznamu upozornění zvolte svoji zprávu."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:246 C/getting-started.page:258
+#: C/gs-respond-messages.page:57 C/gs-respond-messages.page:69
+msgid "Start typing your reply."
+msgstr "Začněte psát odpověď."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:249 C/gs-respond-messages.page:60
+msgid ""
+"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
+msgstr ""
+"Pro zobrazení seznamu upozornění, zmáčkněte <keyseq><key href=\""
+"help:gnome-help/keyboard-key-super\">Super</key><key>V</key></keyseq>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:254 C/gs-respond-messages.page:65
+msgid ""
+"Use the arrow keys to select the message you want to reply to, and press "
+"<key>Enter</key>."
+msgstr ""
+"Pomocí klávesových šipek vyberte zprávu, na kterou chcete odpovědět, a "
+"zmáčkněte <key>Enter</key>."
 
 #. (itstool) path: links/title
-#: C/getting-started.page:278
+#: C/getting-started.page:267
 msgid "Common Tasks"
 msgstr "Obvyklé činnosti"
 
@@ -629,7 +615,6 @@ msgstr "Datum a čas automaticky"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:52
-#| msgid "Automatic Date and Time"
 msgid "Automatic Timezone"
 msgstr "Časové pásmo automaticky"
 
@@ -766,7 +751,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-browse-web-firefox.page:48
-#| msgid "Click the <gui>Select</gui> button."
 msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
 msgstr "Klikněte na nabídku <gui>Aplikace</gui> v levém horním rohu obrazovky."
 
@@ -786,7 +770,6 @@ msgstr "Změna data, času a časového pásma"
 
 #. (itstool) path: info/title
 #: C/gs-change-date-time-timezone.page:18
-#| msgid "Change the date, time and timezone"
 msgctxt "link:seealso"
 msgid "A tutorial on changing the date, time and timezone"
 msgstr "Vysvětlení, jak změnit datum, čas a časové pásmo"
@@ -810,7 +793,6 @@ msgstr "Klikněte na hodiny na horní liště."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:40
-#| msgid "Click the <gui>Select</gui> button."
 msgid "Select <gui>Date &amp; Time Settings</gui>."
 msgstr "Vyberte <gui>Nastavení data a časuř</gui>."
 
@@ -821,7 +803,6 @@ msgstr "Ujistěte se, že je vypnuto <gui>Časové pásmo automaticky</gui>."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:47
-#| msgid "Click the <gui>Select</gui> button."
 msgid "Click <gui>Time Zone</gui>."
 msgstr "Klikněte na <gui>Časové pásmo</gui>."
 
@@ -832,7 +813,6 @@ msgstr "Na mapě klikněte na místo, kde se nacházíte."
 
 #. (itstool) path: div/p
 #: C/gs-change-date-time-timezone.page:53
-#| msgid "Click the <gui>Select</gui> button."
 msgid "Click <gui>Close</gui>."
 msgstr "Klikněte na <gui>Zavřít</gui>."
 
@@ -843,7 +823,6 @@ msgstr "Zavřete okno."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:72
-#| msgid "Click your name on the top bar and select <gui>Settings</gui>."
 msgid ""
 "Click the clock on the top bar and select the <gui>Date &amp; Time Settings</"
 "gui> item."
@@ -893,9 +872,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:86
-#| msgid ""
-#| "Close the <gui>Background</gui> window by clicking the cross at the top-"
-#| "right corner of the window."
 msgid ""
 "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
 "Settings</gui> window, and then close that window by clicking the cross at "
@@ -913,7 +889,6 @@ msgstr "Změna tapety"
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:17
-#| msgid "Change the wallpaper"
 msgctxt "link:seealso"
 msgid "A tutorial on changing the wallpaper"
 msgstr "Vysvětlení, jak změnit tapetu"
@@ -935,20 +910,17 @@ msgstr ""
 
 #. (itstool) path: div/p
 #: C/gs-change-wallpaper.page:35
-#| msgid "From the list of items, select <gui>Background</gui>."
 msgid "Select <gui>Background</gui>."
 msgstr "Vyberte <gui>Pozadí</gui>."
 
 #. (itstool) path: div/p
 #: C/gs-change-wallpaper.page:38
-#| msgid "Click the background image that you want to use."
 msgid "Click the current background image."
 msgstr "Klikněte na aktuální obrázek pozadí."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:63
-#| msgid "Click the background image that you want to use."
 msgid "Click the background image you want to use."
 msgstr "Klikněte na obrázek, který chcete pro pozadí použít."
 
@@ -960,7 +932,6 @@ msgstr "Klikněte na tlačítko <gui>Vybrat</gui>."
 
 #. (itstool) path: div/p
 #: C/gs-change-wallpaper.page:47
-#| msgid "From the list of items, select <gui>Background</gui>."
 msgid "Close the <gui>Background</gui> window."
 msgstr "Zavřete okno <gui>Pozadí</gui>."
 
@@ -980,9 +951,6 @@ msgstr "Ze seznamu položek vyberte <gui>Pozadí</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
-#| msgid ""
-#| "Click the image of your current wallpaper in the center of the "
-#| "<gui>Background</gui> window."
 msgid ""
 "Click the current background image on the left side of the <gui>Background</"
 "gui> window."
@@ -1006,7 +974,6 @@ msgstr "Připojení k účtům on-line"
 
 #. (itstool) path: info/title
 #: C/gs-connect-online-accounts.page:17
-#| msgid "Connect to online accounts"
 msgctxt "link:seealso"
 msgid "A tutorial on connecting to online accounts"
 msgstr "Vysvětlení, jak se připojit k účtům on-line"
@@ -1018,7 +985,6 @@ msgstr "Připojení k účtům on-line"
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:28
-#| msgid "Click your name on the top bar and select <gui>Settings</gui>."
 msgid "Click the system menu on the right side of the top bar."
 msgstr "Klikněte na systémovou nabídku v pravé části horní lišty."
 
@@ -1029,7 +995,6 @@ msgstr "Zmáčkněte tlačítko nastavení v dolní části nabídky."
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:36
-#| msgid "From the list of items, select <gui>Background</gui>."
 msgid ""
 "From the list of items, select <gui>Online Accounts</gui>, then click on the "
 "<gui>Add an online account</gui> button."
@@ -1112,7 +1077,6 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:30
-#| msgid "Connect to online accounts"
 msgid "Connect to a wired network"
 msgstr "Připojení k drátové síti"
 
@@ -1167,7 +1131,6 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:55
-#| msgid "Connect to online accounts"
 msgid "Connect to a Wi-Fi network"
 msgstr "Připojení k bezdrátové síti"
 
@@ -1448,7 +1411,6 @@ msgstr "domaci"
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:338
 #, no-wrap
-#| msgid "Select"
 msgid "Select Network"
 msgstr "Vybrat síť"
 
@@ -1479,7 +1441,6 @@ msgstr "Připojit"
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:316
 #, no-wrap
-#| msgid "Wireless"
 msgid "wireless"
 msgstr "bezdratova"
 
@@ -1498,14 +1459,12 @@ msgstr "slaby_signal"
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:319
 #, no-wrap
-#| msgid "Private"
 msgid "private"
 msgstr "soukroma"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:320
 #, no-wrap
-#| msgid "Connect to online accounts"
 msgid "Select a network"
 msgstr "Vyberte síť"
 
@@ -1517,14 +1476,12 @@ msgstr "Spouštění aplikací"
 
 #. (itstool) path: info/title
 #: C/gs-launch-applications.page:18
-#| msgid "Launching Applications"
 msgctxt "link:seealso"
 msgid "A tutorial on launching applications"
 msgstr "Vysvětlení, jak spouštět aplikace"
 
 #. (itstool) path: section/title
 #: C/gs-launch-applications.page:61
-#| msgid "Launching applications"
 msgid "Launch applications with the mouse"
 msgstr "Spouštění aplikací pomocí myši"
 
@@ -1548,7 +1505,6 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/gs-launch-applications.page:75
-#| msgid "Launching applications"
 msgid "Launch applications with the keyboard"
 msgstr "Spouštění aplikací pomocí klávesnice"
 
@@ -1597,19 +1553,17 @@ msgstr "Odpovídání na zprávy"
 
 #. (itstool) path: info/title
 #: C/gs-respond-messages.page:17
-#| msgid "Responding to Messages"
 msgctxt "link:seealso"
 msgid "A tutorial on responding to messages"
 msgstr "Vysvětlení, jak odpovídat na zprávy"
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:88
-#| msgid "Responding to messages"
+#: C/gs-respond-messages.page:77
 msgid "Respond to a chat message with the mouse"
 msgstr "Odpovídání na zprávu z diskuze pomocí myši"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:93 C/gs-respond-messages.page:129
+#: C/gs-respond-messages.page:82
 msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send "
 "the reply."
@@ -1618,7 +1572,7 @@ msgstr ""
 "key>."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:95 C/gs-respond-messages.page:114
+#: C/gs-respond-messages.page:84
 msgid ""
 "To close the chat message, click the close button at the top right corner of "
 "the chat message."
@@ -1627,79 +1581,57 @@ msgstr ""
 "zprávy."
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:102
+#: C/gs-respond-messages.page:91
 msgid "Delayed response to a chat message using the mouse"
 msgstr "Odložená odpověď na zprávu z diskuze pomocí myši"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:105
+#: C/gs-respond-messages.page:94
 msgid ""
-"When a chat message appears in the message tray and you do not move your "
-"mouse to the message tray, the message disappears after a while."
+"When a chat message appears near the top of the screen and you do not move "
+"your mouse over the message, it disappears after a while."
 msgstr ""
-"Když se v pořadači zpráv objeví zpráva z diskuze a vy nepřesunete ukazatel "
-"myši na pořadač zpráv, zpráva po chvíli zmizí."
+"Když se v horní části obrazovky objeví zpráva z diskuze a vy na ni "
+"nepřesunete ukazatel, zpráva po chvíli zmizí."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:108
+#: C/gs-respond-messages.page:98
 msgid ""
-"To get back to your unanswered message, move your mouse to the message tray "
-"at the very bottom of the screen."
+"From the notification list, choose the message you want to reply to, and "
+"click it."
 msgstr ""
-"Abyste nezodpovězenou zprávu získali zpět, přesuňte ukazatel myši do "
-"pořadače zpráv v úplně dolní části obrazovky."
+"V seznamu upozornění najděte zprávu, na kterou chcete odpovědět a klikněte "
+"na ni."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:110
-msgid ""
-"When the message tray appears, click a small image that represents the "
-"person who sent you the message."
-msgstr ""
-"Až se pořadač zpráv objeví, klikněte na malý obrázek představující osobu, "
-"které chcete poslat zprávu."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:112
-msgid ""
-"When the chat message is shown, start typing your reply and when finished, "
-"press <key>Enter</key> to send the reply."
-msgstr ""
-"Až se zobrazí zpráva z diskuze, začněte psát svou odpověď a po jejím "
-"dokončení zmáčkněte <key>Enter</key>, čímž ji odešlete."
+#: C/gs-respond-messages.page:100 C/gs-respond-messages.page:114
+msgid "When the chat message is shown, start typing your reply."
+msgstr "Až se zpráva z diskuze zobrazí, začněte psát svou odpověď."
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:121
+#: C/gs-respond-messages.page:106
 msgid "Delayed response to a chat message using the keyboard"
 msgstr "Odložená odpověď na zprávu z diskuze pomocí klávesnice"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:123
+#: C/gs-respond-messages.page:108
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq> to "
-"display the message tray that contains the messages."
+"\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
+"display the list of unanswered notifications."
 msgstr ""
 "Abyste nezodpovězenou zprávu získali zpět, zmáčkněte <keyseq><key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key> <key>M</key></keyseq> a "
-"zobrazí se vám pořadač zpráv, který obsahuje zprávy."
+"\"help:gnome-help/keyboard-key-super\">Super</key> <key>V</key></keyseq> a "
+"zobrazí se vám seznam nezodpovězených zpráv."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:127
+#: C/gs-respond-messages.page:112
 msgid ""
-"Use the arrow keys to select a small image representing the person you want "
-"to reply to, and press <key>Enter</key>."
+"Use the arrow keys to select the notification you want to reply to, and "
+"press <key>Enter</key>."
 msgstr ""
-"Pomocí klávesových šipek vyberte malý obrázek představující osobu, které "
-"chcete odpovědět, a zmáčkněte <key>Enter</key>."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:132
-msgid ""
-"To dismiss the message tray, press <key>Esc</key> or <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>."
-msgstr ""
-"Pro skrytí pořadače zpráv zmáčkněte <key>Esc</key> nebo <keyseq><key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key></keyseq>."
+"Pomocí klávesových šipek vyberte upozornění, na které chcete odpovědět, a "
+"zmáčkněte <key>Enter</key>."
 
 #. (itstool) path: text/tspan
 #: C/gs-search1.svg:229
@@ -1918,7 +1850,6 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/gs-switch-tasks.page:158
-#| msgid "Launching applications"
 msgid "Use search to switch applications"
 msgstr "Použití hledání k přepínání aplikací"
 
@@ -2160,7 +2091,6 @@ msgstr "Vyhledávání v systému"
 
 #. (itstool) path: info/title
 #: C/gs-use-system-search.page:17
-#| msgid "Use the system search"
 msgctxt "link:seealso"
 msgid "A tutorial on using the system search"
 msgstr "Vysvětlení, jak používat vyhledávání v systému"
@@ -2212,7 +2142,6 @@ msgstr "vyhovující nastavení"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:43
-#| msgid "Switching tasks"
 msgid "matching contacts, and"
 msgstr "vyhovující kontakty"
 
@@ -2237,7 +2166,6 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/gs-use-system-search.page:54
-#| msgid "Launching applications"
 msgid "Search from inside applications"
 msgstr "Vyhledávání v aplikacích"
 
@@ -2281,7 +2209,6 @@ msgstr "Když si chcete přizpůsobit, co se má zobrazovat ve výsledcích hled
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:85
-#| msgid "From the list of items, select <gui>Background</gui>."
 msgid "From the list of items, select <gui>Search</gui>."
 msgstr "Ze seznamu položek vyberte <gui>Hledat</gui>."
 
@@ -2302,7 +2229,6 @@ msgstr "Používání oken a pracovních ploch"
 
 #. (itstool) path: info/title
 #: C/gs-use-windows-workspaces.page:17
-#| msgid "Use windows and workspaces"
 msgctxt "link:seealso"
 msgid "A tutorial on using windows and workspaces"
 msgstr "Vysvětlení, jak používat okna a pracovní plochy"
@@ -2385,7 +2311,6 @@ msgstr ""
 #. (itstool) path: text/tspan
 #: C/gs-web-browser1-firefox-classic.svg:118
 #, no-wrap
-#| msgid "Launch Applications"
 msgid "Applications"
 msgstr "Aplikace"
 
@@ -2422,7 +2347,6 @@ msgstr "http://gnome.org"
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:275
 #, no-wrap
-#| msgid "http://planet.gnome.org"
 msgid "planet.gnome.org"
 msgstr "planet.gnome.org"
 
@@ -2431,275 +2355,3 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-launching-applications.webm' "
-#~ "md5='074a675216f03881c0afb428d576eae3'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-launching-applications.webm' "
-#~ "md5='074a675216f03881c0afb428d576eae3'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-task-switching.webm' "
-#~ "md5='bf6f8421e4064a71c05aadfb3c318e16'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-task-switching.webm' "
-#~ "md5='bf6f8421e4064a71c05aadfb3c318e16'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-responding-to-messages.webm' "
-#~ "md5='ac44de55fba93ce64551c90fd6d30804'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-responding-to-messages.webm' "
-#~ "md5='ac44de55fba93ce64551c90fd6d30804'"
-
-#~ msgid "Switch Tasks"
-#~ msgstr "Přepínání úloh"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='gs-web-browser1.svg' md5='380ae6420b6eeef748add9fa8d3ebc19'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser1.svg' md5='380ae6420b6eeef748add9fa8d3ebc19'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='gs-web-browser2.svg' md5='93bfea229039508aa26d81ebfb372130'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='figures/gnome-timezone.webm' "
-#~| "md5='79089b60be438a6e6b0505f06679cebe'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-timezone.webm' "
-#~ "md5='c9e227f87b1cf1abf40e3a6e6c01d8e9'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-timezone.webm' "
-#~ "md5='79089b60be438a6e6b0505f06679cebe'"
-
-#, fuzzy
-#~| msgid ""
-#~| "Close the <gui>Background</gui> window by clicking the cross at the top-"
-#~| "right corner of the window."
-#~ msgid ""
-#~ "Close the window by clicking the cross at the top-right corner of the "
-#~ "window."
-#~ msgstr ""
-#~ "Zavřete okno <gui>Pozadí</gui> kliknutím na křížek v pravém horním rohu "
-#~ "okna."
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-change-wallpaper.webm' "
-#~ "md5='edf1a698f4da87db90f00b9b15897483'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-change-wallpaper.webm' "
-#~ "md5='edf1a698f4da87db90f00b9b15897483'"
-
-#, fuzzy
-#~| msgid ""
-#~| "Click the image of your current wallpaper in the center of the "
-#~| "<gui>Background</gui> window."
-#~ msgid "Click the image of your current wallpaper."
-#~ msgstr ""
-#~ "Klikněte na aktuální tapetu, která je zobrazena ve středu okna "
-#~ "<gui>Pozadí</gui>."
-
-#~| msgctxt "_"
-#~| msgid "external ref='gs-goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
-#~ msgstr "external ref='gs-goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
-
-#~| msgctxt "_"
-#~| msgid "external ref='gs-goa2.svg' md5='0786fcd237df1588330b4489d7dedda6'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
-#~ msgstr "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
-
-#~| msgctxt "_"
-#~| msgid "external ref='gs-goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
-#~ msgstr "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
-
-#~| msgctxt "_"
-#~| msgid "external ref='gs-goa4.svg' md5='be85f512313776ed58faf6072a8e59ef'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
-#~ msgstr "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
-
-#~| msgctxt "_"
-#~| msgid "external ref='gs-goa5.svg' md5='5deb427a0f7621bf8e7fed469a92954b'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
-#~ msgstr "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
-
-#, fuzzy
-#~| msgid "Click the <gui>Select</gui> button."
-#~ msgid "Click on the <gui>Add an online account</gui> button."
-#~ msgstr "Klikněte na tlačítko <gui>Vybrat</gui>."
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='gs-go-online1.svg' md5='daea04c13135c1aab3b117d8a133ed86'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-go-online1.svg' md5='5e1aa458f42d9a534678ac2196cf84a2'"
-#~ msgstr ""
-#~ "external ref='gs-go-online1.svg' md5='daea04c13135c1aab3b117d8a133ed86'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='gs-go-online2.svg' md5='0a0511b9f1e744495eeb3fb82573a5df'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
-#~ msgstr ""
-#~ "external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='gs-go-online3.svg' md5='58a5c6c77ee39f23fb3e5aaa6d78009f'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
-#~ msgstr ""
-#~ "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
-
-#, fuzzy
-#~| msgid "Connect to online accounts"
-#~ msgid "Connect to other types of networks"
-#~ msgstr "Připojení k účtům online"
-
-#~ msgid "Wired"
-#~ msgstr "Drátové"
-
-#~ msgid "Cable unplugged"
-#~ msgstr "Kabel byl odpojen"
-
-#~ msgid "Mobile broadband"
-#~ msgstr "Mobilní širokopásmové"
-
-#~ msgid "Weak"
-#~ msgstr "Slabé"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='gs-search1.svg' md5='93b873a25fb241cc12505faadc209247'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
-#~ msgstr ""
-#~ "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='gs-search2.svg' md5='ca4b89e6098deda603a6463df5746eb3'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
-#~ msgstr ""
-#~ "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='gs-search-settings.svg' "
-#~| "md5='47b7e436840de8fc78952beed88beccc'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-search-settings.svg' "
-#~ "md5='448b4f7f7881d9e26bdf215515fe014e'"
-#~ msgstr ""
-#~ "external ref='gs-search-settings.svg' "
-#~ "md5='448b4f7f7881d9e26bdf215515fe014e'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='figures/gnome-windows-and-workspaces.webm' "
-#~| "md5='3667a44d62d035399319d641e4f7b198'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-windows-and-workspaces.webm' "
-#~ "md5='53caf9578a37c07f8802c200d001064d'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-windows-and-workspaces.webm' "
-#~ "md5='53caf9578a37c07f8802c200d001064d'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-thumb-timezone.svg' "
-#~ "md5='42ffa67597e33e89eb5d7e31eed50e9e'"
-#~ msgstr ""
-#~ "external ref='gs-thumb-timezone.svg' "
-#~ "md5='42ffa67597e33e89eb5d7e31eed50e9e'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='figures/changing-wallpaper.webm' "
-#~| "md5='775a228570d832185f6a5d551ec513d5'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-thumb-changing-wallpaper.svg' "
-#~ "md5='763775a32c0e5861c71ef54fdcb24a53'"
-#~ msgstr ""
-#~ "external ref='gs-thumb-changing-wallpaper.svg' "
-#~ "md5='763775a32c0e5861c71ef54fdcb24a53'"
-
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa3.svg' md5='e4ae879bb449d9846d061c96b9070a9d'"
-#~ msgstr "external ref='gs-goa3.svg' md5='e4ae879bb449d9846d061c96b9070a9d'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='figures/launching-apps.webm' "
-#~| "md5='4cc7e777190c300863fe2e58ef614c90'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-thumb-launching-apps.svg' "
-#~ "md5='7b9941a22fe51067153ca05089d4b6a1'"
-#~ msgstr ""
-#~ "external ref='gs-thumb-launching-apps.svg' "
-#~ "md5='7b9941a22fe51067153ca05089d4b6a1'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='figures/responding-to-messages.webm' "
-#~| "md5='8e0297cb026484a071f9696251b53570'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-thumb-responding-to-messages.svg' "
-#~ "md5='09b2f4d5c62b225fc26e03cfd5369bfb'"
-#~ msgstr ""
-#~ "external ref='gs-thumb-responding-to-messages.svg' "
-#~ "md5='09b2f4d5c62b225fc26e03cfd5369bfb'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='figures/task-switching.webm' "
-#~| "md5='c6da1c0846443090db105041c07f71e2'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-thumb-task-switching.svg' "
-#~ "md5='40c644a7f373bca4ce0234bb44ac18b8'"
-#~ msgstr ""
-#~ "external ref='gs-thumb-task-switching.svg' "
-#~ "md5='40c644a7f373bca4ce0234bb44ac18b8'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-thumb-windows-and-workspaces.svg' "
-#~ "md5='2d0f1a522ee5edf60bd5f5fc7b7da254'"
-#~ msgstr ""
-#~ "external ref='gs-thumb-windows-and-workspaces.svg' "
-#~ "md5='2d0f1a522ee5edf60bd5f5fc7b7da254'"
