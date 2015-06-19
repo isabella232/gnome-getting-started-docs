@@ -21,9 +21,6 @@
 
   <title>Switch tasks</title>
 
-<if:choose>
-<if:when test="!platform:gnome-classic">
-
   <ui:overlay width="812" height="452">
   <media type="video" its:translate="no" src="figures/gnome-task-switching.webm" width="700" height="394">
     <ui:thumb type="image" mime="image/svg" src="gs-thumb-task-switching.svg"/>
@@ -32,7 +29,7 @@
          <tt:div begin="1s" end="5s">
            <tt:p>Switching Tasks</tt:p>
          </tt:div>
-         <tt:div begin="5s" end="8s">
+         <tt:div if:test="!platform:gnome-classic" begin="5s" end="8s">
            <tt:p>Move your mouse pointer to the <gui>Activities</gui> corner at
             the top left of the screen.</tt:p>
            </tt:div>
@@ -86,11 +83,6 @@
      </tt:tt>
   </media>
   </ui:overlay>
-
-</if:when>
-<if:when test="platform:gnome-classic">
-</if:when>
-</if:choose>
 
   <section id="switch-tasks-overview">
     <title>Switch tasks</title>

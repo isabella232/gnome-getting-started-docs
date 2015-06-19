@@ -150,7 +150,7 @@
          <tt:div begin="1s" end="5s">
            <tt:p>Switching Tasks</tt:p>
          </tt:div>
-         <tt:div begin="5s" end="8s">
+         <tt:div if:test="!platform:gnome-classic" begin="5s" end="8s">
            <tt:p>Move your mouse pointer to the <gui>Activities</gui> corner at
             the top left of the screen.</tt:p>
            </tt:div>
