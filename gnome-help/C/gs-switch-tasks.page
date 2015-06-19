@@ -29,10 +29,12 @@
          <tt:div begin="1s" end="5s">
            <tt:p>Switching Tasks</tt:p>
          </tt:div>
-         <tt:div if:test="!platform:gnome-classic" begin="5s" end="8s">
+         <if:if test="!platform:gnome-classic">
+         <tt:div begin="5s" end="8s">
            <tt:p>Move your mouse pointer to the <gui>Activities</gui> corner at
             the top left of the screen.</tt:p>
            </tt:div>
+         </if:if>
          <tt:div begin="9s" end="12s">
            <tt:p>Click a window to switch to that task.</tt:p>
          </tt:div>
