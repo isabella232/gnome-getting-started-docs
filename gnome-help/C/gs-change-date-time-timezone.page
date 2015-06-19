@@ -22,9 +22,6 @@
 
   <title>Change the date, time and timezone</title>
 
-<if:choose>
-<if:when test="!platform:gnome-classic">
-
   <ui:overlay width="812" height="452">
   <media type="video" its:translate="no" src="figures/gnome-timezone.webm" width="700" height="394">
     <ui:thumb type="image" mime="image/svg" src="gs-thumb-timezone.svg"/>
@@ -59,11 +56,6 @@
      </tt:tt>
   </media>
   </ui:overlay>
-
-</if:when>
-<if:when test="platform:gnome-classic">
-</if:when>
-</if:choose>
 
   <section id="change-date-time">
     <title>Change the date, time and timezone</title>
