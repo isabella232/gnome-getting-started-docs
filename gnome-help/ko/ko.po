@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2014-09-14 18:47+0000\n"
-"PO-Revision-Date: 2014-09-15 04:03+0900\n"
+"POT-Creation-Date: 2015-09-06 07:15+0000\n"
+"PO-Revision-Date: 2015-09-06 22:34+0900\n"
 "Last-Translator: Seong-ho Cho <shcho@gnome.org>\n"
 "Language-Team: Korean <gnome-kr@googlegroups.com>\n"
 "Language: ko\n"
@@ -59,8 +59,8 @@ msgid "Launching Applications"
 msgstr "프로그램 실행"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:33 C/getting-started.page:154
-#: C/gs-launch-applications.page:33 C/gs-switch-tasks.page:36
+#: C/getting-started.page:33 C/getting-started.page:155
+#: C/gs-launch-applications.page:33 C/gs-switch-tasks.page:34
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen."
@@ -142,8 +142,8 @@ msgstr ""
 "습니다."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:89 C/getting-started.page:161
-#: C/gs-switch-tasks.page:43 C/gs-use-windows-workspaces.page:47
+#: C/getting-started.page:89 C/getting-started.page:163
+#: C/gs-switch-tasks.page:42 C/gs-use-windows-workspaces.page:47
 msgid ""
 "To maximize a window along the left side of the screen, grab the window's "
 "titlebar and drag it to the left."
@@ -153,8 +153,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #: C/getting-started.page:93 C/getting-started.page:101
-#: C/getting-started.page:165 C/getting-started.page:173
-#: C/gs-switch-tasks.page:47 C/gs-switch-tasks.page:55
+#: C/getting-started.page:167 C/getting-started.page:175
+#: C/gs-switch-tasks.page:46 C/gs-switch-tasks.page:54
 #: C/gs-use-windows-workspaces.page:51 C/gs-use-windows-workspaces.page:59
 msgid "When half of the screen is highlighted, release the window."
 msgstr "화면 반쪽이 강조 상태가 되었을 경우 창을 내려놓으십시오."
@@ -239,25 +239,25 @@ msgstr ""
 #. (itstool) path: page/title
 #. (itstool) path: section/title
 #: C/getting-started.page:146 C/gs-switch-tasks.page:22
-#: C/gs-switch-tasks.page:96
+#: C/gs-switch-tasks.page:90
 msgid "Switch tasks"
 msgstr "작업 전환하기"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:151 C/gs-animation.xml:8 C/gs-switch-tasks.page:33
+#: C/getting-started.page:151 C/gs-animation.xml:8 C/gs-switch-tasks.page:30
 msgid "Switching Tasks"
 msgstr "작업 전환하기"
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:158 C/gs-switch-tasks.page:40
-#: C/gs-switch-tasks.page:105
+#: C/getting-started.page:160 C/gs-switch-tasks.page:39
+#: C/gs-switch-tasks.page:99
 msgid "Click a window to switch to that task."
 msgstr "작업을 전환할 창을 누르십시오."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:169 C/gs-switch-tasks.page:51
+#: C/getting-started.page:171 C/gs-switch-tasks.page:50
 msgid ""
 "To maximize a window along the right side, grab the window's titlebar and "
 "drag it to the right."
@@ -266,7 +266,7 @@ msgstr ""
 "하십시오."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:177 C/gs-switch-tasks.page:59
+#: C/getting-started.page:179 C/gs-switch-tasks.page:58
 msgid ""
 "Press <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
 "key><key> Tab</key></keyseq> to show the <gui>window switcher</gui>."
@@ -275,7 +275,7 @@ msgstr ""
 "Tab</key></keyseq>키 조합을 눌러 <gui>창 전환기</gui>를 표시하십시오."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:182 C/gs-switch-tasks.page:64
+#: C/getting-started.page:184 C/gs-switch-tasks.page:63
 msgid ""
 "Release <key href=\"help:gnome-help/keyboard-key-super\">Super </key> to "
 "select the next highlighted window."
@@ -285,8 +285,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:187 C/gs-switch-tasks.page:69
-#: C/gs-switch-tasks.page:150
+#: C/getting-started.page:189 C/gs-switch-tasks.page:68
+#: C/gs-switch-tasks.page:144
 msgid ""
 "To cycle through the list of open windows, do not release <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> but hold it down, and press "
@@ -297,7 +297,7 @@ msgstr ""
 "오."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:192 C/gs-switch-tasks.page:74
+#: C/getting-started.page:194 C/gs-switch-tasks.page:73
 msgid ""
 "Press the <key href=\"help:gnome-help/keyboard-key-super\">Super </key> key "
 "to show the <gui>Activities Overview</gui>."
@@ -306,12 +306,12 @@ msgstr ""
 "현재 활동 요약</gui>을 표시하십시오."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:196 C/gs-switch-tasks.page:78
+#: C/getting-started.page:198 C/gs-switch-tasks.page:77
 msgid "Start typing the name of the application you want to switch to."
 msgstr "전환하고자 하는 프로그램의 이름 입력을 시작하십시오."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:200 C/gs-switch-tasks.page:82
+#: C/getting-started.page:202 C/gs-switch-tasks.page:81
 msgid ""
 "When the application appears as the first result, press <key> Enter</key> to "
 "switch to it."
@@ -321,29 +321,28 @@ msgstr ""
 
 #. (itstool) path: caption/desc
 #. (itstool) path: page/title
-#: C/getting-started.page:212 C/gs-respond-messages.page:21
+#: C/getting-started.page:214 C/gs-respond-messages.page:21
 msgid "Respond to messages"
 msgstr "메시지에 응답하기"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:218 C/gs-animation.xml:7
+#: C/getting-started.page:220 C/gs-animation.xml:7
 #: C/gs-respond-messages.page:29
 msgid "Responding to Messages"
 msgstr "메시지에 응답하기"
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:221 C/gs-respond-messages.page:32
-#: C/gs-respond-messages.page:91
+#: C/getting-started.page:223 C/gs-respond-messages.page:32
+#: C/gs-respond-messages.page:80
 msgid ""
-"Move your mouse to the message tray at the bottom of the screen and click "
-"the chat message."
-msgstr ""
-"화면 하단의 메시지 표시줄에 마우스를 이동하고 대화 메시지를 누르십시오."
+"Move your mouse over the chat message that appears near the top of the "
+"screen."
+msgstr "화면의 좌측 상단에 있는 대화 메시지에 마우스 포인터를 옮기십시오."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:225 C/gs-respond-messages.page:36
+#: C/getting-started.page:227 C/gs-respond-messages.page:36
 msgid ""
 "Start typing your reply and when finished, press <key>Enter </key> to send "
 "the reply."
@@ -352,78 +351,63 @@ msgstr ""
 "시오."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:229 C/getting-started.page:250
-#: C/gs-respond-messages.page:40 C/gs-respond-messages.page:61
+#: C/getting-started.page:231 C/gs-respond-messages.page:40
 msgid "Close the chat message."
 msgstr "대화 메시지를 닫으십시오."
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:232 C/gs-animation.xml:9
+#: C/getting-started.page:234 C/gs-animation.xml:9
 #: C/gs-respond-messages.page:43
 msgid "Delayed Response"
 msgstr "늦은 응답"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:235 C/gs-respond-messages.page:46
+#: C/getting-started.page:237 C/gs-respond-messages.page:46
 msgid ""
-"A chat message in the message tray disappears after a while if you do not "
-"move your mouse to the message tray."
+"A chat message near the top of the screen disappears after a while if you do "
+"not move your mouse over the message."
 msgstr ""
-"메시지 표시줄의 대화 메시지는 메시지 표시줄로 마우스를 옮기지 않으면 곧 사라"
+"화면 상단의 대화 메시지는 메시지 표시줄로 마우스를 가져다 놓지 않으면 곧 사라"
 "집니다."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:239 C/gs-respond-messages.page:50
+#. (itstool) path: item/p
+#: C/getting-started.page:241 C/gs-respond-messages.page:50
+#: C/gs-respond-messages.page:96
+msgid "To get back to your unanswered message, click the clock on the top bar."
+msgstr "답변하지 않은 메시지로 돌아가려면, 상단 표시줄의 시계를 누르십시오."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:245 C/gs-respond-messages.page:54
+msgid "From the notification list, choose your message."
+msgstr "알림 목록에서 메시지를 선택하십시오."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:248 C/getting-started.page:260
+#: C/gs-respond-messages.page:57 C/gs-respond-messages.page:69
+msgid "Start typing your reply."
+msgstr "답변 입력을 시작하십시오."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:251 C/gs-respond-messages.page:60
 msgid ""
-"To get back to your unanswered message, move your mouse to the message tray."
+"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
 msgstr ""
-"답변하지 않은 메시지로 돌아가려면, 마우스를 메시지 보관함으로 이동하십시오."
+"알림 목록을 표시하려면, <keyseq> <key href=\"help:gnome-help/keyboard-key-"
+"super\">Super</key> <key>V</key></keyseq>키 조합을 누르십시오."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:243 C/gs-respond-messages.page:54
-msgid "Click the person who sent you the message."
-msgstr "메시지를 보낸 사람을 누르십시오."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:246 C/getting-started.page:262
-#: C/gs-respond-messages.page:57 C/gs-respond-messages.page:73
-msgid "Start typing your reply and when finished, press <key>Enter </key>."
-msgstr ""
-"답변 내용의 작성이 끝날 때까지 입력하십시오. <key>Enter</key>키를 누르십시오."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:253 C/gs-respond-messages.page:64
+#: C/getting-started.page:256 C/gs-respond-messages.page:65
 msgid ""
-"To show the message tray, press <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> <key>M</key></keyseq>"
-msgstr ""
-"메시지 표시줄을 표시하려면, <keyseq> <key href=\"help:gnome-help/keyboard-"
-"key-super\">Super</key> <key>M</key></keyseq>키 조합을 누르십시오."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:258 C/gs-respond-messages.page:69
-msgid ""
-"Use the arrow keys to select the person you want to reply to, and press "
+"Use the arrow keys to select the message you want to reply to, and press "
 "<key>Enter</key>."
 msgstr ""
-"화살표 키를 사용하여 답변할 사람을 선택하시고 <key>Enter</key>키를 누르십시"
-"오."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:266 C/gs-respond-messages.page:77
-#: C/gs-respond-messages.page:131
-msgid "Press <key>Esc</key> to close the chat message."
-msgstr "<key>Esc</key> 키를 눌러 대화 메시지를 닫으십시오."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:269 C/gs-respond-messages.page:80
-msgid "To dismiss the message tray, press <key>Esc</key>."
-msgstr "메시지 표시줄을 없애려면, <key>Esc</key>키를 누르십시오."
+"화살표 키를 눌러 답변할 메시지를 선택하시고 <key>Enter</key>키를 누르십시오."
 
 #. (itstool) path: links/title
-#: C/getting-started.page:278
+#: C/getting-started.page:269
 msgid "Common Tasks"
 msgstr "일반 작업"
 
@@ -486,137 +470,146 @@ msgid "Activities"
 msgstr "현재 활동"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:19
+#. Translators: Enter is the name of the key.
+#: C/gs-animation.xml:20
 msgid "Enter"
 msgstr "Enter"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:20
+#: C/gs-animation.xml:21
 msgid "Ctrl"
 msgstr "Ctrl"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:21
+#: C/gs-animation.xml:22
 msgid "Alt"
 msgstr "Alt"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:22
+#. Translators: Tab is the name of the key.
+#: C/gs-animation.xml:24
 msgid "Tab"
 msgstr "Tab"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:23
+#: C/gs-animation.xml:25
 msgid "Esc"
 msgstr "Esc"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:24
+#. Translators: A GNOME Shell search keyword used to find the yelp help
+#. viewer.
+#: C/gs-animation.xml:28
 msgid "help"
 msgstr "도움말"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:25
+#. Translators: A GNOME Shell search keyword used to find the web browser.
+#: C/gs-animation.xml:31
 msgid "web"
 msgstr "웹"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:26
+#: C/gs-animation.xml:32
 msgid "Just start typing…"
 msgstr "그냥 입력을 시작해보세요…"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:27 C/gs-go-online1.svg:249
+#: C/gs-animation.xml:33 C/gs-go-online1.svg:249
 #: C/gs-thumb-responding-to-messages.svg:90
 #, no-wrap
 msgid "John Doe"
 msgstr "김철수"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:28
+#: C/gs-animation.xml:34
 msgid "Settings"
 msgstr "설정"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:29
+#: C/gs-animation.xml:35
 msgid "Background"
 msgstr "배경 화면"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:30
+#: C/gs-animation.xml:36
 msgid "Wallpapers"
 msgstr "바탕 화면"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:31
+#: C/gs-animation.xml:37
 msgid "Select"
 msgstr "선택"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:32
+#: C/gs-animation.xml:38
 msgid "Ready for the meeting?"
 msgstr "회의할 준비 되셨나요?"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:33
+#: C/gs-animation.xml:39
 msgid "I'll be there in a sec..."
 msgstr "금방 갈께요~"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:34 C/gs-thumb-responding-to-messages.svg:89
+#: C/gs-animation.xml:40 C/gs-thumb-responding-to-messages.svg:89
 #, no-wrap
 msgid "Good stuff, thanks again"
 msgstr "좋네요. 거듭 감사~"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:35
+#: C/gs-animation.xml:41
 msgid "Thanks for the support"
 msgstr "도와주셔서 고마워요"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:36
+#: C/gs-animation.xml:42
 msgid "No worries."
 msgstr "걱정마세요."
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:37
+#: C/gs-animation.xml:43
 msgid "Too kind."
 msgstr "무지 친절하시네요."
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:38
+#: C/gs-animation.xml:44
 msgid "Open Calendar"
 msgstr "달력 열기"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:39
+#: C/gs-animation.xml:45
 msgid "Open Clocks"
 msgstr "시계 열기"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:40
+#. Translators: The actual string in the GUI reads "Date & Time Settings"
+#. but we cannot use an ampersand here.
+#: C/gs-animation.xml:48
 msgid "Date and Time Settings"
 msgstr "날짜 및 시간 설정"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:41
+#. Translators: The actual string in the GUI reads "Automatic Date & Time"
+#. but we cannot use an ampersand here.
+#: C/gs-animation.xml:51
 msgid "Automatic Date and Time"
 msgstr "자동 날짜 및 시간 설정"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:42
+#: C/gs-animation.xml:52
 msgid "Automatic Timezone"
 msgstr "자동 시간대"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:43
+#: C/gs-animation.xml:53
 msgid "14 October 2013, 20:00"
 msgstr "2013년 10월 14일, 20:00"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:44
+#: C/gs-animation.xml:54
 msgid "14 October 2013, 14:00"
 msgstr "2013년 10월 14일, 14:00"
 
@@ -764,52 +757,12 @@ msgstr "날짜, 시간, 시간때 바꾸기 따라하기"
 #. (itstool) path: page/title
 #. (itstool) path: section/title
 #: C/gs-change-date-time-timezone.page:23
-#: C/gs-change-date-time-timezone.page:69
+#: C/gs-change-date-time-timezone.page:65
 msgid "Change the date, time and timezone"
 msgstr "날짜, 시간, 시간대 바꾸기"
 
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:34
-msgid "Changing Date &amp; Time"
-msgstr "날짜 및 시간 바꾸기"
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:37
-msgid "Click the clock on the top bar."
-msgstr "상단 표시줄의 시계를 누르십시오."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:40
-msgid "Select <gui>Date &amp; Time Settings</gui>."
-msgstr "<gui>날짜 및 시간 설정</gui>을 선택하십시오."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:43
-msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
-msgstr "<gui>자동 시간대</gui>를 껐는지 확인하십시오."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:47
-msgid "Click <gui>Time Zone</gui>."
-msgstr "<gui>시간대</gui>를 누르십시오."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:50
-msgid "Click on your location on the map."
-msgstr "지도에서 위치 지점을 누르십시오."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:53
-msgid "Click <gui>Close</gui>."
-msgstr "<gui>닫기</gui>를 누르십시오."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:56
-msgid "Close the window."
-msgstr "창을 닫으십시오."
-
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:72
+#: C/gs-change-date-time-timezone.page:68
 msgid ""
 "Click the clock on the top bar and select the <gui>Date &amp; Time Settings</"
 "gui> item."
@@ -817,7 +770,7 @@ msgstr ""
 "상단 표시줄의 시계를 누르고 <gui>날짜 및 시간 설정</gui> 항목을 선택하십시오."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:74
+#: C/gs-change-date-time-timezone.page:70
 msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
 "then click the <gui>Time Zone</gui> item below."
@@ -826,7 +779,7 @@ msgstr ""
 "</gui> 항목을 누르십시오."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:76
+#: C/gs-change-date-time-timezone.page:72
 msgid ""
 "Click on your location on the map. This selects your current city, which you "
 "can also search for in the search box above the map."
@@ -835,7 +788,7 @@ msgstr ""
 "의 검색 창으로 검색할 수 있습니다."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:79
+#: C/gs-change-date-time-timezone.page:75
 msgid ""
 "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
 "Settings</gui> window."
@@ -843,7 +796,7 @@ msgstr ""
 "<gui>닫기</gui>단추를 눌러 <gui>날짜 및 시간 설정</gui> 창으로 돌아가십시오."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:81
+#: C/gs-change-date-time-timezone.page:77
 msgid ""
 "Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
 "off, and then click the <gui>Date &amp; Time</gui> item below to open the "
@@ -856,7 +809,7 @@ msgstr ""
 "수 있습니다."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:86
+#: C/gs-change-date-time-timezone.page:82
 msgid ""
 "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
 "Settings</gui> window, and then close that window by clicking the cross at "
@@ -1527,12 +1480,12 @@ msgid "A tutorial on responding to messages"
 msgstr "메시지 응답 따라하기"
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:88
+#: C/gs-respond-messages.page:77
 msgid "Respond to a chat message with the mouse"
 msgstr "마우스로 대화 메시지 응답하기"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:93 C/gs-respond-messages.page:129
+#: C/gs-respond-messages.page:82
 msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send "
 "the reply."
@@ -1541,7 +1494,7 @@ msgstr ""
 "십시오."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:95 C/gs-respond-messages.page:114
+#: C/gs-respond-messages.page:84
 msgid ""
 "To close the chat message, click the close button at the top right corner of "
 "the chat message."
@@ -1550,80 +1503,54 @@ msgstr ""
 "시오."
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:102
+#: C/gs-respond-messages.page:91
 msgid "Delayed response to a chat message using the mouse"
 msgstr "마우스를 사용하여 대화 메시지에 늦게 응답하기"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:105
+#: C/gs-respond-messages.page:94
 msgid ""
-"When a chat message appears in the message tray and you do not move your "
-"mouse to the message tray, the message disappears after a while."
+"When a chat message appears near the top of the screen and you do not move "
+"your mouse over the message, it disappears after a while."
 msgstr ""
-"메시지 표시줄에 대화 메시지가 나타나소 메시지 표시줄에 마우스를 옮겨보지 않았"
-"다면, 메시지가 곧 사라집니다."
+"화면 상단에 대화 메시지가 뜰 때 메시지에 마우스 포인터를 가져다 놓지 않으면 "
+"곧 사라집니다."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:108
+#: C/gs-respond-messages.page:98
 msgid ""
-"To get back to your unanswered message, move your mouse to the message tray "
-"at the very bottom of the screen."
-msgstr ""
-"답변하지 않은 메시지로 돌아가려면, 화면 하단에 있는 메시지 표시줄로 마우스를 "
-"가져다 놓으십시오."
+"From the notification list, choose the message you want to reply to, and "
+"click it."
+msgstr "알림 목록에서 답장할 메시지를 선택한 후 누르십시오."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:110
-msgid ""
-"When the message tray appears, click a small image that represents the "
-"person who sent you the message."
-msgstr ""
-"메시지 표시줄이 나타나면, 메시지를 보낸 사람을 나타내는 작은 그림을 누르십시"
-"오."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:112
-msgid ""
-"When the chat message is shown, start typing your reply and when finished, "
-"press <key>Enter</key> to send the reply."
-msgstr ""
-"대화 메시지가 나타나면 답변 입력을 시작하고, 끝나면 <key>Enter</key>키를 눌"
-"러 답변을 보내십시오."
+#: C/gs-respond-messages.page:100 C/gs-respond-messages.page:114
+msgid "When the chat message is shown, start typing your reply."
+msgstr "대화 메시지가 나타나면 답변 입력을 시작하십시오."
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:121
+#: C/gs-respond-messages.page:106
 msgid "Delayed response to a chat message using the keyboard"
 msgstr "키보드를 사용하여 대화 메시지에 늦게 응답하기"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:123
+#: C/gs-respond-messages.page:108
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq> to "
-"display the message tray that contains the messages."
+"\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
+"display the list of unanswered notifications."
 msgstr ""
 "답변하지 않은 메시지로 돌아가려면 <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key><key>M</key> </keyseq>키 조합을 입력하여 메시"
-"지 내용이 있는 메시지 표시줄을 표시하십시오."
+"keyboard-key-super\">Super</key><key>V</key> </keyseq>키 조합을 입력하여 답변"
+"하지 않은 알림 목록을 표시하십시오."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:127
+#: C/gs-respond-messages.page:112
 msgid ""
-"Use the arrow keys to select a small image representing the person you want "
-"to reply to, and press <key>Enter</key>."
+"Use the arrow keys to select the notification you want to reply to, and "
+"press <key>Enter</key>."
 msgstr ""
-"화살표 키를 사용하여 답변할 사람을 나타내는 작은 그림을 선택하시고 "
-"<key>Enter</key>키를 누르십시오."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:132
-msgid ""
-"To dismiss the message tray, press <key>Esc</key> or <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>."
-msgstr ""
-"메시지 표시줄을 없애려면, <key>Esc</key> 또는 <keyseq> <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key><key>M</key></keyseq>키 조합을 입"
-"력하십시오."
+"화살표 키를 눌러 답변할 알림을 선택하시고 <key>Enter</key>키를 누르십시오."
 
 #. (itstool) path: text/tspan
 #: C/gs-search1.svg:229
@@ -1747,7 +1674,7 @@ msgid "A tutorial on switching tasks"
 msgstr "작업 전환 따라하기"
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:102
+#: C/gs-switch-tasks.page:96
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen to show the <gui>Activities Overview</gui> where you can see "
@@ -1758,7 +1685,7 @@ msgstr ""
 "</gui>을 표시하십시오."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:112
+#: C/gs-switch-tasks.page:106
 msgid ""
 "You can switch between tasks by using the <gui>window list</gui> at the "
 "bottom of the screen. Open tasks appear as buttons in the <gui>window list</"
@@ -1768,17 +1695,17 @@ msgstr ""
 "목록</gui>에 단추 모양으로 뜬 작업을 여십시오."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:115
+#: C/gs-switch-tasks.page:109
 msgid "Click a button in the <gui>window list</gui> to switch to that task."
 msgstr "<gui>창 목록</gui>의 단추를 눌러 작업을 전환하십시오."
 
 #. (itstool) path: section/title
-#: C/gs-switch-tasks.page:125 C/gs-use-windows-workspaces.page:114
+#: C/gs-switch-tasks.page:119 C/gs-use-windows-workspaces.page:114
 msgid "Tile windows"
 msgstr "창 바둑판 배치"
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:128 C/gs-use-windows-workspaces.page:118
+#: C/gs-switch-tasks.page:122 C/gs-use-windows-workspaces.page:118
 msgid ""
 "To maximize a window along a side of the screen, grab the window's titlebar "
 "and drag it to the left or right side of the screen."
@@ -1787,7 +1714,7 @@ msgstr ""
 "는 오른편으로 끌어 움직이심시오."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:130 C/gs-use-windows-workspaces.page:120
+#: C/gs-switch-tasks.page:124 C/gs-use-windows-workspaces.page:120
 msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
 "along the selected side of the screen."
@@ -1796,7 +1723,7 @@ msgstr ""
 "시오."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:132 C/gs-use-windows-workspaces.page:122
+#: C/gs-switch-tasks.page:126 C/gs-use-windows-workspaces.page:122
 msgid ""
 "To maximize two windows side-by-side, grab the titlebar of the second window "
 "and drag it to the opposite side of the screen."
@@ -1805,7 +1732,7 @@ msgstr ""
 "의 반대편으로 끌어 움직이십시오."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:134 C/gs-use-windows-workspaces.page:124
+#: C/gs-switch-tasks.page:128 C/gs-use-windows-workspaces.page:124
 msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
 "along the opposite side of the screen."
@@ -1813,12 +1740,12 @@ msgstr ""
 "화면의 절반이 강조 상태가 되면, 창을 놓아 화면 반대편을 따라 최대화 하십시오."
 
 #. (itstool) path: section/title
-#: C/gs-switch-tasks.page:141
+#: C/gs-switch-tasks.page:135
 msgid "Switch between windows"
 msgstr "창 전환하기"
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:144
+#: C/gs-switch-tasks.page:138
 msgid ""
 "Press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
 "key><key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which "
@@ -1829,7 +1756,7 @@ msgstr ""
 "오. 화면에 보이는 목록은 현재 열어놓은 창입니다."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:147
+#: C/gs-switch-tasks.page:141
 msgid ""
 "Release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> to "
 "select the next highlighted window in the <gui>window switcher</gui>."
@@ -1838,12 +1765,12 @@ msgstr ""
 "떼어 <gui>창 전환기</gui>의 다음 강조 창을 선택하십시오."
 
 #. (itstool) path: section/title
-#: C/gs-switch-tasks.page:158
+#: C/gs-switch-tasks.page:152
 msgid "Use search to switch applications"
 msgstr "프로그램 전환에 검색 기능 사용하기"
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:161
+#: C/gs-switch-tasks.page:155
 msgid ""
 "Press the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key "
 "to show the <gui>Activities Overview</gui>."
@@ -1852,7 +1779,7 @@ msgstr ""
 "재 활동 요약</gui>을 띄우십시오."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:163
+#: C/gs-switch-tasks.page:157
 msgid ""
 "Just start typing the name of the application you want to switch to. "
 "Applications matching what you have typed will appear as you type."
@@ -1861,7 +1788,7 @@ msgstr ""
 "이 입력한 그대로 나타납니다."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:166
+#: C/gs-switch-tasks.page:160
 msgid ""
 "When the application that you want to switch to appears as the first result, "
 "press <key>Enter</key> to switch to it."
@@ -2341,3 +2268,76 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "플래닛 그놈"
+
+#~ msgid ""
+#~ "Move your mouse to the message tray at the bottom of the screen and click "
+#~ "the chat message."
+#~ msgstr ""
+#~ "화면 하단의 메시지 표시줄에 마우스를 이동하고 대화 메시지를 누르십시오."
+
+#~ msgid "Click the person who sent you the message."
+#~ msgstr "메시지를 보낸 사람을 누르십시오."
+
+#~ msgid "Start typing your reply and when finished, press <key>Enter </key>."
+#~ msgstr ""
+#~ "답변 내용의 작성이 끝날 때까지 입력하십시오. <key>Enter</key>키를 누르십시"
+#~ "오."
+
+#~ msgid "Press <key>Esc</key> to close the chat message."
+#~ msgstr "<key>Esc</key> 키를 눌러 대화 메시지를 닫으십시오."
+
+#~ msgid "To dismiss the message tray, press <key>Esc</key>."
+#~ msgstr "메시지 표시줄을 없애려면, <key>Esc</key>키를 누르십시오."
+
+#~ msgid "Changing Date &amp; Time"
+#~ msgstr "날짜 및 시간 바꾸기"
+
+#~ msgid "Click the clock on the top bar."
+#~ msgstr "상단 표시줄의 시계를 누르십시오."
+
+#~ msgid "Select <gui>Date &amp; Time Settings</gui>."
+#~ msgstr "<gui>날짜 및 시간 설정</gui>을 선택하십시오."
+
+#~ msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
+#~ msgstr "<gui>자동 시간대</gui>를 껐는지 확인하십시오."
+
+#~ msgid "Click <gui>Time Zone</gui>."
+#~ msgstr "<gui>시간대</gui>를 누르십시오."
+
+#~ msgid "Click on your location on the map."
+#~ msgstr "지도에서 위치 지점을 누르십시오."
+
+#~ msgid "Click <gui>Close</gui>."
+#~ msgstr "<gui>닫기</gui>를 누르십시오."
+
+#~ msgid "Close the window."
+#~ msgstr "창을 닫으십시오."
+
+#~ msgid ""
+#~ "To get back to your unanswered message, move your mouse to the message "
+#~ "tray at the very bottom of the screen."
+#~ msgstr ""
+#~ "답변하지 않은 메시지로 돌아가려면, 화면 하단에 있는 메시지 표시줄로 마우스"
+#~ "를 가져다 놓으십시오."
+
+#~ msgid ""
+#~ "When the message tray appears, click a small image that represents the "
+#~ "person who sent you the message."
+#~ msgstr ""
+#~ "메시지 표시줄이 나타나면, 메시지를 보낸 사람을 나타내는 작은 그림을 누르십"
+#~ "시오."
+
+#~ msgid ""
+#~ "Use the arrow keys to select a small image representing the person you "
+#~ "want to reply to, and press <key>Enter</key>."
+#~ msgstr ""
+#~ "화살표 키를 사용하여 답변할 사람을 나타내는 작은 그림을 선택하시고 "
+#~ "<key>Enter</key>키를 누르십시오."
+
+#~ msgid ""
+#~ "To dismiss the message tray, press <key>Esc</key> or <keyseq> <key href="
+#~ "\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>."
+#~ msgstr ""
+#~ "메시지 표시줄을 없애려면, <key>Esc</key> 또는 <keyseq> <key href=\"help:"
+#~ "gnome-help/keyboard-key-super\">Super</key><key>M</key></keyseq>키 조합을 "
+#~ "입력하십시오."
