@@ -9,7 +9,6 @@ HELP_MEDIA = \
 	figures/gnome-launching-applications.webm \
 	figures/gnome-responding-to-messages.webm \
 	figures/gnome-task-switching.webm \
-	figures/gnome-timezone.webm \
 	figures/gnome-windows-and-workspaces.webm
 
 # Please ASK MAINTAINERS first before updating the HELP_FILES list below.
@@ -23,6 +22,7 @@ HELP_FILES = \
 	gs-change-date-time-timezone.page \
 	gs-change-wallpaper.page \
 	gs-connect-online-accounts.page \
+	gs-datetime.svg \
 	gs-get-online.page \
 	gs-goa1.svg \
 	gs-goa2.svg \
