@@ -25,9 +25,10 @@
   src="gs-goa1.svg" width="100%" />
 
   <steps>
-    <item><p>Click the system menu on the right side of the top bar.</p></item>
-    <item><p>Press the settings button at the bottom of the menu.</p></item>
-    <item><p>From the list of panels, select <gui>Date &amp; Time</gui>.</p></item>
+    <item><p>Click the <gui xref="shell-terminology">system menu</gui> on the
+    right side of the top bar.</p></item>
+    <item><p>Click the settings button at the bottom left of the menu.</p></item>
+    <item><p>Select the <gui>Date &amp; Time</gui> panel.</p></item>
   </steps>
   
   <media its:translate="yes" type="image" mime="image/svg"
@@ -48,9 +49,5 @@
     <item><p>Close the window to go back to the <gui>Date &amp;
      Time Settings</gui>, and then close the panel.</p></item>
   </steps>
-
-  <!-- FIXME: 
-	- explain what time/date does - a reference in further reading?
-  -->
 
 </page>
