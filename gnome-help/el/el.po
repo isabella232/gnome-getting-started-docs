@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2015-09-23 07:37+0000\n"
-"PO-Revision-Date: 2015-09-23 12:33+0300\n"
+"POT-Creation-Date: 2015-09-30 22:26+0000\n"
+"PO-Revision-Date: 2015-10-03 13:57+0300\n"
 "Last-Translator: Tom Tryfonidis <tomtryf@gmail.com>\n"
 "Language-Team: www.gnome.gr\n"
 "Language: el\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.4\n"
+"X-Generator: Poedit 1.8.5\n"
 "X-Project-Style: gnome\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
@@ -23,8 +23,8 @@ msgctxt "_"
 msgid "translator-credits"
 msgstr ""
 "Ελληνική μεταφραστική ομάδα GNOME <team@gnome.gr>, 2012-2015\n"
-" Δημήτρης Σπίγγος <dmtrs32@gmail.com>, 2013, 2015\n"
-" Θάνος Τρυφωνίδης <tomtryf@gmail.com>, 2012, 2015"
+"Δημήτρης Σπίγγος <dmtrs32@gmail.com>, 2013, 2015\n"
+"Θάνος Τρυφωνίδης <tomtryf@gmail.com>, 2012, 2015"
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:11
@@ -726,9 +726,7 @@ msgstr "Από το μενού, επιλέξτε <guiseq><gui>Διαδίκτυο
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gs-change-date-time-timezone.page:34
-#| msgctxt "_"
-#| msgid "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
+#: C/gs-change-date-time-timezone.page:35
 msgctxt "_"
 msgid "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
 msgstr "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
@@ -751,22 +749,29 @@ msgid "Change the date, time and timezone"
 msgstr "Αλλαγή ημερομηνίας, ώρας και ζώνης ώρας"
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:28 C/gs-connect-online-accounts.page:28
-msgid "Click the system menu on the right side of the top bar."
-msgstr "Κάντε κλικ στο μενού του συστήματος στο δεξί μέρος της πάνω μπάρας."
+#: C/gs-change-date-time-timezone.page:28 C/gs-change-wallpaper.page:58
+#: C/gs-connect-online-accounts.page:28 C/gs-get-online.page:63
+#: C/gs-use-system-search.page:83
+msgid ""
+"Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the right side "
+"of the top bar."
+msgstr ""
+"Κάντε κλικ στο <gui xref=\"shell-introduction#yourname\">μενού του συστήματος</gui> στο "
+"δεξί μέρος της πάνω μπάρας."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:29 C/gs-connect-online-accounts.page:29
-msgid "Press the settings button at the bottom of the menu."
-msgstr "Επιλέξτε το κουμπί ρυθμίσεις στο τέλος του μενού."
+#: C/gs-change-date-time-timezone.page:30 C/gs-change-wallpaper.page:60
+#: C/gs-connect-online-accounts.page:30 C/gs-use-system-search.page:85
+msgid "Click the settings button at the bottom left of the menu."
+msgstr "Κάντε κλικ στο κουμπί ρυθμίσεις στο κάτω αριστερό μέρος του μενού."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:30
-msgid "From the list of panels, select <gui>Date &amp; Time</gui>."
-msgstr "Από τη λίστα πινάκων, επιλέξτε <gui>Ημερομηνία &amp; ώρα</gui>."
+#: C/gs-change-date-time-timezone.page:31
+msgid "Select the <gui>Date &amp; Time</gui> panel."
+msgstr "Επιλέξτε τον πίνακα <gui>Ημερομηνία &amp; ώρα</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:37
+#: C/gs-change-date-time-timezone.page:38
 msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and then click "
 "the <gui>Time Zone</gui> item below."
@@ -775,7 +780,7 @@ msgstr ""
 "επιλέξτε παρακάτω το αντικείμενο <gui>Ζώνη ώρας</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:39
+#: C/gs-change-date-time-timezone.page:40
 msgid ""
 "Click on your location on the world map. This selects your current city, which you can "
 "also search for in the search box above the map."
@@ -784,17 +789,14 @@ msgstr ""
 "την οποία μπορείτε επίσης να αναζητήσετε και στο πλαίσιο αναζήτησης πάνω από τον χάρτη."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:41
-#| msgid ""
-#| "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time Settings</"
-#| "gui> window."
+#: C/gs-change-date-time-timezone.page:42
 msgid "Close the world map window to go back to the <gui>Date &amp; Time Settings</gui>."
 msgstr ""
 "Κλείστε το παράθυρο του παγκόσμιου χάρτη για να πάτε πίσω στις ρυθμίσεις <gui>Ημερομηνία "
 "&amp; ώρα</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:43
+#: C/gs-change-date-time-timezone.page:44
 msgid ""
 "Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched off, and then "
 "click the <gui>Date &amp; Time</gui> item below to open the <gui>Date &amp; Time</gui> "
@@ -808,10 +810,7 @@ msgstr ""
 "<gui>-</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:48
-#| msgid ""
-#| "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time Settings</"
-#| "gui> window."
+#: C/gs-change-date-time-timezone.page:49
 msgid ""
 "Close the window to go back to the <gui>Date &amp; Time Settings</gui>, and then close "
 "the panel."
@@ -857,13 +856,13 @@ msgstr "Πατήστε στην τρέχουσα εικόνα παρασκηνί
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:63
+#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:64
 msgid "Click the background image you want to use."
 msgstr "Κάντε κλικ στην εικόνα παρασκηνίου που θέλετε να χρησιμοποιήσετε."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:64
+#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:65
 msgid "Click the <gui>Select</gui> button."
 msgstr "Πατήστε το κουμπί <gui>Επιλογή</gui>."
 
@@ -873,21 +872,12 @@ msgid "Close the <gui>Background</gui> window."
 msgstr "Κλείστε το παράθυρο <gui>Παρασκήνιο</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:58 C/gs-use-system-search.page:83
-msgid ""
-"Click the system menu on the right side of the top bar and press the settings button at "
-"the bottom of the menu."
-msgstr ""
-"Επιλέξτε το μενού του συστήματος στο δεξί μέρος της γραμμής μενού και επιλέξτε το κουμπί "
-"ρυθμίσεις στο τέλος του μενού."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:60
-msgid "From the list of panels, select <gui>Background</gui>."
-msgstr "Από τη λίστα πινάκων, επιλέξτε <gui>Παρασκήνιο</gui>."
-
-#. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
+msgid "Click the <gui>Background</gui> panel."
+msgstr "Κάντε κλικ στον πίνακα <gui>Παρασκήνιο</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:62
 msgid ""
 "Click the current background image on the left side of the <gui>Background</gui> window."
 msgstr ""
@@ -895,7 +885,7 @@ msgstr ""
 "<gui>Παρασκήνιο</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:65
+#: C/gs-change-wallpaper.page:66
 msgid ""
 "Close the <gui>Background</gui> window by clicking the cross at the top-right corner of "
 "the window."
@@ -921,16 +911,16 @@ msgid "Connect to online accounts"
 msgstr "Σύνδεση σε διαδικτυακούς λογαριασμούς"
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:36
+#: C/gs-connect-online-accounts.page:37
 msgid ""
-"From the list of panels, select <gui>Online Accounts</gui>, then click on the <gui>Add an "
-"online account</gui> button."
+"Click the <gui>Online Accounts</gui> panel, then click the <gui>Add an online account</"
+"gui> button."
 msgstr ""
-"Από τη λίστα πινάκων, επιλέξτε <gui>Διαδικτυακοί λογαριασμοί</gui>, μετά κάντε κλικ στο "
-"κουμπί <gui>Προσθήκη διαδικτυακού λογαριασμού</gui>."
+"Κάντε κλικ στον πίνακα <gui>Διαδικτυακοί λογαριασμοί</gui>, και μετά το κουμπί "
+"<gui>Προσθήκη διαδικτυακού λογαριασμού</gui>."
 
 #. (itstool) path: note/p
-#: C/gs-connect-online-accounts.page:40
+#: C/gs-connect-online-accounts.page:41
 msgid ""
 "If you have set up an online account before, you can add another online account by "
 "clicking the <gui>+</gui> button at the bottom left corner of the window."
@@ -940,7 +930,7 @@ msgstr ""
 "παραθύρου."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:48
+#: C/gs-connect-online-accounts.page:49
 msgid ""
 "Click the online account you want to use. This will open a new window where you can sign "
 "in to your online account."
@@ -949,7 +939,7 @@ msgstr ""
 "νέο παράθυρο όπου μπορείτε να γράψετε τον διαδικτυακό λογαριασμό σας."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:56
+#: C/gs-connect-online-accounts.page:57
 msgid ""
 "In most cases, you will have to grant access to the online service after signing in to "
 "get started."
@@ -958,7 +948,7 @@ msgstr ""
 "υπηρεσία μετά την είσοδο σας για να ξεκινήσετε."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:58
+#: C/gs-connect-online-accounts.page:59
 msgid ""
 "For example, if you are connecting to your Google account, you will have to click the "
 "<gui>Grant Access</gui> button."
@@ -967,7 +957,7 @@ msgstr ""
 "κουμπί <gui>Παραχώρηση πρόσβασης</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:66
+#: C/gs-connect-online-accounts.page:67
 msgid ""
 "Many online accounts let you choose the services you want to use with your online "
 "account. If you do not want to use a service, disable it by clicking the <gui>ON/OFF</"
@@ -1091,8 +1081,8 @@ msgstr "Σύνδεση σε ενσύρματο δίκτυο"
 #. (itstool) path: item/p
 #: C/gs-get-online.page:36
 msgid ""
-"The network connection icon on the right-hand side of the top bar shows that you are off-"
-"line."
+"The network connection icon on the right-hand side of the top bar shows that you are "
+"offline."
 msgstr ""
 "Το εικονίδιο σύνδεσης δικτύου στα δεξιά της πάνω γραμμής δείχνει ότι είσαστε εκτός "
 "σύνδεσης."
@@ -1100,9 +1090,9 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/gs-get-online.page:38
 msgid ""
-"The off-line status can be caused by a number of reasons: for example, a network cable "
-"has been unplugged, the computer has been set to run in <em>airplane mode</em>, or there "
-"are no available Wi-Fi networks in your area."
+"The offline status can be caused by a number of reasons: for example, a network cable has "
+"been unplugged, the computer has been set to run in <em>airplane mode</em>, or there are "
+"no available Wi-Fi networks in your area."
 msgstr ""
 "Η κατάσταση χωρίς σύνδεση μπορεί να προκληθεί από αρκετές αιτίες: για παράδειγμα, ένα "
 "καλώδιο δικτύου έχει αποσυνδεθεί, ο υπολογιστής έχει οριστεί σε <em>λειτουργία "
@@ -1141,17 +1131,23 @@ msgstr ""
 msgid "Connect to a Wi-Fi network"
 msgstr "Σύνδεση σε ασύρματο δίκτυο Wi-Fi"
 
-#. (itstool) path: item/p
+#. (itstool) path: steps/title
 #: C/gs-get-online.page:61
-msgid ""
-"To connect to a Wi-Fi (wireless) network, click the status menu at the top right of the "
-"screen, and then click <gui>Select Network</gui>."
-msgstr ""
-"Για να συνδεθείτε σε ένα ασύρματο (Wi-Fi) δίκτυο, κάντε κλικ στο μενού της κατάστασης στο "
-"πάνω δεξί μέρος της οθόνης, και μετά στο <gui>Επιλογή δικτύου</gui>."
+msgid "To connect to a Wi-Fi (wireless) network:"
+msgstr "Για να συνδεθείτε σε ένα ασύρματο δίκτυο Wi-Fi:"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:67
+msgid "Select <gui>Wi-Fi Not Connected</gui>. The Wi-Fi section of the menu will expand."
+msgstr "Επιλέξτε <gui>Χωρίς σύνδεση το Wi-Fi</gui>. Θα επεκταθεί η περιοχή Wi-Fi του μενού."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:71
+msgid "Click <gui>Select Network</gui>."
+msgstr "Κάντε κλικ στο <gui>Επιλογή δικτύου</gui>."
 
 #. (itstool) path: note/p
-#: C/gs-get-online.page:67
+#: C/gs-get-online.page:76
 msgid ""
 "You can only connect to a Wi-Fi network if your computer hardware supports it and you are "
 "in an area with Wi-Fi coverage."
@@ -1160,7 +1156,7 @@ msgstr ""
 "το υποστηρίζει και βρίσκεστε σε περιοχή με κάλυψη Wi-Fi."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:75
+#: C/gs-get-online.page:84
 msgid ""
 "From the list of available Wi-Fi networks, select the network you want to connect to, and "
 "click <gui>Connect</gui> to confirm."
@@ -1169,7 +1165,7 @@ msgstr ""
 "συνδεθείτε, και κάντε κλικ στο <gui>Σύνδεση</gui> για επιβεβαίωση."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:77
+#: C/gs-get-online.page:86
 msgid "Depending on the network configuration, you may be prompted for network credentials."
 msgstr "Ανάλογα με τη ρύθμιση του δικτύου, μπορεί να ζητηθούν πιστοποιητικά δικτύου."
 
@@ -2166,18 +2162,18 @@ msgstr ""
 "αναζήτησης στην <gui>Επισκόπηση δραστηριοτήτων</gui>. Για παράδειγμα, μπορείτε να "
 "επιλέξετε εάν θέλετε να εμφανίζονται αποτελέσματα για ιστοτόπους, φωτογραφίες ή μουσική."
 
-#. (itstool) path: section/p
-#: C/gs-use-system-search.page:80
+#. (itstool) path: steps/title
+#: C/gs-use-system-search.page:82
 msgid "To customize what is displayed in the search results:"
 msgstr "Για να προσαρμόσετε το τι εμφανίζεται στα αποτελέσματα αναζήτησης:"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:85
-msgid "From the list of panels, select <gui>Search</gui>."
-msgstr "Από τη λίστα πινάκων, επιλέξτε <gui>Αναζήτηση</gui>."
+#: C/gs-use-system-search.page:86
+msgid "Click the <gui>Search</gui> panel."
+msgstr "Κάντε κλικ στον πίνακα <gui>Αναζήτηση</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:86
+#: C/gs-use-system-search.page:87
 msgid ""
 "In the list of search locations, click the <gui>ON/OFF</gui> switch next to the search "
 "location you want to enable or disable."
@@ -2318,11 +2314,31 @@ msgstr "planet.gnome.org"
 msgid "Planet GNOME"
 msgstr "Πλανήτης GNOME"
 
+#~ msgid "From the list of panels, select <gui>Date &amp; Time</gui>."
+#~ msgstr "Από τη λίστα πινάκων, επιλέξτε <gui>Ημερομηνία &amp; ώρα</gui>."
+
+#~ msgid ""
+#~ "Click the system menu on the right side of the top bar and press the settings button "
+#~ "at the bottom of the menu."
+#~ msgstr ""
+#~ "Επιλέξτε το μενού του συστήματος στο δεξί μέρος της γραμμής μενού και επιλέξτε το "
+#~ "κουμπί ρυθμίσεις στο τέλος του μενού."
+
+#~ msgid "From the list of panels, select <gui>Background</gui>."
+#~ msgstr "Από τη λίστα πινάκων, επιλέξτε <gui>Παρασκήνιο</gui>."
+
+#~ msgid ""
+#~ "To connect to a Wi-Fi (wireless) network, click the status menu at the top right of "
+#~ "the screen, and then click <gui>Select Network</gui>."
+#~ msgstr ""
+#~ "Για να συνδεθείτε σε ένα ασύρματο (Wi-Fi) δίκτυο, κάντε κλικ στο μενού της κατάστασης "
+#~ "στο πάνω δεξί μέρος της οθόνης, και μετά στο <gui>Επιλογή δικτύου</gui>."
+
+#~ msgid "From the list of panels, select <gui>Search</gui>."
+#~ msgstr "Από τη λίστα πινάκων, επιλέξτε <gui>Αναζήτηση</gui>."
+
 #~ msgid "Click the clock on the top bar."
 #~ msgstr "Πατήστε το ρολόι στην πάνω γραμμή."
-
-#~ msgid "Select <gui>Date &amp; Time Settings</gui>."
-#~ msgstr "Επιλέξτε το στοιχείο <gui>Ρυθμίσεις ημερομηνίας &amp; ώρας</gui>."
 
 #~ msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
 #~ msgstr "Σιγουρευτείτε ότι το <gui>Αυτόματη Ζώνη ώραςe</gui>είναι απενεργοποιημένο."
@@ -2332,9 +2348,6 @@ msgstr "Πλανήτης GNOME"
 
 #~ msgid "Click on your location on the map."
 #~ msgstr "Πατήστε στην τοποθεσία σας στον χάρτη."
-
-#~ msgid "Click <gui>Close</gui>."
-#~ msgstr "Πατήστε το κουμπί <gui>Κλείσιμο</gui>."
 
 #~ msgid "Close the window."
 #~ msgstr "Κλείστε το παράθυρο."
