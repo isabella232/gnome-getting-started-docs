@@ -23,8 +23,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2015-10-04 19:38+0000\n"
-"PO-Revision-Date: 2015-10-05 09:22+0200\n"
+"POT-Creation-Date: 2015-10-05 07:42+0000\n"
+"PO-Revision-Date: 2015-10-05 09:44+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -817,24 +817,24 @@ msgstr "Cambiar la fecha, hora y zona horaria"
 #: C/gs-change-date-time-timezone.page:28 C/gs-change-wallpaper.page:58
 #: C/gs-connect-online-accounts.page:28 C/gs-get-online.page:63
 #: C/gs-use-system-search.page:83
-#, fuzzy
 #| msgid "Click the system menu on the right side of the top bar."
 msgid ""
 "Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
 "right side of the top bar."
-msgstr "Pulse en el menú del sistema en la parte derecha de la barra superior."
+msgstr ""
+"Pulse en el <gui xref=\"shell-introduction#yourname\">menú del sistema</gui> "
+"en la parte derecha de la barra superior."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:30 C/gs-change-wallpaper.page:60
 #: C/gs-connect-online-accounts.page:30 C/gs-use-system-search.page:85
-#, fuzzy
 #| msgid "Press the settings button at the bottom of the menu."
 msgid "Click the settings button at the bottom left of the menu."
-msgstr "Pulse el botón de configuración en la parte inferior del menú."
+msgstr ""
+"Pulse el botón de configuración en la parte inferior izquierda del menú."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:31
-#| msgid "Select <gui>Date &amp; Time Settings</gui>."
 msgid "Select the <gui>Date &amp; Time</gui> panel."
 msgstr "Seleccione el panel de <gui>Fecha y hora</gui>."
 
@@ -943,7 +943,6 @@ msgstr "Cierre la ventana <gui>Fondo</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
-#| msgid "Close the <gui>Background</gui> window."
 msgid "Click the <gui>Background</gui> panel."
 msgstr "Pulse el panel <gui>Fondo</gui>."
 
@@ -984,9 +983,6 @@ msgstr "Conectarse a cuentas en línea"
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:37
-#| msgid ""
-#| "From the list of panels, select <gui>Online Accounts</gui>, then click on "
-#| "the <gui>Add an online account</gui> button."
 msgid ""
 "Click the <gui>Online Accounts</gui> panel, then click the <gui>Add an "
 "online account</gui> button."
@@ -1162,9 +1158,6 @@ msgstr "Conectarse a una red cableada"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:36
-#| msgid ""
-#| "The network connection icon on the right-hand side of the top bar shows "
-#| "that you are off-line."
 msgid ""
 "The network connection icon on the right-hand side of the top bar shows that "
 "you are offline."
@@ -1174,11 +1167,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:38
-#| msgid ""
-#| "The off-line status can be caused by a number of reasons: for example, a "
-#| "network cable has been unplugged, the computer has been set to run in "
-#| "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
-#| "area."
 msgid ""
 "The offline status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
@@ -1225,7 +1213,6 @@ msgstr "Conectarse a una red inalámbrica"
 
 #. (itstool) path: steps/title
 #: C/gs-get-online.page:61
-#| msgid "Connect to a Wi-Fi network"
 msgid "To connect to a Wi-Fi (wireless) network:"
 msgstr "Para conectarse a una red inalámbrica (WiFi):"
 
@@ -1235,10 +1222,11 @@ msgid ""
 "Select <gui>Wi-Fi Not Connected</gui>. The Wi-Fi section of the menu will "
 "expand."
 msgstr ""
+"Seleccione <gui>Red inalámbrica no conectada</gui>. La sección de la red "
+"inalámbrica del menú se abrirá."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:71
-#| msgid "Click <gui>Close</gui>."
 msgid "Click <gui>Select Network</gui>."
 msgstr "Pulse <gui>Seleccionar red</gui>."
 
@@ -2286,7 +2274,6 @@ msgstr "Para personalizar lo que aparece en los resultados de búsqueda:"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:86
-#| msgid "Click the <gui>Select</gui> button."
 msgid "Click the <gui>Search</gui> panel."
 msgstr "Pulse el panel <gui>Buscar</gui>."
 
