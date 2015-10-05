@@ -23,8 +23,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2015-09-21 20:40+0000\n"
-"PO-Revision-Date: 2015-09-22 12:09+0200\n"
+"POT-Creation-Date: 2015-10-04 19:38+0000\n"
+"PO-Revision-Date: 2015-10-05 09:22+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -791,9 +791,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/gs-change-date-time-timezone.page:34
-#| msgctxt "_"
-#| msgid "external ref='gs-goa1.svg' md5='453f88bed412133019558a3eaaea5885'"
+#: C/gs-change-date-time-timezone.page:35
 msgctxt "_"
 msgid "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
 msgstr "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
@@ -816,23 +814,32 @@ msgid "Change the date, time and timezone"
 msgstr "Cambiar la fecha, hora y zona horaria"
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:28 C/gs-connect-online-accounts.page:28
-msgid "Click the system menu on the right side of the top bar."
+#: C/gs-change-date-time-timezone.page:28 C/gs-change-wallpaper.page:58
+#: C/gs-connect-online-accounts.page:28 C/gs-get-online.page:63
+#: C/gs-use-system-search.page:83
+#, fuzzy
+#| msgid "Click the system menu on the right side of the top bar."
+msgid ""
+"Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
+"right side of the top bar."
 msgstr "Pulse en el menú del sistema en la parte derecha de la barra superior."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:29 C/gs-connect-online-accounts.page:29
-msgid "Press the settings button at the bottom of the menu."
+#: C/gs-change-date-time-timezone.page:30 C/gs-change-wallpaper.page:60
+#: C/gs-connect-online-accounts.page:30 C/gs-use-system-search.page:85
+#, fuzzy
+#| msgid "Press the settings button at the bottom of the menu."
+msgid "Click the settings button at the bottom left of the menu."
 msgstr "Pulse el botón de configuración en la parte inferior del menú."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:30
-#| msgid "From the list of items, select <gui>Search</gui>."
-msgid "From the list of panels, select <gui>Date &amp; Time</gui>."
-msgstr "En la lista de paneles, seleccione <gui>Fecha y hora</gui>."
+#: C/gs-change-date-time-timezone.page:31
+#| msgid "Select <gui>Date &amp; Time Settings</gui>."
+msgid "Select the <gui>Date &amp; Time</gui> panel."
+msgstr "Seleccione el panel de <gui>Fecha y hora</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:37
+#: C/gs-change-date-time-timezone.page:38
 msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
 "then click the <gui>Time Zone</gui> item below."
@@ -841,10 +848,7 @@ msgstr ""
 "desactivado y pulse en <gui>Zona horaria</gui> más abajo."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:39
-#| msgid ""
-#| "Click on your location on the map. This selects your current city, which "
-#| "you can also search for in the search box above the map."
+#: C/gs-change-date-time-timezone.page:40
 msgid ""
 "Click on your location on the world map. This selects your current city, "
 "which you can also search for in the search box above the map."
@@ -853,10 +857,7 @@ msgstr ""
 "también puede buscar en la caja de búsqueda de encima del mapa."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:41
-#| msgid ""
-#| "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-#| "Settings</gui> window."
+#: C/gs-change-date-time-timezone.page:42
 msgid ""
 "Close the world map window to go back to the <gui>Date &amp; Time Settings</"
 "gui>."
@@ -865,7 +866,7 @@ msgstr ""
 "fecha y hora</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:43
+#: C/gs-change-date-time-timezone.page:44
 msgid ""
 "Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
 "off, and then click the <gui>Date &amp; Time</gui> item below to open the "
@@ -878,10 +879,7 @@ msgstr ""
 "los botones <gui>+</gui> o <gui>-</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:48
-#| msgid ""
-#| "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-#| "Settings</gui> window."
+#: C/gs-change-date-time-timezone.page:49
 msgid ""
 "Close the window to go back to the <gui>Date &amp; Time Settings</gui>, and "
 "then close the panel."
@@ -928,13 +926,13 @@ msgstr "Pulse la imagen de fondo actual."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:63
+#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:64
 msgid "Click the background image you want to use."
 msgstr "Pulse en la imagen de fondo que quiera utilizar."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:64
+#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:65
 msgid "Click the <gui>Select</gui> button."
 msgstr "Pulse el botón <gui>Seleccionar</gui>."
 
@@ -944,22 +942,13 @@ msgid "Close the <gui>Background</gui> window."
 msgstr "Cierre la ventana <gui>Fondo</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:58 C/gs-use-system-search.page:83
-msgid ""
-"Click the system menu on the right side of the top bar and press the "
-"settings button at the bottom of the menu."
-msgstr ""
-"Pulse en el menú del sistema en la parte derecha de la barra superior y "
-"pulse el botón de configuración en la parte inferior del menú."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:60
-#| msgid "From the list of items, select <gui>Background</gui>."
-msgid "From the list of panels, select <gui>Background</gui>."
-msgstr "En la lista de paneles, seleccione <gui>Fondo</gui>."
-
-#. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
+#| msgid "Close the <gui>Background</gui> window."
+msgid "Click the <gui>Background</gui> panel."
+msgstr "Pulse el panel <gui>Fondo</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:62
 msgid ""
 "Click the current background image on the left side of the <gui>Background</"
 "gui> window."
@@ -968,7 +957,7 @@ msgstr ""
 "de la ventana <gui>Fondo</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:65
+#: C/gs-change-wallpaper.page:66
 msgid ""
 "Close the <gui>Background</gui> window by clicking the cross at the top-"
 "right corner of the window."
@@ -994,19 +983,19 @@ msgid "Connect to online accounts"
 msgstr "Conectarse a cuentas en línea"
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:36
+#: C/gs-connect-online-accounts.page:37
 #| msgid ""
-#| "From the list of items, select <gui>Online Accounts</gui>, then click on "
+#| "From the list of panels, select <gui>Online Accounts</gui>, then click on "
 #| "the <gui>Add an online account</gui> button."
 msgid ""
-"From the list of panels, select <gui>Online Accounts</gui>, then click on "
-"the <gui>Add an online account</gui> button."
+"Click the <gui>Online Accounts</gui> panel, then click the <gui>Add an "
+"online account</gui> button."
 msgstr ""
-"En la lista de paneles, seleccione <gui>Cuentas en línea</gui> y pulse el "
-"botón <gui>Añadir una cuenta en línea</gui>."
+"Pulse el panel <gui>Cuentas en línea</gui> y pulse el botón <gui>Añadir una "
+"cuenta en línea</gui>."
 
 #. (itstool) path: note/p
-#: C/gs-connect-online-accounts.page:40
+#: C/gs-connect-online-accounts.page:41
 msgid ""
 "If you have set up an online account before, you can add another online "
 "account by clicking the <gui>+</gui> button at the bottom left corner of the "
@@ -1017,7 +1006,7 @@ msgstr ""
 "ventana."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:48
+#: C/gs-connect-online-accounts.page:49
 msgid ""
 "Click the online account you want to use. This will open a new window where "
 "you can sign in to your online account."
@@ -1026,7 +1015,7 @@ msgstr ""
 "donde puede iniciar sesión en su cuenta en línea."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:56
+#: C/gs-connect-online-accounts.page:57
 msgid ""
 "In most cases, you will have to grant access to the online service after "
 "signing in to get started."
@@ -1035,7 +1024,7 @@ msgstr ""
 "conceder acceso al servicio en línea para comenzar."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:58
+#: C/gs-connect-online-accounts.page:59
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
 "click the <gui>Grant Access</gui> button."
@@ -1044,7 +1033,7 @@ msgstr ""
 "<gui>Conceder acceso</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:66
+#: C/gs-connect-online-accounts.page:67
 msgid ""
 "Many online accounts let you choose the services you want to use with your "
 "online account. If you do not want to use a service, disable it by clicking "
@@ -1080,14 +1069,12 @@ msgstr "4"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:78 C/gs-datetime.svg:112
 #, no-wrap
-#| msgid "Changing Date &amp; Time"
 msgid "Date &amp; Time"
 msgstr "Fecha y hora"
 
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:80
 #, no-wrap
-#| msgid "Automatic Date and Time"
 msgid "Automatic Date &amp; Time"
 msgstr "Fecha y hora automáticas"
 
@@ -1109,7 +1096,6 @@ msgstr "I"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:95
 #, no-wrap
-#| msgid "Automatic Timezone"
 msgid "Automatic Time Zone"
 msgstr "Zona horaria automática"
 
@@ -1176,17 +1162,25 @@ msgstr "Conectarse a una red cableada"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:36
+#| msgid ""
+#| "The network connection icon on the right-hand side of the top bar shows "
+#| "that you are off-line."
 msgid ""
 "The network connection icon on the right-hand side of the top bar shows that "
-"you are off-line."
+"you are offline."
 msgstr ""
 "El icono de conexión de red que está en el lado derecho de la barra superior "
 "muestra que está desconectado."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:38
+#| msgid ""
+#| "The off-line status can be caused by a number of reasons: for example, a "
+#| "network cable has been unplugged, the computer has been set to run in "
+#| "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
+#| "area."
 msgid ""
-"The off-line status can be caused by a number of reasons: for example, a "
+"The offline status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
 "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
@@ -1229,17 +1223,27 @@ msgstr ""
 msgid "Connect to a Wi-Fi network"
 msgstr "Conectarse a una red inalámbrica"
 
-#. (itstool) path: item/p
+#. (itstool) path: steps/title
 #: C/gs-get-online.page:61
+#| msgid "Connect to a Wi-Fi network"
+msgid "To connect to a Wi-Fi (wireless) network:"
+msgstr "Para conectarse a una red inalámbrica (WiFi):"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:67
 msgid ""
-"To connect to a Wi-Fi (wireless) network, click the status menu at the top "
-"right of the screen, and then click <gui>Select Network</gui>."
+"Select <gui>Wi-Fi Not Connected</gui>. The Wi-Fi section of the menu will "
+"expand."
 msgstr ""
-"Para conectarse a una red inalámbrica (Wi-Fi), pulse en el menú de estado en "
-"la parte derecha de la pantalla y luego pulse en <gui>Seleccionar red</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:71
+#| msgid "Click <gui>Close</gui>."
+msgid "Click <gui>Select Network</gui>."
+msgstr "Pulse <gui>Seleccionar red</gui>."
 
 #. (itstool) path: note/p
-#: C/gs-get-online.page:67
+#: C/gs-get-online.page:76
 msgid ""
 "You can only connect to a Wi-Fi network if your computer hardware supports "
 "it and you are in an area with Wi-Fi coverage."
@@ -1248,7 +1252,7 @@ msgstr ""
 "soporta y si está en el área de cobertura de la red inalámbrica."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:75
+#: C/gs-get-online.page:84
 msgid ""
 "From the list of available Wi-Fi networks, select the network you want to "
 "connect to, and click <gui>Connect</gui> to confirm."
@@ -1257,7 +1261,7 @@ msgstr ""
 "disponibles y pulse <gui>Conectar</gui> para confirmar."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:77
+#: C/gs-get-online.page:86
 msgid ""
 "Depending on the network configuration, you may be prompted for network "
 "credentials."
@@ -2275,19 +2279,19 @@ msgstr ""
 "búsqueda en la <gui>Vista de actividades</gui>. Por ejemplo, puede decidir "
 "si quiere mostrar los resultados para los sitios web, fotografías o música."
 
-#. (itstool) path: section/p
-#: C/gs-use-system-search.page:80
+#. (itstool) path: steps/title
+#: C/gs-use-system-search.page:82
 msgid "To customize what is displayed in the search results:"
 msgstr "Para personalizar lo que aparece en los resultados de búsqueda:"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:85
-#| msgid "From the list of items, select <gui>Search</gui>."
-msgid "From the list of panels, select <gui>Search</gui>."
-msgstr "En la lista de paneles, seleccione <gui>Buscar</gui>."
+#: C/gs-use-system-search.page:86
+#| msgid "Click the <gui>Select</gui> button."
+msgid "Click the <gui>Search</gui> panel."
+msgstr "Pulse el panel <gui>Buscar</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:86
+#: C/gs-use-system-search.page:87
 msgid ""
 "In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
 "the search location you want to enable or disable."
@@ -2432,11 +2436,35 @@ msgstr "planet.gnome.org"
 msgid "Planet GNOME"
 msgstr "Planeta GNOME"
 
+#~| msgid "From the list of items, select <gui>Search</gui>."
+#~ msgid "From the list of panels, select <gui>Date &amp; Time</gui>."
+#~ msgstr "En la lista de paneles, seleccione <gui>Fecha y hora</gui>."
+
+#~ msgid ""
+#~ "Click the system menu on the right side of the top bar and press the "
+#~ "settings button at the bottom of the menu."
+#~ msgstr ""
+#~ "Pulse en el menú del sistema en la parte derecha de la barra superior y "
+#~ "pulse el botón de configuración en la parte inferior del menú."
+
+#~| msgid "From the list of items, select <gui>Background</gui>."
+#~ msgid "From the list of panels, select <gui>Background</gui>."
+#~ msgstr "En la lista de paneles, seleccione <gui>Fondo</gui>."
+
+#~ msgid ""
+#~ "To connect to a Wi-Fi (wireless) network, click the status menu at the "
+#~ "top right of the screen, and then click <gui>Select Network</gui>."
+#~ msgstr ""
+#~ "Para conectarse a una red inalámbrica (Wi-Fi), pulse en el menú de estado "
+#~ "en la parte derecha de la pantalla y luego pulse en <gui>Seleccionar red</"
+#~ "gui>."
+
+#~| msgid "From the list of items, select <gui>Search</gui>."
+#~ msgid "From the list of panels, select <gui>Search</gui>."
+#~ msgstr "En la lista de paneles, seleccione <gui>Buscar</gui>."
+
 #~ msgid "Click the clock on the top bar."
 #~ msgstr "Pulse el reloj en la barra superior."
-
-#~ msgid "Select <gui>Date &amp; Time Settings</gui>."
-#~ msgstr "Seleccione <gui>Configuración de fecha y hora</gui>."
 
 #~ msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
 #~ msgstr ""
@@ -2448,9 +2476,6 @@ msgstr "Planeta GNOME"
 
 #~ msgid "Click on your location on the map."
 #~ msgstr "Pulse en su ubicación en el mapa."
-
-#~ msgid "Click <gui>Close</gui>."
-#~ msgstr "Pulse <gui>Cerrar</gui>."
 
 #~ msgid "Close the window."
 #~ msgstr "Cierre la ventana."
