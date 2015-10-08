@@ -20,20 +20,22 @@
       <style type="text/css">
       #cursor1 {
         transform-origin: top left;
-        animation: cursor-move 2s ease 1s, fade-in 1s linear 0s, cursor-click .25s ease 3s alternate 2;
+        animation: cursor-move 4s ease infinite, 
+                          fade-in 4s linear infinite, 
+                          cursor-click 4s ease infinite;
         }
       @keyframes fade-in {
-        from { opacity: 0;  }
-        to {  opacity: 1; }
+        0% { opacity: 0;  }
+        30% {  opacity: 1; }
       }
       @keyframes cursor-move {
-        0% { opacity: 1;  }
-        /* 50% { opacity: 1; transform: translate(80px,-50px); } */
-        100% {  opacity: 1; transform: translate(100px,-100px);}
+        30% { opacity: 1;  }
+        90% {  opacity: 1; transform: translate(100px,-100px);}
       }
       @keyframes cursor-click {
-        from { transform: translate(100px,-100px) scale(1); }
-        to { transform: translate(100px,-100px) scale(.5); }
+        90% { transform: translate(100px,-100px) scale(1); }
+        92% { transform: translate(100px,-100px) scale(.5); }
+        100% { transform: translate(100px,-100px) scale(1); }
       }
    </style>
   <defs
