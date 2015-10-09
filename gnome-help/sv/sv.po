@@ -1,27 +1,29 @@
 # Swedish translation for gnome-getting-started-docs.
-# Copyright (C) 2014 gnome-getting-started-docs's COPYRIGHT HOLDER
+# Copyright © 2014, 2015 gnome-getting-started-docs's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-getting-started-docs package.
-# Sebastian Rasmussen <sebras@gmail.com>, 2014.
+# Sebastian Rasmussen <sebras@gmail.com>, 2014, 2015.
+# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2015-07-12 07:12+0000\n"
-"PO-Revision-Date: 2015-07-12 21:01+0200\n"
-"Last-Translator: Sebastian Rasmussen <sebras@gmail.com>\n"
+"POT-Creation-Date: 2015-10-01 19:41+0000\n"
+"PO-Revision-Date: 2015-10-07 19:21+0200\n"
+"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
 "Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.2\n"
+"X-Generator: Poedit 1.8.5\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
 msgstr ""
-"Sebastian Rasmussen <sebras@gmail.com>, 2014<\n"
+"Sebastian Rasmussen <sebras@gmail.com>, 2014, 2015\n"
+"Anders Jonsson <anders.jonsson@norsjovallen.se>, 2015\n"
 "\n"
 "Skicka synpunkter på översättningen till\n"
 "<tp-sv@listor.tp-sv.se>."
@@ -498,13 +500,13 @@ msgid "14 October 2013, 14:00"
 msgstr "14 Oktober 2013, 14:00"
 
 #. (itstool) path: credit/name
-#: C/gs-browse-web.page:9 C/gs-browse-web-firefox.page:10 C/gs-change-date-time-timezone.page:10 C/gs-change-wallpaper.page:9 C/gs-connect-online-accounts.page:9 C/gs-get-online.page:9
+#: C/gs-browse-web.page:9 C/gs-browse-web-firefox.page:10 C/gs-change-date-time-timezone.page:9 C/gs-change-wallpaper.page:9 C/gs-connect-online-accounts.page:9 C/gs-get-online.page:9
 #: C/gs-launch-applications.page:9 C/gs-respond-messages.page:9 C/gs-switch-tasks.page:10 C/gs-use-system-search.page:9 C/gs-use-windows-workspaces.page:9
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
 #. (itstool) path: credit/name
-#: C/gs-browse-web.page:12 C/gs-browse-web-firefox.page:13 C/gs-change-date-time-timezone.page:13 C/gs-change-wallpaper.page:12 C/gs-connect-online-accounts.page:12 C/gs-get-online.page:12
+#: C/gs-browse-web.page:12 C/gs-browse-web-firefox.page:13 C/gs-change-date-time-timezone.page:12 C/gs-change-wallpaper.page:12 C/gs-connect-online-accounts.page:12 C/gs-get-online.page:12
 #: C/gs-launch-applications.page:12 C/gs-respond-messages.page:12 C/gs-switch-tasks.page:13 C/gs-use-system-search.page:12 C/gs-use-windows-workspaces.page:12
 msgid "Petr Kovar"
 msgstr "Petr Kovar"
@@ -582,86 +584,65 @@ msgstr "Klicka på menyn <gui>Program</gui> längst upp till vänster på skärm
 msgid "From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </guiseq>."
 msgstr "Från menyn, välj <guiseq><gui>Internet</gui><gui>Firefox</gui> </guiseq>."
 
+#. (itstool) path: media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-change-date-time-timezone.page:35
+msgctxt "_"
+msgid "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
+msgstr "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
+
 #. (itstool) path: info/title
-#: C/gs-change-date-time-timezone.page:16
+#: C/gs-change-date-time-timezone.page:15
 msgctxt "link:trail"
 msgid "Change the date, time and timezone"
 msgstr "Ändra datum, tid och tidszon"
 
 #. (itstool) path: info/title
-#: C/gs-change-date-time-timezone.page:18
+#: C/gs-change-date-time-timezone.page:17
 msgctxt "link:seealso"
 msgid "A tutorial on changing the date, time and timezone"
 msgstr "En handledning i att ändra datum, tid och tidszon"
 
 #. (itstool) path: page/title
-#. (itstool) path: section/title
-#: C/gs-change-date-time-timezone.page:23 C/gs-change-date-time-timezone.page:61
+#: C/gs-change-date-time-timezone.page:22
 msgid "Change the date, time and timezone"
 msgstr "Ändra datum, tid och tidszon"
 
-#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:28 C/gs-change-wallpaper.page:58 C/gs-connect-online-accounts.page:28 C/gs-get-online.page:63 C/gs-use-system-search.page:83
+msgid "Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the right side of the top bar."
+msgstr "Klicka på <gui xref=\"shell-introduction#yourname\">systemmenyn</gui> på höger sida av systemraden."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:30 C/gs-change-wallpaper.page:60 C/gs-connect-online-accounts.page:30 C/gs-use-system-search.page:85
+msgid "Click the settings button at the bottom left of the menu."
+msgstr "Tryck på inställningsknappen längst ner till vänster i menyn."
+
+#. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:31
-msgid "Changing Date &amp; Time"
-msgstr "Ändra datum &amp; tid"
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:34
-msgid "Click the clock on the top bar."
-msgstr "Klicka på klockan i systemraden."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:37
-msgid "Select <gui>Date &amp; Time Settings</gui>."
-msgstr "Välj <gui>Datum- &amp; tidsinställningar</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:40
-msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
-msgstr "Säkerställ att <gui>Automatisk tidszon</gui> är avstängt."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:44
-msgid "Click <gui>Time Zone</gui>."
-msgstr "Klicka på <gui>Tidszon</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:47
-msgid "Click on your location on the map."
-msgstr "Klicka på din position på kartan."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:50
-msgid "Click <gui>Close</gui>."
-msgstr "Klicka på <gui>Stäng</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:53
-msgid "Close the window."
-msgstr "Stäng fönstret."
+msgid "Select the <gui>Date &amp; Time</gui> panel."
+msgstr "Välj panelen <gui>Datum &amp; tid</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:64
-msgid "Click the clock on the top bar and select the <gui>Date &amp; Time Settings</gui> item."
-msgstr "Klicka på klockan i systemraden och välj menyalternativet <gui>Datum- &amp; tidsinställningar</gui>."
-
-#. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:66
+#: C/gs-change-date-time-timezone.page:38
 msgid "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and then click the <gui>Time Zone</gui> item below."
 msgstr "Säkerställ att menyalternativet <gui>Automatisk tidszon</gui> är avstängt, och klicka sedan nedanför på menyalternativet <gui>Tidszon</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:68
-msgid "Click on your location on the map. This selects your current city, which you can also search for in the search box above the map."
-msgstr "Klicka på din position på kartan. Detta väljer din aktuella stad, som du också kan söka efter i sökrutan ovanför kartan."
+#: C/gs-change-date-time-timezone.page:40
+msgid "Click on your location on the world map. This selects your current city, which you can also search for in the search box above the map."
+msgstr "Klicka på din position på världskartan. Detta väljer din aktuella stad, som du också kan söka efter i sökrutan ovanför kartan."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:71
-msgid "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time Settings</gui> window."
-msgstr "Klicka på <gui>Stäng</gui>-knappen för att gå tillbaka till fönstret <gui>Datum- &amp; tidsinställningar</gui>."
+#: C/gs-change-date-time-timezone.page:42
+msgid "Close the world map window to go back to the <gui>Date &amp; Time Settings</gui>."
+msgstr "Stäng världskartan för att gå tillbaka till <gui>Datum- &amp; tidsinställningar</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:73
+#: C/gs-change-date-time-timezone.page:44
 msgid ""
 "Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched off, and then click the <gui>Date &amp; Time</gui> item below to open the <gui>Date &amp; Time</gui> window. There you can adjust your "
 "date and time settings by clicking on the <gui>+</gui> or <gui>-</gui> buttons."
@@ -670,10 +651,9 @@ msgstr ""
 "kan du justera dina datum- och tidsinställningar genom att klicka på <gui>+</gui>- eller <gui>-</gui>-knapparna."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:78
-msgid "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time Settings</gui> window, and then close that window by clicking the cross at the top-right corner of that window."
-msgstr ""
-"Klicka på <gui>Stäng</gui>-knappen för att gå tillbaka till fönstret <gui>Datum- &amp; tidsinställningar</gui>, och stäng sedan det fönstret genom att klicka på krysset i det övre högra hörnet på det fönstret."
+#: C/gs-change-date-time-timezone.page:49
+msgid "Close the window to go back to the <gui>Date &amp; Time Settings</gui>, and then close the panel."
+msgstr "Stäng fönstret för att gå tillbaka till <gui>Datum- &amp; tidsinställningar</gui> och stäng sedan panelen."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:15
@@ -710,13 +690,13 @@ msgstr "Klicka på den aktuella bakgrundsbilden."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:63
+#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:64
 msgid "Click the background image you want to use."
 msgstr "Klicka på den bakgrundsbild som du vill använda."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:64
+#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:65
 msgid "Click the <gui>Select</gui> button."
 msgstr "Klicka på <gui>Välj</gui>-knappen."
 
@@ -726,22 +706,17 @@ msgid "Close the <gui>Background</gui> window."
 msgstr "Stäng <gui>Bakgrunds</gui>-fönstret."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:58 C/gs-use-system-search.page:83
-msgid "Click the system menu on the right side of the top bar and press the settings button at the bottom of the menu."
-msgstr "Klicka på systemmenyn på högersidan av systemraden och tryck på inställningsknappen i botten av menyn."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:60
-msgid "From the list of items, select <gui>Background</gui>."
-msgstr "Från listan av alternativ, välj <gui>Bakgrund</gui>."
-
-#. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
+msgid "Click the <gui>Background</gui> panel."
+msgstr "Klicka på panelen <gui>Bakgrund</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:62
 msgid "Click the current background image on the left side of the <gui>Background</gui> window."
 msgstr "Klicka på den aktuella bakgrundsbilden på vänster sida av <gui>Bakgrunds</gui>-fönstret."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:65
+#: C/gs-change-wallpaper.page:66
 msgid "Close the <gui>Background</gui> window by clicking the cross at the top-right corner of the window."
 msgstr "Stäng <gui>Bakgrunds</gui>-fönstret genom att klicka på korset i fönstrets övre högra hörn."
 
@@ -763,46 +738,111 @@ msgid "Connect to online accounts"
 msgstr "Ansluta till nätkonton"
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:28
-msgid "Click the system menu on the right side of the top bar."
-msgstr "Klicka på systemmenyn på höger sida av systemraden."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:29
-msgid "Press the settings button at the bottom of the menu."
-msgstr "Tryck på inställningsknappen i botten av menyn."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:36
-msgid "From the list of items, select <gui>Online Accounts</gui>, then click on the <gui>Add an online account</gui> button."
-msgstr "Från listan av alternativ, välj <gui>Nätkonton</gui>, klicka sedan på knappen <gui>Lägg till ett nätkonto</gui>."
+#: C/gs-connect-online-accounts.page:37
+msgid "Click the <gui>Online Accounts</gui> panel, then click the <gui>Add an online account</gui> button."
+msgstr "Klicka på panelen <gui>Nätkonton</gui>, klicka sedan på knappen <gui>Lägg till ett nätkonto</gui>."
 
 #. (itstool) path: note/p
-#: C/gs-connect-online-accounts.page:40
+#: C/gs-connect-online-accounts.page:41
 msgid "If you have set up an online account before, you can add another online account by clicking the <gui>+</gui> button at the bottom left corner of the window."
 msgstr "Om du har ställt in ett nätkonto tidigare, så kan du lägga till ytterligare nätkonton genom att klicka på <gui>+</gui>-knappen i det nedre vänstra hörnet av fönstret."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:48
+#: C/gs-connect-online-accounts.page:49
 msgid "Click the online account you want to use. This will open a new window where you can sign in to your online account."
 msgstr "Klicka på det nätkonto som du vill använda. Detta kommer att öppna ett nytt fönster där du kan logga in på ditt nätkonto."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:56
+#: C/gs-connect-online-accounts.page:57
 msgid "In most cases, you will have to grant access to the online service after signing in to get started."
 msgstr "I de flesta fall så kommer du att vara tvungen att bevilja tillgång till nättjänsten efter inloggningen för att komma igång."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:58
+#: C/gs-connect-online-accounts.page:59
 msgid "For example, if you are connecting to your Google account, you will have to click the <gui>Grant Access</gui> button."
 msgstr "Till exempel, om du kopplar upp dig mot ditt Google-konto, så måste du klicka på knappen <gui>Bevilja tillgång</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:66
+#: C/gs-connect-online-accounts.page:67
 msgid ""
 "Many online accounts let you choose the services you want to use with your online account. If you do not want to use a service, disable it by clicking the <gui>ON/OFF</gui> switch on the right-hand side of the "
 "window."
 msgstr "Många nätkonton låter dig välja de tjänster du vill använda med ditt nätkonto. Om du inte vill använda en tjänst, inaktivera den genom att klicka på <gui>AV/PÅ</gui>-brytaren på högersidan av fönstret."
+
+#. (itstool) path: Work/format
+#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36 C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265 C/gs-go-online3.svg:293 C/gs-search1.svg:97
+#: C/gs-search2.svg:133 C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:39 C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36 C/gs-thumb-task-switching.svg:89
+#: C/gs-thumb-timezone.svg:41 C/gs-thumb-windows-and-workspaces.svg:89 C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108 C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
+#: C/gs-web-browser2.svg:102
+msgid "image/svg+xml"
+msgstr "image/svg+xml"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:60 C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138 C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
+#, no-wrap
+msgid "4"
+msgstr "4"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:78 C/gs-datetime.svg:112
+#, no-wrap
+msgid "Date &amp; Time"
+msgstr "Datum &amp; tid"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:80
+#, no-wrap
+msgid "Automatic Date &amp; Time"
+msgstr "Automatisk datum &amp; tid"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:81 C/gs-datetime.svg:96
+#, no-wrap
+msgid "Requires internet access"
+msgstr "Kräver internetåtkomst"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:87 C/gs-datetime.svg:102 C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121 C/gs-goa5.svg:122 C/gs-search-settings.svg:155 C/gs-search-settings.svg:272
+#: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
+#, no-wrap
+msgid "ON"
+msgstr "PÅ"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:95
+#, no-wrap
+msgid "Automatic Time Zone"
+msgstr "Automatisk tidszon"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:113
+#, no-wrap
+msgid "September 1st 2015, 9:51 AM"
+msgstr "1 september 2015, 09:51"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:114
+#, no-wrap
+msgid "Time Zone"
+msgstr "Tidszon"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:115
+#, no-wrap
+msgid "EDT (New York, United States)"
+msgstr "CEST (Stockholm, Sverige)"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:119
+#, no-wrap
+msgid "Time Format"
+msgstr "Tidsformat"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:121
+#, no-wrap
+msgid "24-hour"
+msgstr "24-timmars"
 
 #. (itstool) path: info/title
 #: C/gs-get-online.page:15
@@ -833,13 +873,13 @@ msgstr "Ansluta till ett trådbundet nätverk"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:36
-msgid "The network connection icon on the right-hand side of the top bar shows that you are off-line."
+msgid "The network connection icon on the right-hand side of the top bar shows that you are offline."
 msgstr "Nätverksikonen på högersidan av systemraden visar att du är nedkopplad."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:38
 msgid ""
-"The off-line status can be caused by a number of reasons: for example, a network cable has been unplugged, the computer has been set to run in <em>airplane mode</em>, or there are no available Wi-Fi networks in "
+"The offline status can be caused by a number of reasons: for example, a network cable has been unplugged, the computer has been set to run in <em>airplane mode</em>, or there are no available Wi-Fi networks in "
 "your area."
 msgstr ""
 "Att vara nedkopplad kan ha flera orsaker: till exempel en nätverkskabel har kopplats ur, datorn har blivit inställd att köras i <em>flygplansläge</em>, eller så finns det inga tillgängliga trådlösa nätverk i "
@@ -848,7 +888,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/gs-get-online.page:42
 msgid "If you want to use a wired connection, just plug in a network cable to go online. The computer will try to set up the network connection for you automatically."
-msgstr "Om du vill använda en tråbunden uppkoppling, koppla bara in en nätverkskabel för att ansluta till nätet. Datorn kommer att försöka ställa in nätverksuppkopplingen åt dig automatiskt."
+msgstr "Om du vill använda en trådbunden uppkoppling, koppla bara in en nätverkskabel för att ansluta till nätet. Datorn kommer att försöka ställa in nätverksuppkopplingen åt dig automatiskt."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:45
@@ -865,32 +905,35 @@ msgstr "När nätverksuppkopplingen har ställts in korrekt så ändras nätverk
 msgid "Connect to a Wi-Fi network"
 msgstr "Ansluta till ett trådlöst nätverk"
 
-#. (itstool) path: item/p
+#. (itstool) path: steps/title
 #: C/gs-get-online.page:61
-msgid "To connect to a Wi-Fi (wireless) network, click the status menu at the top right of the screen, and then click <gui>Select Network</gui>."
-msgstr "För att ansluta till ett trådlöst nätverk (Wi-Fi), klicka på statusmenyn längst upp till höger på skärmen och klicka sedan på <gui>Välj nätverk</gui>."
+msgid "To connect to a Wi-Fi (wireless) network:"
+msgstr "För att ansluta till ett trådlöst nätverk:"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:67
+msgid "Select <gui>Wi-Fi Not Connected</gui>. The Wi-Fi section of the menu will expand."
+msgstr "Välj <gui>Trådlöst nätverk ej anslutet</gui>. Då kommer avdelningen om trådlösa nätverk att expanderas."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:71
+msgid "Click <gui>Select Network</gui>."
+msgstr "Klicka på <gui>Välj nätverk</gui>."
 
 #. (itstool) path: note/p
-#: C/gs-get-online.page:67
+#: C/gs-get-online.page:76
 msgid "You can only connect to a Wi-Fi network if your computer hardware supports it and you are in an area with Wi-Fi coverage."
 msgstr "Du kan bara ansluta till ett trådlöst nätverk om din datorhårdvara har stöd för det och du befinner dig i ett område med täckning av minst ett trådlöst nätverk."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:75
+#: C/gs-get-online.page:84
 msgid "From the list of available Wi-Fi networks, select the network you want to connect to, and click <gui>Connect</gui> to confirm."
 msgstr "Från listan av tillgängliga trådlösa nätverk, välj det nätverk som du vill ansluta till och klicka <gui>Koppla upp</gui> för att bekräfta."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:77
+#: C/gs-get-online.page:86
 msgid "Depending on the network configuration, you may be prompted for network credentials."
 msgstr "Beroende på nätverkskonfigurationen, så kan du komma att bli ombedd att ange inloggningsuppgifter för nätverket."
-
-#. (itstool) path: Work/format
-#: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36 C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265 C/gs-go-online3.svg:293 C/gs-search1.svg:97 C/gs-search2.svg:133
-#: C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:39 C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36 C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
-#: C/gs-thumb-windows-and-workspaces.svg:89 C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108 C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100 C/gs-web-browser2.svg:102
-msgid "image/svg+xml"
-msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278 C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101 C/gs-thumb-timezone.svg:135 C/gs-web-browser1-firefox-classic.svg:115
@@ -923,12 +966,6 @@ msgstr "Nätkonton"
 #, no-wrap
 msgid "Add an online account"
 msgstr "Lägg till ett nätkonto"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138 C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
-#, no-wrap
-msgid "4"
-msgstr "4"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:66
@@ -1081,14 +1118,8 @@ msgid "Documents"
 msgstr "Dokument"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121 C/gs-goa5.svg:122 C/gs-search-settings.svg:155 C/gs-search-settings.svg:272 C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
-#, no-wrap
-msgid "ON"
-msgstr "PÅ"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152 C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205 C/gs-thumb-responding-to-messages.svg:52
-#: C/gs-thumb-task-switching.svg:168 C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
+#: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152 C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205 C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
+#: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
 msgid "14:30"
 msgstr "14:30"
@@ -1774,18 +1805,18 @@ msgstr "Anpassa sökresultat"
 msgid "GNOME lets you customize what you want to display in the search results in the <gui>Activities Overview</gui>. For example, you can choose whether you want to show results for websites, photos, or music."
 msgstr "GNOME låter dig anpassa vad som du vill ska visas bland sökresultaten i <gui>Aktivitetsöversikt</gui>. Till exempel så kan du välja om du vill visa resultat för webbplatser, foto eller musik."
 
-#. (itstool) path: section/p
-#: C/gs-use-system-search.page:80
+#. (itstool) path: steps/title
+#: C/gs-use-system-search.page:82
 msgid "To customize what is displayed in the search results:"
 msgstr "För att anpassa vad som ska visas bland sökresultaten:"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:85
-msgid "From the list of items, select <gui>Search</gui>."
-msgstr "Välj <gui>Sök</gui> från listan av alternativ."
+#: C/gs-use-system-search.page:86
+msgid "Click the <gui>Search</gui> panel."
+msgstr "Klicka på panelen <gui>Sök</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:86
+#: C/gs-use-system-search.page:87
 msgid "In the list of search locations, click the <gui>ON/OFF</gui> switch next to the search location you want to enable or disable."
 msgstr "I listan över sökplatser, klicka på <gui>AV/PÅ</gui>-brytaren intill sökplatsen som du vill slå av eller slå på."
 
@@ -1898,6 +1929,40 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
+
+#~ msgid "Click the clock on the top bar."
+#~ msgstr "Klicka på klockan i systemraden."
+
+#~ msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
+#~ msgstr "Säkerställ att <gui>Automatisk tidszon</gui> är avstängt."
+
+#~ msgid "Click <gui>Time Zone</gui>."
+#~ msgstr "Klicka på <gui>Tidszon</gui>."
+
+#~ msgid "Click on your location on the map."
+#~ msgstr "Klicka på din position på kartan."
+
+#~ msgid "Close the window."
+#~ msgstr "Stäng fönstret."
+
+#~ msgid "Click the clock on the top bar and select the <gui>Date &amp; Time Settings</gui> item."
+#~ msgstr "Klicka på klockan i systemraden och välj menyalternativet <gui>Datum- &amp; tidsinställningar</gui>."
+
+#~ msgid "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time Settings</gui> window, and then close that window by clicking the cross at the top-right corner of that window."
+#~ msgstr ""
+#~ "Klicka på <gui>Stäng</gui>-knappen för att gå tillbaka till fönstret <gui>Datum- &amp; tidsinställningar</gui>, och stäng sedan det fönstret genom att klicka på krysset i det övre högra hörnet på det fönstret."
+
+#~ msgid "Click the system menu on the right side of the top bar and press the settings button at the bottom of the menu."
+#~ msgstr "Klicka på systemmenyn på högersidan av systemraden och tryck på inställningsknappen i botten av menyn."
+
+#~ msgid "From the list of items, select <gui>Background</gui>."
+#~ msgstr "Från listan av alternativ, välj <gui>Bakgrund</gui>."
+
+#~ msgid "To connect to a Wi-Fi (wireless) network, click the status menu at the top right of the screen, and then click <gui>Select Network</gui>."
+#~ msgstr "För att ansluta till ett trådlöst nätverk (Wi-Fi), klicka på statusmenyn längst upp till höger på skärmen och klicka sedan på <gui>Välj nätverk</gui>."
+
+#~ msgid "From the list of items, select <gui>Search</gui>."
+#~ msgstr "Välj <gui>Sök</gui> från listan av alternativ."
 
 #~ msgid "Move your mouse to the message tray at the bottom of the screen and click the chat message."
 #~ msgstr "Flytta din musmarkör till meddelandefältet vid botten av skärmen och klicka på chatt-meddelandet."
