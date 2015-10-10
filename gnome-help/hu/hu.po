@@ -5,9 +5,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started master\n"
-"POT-Creation-Date: 2015-04-27 07:08+0000\n"
-"PO-Revision-Date: 2015-04-27 12:02+0200\n"
-"Last-Translator: Gabor Kelemen <kelemeng at gnome dot hu>\n"
+"POT-Creation-Date: 2015-10-09 19:43+0000\n"
+"PO-Revision-Date: 2015-10-10 13:00+0200\n"
+"Last-Translator: Gabor Kelemen <kelemeng at ubuntu dot com>\n"
 "Language-Team: Hungarian <openscope at gmail dot com>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Kelemen Gábor <kelemeng at gnome dot hu>, 2013."
+msgstr "Kelemen Gábor <kelemeng at gnome dot hu>, 2013, 2015."
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:11
@@ -58,8 +58,8 @@ msgid "Launching Applications"
 msgstr "Alkalmazások indítása"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:33 C/getting-started.page:154
-#: C/gs-launch-applications.page:33 C/gs-switch-tasks.page:36
+#: C/getting-started.page:33 C/getting-started.page:155
+#: C/gs-launch-applications.page:33 C/gs-switch-tasks.page:34
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen."
@@ -143,8 +143,8 @@ msgstr ""
 "méretét."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:89 C/getting-started.page:161
-#: C/gs-switch-tasks.page:43 C/gs-use-windows-workspaces.page:47
+#: C/getting-started.page:89 C/getting-started.page:163
+#: C/gs-switch-tasks.page:42 C/gs-use-windows-workspaces.page:47
 msgid ""
 "To maximize a window along the left side of the screen, grab the window's "
 "titlebar and drag it to the left."
@@ -154,8 +154,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #: C/getting-started.page:93 C/getting-started.page:101
-#: C/getting-started.page:165 C/getting-started.page:173
-#: C/gs-switch-tasks.page:47 C/gs-switch-tasks.page:55
+#: C/getting-started.page:167 C/getting-started.page:175
+#: C/gs-switch-tasks.page:46 C/gs-switch-tasks.page:54
 #: C/gs-use-windows-workspaces.page:51 C/gs-use-windows-workspaces.page:59
 msgid "When half of the screen is highlighted, release the window."
 msgstr "Amikor a képernyő fele kiemelésre kerül, ejtse rá az ablakot."
@@ -244,25 +244,25 @@ msgstr ""
 #. (itstool) path: page/title
 #. (itstool) path: section/title
 #: C/getting-started.page:146 C/gs-switch-tasks.page:22
-#: C/gs-switch-tasks.page:96
+#: C/gs-switch-tasks.page:90
 msgid "Switch tasks"
 msgstr "Feladatváltás"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:151 C/gs-animation.xml:8 C/gs-switch-tasks.page:33
+#: C/getting-started.page:151 C/gs-animation.xml:8 C/gs-switch-tasks.page:30
 msgid "Switching Tasks"
 msgstr "Feladatváltás"
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:158 C/gs-switch-tasks.page:40
-#: C/gs-switch-tasks.page:105
+#: C/getting-started.page:160 C/gs-switch-tasks.page:39
+#: C/gs-switch-tasks.page:99
 msgid "Click a window to switch to that task."
 msgstr "Kattintson egy ablakra az adott feladatra váltáshoz."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:169 C/gs-switch-tasks.page:51
+#: C/getting-started.page:171 C/gs-switch-tasks.page:50
 msgid ""
 "To maximize a window along the right side, grab the window's titlebar and "
 "drag it to the right."
@@ -271,7 +271,7 @@ msgstr ""
 "címsorát, és húzza a képernyő jobb széléhez."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:177 C/gs-switch-tasks.page:59
+#: C/getting-started.page:179 C/gs-switch-tasks.page:58
 msgid ""
 "Press <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
 "key><key> Tab</key></keyseq> to show the <gui>window switcher</gui>."
@@ -281,7 +281,7 @@ msgstr ""
 "megjelenítéséhez."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:182 C/gs-switch-tasks.page:64
+#: C/getting-started.page:184 C/gs-switch-tasks.page:63
 msgid ""
 "Release <key href=\"help:gnome-help/keyboard-key-super\">Super </key> to "
 "select the next highlighted window."
@@ -291,8 +291,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:187 C/gs-switch-tasks.page:69
-#: C/gs-switch-tasks.page:150
+#: C/getting-started.page:189 C/gs-switch-tasks.page:68
+#: C/gs-switch-tasks.page:144
 msgid ""
 "To cycle through the list of open windows, do not release <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> but hold it down, and press "
@@ -303,7 +303,7 @@ msgstr ""
 "lenyomva, és nyomja meg a <key>Tab</key> billentyűt."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:192 C/gs-switch-tasks.page:74
+#: C/getting-started.page:194 C/gs-switch-tasks.page:73
 msgid ""
 "Press the <key href=\"help:gnome-help/keyboard-key-super\">Super </key> key "
 "to show the <gui>Activities Overview</gui>."
@@ -312,12 +312,12 @@ msgstr ""
 "billentyűt a <gui>Tevékenységek áttekintés</gui> megjelenítéséhez."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:196 C/gs-switch-tasks.page:78
+#: C/getting-started.page:198 C/gs-switch-tasks.page:77
 msgid "Start typing the name of the application you want to switch to."
 msgstr "Kezdje el beírni az alkalmazás nevét az átváltáshoz."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:200 C/gs-switch-tasks.page:82
+#: C/getting-started.page:202 C/gs-switch-tasks.page:81
 msgid ""
 "When the application appears as the first result, press <key> Enter</key> to "
 "switch to it."
@@ -327,31 +327,28 @@ msgstr ""
 
 #. (itstool) path: caption/desc
 #. (itstool) path: page/title
-#: C/getting-started.page:212 C/gs-respond-messages.page:21
+#: C/getting-started.page:214 C/gs-respond-messages.page:21
 msgid "Respond to messages"
 msgstr "Üzenetek megválaszolása"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:218 C/gs-animation.xml:7
+#: C/getting-started.page:220 C/gs-animation.xml:7
 #: C/gs-respond-messages.page:29
 msgid "Responding to Messages"
 msgstr "Üzenetek megválaszolása"
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:221 C/gs-respond-messages.page:32
+#: C/getting-started.page:223 C/gs-respond-messages.page:32
 #: C/gs-respond-messages.page:80
-#| msgid ""
-#| "Move your mouse pointer to the <gui>Activities</gui> corner at the top "
-#| "left of the screen."
 msgid ""
 "Move your mouse over the chat message that appears near the top of the "
 "screen."
 msgstr "Vigye az egérmutatót a képernyő tetején megjelenő csevegési üzenetre."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:225 C/gs-respond-messages.page:36
+#: C/getting-started.page:227 C/gs-respond-messages.page:36
 msgid ""
 "Start typing your reply and when finished, press <key>Enter </key> to send "
 "the reply."
@@ -360,72 +357,58 @@ msgstr ""
 "billentyűt az elküldéséhez."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:229 C/gs-respond-messages.page:40
+#: C/getting-started.page:231 C/gs-respond-messages.page:40
 msgid "Close the chat message."
 msgstr "Zárja be a csevegési üzenetet."
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:232 C/gs-animation.xml:9
+#: C/getting-started.page:234 C/gs-animation.xml:9
 #: C/gs-respond-messages.page:43
 msgid "Delayed Response"
 msgstr "Késleltetett válasz"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:235 C/gs-respond-messages.page:46
-#| msgid ""
-#| "A chat message in the message tray disappears after a while if you do not "
-#| "move your mouse to the message tray."
+#: C/getting-started.page:237 C/gs-respond-messages.page:46
 msgid ""
 "A chat message near the top of the screen disappears after a while if you do "
 "not move your mouse over the message."
 msgstr ""
 "Ha nem viszi egerét az üzenetre, akkor a képernyő tetején látható csevegési "
-"üzenet egy "
-"idő után eltűnik."
+"üzenet egy idő után eltűnik."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:239 C/gs-respond-messages.page:50
+#: C/getting-started.page:241 C/gs-respond-messages.page:50
 #: C/gs-respond-messages.page:96
-#| msgid ""
-#| "To get back to your unanswered message, move your mouse to the message "
-#| "tray."
 msgid "To get back to your unanswered message, click the clock on the top bar."
 msgstr ""
 "A megválaszolatlan üzenethez való visszatéréshez kattintson az órára a felső "
 "sávon."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:243 C/gs-respond-messages.page:54
+#: C/getting-started.page:245 C/gs-respond-messages.page:54
 msgid "From the notification list, choose your message."
 msgstr "Az értesítési listából válassza ki az üzenetet."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:246 C/getting-started.page:258
+#: C/getting-started.page:248 C/getting-started.page:260
 #: C/gs-respond-messages.page:57 C/gs-respond-messages.page:69
 msgid "Start typing your reply."
 msgstr "Kezdje el beírni a válaszát."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:249 C/gs-respond-messages.page:60
-#| msgid ""
-#| "To show the message tray, press <keyseq> <key href=\"help:gnome-help/"
-#| "keyboard-key-super\">Super</key> <key>M</key></keyseq>"
+#: C/getting-started.page:251 C/gs-respond-messages.page:60
 msgid ""
 "To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
 "keyboard-key-super\">Super</key> <key>V</key></keyseq>"
 msgstr ""
-"Az értesítési lista megjelenítéséhez nyomja meg a <keyseq> <key "
-"href=\"help:gnome-"
-"help/keyboard-key-super\">Super</key> <key>V</key></keyseq> "
+"Az értesítési lista megjelenítéséhez nyomja meg a <keyseq> <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> <key>V</key></keyseq> "
 "billentyűkombinációt. "
 
 #. (itstool) path: div/p
-#: C/getting-started.page:254 C/gs-respond-messages.page:65
-#| msgid ""
-#| "Use the arrow keys to select the person you want to reply to, and press "
-#| "<key>Enter</key>."
+#: C/getting-started.page:256 C/gs-respond-messages.page:65
 msgid ""
 "Use the arrow keys to select the message you want to reply to, and press "
 "<key>Enter</key>."
@@ -434,7 +417,7 @@ msgstr ""
 "majd nyomja meg az <key>Enter</key> billentyűt."
 
 #. (itstool) path: links/title
-#: C/getting-started.page:267
+#: C/getting-started.page:269
 msgid "Common Tasks"
 msgstr "Általános feladatok"
 
@@ -642,7 +625,7 @@ msgstr "2013. október 14., 14:00"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:9 C/gs-browse-web-firefox.page:10
-#: C/gs-change-date-time-timezone.page:10 C/gs-change-wallpaper.page:9
+#: C/gs-change-date-time-timezone.page:9 C/gs-change-wallpaper.page:9
 #: C/gs-connect-online-accounts.page:9 C/gs-get-online.page:9
 #: C/gs-launch-applications.page:9 C/gs-respond-messages.page:9
 #: C/gs-switch-tasks.page:10 C/gs-use-system-search.page:9
@@ -652,7 +635,7 @@ msgstr "Jakub Steiner"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:12 C/gs-browse-web-firefox.page:13
-#: C/gs-change-date-time-timezone.page:13 C/gs-change-wallpaper.page:12
+#: C/gs-change-date-time-timezone.page:12 C/gs-change-wallpaper.page:12
 #: C/gs-connect-online-accounts.page:12 C/gs-get-online.page:12
 #: C/gs-launch-applications.page:12 C/gs-respond-messages.page:12
 #: C/gs-switch-tasks.page:13 C/gs-use-system-search.page:12
@@ -776,77 +759,62 @@ msgstr ""
 "A menüből válassza az <guiseq><gui>Internet</gui><gui>Firefox</gui></guiseq> "
 "menüpontot."
 
+#. (itstool) path: media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-change-date-time-timezone.page:35
+#| msgctxt "_"
+#| msgid "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
+msgctxt "_"
+msgid "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
+msgstr "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
+
 #. (itstool) path: info/title
-#: C/gs-change-date-time-timezone.page:16
+#: C/gs-change-date-time-timezone.page:15
 msgctxt "link:trail"
 msgid "Change the date, time and timezone"
 msgstr "Dátum, idő és időzóna módosítása"
 
 #. (itstool) path: info/title
-#: C/gs-change-date-time-timezone.page:18
+#: C/gs-change-date-time-timezone.page:17
 msgctxt "link:seealso"
 msgid "A tutorial on changing the date, time and timezone"
 msgstr "Ismertető a dátum, idő és időzóna módosításához"
 
 #. (itstool) path: page/title
-#. (itstool) path: section/title
-#: C/gs-change-date-time-timezone.page:23
-#: C/gs-change-date-time-timezone.page:69
+#: C/gs-change-date-time-timezone.page:22
 msgid "Change the date, time and timezone"
 msgstr "Dátum, idő és időzóna módosítása"
 
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:34
-msgid "Changing Date &amp; Time"
-msgstr "Dátum és idő módosítása"
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:37
-msgid "Click the clock on the top bar."
-msgstr "Kattintson az órára a felső sávban."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:40
-msgid "Select <gui>Date &amp; Time Settings</gui>."
-msgstr "Válassza a <gui>Dátum és idő beállításai</gui> elemet."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:43
-msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
-msgstr ""
-"Győződjön meg róla, hogy az <gui>Automatikus időzóna</gui> ki van kapcsolva."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:47
-msgid "Click <gui>Time Zone</gui>."
-msgstr "Kattintson az <gui>Időzóna</gui> elemre."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:50
-msgid "Click on your location on the map."
-msgstr "Kattintson a földrajzi helyére a térképen."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:53
-msgid "Click <gui>Close</gui>."
-msgstr "Nyomja meg a <gui>Bezárás</gui> gombot."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:56
-msgid "Close the window."
-msgstr "Zárja be az ablakot."
-
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:72
+#: C/gs-change-date-time-timezone.page:28 C/gs-change-wallpaper.page:58
+#: C/gs-connect-online-accounts.page:28 C/gs-get-online.page:63
+#: C/gs-use-system-search.page:83
+#| msgid "Click the system menu on the right side of the top bar."
 msgid ""
-"Click the clock on the top bar and select the <gui>Date &amp; Time Settings</"
-"gui> item."
+"Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
+"right side of the top bar."
 msgstr ""
-"Kattintson az órára a felső sávon, és válassza a <gui>Dátum és idő "
-"beállításai</gui> elemet."
+"Kattintson a <gui xref=\"shell-introduction#yourname\">rendszer menüre</gui> "
+"a felső sáv jobb oldalán."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:74
+#: C/gs-change-date-time-timezone.page:30 C/gs-change-wallpaper.page:60
+#: C/gs-connect-online-accounts.page:30 C/gs-use-system-search.page:85
+#| msgid "Press the settings button at the bottom of the menu."
+msgid "Click the settings button at the bottom left of the menu."
+msgstr "Nyomja meg a Beállítások gombot a menü bal alsó részén."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:31
+#| msgid "Select <gui>Date &amp; Time Settings</gui>."
+msgid "Select the <gui>Date &amp; Time</gui> panel."
+msgstr "Válassza a <gui>Dátum és idő</gui> panelt."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:38
 msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
 "then click the <gui>Time Zone</gui> item below."
@@ -855,25 +823,30 @@ msgstr ""
 "és kattintson a lenti <gui>Időzóna</gui> elemre."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:76
+#: C/gs-change-date-time-timezone.page:40
+#| msgid ""
+#| "Click on your location on the map. This selects your current city, which "
+#| "you can also search for in the search box above the map."
 msgid ""
-"Click on your location on the map. This selects your current city, which you "
-"can also search for in the search box above the map."
+"Click on your location on the world map. This selects your current city, "
+"which you can also search for in the search box above the map."
 msgstr ""
 "Kattintson a földrajzi helyére a térképen. Ezzel kiválaszthatja a jelenlegi "
 "várost, amely a térkép feletti keresőmezőben is megkereshető."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:79
+#: C/gs-change-date-time-timezone.page:42
+#| msgid ""
+#| "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
+#| "Settings</gui> window."
 msgid ""
-"Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-"Settings</gui> window."
+"Close the world map window to go back to the <gui>Date &amp; Time Settings</"
+"gui>."
 msgstr ""
-"Kattintson a <emph>Bezárás</emph> gombra a visszatéréshez a <gui>Dátum és "
-"idő beállításai</gui> ablakhoz."
+"Zárja be a térképet a visszatéréshez a <gui>Dátum és idő</gui> panelhez."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:81
+#: C/gs-change-date-time-timezone.page:44
 msgid ""
 "Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
 "off, and then click the <gui>Date &amp; Time</gui> item below to open the "
@@ -886,15 +859,16 @@ msgstr ""
 "a <gui>+</gui> és <gui>-</gui> gombokra kattintva."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:86
+#: C/gs-change-date-time-timezone.page:49
+#| msgid ""
+#| "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
+#| "Settings</gui> window."
 msgid ""
-"Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-"Settings</gui> window, and then close that window by clicking the cross at "
-"the top-right corner of that window."
+"Close the window to go back to the <gui>Date &amp; Time Settings</gui>, and "
+"then close the panel."
 msgstr ""
-"Kattintson a <emph>Bezárás</emph> gombra a visszatéréshez a <gui>Dátum és "
-"idő beállításai</gui> ablakhoz, majd zárja be azt az ablakot az ablak jobb "
-"felső sarkában lévő keresztre kattintva."
+"Zárja be az ablakot a visszatéréshez a <gui>Dátum és idő</gui> panelhez, majd "
+"zárja be azt is."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:15
@@ -935,13 +909,13 @@ msgstr "Kattintson az aktuális háttérképre."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:63
+#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:64
 msgid "Click the background image you want to use."
 msgstr "Kattintson a használni kívánt háttérképre."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:64
+#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:65
 msgid "Click the <gui>Select</gui> button."
 msgstr "Nyomja meg a <gui>Kijelölés</gui> gombot."
 
@@ -951,21 +925,13 @@ msgid "Close the <gui>Background</gui> window."
 msgstr "Zárja be a <gui>Háttér</gui> ablakot."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:58 C/gs-use-system-search.page:83
-msgid ""
-"Click the system menu on the right side of the top bar and press the "
-"settings button at the bottom of the menu."
-msgstr ""
-"Kattintson a rendszer menüre a felső sáv jobb oldalán, és válassza a "
-"Beállítások gombot a menü alján."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:60
-msgid "From the list of items, select <gui>Background</gui>."
-msgstr "Az elemek listájából válassza a <gui>Háttér</gui> ikont."
-
-#. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
+#| msgid "Close the <gui>Background</gui> window."
+msgid "Click the <gui>Background</gui> panel."
+msgstr "Kattintson a <emph>Háttér</emph> panelre."
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:62
 msgid ""
 "Click the current background image on the left side of the <gui>Background</"
 "gui> window."
@@ -974,7 +940,7 @@ msgstr ""
 "oldalán."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:65
+#: C/gs-change-wallpaper.page:66
 msgid ""
 "Close the <gui>Background</gui> window by clicking the cross at the top-"
 "right corner of the window."
@@ -1000,26 +966,19 @@ msgid "Connect to online accounts"
 msgstr "Kapcsolódás online fiókokhoz"
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:28
-msgid "Click the system menu on the right side of the top bar."
-msgstr "Kattintson a rendszer menüre a felső sáv jobb oldalán."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:29
-msgid "Press the settings button at the bottom of the menu."
-msgstr "Nyomja meg a Beállítások gombot a menü alján."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:36
+#: C/gs-connect-online-accounts.page:37
+#| msgid ""
+#| "From the list of items, select <gui>Online Accounts</gui>, then click on "
+#| "the <gui>Add an online account</gui> button."
 msgid ""
-"From the list of items, select <gui>Online Accounts</gui>, then click on the "
-"<gui>Add an online account</gui> button."
+"Click the <gui>Online Accounts</gui> panel, then click the <gui>Add an "
+"online account</gui> button."
 msgstr ""
-"Az elemek listájából válassza az <gui>Online fiókok</gui> ikont, majd "
-"kattintson az <gui>Online fiók hozzáadása</gui> gombra."
+"Kattintson az <gui>Online fiókok</gui> panelre, majd az <gui>Online fiók "
+"hozzáadása</gui> gombra."
 
 #. (itstool) path: note/p
-#: C/gs-connect-online-accounts.page:40
+#: C/gs-connect-online-accounts.page:41
 msgid ""
 "If you have set up an online account before, you can add another online "
 "account by clicking the <gui>+</gui> button at the bottom left corner of the "
@@ -1029,7 +988,7 @@ msgstr ""
 "alsó sarkában lévő <gui>+</gui> gombra kattintva állíthat be."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:48
+#: C/gs-connect-online-accounts.page:49
 msgid ""
 "Click the online account you want to use. This will open a new window where "
 "you can sign in to your online account."
@@ -1038,7 +997,7 @@ msgstr ""
 "meg, ahol bejelentkezhet az online fiókjába."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:56
+#: C/gs-connect-online-accounts.page:57
 msgid ""
 "In most cases, you will have to grant access to the online service after "
 "signing in to get started."
@@ -1047,7 +1006,7 @@ msgstr ""
 "szolgáltatáshoz a folytatáshoz."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:58
+#: C/gs-connect-online-accounts.page:59
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
 "click the <gui>Grant Access</gui> button."
@@ -1056,7 +1015,7 @@ msgstr ""
 "megadása</gui> gombra kell kattintania."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:66
+#: C/gs-connect-online-accounts.page:67
 msgid ""
 "Many online accounts let you choose the services you want to use with your "
 "online account. If you do not want to use a service, disable it by clicking "
@@ -1065,6 +1024,94 @@ msgstr ""
 "Számos online fiók lehetővé teszi a használni kívánt szolgáltatások "
 "kiválasztását. Ha egy szolgáltatást nem szeretne használni, akkor tiltsa le "
 "az ablak jobb oldalán lévő <gui>BE/KI</gui> kapcsolóval."
+
+#. (itstool) path: Work/format
+#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51
+#: C/gs-goa4.svg:36 C/gs-goa5.svg:48 C/gs-go-online1.svg:230
+#: C/gs-go-online2.svg:265 C/gs-go-online3.svg:293 C/gs-search1.svg:97
+#: C/gs-search2.svg:133 C/gs-search-settings.svg:98
+#: C/gs-thumb-changing-wallpaper.svg:39 C/gs-thumb-launching-apps.svg:189
+#: C/gs-thumb-responding-to-messages.svg:36 C/gs-thumb-task-switching.svg:89
+#: C/gs-thumb-timezone.svg:41 C/gs-thumb-windows-and-workspaces.svg:89
+#: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
+#: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
+#: C/gs-web-browser2.svg:102
+msgid "image/svg+xml"
+msgstr "image/svg+xml"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:60 C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104
+#: C/gs-thumb-timezone.svg:138 C/gs-web-browser2-firefox.svg:113
+#: C/gs-web-browser2.svg:115
+#, no-wrap
+msgid "4"
+msgstr "4"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:78 C/gs-datetime.svg:112
+#, no-wrap
+#| msgid "Changing Date &amp; Time"
+msgid "Date &amp; Time"
+msgstr "Dátum és idő"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:80
+#, no-wrap
+#| msgid "Automatic Date and Time"
+msgid "Automatic Date &amp; Time"
+msgstr "Automatikus dátum és idő"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:81 C/gs-datetime.svg:96
+#, no-wrap
+msgid "Requires internet access"
+msgstr "Internet-hozzáférést igényel"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:87 C/gs-datetime.svg:102 C/gs-goa5.svg:118
+#: C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121 C/gs-goa5.svg:122
+#: C/gs-search-settings.svg:155 C/gs-search-settings.svg:272
+#: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
+#, no-wrap
+msgid "ON"
+msgstr "BE"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:95
+#, no-wrap
+#| msgid "Automatic Timezone"
+msgid "Automatic Time Zone"
+msgstr "Automatikus időzóna"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:113
+#, no-wrap
+msgid "September 1st 2015, 9:51 AM"
+msgstr "2015. szeptember 1, 9.51"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:114
+#, no-wrap
+msgid "Time Zone"
+msgstr "Időzóna"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:115
+#, no-wrap
+msgid "EDT (New York, United States)"
+msgstr "CEST (Budapest, Magyarország)"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:119
+#, no-wrap
+msgid "Time Format"
+msgstr "Időformátum"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:121
+#, no-wrap
+msgid "24-hour"
+msgstr "24 órás"
 
 #. (itstool) path: info/title
 #: C/gs-get-online.page:15
@@ -1097,17 +1144,25 @@ msgstr "Csatlakozás vezetékes hálózathoz"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:36
+#| msgid ""
+#| "The network connection icon on the right-hand side of the top bar shows "
+#| "that you are off-line."
 msgid ""
 "The network connection icon on the right-hand side of the top bar shows that "
-"you are off-line."
+"you are offline."
 msgstr ""
 "A felső sáv jobb oldalán lévő hálózati kapcsolat ikon azt jelzi, hogy nincs "
 "kapcsolat."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:38
+#| msgid ""
+#| "The off-line status can be caused by a number of reasons: for example, a "
+#| "network cable has been unplugged, the computer has been set to run in "
+#| "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
+#| "area."
 msgid ""
-"The off-line status can be caused by a number of reasons: for example, a "
+"The offline status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
 "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
@@ -1150,18 +1205,29 @@ msgstr ""
 msgid "Connect to a Wi-Fi network"
 msgstr "Csatlakozás Wi-Fi hálózathoz"
 
-#. (itstool) path: item/p
+#. (itstool) path: steps/title
 #: C/gs-get-online.page:61
+#| msgid "Connect to a Wi-Fi network"
+msgid "To connect to a Wi-Fi (wireless) network:"
+msgstr "Csatlakozás Wi-Fi (vezeték nélküli) hálózathoz"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:67
 msgid ""
-"To connect to a Wi-Fi (wireless) network, click the status menu at the top "
-"right of the screen, and then click <gui>Select Network</gui>."
+"Select <gui>Wi-Fi Not Connected</gui>. The Wi-Fi section of the menu will "
+"expand."
 msgstr ""
-"Wi-Fi (vezeték nélküli) hálózathoz kapcsolódáshoz kattintson a képernyő jobb "
-"felső sarkában lévő állapotmenüre, majd a <gui>Válasszon hálózatot</gui> "
-"pontra."
+"Válasza a <gui>Wi-Fi nincs csatlakoztatva</gui> lehetőséget. Ekkor kinyílik a "
+"menü Wi-Fi szakasza."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:71
+#| msgid "Click <gui>Close</gui>."
+msgid "Click <gui>Select Network</gui>."
+msgstr "Nyomja meg a <gui>Hálózat választása</gui> gombot."
 
 #. (itstool) path: note/p
-#: C/gs-get-online.page:67
+#: C/gs-get-online.page:76
 msgid ""
 "You can only connect to a Wi-Fi network if your computer hardware supports "
 "it and you are in an area with Wi-Fi coverage."
@@ -1170,7 +1236,7 @@ msgstr ""
 "támogatja, és Wi-Fi lefedettséggel rendelkező területen tartózkodik."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:75
+#: C/gs-get-online.page:84
 msgid ""
 "From the list of available Wi-Fi networks, select the network you want to "
 "connect to, and click <gui>Connect</gui> to confirm."
@@ -1179,7 +1245,7 @@ msgstr ""
 "kattintson a <gui>Kapcsolódás</gui> gombra a megerősítéshez."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:77
+#: C/gs-get-online.page:86
 msgid ""
 "Depending on the network configuration, you may be prompted for network "
 "credentials."
@@ -1187,34 +1253,20 @@ msgstr ""
 "A hálózat beállításaitól függően szükség lehet hitelesítési adatok "
 "megadására."
 
-#. (itstool) path: Work/format
-#: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
-#: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
-#: C/gs-go-online3.svg:293 C/gs-search1.svg:97 C/gs-search2.svg:133
-#: C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:39
-#: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36
-#: C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
-#: C/gs-thumb-windows-and-workspaces.svg:89
-#: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
-#: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
-#: C/gs-web-browser2.svg:102
-msgid "image/svg+xml"
-msgstr "image/svg+xml"
-
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
-#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101
-#: C/gs-thumb-timezone.svg:135 C/gs-web-browser1-firefox-classic.svg:115
-#: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
+#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101 C/gs-thumb-timezone.svg:135
+#: C/gs-web-browser1-firefox-classic.svg:115 C/gs-web-browser1-firefox.svg:120
+#: C/gs-web-browser1.svg:120
 #, no-wrap
 msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:306
-#: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102
-#: C/gs-thumb-timezone.svg:136 C/gs-web-browser1-firefox-classic.svg:137
-#: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
+#: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102 C/gs-thumb-timezone.svg:136
+#: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
+#: C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
 msgstr "2"
@@ -1237,13 +1289,6 @@ msgstr "Online fiókok"
 #, no-wrap
 msgid "Add an online account"
 msgstr "Online fiók hozzáadása"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
-#: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
-#, no-wrap
-msgid "4"
-msgstr "4"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:66
@@ -1395,14 +1440,6 @@ msgstr "Csevegés"
 #, no-wrap
 msgid "Documents"
 msgstr "Dokumentumok"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121
-#: C/gs-goa5.svg:122 C/gs-search-settings.svg:155 C/gs-search-settings.svg:272
-#: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
-#, no-wrap
-msgid "ON"
-msgstr "BE"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
@@ -1604,16 +1641,12 @@ msgstr "Csevegési üzenet késleltetett megválaszolása egérrel"
 
 #. (itstool) path: item/p
 #: C/gs-respond-messages.page:94
-#| msgid ""
-#| "When a chat message appears in the message tray and you do not move your "
-#| "mouse to the message tray, the message disappears after a while."
 msgid ""
 "When a chat message appears near the top of the screen and you do not move "
 "your mouse over the message, it disappears after a while."
 msgstr ""
 "Amikor egy csevegési üzenet megjelenik a képernyő tetején, és nem viszi oda "
-"az "
-"egérmutatót, akkor az üzenet hamarosan eltűnik."
+"az egérmutatót, akkor az üzenet hamarosan eltűnik."
 
 #. (itstool) path: item/p
 #: C/gs-respond-messages.page:98
@@ -1625,9 +1658,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-respond-messages.page:100 C/gs-respond-messages.page:114
-#| msgid ""
-#| "When the chat message is shown, start typing your reply and when "
-#| "finished, press <key>Enter</key> to send the reply."
 msgid "When the chat message is shown, start typing your reply."
 msgstr "A csevegési üzenet megjelenésekor kezdje el beírni a válaszát."
 
@@ -1638,10 +1668,6 @@ msgstr "Csevegési üzenet késleltetett megválaszolása billentyűzettel"
 
 #. (itstool) path: item/p
 #: C/gs-respond-messages.page:108
-#| msgid ""
-#| "To get back to your unanswered chat messages, press <keyseq> <key href="
-#| "\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq> "
-#| "to display the message tray that contains the messages."
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq> <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
@@ -1654,16 +1680,12 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-respond-messages.page:112
-#| msgid ""
-#| "Use the arrow keys to select the person you want to reply to, and press "
-#| "<key>Enter</key>."
 msgid ""
 "Use the arrow keys to select the notification you want to reply to, and "
 "press <key>Enter</key>."
 msgstr ""
 "A nyílbillentyűk segítségével válassza ki az üzenetet, amelyre válaszolni "
-"szeretne, "
-"majd nyomja meg az <key>Enter</key> billentyűt."
+"szeretne, majd nyomja meg az <key>Enter</key> billentyűt."
 
 #. (itstool) path: text/tspan
 #: C/gs-search1.svg:229
@@ -1786,7 +1808,7 @@ msgid "A tutorial on switching tasks"
 msgstr "Ismertető a feladatváltáshoz"
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:102
+#: C/gs-switch-tasks.page:96
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen to show the <gui>Activities Overview</gui> where you can see "
@@ -1797,7 +1819,7 @@ msgstr ""
 "az épp futó feladatokat kis ablakokként láthatja."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:112
+#: C/gs-switch-tasks.page:106
 msgid ""
 "You can switch between tasks by using the <gui>window list</gui> at the "
 "bottom of the screen. Open tasks appear as buttons in the <gui>window list</"
@@ -1807,19 +1829,19 @@ msgstr ""
 "nyitott feladatok gombokként jelennek meg az <gui>ablaklistában</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:115
+#: C/gs-switch-tasks.page:109
 msgid "Click a button in the <gui>window list</gui> to switch to that task."
 msgstr ""
 "Kattintson egy gombra az <gui>ablaklistában</gui> az adott feladatra "
 "váltáshoz."
 
 #. (itstool) path: section/title
-#: C/gs-switch-tasks.page:125 C/gs-use-windows-workspaces.page:114
+#: C/gs-switch-tasks.page:119 C/gs-use-windows-workspaces.page:114
 msgid "Tile windows"
 msgstr "Ablakok elrendezése"
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:128 C/gs-use-windows-workspaces.page:118
+#: C/gs-switch-tasks.page:122 C/gs-use-windows-workspaces.page:118
 msgid ""
 "To maximize a window along a side of the screen, grab the window's titlebar "
 "and drag it to the left or right side of the screen."
@@ -1828,7 +1850,7 @@ msgstr ""
 "a címsorát, és húzza a képernyő bal vagy jobb széléhez."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:130 C/gs-use-windows-workspaces.page:120
+#: C/gs-switch-tasks.page:124 C/gs-use-windows-workspaces.page:120
 msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
 "along the selected side of the screen."
@@ -1837,7 +1859,7 @@ msgstr ""
 "maximalizálásához az adott képernyőoldal mentén."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:132 C/gs-use-windows-workspaces.page:122
+#: C/gs-switch-tasks.page:126 C/gs-use-windows-workspaces.page:122
 msgid ""
 "To maximize two windows side-by-side, grab the titlebar of the second window "
 "and drag it to the opposite side of the screen."
@@ -1846,7 +1868,7 @@ msgstr ""
 "ablak címsorát, és húzza a képernyő másik oldalára."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:134 C/gs-use-windows-workspaces.page:124
+#: C/gs-switch-tasks.page:128 C/gs-use-windows-workspaces.page:124
 msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
 "along the opposite side of the screen."
@@ -1855,12 +1877,12 @@ msgstr ""
 "maximalizálásához a szemközti képernyőoldal mentén."
 
 #. (itstool) path: section/title
-#: C/gs-switch-tasks.page:141
+#: C/gs-switch-tasks.page:135
 msgid "Switch between windows"
 msgstr "Váltás ablakok között"
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:144
+#: C/gs-switch-tasks.page:138
 msgid ""
 "Press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
 "key><key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which "
@@ -1871,7 +1893,7 @@ msgstr ""
 "megjelenítéséhez, amely felsorolja az épp nyitott ablakokat."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:147
+#: C/gs-switch-tasks.page:141
 msgid ""
 "Release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> to "
 "select the next highlighted window in the <gui>window switcher</gui>."
@@ -1881,12 +1903,12 @@ msgstr ""
 "gui>."
 
 #. (itstool) path: section/title
-#: C/gs-switch-tasks.page:158
+#: C/gs-switch-tasks.page:152
 msgid "Use search to switch applications"
 msgstr "Váltás az alkalmazások között kereséssel"
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:161
+#: C/gs-switch-tasks.page:155
 msgid ""
 "Press the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key "
 "to show the <gui>Activities Overview</gui>."
@@ -1895,7 +1917,7 @@ msgstr ""
 "billentyűt a <gui>Tevékenységek áttekintés</gui> megjelenítéséhez."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:163
+#: C/gs-switch-tasks.page:157
 msgid ""
 "Just start typing the name of the application you want to switch to. "
 "Applications matching what you have typed will appear as you type."
@@ -1904,7 +1926,7 @@ msgstr ""
 "megfelelő alkalmazások megjelennek a gépelés közben."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:166
+#: C/gs-switch-tasks.page:160
 msgid ""
 "When the application that you want to switch to appears as the first result, "
 "press <key>Enter</key> to switch to it."
@@ -2235,18 +2257,19 @@ msgstr ""
 "találatok személyre szabását. Eldöntheti például, hogy szeretné-e "
 "megjeleníteni a weboldalak, fényképek vagy zenék közti találatokat."
 
-#. (itstool) path: section/p
-#: C/gs-use-system-search.page:80
+#. (itstool) path: steps/title
+#: C/gs-use-system-search.page:82
 msgid "To customize what is displayed in the search results:"
 msgstr "A találatok személyre szabásához:"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:85
-msgid "From the list of items, select <gui>Search</gui>."
-msgstr "Az elemek listájából válassza a <gui>Keresés</gui> elemet."
+#: C/gs-use-system-search.page:86
+#| msgid "Click the <gui>Select</gui> button."
+msgid "Click the <gui>Search</gui> panel."
+msgstr "Kattintson a <gui>Keresés</gui> panelre."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:86
+#: C/gs-use-system-search.page:87
 msgid ""
 "In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
 "the search location you want to enable or disable."
@@ -2390,6 +2413,60 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
+
+#~ msgid "Click the clock on the top bar."
+#~ msgstr "Kattintson az órára a felső sávban."
+
+#~ msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
+#~ msgstr ""
+#~ "Győződjön meg róla, hogy az <gui>Automatikus időzóna</gui> ki van "
+#~ "kapcsolva."
+
+#~ msgid "Click <gui>Time Zone</gui>."
+#~ msgstr "Kattintson az <gui>Időzóna</gui> elemre."
+
+#~ msgid "Click on your location on the map."
+#~ msgstr "Kattintson a földrajzi helyére a térképen."
+
+#~ msgid "Close the window."
+#~ msgstr "Zárja be az ablakot."
+
+#~ msgid ""
+#~ "Click the clock on the top bar and select the <gui>Date &amp; Time "
+#~ "Settings</gui> item."
+#~ msgstr ""
+#~ "Kattintson az órára a felső sávon, és válassza a <gui>Dátum és idő "
+#~ "beállításai</gui> elemet."
+
+#~ msgid ""
+#~ "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
+#~ "Settings</gui> window, and then close that window by clicking the cross "
+#~ "at the top-right corner of that window."
+#~ msgstr ""
+#~ "Kattintson a <emph>Bezárás</emph> gombra a visszatéréshez a <gui>Dátum és "
+#~ "idő beállításai</gui> ablakhoz, majd zárja be azt az ablakot az ablak "
+#~ "jobb felső sarkában lévő keresztre kattintva."
+
+#~ msgid ""
+#~ "Click the system menu on the right side of the top bar and press the "
+#~ "settings button at the bottom of the menu."
+#~ msgstr ""
+#~ "Kattintson a rendszer menüre a felső sáv jobb oldalán, és válassza a "
+#~ "Beállítások gombot a menü alján."
+
+#~ msgid "From the list of items, select <gui>Background</gui>."
+#~ msgstr "Az elemek listájából válassza a <gui>Háttér</gui> ikont."
+
+#~ msgid ""
+#~ "To connect to a Wi-Fi (wireless) network, click the status menu at the "
+#~ "top right of the screen, and then click <gui>Select Network</gui>."
+#~ msgstr ""
+#~ "Wi-Fi (vezeték nélküli) hálózathoz kapcsolódáshoz kattintson a képernyő "
+#~ "jobb felső sarkában lévő állapotmenüre, majd a <gui>Válasszon hálózatot</"
+#~ "gui> pontra."
+
+#~ msgid "From the list of items, select <gui>Search</gui>."
+#~ msgstr "Az elemek listájából válassza a <gui>Keresés</gui> elemet."
 
 #~ msgid ""
 #~ "Move your mouse to the message tray at the bottom of the screen and click "
@@ -2715,10 +2792,6 @@ msgstr "Planet GNOME"
 
 #~ msgid "Switch Tasks"
 #~ msgstr "Feladatváltás"
-
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
-#~ msgstr "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
 
 #~ msgctxt "_"
 #~ msgid "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
