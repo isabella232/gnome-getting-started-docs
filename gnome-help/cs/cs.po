@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: getting-started\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-23 07:15+0000\n"
-"PO-Revision-Date: 2015-04-23 10:31+0200\n"
+"POT-Creation-Date: 2015-10-11 19:42+0000\n"
+"PO-Revision-Date: 2015-10-11 23:30+0200\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>\n"
 "Language-Team: Czech <gnome-cs-list@gnome.org>\n"
 "Language: cs\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"X-Generator: Gtranslator 2.91.7\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -64,8 +64,8 @@ msgid "Launching Applications"
 msgstr "Spouštění aplikací"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:33 C/getting-started.page:154
-#: C/gs-launch-applications.page:33 C/gs-switch-tasks.page:36
+#: C/getting-started.page:33 C/getting-started.page:155
+#: C/gs-launch-applications.page:33 C/gs-switch-tasks.page:34
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen."
@@ -149,8 +149,8 @@ msgstr ""
 "horní lištu, místo na záhlaví."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:89 C/getting-started.page:161
-#: C/gs-switch-tasks.page:43 C/gs-use-windows-workspaces.page:47
+#: C/getting-started.page:89 C/getting-started.page:163
+#: C/gs-switch-tasks.page:42 C/gs-use-windows-workspaces.page:47
 msgid ""
 "To maximize a window along the left side of the screen, grab the window's "
 "titlebar and drag it to the left."
@@ -160,8 +160,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #: C/getting-started.page:93 C/getting-started.page:101
-#: C/getting-started.page:165 C/getting-started.page:173
-#: C/gs-switch-tasks.page:47 C/gs-switch-tasks.page:55
+#: C/getting-started.page:167 C/getting-started.page:175
+#: C/gs-switch-tasks.page:46 C/gs-switch-tasks.page:54
 #: C/gs-use-windows-workspaces.page:51 C/gs-use-windows-workspaces.page:59
 msgid "When half of the screen is highlighted, release the window."
 msgstr "Až se zvýrazní polovina obrazovky, okno upusťte."
@@ -249,25 +249,25 @@ msgstr ""
 #. (itstool) path: page/title
 #. (itstool) path: section/title
 #: C/getting-started.page:146 C/gs-switch-tasks.page:22
-#: C/gs-switch-tasks.page:96
+#: C/gs-switch-tasks.page:90
 msgid "Switch tasks"
 msgstr "Přepínání úloh"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:151 C/gs-animation.xml:8 C/gs-switch-tasks.page:33
+#: C/getting-started.page:151 C/gs-animation.xml:8 C/gs-switch-tasks.page:30
 msgid "Switching Tasks"
 msgstr "Přepínání úloh"
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:158 C/gs-switch-tasks.page:40
-#: C/gs-switch-tasks.page:105
+#: C/getting-started.page:160 C/gs-switch-tasks.page:39
+#: C/gs-switch-tasks.page:99
 msgid "Click a window to switch to that task."
 msgstr "Kliknutím na okno se přepnete na příslušnou úlohu."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:169 C/gs-switch-tasks.page:51
+#: C/getting-started.page:171 C/gs-switch-tasks.page:50
 msgid ""
 "To maximize a window along the right side, grab the window's titlebar and "
 "drag it to the right."
@@ -276,7 +276,7 @@ msgstr ""
 "záhlaví a přetáhněte doprava."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:177 C/gs-switch-tasks.page:59
+#: C/getting-started.page:179 C/gs-switch-tasks.page:58
 msgid ""
 "Press <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
 "key><key> Tab</key></keyseq> to show the <gui>window switcher</gui>."
@@ -285,7 +285,7 @@ msgstr ""
 "key> <key>Tab</key></keyseq> zobrazte <gui>přepínač oken</gui>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:182 C/gs-switch-tasks.page:64
+#: C/getting-started.page:184 C/gs-switch-tasks.page:63
 msgid ""
 "Release <key href=\"help:gnome-help/keyboard-key-super\">Super </key> to "
 "select the next highlighted window."
@@ -295,8 +295,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:187 C/gs-switch-tasks.page:69
-#: C/gs-switch-tasks.page:150
+#: C/getting-started.page:189 C/gs-switch-tasks.page:68
+#: C/gs-switch-tasks.page:144
 msgid ""
 "To cycle through the list of open windows, do not release <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> but hold it down, and press "
@@ -307,7 +307,7 @@ msgstr ""
 "stále ji držte a mačkejte <key>Tab</key>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:192 C/gs-switch-tasks.page:74
+#: C/getting-started.page:194 C/gs-switch-tasks.page:73
 msgid ""
 "Press the <key href=\"help:gnome-help/keyboard-key-super\">Super </key> key "
 "to show the <gui>Activities Overview</gui>."
@@ -316,12 +316,12 @@ msgstr ""
 "key> zobrazte <gui>Přehled činností</gui>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:196 C/gs-switch-tasks.page:78
+#: C/getting-started.page:198 C/gs-switch-tasks.page:77
 msgid "Start typing the name of the application you want to switch to."
 msgstr "Začněte psát název aplikace, na kterou se chcete přepnout."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:200 C/gs-switch-tasks.page:82
+#: C/getting-started.page:202 C/gs-switch-tasks.page:81
 msgid ""
 "When the application appears as the first result, press <key> Enter</key> to "
 "switch to it."
@@ -331,20 +331,20 @@ msgstr ""
 
 #. (itstool) path: caption/desc
 #. (itstool) path: page/title
-#: C/getting-started.page:212 C/gs-respond-messages.page:21
+#: C/getting-started.page:214 C/gs-respond-messages.page:21
 msgid "Respond to messages"
 msgstr "Odpovídání na zprávy"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:218 C/gs-animation.xml:7
+#: C/getting-started.page:220 C/gs-animation.xml:7
 #: C/gs-respond-messages.page:29
 msgid "Responding to Messages"
 msgstr "Odpovídání na zprávy"
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:221 C/gs-respond-messages.page:32
+#: C/getting-started.page:223 C/gs-respond-messages.page:32
 #: C/gs-respond-messages.page:80
 msgid ""
 "Move your mouse over the chat message that appears near the top of the "
@@ -354,7 +354,7 @@ msgstr ""
 "části obrazovky."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:225 C/gs-respond-messages.page:36
+#: C/getting-started.page:227 C/gs-respond-messages.page:36
 msgid ""
 "Start typing your reply and when finished, press <key>Enter </key> to send "
 "the reply."
@@ -363,19 +363,19 @@ msgstr ""
 "key>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:229 C/gs-respond-messages.page:40
+#: C/getting-started.page:231 C/gs-respond-messages.page:40
 msgid "Close the chat message."
 msgstr "Zavřete zprávu z diskuze."
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:232 C/gs-animation.xml:9
+#: C/getting-started.page:234 C/gs-animation.xml:9
 #: C/gs-respond-messages.page:43
 msgid "Delayed Response"
 msgstr "Opožděná odpověď"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:235 C/gs-respond-messages.page:46
+#: C/getting-started.page:237 C/gs-respond-messages.page:46
 msgid ""
 "A chat message near the top of the screen disappears after a while if you do "
 "not move your mouse over the message."
@@ -385,7 +385,7 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:239 C/gs-respond-messages.page:50
+#: C/getting-started.page:241 C/gs-respond-messages.page:50
 #: C/gs-respond-messages.page:96
 msgid "To get back to your unanswered message, click the clock on the top bar."
 msgstr ""
@@ -393,27 +393,27 @@ msgstr ""
 "liště."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:243 C/gs-respond-messages.page:54
+#: C/getting-started.page:245 C/gs-respond-messages.page:54
 msgid "From the notification list, choose your message."
 msgstr "V seznamu upozornění zvolte svoji zprávu."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:246 C/getting-started.page:258
+#: C/getting-started.page:248 C/getting-started.page:260
 #: C/gs-respond-messages.page:57 C/gs-respond-messages.page:69
 msgid "Start typing your reply."
 msgstr "Začněte psát odpověď."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:249 C/gs-respond-messages.page:60
+#: C/getting-started.page:251 C/gs-respond-messages.page:60
 msgid ""
 "To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
 "keyboard-key-super\">Super</key> <key>V</key></keyseq>"
 msgstr ""
-"Pro zobrazení seznamu upozornění, zmáčkněte <keyseq><key href=\""
-"help:gnome-help/keyboard-key-super\">Super</key><key>V</key></keyseq>."
+"Pro zobrazení seznamu upozornění, zmáčkněte <keyseq><key href=\"help:gnome-"
+"help/keyboard-key-super\">Super</key><key>V</key></keyseq>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:254 C/gs-respond-messages.page:65
+#: C/getting-started.page:256 C/gs-respond-messages.page:65
 msgid ""
 "Use the arrow keys to select the message you want to reply to, and press "
 "<key>Enter</key>."
@@ -422,7 +422,7 @@ msgstr ""
 "zmáčkněte <key>Enter</key>."
 
 #. (itstool) path: links/title
-#: C/getting-started.page:267
+#: C/getting-started.page:269
 msgid "Common Tasks"
 msgstr "Obvyklé činnosti"
 
@@ -630,7 +630,7 @@ msgstr "14. říjen 2013, 14∶00"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:9 C/gs-browse-web-firefox.page:10
-#: C/gs-change-date-time-timezone.page:10 C/gs-change-wallpaper.page:9
+#: C/gs-change-date-time-timezone.page:9 C/gs-change-wallpaper.page:9
 #: C/gs-connect-online-accounts.page:9 C/gs-get-online.page:9
 #: C/gs-launch-applications.page:9 C/gs-respond-messages.page:9
 #: C/gs-switch-tasks.page:10 C/gs-use-system-search.page:9
@@ -640,7 +640,7 @@ msgstr "Jakub Steiner"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:12 C/gs-browse-web-firefox.page:13
-#: C/gs-change-date-time-timezone.page:13 C/gs-change-wallpaper.page:12
+#: C/gs-change-date-time-timezone.page:12 C/gs-change-wallpaper.page:12
 #: C/gs-connect-online-accounts.page:12 C/gs-get-online.page:12
 #: C/gs-launch-applications.page:12 C/gs-respond-messages.page:12
 #: C/gs-switch-tasks.page:13 C/gs-use-system-search.page:12
@@ -762,76 +762,57 @@ msgid ""
 msgstr ""
 "V nabídce vyberte <guiseq><gui>Internet</gui> <gui>Firefox</gui></guiseq>."
 
+#. (itstool) path: media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/gs-change-date-time-timezone.page:35
+msgctxt "_"
+msgid "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
+msgstr "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
+
 #. (itstool) path: info/title
-#: C/gs-change-date-time-timezone.page:16
+#: C/gs-change-date-time-timezone.page:15
 msgctxt "link:trail"
 msgid "Change the date, time and timezone"
 msgstr "Změna data, času a časového pásma"
 
 #. (itstool) path: info/title
-#: C/gs-change-date-time-timezone.page:18
+#: C/gs-change-date-time-timezone.page:17
 msgctxt "link:seealso"
 msgid "A tutorial on changing the date, time and timezone"
 msgstr "Vysvětlení, jak změnit datum, čas a časové pásmo"
 
 #. (itstool) path: page/title
-#. (itstool) path: section/title
-#: C/gs-change-date-time-timezone.page:23
-#: C/gs-change-date-time-timezone.page:69
+#: C/gs-change-date-time-timezone.page:22
 msgid "Change the date, time and timezone"
 msgstr "Změna data, času a časového pásma"
 
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:34
-msgid "Changing Date &amp; Time"
-msgstr "Změna data a času"
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:37
-msgid "Click the clock on the top bar."
-msgstr "Klikněte na hodiny na horní liště."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:40
-msgid "Select <gui>Date &amp; Time Settings</gui>."
-msgstr "Vyberte <gui>Nastavení data a časuř</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:43
-msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
-msgstr "Ujistěte se, že je vypnuto <gui>Časové pásmo automaticky</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:47
-msgid "Click <gui>Time Zone</gui>."
-msgstr "Klikněte na <gui>Časové pásmo</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:50
-msgid "Click on your location on the map."
-msgstr "Na mapě klikněte na místo, kde se nacházíte."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:53
-msgid "Click <gui>Close</gui>."
-msgstr "Klikněte na <gui>Zavřít</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:56
-msgid "Close the window."
-msgstr "Zavřete okno."
-
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:72
+#: C/gs-change-date-time-timezone.page:28 C/gs-change-wallpaper.page:58
+#: C/gs-connect-online-accounts.page:28 C/gs-get-online.page:63
+#: C/gs-use-system-search.page:83
 msgid ""
-"Click the clock on the top bar and select the <gui>Date &amp; Time Settings</"
-"gui> item."
+"Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
+"right side of the top bar."
 msgstr ""
-"Klikněte na hodiny na horní liště a vyberte položku <gui>Nastavení data a "
-"času</gui>."
+"Klikněte na <gui xref=\"shell-introduction#yourname\">systémovou nabídku"
+"</gui> v pravé části horní lišty."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:74
+#: C/gs-change-date-time-timezone.page:30 C/gs-change-wallpaper.page:60
+#: C/gs-connect-online-accounts.page:30 C/gs-use-system-search.page:85
+msgid "Click the settings button at the bottom left of the menu."
+msgstr "Klikněte na tlačítko nastavení v levé dolní části nabídky."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:31
+msgid "Select the <gui>Date &amp; Time</gui> panel."
+msgstr "Vyberte panel <gui>Datum a čas</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:38
 msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
 "then click the <gui>Time Zone</gui> item below."
@@ -840,25 +821,23 @@ msgstr ""
 "té klikněte dole na položku <gui>Časové pásmo</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:76
+#: C/gs-change-date-time-timezone.page:40
 msgid ""
-"Click on your location on the map. This selects your current city, which you "
-"can also search for in the search box above the map."
+"Click on your location on the world map. This selects your current city, "
+"which you can also search for in the search box above the map."
 msgstr ""
-"Klikněte na mapě na místo, kde se nacházíte, a tím se vybere přísušné město. "
+"Klikněte na mapě světa na místo, kde se nacházíte, a tím se vybere přísušné město. "
 "Nebo jej můžete vyhledat ve vyhledávacím poli nad mapou."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:79
+#: C/gs-change-date-time-timezone.page:42
 msgid ""
-"Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-"Settings</gui> window."
+"Close the world map window to go back to the <gui>Date &amp; Time</gui>."
 msgstr ""
-"Kliknutím na tlačítko <gui>Zavřít</gui> se vraťte do okna <gui>Nastavení "
-"data a času</gui>."
+"Zavřením okna s mapou světa se vraťte zpět do okna <gui>Datum a čas</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:81
+#: C/gs-change-date-time-timezone.page:44
 msgid ""
 "Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
 "off, and then click the <gui>Date &amp; Time</gui> item below to open the "
@@ -871,15 +850,13 @@ msgstr ""
 "klikáním na tlačítka <gui>+</gui> nebo <gui>-</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:86
+#: C/gs-change-date-time-timezone.page:49
 msgid ""
-"Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-"Settings</gui> window, and then close that window by clicking the cross at "
-"the top-right corner of that window."
+"Close the window to go back to the <gui>Date &amp; Time</gui>, and "
+"then close the panel."
 msgstr ""
-"Kliknutím na tlačítko <gui>Zavřít</gui> se vrátíte do okna <gui>Nastavení "
-"data a času</gui>, které pak můžete zavřít kliknutím na křížek v pravém "
-"horním rohu okna."
+"Zavřením okna se vraťte zpět do okna <gui>Datum a čas</gui> a následně "
+"zavřete panel."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:15
@@ -920,13 +897,13 @@ msgstr "Klikněte na aktuální obrázek pozadí."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:63
+#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:64
 msgid "Click the background image you want to use."
 msgstr "Klikněte na obrázek, který chcete pro pozadí použít."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:64
+#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:65
 msgid "Click the <gui>Select</gui> button."
 msgstr "Klikněte na tlačítko <gui>Vybrat</gui>."
 
@@ -936,21 +913,12 @@ msgid "Close the <gui>Background</gui> window."
 msgstr "Zavřete okno <gui>Pozadí</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:58 C/gs-use-system-search.page:83
-msgid ""
-"Click the system menu on the right side of the top bar and press the "
-"settings button at the bottom of the menu."
-msgstr ""
-"Klikněte na systémovou nabídku na pravé straně horní lišty a zmáčkněte "
-"tlačítko nastavení v dolní části nabídky."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:60
-msgid "From the list of items, select <gui>Background</gui>."
-msgstr "Ze seznamu položek vyberte <gui>Pozadí</gui>."
-
-#. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
+msgid "Click the <gui>Background</gui> panel."
+msgstr "Klikněte na panle <gui>Pozadí</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:62
 msgid ""
 "Click the current background image on the left side of the <gui>Background</"
 "gui> window."
@@ -959,7 +927,7 @@ msgstr ""
 "<gui>Pozadí</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:65
+#: C/gs-change-wallpaper.page:66
 msgid ""
 "Close the <gui>Background</gui> window by clicking the cross at the top-"
 "right corner of the window."
@@ -984,26 +952,16 @@ msgid "Connect to online accounts"
 msgstr "Připojení k účtům on-line"
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:28
-msgid "Click the system menu on the right side of the top bar."
-msgstr "Klikněte na systémovou nabídku v pravé části horní lišty."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:29
-msgid "Press the settings button at the bottom of the menu."
-msgstr "Zmáčkněte tlačítko nastavení v dolní části nabídky."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:36
+#: C/gs-connect-online-accounts.page:37
 msgid ""
-"From the list of items, select <gui>Online Accounts</gui>, then click on the "
-"<gui>Add an online account</gui> button."
+"Click the <gui>Online Accounts</gui> panel, then click the <gui>Add an "
+"online account</gui> button."
 msgstr ""
-"Ze seznamu položek vyberte <gui>Účty on-line</gui> a následně klikněte na "
+"Klikněte na panel <gui>Účty on-line</gui> a následně klikněte na "
 "tlačítko <gui>Přidat účet on-line</gui>."
 
 #. (itstool) path: note/p
-#: C/gs-connect-online-accounts.page:40
+#: C/gs-connect-online-accounts.page:41
 msgid ""
 "If you have set up an online account before, you can add another online "
 "account by clicking the <gui>+</gui> button at the bottom left corner of the "
@@ -1013,7 +971,7 @@ msgstr ""
 "přidat kliknutím na tlačítko <gui>+</gui> v levém dolním rohu okna."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:48
+#: C/gs-connect-online-accounts.page:49
 msgid ""
 "Click the online account you want to use. This will open a new window where "
 "you can sign in to your online account."
@@ -1022,7 +980,7 @@ msgstr ""
 "kterém se můžete k účtu přihlásit."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:56
+#: C/gs-connect-online-accounts.page:57
 msgid ""
 "In most cases, you will have to grant access to the online service after "
 "signing in to get started."
@@ -1031,7 +989,7 @@ msgstr ""
 "službě, aby se mohla začít používat."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:58
+#: C/gs-connect-online-accounts.page:59
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
 "click the <gui>Grant Access</gui> button."
@@ -1040,7 +998,7 @@ msgstr ""
 "na tlačítko <gui>Udělit přístup</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:66
+#: C/gs-connect-online-accounts.page:67
 msgid ""
 "Many online accounts let you choose the services you want to use with your "
 "online account. If you do not want to use a service, disable it by clicking "
@@ -1049,6 +1007,92 @@ msgstr ""
 "Řada účtů on-line umožňuje zvolit služby, které ve spojitosti s tímto účtem "
 "chcete používat. Pokud některou službu používat nechcete, zakažte ji "
 "kliknutím na přepínač <gui>❙/○</gui> na pravé straně okna."
+
+#. (itstool) path: Work/format
+#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51
+#: C/gs-goa4.svg:36 C/gs-goa5.svg:48 C/gs-go-online1.svg:230
+#: C/gs-go-online2.svg:265 C/gs-go-online3.svg:293 C/gs-search1.svg:97
+#: C/gs-search2.svg:133 C/gs-search-settings.svg:98
+#: C/gs-thumb-changing-wallpaper.svg:39 C/gs-thumb-launching-apps.svg:189
+#: C/gs-thumb-responding-to-messages.svg:36 C/gs-thumb-task-switching.svg:89
+#: C/gs-thumb-timezone.svg:41 C/gs-thumb-windows-and-workspaces.svg:89
+#: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
+#: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
+#: C/gs-web-browser2.svg:102
+msgid "image/svg+xml"
+msgstr "image/svg+xml"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:60 C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104
+#: C/gs-thumb-timezone.svg:138 C/gs-web-browser2-firefox.svg:113
+#: C/gs-web-browser2.svg:115
+#, no-wrap
+msgid "4"
+msgstr "4"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:78 C/gs-datetime.svg:112
+#, no-wrap
+#| msgid "Changing Date &amp; Time"
+msgid "Date &amp; Time"
+msgstr "Datum a čas"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:80
+#, no-wrap
+msgid "Automatic Date &amp; Time"
+msgstr "Datum a čas automaticky"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:81 C/gs-datetime.svg:96
+#, no-wrap
+msgid "Requires internet access"
+msgstr "Vyžaduje přístup k Internetu"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:87 C/gs-datetime.svg:102 C/gs-goa5.svg:118
+#: C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121 C/gs-goa5.svg:122
+#: C/gs-search-settings.svg:155 C/gs-search-settings.svg:272
+#: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
+#, no-wrap
+msgid "ON"
+msgstr "❙"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:95
+#, no-wrap
+msgid "Automatic Time Zone"
+msgstr "Časové pásmo automaticky"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:113
+#, no-wrap
+msgid "September 1st 2015, 9:51 AM"
+msgstr "1. září 2015, 17:51"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:114
+#, no-wrap
+msgid "Time Zone"
+msgstr "Časové pásmo"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:115
+#, no-wrap
+msgid "EDT (New York, United States)"
+msgstr "CEST (Prah, Česká republika)"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:119
+#, no-wrap
+msgid "Time Format"
+msgstr "Formát času"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:121
+#, no-wrap
+msgid "24-hour"
+msgstr "24hodinový"
 
 #. (itstool) path: info/title
 #: C/gs-get-online.page:15
@@ -1084,7 +1128,7 @@ msgstr "Připojení k drátové síti"
 #: C/gs-get-online.page:36
 msgid ""
 "The network connection icon on the right-hand side of the top bar shows that "
-"you are off-line."
+"you are offline."
 msgstr ""
 "Ikona síťového připojení na pravé straně horní lišty zobrazuje, že jste "
 "odpojeni."
@@ -1092,7 +1136,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/gs-get-online.page:38
 msgid ""
-"The off-line status can be caused by a number of reasons: for example, a "
+"The offline status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
 "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
@@ -1134,18 +1178,26 @@ msgstr ""
 msgid "Connect to a Wi-Fi network"
 msgstr "Připojení k bezdrátové síti"
 
-#. (itstool) path: item/p
+#. (itstool) path: steps/title
 #: C/gs-get-online.page:61
+msgid "To connect to a Wi-Fi (wireless) network:"
+msgstr "Když se chcete připojit k bezdrátové síti (Wi-Fi):"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:67
 msgid ""
-"To connect to a Wi-Fi (wireless) network, click the status menu at the top "
-"right of the screen, and then click <gui>Select Network</gui>."
+"Select <gui>Wi-Fi Not Connected</gui>. The Wi-Fi section of the menu will "
+"expand."
 msgstr ""
-"Když se chcete připojit k síti Wi-Fi (tj. bezdrátové síti), klikněte na "
-"stavovou nabídku v pravé horní části obrazovky a pak klikněte na <gui>Vybrat "
-"síť</gui>."
+"Vyberte <gui>Wi-Fi   Nepřipojeno</gui>. Část nabídky Wi-Fi se rozbalí."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:71
+msgid "Click <gui>Select Network</gui>."
+msgstr "Klikněte na <gui>Vybrat síť</gui>."
 
 #. (itstool) path: note/p
-#: C/gs-get-online.page:67
+#: C/gs-get-online.page:76
 msgid ""
 "You can only connect to a Wi-Fi network if your computer hardware supports "
 "it and you are in an area with Wi-Fi coverage."
@@ -1154,7 +1206,7 @@ msgstr ""
 "hardware a jste v místě pokryté signálem Wi-Fi."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:75
+#: C/gs-get-online.page:84
 msgid ""
 "From the list of available Wi-Fi networks, select the network you want to "
 "connect to, and click <gui>Connect</gui> to confirm."
@@ -1163,26 +1215,12 @@ msgstr ""
 "připojení potvrďte kliknutím na <gui>Připojit</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:77
+#: C/gs-get-online.page:86
 msgid ""
 "Depending on the network configuration, you may be prompted for network "
 "credentials."
 msgstr ""
 "V závislosti na nastavení sítě můžete být vyzváni ke kontrole svých pověření."
-
-#. (itstool) path: Work/format
-#: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
-#: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
-#: C/gs-go-online3.svg:293 C/gs-search1.svg:97 C/gs-search2.svg:133
-#: C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:39
-#: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36
-#: C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
-#: C/gs-thumb-windows-and-workspaces.svg:89
-#: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
-#: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
-#: C/gs-web-browser2.svg:102
-msgid "image/svg+xml"
-msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
@@ -1220,13 +1258,6 @@ msgstr "Účty on-line"
 #, no-wrap
 msgid "Add an online account"
 msgstr "Přidat účet on-line"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
-#: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
-#, no-wrap
-msgid "4"
-msgstr "4"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:66
@@ -1378,14 +1409,6 @@ msgstr "Diskuze"
 #, no-wrap
 msgid "Documents"
 msgstr "Dokumenty"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121
-#: C/gs-goa5.svg:122 C/gs-search-settings.svg:155 C/gs-search-settings.svg:272
-#: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
-#, no-wrap
-msgid "ON"
-msgstr "❙"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
@@ -1754,7 +1777,7 @@ msgid "A tutorial on switching tasks"
 msgstr "Vysvětlení, jak přepínat úlohy"
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:102
+#: C/gs-switch-tasks.page:96
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen to show the <gui>Activities Overview</gui> where you can see "
@@ -1765,7 +1788,7 @@ msgstr ""
 "vidět právě běžící úlohy v podobě náhledů oken."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:112
+#: C/gs-switch-tasks.page:106
 msgid ""
 "You can switch between tasks by using the <gui>window list</gui> at the "
 "bottom of the screen. Open tasks appear as buttons in the <gui>window list</"
@@ -1776,19 +1799,19 @@ msgstr ""
 "tlačítek."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:115
+#: C/gs-switch-tasks.page:109
 msgid "Click a button in the <gui>window list</gui> to switch to that task."
 msgstr ""
 "Kliknutím na takovéto tlačítko v <gui>seznamu oken</gui> se na úlohu "
 "přepnete."
 
 #. (itstool) path: section/title
-#: C/gs-switch-tasks.page:125 C/gs-use-windows-workspaces.page:114
+#: C/gs-switch-tasks.page:119 C/gs-use-windows-workspaces.page:114
 msgid "Tile windows"
 msgstr "Dláždění oken"
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:128 C/gs-use-windows-workspaces.page:118
+#: C/gs-switch-tasks.page:122 C/gs-use-windows-workspaces.page:118
 msgid ""
 "To maximize a window along a side of the screen, grab the window's titlebar "
 "and drag it to the left or right side of the screen."
@@ -1797,7 +1820,7 @@ msgstr ""
 "záhlaví a táhněte jej k levému nebo pravému okraji obrazovky."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:130 C/gs-use-windows-workspaces.page:120
+#: C/gs-switch-tasks.page:124 C/gs-use-windows-workspaces.page:120
 msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
 "along the selected side of the screen."
@@ -1806,7 +1829,7 @@ msgstr ""
 "maximalizuje podél vybrané strany obrazovky."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:132 C/gs-use-windows-workspaces.page:122
+#: C/gs-switch-tasks.page:126 C/gs-use-windows-workspaces.page:122
 msgid ""
 "To maximize two windows side-by-side, grab the titlebar of the second window "
 "and drag it to the opposite side of the screen."
@@ -1815,7 +1838,7 @@ msgstr ""
 "a táhněte jej na opačnou stranu obrazovky, než to první."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:134 C/gs-use-windows-workspaces.page:124
+#: C/gs-switch-tasks.page:128 C/gs-use-windows-workspaces.page:124
 msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
 "along the opposite side of the screen."
@@ -1824,12 +1847,12 @@ msgstr ""
 "maximalizuje podél druhé strany obrazovky."
 
 #. (itstool) path: section/title
-#: C/gs-switch-tasks.page:141
+#: C/gs-switch-tasks.page:135
 msgid "Switch between windows"
 msgstr "Přepínání mezi okny"
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:144
+#: C/gs-switch-tasks.page:138
 msgid ""
 "Press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
 "key><key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which "
@@ -1840,7 +1863,7 @@ msgstr ""
 "kterém jsou vypsána aktuálně otevřená okna."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:147
+#: C/gs-switch-tasks.page:141
 msgid ""
 "Release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> to "
 "select the next highlighted window in the <gui>window switcher</gui>."
@@ -1849,12 +1872,12 @@ msgstr ""
 "key> vyberete následující zvýrazněné okno v <gui>přepínači oken</gui>."
 
 #. (itstool) path: section/title
-#: C/gs-switch-tasks.page:158
+#: C/gs-switch-tasks.page:152
 msgid "Use search to switch applications"
 msgstr "Použití hledání k přepínání aplikací"
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:161
+#: C/gs-switch-tasks.page:155
 msgid ""
 "Press the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key "
 "to show the <gui>Activities Overview</gui>."
@@ -1863,7 +1886,7 @@ msgstr ""
 "key> zobrazte <gui>Přehled činností</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:163
+#: C/gs-switch-tasks.page:157
 msgid ""
 "Just start typing the name of the application you want to switch to. "
 "Applications matching what you have typed will appear as you type."
@@ -1872,7 +1895,7 @@ msgstr ""
 "vyhovující tomu, co píšete, se začnou objevovat průběžně."
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:166
+#: C/gs-switch-tasks.page:160
 msgid ""
 "When the application that you want to switch to appears as the first result, "
 "press <key>Enter</key> to switch to it."
@@ -2202,18 +2225,18 @@ msgstr ""
 "v <gui>Přehledu činností</gui>. Například si můžete zvolit, jestli chcete "
 "zobrazovat výsledky pro webové stránky, fotografie nebo hudbu."
 
-#. (itstool) path: section/p
-#: C/gs-use-system-search.page:80
+#. (itstool) path: steps/title
+#: C/gs-use-system-search.page:82
 msgid "To customize what is displayed in the search results:"
 msgstr "Když si chcete přizpůsobit, co se má zobrazovat ve výsledcích hledání:"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:85
-msgid "From the list of items, select <gui>Search</gui>."
-msgstr "Ze seznamu položek vyberte <gui>Hledat</gui>."
+#: C/gs-use-system-search.page:86
+msgid "Click the <gui>Search</gui> panel."
+msgstr "Klikněte na panel <gui>Hledání</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:86
+#: C/gs-use-system-search.page:87
 msgid ""
 "In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
 "the search location you want to enable or disable."
