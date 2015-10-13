@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2015-10-01 19:41+0000\n"
-"PO-Revision-Date: 2015-10-07 19:21+0200\n"
+"POT-Creation-Date: 2015-10-13 19:45+0000\n"
+"PO-Revision-Date: 2015-10-13 22:51+0200\n"
 "Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
 "Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
 "Language: sv\n"
@@ -584,16 +584,6 @@ msgstr "Klicka på menyn <gui>Program</gui> längst upp till vänster på skärm
 msgid "From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </guiseq>."
 msgstr "Från menyn, välj <guiseq><gui>Internet</gui><gui>Firefox</gui> </guiseq>."
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-change-date-time-timezone.page:35
-msgctxt "_"
-msgid "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
-msgstr "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
-
 #. (itstool) path: info/title
 #: C/gs-change-date-time-timezone.page:15
 msgctxt "link:trail"
@@ -638,8 +628,8 @@ msgstr "Klicka på din position på världskartan. Detta väljer din aktuella st
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:42
-msgid "Close the world map window to go back to the <gui>Date &amp; Time Settings</gui>."
-msgstr "Stäng världskartan för att gå tillbaka till <gui>Datum- &amp; tidsinställningar</gui>."
+msgid "Close the world map window to go back to the <gui>Date &amp; Time</gui>."
+msgstr "Stäng världskartan för att gå tillbaka till <gui>Datum &amp; tid</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:44
@@ -652,8 +642,8 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:49
-msgid "Close the window to go back to the <gui>Date &amp; Time Settings</gui>, and then close the panel."
-msgstr "Stäng fönstret för att gå tillbaka till <gui>Datum- &amp; tidsinställningar</gui> och stäng sedan panelen."
+msgid "Close the window to go back to the <gui>Date &amp; Time</gui>, and then close the panel."
+msgstr "Stäng fönstret för att gå tillbaka till <gui>Datum &amp; tid</gui> och stäng sedan panelen."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:15
@@ -1929,6 +1919,10 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
+
+#~ msgctxt "_"
+#~ msgid "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
+#~ msgstr "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
 
 #~ msgid "Click the clock on the top bar."
 #~ msgstr "Klicka på klockan i systemraden."
