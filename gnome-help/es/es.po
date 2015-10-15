@@ -23,8 +23,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2015-10-05 07:42+0000\n"
-"PO-Revision-Date: 2015-10-05 09:44+0200\n"
+"POT-Creation-Date: 2015-10-15 07:39+0000\n"
+"PO-Revision-Date: 2015-10-15 11:54+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -786,16 +786,6 @@ msgstr ""
 "En el menú, seleccione <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
 "guiseq>."
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-change-date-time-timezone.page:35
-msgctxt "_"
-msgid "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
-msgstr "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
-
 #. (itstool) path: info/title
 #: C/gs-change-date-time-timezone.page:15
 msgctxt "link:trail"
@@ -817,7 +807,6 @@ msgstr "Cambiar la fecha, hora y zona horaria"
 #: C/gs-change-date-time-timezone.page:28 C/gs-change-wallpaper.page:58
 #: C/gs-connect-online-accounts.page:28 C/gs-get-online.page:63
 #: C/gs-use-system-search.page:83
-#| msgid "Click the system menu on the right side of the top bar."
 msgid ""
 "Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
 "right side of the top bar."
@@ -828,7 +817,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:30 C/gs-change-wallpaper.page:60
 #: C/gs-connect-online-accounts.page:30 C/gs-use-system-search.page:85
-#| msgid "Press the settings button at the bottom of the menu."
 msgid "Click the settings button at the bottom left of the menu."
 msgstr ""
 "Pulse el botón de configuración en la parte inferior izquierda del menú."
@@ -858,12 +846,13 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:42
+#| msgid ""
+#| "Close the world map window to go back to the <gui>Date &amp; Time "
+#| "Settings</gui>."
 msgid ""
-"Close the world map window to go back to the <gui>Date &amp; Time Settings</"
-"gui>."
+"Close the world map window to go back to the <gui>Date &amp; Time</gui>."
 msgstr ""
-"Cierre la ventana del mapa mundial para volver a la <gui>Configuración de "
-"fecha y hora</gui>."
+"Cierre la ventana del mapa mundial para volver a la <gui>Fecha y hora</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:44
@@ -880,12 +869,14 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:49
+#| msgid ""
+#| "Close the window to go back to the <gui>Date &amp; Time Settings</gui>, "
+#| "and then close the panel."
 msgid ""
-"Close the window to go back to the <gui>Date &amp; Time Settings</gui>, and "
-"then close the panel."
+"Close the window to go back to the <gui>Date &amp; Time</gui>, and then "
+"close the panel."
 msgstr ""
-"Cierre la ventana para volver a la <gui>Configuración de fecha y hora</gui> "
-"y cierre al panel."
+"Cierre la ventana para volver a la <gui>Fecha y hora</gui> y cierre el panel."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:15
@@ -2422,6 +2413,12 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planeta GNOME"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
+#~ msgstr ""
+#~ "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
 
 #~| msgid "From the list of items, select <gui>Search</gui>."
 #~ msgid "From the list of panels, select <gui>Date &amp; Time</gui>."
