@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2015-09-30 22:26+0000\n"
-"PO-Revision-Date: 2015-10-03 13:57+0300\n"
+"POT-Creation-Date: 2015-10-23 07:47+0000\n"
+"PO-Revision-Date: 2015-10-23 12:38+0300\n"
 "Last-Translator: Tom Tryfonidis <tomtryf@gmail.com>\n"
 "Language-Team: www.gnome.gr\n"
 "Language: el\n"
@@ -86,9 +86,9 @@ msgid ""
 "Alternatively, use the keyboard to open the <gui>Activities Overview</gui> by pressing "
 "the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key."
 msgstr ""
-"Εναλλακτικά, χρησιμοποιήστε το πληκτρολόγιο για να ανοίξετε την <gui>Επισκόπηση "
-"δραστηριοτήτων</gui> πατώντας το πλήκτρο <key href=\"help:gnome-help/keyboard-key-super"
-"\">Λογότυπο</key>."
+"Εναλλακτικά, χρησιμοποιήστε το πληκτρολόγιο για να ανοίξετε την επισκόπηση "
+"<gui>Δραστηριότητες</gui> πατώντας το πλήκτρο <key href=\"help:gnome-help/keyboard-key-"
+"super\">Λογότυπο</key>."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:49 C/gs-launch-applications.page:49
@@ -296,7 +296,7 @@ msgid ""
 "<gui>Activities Overview</gui>."
 msgstr ""
 "Πατήστε το πλήκτρο <key href=\"help:gnome-help/keyboard-key-super\">Λογότυπο</key> για να "
-"εμφανίσετε την <gui>Επισκόπηση δραστηριοτήτων</gui>."
+"εμφανίσετε την επισκόπηση <gui>Δραστηριότητες</gui>."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:198 C/gs-switch-tasks.page:77
@@ -633,8 +633,8 @@ msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left of the screen "
 "to show the <gui>Activities Overview</gui>."
 msgstr ""
-"Μετακινήστε τον δείκτη του ποντικιού στη γωνία <gui>Δραστηριότητες</gui> στα πάνω "
-"αριστερά της οθόνης για να εμφανίσετε την <gui>Επισκόπηση δραστηριοτήτων</gui>."
+"Μετακινήστε τον δείκτη του ποντικιού στη γωνία <gui>Δραστηριότητες</gui> πάνω αριστερά "
+"της οθόνης για να εμφανίσετε την επισκόπηση <gui>Δραστηριότητες</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:29
@@ -651,7 +651,7 @@ msgid ""
 "typing</link> <em>web</em> in the <gui>Activities Overview</gui>."
 msgstr ""
 "Εναλλακτικά, μπορείτε να ξεκινήσετε τον περιηγητή <link xref=\"gs-use-system-search"
-"\">πληκτρολογώντας απλά</link> <em>web ή ιστός</em> στην <gui>Επισκόπηση δραστηριοτήτων</"
+"\">πληκτρολογώντας απλά</link> <em>web ή ιστός</em> στην επισκόπηση <gui>Δραστηριότητες</"
 "gui>."
 
 #. (itstool) path: item/p
@@ -692,7 +692,7 @@ msgstr ""
 #: C/gs-browse-web.page:51 C/gs-browse-web-firefox.page:71
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
 msgstr ""
-"Μετά την επιλογή μιας ιστοσελίδας, πατήστε <key>Enter</key> για να την επισκεφτείτε."
+"Μετά την επιλογή μιας ιστοσελίδας, πατήστε <key>Enter</key> για να την επισκεφθείτε."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web-firefox.page:33
@@ -709,7 +709,7 @@ msgid ""
 "typing</link> <em>Firefox</em> in the <gui>Activities Overview</gui>."
 msgstr ""
 "Εναλλακτικά, μπορείτε να ξεκινήσετε τον περιηγητή <link xref=\"gs-use-system-search"
-"\">πληκτρολογώντας απλά</link> <em>Firefox</em> στην <gui>Επισκόπηση δραστηριοτήτων</gui>."
+"\">πληκτρολογώντας απλά</link> <em>Firefox</em> στην επισκόπηση <gui>Δραστηριότητες</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web-firefox.page:48
@@ -720,16 +720,6 @@ msgstr "Πατήστε το μενού <gui>Εφαρμογές</gui> στα πά
 #: C/gs-browse-web-firefox.page:50
 msgid "From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </guiseq>."
 msgstr "Από το μενού, επιλέξτε <guiseq><gui>Διαδίκτυο</gui><gui>Firefox</gui> </guiseq>."
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-change-date-time-timezone.page:35
-msgctxt "_"
-msgid "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
-msgstr "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
 
 #. (itstool) path: info/title
 #: C/gs-change-date-time-timezone.page:15
@@ -776,8 +766,8 @@ msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and then click "
 "the <gui>Time Zone</gui> item below."
 msgstr ""
-"Σιγουρευτείτε ότι το <gui>Αυτόματη ζώνη ώρας</gui> είναι απενεργοποιημένο, και μετά "
-"επιλέξτε παρακάτω το αντικείμενο <gui>Ζώνη ώρας</gui>."
+"Σιγουρευτείτε ότι το <gui>Αυτόματη ζώνη ώρας</gui> είναι απενεργοποιημένο, και έπειτα "
+"κάντε κλικ στο αντικείμενο <gui>Ζώνη ώρας</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:40
@@ -790,10 +780,10 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:42
-msgid "Close the world map window to go back to the <gui>Date &amp; Time Settings</gui>."
+msgid "Close the world map window to go back to the <gui>Date &amp; Time</gui>."
 msgstr ""
-"Κλείστε το παράθυρο του παγκόσμιου χάρτη για να πάτε πίσω στις ρυθμίσεις <gui>Ημερομηνία "
-"&amp; ώρα</gui>."
+"Κλείστε το παράθυρο του παγκόσμιου χάρτη για να πάτε πίσω στο <gui>Ημερομηνία &amp; ώρα</"
+"gui>."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:44
@@ -804,7 +794,7 @@ msgid ""
 "or <gui>-</gui> buttons."
 msgstr ""
 "Σιγουρευτείτε ότι το <gui>Αυτόματη ρύθμιση ημερομηνίας &amp; ώρας</gui> είναι "
-"απενεργοποιημένο, και μετά επιλέξτε παρακάτω το στοιχείο <gui>Ημερομηνία &amp; ώρα</gui> "
+"απενεργοποιημένο, και έπειτα κάντε κλικ στο αντικείμενο <gui>Ημερομηνία &amp; ώρα</gui> "
 "για να ανοίξετε το παράθυρο <gui>Ημερομηνία &amp; ώρα</gui>. Εκεί μπορείτε να "
 "προσαρμόσετε τις ρυθμίσεις ώρας και ημερομηνίας κάνοντας κλικ στα κουμπιά <gui>+</gui> ή "
 "<gui>-</gui>."
@@ -812,11 +802,10 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:49
 msgid ""
-"Close the window to go back to the <gui>Date &amp; Time Settings</gui>, and then close "
-"the panel."
+"Close the window to go back to the <gui>Date &amp; Time</gui>, and then close the panel."
 msgstr ""
-"Κλείστε το παράθυρο για να πάτε πίσω στις ρυθμίσεις <gui>Ημερομηνία &amp; ώρα</gui>, και "
-"έπειτα κλείστε τον πίνακα."
+"Κλείστε το παράθυρο για να πάτε πίσω στο <gui>Ημερομηνία &amp; ώρα</gui>, και έπειτα "
+"κλείστε τον πίνακα."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:15
@@ -890,7 +879,7 @@ msgid ""
 "Close the <gui>Background</gui> window by clicking the cross at the top-right corner of "
 "the window."
 msgstr ""
-"Κλείστε το παράθυρο <gui>Παρασκήνιο</gui> πατώντας τον σταυρό στην πάνω δεξιά γωνία του "
+"Κλείστε το παράθυρο <gui>Παρασκήνιο</gui> πατώντας το εικονίδιο στην πάνω δεξιά γωνία του "
 "παραθύρου."
 
 #. (itstool) path: info/title
@@ -1084,7 +1073,7 @@ msgid ""
 "The network connection icon on the right-hand side of the top bar shows that you are "
 "offline."
 msgstr ""
-"Το εικονίδιο σύνδεσης δικτύου στα δεξιά της πάνω γραμμής δείχνει ότι είσαστε εκτός "
+"Το εικονίδιο σύνδεσης του δικτύου στα δεξιά της πάνω γραμμής δείχνει ότι είσαστε εκτός "
 "σύνδεσης."
 
 #. (itstool) path: item/p
@@ -1094,9 +1083,10 @@ msgid ""
 "been unplugged, the computer has been set to run in <em>airplane mode</em>, or there are "
 "no available Wi-Fi networks in your area."
 msgstr ""
-"Η κατάσταση χωρίς σύνδεση μπορεί να προκληθεί από αρκετές αιτίες: για παράδειγμα, ένα "
-"καλώδιο δικτύου έχει αποσυνδεθεί, ο υπολογιστής έχει οριστεί σε <em>λειτουργία "
-"αεροπλάνου</em>, ή δεν υπάρχουν διαθέσιμα ασύρματα δίκτυα στην περιοχή σας."
+"Η κατάσταση χωρίς σύνδεση μπορεί να προκληθεί από αρκετές αιτίες: για παράδειγμα, μπορεί "
+"ένα καλώδιο δικτύου να έχει αποσυνδεθεί, ο υπολογιστής σας να έχει οριστεί σε "
+"<em>λειτουργία αεροπλάνου</em>, ή να μην υπάρχουν διαθέσιμα ασύρματα δίκτυα στην περιοχή "
+"σας."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:42
@@ -1114,8 +1104,8 @@ msgid ""
 "While the computer sets up a network connection for you, the network connection icon "
 "shows three dots."
 msgstr ""
-"Ενώ ο υπολογιστής ρυθμίζει μια σύνδεση δικτύου για εσάς, το εικονίδιο σύνδεσης δικτύου "
-"εμφανίζει τρεις κουκκίδες."
+"Ενώ ο υπολογιστής σας δημιουργεί μια σύνδεση δικτύου για εσάς, το εικονίδιο σύνδεσης του "
+"δικτύου εμφανίζει τρεις κουκκίδες."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:47
@@ -1123,8 +1113,8 @@ msgid ""
 "Once the network connection has been successfully set up, the network connection icon "
 "changes to the networked computer symbol."
 msgstr ""
-"Μόλις η σύνδεση δικτύου ρυθμιστεί με επιτυχία, το εικονίδιο σύνδεσης δικτύου αλλάζει στο "
-"σύμβολο ενός δικτυωμένου υπολογιστή."
+"Μόλις η σύνδεση δικτύου ρυθμιστεί με επιτυχία, το εικονίδιο σύνδεσης του δικτύου αλλάζει "
+"σε ένα σύμβολο ενός δικτυωμένου υπολογιστή."
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:55
@@ -1167,7 +1157,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/gs-get-online.page:86
 msgid "Depending on the network configuration, you may be prompted for network credentials."
-msgstr "Ανάλογα με τη ρύθμιση του δικτύου, μπορεί να ζητηθούν πιστοποιητικά δικτύου."
+msgstr "Ανάλογα με τη ρύθμιση του δικτύου, μπορεί να σας ζητηθούν στοιχεία του δικτύου."
 
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278 C/gs-search1.svg:109
@@ -1483,7 +1473,7 @@ msgid ""
 "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:gnome-help/"
 "keyboard-key-super\">Super</key> key."
 msgstr ""
-"Ανοίξτε την <gui>Επισκόπηση δραστηριοτήτων</gui> πατώντας το πλήκτρο <key href=\"help:"
+"Ανοίξτε την επισκόπηση <gui>Δραστηριότητες</gui> πατώντας το πλήκτρο <key href=\"help:"
 "gnome-help/keyboard-key-super\">Λογότυπο</key>."
 
 #. (itstool) path: item/p
@@ -1725,8 +1715,8 @@ msgid ""
 "to show the <gui>Activities Overview</gui> where you can see the currently running tasks "
 "displayed as small windows."
 msgstr ""
-"Μετακινήστε τον δείκτη του ποντικιού σας στη γωνία <gui>Δραστηριότητες</gui> στα πάνω "
-"αριστερά της οθόνης για να εμφανίσετε την <gui>Επισκόπηση δραστηριοτήτων</gui>, όπου "
+"Μετακινήστε τον δείκτη του ποντικιού σας στη γωνία <gui>Δραστηριότητες</gui> πάνω "
+"αριστερά της οθόνης για να εμφανίσετε την επισκόπηση <gui>Δραστηριότητες</gui>, όπου "
 "μπορείτε να δείτε τις τρέχουσες εκτελούμενες εργασίες που εμφανίζονται ως μικρά παράθυρα."
 
 #. (itstool) path: item/p
@@ -1823,7 +1813,7 @@ msgid ""
 "<gui>Activities Overview</gui>."
 msgstr ""
 "Πατήστε το πλήκτρο <key href=\"help:gnome-help/keyboard-key-super\">Λογότυπο</key> για να "
-"εμφανίσετε την <gui>Επισκόπηση δραστηριοτήτων</gui>."
+"εμφανίσετε την επισκόπηση <gui>Δραστηριότητες</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-switch-tasks.page:157
@@ -1831,7 +1821,7 @@ msgid ""
 "Just start typing the name of the application you want to switch to. Applications "
 "matching what you have typed will appear as you type."
 msgstr ""
-"Απλά αρχίστε να πληκτρολογείτε το όνομα της εφαρμογής στην οποία θέλετε να αλλάξετε. Οι "
+"Ξεκινήστε να πληκτρολογείτε το όνομα της εφαρμογής στην οποία θέλετε να αλλάξετε. Οι "
 "εφαρμογές που ταιριάζουν αυτό που πληκτρολογείτε θα εμφανιστούν καθώς πληκτρολογείτε."
 
 #. (itstool) path: item/p
@@ -2069,7 +2059,7 @@ msgid ""
 "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:gnome-help/"
 "keyboard-key-super\">Super</key> key. Start typing to search."
 msgstr ""
-"Ανοίξτε την <gui>Επισκόπηση δραστηριοτήτων</gui> πατώντας το πλήκτρο <key href=\"help:"
+"Ανοίξτε την επισκόπηση <gui>Δραστηριότητες</gui> πατώντας το πλήκτρο <key href=\"help:"
 "gnome-help/keyboard-key-super\">Λογότυπο</key>. Ξεκινήστε να πληκτρολογείτε για αναζήτηση."
 
 #. (itstool) path: item/p
@@ -2143,7 +2133,7 @@ msgstr ""
 "αποτελεσμάτων αναζήτησης, μπορείτε να δείτε εικονίδια εφαρμογών που παρέχουν τα "
 "αποτελέσματα αναζήτησης. Πατήστε ένα από τα εικονίδια για την επανεκκίνηση της αναζήτησης "
 "μέσα από την συνδεμένη εφαρμογή με αυτό το εικονίδιο. Επειδή εμφανίζονται μόνο οι "
-"βέλτιστες αντιστοιχίες στην <gui>Επισκόπηση δραστηριοτήτων</gui>, η αναζήτηση μέσα από "
+"βέλτιστες αντιστοιχίες στην επισκόπηση <gui>Δραστηριότητες</gui>, η αναζήτηση μέσα από "
 "την εφαρμογή μπορεί να δώσει καλύτερα αποτελέσματα αναζήτησης."
 
 #. (itstool) path: section/title
@@ -2159,7 +2149,7 @@ msgid ""
 "results for websites, photos, or music."
 msgstr ""
 "Το GNOME σας επιτρέπει να προσαρμόσετε τι θέλετε να εμφανίζεται στα αποτελέσματα "
-"αναζήτησης στην <gui>Επισκόπηση δραστηριοτήτων</gui>. Για παράδειγμα, μπορείτε να "
+"αναζήτησης στην επισκόπηση <gui>Δραστηριότητες</gui>. Για παράδειγμα, μπορείτε να "
 "επιλέξετε εάν θέλετε να εμφανίζονται αποτελέσματα για ιστοτόπους, φωτογραφίες ή μουσική."
 
 #. (itstool) path: steps/title
@@ -2313,6 +2303,10 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Πλανήτης GNOME"
+
+#~ msgctxt "_"
+#~ msgid "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
+#~ msgstr "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
 
 #~ msgid "From the list of panels, select <gui>Date &amp; Time</gui>."
 #~ msgstr "Από τη λίστα πινάκων, επιλέξτε <gui>Ημερομηνία &amp; ώρα</gui>."
