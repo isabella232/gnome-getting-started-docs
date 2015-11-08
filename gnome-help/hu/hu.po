@@ -5,10 +5,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started master\n"
-"POT-Creation-Date: 2015-10-09 19:43+0000\n"
-"PO-Revision-Date: 2015-10-10 13:00+0200\n"
+"POT-Creation-Date: 2015-11-05 09:09+0000\n"
+"PO-Revision-Date: 2015-11-08 12:08+0100\n"
 "Last-Translator: Gabor Kelemen <kelemeng at ubuntu dot com>\n"
-"Language-Team: Hungarian <openscope at gmail dot com>\n"
+"Language-Team: Hungarian <openscope at googlegroups dot com>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -759,18 +759,6 @@ msgstr ""
 "A menüből válassza az <guiseq><gui>Internet</gui><gui>Firefox</gui></guiseq> "
 "menüpontot."
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-change-date-time-timezone.page:35
-#| msgctxt "_"
-#| msgid "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
-msgctxt "_"
-msgid "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
-msgstr "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
-
 #. (itstool) path: info/title
 #: C/gs-change-date-time-timezone.page:15
 msgctxt "link:trail"
@@ -792,7 +780,6 @@ msgstr "Dátum, idő és időzóna módosítása"
 #: C/gs-change-date-time-timezone.page:28 C/gs-change-wallpaper.page:58
 #: C/gs-connect-online-accounts.page:28 C/gs-get-online.page:63
 #: C/gs-use-system-search.page:83
-#| msgid "Click the system menu on the right side of the top bar."
 msgid ""
 "Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
 "right side of the top bar."
@@ -803,13 +790,11 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:30 C/gs-change-wallpaper.page:60
 #: C/gs-connect-online-accounts.page:30 C/gs-use-system-search.page:85
-#| msgid "Press the settings button at the bottom of the menu."
 msgid "Click the settings button at the bottom left of the menu."
 msgstr "Nyomja meg a Beállítások gombot a menü bal alsó részén."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:31
-#| msgid "Select <gui>Date &amp; Time Settings</gui>."
 msgid "Select the <gui>Date &amp; Time</gui> panel."
 msgstr "Válassza a <gui>Dátum és idő</gui> panelt."
 
@@ -824,9 +809,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:40
-#| msgid ""
-#| "Click on your location on the map. This selects your current city, which "
-#| "you can also search for in the search box above the map."
 msgid ""
 "Click on your location on the world map. This selects your current city, "
 "which you can also search for in the search box above the map."
@@ -837,11 +819,10 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:42
 #| msgid ""
-#| "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-#| "Settings</gui> window."
+#| "Close the world map window to go back to the <gui>Date &amp; Time "
+#| "Settings</gui>."
 msgid ""
-"Close the world map window to go back to the <gui>Date &amp; Time Settings</"
-"gui>."
+"Close the world map window to go back to the <gui>Date &amp; Time</gui>."
 msgstr ""
 "Zárja be a térképet a visszatéréshez a <gui>Dátum és idő</gui> panelhez."
 
@@ -861,14 +842,14 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:49
 #| msgid ""
-#| "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-#| "Settings</gui> window."
+#| "Close the window to go back to the <gui>Date &amp; Time Settings</gui>, "
+#| "and then close the panel."
 msgid ""
-"Close the window to go back to the <gui>Date &amp; Time Settings</gui>, and "
-"then close the panel."
+"Close the window to go back to the <gui>Date &amp; Time</gui>, and then "
+"close the panel."
 msgstr ""
-"Zárja be az ablakot a visszatéréshez a <gui>Dátum és idő</gui> panelhez, majd "
-"zárja be azt is."
+"Zárja be az ablakot a visszatéréshez a <gui>Dátum és idő</gui> panelhez, "
+"majd zárja be azt is."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:15
@@ -926,7 +907,6 @@ msgstr "Zárja be a <gui>Háttér</gui> ablakot."
 
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
-#| msgid "Close the <gui>Background</gui> window."
 msgid "Click the <gui>Background</gui> panel."
 msgstr "Kattintson a <emph>Háttér</emph> panelre."
 
@@ -967,9 +947,6 @@ msgstr "Kapcsolódás online fiókokhoz"
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:37
-#| msgid ""
-#| "From the list of items, select <gui>Online Accounts</gui>, then click on "
-#| "the <gui>Add an online account</gui> button."
 msgid ""
 "Click the <gui>Online Accounts</gui> panel, then click the <gui>Add an "
 "online account</gui> button."
@@ -1050,14 +1027,12 @@ msgstr "4"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:78 C/gs-datetime.svg:112
 #, no-wrap
-#| msgid "Changing Date &amp; Time"
 msgid "Date &amp; Time"
 msgstr "Dátum és idő"
 
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:80
 #, no-wrap
-#| msgid "Automatic Date and Time"
 msgid "Automatic Date &amp; Time"
 msgstr "Automatikus dátum és idő"
 
@@ -1079,7 +1054,6 @@ msgstr "BE"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:95
 #, no-wrap
-#| msgid "Automatic Timezone"
 msgid "Automatic Time Zone"
 msgstr "Automatikus időzóna"
 
@@ -1144,9 +1118,6 @@ msgstr "Csatlakozás vezetékes hálózathoz"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:36
-#| msgid ""
-#| "The network connection icon on the right-hand side of the top bar shows "
-#| "that you are off-line."
 msgid ""
 "The network connection icon on the right-hand side of the top bar shows that "
 "you are offline."
@@ -1156,11 +1127,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:38
-#| msgid ""
-#| "The off-line status can be caused by a number of reasons: for example, a "
-#| "network cable has been unplugged, the computer has been set to run in "
-#| "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
-#| "area."
 msgid ""
 "The offline status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
@@ -1207,7 +1173,6 @@ msgstr "Csatlakozás Wi-Fi hálózathoz"
 
 #. (itstool) path: steps/title
 #: C/gs-get-online.page:61
-#| msgid "Connect to a Wi-Fi network"
 msgid "To connect to a Wi-Fi (wireless) network:"
 msgstr "Csatlakozás Wi-Fi (vezeték nélküli) hálózathoz"
 
@@ -1217,12 +1182,11 @@ msgid ""
 "Select <gui>Wi-Fi Not Connected</gui>. The Wi-Fi section of the menu will "
 "expand."
 msgstr ""
-"Válasza a <gui>Wi-Fi nincs csatlakoztatva</gui> lehetőséget. Ekkor kinyílik a "
-"menü Wi-Fi szakasza."
+"Válasza a <gui>Wi-Fi nincs csatlakoztatva</gui> lehetőséget. Ekkor kinyílik "
+"a menü Wi-Fi szakasza."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:71
-#| msgid "Click <gui>Close</gui>."
 msgid "Click <gui>Select Network</gui>."
 msgstr "Nyomja meg a <gui>Hálózat választása</gui> gombot."
 
@@ -2264,7 +2228,6 @@ msgstr "A találatok személyre szabásához:"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:86
-#| msgid "Click the <gui>Select</gui> button."
 msgid "Click the <gui>Search</gui> panel."
 msgstr "Kattintson a <gui>Keresés</gui> panelre."
 
@@ -2413,6 +2376,14 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
+
+#~| msgctxt "_"
+#~| msgid "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
+#~ msgstr ""
+#~ "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
 
 #~ msgid "Click the clock on the top bar."
 #~ msgstr "Kattintson az órára a felső sávban."
