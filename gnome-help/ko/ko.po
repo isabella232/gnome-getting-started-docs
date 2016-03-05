@@ -1,13 +1,12 @@
 # Korean translation for gnome-getting-started-docs.
-# Copyright (C) 2014 gnome-getting-started-docs's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-getting-started-docs package.
-# Seong-ho Cho <shcho@gnome.org>, 2014.
+# Seong-ho Cho <shcho@gnome.org>, 2014, 2016.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2015-09-06 07:15+0000\n"
-"PO-Revision-Date: 2015-09-06 22:34+0900\n"
+"POT-Creation-Date: 2016-03-03 09:09+0000\n"
+"PO-Revision-Date: 2016-03-03 19:25+0900\n"
 "Last-Translator: Seong-ho Cho <shcho@gnome.org>\n"
 "Language-Team: Korean <gnome-kr@googlegroups.com>\n"
 "Language: ko\n"
@@ -15,12 +14,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Gtranslator 2.91.7\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Seong-ho Cho <shcho@gnome.org>, 2014"
+msgstr "조성호 <shcho@gnome.org>, 2014, 2016"
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:11
@@ -138,8 +137,8 @@ msgstr ""
 msgid ""
 "You can also click the top bar to drag the window away and unmaximize it."
 msgstr ""
-"상단 표시줄을 눌러서 창을 다른 곳으로 끌어내어 최대화 상태에서 복귀 할 수 있"
-"습니다."
+"상단 표시줄을 눌러 창을 다른 곳으로 끌어내면 최대화 상태에서 복귀 할 수 있습"
+"니다."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:89 C/getting-started.page:163
@@ -368,8 +367,8 @@ msgid ""
 "A chat message near the top of the screen disappears after a while if you do "
 "not move your mouse over the message."
 msgstr ""
-"화면 상단의 대화 메시지는 메시지 표시줄로 마우스를 가져다 놓지 않으면 곧 사라"
-"집니다."
+"화면 상단의 대화 메시지는 메시지 표시줄로 마우스 커서를 올려놓지 않으면 곧 사"
+"라집니다."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
@@ -550,7 +549,7 @@ msgstr "회의할 준비 되셨나요?"
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:39
 msgid "I'll be there in a sec..."
-msgstr "금방 갈께요~"
+msgstr "금방 갈께요..."
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
@@ -615,7 +614,7 @@ msgstr "2013년 10월 14일, 14:00"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:9 C/gs-browse-web-firefox.page:10
-#: C/gs-change-date-time-timezone.page:10 C/gs-change-wallpaper.page:9
+#: C/gs-change-date-time-timezone.page:9 C/gs-change-wallpaper.page:9
 #: C/gs-connect-online-accounts.page:9 C/gs-get-online.page:9
 #: C/gs-launch-applications.page:9 C/gs-respond-messages.page:9
 #: C/gs-switch-tasks.page:10 C/gs-use-system-search.page:9
@@ -625,7 +624,7 @@ msgstr "Jakub Steiner"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:12 C/gs-browse-web-firefox.page:13
-#: C/gs-change-date-time-timezone.page:13 C/gs-change-wallpaper.page:12
+#: C/gs-change-date-time-timezone.page:12 C/gs-change-wallpaper.page:12
 #: C/gs-connect-online-accounts.page:12 C/gs-get-online.page:12
 #: C/gs-launch-applications.page:12 C/gs-respond-messages.page:12
 #: C/gs-switch-tasks.page:13 C/gs-use-system-search.page:12
@@ -743,34 +742,49 @@ msgstr ""
 "메뉴에서 <guiseq><gui>인터넷</gui><gui>Firefox</gui></guiseq>를 선택하십시오."
 
 #. (itstool) path: info/title
-#: C/gs-change-date-time-timezone.page:16
+#: C/gs-change-date-time-timezone.page:15
 msgctxt "link:trail"
 msgid "Change the date, time and timezone"
 msgstr "날짜, 시간, 시간대 바꾸기"
 
 #. (itstool) path: info/title
-#: C/gs-change-date-time-timezone.page:18
+#: C/gs-change-date-time-timezone.page:17
 msgctxt "link:seealso"
 msgid "A tutorial on changing the date, time and timezone"
 msgstr "날짜, 시간, 시간때 바꾸기 따라하기"
 
 #. (itstool) path: page/title
-#. (itstool) path: section/title
-#: C/gs-change-date-time-timezone.page:23
-#: C/gs-change-date-time-timezone.page:65
+#: C/gs-change-date-time-timezone.page:22
 msgid "Change the date, time and timezone"
 msgstr "날짜, 시간, 시간대 바꾸기"
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:68
+#: C/gs-change-date-time-timezone.page:28 C/gs-change-wallpaper.page:58
+#: C/gs-connect-online-accounts.page:28 C/gs-get-online.page:63
+#: C/gs-use-system-search.page:83
+#| msgid "Click the system menu on the right side of the top bar."
 msgid ""
-"Click the clock on the top bar and select the <gui>Date &amp; Time Settings</"
-"gui> item."
+"Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
+"right side of the top bar."
 msgstr ""
-"상단 표시줄의 시계를 누르고 <gui>날짜 및 시간 설정</gui> 항목을 선택하십시오."
+"상단 표시줄의 우측에 있는 <gui xref=\"shell-introduction#yourname\">시스템 메"
+"뉴</gui>를 누르십시오."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:70
+#: C/gs-change-date-time-timezone.page:30 C/gs-change-wallpaper.page:60
+#: C/gs-connect-online-accounts.page:30 C/gs-use-system-search.page:85
+#| msgid "Press the settings button at the bottom of the menu."
+msgid "Click the settings button at the bottom left of the menu."
+msgstr "메뉴 하단의 설정 단추를 누르십시오."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:31
+#| msgid "Select <gui>Date &amp; Time Settings</gui>."
+msgid "Select the <gui>Date &amp; Time</gui> panel."
+msgstr "<gui>날짜 및 시간</gui> 창을 선택하십시오."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:38
 msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
 "then click the <gui>Time Zone</gui> item below."
@@ -779,24 +793,28 @@ msgstr ""
 "</gui> 항목을 누르십시오."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:72
+#: C/gs-change-date-time-timezone.page:40
+#| msgid ""
+#| "Click on your location on the map. This selects your current city, which "
+#| "you can also search for in the search box above the map."
 msgid ""
-"Click on your location on the map. This selects your current city, which you "
-"can also search for in the search box above the map."
+"Click on your location on the world map. This selects your current city, "
+"which you can also search for in the search box above the map."
 msgstr ""
-"지도에서 위치 지점을 누르십시오. 선택한 지점이 현재 위치의 도시이며, 지도상"
-"의 검색 창으로 검색할 수 있습니다."
+"세계 지도에서 위치 지점을 누르십시오. 선택한 지점이 현재 위치의 도시이며, 지"
+"도상의 검색 창으로 검색할 수 있습니다."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:75
+#: C/gs-change-date-time-timezone.page:42
+#| msgid ""
+#| "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
+#| "Settings</gui> window."
 msgid ""
-"Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-"Settings</gui> window."
-msgstr ""
-"<gui>닫기</gui>단추를 눌러 <gui>날짜 및 시간 설정</gui> 창으로 돌아가십시오."
+"Close the world map window to go back to the <gui>Date &amp; Time</gui>."
+msgstr "세계 지도를 닫아 <gui>날짜 및 시간 설정</gui> 창으로 돌아가십시오."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:77
+#: C/gs-change-date-time-timezone.page:44
 msgid ""
 "Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
 "off, and then click the <gui>Date &amp; Time</gui> item below to open the "
@@ -809,14 +827,14 @@ msgstr ""
 "수 있습니다."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:82
+#: C/gs-change-date-time-timezone.page:49
+#| msgid ""
+#| "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
+#| "Settings</gui> window."
 msgid ""
-"Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-"Settings</gui> window, and then close that window by clicking the cross at "
-"the top-right corner of that window."
-msgstr ""
-"<gui>닫기</gui> 단추를 눌러 <gui>날짜 및 시간 설정</gui> 창으로 돌아가시고, "
-"창의 우측 상단에 있는 십자표시를 눌러 창을 닫으십시오."
+"Close the window to go back to the <gui>Date &amp; Time</gui>, and then "
+"close the panel."
+msgstr "창을 닫아 <gui>날짜 및 시간 설정</gui> 창으로 돌아가십시오."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:15
@@ -856,13 +874,13 @@ msgstr "현재 배경 화면 이미지를 누르세요."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:63
+#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:64
 msgid "Click the background image you want to use."
 msgstr "사용하려는 배경 화면 이미지를 누르세요."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:64
+#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:65
 msgid "Click the <gui>Select</gui> button."
 msgstr "<gui>선택</gui> 단추를 누르세요."
 
@@ -872,28 +890,20 @@ msgid "Close the <gui>Background</gui> window."
 msgstr "<gui>배경 화면</gui> 창을 닫으세요."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:58 C/gs-use-system-search.page:83
-msgid ""
-"Click the system menu on the right side of the top bar and press the "
-"settings button at the bottom of the menu."
-msgstr ""
-"상단 표시줄의 우측에 있는 시스템 메뉴를 누르고 메뉴 하단의 설정 단추를 누르세"
-"요."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:60
-msgid "From the list of items, select <gui>Background</gui>."
-msgstr "목록의 항목 중, <gui>배경 화면</gui>을 선택하세요."
-
-#. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
+#| msgid "Close the <gui>Background</gui> window."
+msgid "Click the <gui>Background</gui> panel."
+msgstr "<gui>배경 화면</gui> 창을 누르십시오."
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:62
 msgid ""
 "Click the current background image on the left side of the <gui>Background</"
 "gui> window."
 msgstr "<gui>배경 화면</gui>창의 우측에 있는 현재 배경 그림을 누르세요."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:65
+#: C/gs-change-wallpaper.page:66
 msgid ""
 "Close the <gui>Background</gui> window by clicking the cross at the top-"
 "right corner of the window."
@@ -917,26 +927,19 @@ msgid "Connect to online accounts"
 msgstr "온라인 계정에 연결하기"
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:28
-msgid "Click the system menu on the right side of the top bar."
-msgstr "상단 표시줄의 우측에 있는 시스템 메뉴를 누르세요."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:29
-msgid "Press the settings button at the bottom of the menu."
-msgstr "메뉴 하단의 설정 단추를 누르세요."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:36
+#: C/gs-connect-online-accounts.page:37
+#| msgid ""
+#| "From the list of items, select <gui>Online Accounts</gui>, then click on "
+#| "the <gui>Add an online account</gui> button."
 msgid ""
-"From the list of items, select <gui>Online Accounts</gui>, then click on the "
-"<gui>Add an online account</gui> button."
+"Click the <gui>Online Accounts</gui> panel, then click the <gui>Add an "
+"online account</gui> button."
 msgstr ""
-"목록의 항목 중, <gui>온라인 계정</gui>을 선택하고 <gui>온라인 계정 추가</"
-"gui> 단추를 누르세요."
+"<gui>온라인 계정</gui> 창을 누른 후, <gui>온라인 계정 추가</gui> 단추를 누르"
+"십시오."
 
 #. (itstool) path: note/p
-#: C/gs-connect-online-accounts.page:40
+#: C/gs-connect-online-accounts.page:41
 msgid ""
 "If you have set up an online account before, you can add another online "
 "account by clicking the <gui>+</gui> button at the bottom left corner of the "
@@ -946,14 +949,14 @@ msgstr ""
 "다른 온라인 계정을 추가할 수 있습니다."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:48
+#: C/gs-connect-online-accounts.page:49
 msgid ""
 "Click the online account you want to use. This will open a new window where "
 "you can sign in to your online account."
 msgstr "사용할 온라인 계정을 누르세요. 온라인 계정에 로그인 할 새 창을 엽니다."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:56
+#: C/gs-connect-online-accounts.page:57
 msgid ""
 "In most cases, you will have to grant access to the online service after "
 "signing in to get started."
@@ -961,7 +964,7 @@ msgstr ""
 "대부분, 시작하려고 로그인 한 후 온라인 서비스 접근을 허가받아야 합니다."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:58
+#: C/gs-connect-online-accounts.page:59
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
 "click the <gui>Grant Access</gui> button."
@@ -969,7 +972,7 @@ msgstr ""
 "예를 들어, 구글 계정에 접속한다면, <gui>접근 허가</gui> 단추를 눌러야 합니다."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:66
+#: C/gs-connect-online-accounts.page:67
 msgid ""
 "Many online accounts let you choose the services you want to use with your "
 "online account. If you do not want to use a service, disable it by clicking "
@@ -978,6 +981,94 @@ msgstr ""
 "수많은 온라인 계정은 사용하고자 하는 온라인 계정 서비스를 선택하도록 합니다. "
 "서비스 사용을 원치 않으면, 창의 오른편에 있는 <gui>켬/끔</gui> 스위치를 눌러 "
 "기능을 끄십시오."
+
+#. (itstool) path: Work/format
+#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51
+#: C/gs-goa4.svg:36 C/gs-goa5.svg:48 C/gs-go-online1.svg:230
+#: C/gs-go-online2.svg:265 C/gs-go-online3.svg:293 C/gs-search1.svg:97
+#: C/gs-search2.svg:133 C/gs-search-settings.svg:98
+#: C/gs-thumb-changing-wallpaper.svg:39 C/gs-thumb-launching-apps.svg:189
+#: C/gs-thumb-responding-to-messages.svg:36 C/gs-thumb-task-switching.svg:89
+#: C/gs-thumb-timezone.svg:41 C/gs-thumb-windows-and-workspaces.svg:89
+#: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
+#: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
+#: C/gs-web-browser2.svg:102
+msgid "image/svg+xml"
+msgstr "image/svg+xml"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:60 C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104
+#: C/gs-thumb-timezone.svg:138 C/gs-web-browser2-firefox.svg:113
+#: C/gs-web-browser2.svg:115
+#, no-wrap
+msgid "4"
+msgstr "4"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:78 C/gs-datetime.svg:112
+#, no-wrap
+#| msgid "Changing Date &amp; Time"
+msgid "Date &amp; Time"
+msgstr "날짜 및 시간"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:80
+#, no-wrap
+#| msgid "Automatic Date and Time"
+msgid "Automatic Date &amp; Time"
+msgstr "날짜 및 시간 자동 설정"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:81 C/gs-datetime.svg:96
+#, no-wrap
+msgid "Requires internet access"
+msgstr "인터넷 연결이 필요함"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:87 C/gs-datetime.svg:102 C/gs-goa5.svg:118
+#: C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121 C/gs-goa5.svg:122
+#: C/gs-search-settings.svg:155 C/gs-search-settings.svg:272
+#: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
+#, no-wrap
+msgid "ON"
+msgstr "켬"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:95
+#, no-wrap
+#| msgid "Automatic Timezone"
+msgid "Automatic Time Zone"
+msgstr "시간대 자동 설정"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:113
+#, no-wrap
+msgid "September 1st 2015, 9:51 AM"
+msgstr "2015년 9월 1일 오전 9:51"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:114
+#, no-wrap
+msgid "Time Zone"
+msgstr "시간대"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:115
+#, no-wrap
+msgid "EDT (New York, United States)"
+msgstr "미 동부 시간대(미국 뉴욕)"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:119
+#, no-wrap
+msgid "Time Format"
+msgstr "시간 형식"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:121
+#, no-wrap
+msgid "24-hour"
+msgstr "24시간"
 
 #. (itstool) path: info/title
 #: C/gs-get-online.page:15
@@ -1010,23 +1101,31 @@ msgstr "유선 네트워크에 연결하기"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:36
+#| msgid ""
+#| "The network connection icon on the right-hand side of the top bar shows "
+#| "that you are off-line."
 msgid ""
 "The network connection icon on the right-hand side of the top bar shows that "
-"you are off-line."
+"you are offline."
 msgstr ""
-"상단 표시줄 우측의 네트워크 연결 아이콘은 오프라인 상태임을 나타냅니다."
+"상단 표시줄 우측의 네트워크 연결 아이콘은 연결이 끊어진 상태임을 나타냅니다."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:38
+#| msgid ""
+#| "The off-line status can be caused by a number of reasons: for example, a "
+#| "network cable has been unplugged, the computer has been set to run in "
+#| "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
+#| "area."
 msgid ""
-"The off-line status can be caused by a number of reasons: for example, a "
+"The offline status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
 "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
 msgstr ""
-"오프라인 상태는 여러가지 이유로 나타날 수 있습니다. 예를 들자면 네트워크 케이"
-"블이 빠져있거나, 컴퓨터를 <em>비행기 모드</em>로 실행하도록 설정했거나, 여러"
-"분이 머물러 있는 공간에 와이파이 네트워크가 없기 때문일 수 있습니다."
+"연결이 끊어진 상태는 여러가지 이유로 나타날 수 있습니다. 예를 들자면 네트워"
+"크 케이블이 빠져있거나, 컴퓨터를 <em>비행기 모드</em>로 실행하도록 설정했거"
+"나, 여러분이 머물러 있는 공간에 와이파이 네트워크가 없기 때문일 수 있습니다."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:42
@@ -1061,17 +1160,29 @@ msgstr ""
 msgid "Connect to a Wi-Fi network"
 msgstr "와이파이 네트워크 연결하기"
 
-#. (itstool) path: item/p
+#. (itstool) path: steps/title
 #: C/gs-get-online.page:61
+#| msgid "Connect to a Wi-Fi network"
+msgid "To connect to a Wi-Fi (wireless) network:"
+msgstr "와이파이(무선랜) 네트워크에 연결하는 방법:"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:67
 msgid ""
-"To connect to a Wi-Fi (wireless) network, click the status menu at the top "
-"right of the screen, and then click <gui>Select Network</gui>."
+"Select <gui>Wi-Fi Not Connected</gui>. The Wi-Fi section of the menu will "
+"expand."
 msgstr ""
-"와이파이(무선) 네트워크에 연결하려면 화면 우측 상단의 상태 메뉴를 누르고, "
-"<gui>네트워크 선택</gui>를 누르십시오."
+"<gui>와이파이에 연결하지 않음/</gui>을 선택하십시오. 메뉴의 와이파이 섹션 항"
+"목이 늘어납니다."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:71
+#| msgid "Click <gui>Close</gui>."
+msgid "Click <gui>Select Network</gui>."
+msgstr "<gui>네트워크 선택</gui>을 누르십시오."
 
 #. (itstool) path: note/p
-#: C/gs-get-online.page:67
+#: C/gs-get-online.page:76
 msgid ""
 "You can only connect to a Wi-Fi network if your computer hardware supports "
 "it and you are in an area with Wi-Fi coverage."
@@ -1080,7 +1191,7 @@ msgstr ""
 "우에만 와이파이 네트워크에 연결할 수 있습니다."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:75
+#: C/gs-get-online.page:84
 msgid ""
 "From the list of available Wi-Fi networks, select the network you want to "
 "connect to, and click <gui>Connect</gui> to confirm."
@@ -1089,40 +1200,26 @@ msgstr ""
 "해 <gui>연결</gui>을 누르십시오."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:77
+#: C/gs-get-online.page:86
 msgid ""
 "Depending on the network configuration, you may be prompted for network "
 "credentials."
 msgstr "네트워크 설정에 따라, 네트워크 인증을 입력해야 할 수도 있습니다."
 
-#. (itstool) path: Work/format
-#: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
-#: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
-#: C/gs-go-online3.svg:293 C/gs-search1.svg:97 C/gs-search2.svg:133
-#: C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:39
-#: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36
-#: C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
-#: C/gs-thumb-windows-and-workspaces.svg:89
-#: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
-#: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
-#: C/gs-web-browser2.svg:102
-msgid "image/svg+xml"
-msgstr "image/svg+xml"
-
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
-#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101
-#: C/gs-thumb-timezone.svg:135 C/gs-web-browser1-firefox-classic.svg:115
-#: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
+#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101 C/gs-thumb-timezone.svg:135
+#: C/gs-web-browser1-firefox-classic.svg:115 C/gs-web-browser1-firefox.svg:120
+#: C/gs-web-browser1.svg:120
 #, no-wrap
 msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:306
-#: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102
-#: C/gs-thumb-timezone.svg:136 C/gs-web-browser1-firefox-classic.svg:137
-#: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
+#: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102 C/gs-thumb-timezone.svg:136
+#: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
+#: C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
 msgstr "2"
@@ -1145,13 +1242,6 @@ msgstr "온라인 계정"
 #, no-wrap
 msgid "Add an online account"
 msgstr "온라인 계정 추가"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
-#: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
-#, no-wrap
-msgid "4"
-msgstr "4"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:66
@@ -1305,14 +1395,6 @@ msgid "Documents"
 msgstr "문서"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121
-#: C/gs-goa5.svg:122 C/gs-search-settings.svg:155 C/gs-search-settings.svg:272
-#: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
-#, no-wrap
-msgid "ON"
-msgstr "켬"
-
-#. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
 #: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
 #: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
@@ -1460,7 +1542,7 @@ msgstr ""
 #. (itstool) path: p/link
 #: C/gs-legal.xml:3
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
-msgstr "크리에이티브 커먼즈 저작자 표시 3.0 Unported 라이선스"
+msgstr "크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0 Unported 라이선스"
 
 #. (itstool) path: license/p
 #: C/gs-legal.xml:3
@@ -1513,8 +1595,8 @@ msgid ""
 "When a chat message appears near the top of the screen and you do not move "
 "your mouse over the message, it disappears after a while."
 msgstr ""
-"화면 상단에 대화 메시지가 뜰 때 메시지에 마우스 포인터를 가져다 놓지 않으면 "
-"곧 사라집니다."
+"화면 상단에 대화 메시지가 뜰 때 메시지에 마우스 포인터를 올려놓지 않으면 곧 "
+"사라집니다."
 
 #. (itstool) path: item/p
 #: C/gs-respond-messages.page:98
@@ -2115,18 +2197,19 @@ msgstr ""
 "할 수 있습니다. 예를 들어 어떤 웹사이트, 사진, 음악 검색 결과를 볼지 선택할 "
 "수 있습니다."
 
-#. (itstool) path: section/p
-#: C/gs-use-system-search.page:80
+#. (itstool) path: steps/title
+#: C/gs-use-system-search.page:82
 msgid "To customize what is displayed in the search results:"
 msgstr "검색 결과 표시 내용을 편집하려면:"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:85
-msgid "From the list of items, select <gui>Search</gui>."
-msgstr "항목 목록에서 <gui>검색</gui>을 누르십시오."
+#: C/gs-use-system-search.page:86
+#| msgid "Click the <gui>Select</gui> button."
+msgid "Click the <gui>Search</gui> panel."
+msgstr "<gui>검색</gui> 창을 누르십시오."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:86
+#: C/gs-use-system-search.page:87
 msgid ""
 "In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
 "the search location you want to enable or disable."
@@ -2270,6 +2353,41 @@ msgid "Planet GNOME"
 msgstr "플래닛 그놈"
 
 #~ msgid ""
+#~ "Click the clock on the top bar and select the <gui>Date &amp; Time "
+#~ "Settings</gui> item."
+#~ msgstr ""
+#~ "상단 표시줄의 시계를 누르고 <gui>날짜 및 시간 설정</gui> 항목을 선택하십시"
+#~ "오."
+
+#~ msgid ""
+#~ "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
+#~ "Settings</gui> window, and then close that window by clicking the cross "
+#~ "at the top-right corner of that window."
+#~ msgstr ""
+#~ "<gui>닫기</gui> 단추를 눌러 <gui>날짜 및 시간 설정</gui> 창으로 돌아가시"
+#~ "고, 창의 우측 상단에 있는 십자표시를 눌러 창을 닫으십시오."
+
+#~ msgid ""
+#~ "Click the system menu on the right side of the top bar and press the "
+#~ "settings button at the bottom of the menu."
+#~ msgstr ""
+#~ "상단 표시줄의 우측에 있는 시스템 메뉴를 누르고 메뉴 하단의 설정 단추를 누"
+#~ "르세요."
+
+#~ msgid "From the list of items, select <gui>Background</gui>."
+#~ msgstr "목록의 항목 중, <gui>배경 화면</gui>을 선택하세요."
+
+#~ msgid ""
+#~ "To connect to a Wi-Fi (wireless) network, click the status menu at the "
+#~ "top right of the screen, and then click <gui>Select Network</gui>."
+#~ msgstr ""
+#~ "와이파이(무선) 네트워크에 연결하려면 화면 우측 상단의 상태 메뉴를 누르고, "
+#~ "<gui>네트워크 선택</gui>를 누르십시오."
+
+#~ msgid "From the list of items, select <gui>Search</gui>."
+#~ msgstr "항목 목록에서 <gui>검색</gui>을 누르십시오."
+
+#~ msgid ""
 #~ "Move your mouse to the message tray at the bottom of the screen and click "
 #~ "the chat message."
 #~ msgstr ""
@@ -2289,14 +2407,8 @@ msgstr "플래닛 그놈"
 #~ msgid "To dismiss the message tray, press <key>Esc</key>."
 #~ msgstr "메시지 표시줄을 없애려면, <key>Esc</key>키를 누르십시오."
 
-#~ msgid "Changing Date &amp; Time"
-#~ msgstr "날짜 및 시간 바꾸기"
-
 #~ msgid "Click the clock on the top bar."
 #~ msgstr "상단 표시줄의 시계를 누르십시오."
-
-#~ msgid "Select <gui>Date &amp; Time Settings</gui>."
-#~ msgstr "<gui>날짜 및 시간 설정</gui>을 선택하십시오."
 
 #~ msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
 #~ msgstr "<gui>자동 시간대</gui>를 껐는지 확인하십시오."
@@ -2306,9 +2418,6 @@ msgstr "플래닛 그놈"
 
 #~ msgid "Click on your location on the map."
 #~ msgstr "지도에서 위치 지점을 누르십시오."
-
-#~ msgid "Click <gui>Close</gui>."
-#~ msgstr "<gui>닫기</gui>를 누르십시오."
 
 #~ msgid "Close the window."
 #~ msgstr "창을 닫으십시오."
