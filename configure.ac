@@ -1,6 +1,6 @@
-AC_INIT([gnome-getting-started-docs], [3.18.2],
+AC_INIT([gnome-getting-started-docs], [3.20.0],
         [https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-getting-started])
-AM_INIT_AUTOMAKE([1.11 tar-ustar dist-xz no-dist-gzip])
+AM_INIT_AUTOMAKE([1.11 check-news tar-ustar dist-xz no-dist-gzip])
 AM_SILENT_RULES([yes])
 
 YELP_HELP_INIT
