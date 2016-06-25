@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2015-11-22 09:10+0000\n"
+"POT-Creation-Date: 2015-10-13 16:03+0000\n"
 "PO-Revision-Date: 2015-11-22 10:31+0000\n"
 "Last-Translator: Pedro Albuquerque <palbuquerque73@gmail.com>\n"
 "Language-Team: Português <palbuquerque73@gmail.com>\n"
@@ -176,6 +176,9 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/getting-started.page:105 C/gs-use-windows-workspaces.page:63
 #: C/gs-use-windows-workspaces.page:134
+#| msgid ""
+#| "To maximize a window using the keyboard, hold down the <key href=\"help:"
+#| "gnome-help/keyboard-key-super\">Super</key> key and press <key>?</key>."
 msgid ""
 "To maximize a window using the keyboard, hold down the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
@@ -185,6 +188,10 @@ msgstr ""
 
 #. (itstool) path: div/p
 #: C/getting-started.page:110 C/gs-use-windows-workspaces.page:68
+#| msgid ""
+#| "To restore the window to its unmaximized size, hold down the <key href="
+#| "\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>?</"
+#| "key>."
 msgid ""
 "To restore the window to its unmaximized size, hold down the <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
@@ -198,6 +205,10 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/getting-started.page:115 C/gs-use-windows-workspaces.page:73
 #: C/gs-use-windows-workspaces.page:148
+#| msgid ""
+#| "To maximize a window along the right side of the screen, hold down the "
+#| "<key href=\"help:gnome-help/keyboard-key-super\">Super</key> key and "
+#| "press <key>?</key>."
 msgid ""
 "To maximize a window along the right side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
@@ -211,6 +222,10 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/getting-started.page:120 C/gs-use-windows-workspaces.page:78
 #: C/gs-use-windows-workspaces.page:151
+#| msgid ""
+#| "To maximize a window along the left side of the screen, hold down the "
+#| "<key href=\"help:gnome-help/keyboard-key-super\">Super</key> key and "
+#| "press <key>?</key>."
 msgid ""
 "To maximize a window along the left side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
@@ -343,6 +358,9 @@ msgstr "Responder a mensagens"
 #. (itstool) path: item/p
 #: C/getting-started.page:223 C/gs-respond-messages.page:32
 #: C/gs-respond-messages.page:80
+#| msgid ""
+#| "Move your mouse pointer to the <gui>Activities</gui> corner at the top "
+#| "left of the screen."
 msgid ""
 "Move your mouse over the chat message that appears near the top of the "
 "screen."
@@ -372,6 +390,9 @@ msgstr "Resposta atrasada"
 
 #. (itstool) path: div/p
 #: C/getting-started.page:237 C/gs-respond-messages.page:46
+#| msgid ""
+#| "A chat message in the message tray disappears after a while if you do not "
+#| "move your mouse to the message tray."
 msgid ""
 "A chat message near the top of the screen disappears after a while if you do "
 "not move your mouse over the message."
@@ -383,6 +404,9 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/getting-started.page:241 C/gs-respond-messages.page:50
 #: C/gs-respond-messages.page:96
+#| msgid ""
+#| "To get back to your unanswered message, move your mouse to the message "
+#| "tray."
 msgid "To get back to your unanswered message, click the clock on the top bar."
 msgstr ""
 "Para voltar para a mensagem não respondida, clique no relógio da barra "
@@ -401,6 +425,9 @@ msgstr "Digite a sua resposta."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:251 C/gs-respond-messages.page:60
+#| msgid ""
+#| "To show the message tray, press <keyseq> <key href=\"help:gnome-help/"
+#| "keyboard-key-super\">Super</key> <key>M</key></keyseq>"
 msgid ""
 "To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
 "keyboard-key-super\">Super</key> <key>V</key></keyseq>"
@@ -410,6 +437,9 @@ msgstr ""
 
 #. (itstool) path: div/p
 #: C/getting-started.page:256 C/gs-respond-messages.page:65
+#| msgid ""
+#| "Use the arrow keys to select the person you want to reply to, and press "
+#| "<key>Enter</key>."
 msgid ""
 "Use the arrow keys to select the message you want to reply to, and press "
 "<key>Enter</key>."
@@ -781,6 +811,7 @@ msgstr "Alterar a data, hora e fuso horário"
 #: C/gs-change-date-time-timezone.page:28 C/gs-change-wallpaper.page:58
 #: C/gs-connect-online-accounts.page:28 C/gs-get-online.page:63
 #: C/gs-use-system-search.page:83
+#| msgid "Click the system menu on the right side of the top bar."
 msgid ""
 "Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
 "right side of the top bar."
@@ -791,11 +822,13 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:30 C/gs-change-wallpaper.page:60
 #: C/gs-connect-online-accounts.page:30 C/gs-use-system-search.page:85
+#| msgid "Press the settings button at the bottom of the menu."
 msgid "Click the settings button at the bottom left of the menu."
 msgstr "Clique no botão de definições na parte inferior do menu."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:31
+#| msgid "Select <gui>Date &amp; Time Settings</gui>."
 msgid "Select the <gui>Date &amp; Time</gui> panel."
 msgstr "Selecione o item <gui>Data &amp; Hora</gui>."
 
@@ -810,6 +843,9 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:40
+#| msgid ""
+#| "Click on your location on the map. This selects your current city, which "
+#| "you can also search for in the search box above the map."
 msgid ""
 "Click on your location on the world map. This selects your current city, "
 "which you can also search for in the search box above the map."
@@ -819,6 +855,9 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:42
+#| msgid ""
+#| "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
+#| "Settings</gui> window."
 msgid ""
 "Close the world map window to go back to the <gui>Date &amp; Time</gui>."
 msgstr ""
@@ -839,6 +878,9 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:49
+#| msgid ""
+#| "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
+#| "Settings</gui> window."
 msgid ""
 "Close the window to go back to the <gui>Date &amp; Time</gui>, and then "
 "close the panel."
@@ -900,6 +942,7 @@ msgstr "Feche a janela <gui>Fundo</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
+#| msgid "Close the <gui>Background</gui> window."
 msgid "Click the <gui>Background</gui> panel."
 msgstr "Clique no painel <gui>Fundo</gui>."
 
@@ -940,6 +983,9 @@ msgstr "Ligar a contas online"
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:37
+#| msgid ""
+#| "From the list of items, select <gui>Online Accounts</gui>, then click on "
+#| "the <gui>Add an online account</gui> button."
 msgid ""
 "Click the <gui>Online Accounts</gui> panel, then click the <gui>Add an "
 "online account</gui> button."
@@ -1020,12 +1066,14 @@ msgstr "4"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:78 C/gs-datetime.svg:112
 #, no-wrap
+#| msgid "Changing Date &amp; Time"
 msgid "Date &amp; Time"
 msgstr "Data &amp; Hora"
 
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:80
 #, no-wrap
+#| msgid "Automatic Date and Time"
 msgid "Automatic Date &amp; Time"
 msgstr "Data &amp; Hora automática"
 
@@ -1047,6 +1095,7 @@ msgstr "LIG"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:95
 #, no-wrap
+#| msgid "Automatic Timezone"
 msgid "Automatic Time Zone"
 msgstr "Fuso horário automático"
 
@@ -1112,6 +1161,9 @@ msgstr "Ligar a uma rede de cabo"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:36
+#| msgid ""
+#| "The network connection icon on the right-hand side of the top bar shows "
+#| "that you are off-line."
 msgid ""
 "The network connection icon on the right-hand side of the top bar shows that "
 "you are offline."
@@ -1121,6 +1173,11 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:38
+#| msgid ""
+#| "The off-line status can be caused by a number of reasons: for example, a "
+#| "network cable has been unplugged, the computer has been set to run in "
+#| "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
+#| "area."
 msgid ""
 "The offline status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
@@ -1167,6 +1224,7 @@ msgstr "Ligar a uma rede Wi-Fi"
 
 #. (itstool) path: steps/title
 #: C/gs-get-online.page:61
+#| msgid "Connect to a Wi-Fi network"
 msgid "To connect to a Wi-Fi (wireless) network:"
 msgstr "Para ligar a uma rede Wi-Fi (sem fios):"
 
@@ -1180,6 +1238,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:71
+#| msgid "Click <gui>Close</gui>."
 msgid "Click <gui>Select Network</gui>."
 msgstr "Clique em <gui>Selecionar rede</gui>."
 
@@ -1212,18 +1271,18 @@ msgstr ""
 
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
-#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101 C/gs-thumb-timezone.svg:135
-#: C/gs-web-browser1-firefox-classic.svg:115 C/gs-web-browser1-firefox.svg:120
-#: C/gs-web-browser1.svg:120
+#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101
+#: C/gs-thumb-timezone.svg:135 C/gs-web-browser1-firefox-classic.svg:115
+#: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
 #, no-wrap
 msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:306
-#: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102 C/gs-thumb-timezone.svg:136
-#: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
-#: C/gs-web-browser1.svg:153
+#: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102
+#: C/gs-thumb-timezone.svg:136 C/gs-web-browser1-firefox-classic.svg:137
+#: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
 msgstr "2"
@@ -1599,6 +1658,9 @@ msgstr "Resposta atrasada a uma mensagem instantânea usando o rato"
 
 #. (itstool) path: item/p
 #: C/gs-respond-messages.page:94
+#| msgid ""
+#| "When a chat message appears in the message tray and you do not move your "
+#| "mouse to the message tray, the message disappears after a while."
 msgid ""
 "When a chat message appears near the top of the screen and you do not move "
 "your mouse over the message, it disappears after a while."
@@ -1616,6 +1678,9 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-respond-messages.page:100 C/gs-respond-messages.page:114
+#| msgid ""
+#| "When the chat message is shown, start typing your reply and when "
+#| "finished, press <key>Enter</key> to send the reply."
 msgid "When the chat message is shown, start typing your reply."
 msgstr "Quando a mensagem é mostrada, comece a digitar sua resposta."
 
@@ -1626,6 +1691,10 @@ msgstr "Reposta atrasada a uma mensagem instantânea usando o teclado"
 
 #. (itstool) path: item/p
 #: C/gs-respond-messages.page:108
+#| msgid ""
+#| "To get back to your unanswered chat messages, press <keyseq> <key href="
+#| "\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq> "
+#| "to display the message tray that contains the messages."
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq> <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
@@ -1637,6 +1706,9 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-respond-messages.page:112
+#| msgid ""
+#| "Use the arrow keys to select the person you want to reply to, and press "
+#| "<key>Enter</key>."
 msgid ""
 "Use the arrow keys to select the notification you want to reply to, and "
 "press <key>Enter</key>."
@@ -2222,6 +2294,7 @@ msgstr "Para personalizar o que é mostrado nos resultados de procura:"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:86
+#| msgid "Click the <gui>Select</gui> button."
 msgid "Click the <gui>Search</gui> panel."
 msgstr "Clique no painel <gui>Procura</gui>."
 
@@ -2281,6 +2354,9 @@ msgstr "Maximizar e restaurar janelas usando o teclado"
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:137
+#| msgid ""
+#| "To unmaximize a window using the keyboard, hold down the <key href=\"help:"
+#| "gnome-help/keyboard-key-super\">Super</key> key and press <key>?</key>."
 msgid ""
 "To unmaximize a window using the keyboard, hold down the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</key>."
