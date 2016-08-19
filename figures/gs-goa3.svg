@@ -15,7 +15,7 @@
    height="500"
    id="svg10075"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="gs-goa3.svg">
   <defs
      id="defs10077">
@@ -65,19 +65,6 @@
        x2="713.42853"
        y2="490.54935"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       x="-0.10291173"
-       width="1.2058235"
-       y="-0.065432459"
-       height="1.1308649"
-       id="filter5601">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.610872"
-         id="feGaussianBlur5603" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5716"
@@ -201,14 +188,14 @@
      inkscape:cx="630.95384"
      inkscape:cy="154.07787"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:window-width="2262"
      inkscape:window-height="1278"
      inkscape:window-x="0"
-     inkscape:window-y="129"
+     inkscape:window-y="125"
      inkscape:window-maximized="0"
      width="0px"
      height="0px"
@@ -262,7 +249,7 @@
        transform="translate(-35,-139.36217)">
       <path
          transform="translate(2,453.36217)"
-         d="m 137,278 c 0,9.38884 -7.61116,17 -17,17 -9.38884,0 -17,-7.61116 -17,-17 0,-9.38884 7.61116,-17 17,-17 9.38884,0 17,7.61116 17,17 z"
+         d="m 137,278 a 17,17 0 0 1 -17,17 17,17 0 0 1 -17,-17 17,17 0 0 1 17,-17 17,17 0 0 1 17,17 z"
          sodipodi:ry="17"
          sodipodi:rx="17"
          sodipodi:cy="278"
@@ -283,10 +270,10 @@
            sodipodi:role="line">4</tspan></text>
     </g>
     <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.36666679;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.36666679;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect17558"
        width="381"
-       height="315.99997"
+       height="266"
        x="212"
        y="638" />
     <text
@@ -309,30 +296,6 @@
        y="680"
        rx="0.38461548"
        ry="0.36744055" />
-    <g
-       id="g17909"
-       transform="translate(0,-37)">
-      <rect
-         ry="6.1369629"
-         rx="6.1369629"
-         y="944"
-         x="486"
-         height="30.684212"
-         width="96"
-         id="rect17494-2"
-         style="color:#000000;fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <text
-         xml:space="preserve"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         x="534.99988"
-         y="964.00006"
-         id="text17496-8"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan17498-4"
-           x="534.99988"
-           y="964.00006">Cancel</tspan></text>
-    </g>
     <text
        sodipodi:linespacing="125%"
        id="text17640"
