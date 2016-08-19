@@ -9,23 +9,23 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2015-10-12 21:36+0000\n"
-"PO-Revision-Date: 2015-10-12 23:45+0200\n"
-"Last-Translator: Wolfgang Stoeggl <c72578@yahoo.de>\n"
+"POT-Creation-Date: 2016-08-16 11:17+0000\n"
+"PO-Revision-Date: 2016-08-19 08:38+0200\n"
+"Last-Translator: Christian Kirbach <christian.kirbach@gmail.com>\n"
 "Language-Team: Deutsch <gnome-de@gnome.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.5\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
 msgstr ""
 "Mario Blättermann <mario.blaettermann@gmail.com>, 2013\n"
-"Christian Kirbach <christian.kirbach@gmail.com>, 2013, 2014, 2015\n"
+"Christian Kirbach <christian.kirbach@gmail.com>, 2013, 2014, 2015, 2016\n"
 "Benjamin Steinwender <b@stbe.at>, 2013, 2014"
 
 #. (itstool) path: info/desc
@@ -638,38 +638,57 @@ msgid "14 October 2013, 14:00"
 msgstr "14. Oktober 2013, 14:00"
 
 #. (itstool) path: credit/name
-#: C/gs-browse-web.page:9 C/gs-browse-web-firefox.page:10
-#: C/gs-change-date-time-timezone.page:9 C/gs-change-wallpaper.page:9
-#: C/gs-connect-online-accounts.page:9 C/gs-get-online.page:9
-#: C/gs-launch-applications.page:9 C/gs-respond-messages.page:9
-#: C/gs-switch-tasks.page:10 C/gs-use-system-search.page:9
-#: C/gs-use-windows-workspaces.page:9
+#: C/gs-browse-web.page:10 C/gs-change-date-time-timezone.page:9
+#: C/gs-change-wallpaper.page:9 C/gs-connect-online-accounts.page:9
+#: C/gs-get-online.page:9 C/gs-launch-applications.page:9
+#: C/gs-respond-messages.page:9 C/gs-switch-tasks.page:10
+#: C/gs-use-system-search.page:9 C/gs-use-windows-workspaces.page:9
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
 #. (itstool) path: credit/name
-#: C/gs-browse-web.page:12 C/gs-browse-web-firefox.page:13
-#: C/gs-change-date-time-timezone.page:12 C/gs-change-wallpaper.page:12
-#: C/gs-connect-online-accounts.page:12 C/gs-get-online.page:12
-#: C/gs-launch-applications.page:12 C/gs-respond-messages.page:12
-#: C/gs-switch-tasks.page:13 C/gs-use-system-search.page:12
-#: C/gs-use-windows-workspaces.page:12
+#: C/gs-browse-web.page:13 C/gs-change-date-time-timezone.page:12
+#: C/gs-change-wallpaper.page:12 C/gs-connect-online-accounts.page:12
+#: C/gs-get-online.page:12 C/gs-launch-applications.page:12
+#: C/gs-respond-messages.page:12 C/gs-switch-tasks.page:13
+#: C/gs-use-system-search.page:12 C/gs-use-windows-workspaces.page:12
 msgid "Petr Kovar"
 msgstr "Petr Kovar"
 
 #. (itstool) path: info/title
-#: C/gs-browse-web.page:17
+#: C/gs-browse-web.page:16
 msgctxt "link:trail"
 msgid "Browse the web"
 msgstr "Im Web surfen"
 
+#. (itstool) path: info/title
+#: C/gs-browse-web.page:18
+msgctxt "link:seealso"
+msgid "A tutorial on browsing the web"
+msgstr "Eine Kurzanleitung zum Stöbern im Internet"
+
 #. (itstool) path: page/title
-#: C/gs-browse-web.page:20 C/gs-browse-web-firefox.page:21
+#: C/gs-browse-web.page:22
 msgid "Browse the web"
 msgstr "Im Web surfen"
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:26 C/gs-browse-web-firefox.page:30
+#: C/gs-browse-web.page:31
+msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
+msgstr ""
+"Klicken Sie auf das Menü <gui>Anwendungen</gui> in der linken oberen Ecke "
+"des Bildschirms."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:33
+msgid ""
+"From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
+"guiseq>."
+msgstr ""
+"Wählen Sie im Menü <guiseq><gui>Internet</gui><gui>Firefox</gui> </guiseq>."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:46 C/gs-browse-web.page:64
 #: C/gs-launch-applications.page:64
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
@@ -680,71 +699,7 @@ msgstr ""
 "anzuzeigen."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:29
-msgid ""
-"Select the <app>Web</app> browser icon from the bar on the left-hand side of "
-"the screen."
-msgstr ""
-"Wählen Sie das <app>Web</app>-Browser-Symbol in der Leiste an der linken "
-"Seite des Bildschirms aus."
-
-#. (itstool) path: note/p
-#: C/gs-browse-web.page:33
-msgid ""
-"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
-"search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
-"gui>."
-msgstr ""
-"Alternativ können Sie den <em>Web</em>-Browser starten, indem Sie den Namen "
-"des Browsers einfach in die <gui>Aktivitäten-Übersicht</gui> <link xref=\"gs-"
-"use-system-search\">eintippen</link>"
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:41 C/gs-browse-web-firefox.page:61
-msgid ""
-"Click the address bar at the top of the browser window and start typing in "
-"the website you want to visit."
-msgstr ""
-"Klicken Sie auf die Adressleiste oben im Browser-Fenster und geben Sie die "
-"Webseite ein, die Sie besuchen wollen."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:43 C/gs-browse-web-firefox.page:63
-msgid ""
-"Typing in a website starts searching for it in the browser history and "
-"bookmarks, so you do not need to remember the exact address."
-msgstr ""
-"Beim Eingeben der Webseite wird begonnen, in der Chronik des Browsers und in "
-"den Lesezeichen zu suchen, so dass Sie nicht die exakte Adresse wissen "
-"müssen."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:46 C/gs-browse-web-firefox.page:66
-msgid ""
-"If the website is found in the history or bookmarks, a drop-down list is "
-"shown below the address bar."
-msgstr ""
-"Falls die Webseite in der Chronik oder den Lesezeichen gefunden wird, "
-"erscheint eine Auswahlliste unterhalb der Adressleiste."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:48 C/gs-browse-web-firefox.page:68
-msgid ""
-"From the drop-down list, you can quickly select a website using the arrow "
-"keys."
-msgstr ""
-"In der Auswahlliste können Sie eine Webseite einfach mit den Pfeiltasten "
-"auswählen."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:51 C/gs-browse-web-firefox.page:71
-msgid "After you have selected a website, press <key>Enter</key> to visit it."
-msgstr ""
-"Nachdem Sie eine Webseite ausgewählt haben, drücken Sie die "
-"<key>Eingabetaste</key>, um sie zu besuchen. "
-
-#. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:33
+#: C/gs-browse-web.page:49
 msgid ""
 "Select the <app>Firefox</app> browser icon from the bar on the left-hand "
 "side of the screen."
@@ -753,7 +708,7 @@ msgstr ""
 "Seite des Bildschirms aus."
 
 #. (itstool) path: note/p
-#: C/gs-browse-web-firefox.page:37
+#: C/gs-browse-web.page:53
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>Firefox</em> in the <gui>Activities "
@@ -764,29 +719,68 @@ msgstr ""
 "eintippen</link>"
 
 #. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:48
-msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
+#: C/gs-browse-web.page:67
+msgid ""
+"Select the <app>Web</app> browser icon from the bar on the left-hand side of "
+"the screen."
 msgstr ""
-"Klicken Sie auf das Menü <gui>Anwendungen</gui> in der linken oberen Ecke "
-"des Bildschirms."
+"Wählen Sie das <app>Web</app>-Browser-Symbol in der Leiste an der linken "
+"Seite des Bildschirms aus."
+
+#. (itstool) path: note/p
+#: C/gs-browse-web.page:71
+msgid ""
+"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
+"search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
+"gui>."
+msgstr ""
+"Alternativ können Sie den <em>Web</em>-Browser starten, indem Sie den Namen "
+"des Browsers einfach in die <gui>Aktivitäten-Übersicht</gui> <link xref=\"gs-"
+"use-system-search\">eintippen</link>"
 
 #. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:50
+#: C/gs-browse-web.page:90
 msgid ""
-"From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
-"guiseq>."
+"Click the address bar at the top of the browser window and start typing in "
+"the website you want to visit."
 msgstr ""
-"Wählen Sie im Menü <guiseq><gui>Internet</gui><gui>Firefox</gui> </guiseq>."
+"Klicken Sie auf die Adressleiste oben im Browser-Fenster und geben Sie die "
+"Webseite ein, die Sie besuchen wollen."
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-change-date-time-timezone.page:35
-msgctxt "_"
-msgid "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
-msgstr "erstellt"
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:92
+msgid ""
+"Typing in a website starts searching for it in the browser history and "
+"bookmarks, so you do not need to remember the exact address."
+msgstr ""
+"Beim Eingeben der Webseite wird begonnen, in der Chronik des Browsers und in "
+"den Lesezeichen zu suchen, so dass Sie nicht die exakte Adresse wissen "
+"müssen."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:95
+msgid ""
+"If the website is found in the history or bookmarks, a drop-down list is "
+"shown below the address bar."
+msgstr ""
+"Falls die Webseite in der Chronik oder den Lesezeichen gefunden wird, "
+"erscheint eine Auswahlliste unterhalb der Adressleiste."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:97
+msgid ""
+"From the drop-down list, you can quickly select a website using the arrow "
+"keys."
+msgstr ""
+"In der Auswahlliste können Sie eine Webseite einfach mit den Pfeiltasten "
+"auswählen."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:100
+msgid "After you have selected a website, press <key>Enter</key> to visit it."
+msgstr ""
+"Nachdem Sie eine Webseite ausgewählt haben, drücken Sie die "
+"<key>Eingabetaste</key>, um sie zu besuchen. "
 
 #. (itstool) path: info/title
 #: C/gs-change-date-time-timezone.page:15
@@ -2423,6 +2417,11 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
+#~ msgstr "erstellt"
 
 #~ msgid ""
 #~ "Click the clock on the top bar and select the <gui>Date &amp; Time "
