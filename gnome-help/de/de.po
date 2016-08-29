@@ -9,23 +9,23 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2015-10-12 21:36+0000\n"
-"PO-Revision-Date: 2015-10-12 23:45+0200\n"
-"Last-Translator: Wolfgang Stoeggl <c72578@yahoo.de>\n"
+"POT-Creation-Date: 2016-08-16 11:24+0000\n"
+"PO-Revision-Date: 2016-08-25 23:38+0200\n"
+"Last-Translator: Christian Kirbach <christian.kirbach@gmail.com>\n"
 "Language-Team: Deutsch <gnome-de@gnome.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.5\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
 msgstr ""
 "Mario Blättermann <mario.blaettermann@gmail.com>, 2013\n"
-"Christian Kirbach <christian.kirbach@gmail.com>, 2013, 2014, 2015\n"
+"Christian Kirbach <christian.kirbach@gmail.com>, 2013, 2014, 2015, 2016\n"
 "Benjamin Steinwender <b@stbe.at>, 2013, 2014"
 
 #. (itstool) path: info/desc
@@ -334,8 +334,8 @@ msgid ""
 "When the application appears as the first result, press <key> Enter</key> to "
 "switch to it."
 msgstr ""
-"Wenn die Anwendung als erstes Ergebnis erscheint, drücken Sie <key>Eingabe</"
-"key>, um zur Anwendung zu wechseln."
+"Wenn die Anwendung als erstes Ergebnis erscheint, drücken Sie die "
+"<key>Eingabetaste</key>, um zur Anwendung zu wechseln."
 
 #. (itstool) path: caption/desc
 #. (itstool) path: page/title
@@ -661,12 +661,12 @@ msgstr "Petr Kovar"
 #: C/gs-browse-web.page:17
 msgctxt "link:trail"
 msgid "Browse the web"
-msgstr "Im Web surfen"
+msgstr "Im Internet surfen"
 
 #. (itstool) path: page/title
 #: C/gs-browse-web.page:20 C/gs-browse-web-firefox.page:21
 msgid "Browse the web"
-msgstr "Im Web surfen"
+msgstr "Im Internet surfen"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:26 C/gs-browse-web-firefox.page:30
@@ -685,7 +685,7 @@ msgid ""
 "Select the <app>Web</app> browser icon from the bar on the left-hand side of "
 "the screen."
 msgstr ""
-"Wählen Sie das <app>Web</app>-Browser-Symbol in der Leiste an der linken "
+"Wählen Sie das <app>Internet</app>-Browser-Symbol in der Leiste an der linken "
 "Seite des Bildschirms aus."
 
 #. (itstool) path: note/p
@@ -695,7 +695,7 @@ msgid ""
 "search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
 "gui>."
 msgstr ""
-"Alternativ können Sie den <em>Web</em>-Browser starten, indem Sie den Namen "
+"Alternativ können Sie den <em>Internet</em>-Browser starten, indem Sie den Namen "
 "des Browsers einfach in die <gui>Aktivitäten-Übersicht</gui> <link xref=\"gs-"
 "use-system-search\">eintippen</link>"
 
@@ -706,7 +706,7 @@ msgid ""
 "the website you want to visit."
 msgstr ""
 "Klicken Sie auf die Adressleiste oben im Browser-Fenster und geben Sie die "
-"Webseite ein, die Sie besuchen wollen."
+"Internetseite ein, die Sie besuchen wollen."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:43 C/gs-browse-web-firefox.page:63
@@ -714,9 +714,9 @@ msgid ""
 "Typing in a website starts searching for it in the browser history and "
 "bookmarks, so you do not need to remember the exact address."
 msgstr ""
-"Beim Eingeben der Webseite wird begonnen, in der Chronik des Browsers und in "
-"den Lesezeichen zu suchen, so dass Sie nicht die exakte Adresse wissen "
-"müssen."
+"Beim Eingeben der Internetseite wird begonnen, in der Chronik des Browsers "
+"und in den Lesezeichen zu suchen, so dass Sie nicht die exakte Adresse "
+"wissen müssen."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:46 C/gs-browse-web-firefox.page:66
@@ -724,7 +724,7 @@ msgid ""
 "If the website is found in the history or bookmarks, a drop-down list is "
 "shown below the address bar."
 msgstr ""
-"Falls die Webseite in der Chronik oder den Lesezeichen gefunden wird, "
+"Falls die Internetseite in der Chronik oder den Lesezeichen gefunden wird, "
 "erscheint eine Auswahlliste unterhalb der Adressleiste."
 
 #. (itstool) path: item/p
@@ -733,15 +733,15 @@ msgid ""
 "From the drop-down list, you can quickly select a website using the arrow "
 "keys."
 msgstr ""
-"In der Auswahlliste können Sie eine Webseite einfach mit den Pfeiltasten "
-"auswählen."
+"In der Auswahlliste können Sie eine Internetseite einfach mit den "
+"Pfeiltasten auswählen."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:51 C/gs-browse-web-firefox.page:71
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
 msgstr ""
-"Nachdem Sie eine Webseite ausgewählt haben, drücken Sie die "
-"<key>Eingabetaste</key>, um sie zu besuchen. "
+"Nachdem Sie eine Internetseite ausgewählt haben, drücken Sie die "
+"<key>Eingabetaste</key>, um sie zu besuchen."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web-firefox.page:33
@@ -778,16 +778,6 @@ msgid ""
 msgstr ""
 "Wählen Sie im Menü <guiseq><gui>Internet</gui><gui>Firefox</gui> </guiseq>."
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-change-date-time-timezone.page:35
-msgctxt "_"
-msgid "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
-msgstr "erstellt"
-
 #. (itstool) path: info/title
 #: C/gs-change-date-time-timezone.page:15
 msgctxt "link:trail"
@@ -821,7 +811,7 @@ msgstr ""
 #: C/gs-connect-online-accounts.page:30 C/gs-use-system-search.page:85
 msgid "Click the settings button at the bottom left of the menu."
 msgstr ""
-"Drücken Sie den Einstellungen-Knopf im linken unteren Bereich des Menüs."
+"Klicken Sie auf den Einstellungen-Knopf im linken unteren Bereich des Menüs."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:31
@@ -999,8 +989,7 @@ msgid ""
 "you can sign in to your online account."
 msgstr ""
 "Klicken Sie auf das Online-Konto, das Sie verwenden wollen. Ein neues "
-"Fenster, in dem Sie sich an Ihrem Online-Konto anmelden können, wird sich "
-"öffnen."
+"Fenster öffnet sich, in dem Sie sich an Ihrem Online-Konto anmelden können."
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:57
@@ -1168,7 +1157,7 @@ msgid ""
 msgstr ""
 "Der Offline-Status kann verschiedene Ursachen haben: Zum Beispiel ist das "
 "Netzwerkkabel nicht eingesteckt, der Rechner wurde in den <em>Flugzeug-"
-"Modus</em> versetzt, oder es gibt keine verfügbaren Drahtlosnetzwerke in der "
+"Modus</em> versetzt, oder es gibt keine verfügbaren Funknetzwerke in der "
 "Umgebung."
 
 #. (itstool) path: item/p
@@ -1203,12 +1192,12 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gs-get-online.page:55
 msgid "Connect to a Wi-Fi network"
-msgstr "Mit einem drahtlosen Netzwerk verbinden"
+msgstr "Mit einem Funknetzwerk verbinden"
 
 #. (itstool) path: steps/title
 #: C/gs-get-online.page:61
 msgid "To connect to a Wi-Fi (wireless) network:"
-msgstr "So verbinden Sie sich mit einem drahtlosen Netzwerk (WLAN):"
+msgstr "So verbinden Sie sich mit einem Funknetzwerk (WLAN):"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:67
@@ -1231,9 +1220,9 @@ msgid ""
 "You can only connect to a Wi-Fi network if your computer hardware supports "
 "it and you are in an area with Wi-Fi coverage."
 msgstr ""
-"Sie können sich nur dann mit einem Drahtlosnetzwerk verbinden, wenn Ihre "
+"Sie können sich nur dann mit einem Funknetzwerk verbinden, wenn Ihre "
 "Rechnerhardware dies unterstützt und Sie sich in einem Bereich mit einem "
-"Drahtlosnetzwerk befinden."
+"Funknetzwerk befinden."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:84
@@ -1241,9 +1230,9 @@ msgid ""
 "From the list of available Wi-Fi networks, select the network you want to "
 "connect to, and click <gui>Connect</gui> to confirm."
 msgstr ""
-"Wählen Sie aus der Liste der verfügbaren Drahtlosnetzwerke das Netzwerk, zu "
-"dem Sie sich verbinden möchten, und klicken Sie auf <gui>Verbinden</gui>, um "
-"die Wahl zu bestätigen."
+"Wählen Sie aus der Liste der verfügbaren Funknetzwerke das Netzwerk, zu dem "
+"Sie sich verbinden möchten, und klicken Sie auf <gui>Verbinden</gui>, um die "
+"Wahl zu bestätigen."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:86
@@ -1455,7 +1444,7 @@ msgstr "14:30"
 #: C/gs-go-online2.svg:328
 #, no-wrap
 msgid "Wi-Fi"
-msgstr "Drahtlosnetzwerk"
+msgstr "Funknetzwerk"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
@@ -1485,7 +1474,7 @@ msgstr "Netzwerkeinstellungen"
 #: C/gs-go-online3.svg:309
 #, no-wrap
 msgid "Wi-Fi Networks"
-msgstr "Drahtlosnetzwerke"
+msgstr "Funknetzwerke"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:313
@@ -1497,7 +1486,7 @@ msgstr "Verbinden"
 #: C/gs-go-online3.svg:316
 #, no-wrap
 msgid "wireless"
-msgstr "Drahtlos"
+msgstr "Funknetz"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:317
@@ -1623,8 +1612,8 @@ msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send "
 "the reply."
 msgstr ""
-"Tippen Sie Ihre Antwort und drücken Sie <key>Eingabe</key>, um die Antwort "
-"zu senden, wenn Sie fertig sind."
+"Tippen Sie Ihre Antwort und drücken Sie die <key>Eingabetaste</key>, um "
+"die Antwort zu senden, wenn Sie fertig sind."
 
 #. (itstool) path: item/p
 #: C/gs-respond-messages.page:84
@@ -1778,7 +1767,7 @@ msgstr "Aktiviert"
 #: C/gs-search-settings.svg:264
 #, no-wrap
 msgid "Web"
-msgstr "Web"
+msgstr "Internet"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:265
@@ -1818,9 +1807,9 @@ msgid ""
 "the currently running tasks displayed as small windows."
 msgstr ""
 "Bewegen Sie den Mauszeiger zu der <gui>Aktivitäten</gui>-Ecke am linken "
-"oberen Rand des Bildschirms, um die <gui>Aktivitäten-Übersicht</gui>, wo Sie "
-"die aktuell laufenden Anwendungen als kleine Fenster sehen können, "
-"anzuzeigen."
+"oberen Rand des Bildschirms, um die <gui>Aktivitäten-Übersicht</gui> "
+"anzuzeigen, wo Sie die aktuell laufenden Anwendungen als kleine Fenster "
+"sehen können."
 
 #. (itstool) path: item/p
 #: C/gs-switch-tasks.page:106
@@ -1904,7 +1893,7 @@ msgid ""
 "Release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> to "
 "select the next highlighted window in the <gui>window switcher</gui>."
 msgstr ""
-"Lassen Sie <key href=\"help:gnome-help/keyboard-key-super\">>Super</key> "
+"Lassen Sie <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
 "los, um das nächste markierte Fenster im Fensterwechsler auszuwählen."
 
 #. (itstool) path: section/title
@@ -1937,7 +1926,7 @@ msgid ""
 "press <key>Enter</key> to switch to it."
 msgstr ""
 "Wenn die Anwendung, zu der Sie wechseln wollen, als erstes Ergebnis "
-"erscheint, drücken Sie <key>Eingabe</key>, um zu ihr zu wechseln."
+"erscheint, drücken Sie die <key>Eingabetaste</key>, um zu ihr zu wechseln."
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-responding-to-messages.svg:88
@@ -2180,15 +2169,15 @@ msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
 msgstr ""
-"Ergebnisse passend zu Ihrer Eingabe erscheinen während Sie tippen. Das erste "
-"Ergebnis wird immer hervorgehoben und ganz oben angezeigt."
+"Während Sie tippen, erscheinen zu Ihrer Eingabe passende Ergebnisse. Das "
+"erste Ergebnis wird immer hervorgehoben und ganz oben angezeigt."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:32
 msgid "Press <key>Enter</key> to switch to the first highlighted result."
 msgstr ""
-"Drücken Sie <key>Eingabe</key>, um zum ersten hervorgehobenen Ergebnis zu "
-"wechseln."
+"Drücken Sie die <key>Eingabetaste</key>, um zum ersten hervorgehobenen "
+"Ergebnis zu wechseln."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:38
@@ -2198,17 +2187,17 @@ msgstr "Elemente, die in den Suchergebnissen erscheinen können, sind u.a.:"
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:40
 msgid "matching applications, shown at the top of the search results,"
-msgstr "passende Anwendungen, angezeigt am Anfang der Suchergebnisse, "
+msgstr "Passende Anwendungen am Anfang der Suchergebnisse,"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:42
 msgid "matching settings,"
-msgstr "passende Einstellungen,"
+msgstr "passende Einstellungen"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:43
 msgid "matching contacts, and"
-msgstr "passende Kontakte, und"
+msgstr "passende Kontakte und"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:44
@@ -2218,7 +2207,7 @@ msgstr "passende Dokumente."
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:47
 msgid "In the search results, click the item to switch to it."
-msgstr "In den Suchergebnissen, klicken Sie auf das Symbol, um zu wechseln."
+msgstr "Klicken Sie auf das Symbol in den Suchergebnissen, um es zu öffnen."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:48
@@ -2226,8 +2215,8 @@ msgid ""
 "Alternatively, highlight an item using the arrow keys and press <key>Enter</"
 "key>."
 msgstr ""
-"Alternativ markieren Sie einen Eintrag mit den Pfeiltasten und drücken Sie "
-"die <key>Eingabetaste</key>. "
+"Markieren Sie alternativ einen Eintrag mit den Pfeiltasten und drücken Sie "
+"die <key>Eingabetaste</key>."
 
 #. (itstool) path: section/title
 #: C/gs-use-system-search.page:54
@@ -2248,7 +2237,7 @@ msgstr ""
 "linken Seite der Suchergebnisse ist das Symbol der Anwendung abgebildet, die "
 "das Suchergebnis liefert. Klicken Sie auf ein Symbol, um die Suche innerhalb "
 "der jeweiligen Anwendung neu zu starten. Weil nur die besten Treffer in der "
-"<gui>Aktivitäten-Übersicht</gui> dargestellt werden kann eine Suche "
+"<gui>Aktivitäten-Übersicht</gui> dargestellt werden, kann eine Suche "
 "innerhalb der Anwendung bessere Ergebnisse liefern."
 
 #. (itstool) path: section/title
@@ -2265,12 +2254,12 @@ msgid ""
 msgstr ""
 "GNOME lässt Sie Ihre angezeigten Suchergebnisse in der <gui>Aktivitäten-"
 "Übersicht</gui> anpassen. Zum Beispiel können Sie wählen, ob Sie "
-"Suchergebnisse für Webseiten, Fotos oder Musik anzeigen lassen."
+"Suchergebnisse für Internetseiten, Fotos oder Musik anzeigen lassen."
 
 #. (itstool) path: steps/title
 #: C/gs-use-system-search.page:82
 msgid "To customize what is displayed in the search results:"
-msgstr "Zum Anpassen der Suchergebnisse:"
+msgstr "So passen Sie die Suchergebnisse an:"
 
 # siehe "Select"
 #. (itstool) path: item/p
@@ -2302,7 +2291,7 @@ msgstr "Eine Kurzanleitung zum Verwenden von Fenstern und Arbeitsflächen"
 #. (itstool) path: section/title
 #: C/gs-use-windows-workspaces.page:98
 msgid "Maximize and unmaximize windows"
-msgstr "Maximieren und wiederherstellen des Fensters"
+msgstr "Maximieren und Wiederherstellen von Fenstern"
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:102
@@ -2310,16 +2299,16 @@ msgid ""
 "To maximize a window so that it takes up all of the space on your desktop, "
 "grab the window's titlebar and drag it to the top of the screen."
 msgstr ""
-"Zum Maximieren des Fensters so dass es den ganzen Platz auf der "
-"Arbeitsfläche einnimmt, klicken Sie die Titelleiste des Fensters und ziehen "
-"Sie sie an den oberen Rand des Bildschirms."
+"Zum Maximieren eines Fensters über die gesamte Arbeitsfläche klicken Sie auf "
+"die Titelleiste des Fensters und ziehen Sie sie an den oberen Rand des "
+"Bildschirms."
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:105
 msgid "When the screen is highlighted, release the window to maximize it."
 msgstr ""
-"Wenn der Bildschirm markiert ist, lassen Sie das Fenster los, um es zu "
-"maximieren. "
+"Wenn der Bildschirm markiert wird, lassen Sie das Fenster los, um es zu "
+"maximieren."
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:107
@@ -2327,13 +2316,14 @@ msgid ""
 "To restore a window to its unmaximized size, grab the window's titlebar and "
 "drag it away from the edges of the screen."
 msgstr ""
-"Um die Fenstergröße wiederherzustellen, klicken Sie die Titelleiste des "
-"Fensters und ziehen Sie es vom Rand des Bildschirms weg."
+"Um das Fensterin seiner ursprünglichen Größe wiederherzustellen, klicken Sie "
+"auf die Titelleiste des Fensters und ziehen Sie es vom Rand des Bildschirms "
+"weg."
 
 #. (itstool) path: section/title
 #: C/gs-use-windows-workspaces.page:131
 msgid "Maximize and unmaximize windows using the keyboard"
-msgstr "Maximieren und wiederherstellen der Fenster mit Hilfe der Tastatur"
+msgstr "Maximieren und Wiederherstellen von Fenstern mit Hilfe der Tastatur"
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:137
@@ -2348,7 +2338,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gs-use-windows-workspaces.page:145
 msgid "Tile windows using the keyboard"
-msgstr "Fenster anordnen mit Hilfe der Tastatur"
+msgstr "Fenster mit Hilfe der Tastatur anordnen"
 
 #. (itstool) path: section/title
 #: C/gs-use-windows-workspaces.page:159
@@ -2423,6 +2413,11 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
+#~ msgstr "erstellt"
 
 #~ msgid ""
 #~ "Click the clock on the top bar and select the <gui>Date &amp; Time "
