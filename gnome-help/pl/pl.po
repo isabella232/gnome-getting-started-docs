@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2016-08-16 11:17+0000\n"
-"PO-Revision-Date: 2016-08-16 14:35+0200\n"
+"POT-Creation-Date: 2016-08-29 20:32+0000\n"
+"PO-Revision-Date: 2016-09-09 00:23+0200\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <community-poland@mozilla.org>\n"
 "Language: pl\n"
@@ -176,7 +176,7 @@ msgid ""
 "To maximize a window using the keyboard, hold down the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
 msgstr ""
-"Aby zmaksymalizować okno używając klawiatury, przytrzymaj klawisz <key href="
+"Aby zmaksymalizować okno za pomocą klawiatury, przytrzymaj klawisz <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key> i naciśnij klawisz "
 "<key>↑</key>."
 
@@ -523,7 +523,7 @@ msgstr "Po prostu zacznij pisać…"
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
 #: C/gs-animation.xml:33 C/gs-go-online1.svg:249
-#: C/gs-thumb-responding-to-messages.svg:90
+#: C/gs-thumb-responding-to-messages.svg:89
 #, no-wrap
 msgid "John Doe"
 msgstr "Jan Kowalski"
@@ -560,7 +560,7 @@ msgstr "Będę za chwilkę…"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:40 C/gs-thumb-responding-to-messages.svg:89
+#: C/gs-animation.xml:40 C/gs-thumb-responding-to-messages.svg:88
 #, no-wrap
 msgid "Good stuff, thanks again"
 msgstr "Super, jeszcze raz dzięki"
@@ -714,7 +714,7 @@ msgstr ""
 "prostu wpisując</link> <em>WWW</em> na <gui>ekranie podglądu</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:90
+#: C/gs-browse-web.page:91
 msgid ""
 "Click the address bar at the top of the browser window and start typing in "
 "the website you want to visit."
@@ -723,7 +723,7 @@ msgstr ""
 "którą chcesz odwiedzić."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:92
+#: C/gs-browse-web.page:93
 msgid ""
 "Typing in a website starts searching for it in the browser history and "
 "bookmarks, so you do not need to remember the exact address."
@@ -732,7 +732,7 @@ msgstr ""
 "i zakładkach, więc nie trzeba pamiętać jej dokładnego adresu."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:95
+#: C/gs-browse-web.page:96
 msgid ""
 "If the website is found in the history or bookmarks, a drop-down list is "
 "shown below the address bar."
@@ -741,14 +741,15 @@ msgstr ""
 "paska adresu zostanie wyświetlona rozwijana lista."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:97
+#: C/gs-browse-web.page:98
 msgid ""
 "From the drop-down list, you can quickly select a website using the arrow "
 "keys."
-msgstr "Z tej listy można szybko wybrać stronę WWW używając klawiszy strzałek."
+msgstr ""
+"Z tej listy można szybko wybrać stronę WWW za pomocą klawiszy strzałek."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:100
+#: C/gs-browse-web.page:101
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
 msgstr ""
 "Po wybraniu strony należy nacisnąć klawisz <key>Enter</key>, aby ją "
@@ -808,7 +809,7 @@ msgid ""
 "Click on your location on the world map. This selects your current city, "
 "which you can also search for in the search box above the map."
 msgstr ""
-"Kliknij na swoje położenie na mapie świata. Powoduje to wybranie obecnego "
+"Kliknij swoje położenie na mapie świata. Powoduje to wybranie obecnego "
 "miasta, które można też wyszukać na pasku wyszukiwania nad mapą."
 
 #. (itstool) path: item/p
@@ -988,9 +989,9 @@ msgstr ""
 "prawej stronie okna."
 
 #. (itstool) path: Work/format
-#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51
+#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:48
 #: C/gs-goa4.svg:36 C/gs-goa5.svg:48 C/gs-go-online1.svg:230
-#: C/gs-go-online2.svg:265 C/gs-go-online3.svg:293 C/gs-search1.svg:97
+#: C/gs-go-online2.svg:265 C/gs-go-online3.svg:290 C/gs-search1.svg:97
 #: C/gs-search2.svg:133 C/gs-search-settings.svg:98
 #: C/gs-thumb-changing-wallpaper.svg:39 C/gs-thumb-launching-apps.svg:189
 #: C/gs-thumb-responding-to-messages.svg:36 C/gs-thumb-task-switching.svg:89
@@ -1002,7 +1003,7 @@ msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:60 C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104
+#: C/gs-datetime.svg:60 C/gs-goa3.svg:60 C/gs-thumb-timezone.svg:104
 #: C/gs-thumb-timezone.svg:138 C/gs-web-browser2-firefox.svg:113
 #: C/gs-web-browser2.svg:115
 #, no-wrap
@@ -1030,8 +1031,8 @@ msgstr "Wymaga dostępu do Internetu"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:87 C/gs-datetime.svg:102 C/gs-goa5.svg:118
 #: C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121 C/gs-goa5.svg:122
-#: C/gs-search-settings.svg:155 C/gs-search-settings.svg:272
-#: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
+#: C/gs-search-settings.svg:133 C/gs-search-settings.svg:250
+#: C/gs-search-settings.svg:257 C/gs-search-settings.svg:264
 #, no-wrap
 msgid "ON"
 msgstr "|"
@@ -1212,7 +1213,7 @@ msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:306
+#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:303
 #: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102 C/gs-thumb-timezone.svg:136
 #: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
 #: C/gs-web-browser1.svg:153
@@ -1228,55 +1229,49 @@ msgid "3"
 msgstr "3"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:69 C/gs-goa3.svg:113 C/gs-goa5.svg:79
+#: C/gs-goa2.svg:69 C/gs-goa3.svg:106 C/gs-goa5.svg:79
 #, no-wrap
 msgid "Online Accounts"
 msgstr "Konta online"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:71 C/gs-goa3.svg:115
+#: C/gs-goa2.svg:71 C/gs-goa3.svg:108
 #, no-wrap
 msgid "Add an online account"
 msgstr "Dodaj konto online"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:66
+#: C/gs-goa3.svg:63
 #, no-wrap
 msgid "Add Account"
 msgstr "Dodaj konto"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:343
-#, no-wrap
-msgid "Cancel"
-msgstr "Anuluj"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
+#: C/gs-goa3.svg:65 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
 #, no-wrap
 msgid "Google"
 msgstr "Google"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:73 C/gs-goa4.svg:124
+#: C/gs-goa3.svg:66 C/gs-goa4.svg:124
 #, no-wrap
 msgid "Facebook"
 msgstr "Facebook"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:74 C/gs-goa4.svg:125
+#: C/gs-goa3.svg:67 C/gs-goa4.svg:125
 #, no-wrap
 msgid "Windows Live"
 msgstr "Windows Live"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:75 C/gs-goa4.svg:126
+#: C/gs-goa3.svg:68 C/gs-goa4.svg:126
 #, no-wrap
 msgid "Microsoft Exchange"
 msgstr "Microsoft Exchange"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:76 C/gs-goa4.svg:127
+#: C/gs-goa3.svg:69 C/gs-goa4.svg:127
 #, no-wrap
 msgid "Enterprise Login (Kerberos)"
 msgstr "Logowanie firmowe (Kerberos)"
@@ -1293,6 +1288,12 @@ msgstr "5"
 #, no-wrap
 msgid "Google account"
 msgstr "Konto Google"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:338
+#, no-wrap
+msgid "Cancel"
+msgstr "Anuluj"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:69
@@ -1406,7 +1407,7 @@ msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
+#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:311
 #, no-wrap
 msgid "homenetwork"
 msgstr "sieć_domowa"
@@ -1430,43 +1431,43 @@ msgid "Network Settings"
 msgstr "Ustawienia sieci"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:309
+#: C/gs-go-online3.svg:306
 #, no-wrap
 msgid "Wi-Fi Networks"
 msgstr "Ustawienia sieci Wi-Fi"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:313
+#: C/gs-go-online3.svg:309
 #, no-wrap
 msgid "Connect"
 msgstr "Połącz"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:316
+#: C/gs-go-online3.svg:312
 #, no-wrap
 msgid "wireless"
 msgstr "bezprzewodowe"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:317
+#: C/gs-go-online3.svg:313
 #, no-wrap
 msgid "netgear"
 msgstr "netgear"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:318
+#: C/gs-go-online3.svg:314
 #, no-wrap
 msgid "weak"
 msgstr "słabe"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:319
+#: C/gs-go-online3.svg:315
 #, no-wrap
 msgid "private"
 msgstr "prywatne"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:320
+#: C/gs-go-online3.svg:316
 #, no-wrap
 msgid "Select a network"
 msgstr "Wybór sieci"
@@ -1585,7 +1586,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gs-respond-messages.page:91
 msgid "Delayed response to a chat message using the mouse"
-msgstr "Opóźniona odpowiedź na wiadomość komunikatora używając myszy"
+msgstr "Opóźniona odpowiedź na wiadomość komunikatora za pomocą myszy"
 
 #. (itstool) path: item/p
 #: C/gs-respond-messages.page:94
@@ -1613,7 +1614,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gs-respond-messages.page:106
 msgid "Delayed response to a chat message using the keyboard"
-msgstr "Opóźniona odpowiedź na wiadomość komunikatora używając klawiatury"
+msgstr "Opóźniona odpowiedź na wiadomość komunikatora za pomocą klawiatury"
 
 #. (itstool) path: item/p
 #: C/gs-respond-messages.page:108
@@ -1702,43 +1703,37 @@ msgid "Firefox"
 msgstr "Firefox"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:137
+#: C/gs-search-settings.svg:125
 #, no-wrap
 msgid "Search"
 msgstr "Wyszukaj"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:148
+#: C/gs-search-settings.svg:127
 #, no-wrap
 msgid "Files"
 msgstr "Pliki"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:149
-#, no-wrap
-msgid "Enabled"
-msgstr "Włączone"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:264
+#: C/gs-search-settings.svg:242
 #, no-wrap
 msgid "Web"
 msgstr "WWW"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:265
+#: C/gs-search-settings.svg:243
 #, no-wrap
 msgid "Photos"
 msgstr "Zdjęcia"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:266
+#: C/gs-search-settings.svg:244
 #, no-wrap
 msgid "Music"
 msgstr "Muzyka"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:293
+#: C/gs-search-settings.svg:271
 #, no-wrap
 msgid "OFF"
 msgstr "◯"
@@ -1773,7 +1768,7 @@ msgid ""
 "bottom of the screen. Open tasks appear as buttons in the <gui>window list</"
 "gui>."
 msgstr ""
-"Można przełączać między zadaniami używając <gui>listy okien</gui> na dole "
+"Można przełączać między zadaniami za pomocą <gui>listy okien</gui> na dole "
 "ekranu. Otwarte zadania są na niej widoczne jako przyciski."
 
 #. (itstool) path: item/p
@@ -1881,7 +1876,7 @@ msgstr ""
 "naciśnij klawisz <key>Enter</key>, aby na niego przełączyć."
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-responding-to-messages.svg:88
+#: C/gs-thumb-responding-to-messages.svg:87
 #, no-wrap
 msgid "Thanks f"
 msgstr "Dzięki za"
@@ -2162,7 +2157,7 @@ msgid ""
 "Alternatively, highlight an item using the arrow keys and press <key>Enter</"
 "key>."
 msgstr ""
-"Można też wyróżnić element używając klawiszy strzałek i nacisnąć klawisz "
+"Można też wyróżnić element za pomocą klawiszy strzałek i nacisnąć klawisz "
 "<key>Enter</key>."
 
 #. (itstool) path: section/title
@@ -2264,7 +2259,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gs-use-windows-workspaces.page:131
 msgid "Maximize and unmaximize windows using the keyboard"
-msgstr "Maksymalizacja i przywracanie okien używając klawiatury"
+msgstr "Maksymalizacja i przywracanie okien za pomocą klawiatury"
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:137
@@ -2272,19 +2267,19 @@ msgid ""
 "To unmaximize a window using the keyboard, hold down the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</key>."
 msgstr ""
-"Aby przywrócić okno używając klawiatury, przytrzymaj klawisz <key href="
+"Aby przywrócić okno za pomocą klawiatury, przytrzymaj klawisz <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key> i naciśnij klawisz "
 "<key>↓</key>."
 
 #. (itstool) path: section/title
 #: C/gs-use-windows-workspaces.page:145
 msgid "Tile windows using the keyboard"
-msgstr "Kafelkowanie okien używając klawiatury"
+msgstr "Kafelkowanie okien za pomocą klawiatury"
 
 #. (itstool) path: section/title
 #: C/gs-use-windows-workspaces.page:159
 msgid "Switch workspaces using the keyboard"
-msgstr "Przełączanie obszarów roboczych używając klawiatury"
+msgstr "Przełączanie obszarów roboczych za pomocą klawiatury"
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:163
