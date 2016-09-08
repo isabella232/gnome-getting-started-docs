@@ -37,7 +37,8 @@
 </if:when>
 
 <!--Distributors might want to add their distro here if they ship Firefox by default.-->
-<if:when test="platform:centos, platform:debian, platform:fedora, platform:rhel, platform:ubuntu">
+<if:when test="platform:centos, platform:debian, platform:fedora, platform:rhel, platform:ubuntu,
+platform:opensuse, platform:sled, platform:sles">
 
     <media its:translate="no" type="image" mime="image/svg"
     src="gs-web-browser1-firefox.svg" width="100%" />
@@ -80,7 +81,7 @@
 
 <!--Distributors might want to add their distro here if they ship Firefox by default.-->
 <if:if test="platform:gnome-classic, platform:centos, platform:debian, platform:fedora,
-platform:rhel, platform:ubuntu">
+platform:rhel, platform:ubuntu, platform:opensuse, platform:sled, platform:sles">
 
     <media its:translate="no" type="image" mime="image/svg"
     src="gs-web-browser2-firefox.svg" width="100%" />
