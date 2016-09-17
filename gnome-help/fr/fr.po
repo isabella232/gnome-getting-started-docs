@@ -7,16 +7,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2015-08-13 07:13+0000\n"
-"PO-Revision-Date: 2015-09-12 12:03+0200\n"
-"Last-Translator: Leonor Palazzo <leonor.palazzo@gmail.com>\n"
+"POT-Creation-Date: 2016-09-08 10:43+0000\n"
+"PO-Revision-Date: 2016-09-16 23:03+0200\n"
+"Last-Translator: Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>\n"
 "Language-Team: French <gnomefr@traduc.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 1.8.4\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -24,7 +24,8 @@ msgid "translator-credits"
 msgstr ""
 "Alain Lojewski <allomervan@gmail.com>, 2013-2014\n"
 "Alexandre Franke <alexandre.franke@gmail.com>, 2013\n"
-"Leonor Palazzo <leonor.palazzo@gmail.com>, 2015"
+"Leonor Palazzo <leonor.palazzo@gmail.com>, 2015\n"
+"Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>, 2016"
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:11
@@ -533,7 +534,7 @@ msgstr "Commencer la saisie…"
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
 #: C/gs-animation.xml:33 C/gs-go-online1.svg:249
-#: C/gs-thumb-responding-to-messages.svg:90
+#: C/gs-thumb-responding-to-messages.svg:89
 #, no-wrap
 msgid "John Doe"
 msgstr "John Doe"
@@ -570,7 +571,7 @@ msgstr "J'arrive dans un instant..."
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:40 C/gs-thumb-responding-to-messages.svg:89
+#: C/gs-animation.xml:40 C/gs-thumb-responding-to-messages.svg:88
 #, no-wrap
 msgid "Good stuff, thanks again"
 msgstr "Bon travail, encore merci"
@@ -630,38 +631,58 @@ msgid "14 October 2013, 14:00"
 msgstr "14 octobre 2013, 14:00"
 
 #. (itstool) path: credit/name
-#: C/gs-browse-web.page:9 C/gs-browse-web-firefox.page:10
-#: C/gs-change-date-time-timezone.page:10 C/gs-change-wallpaper.page:9
-#: C/gs-connect-online-accounts.page:9 C/gs-get-online.page:9
-#: C/gs-launch-applications.page:9 C/gs-respond-messages.page:9
-#: C/gs-switch-tasks.page:10 C/gs-use-system-search.page:9
-#: C/gs-use-windows-workspaces.page:9
+#: C/gs-browse-web.page:10 C/gs-change-date-time-timezone.page:9
+#: C/gs-change-wallpaper.page:9 C/gs-connect-online-accounts.page:9
+#: C/gs-get-online.page:9 C/gs-launch-applications.page:9
+#: C/gs-respond-messages.page:9 C/gs-switch-tasks.page:10
+#: C/gs-use-system-search.page:9 C/gs-use-windows-workspaces.page:9
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
 #. (itstool) path: credit/name
-#: C/gs-browse-web.page:12 C/gs-browse-web-firefox.page:13
-#: C/gs-change-date-time-timezone.page:13 C/gs-change-wallpaper.page:12
-#: C/gs-connect-online-accounts.page:12 C/gs-get-online.page:12
-#: C/gs-launch-applications.page:12 C/gs-respond-messages.page:12
-#: C/gs-switch-tasks.page:13 C/gs-use-system-search.page:12
-#: C/gs-use-windows-workspaces.page:12
+#: C/gs-browse-web.page:13 C/gs-change-date-time-timezone.page:12
+#: C/gs-change-wallpaper.page:12 C/gs-connect-online-accounts.page:12
+#: C/gs-get-online.page:12 C/gs-launch-applications.page:12
+#: C/gs-respond-messages.page:12 C/gs-switch-tasks.page:13
+#: C/gs-use-system-search.page:12 C/gs-use-windows-workspaces.page:12
 msgid "Petr Kovar"
 msgstr "Petr Kovar"
 
 #. (itstool) path: info/title
-#: C/gs-browse-web.page:17
+#: C/gs-browse-web.page:16
 msgctxt "link:trail"
 msgid "Browse the web"
 msgstr "Navigation sur le Web"
 
+#. (itstool) path: info/title
+#: C/gs-browse-web.page:18
+msgctxt "link:seealso"
+msgid "A tutorial on browsing the web"
+msgstr "Un tutoriel pour naviguer sur la toile"
+
 #. (itstool) path: page/title
-#: C/gs-browse-web.page:20 C/gs-browse-web-firefox.page:21
+#: C/gs-browse-web.page:22
 msgid "Browse the web"
 msgstr "Navigation sur le Web"
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:26 C/gs-browse-web-firefox.page:30
+#: C/gs-browse-web.page:31
+msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
+msgstr ""
+"Cliquez sur le menu <gui>Applications</gui> dans le coin supérieur gauche de "
+"l'écran."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:33
+msgid ""
+"From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
+"guiseq>."
+msgstr ""
+"Depuis le menu, sélectionnez <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
+"guiseq>."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:47 C/gs-browse-web.page:65
 #: C/gs-launch-applications.page:64
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
@@ -671,69 +692,7 @@ msgstr ""
 "l'écran pour afficher la vue d'ensemble des <gui>Activités</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:29
-msgid ""
-"Select the <app>Web</app> browser icon from the bar on the left-hand side of "
-"the screen."
-msgstr ""
-"Cliquez sur l'icône du navigateur <app>Web</app> située dans la barre à "
-"gauche de l'écran."
-
-#. (itstool) path: note/p
-#: C/gs-browse-web.page:33
-msgid ""
-"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
-"search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
-"gui>."
-msgstr ""
-"Vous pouvez aussi lancer le navigateur <app>Web</app> en <link xref=\"use-"
-"system-search\">saisissant</link> <em>web</em> dans la vue d'ensemble des "
-"<gui>Activités</gui>."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:41 C/gs-browse-web-firefox.page:61
-msgid ""
-"Click the address bar at the top of the browser window and start typing in "
-"the website you want to visit."
-msgstr ""
-"Cliquez dans le champ de saisie du navigateur et commencez à saisir "
-"l'adresse du site Web que vous souhaitez visiter."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:43 C/gs-browse-web-firefox.page:63
-msgid ""
-"Typing in a website starts searching for it in the browser history and "
-"bookmarks, so you do not need to remember the exact address."
-msgstr ""
-"La saisie d'une adresse Web démarre une recherche dans l'historique du "
-"navigateur et dans les marque-pages. Vous n'avez donc pas besoin de "
-"mémoriser l'adresse exacte."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:46 C/gs-browse-web-firefox.page:66
-msgid ""
-"If the website is found in the history or bookmarks, a drop-down list is "
-"shown below the address bar."
-msgstr ""
-"Si le site Web voulu se trouve dans l'historique, il s'affiche en bas du "
-"champ d'adresse avec des propositions dans une liste déroulante."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:48 C/gs-browse-web-firefox.page:68
-msgid ""
-"From the drop-down list, you can quickly select a website using the arrow "
-"keys."
-msgstr ""
-"Déplacez-vous dans la liste à l'aide des touches fléchées pour choisir "
-"l'adresse désirée."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:51 C/gs-browse-web-firefox.page:71
-msgid "After you have selected a website, press <key>Enter</key> to visit it."
-msgstr "Appuyez ensuite sur <key>Entrée</key> pour vous y rendre."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:33
+#: C/gs-browse-web.page:50
 msgid ""
 "Select the <app>Firefox</app> browser icon from the bar on the left-hand "
 "side of the screen."
@@ -742,7 +701,7 @@ msgstr ""
 "gauche de l'écran."
 
 #. (itstool) path: note/p
-#: C/gs-browse-web-firefox.page:37
+#: C/gs-browse-web.page:54
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>Firefox</em> in the <gui>Activities "
@@ -753,51 +712,108 @@ msgstr ""
 "<gui>Activités</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:48
-msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
+#: C/gs-browse-web.page:68
+msgid ""
+"Select the <app>Web</app> browser icon from the bar on the left-hand side of "
+"the screen."
 msgstr ""
-"Cliquez sur le menu <gui>Applications</gui> dans le coin supérieur gauche de "
-"l'écran."
+"Cliquez sur l'icône du navigateur <app>Web</app> située dans la barre à "
+"gauche de l'écran."
+
+#. (itstool) path: note/p
+#: C/gs-browse-web.page:72
+msgid ""
+"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
+"search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
+"gui>."
+msgstr ""
+"Vous pouvez aussi lancer le navigateur <app>Web</app> en <link xref=\"use-"
+"system-search\">saisissant</link> <em>web</em> dans la vue d'ensemble des "
+"<gui>Activités</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:50
+#: C/gs-browse-web.page:92
 msgid ""
-"From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
-"guiseq>."
+"Click the address bar at the top of the browser window and start typing in "
+"the website you want to visit."
 msgstr ""
-"Depuis le menu, sélectionnez <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
-"guiseq>."
+"Cliquez dans le champ de saisie du navigateur et commencez à saisir "
+"l'adresse du site Web que vous souhaitez visiter."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:94
+msgid ""
+"Typing in a website starts searching for it in the browser history and "
+"bookmarks, so you do not need to remember the exact address."
+msgstr ""
+"La saisie d'une adresse Web démarre une recherche dans l'historique du "
+"navigateur et dans les marque-pages. Vous n'avez donc pas besoin de "
+"mémoriser l'adresse exacte."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:97
+msgid ""
+"If the website is found in the history or bookmarks, a drop-down list is "
+"shown below the address bar."
+msgstr ""
+"Si le site Web voulu se trouve dans l'historique, il s'affiche en bas du "
+"champ d'adresse avec des propositions dans une liste déroulante."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:99
+msgid ""
+"From the drop-down list, you can quickly select a website using the arrow "
+"keys."
+msgstr ""
+"Déplacez-vous dans la liste à l'aide des touches fléchées pour choisir "
+"l'adresse désirée."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:102
+msgid "After you have selected a website, press <key>Enter</key> to visit it."
+msgstr "Appuyez ensuite sur <key>Entrée</key> pour vous y rendre."
 
 #. (itstool) path: info/title
-#: C/gs-change-date-time-timezone.page:16
+#: C/gs-change-date-time-timezone.page:15
 msgctxt "link:trail"
 msgid "Change the date, time and timezone"
 msgstr "Modification de la date, de l'heure et du fuseau horaire"
 
 #. (itstool) path: info/title
-#: C/gs-change-date-time-timezone.page:18
+#: C/gs-change-date-time-timezone.page:17
 msgctxt "link:seealso"
 msgid "A tutorial on changing the date, time and timezone"
 msgstr "Modifier la date, l'heure et le fuseau horaire"
 
 #. (itstool) path: page/title
-#. (itstool) path: section/title
-#: C/gs-change-date-time-timezone.page:23
-#: C/gs-change-date-time-timezone.page:65
+#: C/gs-change-date-time-timezone.page:22
 msgid "Change the date, time and timezone"
 msgstr "Modifier la date, l'heure et le fuseau horaire"
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:68
+#: C/gs-change-date-time-timezone.page:28 C/gs-change-wallpaper.page:58
+#: C/gs-connect-online-accounts.page:28 C/gs-get-online.page:63
+#: C/gs-use-system-search.page:83
 msgid ""
-"Click the clock on the top bar and select the <gui>Date &amp; Time Settings</"
-"gui> item."
+"Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
+"right side of the top bar."
 msgstr ""
-"Cliquez sur l'horloge dans la barre supérieure, et sélectionnez "
-"<gui>Paramètres de date et heure</gui>."
+"Cliquez sur le <gui xref=\"shell-introduction#yourname\">menu système</gui> à "
+"droite dans la barre supérieure."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:70
+#: C/gs-change-date-time-timezone.page:30 C/gs-change-wallpaper.page:60
+#: C/gs-connect-online-accounts.page:30 C/gs-use-system-search.page:85
+msgid "Click the settings button at the bottom left of the menu."
+msgstr "Cliquez sur le bouton des paramètres au bas du menu à gauche."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:31
+msgid "Select the <gui>Date &amp; Time</gui> panel."
+msgstr "Sélectionnez le panneau <gui>Date et heure</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:38
 msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
 "then click the <gui>Time Zone</gui> item below."
@@ -806,25 +822,25 @@ msgstr ""
 "cliquez ensuite sur <gui>Fuseau horaire</gui> en dessous."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:72
+#: C/gs-change-date-time-timezone.page:40
 msgid ""
-"Click on your location on the map. This selects your current city, which you "
-"can also search for in the search box above the map."
+"Click on your location on the world map. This selects your current city, "
+"which you can also search for in the search box above the map."
 msgstr ""
-"Cliquez sur votre ville sur la carte. Cela sélectionne votre ville actuelle. "
-"Vous pouvez aussi la rechercher dans le champ au-dessus de la carte."
+"Cliquez sur votre emplacement sur la carte. Cela sélectionne votre ville "
+"actuelle que vous pouvez aussi rechercher avec le champ au-dessus de la "
+"carte."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:75
+#: C/gs-change-date-time-timezone.page:42
 msgid ""
-"Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-"Settings</gui> window."
+"Close the world map window to go back to the <gui>Date &amp; Time</gui>."
 msgstr ""
-"Cliquez sur le bouton <gui>Fermer</gui> pour retourner dans la fenêtre "
-"<gui>Paramètres de date et heure</gui>."
+"Fermez la carte mondiale pour retourner dans la fenêtre <gui>"
+"Date et heure</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:77
+#: C/gs-change-date-time-timezone.page:44
 msgid ""
 "Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
 "off, and then click the <gui>Date &amp; Time</gui> item below to open the "
@@ -837,15 +853,13 @@ msgstr ""
 "l'aide des boutons <gui>+</gui> ou <gui>-</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:82
+#: C/gs-change-date-time-timezone.page:49
 msgid ""
-"Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-"Settings</gui> window, and then close that window by clicking the cross at "
-"the top-right corner of that window."
+"Close the window to go back to the <gui>Date &amp; Time</gui>, and then "
+"close the panel."
 msgstr ""
-"Cliquez sur le bouton <gui>Fermer</gui> pour revenir à la fenêtre <gui>Date "
-"et heure</gui> et fermez ensuite la fenêtre en cliquant sur la croix dans le "
-"coin en haut à droite."
+"Fermez la fenêtre pour retourner dans la fenêtre <gui>Date et "
+"heure</gui>."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:15
@@ -886,13 +900,13 @@ msgstr "Cliquez sur l'image d'arrière-plan actuelle."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:63
+#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:64
 msgid "Click the background image you want to use."
 msgstr "Cliquez sur l'image que vous voulez utiliser comme arrière-plan."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:64
+#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:65
 msgid "Click the <gui>Select</gui> button."
 msgstr "Cliquez sur <gui>Sélectionner</gui>."
 
@@ -902,21 +916,12 @@ msgid "Close the <gui>Background</gui> window."
 msgstr "Fermez la boîte de dialogue <gui>Arrière-plan</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:58 C/gs-use-system-search.page:83
-msgid ""
-"Click the system menu on the right side of the top bar and press the "
-"settings button at the bottom of the menu."
-msgstr ""
-"Ouvrez le menu système à droite dans la barre supérieure et cliquez sur le "
-"bouton des paramètres en bas du menu."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:60
-msgid "From the list of items, select <gui>Background</gui>."
-msgstr "Dans la boîte de dialogue, sélectionnez <gui>Arrière-plan</gui>."
-
-#. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
+msgid "Click the <gui>Background</gui> panel."
+msgstr "Cliquez sur le panneau <gui>Arrière-plan</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:62
 msgid ""
 "Click the current background image on the left side of the <gui>Background</"
 "gui> window."
@@ -925,7 +930,7 @@ msgstr ""
 "dialogue <gui>Arrière-plan</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:65
+#: C/gs-change-wallpaper.page:66
 msgid ""
 "Close the <gui>Background</gui> window by clicking the cross at the top-"
 "right corner of the window."
@@ -951,26 +956,16 @@ msgid "Connect to online accounts"
 msgstr "Connexion aux comptes en ligne"
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:28
-msgid "Click the system menu on the right side of the top bar."
-msgstr "Ouvrez le menu système à droite dans la barre supérieure."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:29
-msgid "Press the settings button at the bottom of the menu."
-msgstr "Cliquez sur le bouton des paramètres au bas du menu"
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:36
+#: C/gs-connect-online-accounts.page:37
 msgid ""
-"From the list of items, select <gui>Online Accounts</gui>, then click on the "
-"<gui>Add an online account</gui> button."
+"Click the <gui>Online Accounts</gui> panel, then click the <gui>Add an "
+"online account</gui> button."
 msgstr ""
-"Dans la liste d'éléments, cliquez sur <gui>Comptes en ligne</gui>, puis sur "
-"le bouton <gui>Ajouter un compte en ligne</gui>."
+"Cliquez sur le panneau <gui>Comptes en ligne</gui>, puis sur le bouton "
+"<gui>Ajouter un compte en ligne</gui>."
 
 #. (itstool) path: note/p
-#: C/gs-connect-online-accounts.page:40
+#: C/gs-connect-online-accounts.page:41
 msgid ""
 "If you have set up an online account before, you can add another online "
 "account by clicking the <gui>+</gui> button at the bottom left corner of the "
@@ -980,7 +975,7 @@ msgstr ""
 "<gui>+</gui> situé en bas à gauche pour en ajouter un autre."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:48
+#: C/gs-connect-online-accounts.page:49
 msgid ""
 "Click the online account you want to use. This will open a new window where "
 "you can sign in to your online account."
@@ -989,7 +984,7 @@ msgstr ""
 "de dialogue s'ouvre pour vous identifier."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:56
+#: C/gs-connect-online-accounts.page:57
 msgid ""
 "In most cases, you will have to grant access to the online service after "
 "signing in to get started."
@@ -998,7 +993,7 @@ msgstr ""
 "après vous être identifié pour démarrer."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:58
+#: C/gs-connect-online-accounts.page:59
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
 "click the <gui>Grant Access</gui> button."
@@ -1007,7 +1002,7 @@ msgstr ""
 "<gui>Autoriser l'accès</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:66
+#: C/gs-connect-online-accounts.page:67
 msgid ""
 "Many online accounts let you choose the services you want to use with your "
 "online account. If you do not want to use a service, disable it by clicking "
@@ -1016,6 +1011,91 @@ msgstr ""
 "Beaucoup de comptes vous permettent de personnaliser les services en ligne "
 "que vous souhaitez utiliser. Si vous ne voulez pas de certains services, "
 "désactivez-les à l'aide de <gui>l'interrupteur I/O</gui> situé à droite."
+
+#. (itstool) path: Work/format
+#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:48
+#: C/gs-goa4.svg:36 C/gs-goa5.svg:48 C/gs-go-online1.svg:230
+#: C/gs-go-online2.svg:265 C/gs-go-online3.svg:290 C/gs-search1.svg:97
+#: C/gs-search2.svg:133 C/gs-search-settings.svg:98
+#: C/gs-thumb-changing-wallpaper.svg:39 C/gs-thumb-launching-apps.svg:189
+#: C/gs-thumb-responding-to-messages.svg:36 C/gs-thumb-task-switching.svg:89
+#: C/gs-thumb-timezone.svg:41 C/gs-thumb-windows-and-workspaces.svg:89
+#: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
+#: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
+#: C/gs-web-browser2.svg:102
+msgid "image/svg+xml"
+msgstr "image/svg+xml"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:60 C/gs-goa3.svg:60 C/gs-thumb-timezone.svg:104
+#: C/gs-thumb-timezone.svg:138 C/gs-web-browser2-firefox.svg:113
+#: C/gs-web-browser2.svg:115
+#, no-wrap
+msgid "4"
+msgstr "4"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:78 C/gs-datetime.svg:112
+#, no-wrap
+msgid "Date &amp; Time"
+msgstr "Date et heure"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:80
+#, no-wrap
+msgid "Automatic Date &amp; Time"
+msgstr "Date et heure automatiques"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:81 C/gs-datetime.svg:96
+#, no-wrap
+msgid "Requires internet access"
+msgstr "Nécessite un accès à Internet"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:87 C/gs-datetime.svg:102 C/gs-goa5.svg:118
+#: C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121 C/gs-goa5.svg:122
+#: C/gs-search-settings.svg:133 C/gs-search-settings.svg:250
+#: C/gs-search-settings.svg:257 C/gs-search-settings.svg:264
+#, no-wrap
+msgid "ON"
+msgstr "I"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:95
+#, no-wrap
+msgid "Automatic Time Zone"
+msgstr "Fuseau horaire automatique"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:113
+#, no-wrap
+msgid "September 1st 2015, 9:51 AM"
+msgstr "1er septembre 2015, 9h51"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:114
+#, no-wrap
+msgid "Time Zone"
+msgstr "fuseau horaire"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:115
+#, no-wrap
+msgid "EDT (New York, United States)"
+msgstr "CET (Paris, France)"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:119
+#, no-wrap
+msgid "Time Format"
+msgstr "Format de l'heure"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:121
+#, no-wrap
+msgid "24-hour"
+msgstr "24 heures"
 
 #. (itstool) path: info/title
 #: C/gs-get-online.page:15
@@ -1052,7 +1132,7 @@ msgstr "Connexion à un réseau filaire"
 #: C/gs-get-online.page:36
 msgid ""
 "The network connection icon on the right-hand side of the top bar shows that "
-"you are off-line."
+"you are offline."
 msgstr ""
 "L'icône de connexion réseau située dans le coin en haut à droite dans la "
 "barre supérieure indique que vous êtes déconnecté."
@@ -1060,14 +1140,14 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/gs-get-online.page:38
 msgid ""
-"The off-line status can be caused by a number of reasons: for example, a "
+"The offline status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
 "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
 msgstr ""
-"Si vous êtes déconnecté, cela peut être dû à différentes raisons : le câble "
-"réseau est débranché, votre ordinateur est en <em>mode avion</em>, ou alors "
-"il n'y a pas de réseau Wi-Fi disponible dans votre environnement."
+"Différentes raisons : le câble réseau est débranché, votre ordinateur est en "
+"<em>mode avion</em>, ou alors il n'y a pas de réseau Wi-Fi disponible dans "
+"votre environnement."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:42
@@ -1102,18 +1182,27 @@ msgstr ""
 msgid "Connect to a Wi-Fi network"
 msgstr "Connexion à un réseau Wi-Fi"
 
-#. (itstool) path: item/p
+#. (itstool) path: steps/title
 #: C/gs-get-online.page:61
+msgid "To connect to a Wi-Fi (wireless) network:"
+msgstr "Pour se connecter à un réseau Wi-Fi (sans fil) :"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:67
 msgid ""
-"To connect to a Wi-Fi (wireless) network, click the status menu at the top "
-"right of the screen, and then click <gui>Select Network</gui>."
+"Select <gui>Wi-Fi Not Connected</gui>. The Wi-Fi section of the menu will "
+"expand."
 msgstr ""
-"Pour vous connecter à un réseau Wi-Fi (sans fil), cliquez sur le menu état "
-"dans le coin droit de l'écran et cliquez sur <gui>Selectionner un réseau</"
-"gui>."
+"Sélectionnez <gui>Wi-Fi non connecté</gui>. La section Wi-Fi du menu "
+"s'ouvrira."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:71
+msgid "Click <gui>Select Network</gui>."
+msgstr "Cliquez sur <gui>Sélectionner le réseau</gui>."
 
 #. (itstool) path: note/p
-#: C/gs-get-online.page:67
+#: C/gs-get-online.page:76
 msgid ""
 "You can only connect to a Wi-Fi network if your computer hardware supports "
 "it and you are in an area with Wi-Fi coverage."
@@ -1123,7 +1212,7 @@ msgstr ""
 "couverte par le Wi-Fi."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:75
+#: C/gs-get-online.page:84
 msgid ""
 "From the list of available Wi-Fi networks, select the network you want to "
 "connect to, and click <gui>Connect</gui> to confirm."
@@ -1132,7 +1221,7 @@ msgstr ""
 "souhaitez vous connecter et cliquez sur <gui>Connexion</gui> pour confirmer."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:77
+#: C/gs-get-online.page:86
 msgid ""
 "Depending on the network configuration, you may be prompted for network "
 "credentials."
@@ -1140,34 +1229,20 @@ msgstr ""
 "Selon la configuration du réseau, il peut vous être demandé de vous "
 "identifier."
 
-#. (itstool) path: Work/format
-#: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
-#: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
-#: C/gs-go-online3.svg:293 C/gs-search1.svg:97 C/gs-search2.svg:133
-#: C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:39
-#: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36
-#: C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
-#: C/gs-thumb-windows-and-workspaces.svg:89
-#: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
-#: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
-#: C/gs-web-browser2.svg:102
-msgid "image/svg+xml"
-msgstr "image/svg+xml"
-
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
-#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101
-#: C/gs-thumb-timezone.svg:135 C/gs-web-browser1-firefox-classic.svg:115
-#: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
+#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101 C/gs-thumb-timezone.svg:135
+#: C/gs-web-browser1-firefox-classic.svg:115 C/gs-web-browser1-firefox.svg:120
+#: C/gs-web-browser1.svg:120
 #, no-wrap
 msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:306
-#: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102
-#: C/gs-thumb-timezone.svg:136 C/gs-web-browser1-firefox-classic.svg:137
-#: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
+#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:303
+#: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102 C/gs-thumb-timezone.svg:136
+#: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
+#: C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
 msgstr "2"
@@ -1180,62 +1255,49 @@ msgid "3"
 msgstr "3"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:69 C/gs-goa3.svg:113 C/gs-goa5.svg:79
+#: C/gs-goa2.svg:69 C/gs-goa3.svg:106 C/gs-goa5.svg:79
 #, no-wrap
 msgid "Online Accounts"
 msgstr "Comptes en ligne"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:71 C/gs-goa3.svg:115
+#: C/gs-goa2.svg:71 C/gs-goa3.svg:108
 #, no-wrap
 msgid "Add an online account"
 msgstr "Ajouter un compte en ligne"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
-#: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
-#, no-wrap
-msgid "4"
-msgstr "4"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:66
+#: C/gs-goa3.svg:63
 #, no-wrap
 msgid "Add Account"
 msgstr "Ajouter un compte"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:343
-#, no-wrap
-msgid "Cancel"
-msgstr "Annuler"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
+#: C/gs-goa3.svg:65 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
 #, no-wrap
 msgid "Google"
 msgstr "Google"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:73 C/gs-goa4.svg:124
+#: C/gs-goa3.svg:66 C/gs-goa4.svg:124
 #, no-wrap
 msgid "Facebook"
 msgstr "Facebook"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:74 C/gs-goa4.svg:125
+#: C/gs-goa3.svg:67 C/gs-goa4.svg:125
 #, no-wrap
 msgid "Windows Live"
 msgstr "Windows Live"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:75 C/gs-goa4.svg:126
+#: C/gs-goa3.svg:68 C/gs-goa4.svg:126
 #, no-wrap
 msgid "Microsoft Exchange"
 msgstr "Microsoft Exchange"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:76 C/gs-goa4.svg:127
+#: C/gs-goa3.svg:69 C/gs-goa4.svg:127
 #, no-wrap
 msgid "Enterprise Login (Kerberos)"
 msgstr "Compte d'entreprise (Kerberos)"
@@ -1252,6 +1314,12 @@ msgstr "5"
 #, no-wrap
 msgid "Google account"
 msgstr "Compte Google"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:338
+#, no-wrap
+msgid "Cancel"
+msgstr "Annuler"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:69
@@ -1350,14 +1418,6 @@ msgid "Documents"
 msgstr "Documents"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121
-#: C/gs-goa5.svg:122 C/gs-search-settings.svg:155 C/gs-search-settings.svg:272
-#: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
-#, no-wrap
-msgid "ON"
-msgstr "I"
-
-#. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
 #: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
 #: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
@@ -1373,7 +1433,7 @@ msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
+#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:311
 #, no-wrap
 msgid "homenetwork"
 msgstr "réseaudomestique"
@@ -1397,43 +1457,43 @@ msgid "Network Settings"
 msgstr "Paramètres du réseau"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:309
+#: C/gs-go-online3.svg:306
 #, no-wrap
 msgid "Wi-Fi Networks"
 msgstr "Réseaux Wi-Fi"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:313
+#: C/gs-go-online3.svg:309
 #, no-wrap
 msgid "Connect"
 msgstr "Connexion"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:316
+#: C/gs-go-online3.svg:312
 #, no-wrap
 msgid "wireless"
 msgstr "sans fil"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:317
+#: C/gs-go-online3.svg:313
 #, no-wrap
 msgid "netgear"
 msgstr "netgear"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:318
+#: C/gs-go-online3.svg:314
 #, no-wrap
 msgid "weak"
 msgstr "faible"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:319
+#: C/gs-go-online3.svg:315
 #, no-wrap
 msgid "private"
 msgstr "privé"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:320
+#: C/gs-go-online3.svg:316
 #, no-wrap
 msgid "Select a network"
 msgstr "Sélectionner un réseau"
@@ -1672,43 +1732,37 @@ msgid "Firefox"
 msgstr "Firefox"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:137
+#: C/gs-search-settings.svg:125
 #, no-wrap
 msgid "Search"
 msgstr "Rechercher"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:148
+#: C/gs-search-settings.svg:127
 #, no-wrap
 msgid "Files"
 msgstr "Fichiers"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:149
-#, no-wrap
-msgid "Enabled"
-msgstr "Activé"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:264
+#: C/gs-search-settings.svg:242
 #, no-wrap
 msgid "Web"
 msgstr "Web"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:265
+#: C/gs-search-settings.svg:243
 #, no-wrap
 msgid "Photos"
 msgstr "Photos"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:266
+#: C/gs-search-settings.svg:244
 #, no-wrap
 msgid "Music"
 msgstr "Musique"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:293
+#: C/gs-search-settings.svg:271
 #, no-wrap
 msgid "OFF"
 msgstr "O"
@@ -1856,7 +1910,7 @@ msgstr ""
 "<key>Entrée</key> pour l'ouvrir."
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-responding-to-messages.svg:88
+#: C/gs-thumb-responding-to-messages.svg:87
 #, no-wrap
 msgid "Thanks f"
 msgstr "Merci p"
@@ -2181,18 +2235,18 @@ msgstr ""
 "choisir de n'afficher que les résultats de sites Web, de photos, ou de "
 "musique."
 
-#. (itstool) path: section/p
-#: C/gs-use-system-search.page:80
+#. (itstool) path: steps/title
+#: C/gs-use-system-search.page:82
 msgid "To customize what is displayed in the search results:"
 msgstr "Pour personnaliser vos résultats :"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:85
-msgid "From the list of items, select <gui>Search</gui>."
-msgstr "Dans la liste d'éléments, sélectionnez <gui>Recherche</gui>."
+#: C/gs-use-system-search.page:86
+msgid "Click the <gui>Search</gui> panel."
+msgstr "Cliquez sur <gui>Rechercher</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:86
+#: C/gs-use-system-search.page:87
 msgid ""
 "In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
 "the search location you want to enable or disable."
@@ -2334,284 +2388,3 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
-
-#~ msgid ""
-#~ "Move your mouse to the message tray at the bottom of the screen and click "
-#~ "the chat message."
-#~ msgstr ""
-#~ "Amenez la souris au tiroir de messagerie qui se trouve en bas de l'écran "
-#~ "et cliquez sur le message de discussion."
-
-#~ msgid "Click the person who sent you the message."
-#~ msgstr "Cliquez sur l'expéditeur du message."
-
-#~ msgid "Start typing your reply and when finished, press <key>Enter </key>."
-#~ msgstr ""
-#~ "Saisissez votre réponse et appuyez sur <key>Entrée</key> pour l'envoyer."
-
-#~ msgid "Press <key>Esc</key> to close the chat message."
-#~ msgstr "Appuyez sur <key>Échap</key> pour fermer le message."
-
-#~ msgid "To dismiss the message tray, press <key>Esc</key>."
-#~ msgstr "Pour fermer le tiroir de messagerie, appuyez sur <key>Échap</key>."
-
-#~ msgid "Changing Date &amp; Time"
-#~ msgstr "Modifier la date et l'heure"
-
-#~ msgid "Click the clock on the top bar."
-#~ msgstr "Cliquez sur l'horloge dans la barre supérieure."
-
-#~ msgid "Select <gui>Date &amp; Time Settings</gui>."
-#~ msgstr "Sélectionnez <gui>Paramètres de date et heure</gui>."
-
-#~ msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
-#~ msgstr ""
-#~ "Assurez-vous que <gui>Fuseau horaire automatique</gui> est désactivé."
-
-#~ msgid "Click <gui>Time Zone</gui>."
-#~ msgstr "Cliquez sur <gui>Fuseau horaire</gui>."
-
-#~ msgid "Click on your location on the map."
-#~ msgstr "Cliquez sur votre pays sur la carte."
-
-#~ msgid "Click <gui>Close</gui>."
-#~ msgstr "Cliquez sur <gui>Fermer</gui>."
-
-#~ msgid "Close the window."
-#~ msgstr "Fermez la boîte de dialogue."
-
-#~ msgid ""
-#~ "To get back to your unanswered message, move your mouse to the message "
-#~ "tray at the very bottom of the screen."
-#~ msgstr ""
-#~ "Pour en prendre connaissance plus tard, ouvrez le tiroir de messagerie en "
-#~ "bas de l'écran en y positionnant le pointeur de la souris."
-
-#~ msgid ""
-#~ "When the message tray appears, click a small image that represents the "
-#~ "person who sent you the message."
-#~ msgstr "Cliquez sur l'image représentant l'expéditeur de votre message."
-
-#~ msgid ""
-#~ "Use the arrow keys to select a small image representing the person you "
-#~ "want to reply to, and press <key>Enter</key>."
-#~ msgstr ""
-#~ "Déplacez-vous avec les touches fléchées sur l'image représentant "
-#~ "l'expéditeur de votre message et appuyez sur <key>Entrée</key>."
-
-#~ msgid ""
-#~ "To dismiss the message tray, press <key>Esc</key> or <keyseq> <key href="
-#~ "\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>."
-#~ msgstr ""
-#~ "Pour fermer le tiroir de messagerie, appuyez sur <key>Échap</key> ou sur "
-#~ "<keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Logo</"
-#~ "key><key>M</key></keyseq>."
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-launching-applications.webm' "
-#~ "md5='1182da390c28028167218c737619543d'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-launching-applications.webm' "
-#~ "md5='1182da390c28028167218c737619543d'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-windows-and-workspaces.webm' "
-#~ "md5='399f502514acf244fd22ba774b1c812e'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-windows-and-workspaces.webm' "
-#~ "md5='399f502514acf244fd22ba774b1c812e'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-task-switching.webm' "
-#~ "md5='a8fa976828cf7f4b4eac7cad346c65c1'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-task-switching.webm' "
-#~ "md5='a8fa976828cf7f4b4eac7cad346c65c1'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-responding-to-messages.webm' "
-#~ "md5='f8522ebe4ac4e7be319217399122025a'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-responding-to-messages.webm' "
-#~ "md5='f8522ebe4ac4e7be319217399122025a'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser1-firefox.svg' "
-#~ "md5='f4958e0fad516473746fc14fbd0f4333'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser1-firefox.svg' "
-#~ "md5='f4958e0fad516473746fc14fbd0f4333'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser1-firefox-classic.svg' "
-#~ "md5='fe09a8fa520c0f337bade21f8a5d0377'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser1-firefox-classic.svg' "
-#~ "md5='fe09a8fa520c0f337bade21f8a5d0377'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser2-firefox.svg' "
-#~ "md5='d8f2a86ceef35a2e9a95fa54943ca76f'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser2-firefox.svg' "
-#~ "md5='d8f2a86ceef35a2e9a95fa54943ca76f'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-timezone.webm' "
-#~ "md5='a6eb6dd9f7ca9d428ff35aad8cbaab65'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-timezone.webm' "
-#~ "md5='a6eb6dd9f7ca9d428ff35aad8cbaab65'"
-
-#~ msgid ""
-#~ "You can adjust the date and time by clicking on the arrows to choose the "
-#~ "hour, minute, and year."
-#~ msgstr ""
-#~ "Utilisez les flèches correspondantes pour régler l'heure, les minutes et "
-#~ "la date."
-
-#~ msgid ""
-#~ "You may need to click the <gui>Unlock</gui> button and type the "
-#~ "administrator's password."
-#~ msgstr ""
-#~ "Il peut être nécessaire de cliquer sur le bouton <gui>Déverrouiller</gui> "
-#~ "et renseigner votre mot de passe administrateur."
-
-#~ msgid ""
-#~ "On the right-hand side of the window, you can adjust the date and time by "
-#~ "clicking on the arrows to choose the hour, minute, and year."
-#~ msgstr ""
-#~ "Dans la partie droite de la fenêtre, vous pouvez régler l'heure et la "
-#~ "date à l'aide des flèches pour choisir l'heure, les minutes et la date."
-
-#~ msgid ""
-#~ "Close the window by clicking the cross at the top-right corner of the "
-#~ "window."
-#~ msgstr ""
-#~ "Cliquez sur la croix dans le coin supérieur droit pour fermer la boîte de "
-#~ "dialogue."
-
-#~ msgid "Click your name on the top bar and select <gui>Settings</gui>."
-#~ msgstr ""
-#~ "Cliquez sur votre nom dans la barre supérieure et sélectionnez "
-#~ "<gui>Paramètres</gui>."
-
-#~ msgid "Click your name on the top bar."
-#~ msgstr "Cliquez sur votre nom dans la barre supérieure."
-
-#~ msgid "Select the <gui>Settings</gui> item."
-#~ msgstr "Sélectionnez <gui>Paramètres</gui>."
-
-#~ msgid "Click on the <gui>Add an online account</gui> button."
-#~ msgstr "Cliquez sur le bouton <gui>Ajouter un compte en ligne</gui>."
-
-#~ msgid ""
-#~ "Click the network connection icon to show more details about the status "
-#~ "of your network connection."
-#~ msgstr ""
-#~ "Cliquez sur l'icône de connexion réseau de la barre supérieure pour "
-#~ "connaître l'état de votre connexion au réseau."
-
-#~ msgid "Connect to other types of networks"
-#~ msgstr "Autres types de connexions réseau"
-
-#~ msgid ""
-#~ "There are various types of network connections that you can use with your "
-#~ "computer, for example, mobile broadband, or wireless networks."
-#~ msgstr ""
-#~ "Vous pouvez configurer différents types de connexions réseau avec votre "
-#~ "ordinateur, comme par exemple une connexion mobile à large bande, ou une "
-#~ "connexion sans fil."
-
-#~ msgid ""
-#~ "Depending on your computer hardware and the networks availability, you "
-#~ "can choose other connection types by clicking the network connection icon "
-#~ "on the right-hand side of the top bar and selecting the network "
-#~ "connection you want to connect to."
-#~ msgstr ""
-#~ "En fonction de la configuration matérielle de votre ordinateur et des "
-#~ "disponibilités du réseau, vous pouvez modifier votre type de connexion en "
-#~ "cliquant sur l'icône de connexion réseau dans la barre supérieure et en "
-#~ "choisissant un réseau dans la liste proposée."
-
-#~ msgid ""
-#~ "Start typing to search. Results matching what you have typed will appear "
-#~ "as you type."
-#~ msgstr ""
-#~ "Commencer votre saisie pour lancer la recherche. Des propositions "
-#~ "correspondantes s'affichent au fur et à mesure de votre saisie."
-
-#~ msgid ""
-#~ "To cycle through the list of open windows, do not release <key xref="
-#~ "\"keyboard-key-super\">Super</key> but hold it down, and press <key> Tab</"
-#~ "key>."
-#~ msgstr ""
-#~ "Pour naviguer entre les fenêtres actives, maintenez la touche <key xref="
-#~ "\"keyboard-key-super\">Logo</key> enfoncée et appuyez sur "
-#~ "<key>Tabulation</key>."
-
-#~ msgid ""
-#~ "System search aggregates results from various applications. The first "
-#~ "group of results are application launchers. Activating a launcher will "
-#~ "start an application."
-#~ msgstr ""
-#~ "La recherche système réunit des résultats de différentes applications. Le "
-#~ "premier groupe de résultats est constitué de lanceurs d'applications. En "
-#~ "activant un lanceur, vous démarrer l'application correspondante."
-
-#~ msgid ""
-#~ "Other types of results might include <app>settings</app>, <app>contacts</"
-#~ "app> or <app>documents</app>. Each type of result is preceded with an "
-#~ "icon of the application that provided the result (apart from the "
-#~ "application launchers at the top). Only the best matches are presented in "
-#~ "the overview, so if you want more scope for your search, you can click or "
-#~ "use the arrow keys to navigate to the application icon on the left to "
-#~ "take you to the application itself. As soon as the associated application "
-#~ "starts, your performed query will be performed in the application."
-#~ msgstr ""
-#~ "D'autres types de résultats peuvent inclure des <app>Paramètres</app>, "
-#~ "des <app>Contacts</app> ou des <app>Documents</app>. Chaque type de "
-#~ "résultat est précédé de l'icône de l'application qui l'a produit (hormis "
-#~ "les lanceurs du dessus). Seules les correspondances les plus proches sont "
-#~ "affichées dans la vue d'ensemble, de sorte que si vous souhaitez "
-#~ "approfondir la recherche, vous pouvez lancer l'application grâce à "
-#~ "l'icône située à gauche du résultat. Cela démarre l'application et votre "
-#~ "recherche est alors reprise dans l'application elle-même."
-
-#~ msgid ""
-#~ "To move to a workspace which is below the current workspace, press "
-#~ "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key> "
-#~ "</keyseq>."
-#~ msgstr ""
-#~ "Pour vous déplacer vers l'espace de travail situé au-dessous de l'actuel, "
-#~ "appuyez sur <keyseq><key xref=\"keyboard-key-super\">Logo</key><key>Page "
-#~ "bas</key></keyseq>."
-
-#~ msgid ""
-#~ "To move to a workspace which is above the current workspace, press "
-#~ "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Up</key> </"
-#~ "keyseq>."
-#~ msgstr ""
-#~ "Pour vous déplacer vers l'espace de travail situé au-dessus de l'actuel, "
-#~ "appuyez sur <keyseq><key xref=\"keyboard-key-super\">Logo</key><key>Page "
-#~ "haut</key></keyseq>."
