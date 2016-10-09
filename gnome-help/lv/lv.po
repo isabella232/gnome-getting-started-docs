@@ -2,16 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2016-03-12 21:10+0000\n"
-"PO-Revision-Date: 2016-03-13 12:19+0200\n"
+"POT-Creation-Date: 2016-08-19 12:55+0000\n"
+"PO-Revision-Date: 2016-10-09 20:41+0200\n"
 "Last-Translator: Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>\n"
 "Language-Team: Latvian <lata-l10n@googlegroups.com>\n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
-"2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 :"
+" 2);\n"
 "X-Generator: Lokalize 2.0\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
@@ -338,9 +338,6 @@ msgstr "Atbildēšana uz ziņojumiem"
 #. (itstool) path: item/p
 #: C/getting-started.page:223 C/gs-respond-messages.page:32
 #: C/gs-respond-messages.page:80
-#| msgid ""
-#| "Move your mouse pointer to the <gui>Activities</gui> corner at the top "
-#| "left of the screen."
 msgid ""
 "Move your mouse over the chat message that appears near the top of the "
 "screen."
@@ -368,9 +365,6 @@ msgstr "Aizkavēta atbilde"
 
 #. (itstool) path: div/p
 #: C/getting-started.page:237 C/gs-respond-messages.page:46
-#| msgid ""
-#| "A chat message in the message tray disappears after a while if you do not "
-#| "move your mouse to the message tray."
 msgid ""
 "A chat message near the top of the screen disappears after a while if you do "
 "not move your mouse over the message."
@@ -382,9 +376,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/getting-started.page:241 C/gs-respond-messages.page:50
 #: C/gs-respond-messages.page:96
-#| msgid ""
-#| "To get back to your unanswered message, move your mouse to the message "
-#| "tray."
 msgid "To get back to your unanswered message, click the clock on the top bar."
 msgstr ""
 "Lai tiktu atpakaļ pie neatbildēta ziņojuma, spiediet uz pulksteņa augšējā "
@@ -403,21 +394,15 @@ msgstr "Sāciet rakstīt savu atbildi."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:251 C/gs-respond-messages.page:60
-#| msgid ""
-#| "To show the message tray, press <keyseq> <key href=\"help:gnome-help/"
-#| "keyboard-key-super\">Super</key> <key>M</key></keyseq>"
 msgid ""
 "To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
 "keyboard-key-super\">Super</key> <key>V</key></keyseq>"
 msgstr ""
-"Lai redzētu paziņojumu sarakstu, spiediet <keyseq> <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> <key>V</key></keyseq>"
+"Lai redzētu paziņojumu sarakstu, spiediet <keyseq> <key href=\"help:gnome-"
+"help/keyboard-key-super\">Super</key> <key>V</key></keyseq>"
 
 #. (itstool) path: div/p
 #: C/getting-started.page:256 C/gs-respond-messages.page:65
-#| msgid ""
-#| "Use the arrow keys to select the person you want to reply to, and press "
-#| "<key>Enter</key>."
 msgid ""
 "Use the arrow keys to select the message you want to reply to, and press "
 "<key>Enter</key>."
@@ -536,7 +521,7 @@ msgstr "Vienkārši sāciet rakstīt…"
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
 #: C/gs-animation.xml:33 C/gs-go-online1.svg:249
-#: C/gs-thumb-responding-to-messages.svg:90
+#: C/gs-thumb-responding-to-messages.svg:89
 #, no-wrap
 msgid "John Doe"
 msgstr "Jānis Bērziņš"
@@ -573,7 +558,7 @@ msgstr "Būšu pēc brīža..."
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:40 C/gs-thumb-responding-to-messages.svg:89
+#: C/gs-animation.xml:40 C/gs-thumb-responding-to-messages.svg:88
 #, no-wrap
 msgid "Good stuff, thanks again"
 msgstr "Laba manta, atkal paldies"
@@ -633,38 +618,58 @@ msgid "14 October 2013, 14:00"
 msgstr "14. oktobris 2013, 14.00"
 
 #. (itstool) path: credit/name
-#: C/gs-browse-web.page:9 C/gs-browse-web-firefox.page:10
-#: C/gs-change-date-time-timezone.page:9 C/gs-change-wallpaper.page:9
-#: C/gs-connect-online-accounts.page:9 C/gs-get-online.page:9
-#: C/gs-launch-applications.page:9 C/gs-respond-messages.page:9
-#: C/gs-switch-tasks.page:10 C/gs-use-system-search.page:9
-#: C/gs-use-windows-workspaces.page:9
+#: C/gs-browse-web.page:10 C/gs-change-date-time-timezone.page:9
+#: C/gs-change-wallpaper.page:9 C/gs-connect-online-accounts.page:9
+#: C/gs-get-online.page:9 C/gs-launch-applications.page:9
+#: C/gs-respond-messages.page:9 C/gs-switch-tasks.page:10
+#: C/gs-use-system-search.page:9 C/gs-use-windows-workspaces.page:9
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
 #. (itstool) path: credit/name
-#: C/gs-browse-web.page:12 C/gs-browse-web-firefox.page:13
-#: C/gs-change-date-time-timezone.page:12 C/gs-change-wallpaper.page:12
-#: C/gs-connect-online-accounts.page:12 C/gs-get-online.page:12
-#: C/gs-launch-applications.page:12 C/gs-respond-messages.page:12
-#: C/gs-switch-tasks.page:13 C/gs-use-system-search.page:12
-#: C/gs-use-windows-workspaces.page:12
+#: C/gs-browse-web.page:13 C/gs-change-date-time-timezone.page:12
+#: C/gs-change-wallpaper.page:12 C/gs-connect-online-accounts.page:12
+#: C/gs-get-online.page:12 C/gs-launch-applications.page:12
+#: C/gs-respond-messages.page:12 C/gs-switch-tasks.page:13
+#: C/gs-use-system-search.page:12 C/gs-use-windows-workspaces.page:12
 msgid "Petr Kovar"
 msgstr "Petr Kovar"
 
 #. (itstool) path: info/title
-#: C/gs-browse-web.page:17
+#: C/gs-browse-web.page:16
 msgctxt "link:trail"
 msgid "Browse the web"
 msgstr "Pārlūkot tīmekli"
 
+#. (itstool) path: info/title
+#: C/gs-browse-web.page:18
+#| msgctxt "link:seealso"
+#| msgid "A tutorial on changing the wallpaper"
+msgctxt "link:seealso"
+msgid "A tutorial on browsing the web"
+msgstr "Ceļvedis tīmekļa pārlūkošanā"
+
 #. (itstool) path: page/title
-#: C/gs-browse-web.page:20 C/gs-browse-web-firefox.page:21
+#: C/gs-browse-web.page:22
 msgid "Browse the web"
 msgstr "Pārlūkot tīmekli"
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:26 C/gs-browse-web-firefox.page:30
+#: C/gs-browse-web.page:31
+msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
+msgstr ""
+"Spiediet uz izvēlnes <gui>Lietotnes</gui> ekrāna augšējā kreisajā stūrī."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:33
+msgid ""
+"From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
+"guiseq>."
+msgstr ""
+"Izvēlnē izvēlieties <guiseq><gui>Internets</gui><gui>Firefox</gui></guiseq>."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:46 C/gs-browse-web.page:64
 #: C/gs-launch-applications.page:64
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
@@ -674,73 +679,14 @@ msgstr ""
 "stūrī, lai redzētu <gui>Aktivitāšu pārskatu</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:29
-msgid ""
-"Select the <app>Web</app> browser icon from the bar on the left-hand side of "
-"the screen."
-msgstr "Izvēlieties pārlūka <app>Tīmeklis</app> ikonu no kreisās ekrāna puses."
-
-#. (itstool) path: note/p
-#: C/gs-browse-web.page:33
-msgid ""
-"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
-"search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
-"gui>."
-msgstr ""
-"Vai arī varat pārlūku palaist <link xref=\"gs-use-system-search\">vienkārši "
-"ierakstot</link> <em>tīmeklis</em> <gui>Aktivitāšu pārskatā</gui>."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:41 C/gs-browse-web-firefox.page:61
-msgid ""
-"Click the address bar at the top of the browser window and start typing in "
-"the website you want to visit."
-msgstr ""
-"Spiediet uz adreses joslas pārlūka loga augšpusē un sāciet rakstīt vietnes "
-"nosaukumu, kuru vēlaties apmeklēt."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:43 C/gs-browse-web-firefox.page:63
-msgid ""
-"Typing in a website starts searching for it in the browser history and "
-"bookmarks, so you do not need to remember the exact address."
-msgstr ""
-"Tīmekļa vietnes rakstīšanas laikā tā tiek meklēta pārlūka vēsturē un "
-"grāmatzīmēs, lai jums nevajadzētu atcerēties precīzu adresi."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:46 C/gs-browse-web-firefox.page:66
-msgid ""
-"If the website is found in the history or bookmarks, a drop-down list is "
-"shown below the address bar."
-msgstr ""
-"Ja vietne ir atrasta vēsturē vai grāmatzīmēs, tā tiks parādīta sarakstā zem "
-"adreses joslas."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:48 C/gs-browse-web-firefox.page:68
-msgid ""
-"From the drop-down list, you can quickly select a website using the arrow "
-"keys."
-msgstr ""
-"No šī saraksta jūs varat ātri izvēlēties tīmekļa vietnes, izmantojot bultu "
-"taustiņus."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:51 C/gs-browse-web-firefox.page:71
-msgid "After you have selected a website, press <key>Enter</key> to visit it."
-msgstr ""
-"Pēc tīmekļa vietnes izvēles, spiediet <key>Enter</key>, lai to apmeklētu."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:33
+#: C/gs-browse-web.page:49
 msgid ""
 "Select the <app>Firefox</app> browser icon from the bar on the left-hand "
 "side of the screen."
 msgstr "Izvēlieties pārlūka <app>Firefox</app> ikonu no kreisās ekrāna puses."
 
 #. (itstool) path: note/p
-#: C/gs-browse-web-firefox.page:37
+#: C/gs-browse-web.page:53
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>Firefox</em> in the <gui>Activities "
@@ -750,18 +696,63 @@ msgstr ""
 "ierakstot</link> <em>Firefox</em> <gui>Aktivitāšu pārskatā</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:48
-msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
+#: C/gs-browse-web.page:67
+msgid ""
+"Select the <app>Web</app> browser icon from the bar on the left-hand side of "
+"the screen."
+msgstr "Izvēlieties pārlūka <app>Tīmeklis</app> ikonu no kreisās ekrāna puses."
+
+#. (itstool) path: note/p
+#: C/gs-browse-web.page:71
+msgid ""
+"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
+"search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
+"gui>."
 msgstr ""
-"Spiediet uz izvēlnes <gui>Lietotnes</gui> ekrāna augšējā kreisajā stūrī."
+"Vai arī varat pārlūku palaist <link xref=\"gs-use-system-search\">vienkārši "
+"ierakstot</link> <em>tīmeklis</em> <gui>Aktivitāšu pārskatā</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:50
+#: C/gs-browse-web.page:90
 msgid ""
-"From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
-"guiseq>."
+"Click the address bar at the top of the browser window and start typing in "
+"the website you want to visit."
 msgstr ""
-"Izvēlnē izvēlieties <guiseq><gui>Internets</gui><gui>Firefox</gui></guiseq>."
+"Spiediet uz adreses joslas pārlūka loga augšpusē un sāciet rakstīt vietnes "
+"nosaukumu, kuru vēlaties apmeklēt."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:92
+msgid ""
+"Typing in a website starts searching for it in the browser history and "
+"bookmarks, so you do not need to remember the exact address."
+msgstr ""
+"Tīmekļa vietnes rakstīšanas laikā tā tiek meklēta pārlūka vēsturē un "
+"grāmatzīmēs, lai jums nevajadzētu atcerēties precīzu adresi."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:95
+msgid ""
+"If the website is found in the history or bookmarks, a drop-down list is "
+"shown below the address bar."
+msgstr ""
+"Ja vietne ir atrasta vēsturē vai grāmatzīmēs, tā tiks parādīta sarakstā zem "
+"adreses joslas."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:97
+msgid ""
+"From the drop-down list, you can quickly select a website using the arrow "
+"keys."
+msgstr ""
+"No šī saraksta jūs varat ātri izvēlēties tīmekļa vietnes, izmantojot bultu "
+"taustiņus."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:100
+msgid "After you have selected a website, press <key>Enter</key> to visit it."
+msgstr ""
+"Pēc tīmekļa vietnes izvēles, spiediet <key>Enter</key>, lai to apmeklētu."
 
 #. (itstool) path: info/title
 #: C/gs-change-date-time-timezone.page:15
@@ -784,7 +775,6 @@ msgstr "Mainīt datumu, laiku un laika joslu"
 #: C/gs-change-date-time-timezone.page:28 C/gs-change-wallpaper.page:58
 #: C/gs-connect-online-accounts.page:28 C/gs-get-online.page:63
 #: C/gs-use-system-search.page:83
-#| msgid "Click the system menu on the right side of the top bar."
 msgid ""
 "Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
 "right side of the top bar."
@@ -795,13 +785,11 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:30 C/gs-change-wallpaper.page:60
 #: C/gs-connect-online-accounts.page:30 C/gs-use-system-search.page:85
-#| msgid "Press the settings button at the bottom of the menu."
 msgid "Click the settings button at the bottom left of the menu."
 msgstr "Spiediet iestatījumu pogu izvēlnes apakšā pa kreisi."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:31
-#| msgid "Select <gui>Date &amp; Time Settings</gui>."
 msgid "Select the <gui>Date &amp; Time</gui> panel."
 msgstr "Izvēlieties <gui>Datuma un laika</gui> paneli."
 
@@ -816,9 +804,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:40
-#| msgid ""
-#| "Click on your location on the map. This selects your current city, which "
-#| "you can also search for in the search box above the map."
 msgid ""
 "Click on your location on the world map. This selects your current city, "
 "which you can also search for in the search box above the map."
@@ -829,9 +814,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:42
-#| msgid ""
-#| "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-#| "Settings</gui> window."
 msgid ""
 "Close the world map window to go back to the <gui>Date &amp; Time</gui>."
 msgstr ""
@@ -853,15 +835,12 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:49
-#| msgid ""
-#| "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-#| "Settings</gui> window."
 msgid ""
 "Close the window to go back to the <gui>Date &amp; Time</gui>, and then "
 "close the panel."
 msgstr ""
-"Aizveriet logu, lai dotos atpakaļ uz logu <gui>Datums un "
-"laiks</gui>, tad aizveriet paneli."
+"Aizveriet logu, lai dotos atpakaļ uz logu <gui>Datums un laiks</gui>, tad "
+"aizveriet paneli."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:15
@@ -919,7 +898,6 @@ msgstr "Aizveriet logu <gui>Fons</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
-#| msgid "Close the <gui>Background</gui> window."
 msgid "Click the <gui>Background</gui> panel."
 msgstr "Spiediet uz paneli <gui>Fons</gui>."
 
@@ -960,15 +938,12 @@ msgstr "Savienoties ar tiešsaistes kontiem"
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:37
-#| msgid ""
-#| "From the list of items, select <gui>Online Accounts</gui>, then click on "
-#| "the <gui>Add an online account</gui> button."
 msgid ""
 "Click the <gui>Online Accounts</gui> panel, then click the <gui>Add an "
 "online account</gui> button."
 msgstr ""
-"Spiediet uz paneli <gui>Tiešsaistes konti</gui>, tad spiediet "
-"pogu <gui>Pievienot tiešsaistes kontu</gui>."
+"Spiediet uz paneli <gui>Tiešsaistes konti</gui>, tad spiediet pogu "
+"<gui>Pievienot tiešsaistes kontu</gui>."
 
 #. (itstool) path: note/p
 #: C/gs-connect-online-accounts.page:41
@@ -1019,9 +994,9 @@ msgstr ""
 "slēdzi loga labajā pusē."
 
 #. (itstool) path: Work/format
-#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51
+#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:48
 #: C/gs-goa4.svg:36 C/gs-goa5.svg:48 C/gs-go-online1.svg:230
-#: C/gs-go-online2.svg:265 C/gs-go-online3.svg:293 C/gs-search1.svg:97
+#: C/gs-go-online2.svg:265 C/gs-go-online3.svg:290 C/gs-search1.svg:97
 #: C/gs-search2.svg:133 C/gs-search-settings.svg:98
 #: C/gs-thumb-changing-wallpaper.svg:39 C/gs-thumb-launching-apps.svg:189
 #: C/gs-thumb-responding-to-messages.svg:36 C/gs-thumb-task-switching.svg:89
@@ -1033,7 +1008,7 @@ msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:60 C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104
+#: C/gs-datetime.svg:60 C/gs-goa3.svg:60 C/gs-thumb-timezone.svg:104
 #: C/gs-thumb-timezone.svg:138 C/gs-web-browser2-firefox.svg:113
 #: C/gs-web-browser2.svg:115
 #, no-wrap
@@ -1043,14 +1018,12 @@ msgstr "4"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:78 C/gs-datetime.svg:112
 #, no-wrap
-#| msgid "Changing Date &amp; Time"
 msgid "Date &amp; Time"
 msgstr "Datums un laiks"
 
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:80
 #, no-wrap
-#| msgid "Automatic Date and Time"
 msgid "Automatic Date &amp; Time"
 msgstr "Automātisks datums un laiks"
 
@@ -1063,8 +1036,8 @@ msgstr "Vajadzīga pieeja internetam"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:87 C/gs-datetime.svg:102 C/gs-goa5.svg:118
 #: C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121 C/gs-goa5.svg:122
-#: C/gs-search-settings.svg:155 C/gs-search-settings.svg:272
-#: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
+#: C/gs-search-settings.svg:133 C/gs-search-settings.svg:250
+#: C/gs-search-settings.svg:257 C/gs-search-settings.svg:264
 #, no-wrap
 msgid "ON"
 msgstr "❙"
@@ -1072,7 +1045,6 @@ msgstr "❙"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:95
 #, no-wrap
-#| msgid "Automatic Timezone"
 msgid "Automatic Time Zone"
 msgstr "Automātiskā laika josla"
 
@@ -1138,9 +1110,6 @@ msgstr "Savienoties ar vadu tīklu"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:36
-#| msgid ""
-#| "The network connection icon on the right-hand side of the top bar shows "
-#| "that you are off-line."
 msgid ""
 "The network connection icon on the right-hand side of the top bar shows that "
 "you are offline."
@@ -1149,11 +1118,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:38
-#| msgid ""
-#| "The off-line status can be caused by a number of reasons: for example, a "
-#| "network cable has been unplugged, the computer has been set to run in "
-#| "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
-#| "area."
 msgid ""
 "The offline status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
@@ -1199,7 +1163,6 @@ msgstr "Savienoties ar Wi-Fi tīklu"
 
 #. (itstool) path: steps/title
 #: C/gs-get-online.page:61
-#| msgid "Connect to a Wi-Fi network"
 msgid "To connect to a Wi-Fi (wireless) network:"
 msgstr "Lai savienotos ar Wi-Fi (bezvadu) tīklu:"
 
@@ -1214,7 +1177,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:71
-#| msgid "Click <gui>Close</gui>."
 msgid "Click <gui>Select Network</gui>."
 msgstr "Spiediet <gui>Izvēlieties tīklu</gui>."
 
@@ -1255,7 +1217,7 @@ msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:306
+#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:303
 #: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102 C/gs-thumb-timezone.svg:136
 #: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
 #: C/gs-web-browser1.svg:153
@@ -1271,55 +1233,49 @@ msgid "3"
 msgstr "3"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:69 C/gs-goa3.svg:113 C/gs-goa5.svg:79
+#: C/gs-goa2.svg:69 C/gs-goa3.svg:106 C/gs-goa5.svg:79
 #, no-wrap
 msgid "Online Accounts"
 msgstr "Tiešsaistes konti"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:71 C/gs-goa3.svg:115
+#: C/gs-goa2.svg:71 C/gs-goa3.svg:108
 #, no-wrap
 msgid "Add an online account"
 msgstr "Pievienot tiešsaistes kontu"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:66
+#: C/gs-goa3.svg:63
 #, no-wrap
 msgid "Add Account"
 msgstr "Pievienot kontu"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:343
-#, no-wrap
-msgid "Cancel"
-msgstr "Atcelt"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
+#: C/gs-goa3.svg:65 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
 #, no-wrap
 msgid "Google"
 msgstr "Google"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:73 C/gs-goa4.svg:124
+#: C/gs-goa3.svg:66 C/gs-goa4.svg:124
 #, no-wrap
 msgid "Facebook"
 msgstr "Facebook"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:74 C/gs-goa4.svg:125
+#: C/gs-goa3.svg:67 C/gs-goa4.svg:125
 #, no-wrap
 msgid "Windows Live"
 msgstr "Windows Live"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:75 C/gs-goa4.svg:126
+#: C/gs-goa3.svg:68 C/gs-goa4.svg:126
 #, no-wrap
 msgid "Microsoft Exchange"
 msgstr "Microsoft Exchange"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:76 C/gs-goa4.svg:127
+#: C/gs-goa3.svg:69 C/gs-goa4.svg:127
 #, no-wrap
 msgid "Enterprise Login (Kerberos)"
 msgstr "Uzņēmuma lietotājvārds (Kerberos)"
@@ -1336,6 +1292,12 @@ msgstr "5"
 #, no-wrap
 msgid "Google account"
 msgstr "Google konts"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:338
+#, no-wrap
+msgid "Cancel"
+msgstr "Atcelt"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:69
@@ -1449,7 +1411,7 @@ msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
+#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:311
 #, no-wrap
 msgid "homenetwork"
 msgstr "mājastīkls"
@@ -1473,43 +1435,43 @@ msgid "Network Settings"
 msgstr "Tīkla iestatījumi"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:309
+#: C/gs-go-online3.svg:306
 #, no-wrap
 msgid "Wi-Fi Networks"
 msgstr "Bezvadu tīkli"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:313
+#: C/gs-go-online3.svg:309
 #, no-wrap
 msgid "Connect"
 msgstr "Savienoties"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:316
+#: C/gs-go-online3.svg:312
 #, no-wrap
 msgid "wireless"
 msgstr "bezvadu"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:317
+#: C/gs-go-online3.svg:313
 #, no-wrap
 msgid "netgear"
 msgstr "netgear"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:318
+#: C/gs-go-online3.svg:314
 #, no-wrap
 msgid "weak"
 msgstr "vājš"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:319
+#: C/gs-go-online3.svg:315
 #, no-wrap
 msgid "private"
 msgstr "privāts"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:320
+#: C/gs-go-online3.svg:316
 #, no-wrap
 msgid "Select a network"
 msgstr "Izvēlieties tīklu"
@@ -1632,9 +1594,6 @@ msgstr "Aizkavēta atbilde uz tērzēšanas ziņojumu, izmantojot peli"
 
 #. (itstool) path: item/p
 #: C/gs-respond-messages.page:94
-#| msgid ""
-#| "When a chat message appears in the message tray and you do not move your "
-#| "mouse to the message tray, the message disappears after a while."
 msgid ""
 "When a chat message appears near the top of the screen and you do not move "
 "your mouse over the message, it disappears after a while."
@@ -1653,9 +1612,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-respond-messages.page:100 C/gs-respond-messages.page:114
-#| msgid ""
-#| "When the chat message is shown, start typing your reply and when "
-#| "finished, press <key>Enter</key> to send the reply."
 msgid "When the chat message is shown, start typing your reply."
 msgstr "Kad parādās tērzēšanas ziņojums, sāciet rakstīt atbildi."
 
@@ -1666,10 +1622,6 @@ msgstr "Aizkavēta atbilde uz tērzēšanas ziņojumu, izmantojot tastatūru"
 
 #. (itstool) path: item/p
 #: C/gs-respond-messages.page:108
-#| msgid ""
-#| "To get back to your unanswered chat messages, press <keyseq> <key href="
-#| "\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq> "
-#| "to display the message tray that contains the messages."
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq> <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
@@ -1681,9 +1633,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-respond-messages.page:112
-#| msgid ""
-#| "Use the arrow keys to select the person you want to reply to, and press "
-#| "<key>Enter</key>."
 msgid ""
 "Use the arrow keys to select the notification you want to reply to, and "
 "press <key>Enter</key>."
@@ -1758,43 +1707,37 @@ msgid "Firefox"
 msgstr "Firefox"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:137
+#: C/gs-search-settings.svg:125
 #, no-wrap
 msgid "Search"
 msgstr "Meklēt"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:148
+#: C/gs-search-settings.svg:127
 #, no-wrap
 msgid "Files"
 msgstr "Datnes"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:149
-#, no-wrap
-msgid "Enabled"
-msgstr "Aktivēts"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:264
+#: C/gs-search-settings.svg:242
 #, no-wrap
 msgid "Web"
 msgstr "Tīmeklis"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:265
+#: C/gs-search-settings.svg:243
 #, no-wrap
 msgid "Photos"
 msgstr "Fotogrāfijas"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:266
+#: C/gs-search-settings.svg:244
 #, no-wrap
 msgid "Music"
 msgstr "Mūzika"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:293
+#: C/gs-search-settings.svg:271
 #, no-wrap
 msgid "OFF"
 msgstr "○"
@@ -1936,7 +1879,7 @@ msgstr ""
 "spiediet <key>Enter</key>, lai uz to pārslēgtos."
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-responding-to-messages.svg:88
+#: C/gs-thumb-responding-to-messages.svg:87
 #, no-wrap
 msgid "Thanks f"
 msgstr "Paldies f"
@@ -2262,7 +2205,6 @@ msgstr "Pielāgot, kas tiks attēlots meklēšanas rezultātos:"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:86
-#| msgid "Click the <gui>Select</gui> button."
 msgid "Click the <gui>Search</gui> panel."
 msgstr "Spiediet paneli <gui>Meklēšana</gui>."
 
@@ -2409,3 +2351,6 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "GNOME planēta"
+
+#~ msgid "Enabled"
+#~ msgstr "Aktivēts"
