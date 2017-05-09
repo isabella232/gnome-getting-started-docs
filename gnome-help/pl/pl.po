@@ -1,14 +1,14 @@
 # Polish translation for gnome-getting-started-docs.
-# Copyright © 2013-2016 the gnome-getting-started-docs authors.
+# Copyright © 2013-2017 the gnome-getting-started-docs authors.
 # This file is distributed under the same license as the gnome-getting-started-docs package.
-# Piotr Drąg <piotrdrag@gmail.com>, 2013-2016.
-# Aviary.pl <community-poland@mozilla.org>, 2013-2016.
+# Piotr Drąg <piotrdrag@gmail.com>, 2013-2017.
+# Aviary.pl <community-poland@mozilla.org>, 2013-2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2016-08-29 20:32+0000\n"
-"PO-Revision-Date: 2016-09-09 00:23+0200\n"
+"POT-Creation-Date: 2017-05-09 14:54+0000\n"
+"PO-Revision-Date: 2017-05-09 18:08+0200\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <community-poland@mozilla.org>\n"
 "Language: pl\n"
@@ -22,8 +22,8 @@ msgstr ""
 msgctxt "_"
 msgid "translator-credits"
 msgstr ""
-"Piotr Drąg <piotrdrag@gmail.com>, 2013-2016\n"
-"Aviary.pl <community-poland@mozilla.org>, 2013-2016"
+"Piotr Drąg <piotrdrag@gmail.com>, 2013-2017\n"
+"Aviary.pl <community-poland@mozilla.org>, 2013-2017"
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:11
@@ -101,19 +101,21 @@ msgstr "Naciśnij klawisz <key>Enter</key>, aby uruchomić program."
 
 #. (itstool) path: caption/desc
 #. (itstool) path: page/title
-#: C/getting-started.page:66 C/gs-use-windows-workspaces.page:21
+#: C/getting-started.page:66 C/getting-started.page:216
+#: C/gs-use-windows-workspaces.page:21
 msgid "Use windows and workspaces"
 msgstr "Używanie okien i obszarów roboczych"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:71 C/gs-animation.xml:10
+#: C/getting-started.page:71 C/getting-started.page:221 C/gs-animation.xml:10
 #: C/gs-use-windows-workspaces.page:29
 msgid "Windows and Workspaces"
 msgstr "Okna i obszary robocze"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:74 C/gs-use-windows-workspaces.page:32
+#: C/getting-started.page:74 C/getting-started.page:224
+#: C/gs-use-windows-workspaces.page:32
 msgid ""
 "To maximize a window, grab the window's titlebar and drag it to the top of "
 "the screen."
@@ -122,12 +124,14 @@ msgstr ""
 "góry ekranu."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:78 C/gs-use-windows-workspaces.page:36
+#: C/getting-started.page:78 C/getting-started.page:228
+#: C/gs-use-windows-workspaces.page:36
 msgid "When the screen is highlighted, release the window."
 msgstr "Kiedy ekran zostanie podświetlony, upuść okno."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:81 C/gs-use-windows-workspaces.page:39
+#: C/getting-started.page:81 C/getting-started.page:231
+#: C/gs-use-windows-workspaces.page:39
 msgid ""
 "To unmaximize a window, grab the window's titlebar and drag it away from the "
 "edges of the screen."
@@ -136,14 +140,16 @@ msgstr ""
 "ekranu."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:85 C/gs-use-windows-workspaces.page:43
+#: C/getting-started.page:85 C/getting-started.page:235
+#: C/gs-use-windows-workspaces.page:43
 msgid ""
 "You can also click the top bar to drag the window away and unmaximize it."
 msgstr "Można także kliknąć górny pasek, aby przesunąć okno i je przywrócić."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:89 C/getting-started.page:163
-#: C/gs-switch-tasks.page:42 C/gs-use-windows-workspaces.page:47
+#: C/getting-started.page:239 C/gs-switch-tasks.page:42
+#: C/gs-use-windows-workspaces.page:47
 msgid ""
 "To maximize a window along the left side of the screen, grab the window's "
 "titlebar and drag it to the left."
@@ -154,13 +160,15 @@ msgstr ""
 #. (itstool) path: div/p
 #: C/getting-started.page:93 C/getting-started.page:101
 #: C/getting-started.page:167 C/getting-started.page:175
+#: C/getting-started.page:243 C/getting-started.page:251
 #: C/gs-switch-tasks.page:46 C/gs-switch-tasks.page:54
 #: C/gs-use-windows-workspaces.page:51 C/gs-use-windows-workspaces.page:59
 msgid "When half of the screen is highlighted, release the window."
 msgstr "Kiedy połowa ekrany zostanie podświetlona, upuść okno."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:97 C/gs-use-windows-workspaces.page:55
+#: C/getting-started.page:97 C/getting-started.page:247
+#: C/gs-use-windows-workspaces.page:55
 msgid ""
 "To maximize a window along the right side of the screen, grab the window's "
 "titlebar and drag it to the right."
@@ -170,8 +178,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:105 C/gs-use-windows-workspaces.page:63
-#: C/gs-use-windows-workspaces.page:134
+#: C/getting-started.page:105 C/getting-started.page:255
+#: C/gs-use-windows-workspaces.page:63 C/gs-use-windows-workspaces.page:134
 msgid ""
 "To maximize a window using the keyboard, hold down the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
@@ -181,7 +189,8 @@ msgstr ""
 "<key>↑</key>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:110 C/gs-use-windows-workspaces.page:68
+#: C/getting-started.page:110 C/getting-started.page:260
+#: C/gs-use-windows-workspaces.page:68
 msgid ""
 "To restore the window to its unmaximized size, hold down the <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
@@ -193,8 +202,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:115 C/gs-use-windows-workspaces.page:73
-#: C/gs-use-windows-workspaces.page:148
+#: C/getting-started.page:115 C/getting-started.page:265
+#: C/gs-use-windows-workspaces.page:73 C/gs-use-windows-workspaces.page:148
 msgid ""
 "To maximize a window along the right side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
@@ -206,8 +215,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:120 C/gs-use-windows-workspaces.page:78
-#: C/gs-use-windows-workspaces.page:151
+#: C/getting-started.page:120 C/getting-started.page:270
+#: C/gs-use-windows-workspaces.page:78 C/gs-use-windows-workspaces.page:151
 msgid ""
 "To maximize a window along the left side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
@@ -218,7 +227,8 @@ msgstr ""
 "<key>←</key>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:125 C/gs-use-windows-workspaces.page:83
+#: C/getting-started.page:125 C/getting-started.page:275
+#: C/gs-use-windows-workspaces.page:83
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
@@ -229,7 +239,8 @@ msgstr ""
 "\">Super</key><key>Page Down</key></keyseq>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:130 C/gs-use-windows-workspaces.page:88
+#: C/getting-started.page:130 C/getting-started.page:280
+#: C/gs-use-windows-workspaces.page:88
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
@@ -325,95 +336,57 @@ msgstr ""
 "key>, aby na niego przełączyć."
 
 #. (itstool) path: caption/desc
-#. (itstool) path: page/title
-#: C/getting-started.page:214 C/gs-respond-messages.page:21
-msgid "Respond to messages"
-msgstr "Odpowiadanie na wiadomości"
+#: C/getting-started.page:295
+msgid "Change wallpaper"
+msgstr "Zmiana tapety"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:220 C/gs-animation.xml:7
-#: C/gs-respond-messages.page:29
-msgid "Responding to Messages"
-msgstr "Odpowiadanie na wiadomości"
+#: C/getting-started.page:300 C/gs-animation.xml:6
+#: C/gs-change-wallpaper.page:28
+msgid "Changing Wallpaper"
+msgstr "Zmienianie tapety"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:303 C/gs-change-wallpaper.page:31
+msgid ""
+"Click the system menu on the right side of the top bar and press the "
+"settings button."
+msgstr ""
+"Kliknij menu systemowe po prawej stronie górnego paska i naciśnij przycisk "
+"ustawień."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:307 C/gs-change-wallpaper.page:35
+msgid "Select <gui>Background</gui>."
+msgstr "Wybierz <gui>Tło</gui>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:310 C/gs-change-wallpaper.page:38
+msgid "Click the current background image."
+msgstr "Kliknij obecny obraz tła."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:223 C/gs-respond-messages.page:32
-#: C/gs-respond-messages.page:80
-msgid ""
-"Move your mouse over the chat message that appears near the top of the "
-"screen."
-msgstr "Przesuń kursor myszy na wiadomość na górze ekranu."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:227 C/gs-respond-messages.page:36
-msgid ""
-"Start typing your reply and when finished, press <key>Enter </key> to send "
-"the reply."
-msgstr ""
-"Zacznij pisać swoją odpowiedź, a po skończeniu naciśnij klawisz <key>Enter</"
-"key>, aby ją wysłać."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:231 C/gs-respond-messages.page:40
-msgid "Close the chat message."
-msgstr "Zamknij wiadomość."
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:234 C/gs-animation.xml:9
-#: C/gs-respond-messages.page:43
-msgid "Delayed Response"
-msgstr "Opóźniona odpowiedź"
-
-#. (itstool) path: div/p
-#: C/getting-started.page:237 C/gs-respond-messages.page:46
-msgid ""
-"A chat message near the top of the screen disappears after a while if you do "
-"not move your mouse over the message."
-msgstr ""
-"Wiadomość na górze ekranu znika po chwili, jeśli użytkownik nie przesunie do "
-"niego kursora myszy."
+#: C/getting-started.page:313 C/gs-change-wallpaper.page:41
+#: C/gs-change-wallpaper.page:64
+msgid "Click the background image you want to use."
+msgstr "Kliknij obraz tła, który chcesz użyć."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:241 C/gs-respond-messages.page:50
-#: C/gs-respond-messages.page:96
-msgid "To get back to your unanswered message, click the clock on the top bar."
-msgstr "Aby wrócić do oczekującej wiadomości, kliknij zegar na górnym pasku."
+#: C/getting-started.page:316 C/gs-change-wallpaper.page:44
+#: C/gs-change-wallpaper.page:65
+msgid "Click the <gui>Select</gui> button."
+msgstr "Kliknij przycisk <gui>Wybierz</gui>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:245 C/gs-respond-messages.page:54
-msgid "From the notification list, choose your message."
-msgstr "Wybierz wiadomość z listy powiadomień."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:248 C/getting-started.page:260
-#: C/gs-respond-messages.page:57 C/gs-respond-messages.page:69
-msgid "Start typing your reply."
-msgstr "Zacznij pisać odpowiedź."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:251 C/gs-respond-messages.page:60
-msgid ""
-"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
-msgstr ""
-"Aby wyświetlić listę powiadomień, naciśnij klawisze <keyseq><key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key><key>V</key></keyseq>"
-
-#. (itstool) path: div/p
-#: C/getting-started.page:256 C/gs-respond-messages.page:65
-msgid ""
-"Use the arrow keys to select the message you want to reply to, and press "
-"<key>Enter</key>."
-msgstr ""
-"Użyj klawiszy strzałek, aby wybrać wiadomość i naciśnij klawisz <key>Enter</"
-"key>."
+#: C/getting-started.page:319 C/gs-change-wallpaper.page:47
+msgid "Close the <gui>Background</gui> window."
+msgstr "Zamknij okno <gui>Tło</gui>."
 
 #. (itstool) path: links/title
-#: C/getting-started.page:269
+#: C/getting-started.page:330
 msgid "Common Tasks"
 msgstr "Często wykonywane czynności"
 
@@ -424,9 +397,15 @@ msgstr "Witamy"
 
 #. (itstool) path: titles/t
 #. (itstool) path: div/p
-#: C/gs-animation.xml:6 C/gs-change-wallpaper.page:28
-msgid "Changing Wallpaper"
-msgstr "Zmienianie tapety"
+#: C/gs-animation.xml:7 C/gs-respond-messages.page:30
+msgid "Responding to Messages"
+msgstr "Odpowiadanie na wiadomości"
+
+#. (itstool) path: titles/t
+#. (itstool) path: div/p
+#: C/gs-animation.xml:9 C/gs-respond-messages.page:44
+msgid "Delayed Response"
+msgstr "Opóźniona odpowiedź"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:11
@@ -667,7 +646,7 @@ msgid ""
 msgstr "Z menu wybierz <guiseq><gui>Internet</gui><gui>Firefox</gui></guiseq>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:46 C/gs-browse-web.page:64
+#: C/gs-browse-web.page:47 C/gs-browse-web.page:65
 #: C/gs-launch-applications.page:64
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
@@ -677,7 +656,7 @@ msgstr ""
 "wyświetlić <gui>ekran podglądu</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:49
+#: C/gs-browse-web.page:50
 msgid ""
 "Select the <app>Firefox</app> browser icon from the bar on the left-hand "
 "side of the screen."
@@ -686,7 +665,7 @@ msgstr ""
 "ekranu."
 
 #. (itstool) path: note/p
-#: C/gs-browse-web.page:53
+#: C/gs-browse-web.page:54
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>Firefox</em> in the <gui>Activities "
@@ -696,7 +675,7 @@ msgstr ""
 "prostu wpisując</link> <em>Firefox</em> na <gui>ekranie podglądu</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:67
+#: C/gs-browse-web.page:68
 msgid ""
 "Select the <app>Web</app> browser icon from the bar on the left-hand side of "
 "the screen."
@@ -704,7 +683,7 @@ msgstr ""
 "Wybierz ikonę przeglądarki <app>WWW</app> z paska po lewej stronie ekranu."
 
 #. (itstool) path: note/p
-#: C/gs-browse-web.page:71
+#: C/gs-browse-web.page:72
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
@@ -714,7 +693,7 @@ msgstr ""
 "prostu wpisując</link> <em>WWW</em> na <gui>ekranie podglądu</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:91
+#: C/gs-browse-web.page:92
 msgid ""
 "Click the address bar at the top of the browser window and start typing in "
 "the website you want to visit."
@@ -723,7 +702,7 @@ msgstr ""
 "którą chcesz odwiedzić."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:93
+#: C/gs-browse-web.page:94
 msgid ""
 "Typing in a website starts searching for it in the browser history and "
 "bookmarks, so you do not need to remember the exact address."
@@ -732,7 +711,7 @@ msgstr ""
 "i zakładkach, więc nie trzeba pamiętać jej dokładnego adresu."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:96
+#: C/gs-browse-web.page:97
 msgid ""
 "If the website is found in the history or bookmarks, a drop-down list is "
 "shown below the address bar."
@@ -741,7 +720,7 @@ msgstr ""
 "paska adresu zostanie wyświetlona rozwijana lista."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:98
+#: C/gs-browse-web.page:99
 msgid ""
 "From the drop-down list, you can quickly select a website using the arrow "
 "keys."
@@ -749,7 +728,7 @@ msgstr ""
 "Z tej listy można szybko wybrać stronę WWW za pomocą klawiszy strzałek."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:101
+#: C/gs-browse-web.page:102
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
 msgstr ""
 "Po wybraniu strony należy nacisnąć klawisz <key>Enter</key>, aby ją "
@@ -857,42 +836,6 @@ msgstr "Samouczek zmiany tapety"
 #: C/gs-change-wallpaper.page:20 C/gs-change-wallpaper.page:55
 msgid "Change the wallpaper"
 msgstr "Zmiana tapety"
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:31
-msgid ""
-"Click the system menu on the right side of the top bar and press the "
-"settings button."
-msgstr ""
-"Kliknij menu systemowe po prawej stronie górnego paska i naciśnij przycisk "
-"ustawień."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:35
-msgid "Select <gui>Background</gui>."
-msgstr "Wybierz <gui>Tło</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:38
-msgid "Click the current background image."
-msgstr "Kliknij obecny obraz tła."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:64
-msgid "Click the background image you want to use."
-msgstr "Kliknij obraz tła, który chcesz użyć."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:65
-msgid "Click the <gui>Select</gui> button."
-msgstr "Kliknij przycisk <gui>Wybierz</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:47
-msgid "Close the <gui>Background</gui> window."
-msgstr "Zamknij okno <gui>Tło</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
@@ -1550,24 +1493,94 @@ msgid "This work is licensed under a <_:link-1/>."
 msgstr "Na warunkach licencji <_:link-1/>."
 
 #. (itstool) path: info/title
-#: C/gs-respond-messages.page:15
+#: C/gs-respond-messages.page:18
 msgctxt "link:trail"
 msgid "Respond to messages"
 msgstr "Odpowiadanie na wiadomości"
 
 #. (itstool) path: info/title
-#: C/gs-respond-messages.page:17
+#: C/gs-respond-messages.page:19
 msgctxt "link:seealso"
 msgid "A tutorial on responding to messages"
 msgstr "Samouczek odpowiadania na wiadomości"
 
+#. (itstool) path: page/title
+#: C/gs-respond-messages.page:22
+msgid "Respond to messages"
+msgstr "Odpowiadanie na wiadomości"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:33 C/gs-respond-messages.page:81
+msgid ""
+"Move your mouse over the chat message that appears near the top of the "
+"screen."
+msgstr "Przesuń kursor myszy na wiadomość na górze ekranu."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:37
+msgid ""
+"Start typing your reply and when finished, press <key>Enter </key> to send "
+"the reply."
+msgstr ""
+"Zacznij pisać swoją odpowiedź, a po skończeniu naciśnij klawisz <key>Enter</"
+"key>, aby ją wysłać."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:41
+msgid "Close the chat message."
+msgstr "Zamknij wiadomość."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:47
+msgid ""
+"A chat message near the top of the screen disappears after a while if you do "
+"not move your mouse over the message."
+msgstr ""
+"Wiadomość na górze ekranu znika po chwili, jeśli użytkownik nie przesunie do "
+"niego kursora myszy."
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:51 C/gs-respond-messages.page:97
+msgid "To get back to your unanswered message, click the clock on the top bar."
+msgstr "Aby wrócić do oczekującej wiadomości, kliknij zegar na górnym pasku."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:55
+msgid "From the notification list, choose your message."
+msgstr "Wybierz wiadomość z listy powiadomień."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:58 C/gs-respond-messages.page:70
+msgid "Start typing your reply."
+msgstr "Zacznij pisać odpowiedź."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:61
+msgid ""
+"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
+msgstr ""
+"Aby wyświetlić listę powiadomień, naciśnij klawisze <keyseq><key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key><key>V</key></keyseq>"
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:66
+msgid ""
+"Use the arrow keys to select the message you want to reply to, and press "
+"<key>Enter</key>."
+msgstr ""
+"Użyj klawiszy strzałek, aby wybrać wiadomość i naciśnij klawisz <key>Enter</"
+"key>."
+
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:77
+#: C/gs-respond-messages.page:78
 msgid "Respond to a chat message with the mouse"
 msgstr "Odpowiadanie na wiadomości komunikatora za pomocą myszy"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:82
+#: C/gs-respond-messages.page:83
 msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send "
 "the reply."
@@ -1576,7 +1589,7 @@ msgstr ""
 "key>, aby ją wysłać."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:84
+#: C/gs-respond-messages.page:85
 msgid ""
 "To close the chat message, click the close button at the top right corner of "
 "the chat message."
@@ -1584,12 +1597,12 @@ msgstr ""
 "Aby zamknąć wiadomość, kliknij jej przycisk zamknięcia w prawym górnym rogu."
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:91
+#: C/gs-respond-messages.page:92
 msgid "Delayed response to a chat message using the mouse"
 msgstr "Opóźniona odpowiedź na wiadomość komunikatora za pomocą myszy"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:94
+#: C/gs-respond-messages.page:95
 msgid ""
 "When a chat message appears near the top of the screen and you do not move "
 "your mouse over the message, it disappears after a while."
@@ -1598,26 +1611,26 @@ msgstr ""
 "niej kursora myszy, to ta po chwili zniknie."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:98
+#: C/gs-respond-messages.page:99
 msgid ""
 "From the notification list, choose the message you want to reply to, and "
 "click it."
 msgstr "Wybierz wiadomość z listy powiadomień i ją kliknij."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:100 C/gs-respond-messages.page:114
+#: C/gs-respond-messages.page:101 C/gs-respond-messages.page:115
 msgid "When the chat message is shown, start typing your reply."
 msgstr ""
 "Kiedy wiadomość zostanie wyświetlona, zacznij pisać odpowiedź swoją "
 "odpowiedź."
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:106
+#: C/gs-respond-messages.page:107
 msgid "Delayed response to a chat message using the keyboard"
 msgstr "Opóźniona odpowiedź na wiadomość komunikatora za pomocą klawiatury"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:108
+#: C/gs-respond-messages.page:109
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq> <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
@@ -1628,7 +1641,7 @@ msgstr ""
 "wyświetli listę oczekujących powiadomień."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:112
+#: C/gs-respond-messages.page:113
 msgid ""
 "Use the arrow keys to select the notification you want to reply to, and "
 "press <key>Enter</key>."
