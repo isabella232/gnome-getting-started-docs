@@ -1,13 +1,14 @@
 # Hungarian translation for gnome-getting-started-docs.
-# Copyright (C) 2013-2016 Free Software Foundation, Inc.
+# Copyright (C) 2013-2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-getting-started package.
 #
 # Gabor Kelemen <kelemeng at gnome dot hu>, 2013, 2015.
+# Balázs Úr <urbalazs at gmail dot com>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started master\n"
-"POT-Creation-Date: 2016-08-19 12:55+0000\n"
-"PO-Revision-Date: 2016-08-19 22:48+0200\n"
+"POT-Creation-Date: 2017-05-10 11:19+0000\n"
+"PO-Revision-Date: 2017-05-14 23:27+0200\n"
 "Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
 "Language-Team: Hungarian <openscope at googlegroups dot com>\n"
 "Language: hu\n"
@@ -101,19 +102,21 @@ msgstr "Az alkalmazás indításához nyomja meg az <key>Enter</key> billentyűt
 
 #. (itstool) path: caption/desc
 #. (itstool) path: page/title
-#: C/getting-started.page:66 C/gs-use-windows-workspaces.page:21
+#: C/getting-started.page:66 C/getting-started.page:216
+#: C/gs-use-windows-workspaces.page:21
 msgid "Use windows and workspaces"
 msgstr "Ablakok és munkaterületek használata"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:71 C/gs-animation.xml:10
+#: C/getting-started.page:71 C/getting-started.page:221 C/gs-animation.xml:10
 #: C/gs-use-windows-workspaces.page:29
 msgid "Windows and Workspaces"
 msgstr "Ablakok és munkaterületek"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:74 C/gs-use-windows-workspaces.page:32
+#: C/getting-started.page:74 C/getting-started.page:224
+#: C/gs-use-windows-workspaces.page:32
 msgid ""
 "To maximize a window, grab the window's titlebar and drag it to the top of "
 "the screen."
@@ -122,12 +125,14 @@ msgstr ""
 "képernyő tetejére."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:78 C/gs-use-windows-workspaces.page:36
+#: C/getting-started.page:78 C/getting-started.page:228
+#: C/gs-use-windows-workspaces.page:36
 msgid "When the screen is highlighted, release the window."
 msgstr "Amikor a képernyő kiemelésre kerül, engedje el az ablakot."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:81 C/gs-use-windows-workspaces.page:39
+#: C/getting-started.page:81 C/getting-started.page:231
+#: C/gs-use-windows-workspaces.page:39
 msgid ""
 "To unmaximize a window, grab the window's titlebar and drag it away from the "
 "edges of the screen."
@@ -136,7 +141,8 @@ msgstr ""
 "képernyő széleitől."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:85 C/gs-use-windows-workspaces.page:43
+#: C/getting-started.page:85 C/getting-started.page:235
+#: C/gs-use-windows-workspaces.page:43
 msgid ""
 "You can also click the top bar to drag the window away and unmaximize it."
 msgstr ""
@@ -145,7 +151,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #: C/getting-started.page:89 C/getting-started.page:163
-#: C/gs-switch-tasks.page:42 C/gs-use-windows-workspaces.page:47
+#: C/getting-started.page:239 C/gs-switch-tasks.page:42
+#: C/gs-use-windows-workspaces.page:47
 msgid ""
 "To maximize a window along the left side of the screen, grab the window's "
 "titlebar and drag it to the left."
@@ -156,13 +163,15 @@ msgstr ""
 #. (itstool) path: div/p
 #: C/getting-started.page:93 C/getting-started.page:101
 #: C/getting-started.page:167 C/getting-started.page:175
+#: C/getting-started.page:243 C/getting-started.page:251
 #: C/gs-switch-tasks.page:46 C/gs-switch-tasks.page:54
 #: C/gs-use-windows-workspaces.page:51 C/gs-use-windows-workspaces.page:59
 msgid "When half of the screen is highlighted, release the window."
 msgstr "Amikor a képernyő fele kiemelésre kerül, ejtse rá az ablakot."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:97 C/gs-use-windows-workspaces.page:55
+#: C/getting-started.page:97 C/getting-started.page:247
+#: C/gs-use-windows-workspaces.page:55
 msgid ""
 "To maximize a window along the right side of the screen, grab the window's "
 "titlebar and drag it to the right."
@@ -172,8 +181,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:105 C/gs-use-windows-workspaces.page:63
-#: C/gs-use-windows-workspaces.page:134
+#: C/getting-started.page:105 C/getting-started.page:255
+#: C/gs-use-windows-workspaces.page:63 C/gs-use-windows-workspaces.page:134
 msgid ""
 "To maximize a window using the keyboard, hold down the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
@@ -183,7 +192,8 @@ msgstr ""
 "nyomja meg a <key>↑</key> billentyűt."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:110 C/gs-use-windows-workspaces.page:68
+#: C/getting-started.page:110 C/getting-started.page:260
+#: C/gs-use-windows-workspaces.page:68
 msgid ""
 "To restore the window to its unmaximized size, hold down the <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
@@ -195,8 +205,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:115 C/gs-use-windows-workspaces.page:73
-#: C/gs-use-windows-workspaces.page:148
+#: C/getting-started.page:115 C/getting-started.page:265
+#: C/gs-use-windows-workspaces.page:73 C/gs-use-windows-workspaces.page:148
 msgid ""
 "To maximize a window along the right side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
@@ -208,8 +218,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:120 C/gs-use-windows-workspaces.page:78
-#: C/gs-use-windows-workspaces.page:151
+#: C/getting-started.page:120 C/getting-started.page:270
+#: C/gs-use-windows-workspaces.page:78 C/gs-use-windows-workspaces.page:151
 msgid ""
 "To maximize a window along the left side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
@@ -220,7 +230,8 @@ msgstr ""
 "nyomja meg a <key>→</key> billentyűt."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:125 C/gs-use-windows-workspaces.page:83
+#: C/getting-started.page:125 C/getting-started.page:275
+#: C/gs-use-windows-workspaces.page:83
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
@@ -231,7 +242,8 @@ msgstr ""
 "key><key>Page Down</key></keyseq> billentyűkombinációt."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:130 C/gs-use-windows-workspaces.page:88
+#: C/getting-started.page:130 C/getting-started.page:280
+#: C/gs-use-windows-workspaces.page:88
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
@@ -327,98 +339,58 @@ msgstr ""
 "key> billentyűt az átváltáshoz."
 
 #. (itstool) path: caption/desc
-#. (itstool) path: page/title
-#: C/getting-started.page:214 C/gs-respond-messages.page:21
-msgid "Respond to messages"
-msgstr "Üzenetek megválaszolása"
+#: C/getting-started.page:295
+#| msgid "Change the wallpaper"
+msgid "Change wallpaper"
+msgstr "Háttérkép módosítása"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:220 C/gs-animation.xml:7
-#: C/gs-respond-messages.page:29
-msgid "Responding to Messages"
-msgstr "Üzenetek megválaszolása"
+#: C/getting-started.page:300 C/gs-animation.xml:6
+#: C/gs-change-wallpaper.page:28
+msgid "Changing Wallpaper"
+msgstr "Háttérkép módosítása"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:303 C/gs-change-wallpaper.page:31
+msgid ""
+"Click the system menu on the right side of the top bar and press the "
+"settings button."
+msgstr ""
+"Kattintson a rendszer menüre a felső sáv jobb oldalán, és nyomja meg a "
+"beállítások gombot."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:307 C/gs-change-wallpaper.page:35
+msgid "Select <gui>Background</gui>."
+msgstr "Válassza a <gui>Háttér</gui> ikont."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:310 C/gs-change-wallpaper.page:38
+msgid "Click the current background image."
+msgstr "Kattintson az aktuális háttérképre."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:223 C/gs-respond-messages.page:32
-#: C/gs-respond-messages.page:80
-msgid ""
-"Move your mouse over the chat message that appears near the top of the "
-"screen."
-msgstr "Vigye az egérmutatót a képernyő tetején megjelenő csevegési üzenetre."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:227 C/gs-respond-messages.page:36
-msgid ""
-"Start typing your reply and when finished, press <key>Enter </key> to send "
-"the reply."
-msgstr ""
-"Kezdje el beírni a válaszát, amikor kész, nyomja meg az <key>Enter</key> "
-"billentyűt az elküldéséhez."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:231 C/gs-respond-messages.page:40
-msgid "Close the chat message."
-msgstr "Zárja be a csevegési üzenetet."
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:234 C/gs-animation.xml:9
-#: C/gs-respond-messages.page:43
-msgid "Delayed Response"
-msgstr "Késleltetett válasz"
-
-#. (itstool) path: div/p
-#: C/getting-started.page:237 C/gs-respond-messages.page:46
-msgid ""
-"A chat message near the top of the screen disappears after a while if you do "
-"not move your mouse over the message."
-msgstr ""
-"Ha nem viszi egerét az üzenetre, akkor a képernyő tetején látható csevegési "
-"üzenet egy idő után eltűnik."
+#: C/getting-started.page:313 C/gs-change-wallpaper.page:41
+#: C/gs-change-wallpaper.page:64
+msgid "Click the background image you want to use."
+msgstr "Kattintson a használni kívánt háttérképre."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:241 C/gs-respond-messages.page:50
-#: C/gs-respond-messages.page:96
-msgid "To get back to your unanswered message, click the clock on the top bar."
-msgstr ""
-"A megválaszolatlan üzenethez való visszatéréshez kattintson az órára a felső "
-"sávon."
+#: C/getting-started.page:316 C/gs-change-wallpaper.page:44
+#: C/gs-change-wallpaper.page:65
+msgid "Click the <gui>Select</gui> button."
+msgstr "Nyomja meg a <gui>Kijelölés</gui> gombot."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:245 C/gs-respond-messages.page:54
-msgid "From the notification list, choose your message."
-msgstr "Az értesítési listából válassza ki az üzenetet."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:248 C/getting-started.page:260
-#: C/gs-respond-messages.page:57 C/gs-respond-messages.page:69
-msgid "Start typing your reply."
-msgstr "Kezdje el beírni a válaszát."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:251 C/gs-respond-messages.page:60
-msgid ""
-"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
-msgstr ""
-"Az értesítési lista megjelenítéséhez nyomja meg a <keyseq> <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> <key>V</key></keyseq> "
-"billentyűkombinációt. "
-
-#. (itstool) path: div/p
-#: C/getting-started.page:256 C/gs-respond-messages.page:65
-msgid ""
-"Use the arrow keys to select the message you want to reply to, and press "
-"<key>Enter</key>."
-msgstr ""
-"A nyílbillentyűkkel válassza ki az üzenetet, amelyre válaszolni szeretne, "
-"majd nyomja meg az <key>Enter</key> billentyűt."
+#: C/getting-started.page:319 C/gs-change-wallpaper.page:47
+msgid "Close the <gui>Background</gui> window."
+msgstr "Zárja be a <gui>Háttér</gui> ablakot."
 
 #. (itstool) path: links/title
-#: C/getting-started.page:269
+#: C/getting-started.page:330
 msgid "Common Tasks"
 msgstr "Általános feladatok"
 
@@ -429,9 +401,15 @@ msgstr "Üdvözlet"
 
 #. (itstool) path: titles/t
 #. (itstool) path: div/p
-#: C/gs-animation.xml:6 C/gs-change-wallpaper.page:28
-msgid "Changing Wallpaper"
-msgstr "Háttérkép módosítása"
+#: C/gs-animation.xml:7 C/gs-respond-messages.page:30
+msgid "Responding to Messages"
+msgstr "Üzenetek megválaszolása"
+
+#. (itstool) path: titles/t
+#. (itstool) path: div/p
+#: C/gs-animation.xml:9 C/gs-respond-messages.page:44
+msgid "Delayed Response"
+msgstr "Késleltetett válasz"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:11
@@ -650,8 +628,6 @@ msgstr "Világháló böngészése"
 
 #. (itstool) path: info/title
 #: C/gs-browse-web.page:18
-#| msgctxt "link:seealso"
-#| msgid "A tutorial on changing the wallpaper"
 msgctxt "link:seealso"
 msgid "A tutorial on browsing the web"
 msgstr "Ismertető a világháló böngészéséhez"
@@ -678,7 +654,7 @@ msgstr ""
 "menüpontot."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:46 C/gs-browse-web.page:64
+#: C/gs-browse-web.page:47 C/gs-browse-web.page:65
 #: C/gs-launch-applications.page:64
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
@@ -688,7 +664,7 @@ msgstr ""
 "gui> feliratra a <gui>Tevékenységek áttekintés</gui> megjelenítéséhez."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:49
+#: C/gs-browse-web.page:50
 msgid ""
 "Select the <app>Firefox</app> browser icon from the bar on the left-hand "
 "side of the screen."
@@ -696,7 +672,7 @@ msgstr ""
 "Válassza ki a <app>Firefox</app> ikonját a képernyő bal oldalán lévő sávból."
 
 #. (itstool) path: note/p
-#: C/gs-browse-web.page:53
+#: C/gs-browse-web.page:54
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>Firefox</em> in the <gui>Activities "
@@ -706,7 +682,7 @@ msgstr ""
 "search\">begépelésével</link> is a <gui>Tevékenységek áttekintésben</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:67
+#: C/gs-browse-web.page:68
 msgid ""
 "Select the <app>Web</app> browser icon from the bar on the left-hand side of "
 "the screen."
@@ -715,7 +691,7 @@ msgstr ""
 "sávból."
 
 #. (itstool) path: note/p
-#: C/gs-browse-web.page:71
+#: C/gs-browse-web.page:72
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
@@ -725,7 +701,7 @@ msgstr ""
 "\">begépelésével</link> is a <gui>Tevékenységek áttekintésben</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:90
+#: C/gs-browse-web.page:92
 msgid ""
 "Click the address bar at the top of the browser window and start typing in "
 "the website you want to visit."
@@ -734,7 +710,7 @@ msgstr ""
 "felkeresni kívánt weboldal címét."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:92
+#: C/gs-browse-web.page:94
 msgid ""
 "Typing in a website starts searching for it in the browser history and "
 "bookmarks, so you do not need to remember the exact address."
@@ -743,7 +719,7 @@ msgstr ""
 "között, így nem kell emlékeznie a pontos címre."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:95
+#: C/gs-browse-web.page:97
 msgid ""
 "If the website is found in the history or bookmarks, a drop-down list is "
 "shown below the address bar."
@@ -752,7 +728,7 @@ msgstr ""
 "egy legördülő lista jelenik meg a címsáv alatt."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:97
+#: C/gs-browse-web.page:99
 msgid ""
 "From the drop-down list, you can quickly select a website using the arrow "
 "keys."
@@ -760,7 +736,7 @@ msgstr ""
 "A legördülő listából a nyílbillentyűkkel gyorsan kiválaszthat egy weboldalt."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:100
+#: C/gs-browse-web.page:102
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
 msgstr ""
 "A weboldal kiválasztása után nyomja meg az <key>Enter</key> billentyűt a "
@@ -869,42 +845,6 @@ msgstr "Ismertető a háttérkép módosításához"
 #: C/gs-change-wallpaper.page:20 C/gs-change-wallpaper.page:55
 msgid "Change the wallpaper"
 msgstr "Háttérkép módosítása"
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:31
-msgid ""
-"Click the system menu on the right side of the top bar and press the "
-"settings button."
-msgstr ""
-"Kattintson a rendszer menüre a felső sáv jobb oldalán, és nyomja meg a "
-"beállítások gombot."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:35
-msgid "Select <gui>Background</gui>."
-msgstr "Válassza a <gui>Háttér</gui> ikont."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:38
-msgid "Click the current background image."
-msgstr "Kattintson az aktuális háttérképre."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:64
-msgid "Click the background image you want to use."
-msgstr "Kattintson a használni kívánt háttérképre."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:65
-msgid "Click the <gui>Select</gui> button."
-msgstr "Nyomja meg a <gui>Kijelölés</gui> gombot."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:47
-msgid "Close the <gui>Background</gui> window."
-msgstr "Zárja be a <gui>Háttér</gui> ablakot."
 
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
@@ -1565,24 +1505,97 @@ msgid "This work is licensed under a <_:link-1/>."
 msgstr "Ez a munka a <_:link-1/> feltételei szerint használható."
 
 #. (itstool) path: info/title
-#: C/gs-respond-messages.page:15
+#: C/gs-respond-messages.page:18
 msgctxt "link:trail"
 msgid "Respond to messages"
 msgstr "Üzenetek megválaszolása"
 
 #. (itstool) path: info/title
-#: C/gs-respond-messages.page:17
+#: C/gs-respond-messages.page:19
 msgctxt "link:seealso"
 msgid "A tutorial on responding to messages"
 msgstr "Ismertető üzenetek megválaszolásához"
 
+#. (itstool) path: page/title
+#: C/gs-respond-messages.page:22
+msgid "Respond to messages"
+msgstr "Üzenetek megválaszolása"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:33 C/gs-respond-messages.page:81
+msgid ""
+"Move your mouse over the chat message that appears near the top of the "
+"screen."
+msgstr "Vigye az egérmutatót a képernyő tetején megjelenő csevegési üzenetre."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:37
+msgid ""
+"Start typing your reply and when finished, press <key>Enter </key> to send "
+"the reply."
+msgstr ""
+"Kezdje el beírni a válaszát, amikor kész, nyomja meg az <key>Enter</key> "
+"billentyűt az elküldéséhez."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:41
+msgid "Close the chat message."
+msgstr "Zárja be a csevegési üzenetet."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:47
+msgid ""
+"A chat message near the top of the screen disappears after a while if you do "
+"not move your mouse over the message."
+msgstr ""
+"Ha nem viszi egerét az üzenetre, akkor a képernyő tetején látható csevegési "
+"üzenet egy idő után eltűnik."
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:51 C/gs-respond-messages.page:97
+msgid "To get back to your unanswered message, click the clock on the top bar."
+msgstr ""
+"A megválaszolatlan üzenethez való visszatéréshez kattintson az órára a felső "
+"sávon."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:55
+msgid "From the notification list, choose your message."
+msgstr "Az értesítési listából válassza ki az üzenetet."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:58 C/gs-respond-messages.page:70
+msgid "Start typing your reply."
+msgstr "Kezdje el beírni a válaszát."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:61
+msgid ""
+"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
+msgstr ""
+"Az értesítési lista megjelenítéséhez nyomja meg a <keyseq> <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> <key>V</key></keyseq> "
+"billentyűkombinációt. "
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:66
+msgid ""
+"Use the arrow keys to select the message you want to reply to, and press "
+"<key>Enter</key>."
+msgstr ""
+"A nyílbillentyűkkel válassza ki az üzenetet, amelyre válaszolni szeretne, "
+"majd nyomja meg az <key>Enter</key> billentyűt."
+
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:77
+#: C/gs-respond-messages.page:78
 msgid "Respond to a chat message with the mouse"
 msgstr "Csevegési üzenet megválaszolása egérrel"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:82
+#: C/gs-respond-messages.page:83
 msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send "
 "the reply."
@@ -1591,7 +1604,7 @@ msgstr ""
 "key> billentyűt az elküldéséhez."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:84
+#: C/gs-respond-messages.page:85
 msgid ""
 "To close the chat message, click the close button at the top right corner of "
 "the chat message."
@@ -1600,12 +1613,12 @@ msgstr ""
 "üzenet jobb felső sarkában."
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:91
+#: C/gs-respond-messages.page:92
 msgid "Delayed response to a chat message using the mouse"
 msgstr "Csevegési üzenet késleltetett megválaszolása egérrel"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:94
+#: C/gs-respond-messages.page:95
 msgid ""
 "When a chat message appears near the top of the screen and you do not move "
 "your mouse over the message, it disappears after a while."
@@ -1614,7 +1627,7 @@ msgstr ""
 "az egérmutatót, akkor az üzenet hamarosan eltűnik."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:98
+#: C/gs-respond-messages.page:99
 msgid ""
 "From the notification list, choose the message you want to reply to, and "
 "click it."
@@ -1622,17 +1635,17 @@ msgstr ""
 "Az értesítési listából válassza ki az üzenetet, amelyre válaszolni szeretne."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:100 C/gs-respond-messages.page:114
+#: C/gs-respond-messages.page:101 C/gs-respond-messages.page:115
 msgid "When the chat message is shown, start typing your reply."
 msgstr "A csevegési üzenet megjelenésekor kezdje el beírni a válaszát."
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:106
+#: C/gs-respond-messages.page:107
 msgid "Delayed response to a chat message using the keyboard"
 msgstr "Csevegési üzenet késleltetett megválaszolása billentyűzettel"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:108
+#: C/gs-respond-messages.page:109
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq> <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
@@ -1644,7 +1657,7 @@ msgstr ""
 "megjelenítéséhez."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:112
+#: C/gs-respond-messages.page:113
 msgid ""
 "Use the arrow keys to select the notification you want to reply to, and "
 "press <key>Enter</key>."
@@ -2372,528 +2385,3 @@ msgstr "planet.gnome.org"
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
 
-#~ msgid "Enabled"
-#~ msgstr "Engedélyezve"
-
-#~| msgctxt "_"
-#~| msgid "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
-#~ msgstr ""
-#~ "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
-
-#~ msgid "Click the clock on the top bar."
-#~ msgstr "Kattintson az órára a felső sávban."
-
-#~ msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
-#~ msgstr ""
-#~ "Győződjön meg róla, hogy az <gui>Automatikus időzóna</gui> ki van "
-#~ "kapcsolva."
-
-#~ msgid "Click <gui>Time Zone</gui>."
-#~ msgstr "Kattintson az <gui>Időzóna</gui> elemre."
-
-#~ msgid "Click on your location on the map."
-#~ msgstr "Kattintson a földrajzi helyére a térképen."
-
-#~ msgid "Close the window."
-#~ msgstr "Zárja be az ablakot."
-
-#~ msgid ""
-#~ "Click the clock on the top bar and select the <gui>Date &amp; Time "
-#~ "Settings</gui> item."
-#~ msgstr ""
-#~ "Kattintson az órára a felső sávon, és válassza a <gui>Dátum és idő "
-#~ "beállításai</gui> elemet."
-
-#~ msgid ""
-#~ "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-#~ "Settings</gui> window, and then close that window by clicking the cross "
-#~ "at the top-right corner of that window."
-#~ msgstr ""
-#~ "Kattintson a <emph>Bezárás</emph> gombra a visszatéréshez a <gui>Dátum és "
-#~ "idő beállításai</gui> ablakhoz, majd zárja be azt az ablakot az ablak "
-#~ "jobb felső sarkában lévő keresztre kattintva."
-
-#~ msgid ""
-#~ "Click the system menu on the right side of the top bar and press the "
-#~ "settings button at the bottom of the menu."
-#~ msgstr ""
-#~ "Kattintson a rendszer menüre a felső sáv jobb oldalán, és válassza a "
-#~ "Beállítások gombot a menü alján."
-
-#~ msgid "From the list of items, select <gui>Background</gui>."
-#~ msgstr "Az elemek listájából válassza a <gui>Háttér</gui> ikont."
-
-#~ msgid ""
-#~ "To connect to a Wi-Fi (wireless) network, click the status menu at the "
-#~ "top right of the screen, and then click <gui>Select Network</gui>."
-#~ msgstr ""
-#~ "Wi-Fi (vezeték nélküli) hálózathoz kapcsolódáshoz kattintson a képernyő "
-#~ "jobb felső sarkában lévő állapotmenüre, majd a <gui>Válasszon hálózatot</"
-#~ "gui> pontra."
-
-#~ msgid "From the list of items, select <gui>Search</gui>."
-#~ msgstr "Az elemek listájából válassza a <gui>Keresés</gui> elemet."
-
-#~ msgid ""
-#~ "Move your mouse to the message tray at the bottom of the screen and click "
-#~ "the chat message."
-#~ msgstr ""
-#~ "Vigye az egérmutatót a képernyő alján lévő üzenettálcára, és kattintson a "
-#~ "csevegési üzenetre."
-
-#~ msgid "Click the person who sent you the message."
-#~ msgstr "Kattintson az üzenet feladójára."
-
-#~ msgid "Start typing your reply and when finished, press <key>Enter </key>."
-#~ msgstr ""
-#~ "Kezdje el beírni a válaszát, amikor kész, nyomja meg az <key>Enter</key> "
-#~ "billentyűt."
-
-#~ msgid "Press <key>Esc</key> to close the chat message."
-#~ msgstr ""
-#~ "A csevegési üzenet bezárásához nyomja meg az <key>Esc</key> billentyűt."
-
-#~ msgid "To dismiss the message tray, press <key>Esc</key>."
-#~ msgstr ""
-#~ "Az üzenettálca elrejtéséhez nyomja meg az <key>Esc</key> billentyűt."
-
-#~ msgid ""
-#~ "To get back to your unanswered message, move your mouse to the message "
-#~ "tray at the very bottom of the screen."
-#~ msgstr ""
-#~ "A megválaszolatlan üzenetekhez való visszatéréshez vigye az egérmutatót "
-#~ "az üzenettálcára a képernyő alján."
-
-#~ msgid ""
-#~ "When the message tray appears, click a small image that represents the "
-#~ "person who sent you the message."
-#~ msgstr ""
-#~ "Amikor az üzenettálca megjelenik, kattintson arra a kis képre, amely az "
-#~ "üzenet feladóját képviseli."
-
-#~ msgid ""
-#~ "Use the arrow keys to select a small image representing the person you "
-#~ "want to reply to, and press <key>Enter</key>."
-#~ msgstr ""
-#~ "A nyílbillentyűk segítségével válassza ki azon személy kis képét, akinek "
-#~ "válaszolni szeretne, majd nyomja meg az <key>Enter</key> billentyűt."
-
-#~ msgid ""
-#~ "To dismiss the message tray, press <key>Esc</key> or <keyseq> <key href="
-#~ "\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>."
-#~ msgstr ""
-#~ "Az üzenettálca elrejtéséhez nyomja meg az <key>Esc</key> billentyűt vagy "
-#~ "a <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
-#~ "key><key>M</key></keyseq> billentyűkombinációt."
-
-#~ msgid ""
-#~ "Click the network connection icon to show more details about the status "
-#~ "of your network connection."
-#~ msgstr ""
-#~ "Kattintson a hálózati kapcsolat ikonra további részletek megjelenítéséhez "
-#~ "a hálózati kapcsolat állapotáról."
-
-#~ msgid "Connect to other types of networks"
-#~ msgstr "Csatlakozás más típusú hálózatokhoz"
-
-#~ msgid ""
-#~ "There are various types of network connections that you can use with your "
-#~ "computer, for example, mobile broadband, or wireless networks."
-#~ msgstr ""
-#~ "Számítógépével különböző típusú hálózati kapcsolatokat használhat, mint "
-#~ "például a mobil széles sávú vagy vezeték nélküli hálózat."
-
-#~ msgid ""
-#~ "Depending on your computer hardware and the networks availability, you "
-#~ "can choose other connection types by clicking the network connection icon "
-#~ "on the right-hand side of the top bar and selecting the network "
-#~ "connection you want to connect to."
-#~ msgstr ""
-#~ "A számítógép hardverétől és a hálózatok elérhetőségétől függően más "
-#~ "kapcsolattípusokat is kiválaszthat a felső sáv jobb szélén lévő hálózati "
-#~ "kapcsolat ikonra kattintva, és a kívánt hálózati kapcsolatot kiválasztva."
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='figures/gnome-launching-applications.webm' "
-#~| "md5='074a675216f03881c0afb428d576eae3'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-launching-applications.webm' "
-#~ "md5='1182da390c28028167218c737619543d'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-launching-applications.webm' "
-#~ "md5='1182da390c28028167218c737619543d'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='figures/gnome-windows-and-workspaces.webm' "
-#~| "md5='53caf9578a37c07f8802c200d001064d'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-windows-and-workspaces.webm' "
-#~ "md5='399f502514acf244fd22ba774b1c812e'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-windows-and-workspaces.webm' "
-#~ "md5='399f502514acf244fd22ba774b1c812e'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='figures/gnome-task-switching.webm' "
-#~| "md5='bf6f8421e4064a71c05aadfb3c318e16'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-task-switching.webm' "
-#~ "md5='a8fa976828cf7f4b4eac7cad346c65c1'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-task-switching.webm' "
-#~ "md5='a8fa976828cf7f4b4eac7cad346c65c1'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='figures/gnome-responding-to-messages.webm' "
-#~| "md5='ac44de55fba93ce64551c90fd6d30804'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-responding-to-messages.webm' "
-#~ "md5='f8522ebe4ac4e7be319217399122025a'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-responding-to-messages.webm' "
-#~ "md5='f8522ebe4ac4e7be319217399122025a'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser1-firefox.svg' "
-#~ "md5='f4958e0fad516473746fc14fbd0f4333'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser1-firefox.svg' "
-#~ "md5='f4958e0fad516473746fc14fbd0f4333'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='gs-web-browser1-firefox.svg' "
-#~| "md5='f4958e0fad516473746fc14fbd0f4333'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser1-firefox-classic.svg' "
-#~ "md5='fe09a8fa520c0f337bade21f8a5d0377'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser1-firefox-classic.svg' "
-#~ "md5='fe09a8fa520c0f337bade21f8a5d0377'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser2-firefox.svg' "
-#~ "md5='d8f2a86ceef35a2e9a95fa54943ca76f'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser2-firefox.svg' "
-#~ "md5='d8f2a86ceef35a2e9a95fa54943ca76f'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='figures/gnome-timezone.webm' "
-#~| "md5='c9e227f87b1cf1abf40e3a6e6c01d8e9'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-timezone.webm' "
-#~ "md5='a6eb6dd9f7ca9d428ff35aad8cbaab65'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-timezone.webm' "
-#~ "md5='a6eb6dd9f7ca9d428ff35aad8cbaab65'"
-
-#~ msgid ""
-#~ "You can adjust the date and time by clicking on the arrows to choose the "
-#~ "hour, minute, and year."
-#~ msgstr ""
-#~ "A dátumot és az időt a nyilakra kattintva módosíthatja, kiválasztva az "
-#~ "évet, órát és percet."
-
-#~ msgid ""
-#~ "You may need to click the <gui>Unlock</gui> button and type the "
-#~ "administrator's password."
-#~ msgstr ""
-#~ "Szükség lehet a <gui>Feloldás</gui> gombra való kattintásra, és a "
-#~ "rendszergazdai jelszó beírására."
-
-#~| msgid ""
-#~| "On the left-hand side of the window, you can adjust the date and time by "
-#~| "clicking on the arrows to choose the hour, minute, and year."
-#~ msgid ""
-#~ "On the right-hand side of the window, you can adjust the date and time by "
-#~ "clicking on the arrows to choose the hour, minute, and year."
-#~ msgstr ""
-#~ "Az ablak jobb oldalán a nyilakra kattintva módosíthatja a dátumot és az "
-#~ "időt, kiválasztva az évet, órát és percet."
-
-#~ msgid ""
-#~ "Close the window by clicking the cross at the top-right corner of the "
-#~ "window."
-#~ msgstr ""
-#~ "Zárja be az ablakot az ablak jobb felső sarkában lévő keresztre való "
-#~ "kattintással."
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='figures/gnome-change-wallpaper.webm' "
-#~| "md5='edf1a698f4da87db90f00b9b15897483'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-change-wallpaper.webm' "
-#~ "md5='132412626662c3b2f5ba11dd6c418457'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-change-wallpaper.webm' "
-#~ "md5='132412626662c3b2f5ba11dd6c418457'"
-
-#~ msgid "Click your name on the top bar and select <gui>Settings</gui>."
-#~ msgstr ""
-#~ "Kattintson a nevére a felső sávban, és válassza a <gui>Beállítások</gui> "
-#~ "menüpontot."
-
-#~ msgid "Click the image of your current wallpaper."
-#~ msgstr "Kattintson a jelenlegi háttérképére."
-
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
-#~ msgstr "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
-
-#~| msgctxt "_"
-#~| msgid "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa2.svg' md5='ad86f77f168496c15fe171a0b2a4e8d6'"
-#~ msgstr "external ref='gs-goa2.svg' md5='ad86f77f168496c15fe171a0b2a4e8d6'"
-
-#~| msgctxt "_"
-#~| msgid "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-#~ msgstr "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-
-#~| msgctxt "_"
-#~| msgid "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa4.svg' md5='a9c13c95ff7a2d0d7b89a5f52735dee0'"
-#~ msgstr "external ref='gs-goa4.svg' md5='a9c13c95ff7a2d0d7b89a5f52735dee0'"
-
-#~| msgctxt "_"
-#~| msgid "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa5.svg' md5='e570fa43b0ab4f854fc33de89721d44d'"
-#~ msgstr "external ref='gs-goa5.svg' md5='e570fa43b0ab4f854fc33de89721d44d'"
-
-#~ msgid "Click your name on the top bar."
-#~ msgstr "Kattintson a nevére a felső sávban."
-
-#~ msgid "Select the <gui>Settings</gui> item."
-#~ msgstr "Válassza a <gui>Beállítások</gui> elemet."
-
-#~ msgid "Click on the <gui>Add an online account</gui> button."
-#~ msgstr "Kattintson az <gui>Online fiók hozzáadása</gui> gombra."
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-go-online1.svg' md5='5e1aa458f42d9a534678ac2196cf84a2'"
-#~ msgstr ""
-#~ "external ref='gs-go-online1.svg' md5='5e1aa458f42d9a534678ac2196cf84a2'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
-#~ msgstr ""
-#~ "external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
-#~ msgstr ""
-#~ "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
-
-#~ msgid "Wired"
-#~ msgstr "Vezetékes"
-
-#~ msgid "Cable unplugged"
-#~ msgstr "Kábel kihúzva"
-
-#~ msgid "Mobile broadband"
-#~ msgstr "Mobil széles sáv"
-
-#~ msgid "Weak"
-#~ msgstr "Gyenge"
-
-#~ msgctxt "_"
-#~ msgid "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
-#~ msgstr ""
-#~ "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
-
-#~ msgctxt "_"
-#~ msgid "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
-#~ msgstr ""
-#~ "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-search-settings.svg' "
-#~ "md5='448b4f7f7881d9e26bdf215515fe014e'"
-#~ msgstr ""
-#~ "external ref='gs-search-settings.svg' "
-#~ "md5='448b4f7f7881d9e26bdf215515fe014e'"
-
-#~ msgid ""
-#~ "Start typing to search. Results matching what you have typed will appear "
-#~ "as you type."
-#~ msgstr ""
-#~ "Kezdjen el gépelni a kereséshez. A begépelt szövegnek megfelelő találatok "
-#~ "megjelennek a gépelés közben."
-
-#~ msgid "Switch Tasks"
-#~ msgstr "Feladatváltás"
-
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
-#~ msgstr "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
-
-#~ msgid ""
-#~ "To cycle through the list of open windows, do not release <key xref="
-#~ "\"keyboard-key-super\">Super</key> but hold it down, and press <key> Tab</"
-#~ "key>."
-#~ msgstr ""
-#~ "A nyitott ablakok listáján való végiglépkedéshez ne engedje fel a <key "
-#~ "xref=\"keyboard-key-super\">Super</key> billentyűt, hanem tartsa "
-#~ "lenyomva, és a <key>Tab</key> billentyű ismételt lenyomásaival lépkedjen "
-#~ "az ablakok közt."
-
-#~ msgid "Types of results"
-#~ msgstr "Találattípusok"
-
-#~ msgid ""
-#~ "System search aggregates results from various applications. The first "
-#~ "group of results are application launchers. Activating a launcher will "
-#~ "start an application."
-#~ msgstr ""
-#~ "A rendszerkeresés különböző alkalmazásokból származó találatokat egyesít. "
-#~ "Az első találatcsoport az alkalmazásindítóké. Az indító aktiválása "
-#~ "elindítja az alkalmazást."
-
-#~ msgid ""
-#~ "Other types of results might include <app>settings</app>, <app>contacts</"
-#~ "app> or <app>documents</app>. Each type of result is preceded with an "
-#~ "icon of the application that provided the result (apart from the "
-#~ "application launchers at the top). Only the best matches are presented in "
-#~ "the overview, so if you want more scope for your search, you can click or "
-#~ "use the arrow keys to navigate to the application icon on the left to "
-#~ "take you to the application itself. As soon as the associated application "
-#~ "starts, your performed query will be performed in the application."
-#~ msgstr ""
-#~ "A további találattípusok közé tartoznak a <app>beállítások</app>, "
-#~ "<app>névjegyek</app> vagy <app>dokumentumok</app>. Minden találattípus "
-#~ "előtt megjelenik az azt biztosító alkalmazás ikonja (a felső "
-#~ "alkalmazásindítóktól függetlenül). Csak a legpontosabb találatok jelennek "
-#~ "meg az áttekintésben, így ha bővíteni szeretné a keresés hatókörét, akkor "
-#~ "kattintson a bal oldali alkalmazásikonra vagy a nyílbillentyűkkel lépjen "
-#~ "rá az alkalmazás megnyitásához. Amint a társított alkalmazás elindul, az "
-#~ "elvégzett lekérdezés megismétlődik az alkalmazásban."
-
-#~ msgid ""
-#~ "To move to a workspace which is below the current workspace, press "
-#~ "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key> "
-#~ "</keyseq>."
-#~ msgstr ""
-#~ "A jelenlegi munkaterület alatti munkaterületre váltáshoz nyomja meg a "
-#~ "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key></"
-#~ "keyseq> billentyűkombinációt."
-
-#~ msgid ""
-#~ "To move to a workspace which is above the current workspace, press "
-#~ "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Up</key> </"
-#~ "keyseq>."
-#~ msgstr ""
-#~ "A jelenlegi munkaterület feletti munkaterületre váltáshoz nyomja meg a "
-#~ "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Up</key></"
-#~ "keyseq> billentyűkombinációt"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='gs-thumb-timezone.svg' "
-#~| "md5='42ffa67597e33e89eb5d7e31eed50e9e'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-thumb-timezone.svg' "
-#~ "md5='529a461cc449c88c33947b1eef116f3b'"
-#~ msgstr ""
-#~ "external ref='gs-thumb-timezone.svg' "
-#~ "md5='529a461cc449c88c33947b1eef116f3b'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-thumb-changing-wallpaper.svg' "
-#~ "md5='763775a32c0e5861c71ef54fdcb24a53'"
-#~ msgstr ""
-#~ "external ref='gs-thumb-changing-wallpaper.svg' "
-#~ "md5='763775a32c0e5861c71ef54fdcb24a53'"
-
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa3.svg' md5='e4ae879bb449d9846d061c96b9070a9d'"
-#~ msgstr "external ref='gs-goa3.svg' md5='e4ae879bb449d9846d061c96b9070a9d'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-thumb-launching-apps.svg' "
-#~ "md5='7b9941a22fe51067153ca05089d4b6a1'"
-#~ msgstr ""
-#~ "external ref='gs-thumb-launching-apps.svg' "
-#~ "md5='7b9941a22fe51067153ca05089d4b6a1'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-thumb-responding-to-messages.svg' "
-#~ "md5='09b2f4d5c62b225fc26e03cfd5369bfb'"
-#~ msgstr ""
-#~ "external ref='gs-thumb-responding-to-messages.svg' "
-#~ "md5='09b2f4d5c62b225fc26e03cfd5369bfb'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-thumb-task-switching.svg' "
-#~ "md5='40c644a7f373bca4ce0234bb44ac18b8'"
-#~ msgstr ""
-#~ "external ref='gs-thumb-task-switching.svg' "
-#~ "md5='40c644a7f373bca4ce0234bb44ac18b8'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-thumb-windows-and-workspaces.svg' "
-#~ "md5='2d0f1a522ee5edf60bd5f5fc7b7da254'"
-#~ msgstr ""
-#~ "external ref='gs-thumb-windows-and-workspaces.svg' "
-#~ "md5='2d0f1a522ee5edf60bd5f5fc7b7da254'"
-
-#~ msgid "Getting Started with GNOME"
-#~ msgstr "Kezdeti lépések GNOME alatt"
-
-#~ msgctxt "link:trail"
-#~ msgid "Get additional applications"
-#~ msgstr "További alkalmazások beszerzése"
-
-#~ msgid "Get additional applications"
-#~ msgstr "További alkalmazások beszerzése"
-
-#~ msgid "Stay tuned..."
-#~ msgstr "Később…"
-
-#~ msgctxt "_"
-#~ msgid "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
-#~ msgstr "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
