@@ -1,7 +1,7 @@
 # German translation for gnome-getting-started-docs.
 # Copyright (C) 2013 gnome-getting-started-docs's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-getting-started-docs package.
-# Mario Blättermann <mario.blaettermann@gmail.com>, 2013.
+# Mario Blättermann <mario.blaettermann@gmail.com>, 2013, 2017.
 # Christian Kirbach <christian.kirbach@gmail.com>, 2013, 2014.
 # Benjamin Steinwender <b@stbe.at>, 2013, 2014.
 # Wolfgang Stöggl <c72578@yahoo.de>, 2015.
@@ -9,22 +9,22 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2017-05-10 11:19+0000\n"
-"PO-Revision-Date: 2017-05-14 01:28+0200\n"
-"Last-Translator: Christian Kirbach <christian.kirbach@gmail.com>\n"
+"POT-Creation-Date: 2017-05-13 23:39+0000\n"
+"PO-Revision-Date: 2017-05-28 13:46+0200\n"
+"Last-Translator: Mario Blättermann <mario.blaettermann@gmail.com>\n"
 "Language-Team: Deutsch <gnome-de@gnome.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.0.1\n"
+"X-Generator: Poedit 2.0.2\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
 msgstr ""
-"Mario Blättermann <mario.blaettermann@gmail.com>, 2013\n"
+"Mario Blättermann <mario.blaettermann@gmail.com>, 2013, 2017\n"
 "Christian Kirbach <christian.kirbach@gmail.com>, 2013, 2014, 2015, 2016\n"
 "Benjamin Steinwender <b@stbe.at>, 2013, 2014"
 
@@ -77,7 +77,7 @@ msgstr ""
 #. (itstool) path: div/p
 #: C/getting-started.page:37 C/gs-launch-applications.page:37
 msgid "Click the <gui>Show Applications</gui> icon."
-msgstr "Klicken Sie auf das Symbol <gui>Anwendungen anzeigen</gui>"
+msgstr "Klicken Sie auf das Symbol <gui>Anwendungen anzeigen</gui>."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:40 C/gs-launch-applications.page:40
@@ -126,7 +126,7 @@ msgstr "Fenster und Arbeitsflächen"
 #: C/getting-started.page:74 C/getting-started.page:224
 #: C/gs-use-windows-workspaces.page:32
 msgid ""
-"To maximize a window, grab the window's titlebar and drag it to the top of "
+"To maximize a window, grab the window’s titlebar and drag it to the top of "
 "the screen."
 msgstr ""
 "Um ein Fenster zu maximieren, klicken Sie die Titelleiste des Fensters und "
@@ -143,7 +143,7 @@ msgstr ""
 #: C/getting-started.page:81 C/getting-started.page:231
 #: C/gs-use-windows-workspaces.page:39
 msgid ""
-"To unmaximize a window, grab the window's titlebar and drag it away from the "
+"To unmaximize a window, grab the window’s titlebar and drag it away from the "
 "edges of the screen."
 msgstr ""
 "Um die Fenstergröße wiederherzustellen, klicken Sie auf die Titelleiste und "
@@ -163,11 +163,11 @@ msgstr ""
 #: C/getting-started.page:239 C/gs-switch-tasks.page:42
 #: C/gs-use-windows-workspaces.page:47
 msgid ""
-"To maximize a window along the left side of the screen, grab the window's "
+"To maximize a window along the left side of the screen, grab the window’s "
 "titlebar and drag it to the left."
 msgstr ""
 "Um ein Fenster auf der linken Bildschirmhälfte zu maximieren, klicken Sie "
-"die Titelleiste des Fensters und ziehen Sie sie an den linken Rand."
+"auf die Titelleiste des Fensters und ziehen Sie sie an den linken Rand."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:93 C/getting-started.page:101
@@ -183,11 +183,11 @@ msgstr ""
 #: C/getting-started.page:97 C/getting-started.page:247
 #: C/gs-use-windows-workspaces.page:55
 msgid ""
-"To maximize a window along the right side of the screen, grab the window's "
+"To maximize a window along the right side of the screen, grab the window’s "
 "titlebar and drag it to the right."
 msgstr ""
 "Um ein Fenster auf der rechten Bildschirmhälfte zu maximieren, klicken Sie "
-"die Titelleiste des Fensters und ziehen Sie sie an den rechten Rand."
+"auf die Titelleiste des Fensters und ziehen Sie sie an den rechten Rand."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
@@ -286,11 +286,11 @@ msgstr "Klicken Sie auf ein Fenster, um die Anwendung zu wechseln."
 #. (itstool) path: div/p
 #: C/getting-started.page:171 C/gs-switch-tasks.page:50
 msgid ""
-"To maximize a window along the right side, grab the window's titlebar and "
+"To maximize a window along the right side, grab the window’s titlebar and "
 "drag it to the right."
 msgstr ""
 "Um ein Fenster auf der rechten Bildschirmhälfte zu maximieren, klicken Sie "
-"die Titelleiste des Fensters und ziehen Sie sie an den rechten Rand."
+"auf die Titelleiste des Fensters und ziehen Sie sie an den rechten Rand."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:179 C/gs-switch-tasks.page:58
@@ -549,7 +549,7 @@ msgstr "Bereit für das Meeting?"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:39
-msgid "I'll be there in a sec..."
+msgid "I’ll be there in a sec…"
 msgstr "Ich bin in einer Sekunde da …"
 
 #. (itstool) path: titles/t
@@ -605,12 +605,12 @@ msgstr "Zeitzone automatisch ermitteln"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:53
-msgid "14 October 2013, 20:00"
+msgid "14 October 2013, 20∶00"
 msgstr "14. Oktober 2013, 20:00"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:54
-msgid "14 October 2013, 14:00"
+msgid "14 October 2013, 14∶00"
 msgstr "14. Oktober 2013, 14:00"
 
 #. (itstool) path: credit/name
@@ -692,7 +692,7 @@ msgid ""
 msgstr ""
 "Alternativ können Sie den Browser starten, indem Sie <em>Firefox</em> in die "
 "<gui>Aktivitäten-Übersicht</gui> <link xref=\"gs-use-system-search\">einfach "
-"eintippen</link>"
+"eintippen</link>."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:68
@@ -712,7 +712,7 @@ msgid ""
 msgstr ""
 "Alternativ können Sie den <em>Internet</em>-Browser starten, indem Sie den "
 "Namen des Browsers einfach in die <gui>Aktivitäten-Übersicht</gui> <link "
-"xref=\"gs-use-system-search\">eintippen</link>"
+"xref=\"gs-use-system-search\">eintippen</link>."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:92
@@ -941,7 +941,7 @@ msgid ""
 "signing in to get started."
 msgstr ""
 "In den meisten Fällen müssen Sie nach dem Anmelden dem Online-Dienst Zugriff "
-"gewähren, um loszulegen. "
+"gewähren, um loszulegen."
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:59
@@ -1023,7 +1023,7 @@ msgstr "Zeitzone automatisch ermitteln"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:113
 #, no-wrap
-msgid "September 1st 2015, 9:51 AM"
+msgid "September 1st 2015, 9∶51 AM"
 msgstr "1. September 2015, 14:51"
 
 #. (itstool) path: text/tspan
@@ -1112,7 +1112,7 @@ msgid ""
 msgstr ""
 "Wenn Sie eine kabelgebundene Verbindung verwenden wollen, stecken Sie "
 "einfach das Netzwerkkabel ein. Der Rechner wird versuchen, die "
-"Netzwerkverbindung für Sie automatisch einzurichten. "
+"Netzwerkverbindung für Sie automatisch einzurichten."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:45
@@ -1380,8 +1380,8 @@ msgstr "Dokumente"
 #: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
 #: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
-msgid "14:30"
-msgstr "14:30"
+msgid "14∶30"
+msgstr "14∶30"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:328
@@ -1717,7 +1717,8 @@ msgstr "Konten"
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:247
 #, no-wrap
-msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+#| msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
 msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
 
 #. (itstool) path: text/tspan
@@ -1848,10 +1849,10 @@ msgstr "Fenster kacheln"
 #. (itstool) path: item/p
 #: C/gs-switch-tasks.page:122 C/gs-use-windows-workspaces.page:118
 msgid ""
-"To maximize a window along a side of the screen, grab the window's titlebar "
+"To maximize a window along a side of the screen, grab the window’s titlebar "
 "and drag it to the left or right side of the screen."
 msgstr ""
-"Um ein Fenster auf einer Bildschirmhälfte zu maximieren, klicken Sie die "
+"Um ein Fenster auf einer Bildschirmhälfte zu maximieren, klicken Sie auf die "
 "Titelleiste des Fensters und ziehen Sie sie an den linken oder rechten Rand."
 
 #. (itstool) path: item/p
@@ -2198,7 +2199,7 @@ msgstr "Elemente, die in den Suchergebnissen erscheinen können, sind u.a.:"
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:40
 msgid "matching applications, shown at the top of the search results,"
-msgstr "passende Anwendungen, angezeigt am Anfang der Suchergebnisse, "
+msgstr "passende Anwendungen, angezeigt am Anfang der Suchergebnisse,"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:42
@@ -2308,7 +2309,7 @@ msgstr "Maximieren und Wiederherstellen von Fenstern"
 #: C/gs-use-windows-workspaces.page:102
 msgid ""
 "To maximize a window so that it takes up all of the space on your desktop, "
-"grab the window's titlebar and drag it to the top of the screen."
+"grab the window’s titlebar and drag it to the top of the screen."
 msgstr ""
 "Zum Maximieren eines Fensters über die gesamte Arbeitsfläche klicken Sie auf "
 "die Titelleiste des Fensters und ziehen Sie sie an den oberen Rand des "
@@ -2324,7 +2325,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:107
 msgid ""
-"To restore a window to its unmaximized size, grab the window's titlebar and "
+"To restore a window to its unmaximized size, grab the window’s titlebar and "
 "drag it away from the edges of the screen."
 msgstr ""
 "Um das Fenster in seiner ursprünglichen Größe wiederherzustellen, klicken "
@@ -2424,117 +2425,3 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
-
-#~ msgid "Enabled"
-#~ msgstr "Aktiviert"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
-#~ msgstr "erstellt"
-
-#~ msgid ""
-#~ "Click the clock on the top bar and select the <gui>Date &amp; Time "
-#~ "Settings</gui> item."
-#~ msgstr ""
-#~ "Klicken Sie auf die Uhr in der oberen Leiste und wählen Sie "
-#~ "<gui>Einstellungen für Datum und Uhrzeit</gui>."
-
-#~ msgid ""
-#~ "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-#~ "Settings</gui> window, and then close that window by clicking the cross "
-#~ "at the top-right corner of that window."
-#~ msgstr ""
-#~ "Klicken Sie den <gui>Schließen</gui>-Knopf, um zurück zum Fenster "
-#~ "<gui>Einstellungen für Datum und Uhrzeit</gui> zu wechseln. Dann "
-#~ "schließen Sie das Fenster, indem Sie auf das Kreuz in der rechten oberen "
-#~ "Ecke des Fensters klicken."
-
-#~ msgid ""
-#~ "Click the system menu on the right side of the top bar and press the "
-#~ "settings button at the bottom of the menu."
-#~ msgstr ""
-#~ "Klicken Sie auf das Systemmenü auf der rechten Seite der oberen Leiste "
-#~ "und dann auf den Knopf für Einstellungen im unteren Bereich des Menüs."
-
-#~ msgid "From the list of items, select <gui>Background</gui>."
-#~ msgstr "Wählen Sie <gui>Hintergrund</gui> aus der Liste aus."
-
-#~ msgid ""
-#~ "To connect to a Wi-Fi (wireless) network, click the status menu at the "
-#~ "top right of the screen, and then click <gui>Select Network</gui>."
-#~ msgstr ""
-#~ "Um sich mit einem Drahtlosnetzwerk zu verbinden, klicken Sie auf das "
-#~ "Statusmenü im oberen rechten Bereich des Bildschirms und dann klicken Sie "
-#~ "auf <gui>Netzwerk wählen</gui>."
-
-#~ msgid "From the list of items, select <gui>Search</gui>."
-#~ msgstr "Wählen Sie <gui>Suchen</gui> aus der Liste aus."
-
-#~ msgid ""
-#~ "Move your mouse to the message tray at the bottom of the screen and click "
-#~ "the chat message."
-#~ msgstr ""
-#~ "Bewegen Sie die Maus auf das Nachrichtenfeld, das am unteren Rand des "
-#~ "Bildschirms zu finden ist, und klicken Sie auf die Nachricht."
-
-#~ msgid "Click the person who sent you the message."
-#~ msgstr "Klicken Sie auf die Person, die Ihnen eine Nachricht gesendet hat."
-
-#~ msgid "Start typing your reply and when finished, press <key>Enter </key>."
-#~ msgstr ""
-#~ "Tippen Sie Ihre Antwort und drücken Sie die <key>Eingabetaste</key>, wenn "
-#~ "Sie fertig sind."
-
-#~ msgid "Press <key>Esc</key> to close the chat message."
-#~ msgstr "Drücken Sie <key>Esc</key>, um die Nachricht zu schließen."
-
-#~ msgid "To dismiss the message tray, press <key>Esc</key>."
-#~ msgstr "Um das Nachrichtenfeld abzuweisen, drücken Sie <key>Esc</key>."
-
-#~ msgid "Click the clock on the top bar."
-#~ msgstr "Klicken Sie auf die Uhr im oberen Panel."
-
-#~ msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
-#~ msgstr ""
-#~ "Stellen Sie sicher, dass <gui>Zeitzone automatisch ermitteln</gui> "
-#~ "deaktiviert ist."
-
-# siehe "Select"
-#~ msgid "Click <gui>Time Zone</gui>."
-#~ msgstr "Klicken Sie auf <gui>Zeitzone</gui>."
-
-#~ msgid "Click on your location on the map."
-#~ msgstr "Klicken Sie auf Ihren Standort auf der Karte."
-
-#~ msgid "Close the window."
-#~ msgstr "Schließen Sie das Fenster."
-
-#~ msgid ""
-#~ "To get back to your unanswered message, move your mouse to the message "
-#~ "tray at the very bottom of the screen."
-#~ msgstr ""
-#~ "Um zu den unbeantworteten Chat-Nachrichten zu gelangen, bewegen Sie die "
-#~ "Maus zum Nachrichtenfeld am unteren Rand des Bildschirms."
-
-#~ msgid ""
-#~ "When the message tray appears, click a small image that represents the "
-#~ "person who sent you the message."
-#~ msgstr ""
-#~ "Wenn das Nachrichtenfeld erscheint, klicken Sie auf das Bild, das den "
-#~ "Absender der Nachricht anzeigt."
-
-#~ msgid ""
-#~ "Use the arrow keys to select a small image representing the person you "
-#~ "want to reply to, and press <key>Enter</key>."
-#~ msgstr ""
-#~ "Verwenden Sie die Pfeiltasten, um die Person, der Sie antworten wollen, "
-#~ "auszuwählen und drücken Sie <key>Eingabe</key>."
-
-#~ msgid ""
-#~ "To dismiss the message tray, press <key>Esc</key> or <keyseq> <key href="
-#~ "\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>."
-#~ msgstr ""
-#~ "Um das Nachrichtenfeld abzuweisen, drücken Sie <key>Esc</key> oder "
-#~ "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
-#~ "key><key>M</key></keyseq>."
