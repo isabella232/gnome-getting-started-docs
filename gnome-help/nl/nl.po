@@ -2,12 +2,12 @@
 # Copyright (C) 2015 gnome-getting-started-docs's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-getting-started-docs package.
 #
-# Hannie Dumoleyn <hannie@ubuntu-nl.org>, 2015, 2016.
+# Hannie Dumoleyn <hannie@ubuntu-nl.org>, 2015, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2016-10-09 17:42+0000\n"
-"PO-Revision-Date: 2016-11-25 17:44+0100\n"
+"POT-Creation-Date: 2017-05-10 11:17+0000\n"
+"PO-Revision-Date: 2017-06-19 17:49+0100\n"
 "Last-Translator: Hannie Dumoleyn <hannie@ubuntu-nl.org>\n"
 "Language-Team: Dutch <gnome-nl-list@gnome.org>\n"
 "Language: nl\n"
@@ -104,42 +104,53 @@ msgstr "Druk op <key>Enter</key> om de toepassing te starten."
 
 #. (itstool) path: caption/desc
 #. (itstool) path: page/title
-#: C/getting-started.page:66 C/gs-use-windows-workspaces.page:21
+#: C/getting-started.page:66 C/getting-started.page:216
+#: C/gs-use-windows-workspaces.page:21
 msgid "Use windows and workspaces"
 msgstr "Vensters en werkbladen gebruiken"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:71 C/gs-animation.xml:10
+#: C/getting-started.page:71 C/getting-started.page:221 C/gs-animation.xml:10
 #: C/gs-use-windows-workspaces.page:29
 msgid "Windows and Workspaces"
 msgstr "Vensters en werkbladen"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:74 C/gs-use-windows-workspaces.page:32
+#: C/getting-started.page:74 C/getting-started.page:224
+#: C/gs-use-windows-workspaces.page:32
+#| msgid ""
+#| "To maximize a window, grab the window's titlebar and drag it to the top "
+#| "of the screen."
 msgid ""
-"To maximize a window, grab the window's titlebar and drag it to the top of "
+"To maximize a window, grab the window’s titlebar and drag it to the top of "
 "the screen."
 msgstr ""
-"Pak de titelbalk van het venster en sleep het naar de bovenkant van het "
-"scherm  om een venster te maximaliseren."
+"Om een venster te maximaliseren: pak de titelbalk van het venster en sleep"
+" het naar de bovenkant van het scherm  "
 
 #. (itstool) path: div/p
-#: C/getting-started.page:78 C/gs-use-windows-workspaces.page:36
+#: C/getting-started.page:78 C/getting-started.page:228
+#: C/gs-use-windows-workspaces.page:36
 msgid "When the screen is highlighted, release the window."
 msgstr "Laat het venster los zodra het oplicht."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:81 C/gs-use-windows-workspaces.page:39
+#: C/getting-started.page:81 C/getting-started.page:231
+#: C/gs-use-windows-workspaces.page:39
+#| msgid ""
+#| "To unmaximize a window, grab the window's titlebar and drag it away from "
+#| "the edges of the screen."
 msgid ""
-"To unmaximize a window, grab the window's titlebar and drag it away from the "
+"To unmaximize a window, grab the window’s titlebar and drag it away from the "
 "edges of the screen."
 msgstr ""
-"Pak de titelbalk van het venster en sleep het weg van de randen van het "
-"scherm om een venster weer te verkleinen."
+"Om een venster weer te verkleinen: pak de titelbalk van het venster en sleep"
+" het weg van de randen van het scherm."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:85 C/gs-use-windows-workspaces.page:43
+#: C/getting-started.page:85 C/getting-started.page:235
+#: C/gs-use-windows-workspaces.page:43
 msgid ""
 "You can also click the top bar to drag the window away and unmaximize it."
 msgstr ""
@@ -148,35 +159,44 @@ msgstr ""
 
 #. (itstool) path: div/p
 #: C/getting-started.page:89 C/getting-started.page:163
-#: C/gs-switch-tasks.page:42 C/gs-use-windows-workspaces.page:47
+#: C/getting-started.page:239 C/gs-switch-tasks.page:42
+#: C/gs-use-windows-workspaces.page:47
+#| msgid ""
+#| "To maximize a window along the left side of the screen, grab the window's "
+#| "titlebar and drag it to the left."
 msgid ""
-"To maximize a window along the left side of the screen, grab the window's "
+"To maximize a window along the left side of the screen, grab the window’s "
 "titlebar and drag it to the left."
 msgstr ""
-"Om een venster links te maximaliseren: pak de titelbalk van het venster en "
-"sleep het naar de linkerkant."
+" Om een venster links te maximaliseren: pak de titelbalk van het venster en"
+" sleep het naar de linkerkant."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:93 C/getting-started.page:101
 #: C/getting-started.page:167 C/getting-started.page:175
+#: C/getting-started.page:243 C/getting-started.page:251
 #: C/gs-switch-tasks.page:46 C/gs-switch-tasks.page:54
 #: C/gs-use-windows-workspaces.page:51 C/gs-use-windows-workspaces.page:59
 msgid "When half of the screen is highlighted, release the window."
 msgstr "Laat het venster los zodra de linkerhelft van het scherm oplicht."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:97 C/gs-use-windows-workspaces.page:55
+#: C/getting-started.page:97 C/getting-started.page:247
+#: C/gs-use-windows-workspaces.page:55
+#| msgid ""
+#| "To maximize a window along the right side of the screen, grab the "
+#| "window's titlebar and drag it to the right."
 msgid ""
-"To maximize a window along the right side of the screen, grab the window's "
+"To maximize a window along the right side of the screen, grab the window’s "
 "titlebar and drag it to the right."
 msgstr ""
-"Om een venster rechts te maximaliseren: pak de titelbalk van het venster en "
-"sleep het naar de rechterkant."
+"Om een venster rechts te maximaliseren: pak de titelbalk van het venster en"
+" sleep het naar de rechterkant."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:105 C/gs-use-windows-workspaces.page:63
-#: C/gs-use-windows-workspaces.page:134
+#: C/getting-started.page:105 C/getting-started.page:255
+#: C/gs-use-windows-workspaces.page:63 C/gs-use-windows-workspaces.page:134
 msgid ""
 "To maximize a window using the keyboard, hold down the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
@@ -186,7 +206,8 @@ msgstr ""
 "op <key>↑</key>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:110 C/gs-use-windows-workspaces.page:68
+#: C/getting-started.page:110 C/getting-started.page:260
+#: C/gs-use-windows-workspaces.page:68
 msgid ""
 "To restore the window to its unmaximized size, hold down the <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
@@ -197,8 +218,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:115 C/gs-use-windows-workspaces.page:73
-#: C/gs-use-windows-workspaces.page:148
+#: C/getting-started.page:115 C/getting-started.page:265
+#: C/gs-use-windows-workspaces.page:73 C/gs-use-windows-workspaces.page:148
 msgid ""
 "To maximize a window along the right side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
@@ -209,8 +230,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:120 C/gs-use-windows-workspaces.page:78
-#: C/gs-use-windows-workspaces.page:151
+#: C/getting-started.page:120 C/getting-started.page:270
+#: C/gs-use-windows-workspaces.page:78 C/gs-use-windows-workspaces.page:151
 msgid ""
 "To maximize a window along the left side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
@@ -220,7 +241,8 @@ msgstr ""
 "keyboard-key-super\">Super</key>-toets ingedrukt en druk op <key>←</key>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:125 C/gs-use-windows-workspaces.page:83
+#: C/getting-started.page:125 C/getting-started.page:275
+#: C/gs-use-windows-workspaces.page:83
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
@@ -231,7 +253,8 @@ msgstr ""
 "key><key>Page Down</key></keyseq>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:130 C/gs-use-windows-workspaces.page:88
+#: C/getting-started.page:130 C/getting-started.page:280
+#: C/gs-use-windows-workspaces.page:88
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
@@ -264,12 +287,15 @@ msgstr "Klik op een venster om over te schakelen naar die taak."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:171 C/gs-switch-tasks.page:50
+#| msgid ""
+#| "To maximize a window along the right side, grab the window's titlebar and "
+#| "drag it to the right."
 msgid ""
-"To maximize a window along the right side, grab the window's titlebar and "
+"To maximize a window along the right side, grab the window’s titlebar and "
 "drag it to the right."
 msgstr ""
-"Om een venster rechts te maximaliseren: pak de titelbalk van het venster en "
-"sleep het naar de rechterkant."
+"Om een venster rechts te maximaliseren: pak de titelbalk van het venster en"
+" sleep het naar de rechterkant."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:179 C/gs-switch-tasks.page:58
@@ -328,99 +354,58 @@ msgstr ""
 "te gaan."
 
 #. (itstool) path: caption/desc
-#. (itstool) path: page/title
-#: C/getting-started.page:214 C/gs-respond-messages.page:21
-msgid "Respond to messages"
-msgstr "Berichten beantwoorden"
+#: C/getting-started.page:295
+#| msgid "Change the wallpaper"
+msgid "Change wallpaper"
+msgstr "De achtergrond wijzigen"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:220 C/gs-animation.xml:7
-#: C/gs-respond-messages.page:29
-msgid "Responding to Messages"
-msgstr "Berichten beantwoorden"
+#: C/getting-started.page:300 C/gs-animation.xml:6
+#: C/gs-change-wallpaper.page:28
+msgid "Changing Wallpaper"
+msgstr "De achtergrond wijzigen"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:303 C/gs-change-wallpaper.page:31
+msgid ""
+"Click the system menu on the right side of the top bar and press the "
+"settings button."
+msgstr ""
+"Klik op het systeemmenu aan de rechterkant van de bovenste balk en kies de "
+"knop Instellingen."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:307 C/gs-change-wallpaper.page:35
+msgid "Select <gui>Background</gui>."
+msgstr "Kies <gui>Achtergrond</gui>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:310 C/gs-change-wallpaper.page:38
+msgid "Click the current background image."
+msgstr "Klik op de huidige achtergrondafbeelding."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:223 C/gs-respond-messages.page:32
-#: C/gs-respond-messages.page:80
-msgid ""
-"Move your mouse over the chat message that appears near the top of the "
-"screen."
-msgstr ""
-"Breng de muisaanwijzer naar het chatbericht dat aan de bovenkant van het "
-"scherm verschijnt."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:227 C/gs-respond-messages.page:36
-msgid ""
-"Start typing your reply and when finished, press <key>Enter </key> to send "
-"the reply."
-msgstr ""
-"Begin met het intypen van uw antwoord en druk wanneer u klaar bent op "
-"<key>Enter </key> om het antwoord te versturen."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:231 C/gs-respond-messages.page:40
-msgid "Close the chat message."
-msgstr "Sluit het chatbericht."
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:234 C/gs-animation.xml:9
-#: C/gs-respond-messages.page:43
-msgid "Delayed Response"
-msgstr "Vertraagde reactie"
-
-#. (itstool) path: div/p
-#: C/getting-started.page:237 C/gs-respond-messages.page:46
-msgid ""
-"A chat message near the top of the screen disappears after a while if you do "
-"not move your mouse over the message."
-msgstr ""
-"Een chatbericht aan de bovenkant van het scherm verdwijnt na een poosje als "
-"u de muisaanwijzer niet naar het bericht brengt."
+#: C/getting-started.page:313 C/gs-change-wallpaper.page:41
+#: C/gs-change-wallpaper.page:64
+msgid "Click the background image you want to use."
+msgstr "Klik op de achtergrondafbeelding die u wilt gebruiken."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:241 C/gs-respond-messages.page:50
-#: C/gs-respond-messages.page:96
-msgid "To get back to your unanswered message, click the clock on the top bar."
-msgstr ""
-"Om terug te keren naar het nog niet beantwoorde bericht: klik op de klok op "
-"de bovenste balk."
+#: C/getting-started.page:316 C/gs-change-wallpaper.page:44
+#: C/gs-change-wallpaper.page:65
+msgid "Click the <gui>Select</gui> button."
+msgstr "Klik op de knop <gui>Selecteren</gui>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:245 C/gs-respond-messages.page:54
-msgid "From the notification list, choose your message."
-msgstr "Kies uw bericht uit de meldingenlijst."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:248 C/getting-started.page:260
-#: C/gs-respond-messages.page:57 C/gs-respond-messages.page:69
-msgid "Start typing your reply."
-msgstr "Begin met het intypen van uw antwoord."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:251 C/gs-respond-messages.page:60
-msgid ""
-"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
-msgstr ""
-"Om de meldingenlijst te tonen: druk op <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
-
-#. (itstool) path: div/p
-#: C/getting-started.page:256 C/gs-respond-messages.page:65
-msgid ""
-"Use the arrow keys to select the message you want to reply to, and press "
-"<key>Enter</key>."
-msgstr ""
-"Gebruik de pijltjestoetsen om een bericht waarop u wilt antwoorden te "
-"selecteren en druk op <key>Enter</key>."
+#: C/getting-started.page:319 C/gs-change-wallpaper.page:47
+msgid "Close the <gui>Background</gui> window."
+msgstr "Sluit het <gui>Achtergrond</gui>venster."
 
 #. (itstool) path: links/title
-#: C/getting-started.page:269
+#: C/getting-started.page:330
 msgid "Common Tasks"
 msgstr "Veelvoorkomend taken"
 
@@ -431,9 +416,15 @@ msgstr "Welkom"
 
 #. (itstool) path: titles/t
 #. (itstool) path: div/p
-#: C/gs-animation.xml:6 C/gs-change-wallpaper.page:28
-msgid "Changing Wallpaper"
-msgstr "De achtergrond wijzigen"
+#: C/gs-animation.xml:7 C/gs-respond-messages.page:30
+msgid "Responding to Messages"
+msgstr "Berichten beantwoorden"
+
+#. (itstool) path: titles/t
+#. (itstool) path: div/p
+#: C/gs-animation.xml:9 C/gs-respond-messages.page:44
+msgid "Delayed Response"
+msgstr "Vertraagde reactie"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:11
@@ -562,7 +553,8 @@ msgstr "Klaar voor de vergadering?"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:39
-msgid "I'll be there in a sec..."
+#| msgid "I'll be there in a sec..."
+msgid "I’ll be there in a sec…"
 msgstr "Ik kom zo…"
 
 #. (itstool) path: titles/t
@@ -618,12 +610,14 @@ msgstr "Automatische tijdszone"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:53
-msgid "14 October 2013, 20:00"
+#| msgid "14 October 2013, 20:00"
+msgid "14 October 2013, 20∶00"
 msgstr "14 Oktober 2013, 20:00"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:54
-msgid "14 October 2013, 14:00"
+#| msgid "14 October 2013, 14:00"
+msgid "14 October 2013, 14∶00"
 msgstr "14 Oktober 2013, 14:00"
 
 #. (itstool) path: credit/name
@@ -652,8 +646,6 @@ msgstr "Surfen op het web"
 
 #. (itstool) path: info/title
 #: C/gs-browse-web.page:18
-#| msgctxt "link:seealso"
-#| msgid "A tutorial on changing the wallpaper"
 msgctxt "link:seealso"
 msgid "A tutorial on browsing the web"
 msgstr "Een handleiding over surfen op het web"
@@ -877,42 +869,6 @@ msgstr "Een handleiding over het wijzigen van de bureaubladachtergrond"
 msgid "Change the wallpaper"
 msgstr "De achtergrond wijzigen"
 
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:31
-msgid ""
-"Click the system menu on the right side of the top bar and press the "
-"settings button."
-msgstr ""
-"Klik op het systeemmenu aan de rechterkant van de bovenste balk en kies de "
-"knop Instellingen."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:35
-msgid "Select <gui>Background</gui>."
-msgstr "Kies <gui>Achtergrond</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:38
-msgid "Click the current background image."
-msgstr "Klik op de huidige achtergrondafbeelding."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:64
-msgid "Click the background image you want to use."
-msgstr "Klik op de achtergrondafbeelding die u wilt gebruiken."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:65
-msgid "Click the <gui>Select</gui> button."
-msgstr "Klik op de knop <gui>Selecteren</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:47
-msgid "Close the <gui>Background</gui> window."
-msgstr "Sluit het <gui>Achtergrond</gui>venster."
-
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
 msgid "Click the <gui>Background</gui> panel."
@@ -1070,7 +1026,8 @@ msgstr "Automatische tijdzone"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:113
 #, no-wrap
-msgid "September 1st 2015, 9:51 AM"
+#| msgid "September 1st 2015, 9:51 AM"
+msgid "September 1st 2015, 9∶51 AM"
 msgstr "1 september 2015, 9:51"
 
 #. (itstool) path: text/tspan
@@ -1424,8 +1381,8 @@ msgstr "Documenten"
 #: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
 #: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
-msgid "14:30"
-msgstr "14:30"
+msgid "14∶30"
+msgstr "14∶30"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:328
@@ -1577,24 +1534,98 @@ msgid "This work is licensed under a <_:link-1/>."
 msgstr "Dit werk is in licentie gegeven onder een <_:link-1/>."
 
 #. (itstool) path: info/title
-#: C/gs-respond-messages.page:15
+#: C/gs-respond-messages.page:18
 msgctxt "link:trail"
 msgid "Respond to messages"
 msgstr "Berichten beantwoorden"
 
 #. (itstool) path: info/title
-#: C/gs-respond-messages.page:17
+#: C/gs-respond-messages.page:19
 msgctxt "link:seealso"
 msgid "A tutorial on responding to messages"
 msgstr "Een handleiding over het beantwoorden van berichten"
 
+#. (itstool) path: page/title
+#: C/gs-respond-messages.page:22
+msgid "Respond to messages"
+msgstr "Berichten beantwoorden"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:33 C/gs-respond-messages.page:81
+msgid ""
+"Move your mouse over the chat message that appears near the top of the "
+"screen."
+msgstr ""
+"Breng de muisaanwijzer naar het chatbericht dat aan de bovenkant van het "
+"scherm verschijnt."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:37
+msgid ""
+"Start typing your reply and when finished, press <key>Enter </key> to send "
+"the reply."
+msgstr ""
+"Begin met het intypen van uw antwoord en druk wanneer u klaar bent op "
+"<key>Enter </key> om het antwoord te versturen."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:41
+msgid "Close the chat message."
+msgstr "Sluit het chatbericht."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:47
+msgid ""
+"A chat message near the top of the screen disappears after a while if you do "
+"not move your mouse over the message."
+msgstr ""
+"Een chatbericht aan de bovenkant van het scherm verdwijnt na een poosje als "
+"u de muisaanwijzer niet naar het bericht brengt."
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:51 C/gs-respond-messages.page:97
+msgid "To get back to your unanswered message, click the clock on the top bar."
+msgstr ""
+"Om terug te keren naar het nog niet beantwoorde bericht: klik op de klok op "
+"de bovenste balk."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:55
+msgid "From the notification list, choose your message."
+msgstr "Kies uw bericht uit de meldingenlijst."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:58 C/gs-respond-messages.page:70
+msgid "Start typing your reply."
+msgstr "Begin met het intypen van uw antwoord."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:61
+msgid ""
+"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
+msgstr ""
+"Om de meldingenlijst te tonen: druk op <keyseq> <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:66
+msgid ""
+"Use the arrow keys to select the message you want to reply to, and press "
+"<key>Enter</key>."
+msgstr ""
+"Gebruik de pijltjestoetsen om een bericht waarop u wilt antwoorden te "
+"selecteren en druk op <key>Enter</key>."
+
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:77
+#: C/gs-respond-messages.page:78
 msgid "Respond to a chat message with the mouse"
 msgstr "Een chatbericht beantwoorden met de muis"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:82
+#: C/gs-respond-messages.page:83
 msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send "
 "the reply."
@@ -1603,7 +1634,7 @@ msgstr ""
 "<key>Enter </key> om het antwoord te versturen."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:84
+#: C/gs-respond-messages.page:85
 msgid ""
 "To close the chat message, click the close button at the top right corner of "
 "the chat message."
@@ -1612,12 +1643,12 @@ msgstr ""
 "van het chatbericht."
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:91
+#: C/gs-respond-messages.page:92
 msgid "Delayed response to a chat message using the mouse"
 msgstr "Uitgesteld antwoord op een chatbericht met de muis"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:94
+#: C/gs-respond-messages.page:95
 msgid ""
 "When a chat message appears near the top of the screen and you do not move "
 "your mouse over the message, it disappears after a while."
@@ -1626,7 +1657,7 @@ msgstr ""
 "niet de muis boven het bericht plaatst, verdwijnt het na een poosje."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:98
+#: C/gs-respond-messages.page:99
 msgid ""
 "From the notification list, choose the message you want to reply to, and "
 "click it."
@@ -1635,18 +1666,18 @@ msgstr ""
 "erop."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:100 C/gs-respond-messages.page:114
+#: C/gs-respond-messages.page:101 C/gs-respond-messages.page:115
 msgid "When the chat message is shown, start typing your reply."
 msgstr ""
 "Begin met het intypen van uw antwoord wanneer het chatbericht getoond wordt."
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:106
+#: C/gs-respond-messages.page:107
 msgid "Delayed response to a chat message using the keyboard"
 msgstr "Uitgesteld antwoord op een chatbericht via het toetsenbord"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:108
+#: C/gs-respond-messages.page:109
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq> <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
@@ -1657,7 +1688,7 @@ msgstr ""
 "key> </keyseq>, waardoor de lijst met onbeantwoorde notificaties verschijnt."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:112
+#: C/gs-respond-messages.page:113
 msgid ""
 "Use the arrow keys to select the notification you want to reply to, and "
 "press <key>Enter</key>."
@@ -1686,8 +1717,9 @@ msgstr "Accounts"
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:247
 #, no-wrap
-msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
-msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+#| msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:248
@@ -1814,8 +1846,11 @@ msgstr "Tegelvensters"
 
 #. (itstool) path: item/p
 #: C/gs-switch-tasks.page:122 C/gs-use-windows-workspaces.page:118
+#| msgid ""
+#| "To maximize a window along a side of the screen, grab the window's "
+#| "titlebar and drag it to the left or right side of the screen."
 msgid ""
-"To maximize a window along a side of the screen, grab the window's titlebar "
+"To maximize a window along a side of the screen, grab the window’s titlebar "
 "and drag it to the left or right side of the screen."
 msgstr ""
 "Om een venster aan een kant van het scherm te maximaliseren: pak de "
@@ -2269,9 +2304,12 @@ msgstr "Vensters maximaliseren en herstellen"
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:102
+#| msgid ""
+#| "To maximize a window so that it takes up all of the space on your "
+#| "desktop, grab the window's titlebar and drag it to the top of the screen."
 msgid ""
 "To maximize a window so that it takes up all of the space on your desktop, "
-"grab the window's titlebar and drag it to the top of the screen."
+"grab the window’s titlebar and drag it to the top of the screen."
 msgstr ""
 "Om een venster te maximaliseren zodat het uw hele bureaublad bedekt: pak de "
 "titelbalk van het venster en sleep het naar de bovenkant van het scherm."
@@ -2283,8 +2321,11 @@ msgstr "Laat het venster los zodra het oplicht om het te maximaliseren."
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:107
+#| msgid ""
+#| "To restore a window to its unmaximized size, grab the window's titlebar "
+#| "and drag it away from the edges of the screen."
 msgid ""
-"To restore a window to its unmaximized size, grab the window's titlebar and "
+"To restore a window to its unmaximized size, grab the window’s titlebar and "
 "drag it away from the edges of the screen."
 msgstr ""
 "Om een venster terug te brengen naar het vorige formaat: pak de titelbalk "
@@ -2384,6 +2425,9 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
+
+#~ msgid "14:30"
+#~ msgstr "14:30"
 
 #~ msgid "Enabled"
 #~ msgstr "Ingeschakeld"
