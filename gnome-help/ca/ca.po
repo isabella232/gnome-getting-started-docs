@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2017-06-05 14:33+0000\n"
-"PO-Revision-Date: 2017-06-12 15:45+0100\n"
+"POT-Creation-Date: 2017-06-28 17:29+0000\n"
+"PO-Revision-Date: 2017-07-11 16:15+0100\n"
 "Last-Translator: Francesc Famadas <kiski97@gmail.com>\n"
 "Language-Team: Catalan <tradgnome@softcatala.org>\n"
 "Language: ca\n"
@@ -117,10 +117,6 @@ msgstr "Finestres i espais de treball"
 #. (itstool) path: div/p
 #: C/getting-started.page:74 C/getting-started.page:224
 #: C/gs-use-windows-workspaces.page:32
-#, fuzzy
-#| msgid ""
-#| "To maximize a window, grab the window's titlebar and drag it to the top "
-#| "of the screen."
 msgid ""
 "To maximize a window, grab the window’s titlebar and drag it to the top of "
 "the screen."
@@ -137,10 +133,6 @@ msgstr "Quan es realci la pantalla, deixeu anar la finestra."
 #. (itstool) path: div/p
 #: C/getting-started.page:81 C/getting-started.page:231
 #: C/gs-use-windows-workspaces.page:39
-#, fuzzy
-#| msgid ""
-#| "To unmaximize a window, grab the window's titlebar and drag it away from "
-#| "the edges of the screen."
 msgid ""
 "To unmaximize a window, grab the window’s titlebar and drag it away from the "
 "edges of the screen."
@@ -161,10 +153,6 @@ msgstr ""
 #: C/getting-started.page:89 C/getting-started.page:163
 #: C/getting-started.page:239 C/gs-switch-tasks.page:42
 #: C/gs-use-windows-workspaces.page:47
-#, fuzzy
-#| msgid ""
-#| "To maximize a window along the left side of the screen, grab the window's "
-#| "titlebar and drag it to the left."
 msgid ""
 "To maximize a window along the left side of the screen, grab the window’s "
 "titlebar and drag it to the left."
@@ -184,10 +172,6 @@ msgstr "Quan es realci la meitat de la pantalla, deixeu anar la finestra."
 #. (itstool) path: div/p
 #: C/getting-started.page:97 C/getting-started.page:247
 #: C/gs-use-windows-workspaces.page:55
-#, fuzzy
-#| msgid ""
-#| "To maximize a window along the right side of the screen, grab the "
-#| "window's titlebar and drag it to the right."
 msgid ""
 "To maximize a window along the right side of the screen, grab the window’s "
 "titlebar and drag it to the right."
@@ -291,10 +275,6 @@ msgstr "Feu clic en una finestra per canviar a aquella tasca."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:171 C/gs-switch-tasks.page:50
-#, fuzzy
-#| msgid ""
-#| "To maximize a window along the right side, grab the window's titlebar and "
-#| "drag it to the right."
 msgid ""
 "To maximize a window along the right side, grab the window’s titlebar and "
 "drag it to the right."
@@ -359,10 +339,8 @@ msgstr ""
 
 #. (itstool) path: caption/desc
 #: C/getting-started.page:295
-#, fuzzy
-#| msgid "Change the wallpaper"
 msgid "Change wallpaper"
-msgstr "Canvieu el fons de pantalla"
+msgstr "canviar el fons de pantalla"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
@@ -558,8 +536,6 @@ msgstr "A punt per la reunió?"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:39
-#, fuzzy
-#| msgid "I'll be there in a sec..."
 msgid "I’ll be there in a sec…"
 msgstr "Arribaré allà de seguida..."
 
@@ -616,17 +592,13 @@ msgstr "Configuració automàtica de la data i l'hora"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:53
-#, fuzzy
-#| msgid "14 October 2013, 20:00"
 msgid "14 October 2013, 20∶00"
-msgstr "14 d'octubre de 2013, 20:00"
+msgstr "14 d'Octubre de 2013, 20:00"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:54
-#, fuzzy
-#| msgid "14 October 2013, 14:00"
 msgid "14 October 2013, 14∶00"
-msgstr "14 d'octubre de 2013, 14:00"
+msgstr "14 d'Octubre de 2013, 14:00"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:10 C/gs-change-date-time-timezone.page:9
@@ -654,12 +626,9 @@ msgstr "Navegueu per la web"
 
 #. (itstool) path: info/title
 #: C/gs-browse-web.page:18
-#, fuzzy
-#| msgctxt "link:seealso"
-#| msgid "A tutorial on changing the wallpaper"
 msgctxt "link:seealso"
 msgid "A tutorial on browsing the web"
-msgstr "Un programa d'aprenentatge per canviar el fons de pantalla"
+msgstr "Un Tutorial per navegar per per la web"
 
 #. (itstool) path: page/title
 #: C/gs-browse-web.page:22
@@ -810,10 +779,8 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:30 C/gs-change-wallpaper.page:60
 #: C/gs-connect-online-accounts.page:30 C/gs-use-system-search.page:85
-#, fuzzy
-#| msgid "Press the settings button at the bottom of the menu."
 msgid "Click the settings button at the bottom left of the menu."
-msgstr "Feu clic al botó de paràmetres situat al final del menú."
+msgstr "Feu clic al botó de paràmetres situat al final esquerra del menú."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:31
@@ -834,10 +801,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:40
-#, fuzzy
-#| msgid ""
-#| "Click on your location on the map. This selects your current city, which "
-#| "you can also search for in the search box above the map."
 msgid ""
 "Click on your location on the world map. This selects your current city, "
 "which you can also search for in the search box above the map."
@@ -903,10 +866,8 @@ msgstr "Canvieu el fons de pantalla"
 
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
-#, fuzzy
-#| msgid "Close the <gui>Background</gui> window."
 msgid "Click the <gui>Background</gui> panel."
-msgstr "Tanqueu la finestra de <gui>Fons</gui>."
+msgstr "cliqueu <gui>Fons</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:62
@@ -1030,17 +991,15 @@ msgstr "4"
 
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:78 C/gs-datetime.svg:112
-#, fuzzy, no-wrap
-#| msgid "Changing Date &amp; Time"
+#, no-wrap
 msgid "Date &amp; Time"
-msgstr "Canvieu la data i l'hora"
+msgstr "Data &amp; Hora"
 
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:80
-#, fuzzy, no-wrap
-#| msgid "Automatic Date and Time"
+#, no-wrap
 msgid "Automatic Date &amp; Time"
-msgstr "Configuració automàtica de la data i l'hora"
+msgstr "Data i hora automatica"
 
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:81 C/gs-datetime.svg:96
@@ -1059,10 +1018,9 @@ msgstr "I"
 
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:95
-#, fuzzy, no-wrap
-#| msgid "Automatic Timezone"
+#, no-wrap
 msgid "Automatic Time Zone"
-msgstr "Configuració automàtica de la data i l'hora"
+msgstr "Data i hora automatica"
 
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:113
@@ -1127,10 +1085,6 @@ msgstr "Connecteu-vos a una xarxa amb fil"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:36
-#, fuzzy
-#| msgid ""
-#| "The network connection icon on the right-hand side of the top bar shows "
-#| "that you are off-line."
 msgid ""
 "The network connection icon on the right-hand side of the top bar shows that "
 "you are offline."
@@ -1140,12 +1094,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:38
-#, fuzzy
-#| msgid ""
-#| "The off-line status can be caused by a number of reasons: for example, a "
-#| "network cable has been unplugged, the computer has been set to run in "
-#| "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
-#| "area."
 msgid ""
 "The offline status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
@@ -1193,10 +1141,8 @@ msgstr "Connecteu-vos a una xarxa sense fil"
 
 #. (itstool) path: steps/title
 #: C/gs-get-online.page:61
-#, fuzzy
-#| msgid "Connect to a Wi-Fi network"
 msgid "To connect to a Wi-Fi (wireless) network:"
-msgstr "Connecteu-vos a una xarxa sense fil"
+msgstr "Per coneectar-se a una xarxa Wi-Fi sense fil"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:67
@@ -1209,10 +1155,8 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:71
-#, fuzzy
-#| msgid "Click <gui>Close</gui>."
 msgid "Click <gui>Select Network</gui>."
-msgstr "Feu clic al botó <gui>Tanca</gui>."
+msgstr "cliqueu <gui>Seliccionar xarxa</gui>."
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:76
@@ -1813,8 +1757,7 @@ msgstr "Comptes"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:247
-#, fuzzy, no-wrap
-#| msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+#, no-wrap
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
 msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 
@@ -2378,10 +2321,8 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:86
-#, fuzzy
-#| msgid "Click the <gui>Select</gui> button."
 msgid "Click the <gui>Search</gui> panel."
-msgstr "Feu clic al botó <gui>Selecciona</gui>."
+msgstr "Feu clic al panell <gui>buscar</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:87
@@ -2432,16 +2373,12 @@ msgstr "Quan es realci la pantalla, deixeu anar la finestra."
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:107
-#, fuzzy
-#| msgid ""
-#| "To restore a window to its unmaximized size, grab the window's titlebar "
-#| "and drag it away from the edges of the screen."
 msgid ""
 "To restore a window to its unmaximized size, grab the window’s titlebar and "
 "drag it away from the edges of the screen."
 msgstr ""
-"Per restaurar la mida de la finestra desmaximitzada, agafeu la finestra per "
-"la barra del títol i arrossegueu-la cap al centre de la pantalla."
+"Per restaurar la mida de la finestra minimizada, agafeu la finestra per la "
+"barra del títol i arrossegueu-la cap al centre de la pantalla."
 
 #. (itstool) path: section/title
 #: C/gs-use-windows-workspaces.page:131
