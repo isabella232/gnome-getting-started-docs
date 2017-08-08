@@ -3,16 +3,16 @@
 # This file is distributed under the same license as the getting-started package.
 #
 # Petr Kovar <pknbe@volny.cz>, 2012, 2013.
-# Marek Černocký <marek@manet.cz>, 2015, 2016.
+# Marek Černocký <marek@manet.cz>, 2015, 2016, 2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: getting-started\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-19 12:55+0000\n"
-"PO-Revision-Date: 2016-09-04 22:33+0200\n"
+"POT-Creation-Date: 2017-06-28 17:29+0000\n"
+"PO-Revision-Date: 2017-08-08 12:43+0200\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>\n"
-"Language-Team: Czech <gnome-cs-list@gnome.org>\n"
+"Language-Team: čeština <gnome-cs-list@gnome.org>>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -106,42 +106,47 @@ msgstr "Zmáčknutím <key>Enter</key> aplikaci spustíte."
 
 #. (itstool) path: caption/desc
 #. (itstool) path: page/title
-#: C/getting-started.page:66 C/gs-use-windows-workspaces.page:21
+#: C/getting-started.page:66 C/getting-started.page:216
+#: C/gs-use-windows-workspaces.page:21
 msgid "Use windows and workspaces"
 msgstr "Používání oken a pracovních ploch"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:71 C/gs-animation.xml:10
+#: C/getting-started.page:71 C/getting-started.page:221 C/gs-animation.xml:10
 #: C/gs-use-windows-workspaces.page:29
 msgid "Windows and Workspaces"
 msgstr "Okna a pracovní plochy"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:74 C/gs-use-windows-workspaces.page:32
+#: C/getting-started.page:74 C/getting-started.page:224
+#: C/gs-use-windows-workspaces.page:32
 msgid ""
-"To maximize a window, grab the window's titlebar and drag it to the top of "
+"To maximize a window, grab the window’s titlebar and drag it to the top of "
 "the screen."
 msgstr ""
 "Když chcete okno maximalizovat, chytněte jej za záhlaví a táhněte jej k "
 "horní části obrazovky."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:78 C/gs-use-windows-workspaces.page:36
+#: C/getting-started.page:78 C/getting-started.page:228
+#: C/gs-use-windows-workspaces.page:36
 msgid "When the screen is highlighted, release the window."
 msgstr "Až se obrazovka zvýrazní, okno upusťte."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:81 C/gs-use-windows-workspaces.page:39
+#: C/getting-started.page:81 C/getting-started.page:231
+#: C/gs-use-windows-workspaces.page:39
 msgid ""
-"To unmaximize a window, grab the window's titlebar and drag it away from the "
+"To unmaximize a window, grab the window’s titlebar and drag it away from the "
 "edges of the screen."
 msgstr ""
 "Když chcete maximalizaci okna zrušit, chyťte jej za záhlaví a přetáhněte jej "
 "pryč od okrajů obrazovky."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:85 C/gs-use-windows-workspaces.page:43
+#: C/getting-started.page:85 C/getting-started.page:235
+#: C/gs-use-windows-workspaces.page:43
 msgid ""
 "You can also click the top bar to drag the window away and unmaximize it."
 msgstr ""
@@ -150,9 +155,10 @@ msgstr ""
 
 #. (itstool) path: div/p
 #: C/getting-started.page:89 C/getting-started.page:163
-#: C/gs-switch-tasks.page:42 C/gs-use-windows-workspaces.page:47
+#: C/getting-started.page:239 C/gs-switch-tasks.page:42
+#: C/gs-use-windows-workspaces.page:47
 msgid ""
-"To maximize a window along the left side of the screen, grab the window's "
+"To maximize a window along the left side of the screen, grab the window’s "
 "titlebar and drag it to the left."
 msgstr ""
 "Aby se okno maximalizovalo podél levé strany obrazovky, uchopte jej za "
@@ -161,15 +167,17 @@ msgstr ""
 #. (itstool) path: div/p
 #: C/getting-started.page:93 C/getting-started.page:101
 #: C/getting-started.page:167 C/getting-started.page:175
+#: C/getting-started.page:243 C/getting-started.page:251
 #: C/gs-switch-tasks.page:46 C/gs-switch-tasks.page:54
 #: C/gs-use-windows-workspaces.page:51 C/gs-use-windows-workspaces.page:59
 msgid "When half of the screen is highlighted, release the window."
 msgstr "Až se zvýrazní polovina obrazovky, okno upusťte."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:97 C/gs-use-windows-workspaces.page:55
+#: C/getting-started.page:97 C/getting-started.page:247
+#: C/gs-use-windows-workspaces.page:55
 msgid ""
-"To maximize a window along the right side of the screen, grab the window's "
+"To maximize a window along the right side of the screen, grab the window’s "
 "titlebar and drag it to the right."
 msgstr ""
 "Obdobně pro maximalizaci okna podél pravé strany obrazovky jej uchopte za "
@@ -177,8 +185,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:105 C/gs-use-windows-workspaces.page:63
-#: C/gs-use-windows-workspaces.page:134
+#: C/getting-started.page:105 C/getting-started.page:255
+#: C/gs-use-windows-workspaces.page:63 C/gs-use-windows-workspaces.page:134
 msgid ""
 "To maximize a window using the keyboard, hold down the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
@@ -187,7 +195,8 @@ msgstr ""
 "keyboard-key-super\">Super</key> a zmáčknutím <key>↑</key>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:110 C/gs-use-windows-workspaces.page:68
+#: C/getting-started.page:110 C/getting-started.page:260
+#: C/gs-use-windows-workspaces.page:68
 msgid ""
 "To restore the window to its unmaximized size, hold down the <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
@@ -199,8 +208,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:115 C/gs-use-windows-workspaces.page:73
-#: C/gs-use-windows-workspaces.page:148
+#: C/getting-started.page:115 C/getting-started.page:265
+#: C/gs-use-windows-workspaces.page:73 C/gs-use-windows-workspaces.page:148
 msgid ""
 "To maximize a window along the right side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
@@ -212,8 +221,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:120 C/gs-use-windows-workspaces.page:78
-#: C/gs-use-windows-workspaces.page:151
+#: C/getting-started.page:120 C/getting-started.page:270
+#: C/gs-use-windows-workspaces.page:78 C/gs-use-windows-workspaces.page:151
 msgid ""
 "To maximize a window along the left side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
@@ -224,7 +233,8 @@ msgstr ""
 "<key>←</key>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:125 C/gs-use-windows-workspaces.page:83
+#: C/getting-started.page:125 C/getting-started.page:275
+#: C/gs-use-windows-workspaces.page:83
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
@@ -235,7 +245,8 @@ msgstr ""
 "key><key>Page Down</key></keyseq>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:130 C/gs-use-windows-workspaces.page:88
+#: C/getting-started.page:130 C/getting-started.page:280
+#: C/gs-use-windows-workspaces.page:88
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
@@ -269,7 +280,7 @@ msgstr "Kliknutím na okno se přepnete na příslušnou úlohu."
 #. (itstool) path: div/p
 #: C/getting-started.page:171 C/gs-switch-tasks.page:50
 msgid ""
-"To maximize a window along the right side, grab the window's titlebar and "
+"To maximize a window along the right side, grab the window’s titlebar and "
 "drag it to the right."
 msgstr ""
 "Aby se okno maximalizovalo podél pravé strany obrazovky, uchopte jej za "
@@ -330,99 +341,57 @@ msgstr ""
 "<key>Enter</key> a tím se na ni přepnete."
 
 #. (itstool) path: caption/desc
-#. (itstool) path: page/title
-#: C/getting-started.page:214 C/gs-respond-messages.page:21
-msgid "Respond to messages"
-msgstr "Odpovídání na zprávy"
+#: C/getting-started.page:295
+msgid "Change wallpaper"
+msgstr "Změna tapety"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:220 C/gs-animation.xml:7
-#: C/gs-respond-messages.page:29
-msgid "Responding to Messages"
-msgstr "Odpovídání na zprávy"
+#: C/getting-started.page:300 C/gs-animation.xml:6
+#: C/gs-change-wallpaper.page:28
+msgid "Changing Wallpaper"
+msgstr "Změna tapety na pozadí"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:303 C/gs-change-wallpaper.page:31
+msgid ""
+"Click the system menu on the right side of the top bar and press the "
+"settings button."
+msgstr ""
+"Klikněte na systémovou nabídku na pravé straně horní lišty a zmáčkněte "
+"tlačítko nastavení."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:307 C/gs-change-wallpaper.page:35
+msgid "Select <gui>Background</gui>."
+msgstr "Vyberte <gui>Pozadí</gui>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:310 C/gs-change-wallpaper.page:38
+msgid "Click the current background image."
+msgstr "Klikněte na aktuální obrázek pozadí."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:223 C/gs-respond-messages.page:32
-#: C/gs-respond-messages.page:80
-msgid ""
-"Move your mouse over the chat message that appears near the top of the "
-"screen."
-msgstr ""
-"Přejeďte ukazatelem myši na zprávu z diskuze, která se objevila v horní "
-"části obrazovky."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:227 C/gs-respond-messages.page:36
-msgid ""
-"Start typing your reply and when finished, press <key>Enter </key> to send "
-"the reply."
-msgstr ""
-"Začněte psát svou odpověď a po dokončení ji odešlete zmáčknutím <key>Enter</"
-"key>."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:231 C/gs-respond-messages.page:40
-msgid "Close the chat message."
-msgstr "Zavřete zprávu z diskuze."
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:234 C/gs-animation.xml:9
-#: C/gs-respond-messages.page:43
-msgid "Delayed Response"
-msgstr "Opožděná odpověď"
-
-#. (itstool) path: div/p
-#: C/getting-started.page:237 C/gs-respond-messages.page:46
-msgid ""
-"A chat message near the top of the screen disappears after a while if you do "
-"not move your mouse over the message."
-msgstr ""
-"V případě, že ukazatelem myši nenajedete na zprávu v horní části obrazovky, "
-"zpráva po chvíli zmizí."
+#: C/getting-started.page:313 C/gs-change-wallpaper.page:41
+#: C/gs-change-wallpaper.page:64
+msgid "Click the background image you want to use."
+msgstr "Klikněte na obrázek, který chcete pro pozadí použít."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:241 C/gs-respond-messages.page:50
-#: C/gs-respond-messages.page:96
-msgid "To get back to your unanswered message, click the clock on the top bar."
-msgstr ""
-"Abyste se k nezodpovězené zprávě znovu dostali, klikněte na hodiny na horní "
-"liště."
+#: C/getting-started.page:316 C/gs-change-wallpaper.page:44
+#: C/gs-change-wallpaper.page:65
+msgid "Click the <gui>Select</gui> button."
+msgstr "Klikněte na tlačítko <gui>Vybrat</gui>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:245 C/gs-respond-messages.page:54
-msgid "From the notification list, choose your message."
-msgstr "V seznamu upozornění zvolte svoji zprávu."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:248 C/getting-started.page:260
-#: C/gs-respond-messages.page:57 C/gs-respond-messages.page:69
-msgid "Start typing your reply."
-msgstr "Začněte psát odpověď."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:251 C/gs-respond-messages.page:60
-msgid ""
-"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
-msgstr ""
-"Pro zobrazení seznamu upozornění, zmáčkněte <keyseq><key href=\"help:gnome-"
-"help/keyboard-key-super\">Super</key><key>V</key></keyseq>."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:256 C/gs-respond-messages.page:65
-msgid ""
-"Use the arrow keys to select the message you want to reply to, and press "
-"<key>Enter</key>."
-msgstr ""
-"Pomocí klávesových šipek vyberte zprávu, na kterou chcete odpovědět, a "
-"zmáčkněte <key>Enter</key>."
+#: C/getting-started.page:319 C/gs-change-wallpaper.page:47
+msgid "Close the <gui>Background</gui> window."
+msgstr "Zavřete okno <gui>Pozadí</gui>."
 
 #. (itstool) path: links/title
-#: C/getting-started.page:269
+#: C/getting-started.page:330
 msgid "Common Tasks"
 msgstr "Obvyklé činnosti"
 
@@ -433,9 +402,15 @@ msgstr "Vítejte"
 
 #. (itstool) path: titles/t
 #. (itstool) path: div/p
-#: C/gs-animation.xml:6 C/gs-change-wallpaper.page:28
-msgid "Changing Wallpaper"
-msgstr "Změna tapety na pozadí"
+#: C/gs-animation.xml:7 C/gs-respond-messages.page:30
+msgid "Responding to Messages"
+msgstr "Odpovídání na zprávy"
+
+#. (itstool) path: titles/t
+#. (itstool) path: div/p
+#: C/gs-animation.xml:9 C/gs-respond-messages.page:44
+msgid "Delayed Response"
+msgstr "Opožděná odpověď"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:11
@@ -564,7 +539,7 @@ msgstr "Můžeme začít s poradou?"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:39
-msgid "I'll be there in a sec..."
+msgid "I’ll be there in a sec…"
 msgstr "Budu tam za okamžik..."
 
 #. (itstool) path: titles/t
@@ -620,12 +595,12 @@ msgstr "Časové pásmo automaticky"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:53
-msgid "14 October 2013, 20:00"
+msgid "14 October 2013, 20∶00"
 msgstr "14. říjen 2013, 20∶00"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:54
-msgid "14 October 2013, 14:00"
+msgid "14 October 2013, 14∶00"
 msgstr "14. říjen 2013, 14∶00"
 
 #. (itstool) path: credit/name
@@ -677,7 +652,7 @@ msgstr ""
 "V nabídce vyberte <guiseq><gui>Internet</gui> <gui>Firefox</gui></guiseq>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:46 C/gs-browse-web.page:64
+#: C/gs-browse-web.page:47 C/gs-browse-web.page:65
 #: C/gs-launch-applications.page:64
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
@@ -687,7 +662,7 @@ msgstr ""
 "obrazovky a zobrazí se vám <gui>Přehled činností</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:49
+#: C/gs-browse-web.page:50
 msgid ""
 "Select the <app>Firefox</app> browser icon from the bar on the left-hand "
 "side of the screen."
@@ -696,7 +671,7 @@ msgstr ""
 "app>."
 
 #. (itstool) path: note/p
-#: C/gs-browse-web.page:53
+#: C/gs-browse-web.page:54
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>Firefox</em> in the <gui>Activities "
@@ -706,7 +681,7 @@ msgstr ""
 "\">prostým napsaním</link> <em>firefox</em> v <gui>Přehledu činností</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:67
+#: C/gs-browse-web.page:68
 msgid ""
 "Select the <app>Web</app> browser icon from the bar on the left-hand side of "
 "the screen."
@@ -714,7 +689,7 @@ msgstr ""
 "Na liště po levé straně obrazovky vyberte ikonu prohlížeče <app>WWW</app>."
 
 #. (itstool) path: note/p
-#: C/gs-browse-web.page:71
+#: C/gs-browse-web.page:72
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
@@ -724,7 +699,7 @@ msgstr ""
 "\">prostým napsaním</link> <em>www</em> v <gui>Přehledu činností</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:90
+#: C/gs-browse-web.page:92
 msgid ""
 "Click the address bar at the top of the browser window and start typing in "
 "the website you want to visit."
@@ -733,7 +708,7 @@ msgstr ""
 "adresu webu, který chcete navštívit."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:92
+#: C/gs-browse-web.page:94
 msgid ""
 "Typing in a website starts searching for it in the browser history and "
 "bookmarks, so you do not need to remember the exact address."
@@ -742,7 +717,7 @@ msgstr ""
 "záložkách, takže si adresu nepotřebujete pamatovat přesně."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:95
+#: C/gs-browse-web.page:97
 msgid ""
 "If the website is found in the history or bookmarks, a drop-down list is "
 "shown below the address bar."
@@ -751,7 +726,7 @@ msgstr ""
 "lištou rozbalovací seznam."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:97
+#: C/gs-browse-web.page:99
 msgid ""
 "From the drop-down list, you can quickly select a website using the arrow "
 "keys."
@@ -760,7 +735,7 @@ msgstr ""
 "klávesových šipek."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:100
+#: C/gs-browse-web.page:102
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
 msgstr ""
 "Až si webovou stránku vyberete, stačí pro její navštívení zmáčknout "
@@ -869,42 +844,6 @@ msgstr "Vysvětlení, jak změnit tapetu"
 #: C/gs-change-wallpaper.page:20 C/gs-change-wallpaper.page:55
 msgid "Change the wallpaper"
 msgstr "Změna tapety"
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:31
-msgid ""
-"Click the system menu on the right side of the top bar and press the "
-"settings button."
-msgstr ""
-"Klikněte na systémovou nabídku na pravé straně horní lišty a zmáčkněte "
-"tlačítko nastavení."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:35
-msgid "Select <gui>Background</gui>."
-msgstr "Vyberte <gui>Pozadí</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:38
-msgid "Click the current background image."
-msgstr "Klikněte na aktuální obrázek pozadí."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:64
-msgid "Click the background image you want to use."
-msgstr "Klikněte na obrázek, který chcete pro pozadí použít."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:65
-msgid "Click the <gui>Select</gui> button."
-msgstr "Klikněte na tlačítko <gui>Vybrat</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:47
-msgid "Close the <gui>Background</gui> window."
-msgstr "Zavřete okno <gui>Pozadí</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
@@ -1060,8 +999,8 @@ msgstr "Časové pásmo automaticky"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:113
 #, no-wrap
-msgid "September 1st 2015, 9:51 AM"
-msgstr "1. září 2015, 17:51"
+msgid "September 1st 2015, 9∶51 AM"
+msgstr "1. září 2015, 17∶51"
 
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:114
@@ -1408,8 +1347,8 @@ msgstr "Dokumenty"
 #: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
 #: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
-msgid "14:30"
-msgstr "14:30"
+msgid "14∶30"
+msgstr "14∶30"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:328
@@ -1561,24 +1500,98 @@ msgid "This work is licensed under a <_:link-1/>."
 msgstr "Toto dílo je licencované pod <_:link-1/>."
 
 #. (itstool) path: info/title
-#: C/gs-respond-messages.page:15
+#: C/gs-respond-messages.page:18
 msgctxt "link:trail"
 msgid "Respond to messages"
 msgstr "Odpovídání na zprávy"
 
 #. (itstool) path: info/title
-#: C/gs-respond-messages.page:17
+#: C/gs-respond-messages.page:19
 msgctxt "link:seealso"
 msgid "A tutorial on responding to messages"
 msgstr "Vysvětlení, jak odpovídat na zprávy"
 
+#. (itstool) path: page/title
+#: C/gs-respond-messages.page:22
+msgid "Respond to messages"
+msgstr "Odpovídání na zprávy"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:33 C/gs-respond-messages.page:81
+msgid ""
+"Move your mouse over the chat message that appears near the top of the "
+"screen."
+msgstr ""
+"Přejeďte ukazatelem myši na zprávu z diskuze, která se objevila v horní "
+"části obrazovky."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:37
+msgid ""
+"Start typing your reply and when finished, press <key>Enter </key> to send "
+"the reply."
+msgstr ""
+"Začněte psát svou odpověď a po dokončení ji odešlete zmáčknutím <key>Enter</"
+"key>."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:41
+msgid "Close the chat message."
+msgstr "Zavřete zprávu z diskuze."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:47
+msgid ""
+"A chat message near the top of the screen disappears after a while if you do "
+"not move your mouse over the message."
+msgstr ""
+"V případě, že ukazatelem myši nenajedete na zprávu v horní části obrazovky, "
+"zpráva po chvíli zmizí."
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:51 C/gs-respond-messages.page:97
+msgid "To get back to your unanswered message, click the clock on the top bar."
+msgstr ""
+"Abyste se k nezodpovězené zprávě znovu dostali, klikněte na hodiny na horní "
+"liště."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:55
+msgid "From the notification list, choose your message."
+msgstr "V seznamu upozornění zvolte svoji zprávu."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:58 C/gs-respond-messages.page:70
+msgid "Start typing your reply."
+msgstr "Začněte psát odpověď."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:61
+msgid ""
+"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
+msgstr ""
+"Pro zobrazení seznamu upozornění, zmáčkněte <keyseq><key href=\"help:gnome-"
+"help/keyboard-key-super\">Super</key><key>V</key></keyseq>."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:66
+msgid ""
+"Use the arrow keys to select the message you want to reply to, and press "
+"<key>Enter</key>."
+msgstr ""
+"Pomocí klávesových šipek vyberte zprávu, na kterou chcete odpovědět, a "
+"zmáčkněte <key>Enter</key>."
+
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:77
+#: C/gs-respond-messages.page:78
 msgid "Respond to a chat message with the mouse"
 msgstr "Odpovídání na zprávu z diskuze pomocí myši"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:82
+#: C/gs-respond-messages.page:83
 msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send "
 "the reply."
@@ -1587,7 +1600,7 @@ msgstr ""
 "key>."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:84
+#: C/gs-respond-messages.page:85
 msgid ""
 "To close the chat message, click the close button at the top right corner of "
 "the chat message."
@@ -1596,12 +1609,12 @@ msgstr ""
 "zprávy."
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:91
+#: C/gs-respond-messages.page:92
 msgid "Delayed response to a chat message using the mouse"
 msgstr "Odložená odpověď na zprávu z diskuze pomocí myši"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:94
+#: C/gs-respond-messages.page:95
 msgid ""
 "When a chat message appears near the top of the screen and you do not move "
 "your mouse over the message, it disappears after a while."
@@ -1610,7 +1623,7 @@ msgstr ""
 "nepřesunete ukazatel, zpráva po chvíli zmizí."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:98
+#: C/gs-respond-messages.page:99
 msgid ""
 "From the notification list, choose the message you want to reply to, and "
 "click it."
@@ -1619,17 +1632,17 @@ msgstr ""
 "na ni."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:100 C/gs-respond-messages.page:114
+#: C/gs-respond-messages.page:101 C/gs-respond-messages.page:115
 msgid "When the chat message is shown, start typing your reply."
 msgstr "Až se zpráva z diskuze zobrazí, začněte psát svou odpověď."
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:106
+#: C/gs-respond-messages.page:107
 msgid "Delayed response to a chat message using the keyboard"
 msgstr "Odložená odpověď na zprávu z diskuze pomocí klávesnice"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:108
+#: C/gs-respond-messages.page:109
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq> <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
@@ -1640,7 +1653,7 @@ msgstr ""
 "zobrazí se vám seznam nezodpovězených zpráv."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:112
+#: C/gs-respond-messages.page:113
 msgid ""
 "Use the arrow keys to select the notification you want to reply to, and "
 "press <key>Enter</key>."
@@ -1669,8 +1682,8 @@ msgstr "Účty"
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:247
 #, no-wrap
-msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
-msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;kon..."
+msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:248
@@ -1799,7 +1812,7 @@ msgstr "Dláždění oken"
 #. (itstool) path: item/p
 #: C/gs-switch-tasks.page:122 C/gs-use-windows-workspaces.page:118
 msgid ""
-"To maximize a window along a side of the screen, grab the window's titlebar "
+"To maximize a window along a side of the screen, grab the window’s titlebar "
 "and drag it to the left or right side of the screen."
 msgstr ""
 "Když chcete okno maximalizovat podél okraje obrazovky, uchopte jej za "
@@ -2251,7 +2264,7 @@ msgstr "Maximalizace a zrušení maximalizace okna"
 #: C/gs-use-windows-workspaces.page:102
 msgid ""
 "To maximize a window so that it takes up all of the space on your desktop, "
-"grab the window's titlebar and drag it to the top of the screen."
+"grab the window’s titlebar and drag it to the top of the screen."
 msgstr ""
 "Pokud chcete okno maximalizovat tak, aby zabíralo celý prostor vaší pracovní "
 "plochy, chyťte jej za záhlaví a táhněte k horní části obrazovky."
@@ -2264,7 +2277,7 @@ msgstr "Až se obrazovka zvýrazní, okno upusťte a ono se maximalizuje."
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:107
 msgid ""
-"To restore a window to its unmaximized size, grab the window's titlebar and "
+"To restore a window to its unmaximized size, grab the window’s titlebar and "
 "drag it away from the edges of the screen."
 msgstr ""
 "Když budete chtít obnovit původní nemaximalizovanou velikost okna, chyťte "
