@@ -1,0 +1,2388 @@
+# Serbian translation for gnome-getting-started-docs.
+# Copyright (C) 2016 gnome-getting-started-docs's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome-getting-started-docs package.
+# Marko M. Kostić <marko.m.kostic@gmail.com>, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-getting-started-docs master\n"
+"POT-Creation-Date: 2017-08-29 18:19+0000\n"
+"PO-Revision-Date: 2017-08-27 18:33+0200\n"
+"Last-Translator: Marko M. Kostić <marko.m.kostic@gmail.com>\n"
+"Language-Team: Serbian\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Project-Style: gnome\n"
+
+#. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
+msgctxt "_"
+msgid "translator-credits"
+msgstr ""
+"Marko M. Kostić <marko.m.kostic@gmail.com>\n"
+"\n"
+"http://prevod.org — prevod na srpski jezik"
+
+#. (itstool) path: info/desc
+#: C/getting-started.page:11
+msgid "New to GNOME? Learn how to get around."
+msgstr "Prvi put koristite Gnom? Naučite da ga koristite."
+
+#. (itstool) path: info/title
+#: C/getting-started.page:12
+msgctxt "link"
+msgid "Getting Started with GNOME"
+msgstr "Početak korišćenja Gnoma"
+
+#. (itstool) path: info/title
+#: C/getting-started.page:13
+msgctxt "text"
+msgid "Getting Started"
+msgstr "Početak korišćenja"
+
+#. (itstool) path: page/title
+#. (itstool) path: titles/t
+#: C/getting-started.page:16 C/gs-animation.xml:5
+msgid "Getting Started"
+msgstr "Početak korišćenja"
+
+#. (itstool) path: caption/desc
+#. (itstool) path: page/title
+#: C/getting-started.page:25 C/gs-launch-applications.page:22
+msgid "Launch applications"
+msgstr "Pokretanje programa"
+
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:30 C/gs-animation.xml:4
+#: C/gs-launch-applications.page:30
+msgid "Launching Applications"
+msgstr "Pokretanje programa"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:33 C/getting-started.page:155
+#: C/gs-launch-applications.page:33 C/gs-switch-tasks.page:34
+msgid ""
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen."
+msgstr ""
+"Pomerite pokazivač miša u gornji levi ugao ekrana gde piše <gui>Aktivnosti</"
+"gui>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:37 C/gs-launch-applications.page:37
+msgid "Click the <gui>Show Applications</gui> icon."
+msgstr "Kliknite na stavku <gui>Prikaži programe</gui>"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:40 C/gs-launch-applications.page:40
+msgid "Click the application you want to run, for example, Help."
+msgstr "Kliknite na program koji želite da pokrenete. Na primer, Pomoć."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:44 C/gs-launch-applications.page:44
+msgid ""
+"Alternatively, use the keyboard to open the <gui>Activities Overview</gui> "
+"by pressing the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
+"key."
+msgstr ""
+"Postoji i drugi način da otvorite <gui>pregled aktivnosti</gui> a to je "
+"pomoću tastature. Da biste to uradili pritisnite <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> taster."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:49 C/gs-launch-applications.page:49
+msgid "Start typing the name of the application you want to launch."
+msgstr "Krenite sa kucanjem naziva programa koji želite da pokrenete."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:53 C/gs-launch-applications.page:53
+msgid "Press <key>Enter</key> to launch the application."
+msgstr "Pritisnite taster <key>Enter</key> da biste pokrenuli program."
+
+#. (itstool) path: caption/desc
+#. (itstool) path: page/title
+#: C/getting-started.page:66 C/getting-started.page:216
+#: C/gs-use-windows-workspaces.page:21
+msgid "Use windows and workspaces"
+msgstr "Korišćenje prozora i radnih prostora"
+
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:71 C/getting-started.page:221 C/gs-animation.xml:10
+#: C/gs-use-windows-workspaces.page:29
+msgid "Windows and Workspaces"
+msgstr "Prozori i radni prostori"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:74 C/getting-started.page:224
+#: C/gs-use-windows-workspaces.page:32
+msgid ""
+"To maximize a window, grab the window’s titlebar and drag it to the top of "
+"the screen."
+msgstr ""
+"Da biste uvećali prozor, zgrabite naslovnu traku prozora i povucite je na "
+"vrh ekrana."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:78 C/getting-started.page:228
+#: C/gs-use-windows-workspaces.page:36
+msgid "When the screen is highlighted, release the window."
+msgstr "Kada se ekran istakne, pustite prozor."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:81 C/getting-started.page:231
+#: C/gs-use-windows-workspaces.page:39
+msgid ""
+"To unmaximize a window, grab the window’s titlebar and drag it away from the "
+"edges of the screen."
+msgstr ""
+"Da biste poništili uvećanje prozora, zgrabite naslovnu traku prozora i "
+"udaljite je od ivica ekrana."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:85 C/getting-started.page:235
+#: C/gs-use-windows-workspaces.page:43
+msgid ""
+"You can also click the top bar to drag the window away and unmaximize it."
+msgstr ""
+"Takođe možete kliknuti na gornju traku da biste povukli prozor van i "
+"poništili uvećanje prozora."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:89 C/getting-started.page:163
+#: C/getting-started.page:239 C/gs-switch-tasks.page:42
+#: C/gs-use-windows-workspaces.page:47
+msgid ""
+"To maximize a window along the left side of the screen, grab the window’s "
+"titlebar and drag it to the left."
+msgstr ""
+"Da biste uvećali prozor uz levu stranu ekrana, zgrabite naslovnu traku "
+"prozora i povucite je nalevo."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:93 C/getting-started.page:101
+#: C/getting-started.page:167 C/getting-started.page:175
+#: C/getting-started.page:243 C/getting-started.page:251
+#: C/gs-switch-tasks.page:46 C/gs-switch-tasks.page:54
+#: C/gs-use-windows-workspaces.page:51 C/gs-use-windows-workspaces.page:59
+msgid "When half of the screen is highlighted, release the window."
+msgstr "Kada se polovina ekrana istakne, pustite prozor."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:97 C/getting-started.page:247
+#: C/gs-use-windows-workspaces.page:55
+msgid ""
+"To maximize a window along the right side of the screen, grab the window’s "
+"titlebar and drag it to the right."
+msgstr ""
+"Da biste uvećali prozor uz desnu stranu ekrana, zgrabite naslovnu traku "
+"prozora i povucite je nadesno."
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:105 C/getting-started.page:255
+#: C/gs-use-windows-workspaces.page:63 C/gs-use-windows-workspaces.page:134
+msgid ""
+"To maximize a window using the keyboard, hold down the <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
+msgstr ""
+"Da biste uvećali prozor koristeći tastaturu, držite pritisnut taster <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key>, a zatim pritisnite "
+"<key>↑</key>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:110 C/getting-started.page:260
+#: C/gs-use-windows-workspaces.page:68
+msgid ""
+"To restore the window to its unmaximized size, hold down the <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
+"key>."
+msgstr ""
+"Da biste poništili uvećanje prozora, držite pritisnut taster <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key>, a zatim pritisnite <key>↓</key>."
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:115 C/getting-started.page:265
+#: C/gs-use-windows-workspaces.page:73 C/gs-use-windows-workspaces.page:148
+msgid ""
+"To maximize a window along the right side of the screen, hold down the <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
+"<key>→</key>."
+msgstr ""
+"Da biste uvećali prozor uz desnu stranu ekrana, držite pritisnut taster <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key>, a zatim pritisnite "
+"taster <key>→</key>."
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:120 C/getting-started.page:270
+#: C/gs-use-windows-workspaces.page:78 C/gs-use-windows-workspaces.page:151
+msgid ""
+"To maximize a window along the left side of the screen, hold down the <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
+"<key>←</key>."
+msgstr ""
+"Da biste uvećali prozor uz levu stranu ekrana, držite pritisnut taster <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key>, a zatim pritisnite "
+"taster <key>←</key>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:125 C/getting-started.page:275
+#: C/gs-use-windows-workspaces.page:83
+msgid ""
+"To move to a workspace which is below the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Page Down</key></keyseq>."
+msgstr ""
+"Da se premestite na radni prostor koji se nalazi ispod trenutnog radnog "
+"prostora, pritisnite <keyseq><key href=\"help:gnome-help/keyboard-key-super"
+"\">Super </key><key>Page Down</key></keyseq>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:130 C/getting-started.page:280
+#: C/gs-use-windows-workspaces.page:88
+msgid ""
+"To move to a workspace which is above the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Page Up</key></keyseq>."
+msgstr ""
+"Da se premestite na radni prostor koji se nalazi iznad trenutnog radnog "
+"prostora, pritisnite <keyseq><key href=\"help:gnome-help/keyboard-key-super"
+"\">Super </key><key>Page Up</key></keyseq>."
+
+#. (itstool) path: caption/desc
+#. (itstool) path: page/title
+#. (itstool) path: section/title
+#: C/getting-started.page:146 C/gs-switch-tasks.page:22
+#: C/gs-switch-tasks.page:90
+msgid "Switch tasks"
+msgstr "Prebacivanje između zadataka"
+
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:151 C/gs-animation.xml:8 C/gs-switch-tasks.page:30
+msgid "Switching Tasks"
+msgstr "Prebacivanje između zadataka"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:160 C/gs-switch-tasks.page:39
+#: C/gs-switch-tasks.page:99
+msgid "Click a window to switch to that task."
+msgstr "Kliknite na prozor da biste se prebacili na taj zadatak."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:171 C/gs-switch-tasks.page:50
+msgid ""
+"To maximize a window along the right side, grab the window’s titlebar and "
+"drag it to the right."
+msgstr ""
+"Da biste uvećali prozor uz desnu stranu, zgrabite naslovnu traku prozora i "
+"povucite je nadesno."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:179 C/gs-switch-tasks.page:58
+msgid ""
+"Press <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
+"key><key> Tab</key></keyseq> to show the <gui>window switcher</gui>."
+msgstr ""
+"Pritisnite <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
+"key><key> Tab</key></keyseq> da biste prikazali <gui>menjač prozora</gui>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:184 C/gs-switch-tasks.page:63
+msgid ""
+"Release <key href=\"help:gnome-help/keyboard-key-super\">Super </key> to "
+"select the next highlighted window."
+msgstr ""
+"Pustite taster <key href=\"help:gnome-help/keyboard-key-super\">Super </key> "
+"da biste izabrali sledeći istaknuti prozor."
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:189 C/gs-switch-tasks.page:68
+#: C/gs-switch-tasks.page:144
+msgid ""
+"To cycle through the list of open windows, do not release <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> but hold it down, and press "
+"<key>Tab</key>."
+msgstr ""
+"Da biste prošli kroz spisak otvorenih prozora, ne puštajte taster <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key> već ga držite pritisnutim "
+"i pritisnite taster <key>Tab</key>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:194 C/gs-switch-tasks.page:73
+msgid ""
+"Press the <key href=\"help:gnome-help/keyboard-key-super\">Super </key> key "
+"to show the <gui>Activities Overview</gui>."
+msgstr ""
+"Pritisnite <key href=\"help:gnome-help/keyboard-key-super\">Super </key> "
+"taster da bi vam se prikazao <gui>pregled aktivnosti</gui>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:198 C/gs-switch-tasks.page:77
+msgid "Start typing the name of the application you want to switch to."
+msgstr "Počnite sa kucanjem naziva programa na koji želite da se prebacite."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:202 C/gs-switch-tasks.page:81
+msgid ""
+"When the application appears as the first result, press <key> Enter</key> to "
+"switch to it."
+msgstr ""
+"Kada se program pojavi kao prvi rezultat, pritisnite taster <key> Enter</"
+"key> da biste se prebacili na njega."
+
+#. (itstool) path: caption/desc
+#: C/getting-started.page:295
+msgid "Change wallpaper"
+msgstr "Promena pozadine"
+
+#. (itstool) path: div/p
+#. (itstool) path: titles/t
+#: C/getting-started.page:300 C/gs-animation.xml:6
+#: C/gs-change-wallpaper.page:28
+msgid "Changing Wallpaper"
+msgstr "Promena pozadine"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:303 C/gs-change-wallpaper.page:31
+msgid ""
+"Click the system menu on the right side of the top bar and press the "
+"settings button."
+msgstr ""
+"Kliknite na sistemski izbornik u desnoj strani gornje trake i pritisnite "
+"dugme za podešavanja."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:307 C/gs-change-wallpaper.page:35
+msgid "Select <gui>Background</gui>."
+msgstr "Izaberite <gui>Pozadina</gui>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:310 C/gs-change-wallpaper.page:38
+msgid "Click the current background image."
+msgstr "Kliknite na trenutnu sliku pozadine."
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:313 C/gs-change-wallpaper.page:41
+#: C/gs-change-wallpaper.page:64
+msgid "Click the background image you want to use."
+msgstr "Kliknite na sliku koju želite da koristite kao pozadinu."
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/getting-started.page:316 C/gs-change-wallpaper.page:44
+#: C/gs-change-wallpaper.page:65
+msgid "Click the <gui>Select</gui> button."
+msgstr "Kliknite na dugme <gui>Izaberi</gui>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:319 C/gs-change-wallpaper.page:47
+msgid "Close the <gui>Background</gui> window."
+msgstr "Zatvorite prozor <gui>Pozadina</gui>."
+
+#. (itstool) path: links/title
+#: C/getting-started.page:330
+msgid "Common Tasks"
+msgstr "Česte radnje"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:3
+msgid "Welcome"
+msgstr "Dobro došli"
+
+#. (itstool) path: titles/t
+#. (itstool) path: div/p
+#: C/gs-animation.xml:7 C/gs-respond-messages.page:30
+msgid "Responding to Messages"
+msgstr "Odgovaranje na poruke"
+
+#. (itstool) path: titles/t
+#. (itstool) path: div/p
+#: C/gs-animation.xml:9 C/gs-respond-messages.page:44
+msgid "Delayed Response"
+msgstr "Odloženo odgovaranje"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:11
+msgid "Changing Date, Time and Timezone"
+msgstr "Promena datuma, vremena i vremenske zone"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:12
+msgid "Maximize"
+msgstr "Uvećaj"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:13
+msgid "Restore"
+msgstr "Vrati"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:14
+msgid "Left half of screen"
+msgstr "Leva polovina ekrana"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:15
+msgid "Workspace down"
+msgstr "Radni prostor dole"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:16
+msgid "Workspace up"
+msgstr "Radni prostor gore"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:17
+msgid "Right half of screen"
+msgstr "Desna polovina ekrana"
+
+#. (itstool) path: titles/t
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:198
+#: C/gs-search2.svg:154 C/gs-thumb-changing-wallpaper.svg:54
+#: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-responding-to-messages.svg:51
+#: C/gs-thumb-task-switching.svg:167 C/gs-thumb-timezone.svg:56
+#: C/gs-thumb-windows-and-workspaces.svg:104 C/gs-web-browser1-firefox.svg:122
+#: C/gs-web-browser1.svg:122
+#, no-wrap
+msgid "Activities"
+msgstr "Aktivnosti"
+
+#. (itstool) path: titles/t
+#. Translators: Enter is the name of the key.
+#: C/gs-animation.xml:20
+msgid "Enter"
+msgstr "Enter"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:21
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:22
+msgid "Alt"
+msgstr "Alt"
+
+#. (itstool) path: titles/t
+#. Translators: Tab is the name of the key.
+#: C/gs-animation.xml:24
+msgid "Tab"
+msgstr "Tab"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:25
+msgid "Esc"
+msgstr "Esc"
+
+#. (itstool) path: titles/t
+#. Translators: A GNOME Shell search keyword used to find the yelp help
+#. viewer.
+#: C/gs-animation.xml:28
+msgid "help"
+msgstr "pomoć"
+
+#. (itstool) path: titles/t
+#. Translators: A GNOME Shell search keyword used to find the web browser.
+#: C/gs-animation.xml:31
+msgid "web"
+msgstr "veb"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:32
+msgid "Just start typing…"
+msgstr "Samo počnite sa kucanjem…"
+
+#. (itstool) path: titles/t
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:33 C/gs-go-online1.svg:249
+#: C/gs-thumb-responding-to-messages.svg:89
+#, no-wrap
+msgid "John Doe"
+msgstr "Petar Perić"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:34
+msgid "Settings"
+msgstr "Podešavanja"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:35
+msgid "Background"
+msgstr "Pozadina"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:36
+msgid "Wallpapers"
+msgstr "Pozadine"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:37
+msgid "Select"
+msgstr "Izaberi"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:38
+msgid "Ready for the meeting?"
+msgstr "Spreman za sastanak?"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:39
+msgid "I’ll be there in a sec…"
+msgstr "Tu sam za trenutak…"
+
+#. (itstool) path: titles/t
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:40 C/gs-thumb-responding-to-messages.svg:88
+#, no-wrap
+msgid "Good stuff, thanks again"
+msgstr "Odlična stvar, hvala još jednom"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:41
+msgid "Thanks for the support"
+msgstr "Hvala na podršci"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:42
+msgid "No worries."
+msgstr "Nema problema."
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:43
+msgid "Too kind."
+msgstr "Suviše skromno sa tvoje strane."
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:44
+msgid "Open Calendar"
+msgstr "Otvori kalendar"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:45
+msgid "Open Clocks"
+msgstr "Otvori satove"
+
+#. (itstool) path: titles/t
+#. Translators: The actual string in the GUI reads "Date & Time Settings"
+#. but we cannot use an ampersand here.
+#: C/gs-animation.xml:48
+msgid "Date and Time Settings"
+msgstr "Podešavanja datuma i vremena"
+
+#. (itstool) path: titles/t
+#. Translators: The actual string in the GUI reads "Automatic Date & Time"
+#. but we cannot use an ampersand here.
+#: C/gs-animation.xml:51
+msgid "Automatic Date and Time"
+msgstr "Automatsko vreme i datum"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:52
+msgid "Automatic Timezone"
+msgstr "Automatska vremenska zona"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:53
+msgid "14 October 2013, 20∶00"
+msgstr "14. oktobar 2013. 20:00"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:54
+msgid "14 October 2013, 14∶00"
+msgstr "14. oktobar 2013. 14:00"
+
+#. (itstool) path: credit/name
+#: C/gs-browse-web.page:10 C/gs-change-date-time-timezone.page:9
+#: C/gs-change-wallpaper.page:9 C/gs-connect-online-accounts.page:9
+#: C/gs-get-online.page:9 C/gs-launch-applications.page:9
+#: C/gs-respond-messages.page:9 C/gs-switch-tasks.page:10
+#: C/gs-use-system-search.page:9 C/gs-use-windows-workspaces.page:9
+msgid "Jakub Steiner"
+msgstr "Jakub Štajner (Jakub Steiner)"
+
+#. (itstool) path: credit/name
+#: C/gs-browse-web.page:13 C/gs-change-date-time-timezone.page:12
+#: C/gs-change-wallpaper.page:12 C/gs-connect-online-accounts.page:12
+#: C/gs-get-online.page:12 C/gs-launch-applications.page:12
+#: C/gs-respond-messages.page:12 C/gs-switch-tasks.page:13
+#: C/gs-use-system-search.page:12 C/gs-use-windows-workspaces.page:12
+msgid "Petr Kovar"
+msgstr "Petr Kovar (Petr Kovar)"
+
+#. (itstool) path: info/title
+#: C/gs-browse-web.page:16
+msgctxt "link:trail"
+msgid "Browse the web"
+msgstr "Pregledanje interneta"
+
+#. (itstool) path: info/title
+#: C/gs-browse-web.page:18
+msgctxt "link:seealso"
+msgid "A tutorial on browsing the web"
+msgstr "Uputstvo za pregledanje interneta"
+
+#. (itstool) path: page/title
+#: C/gs-browse-web.page:22
+msgid "Browse the web"
+msgstr "Pregledanje interneta"
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:31
+msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
+msgstr "Kliknite na izbornik <gui>Programi</gui> u gornjem levom delu ekrana."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:33
+msgid ""
+"From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
+"guiseq>."
+msgstr ""
+"Iz izbornika izaberite <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
+"guiseq>."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:47 C/gs-browse-web.page:65
+#: C/gs-launch-applications.page:64
+msgid ""
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen to show the <gui>Activities Overview</gui>."
+msgstr ""
+"Pomerite vaš pokazivač miša u gornji levi ugao ekrana gde piše "
+"<gui>Aktivnosti</gui> da bi vam se prikazao <gui>pregled aktivnosti</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:50
+msgid ""
+"Select the <app>Firefox</app> browser icon from the bar on the left-hand "
+"side of the screen."
+msgstr ""
+"Izaberite <app>Firefox</app> ikonicu pregledača sa trake na levoj strani "
+"ekrana."
+
+#. (itstool) path: note/p
+#: C/gs-browse-web.page:54
+msgid ""
+"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
+"search\">just typing</link> <em>Firefox</em> in the <gui>Activities "
+"Overview</gui>."
+msgstr ""
+"Postoji i drugi način za pokretanje pregledača, <link xref=\"gs-use-system-"
+"search\">kucanjem reči</link> <em>Firefox</em> u <gui>pregledu aktivnosti</"
+"gui>."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:68
+msgid ""
+"Select the <app>Web</app> browser icon from the bar on the left-hand side of "
+"the screen."
+msgstr ""
+"Izaberite ikonicu pregledača <app>Veb</app> u traci na levoj strani ekrana."
+
+#. (itstool) path: note/p
+#: C/gs-browse-web.page:72
+msgid ""
+"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
+"search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
+"gui>."
+msgstr ""
+"Postoji i drugi način da pokrenete pregledač, tako što ćete u <gui>pregledu "
+"aktivnosti </gui> samo <link xref=\"gs-use-system-search\">ukucati</link> "
+"<em>veb</em>."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:92
+msgid ""
+"Click the address bar at the top of the browser window and start typing in "
+"the website you want to visit."
+msgstr ""
+"Kliknite na traku sa adresom u vrhu prozora pregledača i počnite sa kucanjem "
+"veb stranice koju želite da pogledate."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:94
+msgid ""
+"Typing in a website starts searching for it in the browser history and "
+"bookmarks, so you do not need to remember the exact address."
+msgstr ""
+"Kucanjem veb stranice se započinje pretraživanje istorije pregledanja i "
+"obeleživača, tako da nije potrebno zapamtiti tačnu adresu."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:97
+msgid ""
+"If the website is found in the history or bookmarks, a drop-down list is "
+"shown below the address bar."
+msgstr ""
+"Ako Gnom pronađe veb stranicu u istorijatu ili među obeleživačima, padajući "
+"spisak će se prikazati ispod trake sa adresom."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:99
+msgid ""
+"From the drop-down list, you can quickly select a website using the arrow "
+"keys."
+msgstr ""
+"Možete brzo izabrati veb stranicu iz padajućeg spiska koristeći strelice na "
+"tastaturi."
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:102
+msgid "After you have selected a website, press <key>Enter</key> to visit it."
+msgstr ""
+"Nakon što izaberete veb stranicu, pritisnite taster <key>Enter</key> da "
+"biste je otvorili."
+
+#. (itstool) path: info/title
+#: C/gs-change-date-time-timezone.page:15
+msgctxt "link:trail"
+msgid "Change the date, time and timezone"
+msgstr "Promena datuma, vremena i vremenske zone"
+
+#. (itstool) path: info/title
+#: C/gs-change-date-time-timezone.page:17
+msgctxt "link:seealso"
+msgid "A tutorial on changing the date, time and timezone"
+msgstr "Uputstvo o promeni datuma, vremena i vremenske zone"
+
+#. (itstool) path: page/title
+#: C/gs-change-date-time-timezone.page:22
+msgid "Change the date, time and timezone"
+msgstr "Promena datuma, vremena i vremenske zone"
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:28 C/gs-change-wallpaper.page:58
+#: C/gs-connect-online-accounts.page:28 C/gs-get-online.page:63
+#: C/gs-use-system-search.page:83
+msgid ""
+"Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
+"right side of the top bar."
+msgstr ""
+"Kliknite na <gui xref=\"shell-introduction#yourname\">sistemski izbornik</"
+"gui> u desnom delu gornje trake."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:30 C/gs-change-wallpaper.page:60
+#: C/gs-connect-online-accounts.page:30 C/gs-use-system-search.page:85
+msgid "Click the settings button at the bottom left of the menu."
+msgstr "Kliknite na dugme za podešavanja u donjem levom delu izbornika."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:31
+msgid "Select the <gui>Date &amp; Time</gui> panel."
+msgstr "Izaberite površ <gui>Datum i vreme</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:38
+msgid ""
+"Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
+"then click the <gui>Time Zone</gui> item below."
+msgstr ""
+"Postarajte se da stavka <gui>Automatska vremenska zona</gui> bude isključena "
+"i onda kliknite na stavku ispod sa nazivom <gui>Vremenska zona</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:40
+msgid ""
+"Click on your location on the world map. This selects your current city, "
+"which you can also search for in the search box above the map."
+msgstr ""
+"Kliknite na vašu lokaciju, na karti sveta. Ovako birate vaš trenutni grad "
+"koji možete isto naći kucanjem u polju za pretragu iznad karte."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:42
+msgid ""
+"Close the world map window to go back to the <gui>Date &amp; Time</gui>."
+msgstr ""
+"Zatvorite prozor sa kartom sveta i idite nazad u <gui>Datum i vreme</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:44
+msgid ""
+"Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
+"off, and then click the <gui>Date &amp; Time</gui> item below to open the "
+"<gui>Date &amp; Time</gui> window. There you can adjust your date and time "
+"settings by clicking on the <gui>+</gui> or <gui>-</gui> buttons."
+msgstr ""
+"Postarajte se da stavka <gui>Automatsko vreme i datum</gui> bude isključena i "
+"onda kliknite ispod na <gui>Datum i vreme</gui> da biste otvorili prozor "
+"<gui>Datum i vreme</gui>. Tu možete prilagoditi vaša podešavanja datuma i "
+"vremena kliktanjem na dugmiće <gui>+</gui> ili <gui>-</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:49
+msgid ""
+"Close the window to go back to the <gui>Date &amp; Time</gui>, and then "
+"close the panel."
+msgstr ""
+"Zatvorite prozor da biste se vratili na <gui>Datum i vreme</gui> i onda "
+"zatvorite površ."
+
+#. (itstool) path: info/title
+#: C/gs-change-wallpaper.page:15
+msgctxt "link:trail"
+msgid "Change the wallpaper"
+msgstr "Promena pozadine"
+
+#. (itstool) path: info/title
+#: C/gs-change-wallpaper.page:17
+msgctxt "link:seealso"
+msgid "A tutorial on changing the wallpaper"
+msgstr "Uputstvo za promenu pozadine"
+
+#. (itstool) path: page/title
+#. (itstool) path: section/title
+#: C/gs-change-wallpaper.page:20 C/gs-change-wallpaper.page:55
+msgid "Change the wallpaper"
+msgstr "Promena pozadine"
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:61
+msgid "Click the <gui>Background</gui> panel."
+msgstr "Kliknite na površ <gui>Pozadina</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:62
+msgid ""
+"Click the current background image on the left side of the <gui>Background</"
+"gui> window."
+msgstr ""
+"Kliknite na trenutnu sliku pozadine na levoj strani prozora <gui>Pozadina</"
+"gui>."
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:66
+msgid ""
+"Close the <gui>Background</gui> window by clicking the cross at the top-"
+"right corner of the window."
+msgstr ""
+"Zatvorite prozor <gui>Pozadina</gui> klikom na iks dugme u gornjem desnom "
+"uglu prozora."
+
+#. (itstool) path: info/title
+#: C/gs-connect-online-accounts.page:15
+msgctxt "link:trail"
+msgid "Connect to online accounts"
+msgstr "Povezivanje sa nalozima na mreži"
+
+#. (itstool) path: info/title
+#: C/gs-connect-online-accounts.page:17
+msgctxt "link:seealso"
+msgid "A tutorial on connecting to online accounts"
+msgstr "Uputstvo za povezivanje sa nalozima na mreži"
+
+#. (itstool) path: page/title
+#: C/gs-connect-online-accounts.page:22
+msgid "Connect to online accounts"
+msgstr "Povezivanje sa nalozima na mreži"
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:37
+msgid ""
+"Click the <gui>Online Accounts</gui> panel, then click the <gui>Add an "
+"online account</gui> button."
+msgstr ""
+"Kliknite na površ <gui>Nalozi na mreži</gui>, pa onda kliknite na dugme "
+"<gui>Dodaj novi nalog na mreži</gui>."
+
+#. (itstool) path: note/p
+#: C/gs-connect-online-accounts.page:41
+msgid ""
+"If you have set up an online account before, you can add another online "
+"account by clicking the <gui>+</gui> button at the bottom left corner of the "
+"window."
+msgstr ""
+"Ukoliko ste već podesili nalog na mreži, možete dodati još jedan nalog "
+"klikom na dugme <gui>+</gui> u levom uglu prozora."
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:49
+msgid ""
+"Click the online account you want to use. This will open a new window where "
+"you can sign in to your online account."
+msgstr ""
+"Kliknite na nalog na mreži koji želite koristiti. Ovo će otvoriti novi "
+"prozor u kojem ćete moći da se prijavite na vaš nalog na mreži."
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:57
+msgid ""
+"In most cases, you will have to grant access to the online service after "
+"signing in to get started."
+msgstr ""
+"U većini slučajeva će biti potrebno da date ovlašćenje za pristup nakon "
+"prijave na nalog na mreži da biste krenuli sa upotrebom naloga."
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:59
+msgid ""
+"For example, if you are connecting to your Google account, you will have to "
+"click the <gui>Grant Access</gui> button."
+msgstr ""
+"Na primer, ako se povezujete na vaš Gugl nalog, potrebno je da kliknete na "
+"dugme <gui>Dozvoli</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-connect-online-accounts.page:67
+msgid ""
+"Many online accounts let you choose the services you want to use with your "
+"online account. If you do not want to use a service, disable it by clicking "
+"the <gui>ON/OFF</gui> switch on the right-hand side of the window."
+msgstr ""
+"Većina mrežnih naloga vam omogućava da izaberete koje usluge želite da "
+"koristite. Ako ne želite da koristite određenu uslugu onemogućite je klikom "
+"na dugme <gui>UKLJ/ISK</gui>, na desnoj strani prozora."
+
+#. (itstool) path: Work/format
+#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:48
+#: C/gs-goa4.svg:36 C/gs-goa5.svg:48 C/gs-go-online1.svg:230
+#: C/gs-go-online2.svg:265 C/gs-go-online3.svg:290 C/gs-search1.svg:97
+#: C/gs-search2.svg:133 C/gs-search-settings.svg:98
+#: C/gs-thumb-changing-wallpaper.svg:39 C/gs-thumb-launching-apps.svg:189
+#: C/gs-thumb-responding-to-messages.svg:36 C/gs-thumb-task-switching.svg:89
+#: C/gs-thumb-timezone.svg:41 C/gs-thumb-windows-and-workspaces.svg:89
+#: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
+#: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
+#: C/gs-web-browser2.svg:102
+msgid "image/svg+xml"
+msgstr "image/svg+xml"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:60 C/gs-goa3.svg:60 C/gs-thumb-timezone.svg:104
+#: C/gs-thumb-timezone.svg:138 C/gs-web-browser2-firefox.svg:113
+#: C/gs-web-browser2.svg:115
+#, no-wrap
+msgid "4"
+msgstr "4"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:78 C/gs-datetime.svg:112
+#, no-wrap
+msgid "Date &amp; Time"
+msgstr "Datum i vreme"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:80
+#, no-wrap
+msgid "Automatic Date &amp; Time"
+msgstr "Automatsko vreme i datum"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:81 C/gs-datetime.svg:96
+#, no-wrap
+msgid "Requires internet access"
+msgstr "Zahteva pristup internetu"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:87 C/gs-datetime.svg:102 C/gs-goa5.svg:118
+#: C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121 C/gs-goa5.svg:122
+#: C/gs-search-settings.svg:133 C/gs-search-settings.svg:250
+#: C/gs-search-settings.svg:257 C/gs-search-settings.svg:264
+#, no-wrap
+msgid "ON"
+msgstr "UKLJ"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:95
+#, no-wrap
+msgid "Automatic Time Zone"
+msgstr "Automatska vremenska zona"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:113
+#, no-wrap
+msgid "September 1st 2015, 9∶51 AM"
+msgstr "1. septembar 2015. 09:51"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:114
+#, no-wrap
+msgid "Time Zone"
+msgstr "Vremenska zona"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:115
+#, no-wrap
+msgid "EDT (New York, United States)"
+msgstr "CEST (Beograd, Srbija)"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:119
+#, no-wrap
+msgid "Time Format"
+msgstr "Format vremena"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:121
+#, no-wrap
+msgid "24-hour"
+msgstr "24-časa"
+
+#. (itstool) path: info/title
+#: C/gs-get-online.page:15
+msgctxt "link:trail"
+msgid "Get online"
+msgstr "Pristupanje internetu"
+
+#. (itstool) path: info/title
+#: C/gs-get-online.page:17
+msgctxt "link:seealso"
+msgid "A tutorial on getting online"
+msgstr "Uputstvo za pristupanje internetu"
+
+#. (itstool) path: page/title
+#: C/gs-get-online.page:21
+msgid "Get online"
+msgstr "Pristupanje internetu"
+
+#. (itstool) path: note/p
+#: C/gs-get-online.page:24
+msgid ""
+"You can see the status of your network connection on the right-hand side of "
+"the top bar."
+msgstr "Možete videti stanje vaše mrežne veze na desnoj strani gornje trake."
+
+#. (itstool) path: section/title
+#: C/gs-get-online.page:30
+msgid "Connect to a wired network"
+msgstr "Povezivanje na žičanu mrežu"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:36
+msgid ""
+"The network connection icon on the right-hand side of the top bar shows that "
+"you are offline."
+msgstr ""
+"Ikonica mrežne veze na desnoj strani gornje trake pokazuje da niste zakačeni."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:38
+msgid ""
+"The offline status can be caused by a number of reasons: for example, a "
+"network cable has been unplugged, the computer has been set to run in "
+"<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
+"area."
+msgstr ""
+"Možete biti otkačeni sa interneta zbog mnoštva razloga. Možda je pokidan ili "
+"izvučen mrežni kabl ili je računar podešen da radi u <em>režimu za avion</"
+"em> ili nema dostupnih bežičnih mreža u vašoj okolini."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:42
+msgid ""
+"If you want to use a wired connection, just plug in a network cable to go "
+"online. The computer will try to set up the network connection for you "
+"automatically."
+msgstr ""
+"Ako želite da koristite žičanu vezu, samo ubodite mrežni kabl da biste se "
+"zakačili na internet. Računar će sam pokušati da podesi mrežnu vezu."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:45
+msgid ""
+"While the computer sets up a network connection for you, the network "
+"connection icon shows three dots."
+msgstr ""
+"U toku samostalnog podešavanja mrežne veze, ikonica mrežne veze će imati tri "
+"tačke na sebi."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:47
+msgid ""
+"Once the network connection has been successfully set up, the network "
+"connection icon changes to the networked computer symbol."
+msgstr ""
+"Nakon što se samopodešavanje mrežne veze uspešno završi, ikonica mrežne veze "
+"će se promeniti u simbol umreženog računara."
+
+#. (itstool) path: section/title
+#: C/gs-get-online.page:55
+msgid "Connect to a Wi-Fi network"
+msgstr "Povezivanje na bežičnu mrežu"
+
+# http://www.politika.rs/scc/clanak/344871/Spektar/Digitalni-svet/Laj-faj-superbrza-zamena-za-vaj-faj
+#. (itstool) path: steps/title
+#: C/gs-get-online.page:61
+msgid "To connect to a Wi-Fi (wireless) network:"
+msgstr "Da biste se povezali na Vaj-faj (bežičnu) mrežu:"
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:67
+msgid ""
+"Select <gui>Wi-Fi Not Connected</gui>. The Wi-Fi section of the menu will "
+"expand."
+msgstr ""
+"Izaberite dugme <gui>Bežična isključeno</gui>. Izbornik bežične mreže će se "
+"raširiti."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:71
+msgid "Click <gui>Select Network</gui>."
+msgstr "Kliknite na <gui>Izaberi mrežu</gui>."
+
+#. (itstool) path: note/p
+#: C/gs-get-online.page:76
+msgid ""
+"You can only connect to a Wi-Fi network if your computer hardware supports "
+"it and you are in an area with Wi-Fi coverage."
+msgstr ""
+"Možete se povezati na bežičnu mrežu samo ako hardver vašeg računara to "
+"podržava i ako ste u okruženju koje je pokriveno nekom bežičnom mrežom."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:84
+msgid ""
+"From the list of available Wi-Fi networks, select the network you want to "
+"connect to, and click <gui>Connect</gui> to confirm."
+msgstr ""
+"Iz spiska dostupnih bežičnih mreža izaberite mrežu na koju se želite "
+"zakačiti i kliknite na dugme <gui>Poveži se</gui> da biste potvrdili "
+"povezivanje."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:86
+msgid ""
+"Depending on the network configuration, you may be prompted for network "
+"credentials."
+msgstr ""
+"Računar vam može zatražiti pristupne parametre, zavisno od podešavanja "
+"bežične mreže."
+
+#. (itstool) path: text/tspan
+#: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
+#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101 C/gs-thumb-timezone.svg:135
+#: C/gs-web-browser1-firefox-classic.svg:115 C/gs-web-browser1-firefox.svg:120
+#: C/gs-web-browser1.svg:120
+#, no-wrap
+msgid "1"
+msgstr "1"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:303
+#: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102 C/gs-thumb-timezone.svg:136
+#: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
+#: C/gs-web-browser1.svg:153
+#, no-wrap
+msgid "2"
+msgstr "2"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa2.svg:50 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
+#: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
+#, no-wrap
+msgid "3"
+msgstr "3"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa2.svg:69 C/gs-goa3.svg:106 C/gs-goa5.svg:79
+#, no-wrap
+msgid "Online Accounts"
+msgstr "Nalozi na mreži"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa2.svg:71 C/gs-goa3.svg:108
+#, no-wrap
+msgid "Add an online account"
+msgstr "Dodajte nalog na mreži"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:63
+#, no-wrap
+msgid "Add Account"
+msgstr "Dodaj nalog"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:65 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
+#, no-wrap
+msgid "Google"
+msgstr "Gugl"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:66 C/gs-goa4.svg:124
+#, no-wrap
+msgid "Facebook"
+msgstr "Fejsbuk"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:67 C/gs-goa4.svg:125
+#, no-wrap
+msgid "Windows Live"
+msgstr "Vindous uživo"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:68 C/gs-goa4.svg:126
+#, no-wrap
+msgid "Microsoft Exchange"
+msgstr "Majkrosoft razmena"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:69 C/gs-goa4.svg:127
+#, no-wrap
+msgid "Enterprise Login (Kerberos)"
+msgstr "Poslovno prijavljivanje (Kerberos)"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:48 C/gs-thumb-timezone.svg:105
+#: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
+#, no-wrap
+msgid "5"
+msgstr "5"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:52 C/gs-goa4.svg:86
+#, no-wrap
+msgid "Google account"
+msgstr "Gugl nalog"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:338
+#, no-wrap
+msgid "Cancel"
+msgstr "Otkaži"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:69
+#, no-wrap
+msgid "SIGN UP"
+msgstr "REGISTRACIJA"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:70
+#, no-wrap
+msgid "Sign in"
+msgstr "Prijavi me"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:71
+#, no-wrap
+msgid "Email"
+msgstr "E-pošta"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:73
+#, no-wrap
+msgid "Password"
+msgstr "Lozinka"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:76
+#, no-wrap
+msgid "Sign In"
+msgstr "Prijavljivanje"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:77 C/gs-goa5.svg:88 C/gs-goa5.svg:91
+#, no-wrap
+msgid "john.doe@gmail.com"
+msgstr "petar.peric@gmail.com"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:103
+#, no-wrap
+msgid "Grant Access"
+msgstr "Dozvoli"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:108
+#, no-wrap
+msgid "Deny Access"
+msgstr "Odbij"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:106
+#, no-wrap
+msgid "6"
+msgstr "6"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:60 C/gs-thumb-timezone.svg:107
+#, no-wrap
+msgid "7"
+msgstr "7"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:92
+#, no-wrap
+msgid "Use for"
+msgstr "Koristi za"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:93
+#, no-wrap
+msgid "Mail"
+msgstr "Pošta"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:98
+#, no-wrap
+msgid "Calendar"
+msgstr "Kalendar"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:103 C/gs-search2.svg:293
+#, no-wrap
+msgid "Contacts"
+msgstr "Kontakti"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:108
+#, no-wrap
+msgid "Chat"
+msgstr "Ćaskanje"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:113
+#, no-wrap
+msgid "Documents"
+msgstr "Dokumenti"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
+#: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
+#: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
+#: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
+#, no-wrap
+msgid "14∶30"
+msgstr "14:30"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:328
+#, no-wrap
+msgid "Wi-Fi"
+msgstr "Bežična"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:311
+#, no-wrap
+msgid "homenetwork"
+msgstr "kućnamreža"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:338
+#, no-wrap
+msgid "Select Network"
+msgstr "Izaberite mrežu"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:339
+#, no-wrap
+msgid "Turn Off"
+msgstr "Isključi"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:340
+#, no-wrap
+msgid "Network Settings"
+msgstr "Podešavanja mreže"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:306
+#, no-wrap
+msgid "Wi-Fi Networks"
+msgstr "Bežične mreže"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:309
+#, no-wrap
+msgid "Connect"
+msgstr "Poveži se"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:312
+#, no-wrap
+msgid "wireless"
+msgstr "bežična"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:313
+#, no-wrap
+msgid "netgear"
+msgstr "netgear"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:314
+#, no-wrap
+msgid "weak"
+msgstr "slabo"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:315
+#, no-wrap
+msgid "private"
+msgstr "privatno"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:316
+#, no-wrap
+msgid "Select a network"
+msgstr "Izaberi mrežu"
+
+#. (itstool) path: info/title
+#: C/gs-launch-applications.page:16
+msgctxt "link:trail"
+msgid "Launch applications"
+msgstr "Pokretanje programa"
+
+#. (itstool) path: info/title
+#: C/gs-launch-applications.page:18
+msgctxt "link:seealso"
+msgid "A tutorial on launching applications"
+msgstr "Uputstvo za pokretanje programa"
+
+#. (itstool) path: section/title
+#: C/gs-launch-applications.page:61
+msgid "Launch applications with the mouse"
+msgstr "Pokretanje programa pomoću miša"
+
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:66
+msgid ""
+"Click the <gui>Show Applications</gui> icon that is shown at the bottom of "
+"the bar on the left-hand side of the screen."
+msgstr ""
+"Kliknite na ikonicu <gui>Prikaži programe</gui> koja se nalazi u dnu trake "
+"na levoj strani ekrana."
+
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:68
+msgid ""
+"A list of applications is shown. Click the application you want to run, for "
+"example, Help."
+msgstr ""
+"Biće prikazan spisak programa. Kliknite na program koji želite pokrenuti. Na "
+"primer: Pomoć."
+
+#. (itstool) path: section/title
+#: C/gs-launch-applications.page:75
+msgid "Launch applications with the keyboard"
+msgstr "Pokretanje programa pomoću tastature"
+
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:78
+msgid ""
+"Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key."
+msgstr ""
+"Otvorite <gui>Pregled aktivnosti</gui> pritiskom tastera <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key>."
+
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:80
+msgid ""
+"Start typing the name of the application you want to launch. Searching for "
+"the application begins instantly."
+msgstr ""
+"Krenite sa kucanjem naziva programa koji želite pokrenuti. Traženje programa "
+"započinje automatski."
+
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:82
+msgid ""
+"Once the icon of the application is shown and selected, press <key> Enter</"
+"key> to launch the application."
+msgstr ""
+"Nakon što se prikaže i odabere ikonica programa, pritisnite taster <key> "
+"Enter</key> da biste pokrenuli program."
+
+#. (itstool) path: p/link
+#: C/gs-legal.xml:3
+msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+msgstr "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+
+#. (itstool) path: license/p
+#: C/gs-legal.xml:3
+msgid "This work is licensed under a <_:link-1/>."
+msgstr "Ovo delo je izdato pod dozvolom <_:link-1/>."
+
+#. (itstool) path: info/title
+#: C/gs-respond-messages.page:18
+msgctxt "link:trail"
+msgid "Respond to messages"
+msgstr "Odgovaranje na poruke"
+
+#. (itstool) path: info/title
+#: C/gs-respond-messages.page:19
+msgctxt "link:seealso"
+msgid "A tutorial on responding to messages"
+msgstr "Uputstvo za odgovaranje na poruke"
+
+#. (itstool) path: page/title
+#: C/gs-respond-messages.page:22
+msgid "Respond to messages"
+msgstr "Odgovaranje na poruke"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:33 C/gs-respond-messages.page:81
+msgid ""
+"Move your mouse over the chat message that appears near the top of the "
+"screen."
+msgstr "Pomerite pokazivač miša na poruku koja se pojavila pri vrhu ekrana."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:37
+msgid ""
+"Start typing your reply and when finished, press <key>Enter </key> to send "
+"the reply."
+msgstr ""
+"Počnite sa kucanjem vašeg odgovora i, kada završite sa pisanjem odgovora, "
+"pritisnite <key>Enter </key> za slanje odgovora."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:41
+msgid "Close the chat message."
+msgstr "Zatvorite poruku."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:47
+msgid ""
+"A chat message near the top of the screen disappears after a while if you do "
+"not move your mouse over the message."
+msgstr ""
+"Poruka na vrhu ekrana će nestati posle određenog vremena ako ne pomerite "
+"miša preko poruke."
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:51 C/gs-respond-messages.page:97
+msgid "To get back to your unanswered message, click the clock on the top bar."
+msgstr ""
+"Da biste se vratili na vašu neodgovorenu poruku, kliknite na sat u gornjoj "
+"traci."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:55
+msgid "From the notification list, choose your message."
+msgstr "Iz spiska obaveštenja izaberite vašu poruku."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:58 C/gs-respond-messages.page:70
+msgid "Start typing your reply."
+msgstr "Počnite sa kucanjem odgovora."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:61
+msgid ""
+"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
+msgstr ""
+"Da biste prikazali spisak sa obaveštenjima, pritisnite <keyseq> <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key> <key>V</key></keyseq>"
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:66
+msgid ""
+"Use the arrow keys to select the message you want to reply to, and press "
+"<key>Enter</key>."
+msgstr ""
+"Iskoristite strelice da biste izabrali poruku na koju želite da odgovorite i "
+"pritisnite <key>Enter</key>."
+
+#. (itstool) path: section/title
+#: C/gs-respond-messages.page:78
+msgid "Respond to a chat message with the mouse"
+msgstr "Odgovaranje na poruku pomoću miša"
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:83
+msgid ""
+"Start typing your reply and when finished, press <key>Enter</key> to send "
+"the reply."
+msgstr ""
+"Krenite sa kucanjem odgovora i kada budete bili završili, pritisnite "
+"<key>Enter</key> da biste poslali odgovor."
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:85
+msgid ""
+"To close the chat message, click the close button at the top right corner of "
+"the chat message."
+msgstr ""
+"Da biste zatvorili poruku, kliknite na dugme za zatvaranje u gornjem desnom "
+"uglu poruke sa ćaskanja."
+
+#. (itstool) path: section/title
+#: C/gs-respond-messages.page:92
+msgid "Delayed response to a chat message using the mouse"
+msgstr "Odloženo odgovaranje na poruku pomoću miša"
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:95
+msgid ""
+"When a chat message appears near the top of the screen and you do not move "
+"your mouse over the message, it disappears after a while."
+msgstr ""
+"Kada se poruka sa ćaskanja pojavi u vrhu ekrana, ako ne pomerite miša na "
+"poruku, ona će nestati posle određenog vremena."
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:99
+msgid ""
+"From the notification list, choose the message you want to reply to, and "
+"click it."
+msgstr ""
+"Iz spiska obaveštenja izaberite poruku na koju želite da odgovorite i "
+"kliknite na nju."
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:101 C/gs-respond-messages.page:115
+msgid "When the chat message is shown, start typing your reply."
+msgstr "Kada se poruka sa ćaskanja prikaže, krenite sa kucanjem vašeg odgovora."
+
+#. (itstool) path: section/title
+#: C/gs-respond-messages.page:107
+msgid "Delayed response to a chat message using the keyboard"
+msgstr "Odloženo odgovaranje na poruku pomoću tastature"
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:109
+msgid ""
+"To get back to your unanswered chat messages, press <keyseq> <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
+"display the list of unanswered notifications."
+msgstr ""
+"Da biste pogledali poruke sa ćaskanja na koje niste odgovorili, pritisnite "
+"<keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</key><key>V</"
+"key> </keyseq> da bi vam se prikazao spisak tih poruka."
+
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:113
+msgid ""
+"Use the arrow keys to select the notification you want to reply to, and "
+"press <key>Enter</key>."
+msgstr ""
+"Koristite strelice na tastaturi da biste odabrali obaveštenje na koje želite "
+"odgovoriti i onda pritisnite taster <key>Enter</key>."
+
+#. (itstool) path: text/tspan
+#: C/gs-search1.svg:229
+#, no-wrap
+msgid "just type"
+msgstr "samo ukucajte"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:182
+#, no-wrap
+msgid "con"
+msgstr "kon"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:246
+#, no-wrap
+msgid "Accounts"
+msgstr "Nalozi"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:247
+#, no-wrap
+msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:248
+#, no-wrap
+msgid "config"
+msgstr "podešavanje"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:249 C/gs-search2.svg:252
+#, no-wrap
+msgid "fontconfig"
+msgstr "podešavanje fonta"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:250
+#, no-wrap
+msgid "system-config-http.zip"
+msgstr "sistemsko-http-podesavanje.zip"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:251
+#, no-wrap
+msgid "Icon guidelines"
+msgstr "Smernice za ikonice"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:269
+#, no-wrap
+msgid "Secure Linux Containers"
+msgstr "Bezbedni Linuks kontejneri"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:270
+#, no-wrap
+msgid "Developer Conference 2012"
+msgstr "Programerska konferencija 2012"
+
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:294 C/gs-web-browser2-firefox.svg:218
+#, no-wrap
+msgid "Firefox"
+msgstr "Fajerfoks"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:125
+#, no-wrap
+msgid "Search"
+msgstr "Pretraga"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:127
+#, no-wrap
+msgid "Files"
+msgstr "Datoteke"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:242
+#, no-wrap
+msgid "Web"
+msgstr "Veb"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:243
+#, no-wrap
+msgid "Photos"
+msgstr "Fotografije"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:244
+#, no-wrap
+msgid "Music"
+msgstr "Muzika"
+
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:271
+#, no-wrap
+msgid "OFF"
+msgstr "ISK"
+
+#. (itstool) path: info/title
+#: C/gs-switch-tasks.page:16
+msgctxt "link:trail"
+msgid "Switch tasks"
+msgstr "Prebacivanje između zadataka"
+
+#. (itstool) path: info/title
+#: C/gs-switch-tasks.page:18
+msgctxt "link:seealso"
+msgid "A tutorial on switching tasks"
+msgstr "Uputstvo za prebacivanje između više zadataka"
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:96
+msgid ""
+"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
+"of the screen to show the <gui>Activities Overview</gui> where you can see "
+"the currently running tasks displayed as small windows."
+msgstr ""
+"Pomerite pokazivač miša u gornji levi ugao ekrana na natpis <gui>Aktivnosti</"
+"gui> da biste prikazali <gui>Pregled aktivnosti</gui>. Ovde možete videti "
+"prozorčiće trenutno pokrenutih zadataka."
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:106
+msgid ""
+"You can switch between tasks by using the <gui>window list</gui> at the "
+"bottom of the screen. Open tasks appear as buttons in the <gui>window list</"
+"gui>."
+msgstr ""
+"Možete se prebacivati između zadataka koristeći <gui>spisak prozora</gui> u "
+"dnu ekrana. Otvoreni zadaci izgledaju kao dugmad u <gui>spisku prozora</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:109
+msgid "Click a button in the <gui>window list</gui> to switch to that task."
+msgstr ""
+"Kliknite na dugme u <gui>spisku prozora</gui> da biste se prebacili na taj "
+"zadatak"
+
+#. (itstool) path: section/title
+#: C/gs-switch-tasks.page:119 C/gs-use-windows-workspaces.page:114
+msgid "Tile windows"
+msgstr "Slaganje prozora"
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:122 C/gs-use-windows-workspaces.page:118
+msgid ""
+"To maximize a window along a side of the screen, grab the window’s titlebar "
+"and drag it to the left or right side of the screen."
+msgstr ""
+"Da biste uvećali prozor preko leve ili desne strane ekrana, zgrabite "
+"naslovnu traku prozora i skroz je povucite u levu ili desnu stranu ekrana."
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:124 C/gs-use-windows-workspaces.page:120
+msgid ""
+"When half of the screen is highlighted, release the window to maximize it "
+"along the selected side of the screen."
+msgstr ""
+"Kada se polovina strana osvetli, pustite prozor da biste ga uvećali preko "
+"strane ekrana na koju ste povukli prozor."
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:126 C/gs-use-windows-workspaces.page:122
+msgid ""
+"To maximize two windows side-by-side, grab the titlebar of the second window "
+"and drag it to the opposite side of the screen."
+msgstr ""
+"Da biste složili dva prozora jedan pored drugog, zgrabite naslovnu traku "
+"drugog prozora i povucite je na suprotnu stranu ekrana, u odnosu na prvi "
+"prozor."
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:128 C/gs-use-windows-workspaces.page:124
+msgid ""
+"When half of the screen is highlighted, release the window to maximize it "
+"along the opposite side of the screen."
+msgstr ""
+"Kada se polovina ekrana osvetli, pustite prozor da biste ga uvećali preko "
+"cele suprotne strane ekrana."
+
+#. (itstool) path: section/title
+#: C/gs-switch-tasks.page:135
+msgid "Switch between windows"
+msgstr "Prebacivanje između prozora"
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:138
+msgid ""
+"Press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which "
+"lists the currently open windows."
+msgstr ""
+"Pritisnite <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Tab</key></keyseq> da biste prikazali <gui>menjač prozora</gui> koji "
+"prikazuje trenutno otvorene prozore."
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:141
+msgid ""
+"Release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> to "
+"select the next highlighted window in the <gui>window switcher</gui>."
+msgstr ""
+"Pustite <key href=\"help:gnome-help/keyboard-key-super\">Super</key> dugme "
+"da biste izabrali sledeći označeni prozor u <gui>menjaču prozora</gui>."
+
+#. (itstool) path: section/title
+#: C/gs-switch-tasks.page:152
+msgid "Use search to switch applications"
+msgstr "Korišćenje pretrage za prebacivanje između programa"
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:155
+msgid ""
+"Press the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key "
+"to show the <gui>Activities Overview</gui>."
+msgstr ""
+"Pritisnite <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
+"dugme da biste prikazali <gui>Pregled aktivnosti</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:157
+msgid ""
+"Just start typing the name of the application you want to switch to. "
+"Applications matching what you have typed will appear as you type."
+msgstr ""
+"Krenite sa kucanjem naziva programa na koji se želite prebaciti. Programi "
+"koji se podudaraju biće prikazani kako budete bili kucali."
+
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:160
+msgid ""
+"When the application that you want to switch to appears as the first result, "
+"press <key>Enter</key> to switch to it."
+msgstr ""
+"Kada se program na koji želite da se prebacite pojavi, pritisnite "
+"<key>Enter</key> da biste se prebacili na njega."
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-responding-to-messages.svg:87
+#, no-wrap
+msgid "Thanks f"
+msgstr "Hvala za"
+
+#. (itstool) path: text/tspan
+#. Translators: S stands for Sunday here
+#: C/gs-thumb-timezone.svg:93
+#, no-wrap
+msgctxt "Sunday"
+msgid "S"
+msgstr "N"
+
+#. (itstool) path: text/tspan
+#. Translators: M stands for Monday here
+#: C/gs-thumb-timezone.svg:94
+#, no-wrap
+msgid "M"
+msgstr "P"
+
+#. (itstool) path: text/tspan
+#. Translators: T stands for Tuesday here
+#: C/gs-thumb-timezone.svg:95
+#, no-wrap
+msgctxt "Tuesday"
+msgid "T"
+msgstr "U"
+
+#. (itstool) path: text/tspan
+#. Translators: W stands for Wednesday here
+#: C/gs-thumb-timezone.svg:96
+#, no-wrap
+msgid "W"
+msgstr "S"
+
+#. (itstool) path: text/tspan
+#. Translators: T stands for Thursday here
+#: C/gs-thumb-timezone.svg:97
+#, no-wrap
+msgctxt "Thursday"
+msgid "T"
+msgstr "Č"
+
+#. (itstool) path: text/tspan
+#. Translators: F stands for Friday here
+#: C/gs-thumb-timezone.svg:98
+#, no-wrap
+msgid "F"
+msgstr "P"
+
+#. (itstool) path: text/tspan
+#. Translators: S stands for Saturday here
+#: C/gs-thumb-timezone.svg:99
+#, no-wrap
+msgctxt "Saturday"
+msgid "S"
+msgstr "S"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:108
+#, no-wrap
+msgid "8"
+msgstr "8"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:109
+#, no-wrap
+msgid "9"
+msgstr "9"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:110
+#, no-wrap
+msgid "10"
+msgstr "10"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:111
+#, no-wrap
+msgid "11"
+msgstr "11"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:112
+#, no-wrap
+msgid "12"
+msgstr "12"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:113
+#, no-wrap
+msgid "13"
+msgstr "13"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:114
+#, no-wrap
+msgid "14"
+msgstr "14"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:116
+#, no-wrap
+msgid "15"
+msgstr "15"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:117
+#, no-wrap
+msgid "16"
+msgstr "16"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:118
+#, no-wrap
+msgid "17"
+msgstr "17"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:119
+#, no-wrap
+msgid "18"
+msgstr "18"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:120
+#, no-wrap
+msgid "19"
+msgstr "19"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:121
+#, no-wrap
+msgid "20"
+msgstr "20"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:122
+#, no-wrap
+msgid "21"
+msgstr "21"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:124
+#, no-wrap
+msgid "22"
+msgstr "22"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:125
+#, no-wrap
+msgid "23"
+msgstr "23"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:126
+#, no-wrap
+msgid "24"
+msgstr "24"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:127
+#, no-wrap
+msgid "25"
+msgstr "25"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:128
+#, no-wrap
+msgid "26"
+msgstr "26"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:129
+#, no-wrap
+msgid "27"
+msgstr "27"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:130
+#, no-wrap
+msgid "28"
+msgstr "28"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:132
+#, no-wrap
+msgid "29"
+msgstr "29"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:133
+#, no-wrap
+msgid "30"
+msgstr "30"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:134
+#, no-wrap
+msgid "31"
+msgstr "31"
+
+#. (itstool) path: info/title
+#: C/gs-use-system-search.page:15
+msgctxt "link:trail"
+msgid "Use the system search"
+msgstr "Korišćenje pretrage sistema"
+
+#. (itstool) path: info/title
+#: C/gs-use-system-search.page:17
+msgctxt "link:seealso"
+msgid "A tutorial on using the system search"
+msgstr "Uputstvo o korišćenju pretrage sistema"
+
+#. (itstool) path: page/title
+#: C/gs-use-system-search.page:21
+msgid "Use the system search"
+msgstr "Korišćenje pretrage sistema"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:27
+msgid ""
+"Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key. Start typing to search."
+msgstr ""
+"Otvorite <gui>Pregled aktivnosti</gui> pritiskom tastera <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key>. Krenite sa kucanjem pretrage."
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:30
+msgid ""
+"Results matching what you have typed will appear as you type. The first "
+"result is always highlighted and shown at the top."
+msgstr ""
+"Rezultati pretrage će se pojaviti kako budete bili kucali. Prvi rezultat je "
+"uvek osvetljen i prikazan na vrhu."
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:32
+msgid "Press <key>Enter</key> to switch to the first highlighted result."
+msgstr ""
+"Pritisnite taster <key>Enter</key> da biste se prebacili na prvi osvetljeni "
+"rezultat."
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:38
+msgid "Items that may appear in the search results include:"
+msgstr "U stavke koje se mogu pojaviti u rezultatima pretrage spadaju:"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:40
+msgid "matching applications, shown at the top of the search results,"
+msgstr "podudarni programi, prikazani pri vrhu rezultata pretrage,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:42
+msgid "matching settings,"
+msgstr "podudarna podešavanja,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:43
+msgid "matching contacts, and"
+msgstr "podudarni kontakti i"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:44
+msgid "matching documents."
+msgstr "podudarna dokumenta."
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:47
+msgid "In the search results, click the item to switch to it."
+msgstr "Kliknite na stavku u rezultatima pretrage da biste se prebacili na nju."
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:48
+msgid ""
+"Alternatively, highlight an item using the arrow keys and press <key>Enter</"
+"key>."
+msgstr ""
+"Ili označite stavku koristeći strelice na tastaturi i pritisnite taster "
+"<key>Enter</key>."
+
+#. (itstool) path: section/title
+#: C/gs-use-system-search.page:54
+msgid "Search from inside applications"
+msgstr "Pretraga unutar programa"
+
+#. (itstool) path: section/p
+#: C/gs-use-system-search.page:56
+msgid ""
+"The system search aggregates results from various applications. On the left-"
+"hand side of the search results, you can see icons of applications that "
+"provided the search results. Click one of the icons to restart the search "
+"from inside the application associated with that icon. Because only the best "
+"matches are shown in the <gui>Activities Overview</gui>, searching from "
+"inside the application may give you better search results."
+msgstr ""
+"Pretraga sistema sakuplja rezultate iz raznih programa. Na levoj strani "
+"rezultata pretrage možete videti ikonice programa od kojih su podaci "
+"prikupljeni. Kliknite na jednu od ikonice da biste ponovo započeli "
+"pretraživanje unutar programa koji je označen tom ikonicom. Pošto se samo "
+"najbolji rezultati prikazuju u <gui>Pregledu aktivnosti</gui>, pretraživanjem "
+"unutar programa možete naći tačno ono što želite."
+
+#. (itstool) path: section/title
+#: C/gs-use-system-search.page:68
+msgid "Customize search results"
+msgstr "Prilagođavanje sistemske pretrage"
+
+#. (itstool) path: note/p
+#: C/gs-use-system-search.page:74
+msgid ""
+"GNOME lets you customize what you want to display in the search results in "
+"the <gui>Activities Overview</gui>. For example, you can choose whether you "
+"want to show results for websites, photos, or music."
+msgstr ""
+"Gnom vam omogućava da prilagodite šta se pojavljuje u rezultatima pretrage, u "
+"<gui>Pregledu aktivnosti</gui>. Na primer, možete odabrati da li želite da "
+"dobijate veb stranice, sliku ili muziku u rezultatima."
+
+#. (itstool) path: steps/title
+#: C/gs-use-system-search.page:82
+msgid "To customize what is displayed in the search results:"
+msgstr "Da biste prilagodili šta se prikazuje u rezultatima pretrage:"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:86
+msgid "Click the <gui>Search</gui> panel."
+msgstr "Kliknite na površ <gui>Pretraga</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:87
+msgid ""
+"In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
+"the search location you want to enable or disable."
+msgstr ""
+"U spisku lokacija za pretraživanje, kliknite na <gui>UKLJ/ISK</gui> dugme "
+"pored lokacije pretrage da biste je omogućili ili onemogućili."
+
+#. (itstool) path: info/title
+#: C/gs-use-windows-workspaces.page:15
+msgctxt "link:trail"
+msgid "Use windows and workspaces"
+msgstr "Korišćenje prozora i radnih površina"
+
+#. (itstool) path: info/title
+#: C/gs-use-windows-workspaces.page:17
+msgctxt "link:seealso"
+msgid "A tutorial on using windows and workspaces"
+msgstr "Uputstvo za korišćenje prozora i radnih površina"
+
+#. (itstool) path: section/title
+#: C/gs-use-windows-workspaces.page:98
+msgid "Maximize and unmaximize windows"
+msgstr "Uvećavanje i smanjivanje prozora"
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:102
+msgid ""
+"To maximize a window so that it takes up all of the space on your desktop, "
+"grab the window’s titlebar and drag it to the top of the screen."
+msgstr ""
+"Da biste povećali prozor tako da ispuni sav prostor na vašoj radnoj "
+"površini, zgrabite naslovnu traku prozora i povucite je ka vrhu ekrana."
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:105
+msgid "When the screen is highlighted, release the window to maximize it."
+msgstr "Kada se ekran osvetli, pustite prozor da bi se uvećao."
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:107
+msgid ""
+"To restore a window to its unmaximized size, grab the window’s titlebar and "
+"drag it away from the edges of the screen."
+msgstr ""
+"Da biste vratili prozor na svoje prethodno, neuvećano stanje, zgrabite "
+"naslovnu traku prozora i udaljite je od ivica ekrana."
+
+#. (itstool) path: section/title
+#: C/gs-use-windows-workspaces.page:131
+msgid "Maximize and unmaximize windows using the keyboard"
+msgstr "Uvećavanje i smanjivanje prozora pomoću tastature"
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:137
+msgid ""
+"To unmaximize a window using the keyboard, hold down the <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</key>."
+msgstr ""
+"Da biste smanjili prozor pomoću tastature, pritisnite taster <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> i onda pritisnite<key>↓</key>."
+
+#. (itstool) path: section/title
+#: C/gs-use-windows-workspaces.page:145
+msgid "Tile windows using the keyboard"
+msgstr "Slaganje prozora pomoću tastature"
+
+#. (itstool) path: section/title
+#: C/gs-use-windows-workspaces.page:159
+msgid "Switch workspaces using the keyboard"
+msgstr "Prebacivanje između radnih površine pomoću tastature"
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:163
+msgid ""
+"To move to a workspace which is below the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
+"key><key>Page Down</key></keyseq>."
+msgstr ""
+"Da biste se prebacili na radni prostor koji se nalazi ispod trenutnog radnog "
+"prostora, pritisnite <keyseq><key href=\"help:gnome-help/keyboard-key-super"
+"\">Super</key><key>Page Down</key></keyseq>."
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:166
+msgid ""
+"To move to a workspace which is above the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
+"key><key>Page Up</key></keyseq>."
+msgstr ""
+"Da biste se prebacili na radni prostor koji se nalazi iznad trenutnog radnog "
+"prostora, pritisnite <keyseq><key href=\"help:gnome-help/keyboard-key-super"
+"\">Super</key><key>Page Up</key></keyseq>."
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser1-firefox-classic.svg:118
+#, no-wrap
+msgid "Applications"
+msgstr "Programi"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:147 C/gs-web-browser2.svg:153
+#, no-wrap
+msgid "gnome"
+msgstr "gnom"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:151 C/gs-web-browser2.svg:157
+#, no-wrap
+msgid "Planet Gnome"
+msgstr "Gnomova Planeta"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:152 C/gs-web-browser2.svg:158
+#, no-wrap
+msgid "GNOME 3"
+msgstr "Gnom 3"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:153 C/gs-web-browser2.svg:159
+#, no-wrap
+msgid "http://planet.gnome.org"
+msgstr "http://planet.gnome.org"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:154 C/gs-web-browser2.svg:160
+#, no-wrap
+msgid "http://gnome.org"
+msgstr "http://gnome.org"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:275
+#, no-wrap
+msgid "planet.gnome.org"
+msgstr "planet.gnome.org"
+
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2.svg:247
+#, no-wrap
+msgid "Planet GNOME"
+msgstr "GNOMOVA Planeta"
+
+#~ msgid "14:30"
+#~ msgstr "14:30"
+
+#~ msgid "Enabled"
+#~ msgstr "Omogućeno"
