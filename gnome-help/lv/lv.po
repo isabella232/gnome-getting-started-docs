@@ -1,9 +1,9 @@
-# Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>, 2013, 2014, 2016.
+# Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>, 2013, 2014, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2016-08-19 12:55+0000\n"
-"PO-Revision-Date: 2016-10-09 20:41+0200\n"
+"POT-Creation-Date: 2017-06-28 17:29+0000\n"
+"PO-Revision-Date: 2017-08-29 18:30+0200\n"
 "Last-Translator: Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>\n"
 "Language-Team: Latvian <lata-l10n@googlegroups.com>\n"
 "Language: lv\n"
@@ -98,42 +98,53 @@ msgstr "Spiediet <key>Enter</key>, lai palaistu lietotni."
 
 #. (itstool) path: caption/desc
 #. (itstool) path: page/title
-#: C/getting-started.page:66 C/gs-use-windows-workspaces.page:21
+#: C/getting-started.page:66 C/getting-started.page:216
+#: C/gs-use-windows-workspaces.page:21
 msgid "Use windows and workspaces"
 msgstr "Izmantot logus un darbvietas"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:71 C/gs-animation.xml:10
+#: C/getting-started.page:71 C/getting-started.page:221 C/gs-animation.xml:10
 #: C/gs-use-windows-workspaces.page:29
 msgid "Windows and Workspaces"
 msgstr "Logi un darbvietas"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:74 C/gs-use-windows-workspaces.page:32
+#: C/getting-started.page:74 C/getting-started.page:224
+#: C/gs-use-windows-workspaces.page:32
+#| msgid ""
+#| "To maximize a window, grab the window's titlebar and drag it to the top "
+#| "of the screen."
 msgid ""
-"To maximize a window, grab the window's titlebar and drag it to the top of "
+"To maximize a window, grab the window’s titlebar and drag it to the top of "
 "the screen."
 msgstr ""
 "Lai maksimizētu logu, satveriet loga virsraksta joslu un velciet to uz "
 "ekrāna augšpusi."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:78 C/gs-use-windows-workspaces.page:36
+#: C/getting-started.page:78 C/getting-started.page:228
+#: C/gs-use-windows-workspaces.page:36
 msgid "When the screen is highlighted, release the window."
 msgstr "Kad ekrāns ir izgaismots, atlaidiet logu."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:81 C/gs-use-windows-workspaces.page:39
+#: C/getting-started.page:81 C/getting-started.page:231
+#: C/gs-use-windows-workspaces.page:39
+#| msgid ""
+#| "To unmaximize a window, grab the window's titlebar and drag it away from "
+#| "the edges of the screen."
 msgid ""
-"To unmaximize a window, grab the window's titlebar and drag it away from the "
+"To unmaximize a window, grab the window’s titlebar and drag it away from the "
 "edges of the screen."
 msgstr ""
 "Lai atjaunotu logu tā iepriekšējā izmērā, satveriet loga virsraksta joslu un "
 "velciet to prom no ekrāna malām."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:85 C/gs-use-windows-workspaces.page:43
+#: C/getting-started.page:85 C/getting-started.page:235
+#: C/gs-use-windows-workspaces.page:43
 msgid ""
 "You can also click the top bar to drag the window away and unmaximize it."
 msgstr ""
@@ -142,9 +153,13 @@ msgstr ""
 
 #. (itstool) path: div/p
 #: C/getting-started.page:89 C/getting-started.page:163
-#: C/gs-switch-tasks.page:42 C/gs-use-windows-workspaces.page:47
+#: C/getting-started.page:239 C/gs-switch-tasks.page:42
+#: C/gs-use-windows-workspaces.page:47
+#| msgid ""
+#| "To maximize a window along the left side of the screen, grab the window's "
+#| "titlebar and drag it to the left."
 msgid ""
-"To maximize a window along the left side of the screen, grab the window's "
+"To maximize a window along the left side of the screen, grab the window’s "
 "titlebar and drag it to the left."
 msgstr ""
 "Lai maksimizētu logu gar kreiso pusi, satveriet loga virsraksta joslu un "
@@ -153,15 +168,20 @@ msgstr ""
 #. (itstool) path: div/p
 #: C/getting-started.page:93 C/getting-started.page:101
 #: C/getting-started.page:167 C/getting-started.page:175
+#: C/getting-started.page:243 C/getting-started.page:251
 #: C/gs-switch-tasks.page:46 C/gs-switch-tasks.page:54
 #: C/gs-use-windows-workspaces.page:51 C/gs-use-windows-workspaces.page:59
 msgid "When half of the screen is highlighted, release the window."
 msgstr "Kad puse ekrāna ir izgaismota, atlaidiet logu."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:97 C/gs-use-windows-workspaces.page:55
+#: C/getting-started.page:97 C/getting-started.page:247
+#: C/gs-use-windows-workspaces.page:55
+#| msgid ""
+#| "To maximize a window along the right side of the screen, grab the "
+#| "window's titlebar and drag it to the right."
 msgid ""
-"To maximize a window along the right side of the screen, grab the window's "
+"To maximize a window along the right side of the screen, grab the window’s "
 "titlebar and drag it to the right."
 msgstr ""
 "Lai maksimizētu logu gar labo pusi, satveriet loga virsraksta joslu un "
@@ -169,8 +189,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:105 C/gs-use-windows-workspaces.page:63
-#: C/gs-use-windows-workspaces.page:134
+#: C/getting-started.page:105 C/getting-started.page:255
+#: C/gs-use-windows-workspaces.page:63 C/gs-use-windows-workspaces.page:134
 msgid ""
 "To maximize a window using the keyboard, hold down the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
@@ -179,7 +199,8 @@ msgstr ""
 "\"help:gnome-help/keyboard-key-super\">Super</key> un spiediet <key>↑</key>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:110 C/gs-use-windows-workspaces.page:68
+#: C/getting-started.page:110 C/getting-started.page:260
+#: C/gs-use-windows-workspaces.page:68
 msgid ""
 "To restore the window to its unmaximized size, hold down the <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
@@ -191,8 +212,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:115 C/gs-use-windows-workspaces.page:73
-#: C/gs-use-windows-workspaces.page:148
+#: C/getting-started.page:115 C/getting-started.page:265
+#: C/gs-use-windows-workspaces.page:73 C/gs-use-windows-workspaces.page:148
 msgid ""
 "To maximize a window along the right side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
@@ -204,8 +225,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:120 C/gs-use-windows-workspaces.page:78
-#: C/gs-use-windows-workspaces.page:151
+#: C/getting-started.page:120 C/getting-started.page:270
+#: C/gs-use-windows-workspaces.page:78 C/gs-use-windows-workspaces.page:151
 msgid ""
 "To maximize a window along the left side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
@@ -216,7 +237,8 @@ msgstr ""
 "<key>←</key>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:125 C/gs-use-windows-workspaces.page:83
+#: C/getting-started.page:125 C/getting-started.page:275
+#: C/gs-use-windows-workspaces.page:83
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
@@ -227,7 +249,8 @@ msgstr ""
 "key></keyseq>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:130 C/gs-use-windows-workspaces.page:88
+#: C/getting-started.page:130 C/getting-started.page:280
+#: C/gs-use-windows-workspaces.page:88
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
@@ -260,8 +283,11 @@ msgstr "Spiediet uz loga, lai pārslēgtos uz to uzdevumu."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:171 C/gs-switch-tasks.page:50
+#| msgid ""
+#| "To maximize a window along the right side, grab the window's titlebar and "
+#| "drag it to the right."
 msgid ""
-"To maximize a window along the right side, grab the window's titlebar and "
+"To maximize a window along the right side, grab the window’s titlebar and "
 "drag it to the right."
 msgstr ""
 "Lai maksimizētu logu gar labo pusi, satveriet loga virsraksta joslu un "
@@ -322,96 +348,58 @@ msgstr ""
 "key>, lai uz to pārslēgtos."
 
 #. (itstool) path: caption/desc
-#. (itstool) path: page/title
-#: C/getting-started.page:214 C/gs-respond-messages.page:21
-msgid "Respond to messages"
-msgstr "Atbildēt uz ziņojumiem"
+#: C/getting-started.page:295
+#| msgid "Change the wallpaper"
+msgid "Change wallpaper"
+msgstr "Mainīt tapetes"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:220 C/gs-animation.xml:7
-#: C/gs-respond-messages.page:29
-msgid "Responding to Messages"
-msgstr "Atbildēšana uz ziņojumiem"
+#: C/getting-started.page:300 C/gs-animation.xml:6
+#: C/gs-change-wallpaper.page:28
+msgid "Changing Wallpaper"
+msgstr "Tapešu mainīšana"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:303 C/gs-change-wallpaper.page:31
+msgid ""
+"Click the system menu on the right side of the top bar and press the "
+"settings button."
+msgstr ""
+"Spiediet uz sistēmas izvēlnes augšējās joslas labajā pusē un spiediet "
+"iestatījumu pogu."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:307 C/gs-change-wallpaper.page:35
+msgid "Select <gui>Background</gui>."
+msgstr "Izvēlieties <gui>fonu</gui>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:310 C/gs-change-wallpaper.page:38
+msgid "Click the current background image."
+msgstr "Spiediet uz pašreizējā fona attēla."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:223 C/gs-respond-messages.page:32
-#: C/gs-respond-messages.page:80
-msgid ""
-"Move your mouse over the chat message that appears near the top of the "
-"screen."
-msgstr "Pārvietojiet peles rādītāju virs tērzēšanas ziņojuma ekrāna augšpusē."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:227 C/gs-respond-messages.page:36
-msgid ""
-"Start typing your reply and when finished, press <key>Enter </key> to send "
-"the reply."
-msgstr ""
-"Pabeidzot rakstīt atbildi, spiediet <key>Enter</key>, lai nosūtītu atbildi."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:231 C/gs-respond-messages.page:40
-msgid "Close the chat message."
-msgstr "Aizvērt tērzēšanas ziņojumu."
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:234 C/gs-animation.xml:9
-#: C/gs-respond-messages.page:43
-msgid "Delayed Response"
-msgstr "Aizkavēta atbilde"
-
-#. (itstool) path: div/p
-#: C/getting-started.page:237 C/gs-respond-messages.page:46
-msgid ""
-"A chat message near the top of the screen disappears after a while if you do "
-"not move your mouse over the message."
-msgstr ""
-"Tērzēšanas ziņojums ekrāna augšpusē pēc kāda laika pazudīs, ja nenovietosiet "
-"peles rādītāju virs ziņojuma."
+#: C/getting-started.page:313 C/gs-change-wallpaper.page:41
+#: C/gs-change-wallpaper.page:64
+msgid "Click the background image you want to use."
+msgstr "Spiediet uz fona attēla, kuru vēlaties izmantot."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:241 C/gs-respond-messages.page:50
-#: C/gs-respond-messages.page:96
-msgid "To get back to your unanswered message, click the clock on the top bar."
-msgstr ""
-"Lai tiktu atpakaļ pie neatbildēta ziņojuma, spiediet uz pulksteņa augšējā "
-"joslā."
+#: C/getting-started.page:316 C/gs-change-wallpaper.page:44
+#: C/gs-change-wallpaper.page:65
+msgid "Click the <gui>Select</gui> button."
+msgstr "Spiediet pogu <gui>Izvēlēties</gui>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:245 C/gs-respond-messages.page:54
-msgid "From the notification list, choose your message."
-msgstr "Izvēlieties savu ziņojumu no paziņojumu saraksta."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:248 C/getting-started.page:260
-#: C/gs-respond-messages.page:57 C/gs-respond-messages.page:69
-msgid "Start typing your reply."
-msgstr "Sāciet rakstīt savu atbildi."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:251 C/gs-respond-messages.page:60
-msgid ""
-"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
-msgstr ""
-"Lai redzētu paziņojumu sarakstu, spiediet <keyseq> <key href=\"help:gnome-"
-"help/keyboard-key-super\">Super</key> <key>V</key></keyseq>"
-
-#. (itstool) path: div/p
-#: C/getting-started.page:256 C/gs-respond-messages.page:65
-msgid ""
-"Use the arrow keys to select the message you want to reply to, and press "
-"<key>Enter</key>."
-msgstr ""
-"Lietojiet bultu taustiņus, lai izvēlētos ziņojumu, kam vēlaties atbildēt, un "
-"spiediet <key>Enter</key>."
+#: C/getting-started.page:319 C/gs-change-wallpaper.page:47
+msgid "Close the <gui>Background</gui> window."
+msgstr "Aizveriet logu <gui>Fons</gui>."
 
 #. (itstool) path: links/title
-#: C/getting-started.page:269
+#: C/getting-started.page:330
 msgid "Common Tasks"
 msgstr "Biežākie uzdevumi"
 
@@ -422,9 +410,15 @@ msgstr "Laipni lūdzam"
 
 #. (itstool) path: titles/t
 #. (itstool) path: div/p
-#: C/gs-animation.xml:6 C/gs-change-wallpaper.page:28
-msgid "Changing Wallpaper"
-msgstr "Tapešu mainīšana"
+#: C/gs-animation.xml:7 C/gs-respond-messages.page:30
+msgid "Responding to Messages"
+msgstr "Atbildēšana uz ziņojumiem"
+
+#. (itstool) path: titles/t
+#. (itstool) path: div/p
+#: C/gs-animation.xml:9 C/gs-respond-messages.page:44
+msgid "Delayed Response"
+msgstr "Aizkavēta atbilde"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:11
@@ -553,8 +547,9 @@ msgstr "Gatavi sanāksmei?"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:39
-msgid "I'll be there in a sec..."
-msgstr "Būšu pēc brīža..."
+#| msgid "I'll be there in a sec..."
+msgid "I’ll be there in a sec…"
+msgstr "Būšu pēc brīža…"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
@@ -609,12 +604,14 @@ msgstr "Automātiskā laika josla"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:53
-msgid "14 October 2013, 20:00"
+#| msgid "14 October 2013, 20:00"
+msgid "14 October 2013, 20∶00"
 msgstr "14. oktobris 2013, 20.00"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:54
-msgid "14 October 2013, 14:00"
+#| msgid "14 October 2013, 14:00"
+msgid "14 October 2013, 14∶00"
 msgstr "14. oktobris 2013, 14.00"
 
 #. (itstool) path: credit/name
@@ -643,8 +640,6 @@ msgstr "Pārlūkot tīmekli"
 
 #. (itstool) path: info/title
 #: C/gs-browse-web.page:18
-#| msgctxt "link:seealso"
-#| msgid "A tutorial on changing the wallpaper"
 msgctxt "link:seealso"
 msgid "A tutorial on browsing the web"
 msgstr "Ceļvedis tīmekļa pārlūkošanā"
@@ -669,7 +664,7 @@ msgstr ""
 "Izvēlnē izvēlieties <guiseq><gui>Internets</gui><gui>Firefox</gui></guiseq>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:46 C/gs-browse-web.page:64
+#: C/gs-browse-web.page:47 C/gs-browse-web.page:65
 #: C/gs-launch-applications.page:64
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
@@ -679,14 +674,14 @@ msgstr ""
 "stūrī, lai redzētu <gui>Aktivitāšu pārskatu</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:49
+#: C/gs-browse-web.page:50
 msgid ""
 "Select the <app>Firefox</app> browser icon from the bar on the left-hand "
 "side of the screen."
 msgstr "Izvēlieties pārlūka <app>Firefox</app> ikonu no kreisās ekrāna puses."
 
 #. (itstool) path: note/p
-#: C/gs-browse-web.page:53
+#: C/gs-browse-web.page:54
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>Firefox</em> in the <gui>Activities "
@@ -696,14 +691,14 @@ msgstr ""
 "ierakstot</link> <em>Firefox</em> <gui>Aktivitāšu pārskatā</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:67
+#: C/gs-browse-web.page:68
 msgid ""
 "Select the <app>Web</app> browser icon from the bar on the left-hand side of "
 "the screen."
 msgstr "Izvēlieties pārlūka <app>Tīmeklis</app> ikonu no kreisās ekrāna puses."
 
 #. (itstool) path: note/p
-#: C/gs-browse-web.page:71
+#: C/gs-browse-web.page:72
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
@@ -713,7 +708,7 @@ msgstr ""
 "ierakstot</link> <em>tīmeklis</em> <gui>Aktivitāšu pārskatā</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:90
+#: C/gs-browse-web.page:92
 msgid ""
 "Click the address bar at the top of the browser window and start typing in "
 "the website you want to visit."
@@ -722,7 +717,7 @@ msgstr ""
 "nosaukumu, kuru vēlaties apmeklēt."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:92
+#: C/gs-browse-web.page:94
 msgid ""
 "Typing in a website starts searching for it in the browser history and "
 "bookmarks, so you do not need to remember the exact address."
@@ -731,7 +726,7 @@ msgstr ""
 "grāmatzīmēs, lai jums nevajadzētu atcerēties precīzu adresi."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:95
+#: C/gs-browse-web.page:97
 msgid ""
 "If the website is found in the history or bookmarks, a drop-down list is "
 "shown below the address bar."
@@ -740,7 +735,7 @@ msgstr ""
 "adreses joslas."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:97
+#: C/gs-browse-web.page:99
 msgid ""
 "From the drop-down list, you can quickly select a website using the arrow "
 "keys."
@@ -749,7 +744,7 @@ msgstr ""
 "taustiņus."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:100
+#: C/gs-browse-web.page:102
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
 msgstr ""
 "Pēc tīmekļa vietnes izvēles, spiediet <key>Enter</key>, lai to apmeklētu."
@@ -859,42 +854,6 @@ msgstr "Tapešu mainīšanas ceļvedis"
 #: C/gs-change-wallpaper.page:20 C/gs-change-wallpaper.page:55
 msgid "Change the wallpaper"
 msgstr "Mainīt tapetes"
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:31
-msgid ""
-"Click the system menu on the right side of the top bar and press the "
-"settings button."
-msgstr ""
-"Spiediet uz sistēmas izvēlnes augšējās joslas labajā pusē un spiediet "
-"iestatījumu pogu."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:35
-msgid "Select <gui>Background</gui>."
-msgstr "Izvēlieties <gui>fonu</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:38
-msgid "Click the current background image."
-msgstr "Spiediet uz pašreizējā fona attēla."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:64
-msgid "Click the background image you want to use."
-msgstr "Spiediet uz fona attēla, kuru vēlaties izmantot."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:65
-msgid "Click the <gui>Select</gui> button."
-msgstr "Spiediet pogu <gui>Izvēlēties</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:47
-msgid "Close the <gui>Background</gui> window."
-msgstr "Aizveriet logu <gui>Fons</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
@@ -1051,7 +1010,8 @@ msgstr "Automātiskā laika josla"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:113
 #, no-wrap
-msgid "September 1st 2015, 9:51 AM"
+#| msgid "September 1st 2015, 9:51 AM"
+msgid "September 1st 2015, 9∶51 AM"
 msgstr "1. septembris 2015, 9.51 AM"
 
 #. (itstool) path: text/tspan
@@ -1401,7 +1361,7 @@ msgstr "_Dokumenti"
 #: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
 #: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
-msgid "14:30"
+msgid "14∶30"
 msgstr "14.30"
 
 #. (itstool) path: text/tspan
@@ -1554,24 +1514,95 @@ msgid "This work is licensed under a <_:link-1/>."
 msgstr "Šis darbs ir licencēts zem <_:link-1/>."
 
 #. (itstool) path: info/title
-#: C/gs-respond-messages.page:15
+#: C/gs-respond-messages.page:18
 msgctxt "link:trail"
 msgid "Respond to messages"
 msgstr "Atbildēt uz ziņojumiem"
 
 #. (itstool) path: info/title
-#: C/gs-respond-messages.page:17
+#: C/gs-respond-messages.page:19
 msgctxt "link:seealso"
 msgid "A tutorial on responding to messages"
 msgstr "Ceļvedis, kā atbildēt uz ziņojumiem"
 
+#. (itstool) path: page/title
+#: C/gs-respond-messages.page:22
+msgid "Respond to messages"
+msgstr "Atbildēt uz ziņojumiem"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:33 C/gs-respond-messages.page:81
+msgid ""
+"Move your mouse over the chat message that appears near the top of the "
+"screen."
+msgstr "Pārvietojiet peles rādītāju virs tērzēšanas ziņojuma ekrāna augšpusē."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:37
+msgid ""
+"Start typing your reply and when finished, press <key>Enter </key> to send "
+"the reply."
+msgstr ""
+"Pabeidzot rakstīt atbildi, spiediet <key>Enter</key>, lai nosūtītu atbildi."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:41
+msgid "Close the chat message."
+msgstr "Aizvērt tērzēšanas ziņojumu."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:47
+msgid ""
+"A chat message near the top of the screen disappears after a while if you do "
+"not move your mouse over the message."
+msgstr ""
+"Tērzēšanas ziņojums ekrāna augšpusē pēc kāda laika pazudīs, ja nenovietosiet "
+"peles rādītāju virs ziņojuma."
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:51 C/gs-respond-messages.page:97
+msgid "To get back to your unanswered message, click the clock on the top bar."
+msgstr ""
+"Lai tiktu atpakaļ pie neatbildēta ziņojuma, spiediet uz pulksteņa augšējā "
+"joslā."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:55
+msgid "From the notification list, choose your message."
+msgstr "Izvēlieties savu ziņojumu no paziņojumu saraksta."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:58 C/gs-respond-messages.page:70
+msgid "Start typing your reply."
+msgstr "Sāciet rakstīt savu atbildi."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:61
+msgid ""
+"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
+msgstr ""
+"Lai redzētu paziņojumu sarakstu, spiediet <keyseq> <key href=\"help:gnome-"
+"help/keyboard-key-super\">Super</key> <key>V</key></keyseq>"
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:66
+msgid ""
+"Use the arrow keys to select the message you want to reply to, and press "
+"<key>Enter</key>."
+msgstr ""
+"Lietojiet bultu taustiņus, lai izvēlētos ziņojumu, kam vēlaties atbildēt, un "
+"spiediet <key>Enter</key>."
+
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:77
+#: C/gs-respond-messages.page:78
 msgid "Respond to a chat message with the mouse"
 msgstr "Uz tērzēšanas ziņojumu atbildēt ar peli"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:82
+#: C/gs-respond-messages.page:83
 msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send "
 "the reply."
@@ -1579,7 +1610,7 @@ msgstr ""
 "Pabeidzot rakstīt atbildi, spiediet <key>Enter</key>, lai nosūtītu atbildi."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:84
+#: C/gs-respond-messages.page:85
 msgid ""
 "To close the chat message, click the close button at the top right corner of "
 "the chat message."
@@ -1588,12 +1619,12 @@ msgstr ""
 "ziņojuma labajā stūrī."
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:91
+#: C/gs-respond-messages.page:92
 msgid "Delayed response to a chat message using the mouse"
 msgstr "Aizkavēta atbilde uz tērzēšanas ziņojumu, izmantojot peli"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:94
+#: C/gs-respond-messages.page:95
 msgid ""
 "When a chat message appears near the top of the screen and you do not move "
 "your mouse over the message, it disappears after a while."
@@ -1602,7 +1633,7 @@ msgstr ""
 "peli uz ziņojuma, ziņojums ar laiku pazudīs."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:98
+#: C/gs-respond-messages.page:99
 msgid ""
 "From the notification list, choose the message you want to reply to, and "
 "click it."
@@ -1611,17 +1642,17 @@ msgstr ""
 "un spiediet uz tā."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:100 C/gs-respond-messages.page:114
+#: C/gs-respond-messages.page:101 C/gs-respond-messages.page:115
 msgid "When the chat message is shown, start typing your reply."
 msgstr "Kad parādās tērzēšanas ziņojums, sāciet rakstīt atbildi."
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:106
+#: C/gs-respond-messages.page:107
 msgid "Delayed response to a chat message using the keyboard"
 msgstr "Aizkavēta atbilde uz tērzēšanas ziņojumu, izmantojot tastatūru"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:108
+#: C/gs-respond-messages.page:109
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq> <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
@@ -1632,7 +1663,7 @@ msgstr ""
 "lai attēlotu sarakstu ar neatbildētiem ziņojumiem."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:112
+#: C/gs-respond-messages.page:113
 msgid ""
 "Use the arrow keys to select the notification you want to reply to, and "
 "press <key>Enter</key>."
@@ -1661,8 +1692,9 @@ msgstr "Konti"
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:247
 #, no-wrap
-msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
-msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+#| msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:248
@@ -1787,8 +1819,11 @@ msgstr "Izklāt logus"
 
 #. (itstool) path: item/p
 #: C/gs-switch-tasks.page:122 C/gs-use-windows-workspaces.page:118
+#| msgid ""
+#| "To maximize a window along a side of the screen, grab the window's "
+#| "titlebar and drag it to the left or right side of the screen."
 msgid ""
-"To maximize a window along a side of the screen, grab the window's titlebar "
+"To maximize a window along a side of the screen, grab the window’s titlebar "
 "and drag it to the left or right side of the screen."
 msgstr ""
 "Lai maksimizētu logu gar ekrāna malu, satveriet loga virsraksta joslu un "
@@ -2236,9 +2271,12 @@ msgstr "Maksimizēt logu un atjaunot tā izmēru"
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:102
+#| msgid ""
+#| "To maximize a window so that it takes up all of the space on your "
+#| "desktop, grab the window's titlebar and drag it to the top of the screen."
 msgid ""
 "To maximize a window so that it takes up all of the space on your desktop, "
-"grab the window's titlebar and drag it to the top of the screen."
+"grab the window’s titlebar and drag it to the top of the screen."
 msgstr ""
 "Lai maksimizētu logu, lai tas aizņemtu visu darbvietu, satveriet loga "
 "virsraksta joslu un velciet to uz ekrāna augšpusi."
@@ -2250,8 +2288,11 @@ msgstr "Kad ekrāns ir izgaismots, atlaidiet logu, lai to maksimizētu."
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:107
+#| msgid ""
+#| "To restore a window to its unmaximized size, grab the window's titlebar "
+#| "and drag it away from the edges of the screen."
 msgid ""
-"To restore a window to its unmaximized size, grab the window's titlebar and "
+"To restore a window to its unmaximized size, grab the window’s titlebar and "
 "drag it away from the edges of the screen."
 msgstr ""
 "Lai atjaunotu logu tā iepriekšējā izmērā, satveriet loga virsraksta joslu un "
@@ -2351,6 +2392,9 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "GNOME planēta"
+
+#~ msgid "14:30"
+#~ msgstr "14.30"
 
 #~ msgid "Enabled"
 #~ msgstr "Aktivēts"
