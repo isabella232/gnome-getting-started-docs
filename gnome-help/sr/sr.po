@@ -5,9 +5,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2016-09-08 10:43+0000\n"
-"PO-Revision-Date: 2016-09-18 00:06+0200\n"
-"Last-Translator: Милош Поповић <gpopac@gmail.com>\n"
+"POT-Creation-Date: 2017-05-10 11:17+0000\n"
+"PO-Revision-Date: 2017-08-27 18:33+0200\n"
+"Last-Translator: Марко М. Костић <marko.m.kostic@gmail.com>\n"
 "Language-Team: Serbian\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 1.8.7\n"
+"X-Generator: Poedit 2.0.3\n"
 "X-Project-Style: gnome\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
@@ -105,42 +105,47 @@ msgstr "Притисните тастер <key>Enter</key> да бисте по�
 
 #. (itstool) path: caption/desc
 #. (itstool) path: page/title
-#: C/getting-started.page:66 C/gs-use-windows-workspaces.page:21
+#: C/getting-started.page:66 C/getting-started.page:216
+#: C/gs-use-windows-workspaces.page:21
 msgid "Use windows and workspaces"
 msgstr "Коришћење прозора и радних простора"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:71 C/gs-animation.xml:10
+#: C/getting-started.page:71 C/getting-started.page:221 C/gs-animation.xml:10
 #: C/gs-use-windows-workspaces.page:29
 msgid "Windows and Workspaces"
 msgstr "Прозори и радни простори"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:74 C/gs-use-windows-workspaces.page:32
+#: C/getting-started.page:74 C/getting-started.page:224
+#: C/gs-use-windows-workspaces.page:32
 msgid ""
-"To maximize a window, grab the window's titlebar and drag it to the top of "
+"To maximize a window, grab the window’s titlebar and drag it to the top of "
 "the screen."
 msgstr ""
 "Да бисте увећали прозор, зграбите насловну траку прозора и повуците је на "
 "врх екрана."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:78 C/gs-use-windows-workspaces.page:36
+#: C/getting-started.page:78 C/getting-started.page:228
+#: C/gs-use-windows-workspaces.page:36
 msgid "When the screen is highlighted, release the window."
 msgstr "Када се екран истакне, пустите прозор."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:81 C/gs-use-windows-workspaces.page:39
+#: C/getting-started.page:81 C/getting-started.page:231
+#: C/gs-use-windows-workspaces.page:39
 msgid ""
-"To unmaximize a window, grab the window's titlebar and drag it away from the "
+"To unmaximize a window, grab the window’s titlebar and drag it away from the "
 "edges of the screen."
 msgstr ""
 "Да бисте поништили увећање прозора, зграбите насловну траку прозора и "
-"повуците је ван ивица екрана."
+"удаљите је од ивица екрана."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:85 C/gs-use-windows-workspaces.page:43
+#: C/getting-started.page:85 C/getting-started.page:235
+#: C/gs-use-windows-workspaces.page:43
 msgid ""
 "You can also click the top bar to drag the window away and unmaximize it."
 msgstr ""
@@ -149,9 +154,10 @@ msgstr ""
 
 #. (itstool) path: div/p
 #: C/getting-started.page:89 C/getting-started.page:163
-#: C/gs-switch-tasks.page:42 C/gs-use-windows-workspaces.page:47
+#: C/getting-started.page:239 C/gs-switch-tasks.page:42
+#: C/gs-use-windows-workspaces.page:47
 msgid ""
-"To maximize a window along the left side of the screen, grab the window's "
+"To maximize a window along the left side of the screen, grab the window’s "
 "titlebar and drag it to the left."
 msgstr ""
 "Да бисте увећали прозор уз леву страну екрана, зграбите насловну траку "
@@ -160,15 +166,17 @@ msgstr ""
 #. (itstool) path: div/p
 #: C/getting-started.page:93 C/getting-started.page:101
 #: C/getting-started.page:167 C/getting-started.page:175
+#: C/getting-started.page:243 C/getting-started.page:251
 #: C/gs-switch-tasks.page:46 C/gs-switch-tasks.page:54
 #: C/gs-use-windows-workspaces.page:51 C/gs-use-windows-workspaces.page:59
 msgid "When half of the screen is highlighted, release the window."
 msgstr "Када се половина екрана истакне, пустите прозор."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:97 C/gs-use-windows-workspaces.page:55
+#: C/getting-started.page:97 C/getting-started.page:247
+#: C/gs-use-windows-workspaces.page:55
 msgid ""
-"To maximize a window along the right side of the screen, grab the window's "
+"To maximize a window along the right side of the screen, grab the window’s "
 "titlebar and drag it to the right."
 msgstr ""
 "Да бисте увећали прозор уз десну страну екрана, зграбите насловну траку "
@@ -176,8 +184,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:105 C/gs-use-windows-workspaces.page:63
-#: C/gs-use-windows-workspaces.page:134
+#: C/getting-started.page:105 C/getting-started.page:255
+#: C/gs-use-windows-workspaces.page:63 C/gs-use-windows-workspaces.page:134
 msgid ""
 "To maximize a window using the keyboard, hold down the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
@@ -187,7 +195,8 @@ msgstr ""
 "<key>↑</key>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:110 C/gs-use-windows-workspaces.page:68
+#: C/getting-started.page:110 C/getting-started.page:260
+#: C/gs-use-windows-workspaces.page:68
 msgid ""
 "To restore the window to its unmaximized size, hold down the <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
@@ -198,8 +207,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:115 C/gs-use-windows-workspaces.page:73
-#: C/gs-use-windows-workspaces.page:148
+#: C/getting-started.page:115 C/getting-started.page:265
+#: C/gs-use-windows-workspaces.page:73 C/gs-use-windows-workspaces.page:148
 msgid ""
 "To maximize a window along the right side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
@@ -211,8 +220,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:120 C/gs-use-windows-workspaces.page:78
-#: C/gs-use-windows-workspaces.page:151
+#: C/getting-started.page:120 C/getting-started.page:270
+#: C/gs-use-windows-workspaces.page:78 C/gs-use-windows-workspaces.page:151
 msgid ""
 "To maximize a window along the left side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
@@ -223,7 +232,8 @@ msgstr ""
 "тастер <key>←</key>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:125 C/gs-use-windows-workspaces.page:83
+#: C/getting-started.page:125 C/getting-started.page:275
+#: C/gs-use-windows-workspaces.page:83
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
@@ -234,7 +244,8 @@ msgstr ""
 "\">Super </key><key>Page Down</key></keyseq>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:130 C/gs-use-windows-workspaces.page:88
+#: C/getting-started.page:130 C/getting-started.page:280
+#: C/gs-use-windows-workspaces.page:88
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
@@ -268,11 +279,11 @@ msgstr "Кликните на прозор да бисте се пребацил
 #. (itstool) path: div/p
 #: C/getting-started.page:171 C/gs-switch-tasks.page:50
 msgid ""
-"To maximize a window along the right side, grab the window's titlebar and "
+"To maximize a window along the right side, grab the window’s titlebar and "
 "drag it to the right."
 msgstr ""
 "Да бисте увећали прозор уз десну страну, зграбите насловну траку прозора и "
-"повуците је на десно."
+"повуците је надесно."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:179 C/gs-switch-tasks.page:58
@@ -329,97 +340,57 @@ msgstr ""
 "key> да бисте се пребацили на њега."
 
 #. (itstool) path: caption/desc
-#. (itstool) path: page/title
-#: C/getting-started.page:214 C/gs-respond-messages.page:21
-msgid "Respond to messages"
-msgstr "Одговарање на поруке"
+#: C/getting-started.page:295
+msgid "Change wallpaper"
+msgstr "Промена позадине"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:220 C/gs-animation.xml:7
-#: C/gs-respond-messages.page:29
-msgid "Responding to Messages"
-msgstr "Одговарање на поруке"
+#: C/getting-started.page:300 C/gs-animation.xml:6
+#: C/gs-change-wallpaper.page:28
+msgid "Changing Wallpaper"
+msgstr "Промена позадине"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:303 C/gs-change-wallpaper.page:31
+msgid ""
+"Click the system menu on the right side of the top bar and press the "
+"settings button."
+msgstr ""
+"Кликните на системски изборник у десној страни горње траке и притисните "
+"дугме за подешавања."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:307 C/gs-change-wallpaper.page:35
+msgid "Select <gui>Background</gui>."
+msgstr "Изаберите <gui>Позадина</gui>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:310 C/gs-change-wallpaper.page:38
+msgid "Click the current background image."
+msgstr "Кликните на тренутну слику позадине."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:223 C/gs-respond-messages.page:32
-#: C/gs-respond-messages.page:80
-msgid ""
-"Move your mouse over the chat message that appears near the top of the "
-"screen."
-msgstr "Померите показивач миша на поруку која се појавила при врху екрана."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:227 C/gs-respond-messages.page:36
-msgid ""
-"Start typing your reply and when finished, press <key>Enter </key> to send "
-"the reply."
-msgstr ""
-"Почните са куцањем вашег одговора и, када завршите са писањем одговора, "
-"притисните <key>Enter </key> за слање одговора."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:231 C/gs-respond-messages.page:40
-msgid "Close the chat message."
-msgstr "Затворите поруку."
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:234 C/gs-animation.xml:9
-#: C/gs-respond-messages.page:43
-msgid "Delayed Response"
-msgstr "Одложено одговарање"
-
-#. (itstool) path: div/p
-#: C/getting-started.page:237 C/gs-respond-messages.page:46
-msgid ""
-"A chat message near the top of the screen disappears after a while if you do "
-"not move your mouse over the message."
-msgstr ""
-"Порука на врху екрана ће нестати после одређеног времена ако не померите "
-"миша преко поруке."
+#: C/getting-started.page:313 C/gs-change-wallpaper.page:41
+#: C/gs-change-wallpaper.page:64
+msgid "Click the background image you want to use."
+msgstr "Кликните на слику коју желите да користите као позадину."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:241 C/gs-respond-messages.page:50
-#: C/gs-respond-messages.page:96
-msgid "To get back to your unanswered message, click the clock on the top bar."
-msgstr ""
-"Да бисте се вратили на вашу неодговорену поруку, кликните на сат у горњој "
-"траци."
+#: C/getting-started.page:316 C/gs-change-wallpaper.page:44
+#: C/gs-change-wallpaper.page:65
+msgid "Click the <gui>Select</gui> button."
+msgstr "Кликните на дугме <gui>Изабери</gui>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:245 C/gs-respond-messages.page:54
-msgid "From the notification list, choose your message."
-msgstr "Из списка обавештења изаберите вашу поруку."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:248 C/getting-started.page:260
-#: C/gs-respond-messages.page:57 C/gs-respond-messages.page:69
-msgid "Start typing your reply."
-msgstr "Почните са куцањем одговора."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:251 C/gs-respond-messages.page:60
-msgid ""
-"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
-msgstr ""
-"Да бисте приказали списак са обавештењима, притисните <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key> <key>V</key></keyseq>"
-
-#. (itstool) path: div/p
-#: C/getting-started.page:256 C/gs-respond-messages.page:65
-msgid ""
-"Use the arrow keys to select the message you want to reply to, and press "
-"<key>Enter</key>."
-msgstr ""
-"Искористите стрелице да бисте изабрали поруку на коју желите да одговорите и "
-"притисните <key>Enter</key>."
+#: C/getting-started.page:319 C/gs-change-wallpaper.page:47
+msgid "Close the <gui>Background</gui> window."
+msgstr "Затворите прозор <gui>Позадина</gui>."
 
 #. (itstool) path: links/title
-#: C/getting-started.page:269
+#: C/getting-started.page:330
 msgid "Common Tasks"
 msgstr "Честе радње"
 
@@ -430,9 +401,15 @@ msgstr "Добро дошли"
 
 #. (itstool) path: titles/t
 #. (itstool) path: div/p
-#: C/gs-animation.xml:6 C/gs-change-wallpaper.page:28
-msgid "Changing Wallpaper"
-msgstr "Промена позадине"
+#: C/gs-animation.xml:7 C/gs-respond-messages.page:30
+msgid "Responding to Messages"
+msgstr "Одговарање на поруке"
+
+#. (itstool) path: titles/t
+#. (itstool) path: div/p
+#: C/gs-animation.xml:9 C/gs-respond-messages.page:44
+msgid "Delayed Response"
+msgstr "Одложено одговарање"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:11
@@ -561,8 +538,8 @@ msgstr "Спреман за састанак?"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:39
-msgid "I'll be there in a sec..."
-msgstr "Ту сам за тренутак..."
+msgid "I’ll be there in a sec…"
+msgstr "Ту сам за тренутак…"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
@@ -617,12 +594,12 @@ msgstr "Аутоматска временска зона"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:53
-msgid "14 October 2013, 20:00"
+msgid "14 October 2013, 20∶00"
 msgstr "14. октобар 2013. 20:00"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:54
-msgid "14 October 2013, 14:00"
+msgid "14 October 2013, 14∶00"
 msgstr "14. октобар 2013. 14:00"
 
 #. (itstool) path: credit/name
@@ -870,42 +847,6 @@ msgstr "Упутство за промену позадине"
 msgid "Change the wallpaper"
 msgstr "Промена позадине"
 
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:31
-msgid ""
-"Click the system menu on the right side of the top bar and press the "
-"settings button."
-msgstr ""
-"Кликните на системски изборник у десној страни горње траке и притисните "
-"дугме за подешавања."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:35
-msgid "Select <gui>Background</gui>."
-msgstr "Изаберите <gui>Позадина</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:38
-msgid "Click the current background image."
-msgstr "Кликните на тренутну слику позадине."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:64
-msgid "Click the background image you want to use."
-msgstr "Кликните на слику коју желите да користите као позадину."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:65
-msgid "Click the <gui>Select</gui> button."
-msgstr "Кликните на дугме <gui>Изабери</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:47
-msgid "Close the <gui>Background</gui> window."
-msgstr "Затворите прозор <gui>Позадина</gui>."
-
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
 msgid "Click the <gui>Background</gui> panel."
@@ -1061,7 +1002,7 @@ msgstr "Аутоматска временска зона"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:113
 #, no-wrap
-msgid "September 1st 2015, 9:51 AM"
+msgid "September 1st 2015, 9∶51 AM"
 msgstr "1. септембар 2015. 09:51"
 
 #. (itstool) path: text/tspan
@@ -1412,7 +1353,7 @@ msgstr "Документи"
 #: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
 #: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
-msgid "14:30"
+msgid "14∶30"
 msgstr "14:30"
 
 #. (itstool) path: text/tspan
@@ -1565,24 +1506,96 @@ msgid "This work is licensed under a <_:link-1/>."
 msgstr "Ово дело је издато под дозволом <_:link-1/>."
 
 #. (itstool) path: info/title
-#: C/gs-respond-messages.page:15
+#: C/gs-respond-messages.page:18
 msgctxt "link:trail"
 msgid "Respond to messages"
 msgstr "Одговарање на поруке"
 
 #. (itstool) path: info/title
-#: C/gs-respond-messages.page:17
+#: C/gs-respond-messages.page:19
 msgctxt "link:seealso"
 msgid "A tutorial on responding to messages"
 msgstr "Упутство за одговарање на поруке"
 
+#. (itstool) path: page/title
+#: C/gs-respond-messages.page:22
+msgid "Respond to messages"
+msgstr "Одговарање на поруке"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:33 C/gs-respond-messages.page:81
+msgid ""
+"Move your mouse over the chat message that appears near the top of the "
+"screen."
+msgstr "Померите показивач миша на поруку која се појавила при врху екрана."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:37
+msgid ""
+"Start typing your reply and when finished, press <key>Enter </key> to send "
+"the reply."
+msgstr ""
+"Почните са куцањем вашег одговора и, када завршите са писањем одговора, "
+"притисните <key>Enter </key> за слање одговора."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:41
+msgid "Close the chat message."
+msgstr "Затворите поруку."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:47
+msgid ""
+"A chat message near the top of the screen disappears after a while if you do "
+"not move your mouse over the message."
+msgstr ""
+"Порука на врху екрана ће нестати после одређеног времена ако не померите "
+"миша преко поруке."
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:51 C/gs-respond-messages.page:97
+msgid "To get back to your unanswered message, click the clock on the top bar."
+msgstr ""
+"Да бисте се вратили на вашу неодговорену поруку, кликните на сат у горњој "
+"траци."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:55
+msgid "From the notification list, choose your message."
+msgstr "Из списка обавештења изаберите вашу поруку."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:58 C/gs-respond-messages.page:70
+msgid "Start typing your reply."
+msgstr "Почните са куцањем одговора."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:61
+msgid ""
+"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
+msgstr ""
+"Да бисте приказали списак са обавештењима, притисните <keyseq> <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key> <key>V</key></keyseq>"
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:66
+msgid ""
+"Use the arrow keys to select the message you want to reply to, and press "
+"<key>Enter</key>."
+msgstr ""
+"Искористите стрелице да бисте изабрали поруку на коју желите да одговорите и "
+"притисните <key>Enter</key>."
+
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:77
+#: C/gs-respond-messages.page:78
 msgid "Respond to a chat message with the mouse"
 msgstr "Одговарање на поруку помоћу миша"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:82
+#: C/gs-respond-messages.page:83
 msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send "
 "the reply."
@@ -1591,7 +1604,7 @@ msgstr ""
 "<key>Enter</key> да бисте послали одговор."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:84
+#: C/gs-respond-messages.page:85
 msgid ""
 "To close the chat message, click the close button at the top right corner of "
 "the chat message."
@@ -1600,12 +1613,12 @@ msgstr ""
 "углу поруке са ћаскања."
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:91
+#: C/gs-respond-messages.page:92
 msgid "Delayed response to a chat message using the mouse"
 msgstr "Одложено одговарање на поруку помоћу миша"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:94
+#: C/gs-respond-messages.page:95
 msgid ""
 "When a chat message appears near the top of the screen and you do not move "
 "your mouse over the message, it disappears after a while."
@@ -1614,7 +1627,7 @@ msgstr ""
 "поруку, она ће нестати после одређеног времена."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:98
+#: C/gs-respond-messages.page:99
 msgid ""
 "From the notification list, choose the message you want to reply to, and "
 "click it."
@@ -1623,17 +1636,17 @@ msgstr ""
 "кликните на њу."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:100 C/gs-respond-messages.page:114
+#: C/gs-respond-messages.page:101 C/gs-respond-messages.page:115
 msgid "When the chat message is shown, start typing your reply."
 msgstr "Када се порука са ћаскања прикаже, крените са куцањем вашег одговора."
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:106
+#: C/gs-respond-messages.page:107
 msgid "Delayed response to a chat message using the keyboard"
 msgstr "Одложено одговарање на поруку помоћу тастатуре"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:108
+#: C/gs-respond-messages.page:109
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq> <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
@@ -1644,7 +1657,7 @@ msgstr ""
 "key> </keyseq> да би вам се приказао списак тих порука."
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:112
+#: C/gs-respond-messages.page:113
 msgid ""
 "Use the arrow keys to select the notification you want to reply to, and "
 "press <key>Enter</key>."
@@ -1673,8 +1686,8 @@ msgstr "Налози"
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:247
 #, no-wrap
-msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
-msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:248
@@ -1802,7 +1815,7 @@ msgstr "Слагање прозора"
 #. (itstool) path: item/p
 #: C/gs-switch-tasks.page:122 C/gs-use-windows-workspaces.page:118
 msgid ""
-"To maximize a window along a side of the screen, grab the window's titlebar "
+"To maximize a window along a side of the screen, grab the window’s titlebar "
 "and drag it to the left or right side of the screen."
 msgstr ""
 "Да бисте увећали прозор преко леве или десне стране екрана, зграбите "
@@ -2255,7 +2268,7 @@ msgstr "Увећавање и смањивање прозора"
 #: C/gs-use-windows-workspaces.page:102
 msgid ""
 "To maximize a window so that it takes up all of the space on your desktop, "
-"grab the window's titlebar and drag it to the top of the screen."
+"grab the window’s titlebar and drag it to the top of the screen."
 msgstr ""
 "Да бисте повећали прозор тако да испуни сав простор на вашој радној "
 "површини, зграбите насловну траку прозора и повуците је ка врху екрана."
@@ -2268,11 +2281,11 @@ msgstr "Када се екран осветли, пустите прозор д�
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:107
 msgid ""
-"To restore a window to its unmaximized size, grab the window's titlebar and "
+"To restore a window to its unmaximized size, grab the window’s titlebar and "
 "drag it away from the edges of the screen."
 msgstr ""
-"Да бисте вратили прозор на своје претходно стање, зграбите насловну траку "
-"прозора и повуците га ка средини екрана."
+"Да бисте вратили прозор на своје претходно, неувећано стање, зграбите "
+"насловну траку прозора и удаљите је од ивица екрана."
 
 #. (itstool) path: section/title
 #: C/gs-use-windows-workspaces.page:131
@@ -2367,6 +2380,9 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "ГНОМОВА Планета"
+
+#~ msgid "14:30"
+#~ msgstr "14:30"
 
 #~ msgid "Enabled"
 #~ msgstr "Омогућено"
