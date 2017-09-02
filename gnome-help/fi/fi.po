@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2015-10-06 07:41+0000\n"
-"PO-Revision-Date: 2015-10-06 19:59+0300\n"
+"POT-Creation-Date: 2017-06-28 17:29+0000\n"
+"PO-Revision-Date: 2017-09-02 15:06+0300\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos+l10n@iki.fi>\n"
 "Language-Team: suomi <gnome-fi-laatu@lists.sourceforge.net>\n"
 "Language: fi\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"X-Generator: Poedit 1.8.7.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -102,78 +102,93 @@ msgstr "Paina <key>Enter</key> käynnistääksesi sovelluksen."
 
 #. (itstool) path: caption/desc
 #. (itstool) path: page/title
-#: C/getting-started.page:66 C/gs-use-windows-workspaces.page:21
+#: C/getting-started.page:66 C/getting-started.page:216
+#: C/gs-use-windows-workspaces.page:21
 msgid "Use windows and workspaces"
 msgstr "Käytä ikkunoita ja työtiloja"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:71 C/gs-animation.xml:10
+#: C/getting-started.page:71 C/getting-started.page:221 C/gs-animation.xml:10
 #: C/gs-use-windows-workspaces.page:29
 msgid "Windows and Workspaces"
 msgstr "Ikkunat ja työtilat"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:74 C/gs-use-windows-workspaces.page:32
+#: C/getting-started.page:74 C/getting-started.page:224
+#: C/gs-use-windows-workspaces.page:32
 msgid ""
-"To maximize a window, grab the window's titlebar and drag it to the top of "
+"To maximize a window, grab the window’s titlebar and drag it to the top of "
 "the screen."
 msgstr ""
 "Suurentaaksesi ikkunan, tartu ikkunan ikkunapalkista kiinni ja vedä ikkuna "
 "näytön yläosaan."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:78 C/gs-use-windows-workspaces.page:36
+#: C/getting-started.page:78 C/getting-started.page:228
+#: C/gs-use-windows-workspaces.page:36
 msgid "When the screen is highlighted, release the window."
 msgstr "Kun ikkuna korostuu, vapauta se hiiren napista."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:81 C/gs-use-windows-workspaces.page:39
+#: C/getting-started.page:81 C/getting-started.page:231
+#: C/gs-use-windows-workspaces.page:39
 msgid ""
-"To unmaximize a window, grab the window's titlebar and drag it away from the "
+"To unmaximize a window, grab the window’s titlebar and drag it away from the "
 "edges of the screen."
 msgstr ""
+"Palauttaaksesi ikkunan koon, tartu ikkunan ikkunapalkista kiinni ja vedä "
+"ikkuna pois näytön reunasta."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:85 C/gs-use-windows-workspaces.page:43
+#: C/getting-started.page:85 C/getting-started.page:235
+#: C/gs-use-windows-workspaces.page:43
 msgid ""
 "You can also click the top bar to drag the window away and unmaximize it."
 msgstr ""
 
 #. (itstool) path: div/p
 #: C/getting-started.page:89 C/getting-started.page:163
-#: C/gs-switch-tasks.page:42 C/gs-use-windows-workspaces.page:47
+#: C/getting-started.page:239 C/gs-switch-tasks.page:42
+#: C/gs-use-windows-workspaces.page:47
 msgid ""
-"To maximize a window along the left side of the screen, grab the window's "
+"To maximize a window along the left side of the screen, grab the window’s "
 "titlebar and drag it to the left."
 msgstr ""
+"Suurentaaksesi ikkunan näytön vasempaan laitaan, tartu kiinni ikkunan "
+"ikkunapalkista ja vedä se näytön vasempaan laitaan."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:93 C/getting-started.page:101
 #: C/getting-started.page:167 C/getting-started.page:175
+#: C/getting-started.page:243 C/getting-started.page:251
 #: C/gs-switch-tasks.page:46 C/gs-switch-tasks.page:54
 #: C/gs-use-windows-workspaces.page:51 C/gs-use-windows-workspaces.page:59
 msgid "When half of the screen is highlighted, release the window."
 msgstr "Kun puolet näytöstä on korostettuna, vapauta ikkuna."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:97 C/gs-use-windows-workspaces.page:55
+#: C/getting-started.page:97 C/getting-started.page:247
+#: C/gs-use-windows-workspaces.page:55
 msgid ""
-"To maximize a window along the right side of the screen, grab the window's "
+"To maximize a window along the right side of the screen, grab the window’s "
 "titlebar and drag it to the right."
 msgstr ""
+"Suurentaaksesi ikkunan näytön oikeaan laitaan, tartu kiinni ikkunan "
+"ikkunapalkista ja vedä se näytön oikeaan laitaan."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:105 C/gs-use-windows-workspaces.page:63
-#: C/gs-use-windows-workspaces.page:134
+#: C/getting-started.page:105 C/getting-started.page:255
+#: C/gs-use-windows-workspaces.page:63 C/gs-use-windows-workspaces.page:134
 msgid ""
 "To maximize a window using the keyboard, hold down the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
 msgstr ""
 
 #. (itstool) path: div/p
-#: C/getting-started.page:110 C/gs-use-windows-workspaces.page:68
+#: C/getting-started.page:110 C/getting-started.page:260
+#: C/gs-use-windows-workspaces.page:68
 msgid ""
 "To restore the window to its unmaximized size, hold down the <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
@@ -182,8 +197,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:115 C/gs-use-windows-workspaces.page:73
-#: C/gs-use-windows-workspaces.page:148
+#: C/getting-started.page:115 C/getting-started.page:265
+#: C/gs-use-windows-workspaces.page:73 C/gs-use-windows-workspaces.page:148
 msgid ""
 "To maximize a window along the right side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
@@ -192,8 +207,8 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:120 C/gs-use-windows-workspaces.page:78
-#: C/gs-use-windows-workspaces.page:151
+#: C/getting-started.page:120 C/getting-started.page:270
+#: C/gs-use-windows-workspaces.page:78 C/gs-use-windows-workspaces.page:151
 msgid ""
 "To maximize a window along the left side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
@@ -201,7 +216,8 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: div/p
-#: C/getting-started.page:125 C/gs-use-windows-workspaces.page:83
+#: C/getting-started.page:125 C/getting-started.page:275
+#: C/gs-use-windows-workspaces.page:83
 msgid ""
 "To move to a workspace which is below the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
@@ -209,7 +225,8 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: div/p
-#: C/getting-started.page:130 C/gs-use-windows-workspaces.page:88
+#: C/getting-started.page:130 C/getting-started.page:280
+#: C/gs-use-windows-workspaces.page:88
 msgid ""
 "To move to a workspace which is above the current workspace, press "
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
@@ -240,7 +257,7 @@ msgstr "Napsauta ikkunaa vaihtaaksesi kyseiseen tehtävään."
 #. (itstool) path: div/p
 #: C/getting-started.page:171 C/gs-switch-tasks.page:50
 msgid ""
-"To maximize a window along the right side, grab the window's titlebar and "
+"To maximize a window along the right side, grab the window’s titlebar and "
 "drag it to the right."
 msgstr ""
 "Suurentaaksesi ikkunan näytön oikeaan laitaan, tartu kiinni ikkunan "
@@ -294,87 +311,57 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: caption/desc
-#. (itstool) path: page/title
-#: C/getting-started.page:214 C/gs-respond-messages.page:21
-msgid "Respond to messages"
-msgstr "Vastaa viesteihin"
+#: C/getting-started.page:295
+msgid "Change wallpaper"
+msgstr "Vaihda taustakuva"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:220 C/gs-animation.xml:7
-#: C/gs-respond-messages.page:29
-msgid "Responding to Messages"
-msgstr "Viesteihin vastaaminen"
+#: C/getting-started.page:300 C/gs-animation.xml:6
+#: C/gs-change-wallpaper.page:28
+msgid "Changing Wallpaper"
+msgstr "Taustakuvan vaihtaminen"
+
+#. (itstool) path: div/p
+#: C/getting-started.page:303 C/gs-change-wallpaper.page:31
+msgid ""
+"Click the system menu on the right side of the top bar and press the "
+"settings button."
+msgstr ""
+"Avaa järjestelmävalikko yläpalkin oikeasta laidasta ja napsauta Asetukset-"
+"kuvaketta."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:307 C/gs-change-wallpaper.page:35
+msgid "Select <gui>Background</gui>."
+msgstr "Valitse <gui>Taustakuva</gui>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:310 C/gs-change-wallpaper.page:38
+msgid "Click the current background image."
+msgstr "Napsauta nykyistä taustakuvaa."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:223 C/gs-respond-messages.page:32
-#: C/gs-respond-messages.page:80
-msgid ""
-"Move your mouse over the chat message that appears near the top of the "
-"screen."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:227 C/gs-respond-messages.page:36
-msgid ""
-"Start typing your reply and when finished, press <key>Enter </key> to send "
-"the reply."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:231 C/gs-respond-messages.page:40
-msgid "Close the chat message."
-msgstr "Sulje viesti."
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:234 C/gs-animation.xml:9
-#: C/gs-respond-messages.page:43
-msgid "Delayed Response"
-msgstr "Viivästynyt vastaus"
-
-#. (itstool) path: div/p
-#: C/getting-started.page:237 C/gs-respond-messages.page:46
-msgid ""
-"A chat message near the top of the screen disappears after a while if you do "
-"not move your mouse over the message."
-msgstr ""
+#: C/getting-started.page:313 C/gs-change-wallpaper.page:41
+#: C/gs-change-wallpaper.page:64
+msgid "Click the background image you want to use."
+msgstr "Napsauta kuvaa, jota haluat käyttää taustakuvana."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:241 C/gs-respond-messages.page:50
-#: C/gs-respond-messages.page:96
-msgid "To get back to your unanswered message, click the clock on the top bar."
-msgstr ""
+#: C/getting-started.page:316 C/gs-change-wallpaper.page:44
+#: C/gs-change-wallpaper.page:65
+msgid "Click the <gui>Select</gui> button."
+msgstr "Napsauta <gui>Valitse</gui>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:245 C/gs-respond-messages.page:54
-msgid "From the notification list, choose your message."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:248 C/getting-started.page:260
-#: C/gs-respond-messages.page:57 C/gs-respond-messages.page:69
-msgid "Start typing your reply."
-msgstr "Aloita vastauksen kirjoittaminen."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:251 C/gs-respond-messages.page:60
-msgid ""
-"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:256 C/gs-respond-messages.page:65
-msgid ""
-"Use the arrow keys to select the message you want to reply to, and press "
-"<key>Enter</key>."
-msgstr ""
+#: C/getting-started.page:319 C/gs-change-wallpaper.page:47
+msgid "Close the <gui>Background</gui> window."
+msgstr "Sulje <gui>Taustakuva</gui>-ikkuna."
 
 #. (itstool) path: links/title
-#: C/getting-started.page:269
+#: C/getting-started.page:330
 msgid "Common Tasks"
 msgstr "Yleiset toimenpiteet"
 
@@ -385,9 +372,15 @@ msgstr "Tervetuloa"
 
 #. (itstool) path: titles/t
 #. (itstool) path: div/p
-#: C/gs-animation.xml:6 C/gs-change-wallpaper.page:28
-msgid "Changing Wallpaper"
-msgstr "Taustakuvan vaihtaminen"
+#: C/gs-animation.xml:7 C/gs-respond-messages.page:30
+msgid "Responding to Messages"
+msgstr "Viesteihin vastaaminen"
+
+#. (itstool) path: titles/t
+#. (itstool) path: div/p
+#: C/gs-animation.xml:9 C/gs-respond-messages.page:44
+msgid "Delayed Response"
+msgstr "Viivästynyt vastaus"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:11
@@ -484,7 +477,7 @@ msgstr "Aloita kirjoittaminen…"
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
 #: C/gs-animation.xml:33 C/gs-go-online1.svg:249
-#: C/gs-thumb-responding-to-messages.svg:90
+#: C/gs-thumb-responding-to-messages.svg:89
 #, no-wrap
 msgid "John Doe"
 msgstr "John Doe"
@@ -516,12 +509,12 @@ msgstr "Valmiina kokoukseen?"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:39
-msgid "I'll be there in a sec..."
-msgstr "Tulen aivan kohta..."
+msgid "I’ll be there in a sec…"
+msgstr "Tulen aivan kohta…"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:40 C/gs-thumb-responding-to-messages.svg:89
+#: C/gs-animation.xml:40 C/gs-thumb-responding-to-messages.svg:88
 #, no-wrap
 msgid "Good stuff, thanks again"
 msgstr "Hyvä juttu, kiitos taas"
@@ -572,47 +565,66 @@ msgstr "Automaattinen aikavyöhyke"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:53
-msgid "14 October 2013, 20:00"
-msgstr "14. lokakuuta 2013, 20:00"
+msgid "14 October 2013, 20∶00"
+msgstr "14. lokakuuta 2013, 20∶00"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:54
-msgid "14 October 2013, 14:00"
-msgstr "14. lokakuuta 2013, 14:00"
+msgid "14 October 2013, 14∶00"
+msgstr "14. lokakuuta 2013, 14∶00"
 
 #. (itstool) path: credit/name
-#: C/gs-browse-web.page:9 C/gs-browse-web-firefox.page:10
-#: C/gs-change-date-time-timezone.page:9 C/gs-change-wallpaper.page:9
-#: C/gs-connect-online-accounts.page:9 C/gs-get-online.page:9
-#: C/gs-launch-applications.page:9 C/gs-respond-messages.page:9
-#: C/gs-switch-tasks.page:10 C/gs-use-system-search.page:9
-#: C/gs-use-windows-workspaces.page:9
+#: C/gs-browse-web.page:10 C/gs-change-date-time-timezone.page:9
+#: C/gs-change-wallpaper.page:9 C/gs-connect-online-accounts.page:9
+#: C/gs-get-online.page:9 C/gs-launch-applications.page:9
+#: C/gs-respond-messages.page:9 C/gs-switch-tasks.page:10
+#: C/gs-use-system-search.page:9 C/gs-use-windows-workspaces.page:9
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
 #. (itstool) path: credit/name
-#: C/gs-browse-web.page:12 C/gs-browse-web-firefox.page:13
-#: C/gs-change-date-time-timezone.page:12 C/gs-change-wallpaper.page:12
-#: C/gs-connect-online-accounts.page:12 C/gs-get-online.page:12
-#: C/gs-launch-applications.page:12 C/gs-respond-messages.page:12
-#: C/gs-switch-tasks.page:13 C/gs-use-system-search.page:12
-#: C/gs-use-windows-workspaces.page:12
+#: C/gs-browse-web.page:13 C/gs-change-date-time-timezone.page:12
+#: C/gs-change-wallpaper.page:12 C/gs-connect-online-accounts.page:12
+#: C/gs-get-online.page:12 C/gs-launch-applications.page:12
+#: C/gs-respond-messages.page:12 C/gs-switch-tasks.page:13
+#: C/gs-use-system-search.page:12 C/gs-use-windows-workspaces.page:12
 msgid "Petr Kovar"
 msgstr "Petr Kovar"
 
 #. (itstool) path: info/title
-#: C/gs-browse-web.page:17
+#: C/gs-browse-web.page:16
 msgctxt "link:trail"
 msgid "Browse the web"
 msgstr "Selaa verkkoa"
 
+#. (itstool) path: info/title
+#: C/gs-browse-web.page:18
+#, fuzzy
+#| msgctxt "link:seealso"
+#| msgid "A tutorial on changing the wallpaper"
+msgctxt "link:seealso"
+msgid "A tutorial on browsing the web"
+msgstr "Opas taustakuvan vaihtamiseen"
+
 #. (itstool) path: page/title
-#: C/gs-browse-web.page:20 C/gs-browse-web-firefox.page:21
+#: C/gs-browse-web.page:22
 msgid "Browse the web"
 msgstr "Selaa verkkoa"
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:26 C/gs-browse-web-firefox.page:30
+#: C/gs-browse-web.page:31
+msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:33
+msgid ""
+"From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
+"guiseq>."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:47 C/gs-browse-web.page:65
 #: C/gs-launch-applications.page:64
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
@@ -620,62 +632,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:29
-msgid ""
-"Select the <app>Web</app> browser icon from the bar on the left-hand side of "
-"the screen."
-msgstr ""
-
-#. (itstool) path: note/p
-#: C/gs-browse-web.page:33
-msgid ""
-"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
-"search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
-"gui>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:41 C/gs-browse-web-firefox.page:61
-msgid ""
-"Click the address bar at the top of the browser window and start typing in "
-"the website you want to visit."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:43 C/gs-browse-web-firefox.page:63
-msgid ""
-"Typing in a website starts searching for it in the browser history and "
-"bookmarks, so you do not need to remember the exact address."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:46 C/gs-browse-web-firefox.page:66
-msgid ""
-"If the website is found in the history or bookmarks, a drop-down list is "
-"shown below the address bar."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:48 C/gs-browse-web-firefox.page:68
-msgid ""
-"From the drop-down list, you can quickly select a website using the arrow "
-"keys."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:51 C/gs-browse-web-firefox.page:71
-msgid "After you have selected a website, press <key>Enter</key> to visit it."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:33
+#: C/gs-browse-web.page:50
 msgid ""
 "Select the <app>Firefox</app> browser icon from the bar on the left-hand "
 "side of the screen."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/gs-browse-web-firefox.page:37
+#: C/gs-browse-web.page:54
 msgid ""
 "Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
 "search\">just typing</link> <em>Firefox</em> in the <gui>Activities "
@@ -686,26 +650,52 @@ msgstr ""
 "gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:48
-msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
+#: C/gs-browse-web.page:68
+msgid ""
+"Select the <app>Web</app> browser icon from the bar on the left-hand side of "
+"the screen."
+msgstr ""
+
+#. (itstool) path: note/p
+#: C/gs-browse-web.page:72
+msgid ""
+"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
+"search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
+"gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:50
+#: C/gs-browse-web.page:92
 msgid ""
-"From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
-"guiseq>."
+"Click the address bar at the top of the browser window and start typing in "
+"the website you want to visit."
 msgstr ""
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-change-date-time-timezone.page:35
-msgctxt "_"
-msgid "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
-msgstr "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:94
+msgid ""
+"Typing in a website starts searching for it in the browser history and "
+"bookmarks, so you do not need to remember the exact address."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:97
+msgid ""
+"If the website is found in the history or bookmarks, a drop-down list is "
+"shown below the address bar."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:99
+msgid ""
+"From the drop-down list, you can quickly select a website using the arrow "
+"keys."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:102
+msgid "After you have selected a website, press <key>Enter</key> to visit it."
+msgstr ""
 
 #. (itstool) path: info/title
 #: C/gs-change-date-time-timezone.page:15
@@ -728,12 +718,13 @@ msgstr "Vaihda päivää, aikaa ja aikavyöhykettä"
 #: C/gs-change-date-time-timezone.page:28 C/gs-change-wallpaper.page:58
 #: C/gs-connect-online-accounts.page:28 C/gs-get-online.page:63
 #: C/gs-use-system-search.page:83
-#, fuzzy
 #| msgid "Click the system menu on the right side of the top bar."
 msgid ""
 "Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
 "right side of the top bar."
-msgstr "Napsauta yläpalkin oikeassa laidassa olevaa järjestelmävalikkoa."
+msgstr ""
+"Napsauta <gui xref=\"shell-introduction#yourname\">järjestelmävalikkoa</gui> "
+"yläpalkin oikeasta laidasta."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:30 C/gs-change-wallpaper.page:60
@@ -764,10 +755,11 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:42
+#, fuzzy
+#| msgid "Select the <gui>Date &amp; Time</gui> panel."
 msgid ""
-"Close the world map window to go back to the <gui>Date &amp; Time Settings</"
-"gui>."
-msgstr ""
+"Close the world map window to go back to the <gui>Date &amp; Time</gui>."
+msgstr "Valitse <gui>Päivä ja aika</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:44
@@ -780,10 +772,12 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:49
+#, fuzzy
+#| msgid "Select the <gui>Date &amp; Time</gui> panel."
 msgid ""
-"Close the window to go back to the <gui>Date &amp; Time Settings</gui>, and "
-"then close the panel."
-msgstr ""
+"Close the window to go back to the <gui>Date &amp; Time</gui>, and then "
+"close the panel."
+msgstr "Valitse <gui>Päivä ja aika</gui>."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:15
@@ -803,45 +797,8 @@ msgstr "Opas taustakuvan vaihtamiseen"
 msgid "Change the wallpaper"
 msgstr "Vaihda taustakuvaa"
 
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:31
-msgid ""
-"Click the system menu on the right side of the top bar and press the "
-"settings button."
-msgstr ""
-"Avaa järjestelmävalikko yläpalkin oikeasta laidasta ja napsauta Asetukset-"
-"kuvaketta."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:35
-msgid "Select <gui>Background</gui>."
-msgstr "Valitse <gui>Taustakuva</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:38
-msgid "Click the current background image."
-msgstr "Napsauta nykyistä taustakuvaa."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:41 C/gs-change-wallpaper.page:64
-msgid "Click the background image you want to use."
-msgstr "Napsauta kuvaa, jota haluat käyttää taustakuvana."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:44 C/gs-change-wallpaper.page:65
-msgid "Click the <gui>Select</gui> button."
-msgstr "Napsauta <gui>Valitse</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:47
-msgid "Close the <gui>Background</gui> window."
-msgstr "Sulje <gui>Taustakuva</gui>-ikkuna."
-
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
-#| msgid "Close the <gui>Background</gui> window."
 msgid "Click the <gui>Background</gui> panel."
 msgstr "Napsauta <gui>Taustakuva</gui>."
 
@@ -878,10 +835,6 @@ msgstr "Yhdistä verkkotileihin"
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:37
-#, fuzzy
-#| msgid ""
-#| "From the list of items, select <gui>Online Accounts</gui>, then click on "
-#| "the <gui>Add an online account</gui> button."
 msgid ""
 "Click the <gui>Online Accounts</gui> panel, then click the <gui>Add an "
 "online account</gui> button."
@@ -926,9 +879,9 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: Work/format
-#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51
+#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:48
 #: C/gs-goa4.svg:36 C/gs-goa5.svg:48 C/gs-go-online1.svg:230
-#: C/gs-go-online2.svg:265 C/gs-go-online3.svg:293 C/gs-search1.svg:97
+#: C/gs-go-online2.svg:265 C/gs-go-online3.svg:290 C/gs-search1.svg:97
 #: C/gs-search2.svg:133 C/gs-search-settings.svg:98
 #: C/gs-thumb-changing-wallpaper.svg:39 C/gs-thumb-launching-apps.svg:189
 #: C/gs-thumb-responding-to-messages.svg:36 C/gs-thumb-task-switching.svg:89
@@ -940,7 +893,7 @@ msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:60 C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104
+#: C/gs-datetime.svg:60 C/gs-goa3.svg:60 C/gs-thumb-timezone.svg:104
 #: C/gs-thumb-timezone.svg:138 C/gs-web-browser2-firefox.svg:113
 #: C/gs-web-browser2.svg:115
 #, no-wrap
@@ -956,7 +909,6 @@ msgstr "Päivä ja aika"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:80
 #, no-wrap
-#| msgid "Automatic Date and Time"
 msgid "Automatic Date &amp; Time"
 msgstr "Automaattinen päivä ja aika"
 
@@ -969,8 +921,8 @@ msgstr "Vaatii internetyhteyden"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:87 C/gs-datetime.svg:102 C/gs-goa5.svg:118
 #: C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121 C/gs-goa5.svg:122
-#: C/gs-search-settings.svg:155 C/gs-search-settings.svg:272
-#: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
+#: C/gs-search-settings.svg:133 C/gs-search-settings.svg:250
+#: C/gs-search-settings.svg:257 C/gs-search-settings.svg:264
 #, no-wrap
 msgid "ON"
 msgstr "Päällä"
@@ -978,14 +930,13 @@ msgstr "Päällä"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:95
 #, no-wrap
-#| msgid "Automatic Timezone"
 msgid "Automatic Time Zone"
 msgstr "Automaattinen aikavyöhyke"
 
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:113
 #, no-wrap
-msgid "September 1st 2015, 9:51 AM"
+msgid "September 1st 2015, 9∶51 AM"
 msgstr ""
 
 #. (itstool) path: text/tspan
@@ -1090,7 +1041,6 @@ msgstr "Yhdistä wifi-verkkoon"
 
 #. (itstool) path: steps/title
 #: C/gs-get-online.page:61
-#| msgid "Connect to a Wi-Fi network"
 msgid "To connect to a Wi-Fi (wireless) network:"
 msgstr "Yhdistä langattomaan wifi-verkkoon seuraavasti:"
 
@@ -1103,7 +1053,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:71
-#| msgid "Click the <gui>Select</gui> button."
 msgid "Click <gui>Select Network</gui>."
 msgstr "Napsauta <gui>Valitse verkko</gui>."
 
@@ -1132,18 +1081,18 @@ msgstr ""
 
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
-#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101
-#: C/gs-thumb-timezone.svg:135 C/gs-web-browser1-firefox-classic.svg:115
-#: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
+#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101 C/gs-thumb-timezone.svg:135
+#: C/gs-web-browser1-firefox-classic.svg:115 C/gs-web-browser1-firefox.svg:120
+#: C/gs-web-browser1.svg:120
 #, no-wrap
 msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:306
-#: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102
-#: C/gs-thumb-timezone.svg:136 C/gs-web-browser1-firefox-classic.svg:137
-#: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
+#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:303
+#: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102 C/gs-thumb-timezone.svg:136
+#: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
+#: C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
 msgstr "2"
@@ -1156,55 +1105,49 @@ msgid "3"
 msgstr "3"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:69 C/gs-goa3.svg:113 C/gs-goa5.svg:79
+#: C/gs-goa2.svg:69 C/gs-goa3.svg:106 C/gs-goa5.svg:79
 #, no-wrap
 msgid "Online Accounts"
 msgstr "Verkkotilit"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:71 C/gs-goa3.svg:115
+#: C/gs-goa2.svg:71 C/gs-goa3.svg:108
 #, no-wrap
 msgid "Add an online account"
 msgstr "Lisää verkkotili"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:66
+#: C/gs-goa3.svg:63
 #, no-wrap
 msgid "Add Account"
 msgstr "Lisää tili"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:343
-#, no-wrap
-msgid "Cancel"
-msgstr "Peru"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
+#: C/gs-goa3.svg:65 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
 #, no-wrap
 msgid "Google"
 msgstr "Google"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:73 C/gs-goa4.svg:124
+#: C/gs-goa3.svg:66 C/gs-goa4.svg:124
 #, no-wrap
 msgid "Facebook"
 msgstr "Facebook"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:74 C/gs-goa4.svg:125
+#: C/gs-goa3.svg:67 C/gs-goa4.svg:125
 #, no-wrap
 msgid "Windows Live"
 msgstr "Windows Live"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:75 C/gs-goa4.svg:126
+#: C/gs-goa3.svg:68 C/gs-goa4.svg:126
 #, no-wrap
 msgid "Microsoft Exchange"
 msgstr "Microsoft Exchange"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:76 C/gs-goa4.svg:127
+#: C/gs-goa3.svg:69 C/gs-goa4.svg:127
 #, no-wrap
 msgid "Enterprise Login (Kerberos)"
 msgstr "Yrityskirjautuminen (Kerberos)"
@@ -1221,6 +1164,12 @@ msgstr "5"
 #, no-wrap
 msgid "Google account"
 msgstr "Google-tili"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:338
+#, no-wrap
+msgid "Cancel"
+msgstr "Peru"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:69
@@ -1324,8 +1273,8 @@ msgstr "Asiakirjat"
 #: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
 #: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
-msgid "14:30"
-msgstr "14:30"
+msgid "14∶30"
+msgstr "14∶30"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:328
@@ -1334,7 +1283,7 @@ msgid "Wi-Fi"
 msgstr "Wifi"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
+#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:311
 #, no-wrap
 msgid "homenetwork"
 msgstr "kotiverkko"
@@ -1358,43 +1307,43 @@ msgid "Network Settings"
 msgstr "Verkon asetukset"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:309
+#: C/gs-go-online3.svg:306
 #, no-wrap
 msgid "Wi-Fi Networks"
 msgstr "Wifi-verkot"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:313
+#: C/gs-go-online3.svg:309
 #, no-wrap
 msgid "Connect"
 msgstr "Yhdistä"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:316
+#: C/gs-go-online3.svg:312
 #, no-wrap
 msgid "wireless"
 msgstr "langaton"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:317
+#: C/gs-go-online3.svg:313
 #, no-wrap
 msgid "netgear"
 msgstr "netgear"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:318
+#: C/gs-go-online3.svg:314
 #, no-wrap
 msgid "weak"
 msgstr "heikko"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:319
+#: C/gs-go-online3.svg:315
 #, no-wrap
 msgid "private"
 msgstr "yksityinen"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:320
+#: C/gs-go-online3.svg:316
 #, no-wrap
 msgid "Select a network"
 msgstr "Valitse verkko"
@@ -1467,67 +1416,129 @@ msgid "This work is licensed under a <_:link-1/>."
 msgstr "Tämän työn kattaa lisenssi <_:link-1/>."
 
 #. (itstool) path: info/title
-#: C/gs-respond-messages.page:15
+#: C/gs-respond-messages.page:18
 msgctxt "link:trail"
 msgid "Respond to messages"
 msgstr "Vastaa viesteihin"
 
 #. (itstool) path: info/title
-#: C/gs-respond-messages.page:17
+#: C/gs-respond-messages.page:19
 msgctxt "link:seealso"
 msgid "A tutorial on responding to messages"
 msgstr "Opas viesteihin vastaamiseksi"
 
+#. (itstool) path: page/title
+#: C/gs-respond-messages.page:22
+msgid "Respond to messages"
+msgstr "Vastaa viesteihin"
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:33 C/gs-respond-messages.page:81
+msgid ""
+"Move your mouse over the chat message that appears near the top of the "
+"screen."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:37
+msgid ""
+"Start typing your reply and when finished, press <key>Enter </key> to send "
+"the reply."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:41
+msgid "Close the chat message."
+msgstr "Sulje viesti."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:47
+msgid ""
+"A chat message near the top of the screen disappears after a while if you do "
+"not move your mouse over the message."
+msgstr ""
+
+#. (itstool) path: div/p
+#. (itstool) path: item/p
+#: C/gs-respond-messages.page:51 C/gs-respond-messages.page:97
+msgid "To get back to your unanswered message, click the clock on the top bar."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:55
+msgid "From the notification list, choose your message."
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:58 C/gs-respond-messages.page:70
+msgid "Start typing your reply."
+msgstr "Aloita vastauksen kirjoittaminen."
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:61
+msgid ""
+"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
+msgstr ""
+
+#. (itstool) path: div/p
+#: C/gs-respond-messages.page:66
+msgid ""
+"Use the arrow keys to select the message you want to reply to, and press "
+"<key>Enter</key>."
+msgstr ""
+
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:77
+#: C/gs-respond-messages.page:78
 msgid "Respond to a chat message with the mouse"
 msgstr "Vastaa keskusteluviestiin hiirellä"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:82
+#: C/gs-respond-messages.page:83
 msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send "
 "the reply."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:84
+#: C/gs-respond-messages.page:85
 msgid ""
 "To close the chat message, click the close button at the top right corner of "
 "the chat message."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:91
+#: C/gs-respond-messages.page:92
 msgid "Delayed response to a chat message using the mouse"
 msgstr "Viivästynyt vastaus keskusteluviestiin hiirtä käyttäen"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:94
+#: C/gs-respond-messages.page:95
 msgid ""
 "When a chat message appears near the top of the screen and you do not move "
 "your mouse over the message, it disappears after a while."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:98
+#: C/gs-respond-messages.page:99
 msgid ""
 "From the notification list, choose the message you want to reply to, and "
 "click it."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:100 C/gs-respond-messages.page:114
+#: C/gs-respond-messages.page:101 C/gs-respond-messages.page:115
 msgid "When the chat message is shown, start typing your reply."
-msgstr ""
+msgstr "Kun keskusteluviesti näkyy, aloita vastauksesi kirjoittaminen."
 
 #. (itstool) path: section/title
-#: C/gs-respond-messages.page:106
+#: C/gs-respond-messages.page:107
 msgid "Delayed response to a chat message using the keyboard"
 msgstr "Viivästynyt vastaus keskusteluviestiin näppäimistöä käyttäen"
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:108
+#: C/gs-respond-messages.page:109
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq> <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
@@ -1535,7 +1546,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-respond-messages.page:112
+#: C/gs-respond-messages.page:113
 msgid ""
 "Use the arrow keys to select the notification you want to reply to, and "
 "press <key>Enter</key>."
@@ -1562,8 +1573,9 @@ msgstr "Tilit"
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:247
 #, no-wrap
-msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
-msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+#| msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:248
@@ -1608,43 +1620,37 @@ msgid "Firefox"
 msgstr "Firefox"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:137
+#: C/gs-search-settings.svg:125
 #, no-wrap
 msgid "Search"
 msgstr "Haku"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:148
+#: C/gs-search-settings.svg:127
 #, no-wrap
 msgid "Files"
 msgstr "Tiedostot"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:149
-#, no-wrap
-msgid "Enabled"
-msgstr ""
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:264
+#: C/gs-search-settings.svg:242
 #, no-wrap
 msgid "Web"
 msgstr "Verkko"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:265
+#: C/gs-search-settings.svg:243
 #, no-wrap
 msgid "Photos"
 msgstr "Kuvat"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:266
+#: C/gs-search-settings.svg:244
 #, no-wrap
 msgid "Music"
 msgstr "Musiikki"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:293
+#: C/gs-search-settings.svg:271
 #, no-wrap
 msgid "OFF"
 msgstr "Pois"
@@ -1690,9 +1696,11 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/gs-switch-tasks.page:122 C/gs-use-windows-workspaces.page:118
 msgid ""
-"To maximize a window along a side of the screen, grab the window's titlebar "
+"To maximize a window along a side of the screen, grab the window’s titlebar "
 "and drag it to the left or right side of the screen."
 msgstr ""
+"Suurentaaksesi ikkunan näytön laitaan, tartu ikkunan ikkunapalkista kiinni "
+"ja vedä ikkuna joko näytön vasempaan tai oikeaan laitaan."
 
 #. (itstool) path: item/p
 #: C/gs-switch-tasks.page:124 C/gs-use-windows-workspaces.page:120
@@ -1762,7 +1770,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: text/tspan
-#: C/gs-thumb-responding-to-messages.svg:88
+#: C/gs-thumb-responding-to-messages.svg:87
 #, no-wrap
 msgid "Thanks f"
 msgstr ""
@@ -2108,8 +2116,10 @@ msgstr "Suurenna ikkunoita ja palauta niiden koko"
 #: C/gs-use-windows-workspaces.page:102
 msgid ""
 "To maximize a window so that it takes up all of the space on your desktop, "
-"grab the window's titlebar and drag it to the top of the screen."
+"grab the window’s titlebar and drag it to the top of the screen."
 msgstr ""
+"Suurentaaksesi ikkunan koko työpöydälle, tartu ikkunan ikkunapalkista kiinni "
+"ja vedä ikkuna näytön yläosaan."
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:105
@@ -2118,10 +2128,16 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:107
+#, fuzzy
+#| msgid ""
+#| "To maximize a window, grab the window's titlebar and drag it to the top "
+#| "of the screen."
 msgid ""
-"To restore a window to its unmaximized size, grab the window's titlebar and "
+"To restore a window to its unmaximized size, grab the window’s titlebar and "
 "drag it away from the edges of the screen."
 msgstr ""
+"Suurentaaksesi ikkunan, tartu ikkunan ikkunapalkista kiinni ja vedä ikkuna "
+"näytön yläosaan."
 
 #. (itstool) path: section/title
 #: C/gs-use-windows-workspaces.page:131
@@ -2208,6 +2224,15 @@ msgstr "planet.gnome.org"
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
+
+#~ msgctxt "_"
+#~ msgid ""
+#~ "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
+#~ msgstr ""
+#~ "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
+
+#~ msgid "14:30"
+#~ msgstr "14:30"
 
 #~ msgid "From the list of items, select <gui>Search</gui>."
 #~ msgstr "Valitse <gui>Haku</gui>."
