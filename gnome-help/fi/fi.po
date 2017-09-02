@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2017-06-28 17:29+0000\n"
-"PO-Revision-Date: 2017-09-02 15:06+0300\n"
+"POT-Creation-Date: 2017-09-02 12:07+0000\n"
+"PO-Revision-Date: 2017-09-02 17:38+0300\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos+l10n@iki.fi>\n"
 "Language-Team: suomi <gnome-fi-laatu@lists.sourceforge.net>\n"
 "Language: fi\n"
@@ -223,6 +223,9 @@ msgid ""
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
 "key><key>Page Down</key></keyseq>."
 msgstr ""
+"Siirtyäksesi nykyisen työtilan alla olevaan työtilaan, paina  <keyseq><key "
+"href=\"help:gnome-help/keyboard-key-super\">Super </key><key>Page Down</"
+"key></keyseq>."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:130 C/getting-started.page:280
@@ -232,6 +235,9 @@ msgid ""
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
 "key><key>Page Up</key></keyseq>."
 msgstr ""
+"Siirtyäksesi nykyisen työtilan yllä olevaan työtilaan, paina <keyseq><key "
+"href=\"help:gnome-help/keyboard-key-super\">Super </key><key>Page Up</key></"
+"keyseq>."
 
 #. (itstool) path: caption/desc
 #. (itstool) path: page/title
@@ -301,7 +307,7 @@ msgstr ""
 #. (itstool) path: div/p
 #: C/getting-started.page:198 C/gs-switch-tasks.page:77
 msgid "Start typing the name of the application you want to switch to."
-msgstr ""
+msgstr "Aloita sen sovelluksen nimen kirjoittaminen, johon haluat vaihtaa."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:202 C/gs-switch-tasks.page:81
@@ -309,6 +315,8 @@ msgid ""
 "When the application appears as the first result, press <key> Enter</key> to "
 "switch to it."
 msgstr ""
+"Kun sovellus ilmestyy ensimmäisenä tuloksena, paina <key> Enter</key> "
+"vaihtaaksesi siihen."
 
 #. (itstool) path: caption/desc
 #: C/getting-started.page:295
@@ -718,7 +726,6 @@ msgstr "Vaihda päivää, aikaa ja aikavyöhykettä"
 #: C/gs-change-date-time-timezone.page:28 C/gs-change-wallpaper.page:58
 #: C/gs-connect-online-accounts.page:28 C/gs-get-online.page:63
 #: C/gs-use-system-search.page:83
-#| msgid "Click the system menu on the right side of the top bar."
 msgid ""
 "Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
 "right side of the top bar."
@@ -855,6 +862,8 @@ msgid ""
 "Click the online account you want to use. This will open a new window where "
 "you can sign in to your online account."
 msgstr ""
+"Napsauta verkkotiliä, jota haluat käyttää. Tämän jälkeen avautuu ikkuna, "
+"jonka kautta voit kirjautua verkkotilillesi."
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:57
@@ -1573,7 +1582,6 @@ msgstr "Tilit"
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:247
 #, no-wrap
-#| msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
 msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
 
@@ -1735,6 +1743,9 @@ msgid ""
 "key><key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which "
 "lists the currently open windows."
 msgstr ""
+"Paina <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Tab</key></keyseq> nähdäksesi <gui>ikkunavaihtimen</gui>, joka "
+"listaa avoinna olevat ikkunat."
 
 #. (itstool) path: item/p
 #: C/gs-switch-tasks.page:141
@@ -2128,16 +2139,12 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:107
-#, fuzzy
-#| msgid ""
-#| "To maximize a window, grab the window's titlebar and drag it to the top "
-#| "of the screen."
 msgid ""
 "To restore a window to its unmaximized size, grab the window’s titlebar and "
 "drag it away from the edges of the screen."
 msgstr ""
-"Suurentaaksesi ikkunan, tartu ikkunan ikkunapalkista kiinni ja vedä ikkuna "
-"näytön yläosaan."
+"Palauttaaksesi ikkunan sen suurentamattomaan kokoon, tartu ikkunan "
+"ikkunapalkista kiinni ja vedä ikkuna pois näytön reunasta."
 
 #. (itstool) path: section/title
 #: C/gs-use-windows-workspaces.page:131
@@ -2168,6 +2175,9 @@ msgid ""
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
 "key><key>Page Down</key></keyseq>."
 msgstr ""
+"Siirtyäksesi nykyisen työtilan alla olevaan työtilaan, paina <keyseq><key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key><key>Page Down</key></"
+"keyseq>."
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:166
@@ -2176,6 +2186,9 @@ msgid ""
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
 "key><key>Page Up</key></keyseq>."
 msgstr ""
+"Siirtyäksesi nykyisen työtilan yllä olevaan työtilaan, paina <keyseq><key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key><key>Page Up</key></"
+"keyseq>."
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser1-firefox-classic.svg:118
