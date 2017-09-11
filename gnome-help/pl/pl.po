@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2017-05-10 11:17+0000\n"
-"PO-Revision-Date: 2017-05-14 15:30+0200\n"
+"POT-Creation-Date: 2017-08-08 11:03+0000\n"
+"PO-Revision-Date: 2017-09-11 04:45+0200\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <community-poland@mozilla.org>\n"
 "Language: pl\n"
@@ -497,7 +497,7 @@ msgstr "WWW"
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:32
 msgid "Just start typing…"
-msgstr "Po prostu zacznij pisać…"
+msgstr "Zacznij pisać…"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
@@ -731,8 +731,7 @@ msgstr ""
 #: C/gs-browse-web.page:102
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
 msgstr ""
-"Po wybraniu strony należy nacisnąć klawisz <key>Enter</key>, aby ją "
-"odwiedzić."
+"Po wybraniu strony naciśnij klawisz <key>Enter</key>, aby ją odwiedzić."
 
 #. (itstool) path: info/title
 #: C/gs-change-date-time-timezone.page:15
@@ -1002,7 +1001,7 @@ msgstr "Strefa czasowa"
 #: C/gs-datetime.svg:115
 #, no-wrap
 msgid "EDT (New York, United States)"
-msgstr "EDT (Nowy Jork, Stany Zjednoczone)"
+msgstr "CEST (Warszawa, Polska)"
 
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:119
@@ -1039,7 +1038,7 @@ msgid ""
 "You can see the status of your network connection on the right-hand side of "
 "the top bar."
 msgstr ""
-"Można zobaczyć stan połączenia sieciowego po prawej stronie górnego paska."
+"Stan połączenia sieciowego jest wyświetlany po prawej stronie górnego paska."
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:30
@@ -1074,8 +1073,8 @@ msgid ""
 "online. The computer will try to set up the network connection for you "
 "automatically."
 msgstr ""
-"Aby użyć połączenia przewodowego, po prostu podłącz kabel sieciowy. Komputer "
-"spróbuje automatycznie ustawić połączenie sieciowe."
+"Aby użyć połączenia przewodowego, podłącz kabel sieciowy. Komputer spróbuje "
+"automatycznie ustawić połączenie sieciowe."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:45
@@ -1187,7 +1186,7 @@ msgstr "Dodaj konto online"
 #: C/gs-goa3.svg:63
 #, no-wrap
 msgid "Add Account"
-msgstr "Dodaj konto"
+msgstr "Dodanie konta"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:65 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
@@ -1242,19 +1241,19 @@ msgstr "Anuluj"
 #: C/gs-goa4.svg:69
 #, no-wrap
 msgid "SIGN UP"
-msgstr "ZALOGUJ"
+msgstr "UTWÓRZ KONTO"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:70
 #, no-wrap
 msgid "Sign in"
-msgstr "Zaloguj"
+msgstr "Zaloguj się"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:71
 #, no-wrap
 msgid "Email"
-msgstr "E-mail"
+msgstr "Adres e-mail"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:73
@@ -1278,7 +1277,7 @@ msgstr "jan.kowalski@example.com"
 #: C/gs-goa4.svg:103
 #, no-wrap
 msgid "Grant Access"
-msgstr "Udziel dostępu"
+msgstr "Udziel dostęp"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:108
@@ -1353,7 +1352,7 @@ msgstr "Wi-Fi"
 #: C/gs-go-online2.svg:336 C/gs-go-online3.svg:311
 #, no-wrap
 msgid "homenetwork"
-msgstr "sieć_domowa"
+msgstr "sieć domowa"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:338
@@ -1377,7 +1376,7 @@ msgstr "Ustawienia sieci"
 #: C/gs-go-online3.svg:306
 #, no-wrap
 msgid "Wi-Fi Networks"
-msgstr "Ustawienia sieci Wi-Fi"
+msgstr "Sieci Wi-Fi"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:309
@@ -1389,7 +1388,7 @@ msgstr "Połącz"
 #: C/gs-go-online3.svg:312
 #, no-wrap
 msgid "wireless"
-msgstr "bezprzewodowe"
+msgstr "sieć bezprzewodowa"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:313
@@ -1401,13 +1400,13 @@ msgstr "netgear"
 #: C/gs-go-online3.svg:314
 #, no-wrap
 msgid "weak"
-msgstr "słabe"
+msgstr "słaba sieć"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:315
 #, no-wrap
 msgid "private"
-msgstr "prywatne"
+msgstr "prywatna sieć"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:316
@@ -1653,7 +1652,7 @@ msgstr ""
 #: C/gs-search1.svg:229
 #, no-wrap
 msgid "just type"
-msgstr "po prostu pisz"
+msgstr "zacznij pisać"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:182
@@ -1719,7 +1718,7 @@ msgstr "Firefox"
 #: C/gs-search-settings.svg:125
 #, no-wrap
 msgid "Search"
-msgstr "Wyszukaj"
+msgstr "Wyszukiwanie"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:127
@@ -1876,8 +1875,8 @@ msgid ""
 "Just start typing the name of the application you want to switch to. "
 "Applications matching what you have typed will appear as you type."
 msgstr ""
-"Po prostu zacznij wpisywać nazwę programu, na który chcesz przełączyć. "
-"Pasujące programy będą pojawiały się w trakcie pisania."
+"Zacznij wpisywać nazwę programu, na który chcesz przełączyć. Pasujące "
+"programy będą pojawiały się w trakcie pisania."
 
 #. (itstool) path: item/p
 #: C/gs-switch-tasks.page:160
@@ -2095,18 +2094,18 @@ msgstr "31"
 #: C/gs-use-system-search.page:15
 msgctxt "link:trail"
 msgid "Use the system search"
-msgstr "Używanie systemu wyszukiwania"
+msgstr "Używanie wyszukiwania systemowego"
 
 #. (itstool) path: info/title
 #: C/gs-use-system-search.page:17
 msgctxt "link:seealso"
 msgid "A tutorial on using the system search"
-msgstr "Samouczek używania systemu wyszukiwania"
+msgstr "Samouczek używania wyszukiwania systemowego"
 
 #. (itstool) path: page/title
 #: C/gs-use-system-search.page:21
 msgid "Use the system search"
-msgstr "Używanie systemu wyszukiwania"
+msgstr "Używanie wyszukiwania systemowego"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:27
@@ -2326,7 +2325,7 @@ msgstr "Programy"
 #: C/gs-web-browser2-firefox.svg:147 C/gs-web-browser2.svg:153
 #, no-wrap
 msgid "gnome"
-msgstr "GNOME"
+msgstr "gnome"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:151 C/gs-web-browser2.svg:157
