@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2017-05-13 23:39+0000\n"
-"PO-Revision-Date: 2017-05-28 13:46+0200\n"
+"POT-Creation-Date: 2017-10-01 20:25+0000\n"
+"PO-Revision-Date: 2017-10-02 11:48+0200\n"
 "Last-Translator: Mario Blättermann <mario.blaettermann@gmail.com>\n"
 "Language-Team: Deutsch <gnome-de@gnome.org>\n"
 "Language: de\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.0.2\n"
+"X-Generator: Poedit 2.0.3\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -615,7 +615,7 @@ msgstr "14. Oktober 2013, 14:00"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:10 C/gs-change-date-time-timezone.page:9
-#: C/gs-change-wallpaper.page:9 C/gs-connect-online-accounts.page:9
+#: C/gs-change-wallpaper.page:9 C/gs-connect-online-accounts.page:8
 #: C/gs-get-online.page:9 C/gs-launch-applications.page:9
 #: C/gs-respond-messages.page:9 C/gs-switch-tasks.page:10
 #: C/gs-use-system-search.page:9 C/gs-use-windows-workspaces.page:9
@@ -624,7 +624,7 @@ msgstr "Jakub Steiner"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:13 C/gs-change-date-time-timezone.page:12
-#: C/gs-change-wallpaper.page:12 C/gs-connect-online-accounts.page:12
+#: C/gs-change-wallpaper.page:12 C/gs-connect-online-accounts.page:11
 #: C/gs-get-online.page:12 C/gs-launch-applications.page:12
 #: C/gs-respond-messages.page:12 C/gs-switch-tasks.page:13
 #: C/gs-use-system-search.page:12 C/gs-use-windows-workspaces.page:12
@@ -777,7 +777,7 @@ msgstr "Datum, Uhrzeit und Zeitzone ändern"
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:28 C/gs-change-wallpaper.page:58
-#: C/gs-connect-online-accounts.page:28 C/gs-get-online.page:63
+#: C/gs-connect-online-accounts.page:27 C/gs-get-online.page:63
 #: C/gs-use-system-search.page:83
 msgid ""
 "Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
@@ -788,7 +788,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:30 C/gs-change-wallpaper.page:60
-#: C/gs-connect-online-accounts.page:30 C/gs-use-system-search.page:85
+#: C/gs-connect-online-accounts.page:29 C/gs-use-system-search.page:85
 msgid "Click the settings button at the bottom left of the menu."
 msgstr ""
 "Klicken Sie auf den Einstellungen-Knopf im linken unteren Bereich des Menüs."
@@ -889,53 +889,41 @@ msgstr ""
 "der oberen rechten Ecke des Fensters klicken."
 
 #. (itstool) path: info/title
-#: C/gs-connect-online-accounts.page:15
+#: C/gs-connect-online-accounts.page:14
 msgctxt "link:trail"
 msgid "Connect to online accounts"
 msgstr "Mit Online-Konten verbinden"
 
 #. (itstool) path: info/title
-#: C/gs-connect-online-accounts.page:17
+#: C/gs-connect-online-accounts.page:16
 msgctxt "link:seealso"
 msgid "A tutorial on connecting to online accounts"
 msgstr "Eine Kurzanleitung zum Verbinden mit Online-Konten"
 
 #. (itstool) path: page/title
-#: C/gs-connect-online-accounts.page:22
+#: C/gs-connect-online-accounts.page:21
 msgid "Connect to online accounts"
 msgstr "Mit Online-Konten verbinden"
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:37
+#: C/gs-connect-online-accounts.page:36
 msgid ""
-"Click the <gui>Online Accounts</gui> panel, then click the <gui>Add an "
-"online account</gui> button."
+"Click the <gui>Online Accounts</gui> panel, then click the online account "
+"service you want to use."
 msgstr ""
 "Klicken Sie auf die Leiste <gui>Online-Konten</gui>. Klicken Sie dann auf "
-"den Knopf <gui>Ein Online-Konto hinzufügen</gui>."
-
-#. (itstool) path: note/p
-#: C/gs-connect-online-accounts.page:41
-msgid ""
-"If you have set up an online account before, you can add another online "
-"account by clicking the <gui>+</gui> button at the bottom left corner of the "
-"window."
-msgstr ""
-"Wenn Sie bereits ein Online-Konto hinzugefügt haben, können Sie ein weiteres "
-"Online-Konto durch Klicken des <gui>+</gui>-Knopfes in der linken unteren "
-"Ecke des Fensters hinzufügen."
+"den Online-Dienst, den Sie nutzen wollen."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:49
+#: C/gs-connect-online-accounts.page:39
 msgid ""
-"Click the online account you want to use. This will open a new window where "
-"you can sign in to your online account."
+"This will open a new window where you can sign in to your online account."
 msgstr ""
-"Klicken Sie auf das Online-Konto, das Sie verwenden wollen. Ein neues "
-"Fenster öffnet sich, in dem Sie sich an Ihrem Online-Konto anmelden können."
+"Ein neues Fenster öffnet sich, in dem Sie sich an Ihrem Online-Konto "
+"anmelden können."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:57
+#: C/gs-connect-online-accounts.page:47
 msgid ""
 "In most cases, you will have to grant access to the online service after "
 "signing in to get started."
@@ -944,16 +932,16 @@ msgstr ""
 "gewähren, um loszulegen."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:59
+#: C/gs-connect-online-accounts.page:49
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
-"click the <gui>Grant Access</gui> button."
+"click the <gui>Allow</gui> button."
 msgstr ""
 "Wenn Sie sich zum Beispiel mit Ihrem Google-Konto verbinden wollen, müssen "
-"Sie den <gui>Zugriff gewähren</gui>-Knopf klicken."
+"Sie auf den <gui>Zugriff gewähren</gui>-Knopf klicken."
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:67
+#: C/gs-connect-online-accounts.page:57
 msgid ""
 "Many online accounts let you choose the services you want to use with your "
 "online account. If you do not want to use a service, disable it by clicking "
@@ -965,8 +953,8 @@ msgstr ""
 "Fensters."
 
 #. (itstool) path: Work/format
-#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:48
-#: C/gs-goa4.svg:36 C/gs-goa5.svg:48 C/gs-go-online1.svg:230
+#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:178 C/gs-goa3.svg:48
+#: C/gs-goa4.svg:156 C/gs-goa5.svg:147 C/gs-go-online1.svg:230
 #: C/gs-go-online2.svg:265 C/gs-go-online3.svg:290 C/gs-search1.svg:97
 #: C/gs-search2.svg:133 C/gs-search-settings.svg:98
 #: C/gs-thumb-changing-wallpaper.svg:39 C/gs-thumb-launching-apps.svg:189
@@ -1005,8 +993,8 @@ msgid "Requires internet access"
 msgstr "Erfordert eine Internetverbindung"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:87 C/gs-datetime.svg:102 C/gs-goa5.svg:118
-#: C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121 C/gs-goa5.svg:122
+#: C/gs-datetime.svg:87 C/gs-datetime.svg:102 C/gs-goa5.svg:510
+#: C/gs-goa5.svg:521 C/gs-goa5.svg:532 C/gs-goa5.svg:543 C/gs-goa5.svg:554
 #: C/gs-search-settings.svg:133 C/gs-search-settings.svg:250
 #: C/gs-search-settings.svg:257 C/gs-search-settings.svg:264
 #, no-wrap
@@ -1205,23 +1193,29 @@ msgid "2"
 msgstr "2"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:50 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
+#: C/gs-goa2.svg:228 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
 #: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
 #, no-wrap
 msgid "3"
 msgstr "3"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:69 C/gs-goa3.svg:106 C/gs-goa5.svg:79
+#: C/gs-goa2.svg:299 C/gs-goa3.svg:106
 #, no-wrap
 msgid "Online Accounts"
 msgstr "Online-Konten"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:71 C/gs-goa3.svg:108
+#: C/gs-goa2.svg:431
 #, no-wrap
-msgid "Add an online account"
-msgstr "Ein Online-Konto hinzufügen"
+msgid "Add an account"
+msgstr "Ein Konto hinzufügen"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa2.svg:469
+#, no-wrap
+msgid "Connect to your data in the cloud"
+msgstr "Mit Ihren Daten in der Cloud verbinden"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:63
@@ -1230,146 +1224,146 @@ msgid "Add Account"
 msgstr "Konto hinzufügen"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:65 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
+#: C/gs-goa3.svg:65 C/gs-goa4.svg:592 C/gs-goa5.svg:317
 #, no-wrap
 msgid "Google"
 msgstr "Google"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:66 C/gs-goa4.svg:124
+#: C/gs-goa3.svg:66 C/gs-goa4.svg:603
 #, no-wrap
 msgid "Facebook"
 msgstr "Facebook"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:67 C/gs-goa4.svg:125
+#: C/gs-goa3.svg:67 C/gs-goa4.svg:614
 #, no-wrap
 msgid "Windows Live"
 msgstr "Windows Live"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:68 C/gs-goa4.svg:126
+#: C/gs-goa3.svg:68 C/gs-goa4.svg:625
 #, no-wrap
 msgid "Microsoft Exchange"
 msgstr "Microsoft Exchange"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:69 C/gs-goa4.svg:127
+#: C/gs-goa3.svg:69 C/gs-goa4.svg:636
 #, no-wrap
 msgid "Enterprise Login (Kerberos)"
 msgstr "Unternehmensanmeldung (Kerberos)"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:48 C/gs-thumb-timezone.svg:105
+#: C/gs-goa3.svg:108
+#, no-wrap
+msgid "Add an online account"
+msgstr "Ein Online-Konto hinzufügen"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:193 C/gs-goa4.svg:407
+#, no-wrap
+msgid "Google account"
+msgstr "Google-Konto"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:267 C/gs-thumb-timezone.svg:105
 #: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
 #, no-wrap
 msgid "5"
 msgstr "5"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:52 C/gs-goa4.svg:86
-#, no-wrap
-msgid "Google account"
-msgstr "Google-Konto"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:338
-#, no-wrap
-msgid "Cancel"
-msgstr "Abbrechen"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:69
-#, no-wrap
-msgid "SIGN UP"
-msgstr "REGISTRIEREN"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:70
+#: C/gs-goa4.svg:288
 #, no-wrap
 msgid "Sign in"
 msgstr "Anmelden"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:71
+#: C/gs-goa4.svg:299
 #, no-wrap
 msgid "Email"
 msgstr "E-Mail"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:73
+#: C/gs-goa4.svg:319
 #, no-wrap
 msgid "Password"
 msgstr "Passwort"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:76
+#: C/gs-goa4.svg:346
 #, no-wrap
 msgid "Sign In"
 msgstr "Anmelden"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:77 C/gs-goa5.svg:88 C/gs-goa5.svg:91
+#: C/gs-goa4.svg:357 C/gs-goa5.svg:328
 #, no-wrap
 msgid "john.doe@gmail.com"
 msgstr "john.doe@gmail.com"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:103
-#, no-wrap
-msgid "Grant Access"
-msgstr "Zugriff erlauben"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:108
-#, no-wrap
-msgid "Deny Access"
-msgstr "Zugriff abweisen"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:106
+#: C/gs-goa4.svg:543 C/gs-thumb-timezone.svg:106
 #, no-wrap
 msgid "6"
 msgstr "6"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:60 C/gs-thumb-timezone.svg:107
+#: C/gs-goa4.svg:564
+#, no-wrap
+msgid "ALLOW"
+msgstr "ERLAUBEN"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:575
+#, no-wrap
+msgid "CANCEL"
+msgstr "ABBRECHEN"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:197 C/gs-thumb-timezone.svg:107
 #, no-wrap
 msgid "7"
 msgstr "7"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:92
+#: C/gs-goa5.svg:269
+#, no-wrap
+msgid "Google Account"
+msgstr "Google-Konto"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:339
 #, no-wrap
 msgid "Use for"
 msgstr "Verwenden für"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:93
+#: C/gs-goa5.svg:350
 #, no-wrap
 msgid "Mail"
 msgstr "E-Mail"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:98
+#: C/gs-goa5.svg:382
 #, no-wrap
 msgid "Calendar"
 msgstr "Kalender"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:103 C/gs-search2.svg:293
+#: C/gs-goa5.svg:414 C/gs-search2.svg:293
 #, no-wrap
 msgid "Contacts"
 msgstr "Kontakte"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:108
+#: C/gs-goa5.svg:446
 #, no-wrap
 msgid "Chat"
 msgstr "Chat"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:113
+#: C/gs-goa5.svg:478
 #, no-wrap
 msgid "Documents"
 msgstr "Dokumente"
@@ -1454,6 +1448,12 @@ msgstr "Privat"
 #, no-wrap
 msgid "Select a network"
 msgstr "Ein Netzwerk wählen"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:338
+#, no-wrap
+msgid "Cancel"
+msgstr "Abbrechen"
 
 #. (itstool) path: info/title
 #: C/gs-launch-applications.page:16
@@ -1607,7 +1607,7 @@ msgid ""
 "keyboard-key-super\">Super</key> <key>V</key></keyseq>"
 msgstr ""
 "Um die Benachrichtigungsliste anzuzeigen, drücken Sie <keyseq><key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key></keyseq>."
+"\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key></keyseq>"
 
 #. (itstool) path: div/p
 #: C/gs-respond-messages.page:66
@@ -1717,7 +1717,6 @@ msgstr "Konten"
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:247
 #, no-wrap
-#| msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
 msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
 
