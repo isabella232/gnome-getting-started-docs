@@ -11,6 +11,9 @@
     <credit type="author">
       <name>Petr Kovar</name>
     </credit>
+    <credit type="author">
+      <name>Hannie Dumoleyn</name>
+    </credit>
     <link type="guide" xref="getting-started" group="tasks"/>
     <title role="trail" type="link">Use the system search</title>
     <link type="seealso" xref="shell-apps-open"/>
@@ -24,9 +27,10 @@
     src="gs-search1.svg" width="100%" />
     
     <steps>
-    <item><p>Open the <gui>Activities Overview</gui> by pressing the
-    <key href="help:gnome-help/keyboard-key-super">Super</key> key. Start typing
-    to search.</p>
+    <item><p>Open the <gui>Activities</gui> overview by clicking <gui>Activities</gui> 
+    at the top left of the screen, or by pressing the
+    <key href="help:gnome-help/keyboard-key-super">Super</key> key. 
+    In the search bar, start typing to search.</p>
     <p>Results matching what you have typed will appear as you type. The first
     result is always highlighted and shown at the top.</p>
     <p>Press <key>Enter</key> to switch to the first highlighted result.</p></item>
@@ -40,8 +44,14 @@
         <item><p>matching applications, shown at the top of the search results,
         </p></item>
         <item><p>matching settings,</p></item>
-        <item><p>matching contacts, and</p></item>
-        <item><p>matching documents.</p></item>
+        <item><p>matching contacts, </p></item>
+        <item><p>matching documents,</p></item>
+        <item><p>matching calendar,</p></item>
+        <item><p>matching calculator,</p></item>
+        <item><p>matching software,</p></item>
+        <item><p>matching files,</p></item>
+        <item><p>matching terminal,</p></item>
+        <item><p>matching passwords and keys.</p></item>
       </list>
       </item>
       <item><p>In the search results, click the item to switch to it.</p>
@@ -83,7 +93,7 @@
         <item><p>Click the <gui xref="shell-introduction#yourname">system menu</gui>
         on the right side of the top bar.</p></item>
         <item><p>Click the settings button at the bottom left of the menu.</p></item>
-        <item><p>Click the <gui>Search</gui> panel.</p></item>
+        <item><p>Click on <gui>Search</gui> in the left panel.</p></item>
         <item><p>In the list of search locations, click the <gui>ON/OFF</gui>
          switch next to the search location you want to enable or disable.</p>
          </item>
