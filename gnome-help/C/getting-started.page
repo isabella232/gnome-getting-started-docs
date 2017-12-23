@@ -1,6 +1,5 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:if="http://projectmallard.org/if/1.0/"
-      xmlns:e="http://projectmallard.org/experimental/"
       xmlns:ui="http://projectmallard.org/experimental/ui/"
       xmlns:its="http://www.w3.org/2005/11/its"
       type="guide" style="task" id="getting-started" version="1.0 if/1.0">
@@ -150,12 +149,11 @@
          <tt:div begin="1s" end="5s">
            <tt:p>Switching Tasks</tt:p>
          </tt:div>
-         <if:if test="!platform:gnome-classic">
          <tt:div begin="5s" end="8s">
-           <tt:p>Move your mouse pointer to the <gui>Activities</gui> corner at
-            the top left of the screen.</tt:p>
-           </tt:div>
-         </if:if>
+           <tt:p if:test="!platform:gnome-classic">Move your mouse pointer
+            to the <gui>Activities</gui> corner at the top left of the
+            screen.</tt:p>
+         </tt:div>
          <tt:div begin="9s" end="12s">
            <tt:p>Click a window to switch to that task.</tt:p>
          </tt:div>

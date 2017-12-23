@@ -1,6 +1,5 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:if="http://projectmallard.org/if/1.0/"
-      xmlns:ui="http://projectmallard.org/experimental/ui/"
       xmlns:its="http://www.w3.org/2005/11/its"
       type="topic" style="ui" id="gs-browse-web" version="1.0 if/1.0">
 
@@ -56,7 +55,7 @@ platform:opensuse, platform:sled, platform:sles">
     <gui>Activities Overview</gui>.</p></note>
 
 </if:when>
-<if:when test="platform:gnome-3">
+<if:else>
 
     <media its:translate="no" type="image" mime="image/svg"
     src="gs-web-browser1.svg" width="100%" />
@@ -76,7 +75,7 @@ platform:opensuse, platform:sled, platform:sles">
     <media its:translate="no" type="image" mime="image/svg"
     src="gs-web-browser2.svg" width="100%" />
 
-</if:when>
+</if:else>
 </if:choose>
 
 <!--Distributors might want to add their distro here if they ship Firefox by default.-->
