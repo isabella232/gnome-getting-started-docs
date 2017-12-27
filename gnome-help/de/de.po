@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2017-10-01 20:25+0000\n"
-"PO-Revision-Date: 2017-10-02 11:48+0200\n"
+"POT-Creation-Date: 2017-12-19 19:51+0000\n"
+"PO-Revision-Date: 2017-12-27 12:24+0100\n"
 "Last-Translator: Mario Blättermann <mario.blaettermann@gmail.com>\n"
 "Language-Team: Deutsch <gnome-de@gnome.org>\n"
 "Language: de\n"
@@ -18,14 +18,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.0.3\n"
+"X-Generator: Poedit 2.0.5\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
 msgstr ""
 "Mario Blättermann <mario.blaettermann@gmail.com>, 2013, 2017\n"
-"Christian Kirbach <christian.kirbach@gmail.com>, 2013, 2014, 2015, 2016\n"
+"Christian Kirbach <christian.kirbach@gmail.com>, 2013, 2014, 2015, 2016, "
+"2017\n"
 "Benjamin Steinwender <b@stbe.at>, 2013, 2014"
 
 #. (itstool) path: info/desc
@@ -778,7 +779,7 @@ msgstr "Datum, Uhrzeit und Zeitzone ändern"
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:28 C/gs-change-wallpaper.page:58
 #: C/gs-connect-online-accounts.page:27 C/gs-get-online.page:63
-#: C/gs-use-system-search.page:83
+#: C/gs-use-system-search.page:93
 msgid ""
 "Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
 "right side of the top bar."
@@ -788,7 +789,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:30 C/gs-change-wallpaper.page:60
-#: C/gs-connect-online-accounts.page:29 C/gs-use-system-search.page:85
+#: C/gs-connect-online-accounts.page:29 C/gs-use-system-search.page:95
 msgid "Click the settings button at the bottom left of the menu."
 msgstr ""
 "Klicken Sie auf den Einstellungen-Knopf im linken unteren Bereich des Menüs."
@@ -2147,35 +2148,43 @@ msgstr "30"
 msgid "31"
 msgstr "31"
 
-#. (itstool) path: info/title
+#. (itstool) path: credit/name
 #: C/gs-use-system-search.page:15
+msgid "Hannie Dumoleyn"
+msgstr "Hannie Dumoleyn"
+
+#. (itstool) path: info/title
+#: C/gs-use-system-search.page:18
 msgctxt "link:trail"
 msgid "Use the system search"
 msgstr "Die Systemsuche verwenden"
 
 #. (itstool) path: info/title
-#: C/gs-use-system-search.page:17
+#: C/gs-use-system-search.page:20
 msgctxt "link:seealso"
 msgid "A tutorial on using the system search"
 msgstr "Eine Kurzanleitung zum Verwenden der Systemsuche"
 
 #. (itstool) path: page/title
-#: C/gs-use-system-search.page:21
+#: C/gs-use-system-search.page:24
 msgid "Use the system search"
 msgstr "Die Systemsuche verwenden"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:27
+#: C/gs-use-system-search.page:30
 msgid ""
-"Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> key. Start typing to search."
+"Open the <gui>Activities</gui> overview by clicking <gui>Activities</gui> at "
+"the top left of the screen, or by pressing the <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> key. Start typing to search."
 msgstr ""
-"Öffnen Sie die <gui>Aktivitäten-Übersicht</gui> durch Drücken der <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key>-Taste. Tippen Sie, um mit "
-"der Suche zu beginnen."
+"Öffnen Sie die <gui>Aktivitäten</gui>-Übersicht durch einen Mausklick auf "
+"<gui>Aktivitäten</gui> in der oberen linken Ecke des Bildschirms oder durch "
+"Drücken der <key href=\"help:gnome-help/keyboard-key-super\">Super</key>-"
+"Taste. Tippen Sie anschließend einfach einen Suchbegriff, um mit der Suche "
+"zu beginnen."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:30
+#: C/gs-use-system-search.page:34
 msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
@@ -2184,44 +2193,74 @@ msgstr ""
 "erste Ergebnis wird immer hervorgehoben und ganz oben angezeigt."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:32
+#: C/gs-use-system-search.page:36
 msgid "Press <key>Enter</key> to switch to the first highlighted result."
 msgstr ""
 "Drücken Sie die <key>Eingabetaste</key>, um zum ersten hervorgehobenen "
 "Ergebnis zu wechseln."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:38
+#: C/gs-use-system-search.page:42
 msgid "Items that may appear in the search results include:"
 msgstr "Elemente, die in den Suchergebnissen erscheinen können, sind u.a.:"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:40
+#: C/gs-use-system-search.page:44
 msgid "matching applications, shown at the top of the search results,"
 msgstr "passende Anwendungen, angezeigt am Anfang der Suchergebnisse,"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:42
+#: C/gs-use-system-search.page:46
 msgid "matching settings,"
 msgstr "passende Einstellungen,"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:43
-msgid "matching contacts, and"
-msgstr "passende Kontakte, und"
-
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:44
-msgid "matching documents."
-msgstr "passende Dokumente."
-
-#. (itstool) path: item/p
 #: C/gs-use-system-search.page:47
+msgid "matching contacts,"
+msgstr "passende Kontakte,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:48
+msgid "matching documents,"
+msgstr "passende Dokumente,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:49
+msgid "matching calendar,"
+msgstr "passender Kalender,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:50
+msgid "matching calculator,"
+msgstr "passender Rechner,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:51
+msgid "matching software,"
+msgstr "passende Software,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:52
+msgid "matching files,"
+msgstr "passende Dateien,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:53
+msgid "matching terminal,"
+msgstr "passendes Terminal,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:54
+msgid "matching passwords and keys."
+msgstr "passende Passwörter und Schlüssel."
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:57
 msgid "In the search results, click the item to switch to it."
 msgstr "Klicken Sie auf das Symbol in den Suchergebnissen, um es zu öffnen."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:48
+#: C/gs-use-system-search.page:58
 msgid ""
 "Alternatively, highlight an item using the arrow keys and press <key>Enter</"
 "key>."
@@ -2230,12 +2269,12 @@ msgstr ""
 "die <key>Eingabetaste</key>."
 
 #. (itstool) path: section/title
-#: C/gs-use-system-search.page:54
+#: C/gs-use-system-search.page:64
 msgid "Search from inside applications"
 msgstr "In Anwendungen suchen"
 
 #. (itstool) path: section/p
-#: C/gs-use-system-search.page:56
+#: C/gs-use-system-search.page:66
 msgid ""
 "The system search aggregates results from various applications. On the left-"
 "hand side of the search results, you can see icons of applications that "
@@ -2252,12 +2291,12 @@ msgstr ""
 "innerhalb der Anwendung bessere Ergebnisse liefern."
 
 #. (itstool) path: section/title
-#: C/gs-use-system-search.page:68
+#: C/gs-use-system-search.page:78
 msgid "Customize search results"
 msgstr "Suchergebnisse anpassen"
 
 #. (itstool) path: note/p
-#: C/gs-use-system-search.page:74
+#: C/gs-use-system-search.page:84
 msgid ""
 "GNOME lets you customize what you want to display in the search results in "
 "the <gui>Activities Overview</gui>. For example, you can choose whether you "
@@ -2268,18 +2307,18 @@ msgstr ""
 "Suchergebnisse für Internetseiten, Fotos oder Musik anzeigen lassen."
 
 #. (itstool) path: steps/title
-#: C/gs-use-system-search.page:82
+#: C/gs-use-system-search.page:92
 msgid "To customize what is displayed in the search results:"
 msgstr "So passen Sie die Suchergebnisse an:"
 
 # siehe "Select"
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:86
-msgid "Click the <gui>Search</gui> panel."
-msgstr "Klicken Sie auf die <gui>Suchen</gui>-Leiste."
+#: C/gs-use-system-search.page:96
+msgid "Click <gui>Search</gui> in the left panel."
+msgstr "Klicken Sie auf <gui>Suchen</gui> in der linken Leiste."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:87
+#: C/gs-use-system-search.page:97
 msgid ""
 "In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
 "the search location you want to enable or disable."
@@ -2391,9 +2430,10 @@ msgstr "gnome"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:151 C/gs-web-browser2.svg:157
+#: C/gs-web-browser2.svg:247
 #, no-wrap
-msgid "Planet Gnome"
-msgstr "Planet Gnome"
+msgid "Planet GNOME"
+msgstr "Planet GNOME"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:152 C/gs-web-browser2.svg:158
@@ -2419,8 +2459,5 @@ msgstr "http://gnome.org"
 msgid "planet.gnome.org"
 msgstr "planet.gnome.org"
 
-#. (itstool) path: text/tspan
-#: C/gs-web-browser2.svg:247
-#, no-wrap
-msgid "Planet GNOME"
-msgstr "Planet GNOME"
+#~ msgid "Planet Gnome"
+#~ msgstr "Planet Gnome"
