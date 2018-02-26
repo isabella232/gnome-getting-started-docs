@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the getting-started package.
 #
 # Petr Kovar <pknbe@volny.cz>, 2012, 2013.
-# Marek Černocký <marek@manet.cz>, 2015, 2016, 2017.
+# Marek Černocký <marek@manet.cz>, 2015, 2016, 2017, 2018.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: getting-started\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-01 20:25+0000\n"
-"PO-Revision-Date: 2017-10-01 23:40+0200\n"
+"POT-Creation-Date: 2017-12-19 19:51+0000\n"
+"PO-Revision-Date: 2018-02-26 17:17+0100\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>\n"
 "Language-Team: čeština <gnome-cs-list@gnome.org>\n"
 "Language: cs\n"
@@ -761,7 +761,7 @@ msgstr "Změna data, času a časového pásma"
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:28 C/gs-change-wallpaper.page:58
 #: C/gs-connect-online-accounts.page:27 C/gs-get-online.page:63
-#: C/gs-use-system-search.page:83
+#: C/gs-use-system-search.page:93
 msgid ""
 "Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
 "right side of the top bar."
@@ -771,7 +771,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:30 C/gs-change-wallpaper.page:60
-#: C/gs-connect-online-accounts.page:29 C/gs-use-system-search.page:85
+#: C/gs-connect-online-accounts.page:29 C/gs-use-system-search.page:95
 msgid "Click the settings button at the bottom left of the menu."
 msgstr "Klikněte na tlačítko nastavení v levé dolní části nabídky."
 
@@ -1173,6 +1173,7 @@ msgstr "Účty on-line"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:431
+#, no-wrap
 msgid "Add an account"
 msgstr "Přidat účet"
 
@@ -2103,35 +2104,41 @@ msgstr "30"
 msgid "31"
 msgstr "31"
 
-#. (itstool) path: info/title
+#. (itstool) path: credit/name
 #: C/gs-use-system-search.page:15
+msgid "Hannie Dumoleyn"
+msgstr "Hannie Dumoleyn"
+
+#. (itstool) path: info/title
+#: C/gs-use-system-search.page:18
 msgctxt "link:trail"
 msgid "Use the system search"
 msgstr "Vyhledávání v systému"
 
 #. (itstool) path: info/title
-#: C/gs-use-system-search.page:17
+#: C/gs-use-system-search.page:20
 msgctxt "link:seealso"
 msgid "A tutorial on using the system search"
 msgstr "Vysvětlení, jak používat vyhledávání v systému"
 
 #. (itstool) path: page/title
-#: C/gs-use-system-search.page:21
+#: C/gs-use-system-search.page:24
 msgid "Use the system search"
 msgstr "Vyhledávání v systému"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:27
+#: C/gs-use-system-search.page:30
 msgid ""
-"Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> key. Start typing to search."
+"Open the <gui>Activities</gui> overview by clicking <gui>Activities</gui> at "
+"the top left of the screen, or by pressing the <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> key. Start typing to search."
 msgstr ""
-"Otevřete <gui>Přehled činností</gui> zmáčknutím klávesy <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> a začněte hledat tím, že začnete "
-"psát."
+"Otevřete přehled <gui>Činností</gui> kliknutím na <gui>Činnosti</gui> v levém "
+"horním rohu obrazovky, nebo zmáčknutím klávesy <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key>, a začněte hledat tím, že začnete psát."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:30
+#: C/gs-use-system-search.page:34
 msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
@@ -2140,43 +2147,73 @@ msgstr ""
 "První výsledek je vždy zvýrazněný a zobrazený nahoře."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:32
+#: C/gs-use-system-search.page:36
 msgid "Press <key>Enter</key> to switch to the first highlighted result."
 msgstr ""
 "Zmáčknutím <key>Enter</key> se na tento první zvýrazněný výsledek přepnete."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:38
+#: C/gs-use-system-search.page:42
 msgid "Items that may appear in the search results include:"
 msgstr "Mezi položky, které se mohou objevit ve výsledcích hledání patří:"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:40
+#: C/gs-use-system-search.page:44
 msgid "matching applications, shown at the top of the search results,"
 msgstr "vyhovující aplikace (zobrazí se ve výsledcích jako první)"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:42
+#: C/gs-use-system-search.page:46
 msgid "matching settings,"
-msgstr "vyhovující nastavení"
-
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:43
-msgid "matching contacts, and"
-msgstr "vyhovující kontakty"
-
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:44
-msgid "matching documents."
-msgstr "vyhovující dokumenty"
+msgstr "vyhovující nastavení,"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:47
+msgid "matching contacts,"
+msgstr "vyhovující kontakty,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:48
+msgid "matching documents,"
+msgstr "vyhovující dokumenty,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:49
+msgid "matching calendar,"
+msgstr "vyhovující kalendáře,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:50
+msgid "matching calculator,"
+msgstr "vyhovující výpočty na kalkulačce,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:51
+msgid "matching software,"
+msgstr "vyhovující software,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:52
+msgid "matching files,"
+msgstr "vyhovující soubory,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:53
+msgid "matching terminal,"
+msgstr "vyhovující terminály,"
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:54
+msgid "matching passwords and keys."
+msgstr "vyhovující hesla a klíče."
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:57
 msgid "In the search results, click the item to switch to it."
 msgstr "Kliknutím na položku ve výsledcích hledání se na ni přepnete."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:48
+#: C/gs-use-system-search.page:58
 msgid ""
 "Alternatively, highlight an item using the arrow keys and press <key>Enter</"
 "key>."
@@ -2185,12 +2222,12 @@ msgstr ""
 "key>."
 
 #. (itstool) path: section/title
-#: C/gs-use-system-search.page:54
+#: C/gs-use-system-search.page:64
 msgid "Search from inside applications"
 msgstr "Vyhledávání v aplikacích"
 
 #. (itstool) path: section/p
-#: C/gs-use-system-search.page:56
+#: C/gs-use-system-search.page:66
 msgid ""
 "The system search aggregates results from various applications. On the left-"
 "hand side of the search results, you can see icons of applications that "
@@ -2207,12 +2244,12 @@ msgstr ""
 "přinést lepší výsledky."
 
 #. (itstool) path: section/title
-#: C/gs-use-system-search.page:68
+#: C/gs-use-system-search.page:78
 msgid "Customize search results"
 msgstr "Přizpůsobení výsledků hledání"
 
 #. (itstool) path: note/p
-#: C/gs-use-system-search.page:74
+#: C/gs-use-system-search.page:84
 msgid ""
 "GNOME lets you customize what you want to display in the search results in "
 "the <gui>Activities Overview</gui>. For example, you can choose whether you "
@@ -2223,17 +2260,17 @@ msgstr ""
 "zobrazovat výsledky pro webové stránky, fotografie nebo hudbu."
 
 #. (itstool) path: steps/title
-#: C/gs-use-system-search.page:82
+#: C/gs-use-system-search.page:92
 msgid "To customize what is displayed in the search results:"
 msgstr "Když si chcete přizpůsobit, co se má zobrazovat ve výsledcích hledání:"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:86
-msgid "Click the <gui>Search</gui> panel."
-msgstr "Klikněte na panel <gui>Hledání</gui>."
+#: C/gs-use-system-search.page:96
+msgid "Click <gui>Search</gui> in the left panel."
+msgstr "Klikněte na <gui>Hledání</gui> v panelu vlevo."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:87
+#: C/gs-use-system-search.page:97
 msgid ""
 "In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
 "the search location you want to enable or disable."
@@ -2342,9 +2379,10 @@ msgstr "gnome"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:151 C/gs-web-browser2.svg:157
+#: C/gs-web-browser2.svg:247
 #, no-wrap
-msgid "Planet Gnome"
-msgstr "Planet Gnome"
+msgid "Planet GNOME"
+msgstr "Planet GNOME"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:152 C/gs-web-browser2.svg:158
@@ -2370,11 +2408,8 @@ msgstr "http://gnome.org"
 msgid "planet.gnome.org"
 msgstr "planet.gnome.org"
 
-#. (itstool) path: text/tspan
-#: C/gs-web-browser2.svg:247
-#, no-wrap
-msgid "Planet GNOME"
-msgstr "Planet GNOME"
+#~ msgid "Planet Gnome"
+#~ msgstr "Planet Gnome"
 
 #~ msgid ""
 #~ "If you have set up an online account before, you can add another online "
