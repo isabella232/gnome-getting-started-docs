@@ -56,18 +56,16 @@ Please do not commit the generated SVGs, these files will be regenerated for
 all available languages when releasing a new tarball. The .gitignore file is
 properly set to ignore these files.
 
-The gs-browse-web.page & gs-browse-web-firefox.page files
----------------------------------------------------------
+The gs-browse-web.page file
+---------------------------
 
-By default, the gnome-getting-started-docs package ships both the
-gs-browse-web.page and gs-browse-web-firefox.page files, but only
-the gs-browse-web.page file is actually linked from the Getting Started
-landing page. This is to accommodate the fact that GNOME is shipped with
-Web, which is often replaced with Firefox (or some other browser) downstream.
+The gs-browse-web.page file contains conditionalized information on both the
+upstream default browser Web (Epiphany) and Firefox, which often replaces Web
+as the default browser downstream.
 
-See the gs-browse-web.page and gs-browse-web-firefox.page files for a hint
-on how to adjust the two files so that the appropriate one is linked from
-the landing page.
+See comments in the gs-browse-web.page file for a hint on how to adjust the
+file so that the appropriate information is displayed for your downstream
+distribution.
 
 Language packs
 --------------
