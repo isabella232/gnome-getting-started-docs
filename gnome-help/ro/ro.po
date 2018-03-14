@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
 "POT-Creation-Date: 2018-03-09 08:49+0000\n"
-"PO-Revision-Date: 2018-03-11 10:37+0200\n"
+"PO-Revision-Date: 2018-03-14 19:02+0200\n"
 "Last-Translator: Daniel Șerbănescu <daniel [at] serbanescu [dot] dk>\n"
 "Language-Team: Gnome Romanian Translation Team\n"
 "Language: ro\n"
@@ -295,7 +295,7 @@ msgstr ""
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:22
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:89
 msgid "Switch tasks"
-msgstr "Comutarea sarcinilor"
+msgstr "Comutarea între sarcini"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
@@ -303,7 +303,7 @@ msgstr "Comutarea sarcinilor"
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-animation.xml:8
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:30
 msgid "Switching Tasks"
-msgstr "Comutarea sarcinilor"
+msgstr "Comutarea între sarcini"
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
@@ -404,7 +404,7 @@ msgid ""
 "Click the system menu on the right side of the top bar and press the "
 "settings button."
 msgstr ""
-"Clic pe meniul de sistem din partea dreaptă a barei superioare și apăsați "
+"Clic pe meniul sistemului din partea dreaptă a barei superioare și apăsați "
 "butonul configurări."
 
 #. (itstool) path: div/p
@@ -696,7 +696,7 @@ msgstr "Petr Kovar"
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-browse-web.page:15
 msgctxt "link:trail"
 msgid "Browse the web"
-msgstr "Navigarea pe internet"
+msgstr "Navigare pe internet"
 
 #. (itstool) path: info/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-browse-web.page:17
@@ -842,6 +842,8 @@ msgid ""
 "Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
 "right side of the top bar."
 msgstr ""
+"Clic pe <gui xref=\"shell-introduction#yourname\">meniul sistemului</gui> "
+"din partea dreaptă a barei de sus."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-change-date-time-timezone.page:29
@@ -849,12 +851,12 @@ msgstr ""
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-connect-online-accounts.page:29
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:94
 msgid "Click the settings button at the bottom left of the menu."
-msgstr ""
+msgstr "Clic pe butonul de configurări din partea stânga-jos a meniului."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-change-date-time-timezone.page:30
 msgid "Select the <gui>Date &amp; Time</gui> panel."
-msgstr ""
+msgstr "Selectați panoul <gui>Data și ora</gui>."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-change-date-time-timezone.page:37
@@ -862,6 +864,8 @@ msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
 "then click the <gui>Time Zone</gui> item below."
 msgstr ""
+"Asigurați-vă că elementul <gui>Data și ora automată</gui> este oprit, apoi "
+"clic pe elementul <gui>Fus orar</gui> de mai jos."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-change-date-time-timezone.page:39
@@ -869,12 +873,17 @@ msgid ""
 "Click on your location on the world map. This selects your current city, "
 "which you can also search for in the search box above the map."
 msgstr ""
+"Clic pe locația dumneavoastră pe harta mondială. Aceasta va selecta orașul "
+"curent, pe care puteți de asemenea să-l căutați în căsuța de căutare de "
+"deasupra hărții."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-change-date-time-timezone.page:41
 msgid ""
 "Close the world map window to go back to the <gui>Date &amp; Time</gui>."
 msgstr ""
+"Închideți fereastra cu harta mondială pentru a vă întoarce la <gui>Data și "
+"ora</gui>."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-change-date-time-timezone.page:43
@@ -884,6 +893,10 @@ msgid ""
 "<gui>Date &amp; Time</gui> window. There you can adjust your date and time "
 "settings by clicking on the <gui>+</gui> or <gui>-</gui> buttons."
 msgstr ""
+"Asigurațivă că elementul <gui>Data și ora automată</gui> este oprit, și apoi "
+"clic pe elementul <gui>Data și ora</gui> de mai jos pentru a deschide "
+"fereastra <gui>Data și ora</gui>. Acolo puteți ajusta configurările de dată "
+"și oră apăsând clic pe butoanele <gui>+</gui> sau <gui>-</gui>."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-change-date-time-timezone.page:48
@@ -891,6 +904,8 @@ msgid ""
 "Close the window to go back to the <gui>Date &amp; Time</gui>, and then "
 "close the panel."
 msgstr ""
+"Închideți fereastra pentru a reveni la <gui>Data și ora</gui>, apoi "
+"închideți panoul."
 
 #. (itstool) path: info/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-change-wallpaper.page:15
@@ -902,7 +917,7 @@ msgstr "Schimbarea tapetului"
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-change-wallpaper.page:17
 msgctxt "link:seealso"
 msgid "A tutorial on changing the wallpaper"
-msgstr ""
+msgstr "Un ghid pentru schimbarea tapetului"
 
 #. (itstool) path: page/title
 #. (itstool) path: section/title
@@ -914,7 +929,7 @@ msgstr "Schimbarea tapetului"
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-change-wallpaper.page:61
 msgid "Click the <gui>Background</gui> panel."
-msgstr ""
+msgstr "Clic pe panoul <gui>Fundal</gui>."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-change-wallpaper.page:62
@@ -922,6 +937,8 @@ msgid ""
 "Click the current background image on the left side of the <gui>Background</"
 "gui> window."
 msgstr ""
+"Clic pe imaginea de fundal curentă din partea stângă a ferestrei "
+"<gui>Fundal</gui>."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-change-wallpaper.page:66
@@ -929,6 +946,8 @@ msgid ""
 "Close the <gui>Background</gui> window by clicking the cross at the top-"
 "right corner of the window."
 msgstr ""
+"Închideți fereastra <gui>Fundal</gui> apăsând pe x din partea dreaptă-sus a "
+"ferestrei."
 
 #. (itstool) path: info/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-connect-online-accounts.page:14
@@ -940,7 +959,7 @@ msgstr "Conectarea la conturi online"
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-connect-online-accounts.page:16
 msgctxt "link:seealso"
 msgid "A tutorial on connecting to online accounts"
-msgstr ""
+msgstr "Un ghid pentru conectarea la conturi online"
 
 #. (itstool) path: page/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-connect-online-accounts.page:21
@@ -953,12 +972,16 @@ msgid ""
 "Click the <gui>Online Accounts</gui> panel, then click the online account "
 "service you want to use."
 msgstr ""
+"Clic pe panoul <gui>Conturi online</gui>, apoi clic pe serviciul de conturi "
+"online pe care doriți să-l utilizați."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-connect-online-accounts.page:39
 msgid ""
 "This will open a new window where you can sign in to your online account."
 msgstr ""
+"Aceasta va deschide o fereastră nouă unde puteți să vă conectați la contul "
+"dumneavoastră online."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-connect-online-accounts.page:47
@@ -966,6 +989,8 @@ msgid ""
 "In most cases, you will have to grant access to the online service after "
 "signing in to get started."
 msgstr ""
+"În cele mai multe cazuri, va trebui să permiteți accesul la serviciul online "
+"nupă ce vă autentificați pentru a începe lucrul."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-connect-online-accounts.page:49
@@ -973,6 +998,8 @@ msgid ""
 "For example, if you are connecting to your Google account, you will have to "
 "click the <gui>Allow</gui> button."
 msgstr ""
+"De exemplu, dacă vă conectați la contul dumneavoastră Google, va trebui să "
+"apăsați pe butonul <gui>Permite</gui>."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-connect-online-accounts.page:57
@@ -981,6 +1008,10 @@ msgid ""
 "online account. If you do not want to use a service, disable it by clicking "
 "the <gui>ON/OFF</gui> switch on the right-hand side of the window."
 msgstr ""
+"Multe conturi online vă permit să alegeți serviciile pe care doriți să le "
+"utilizați cu contul dumneavoastră online. Dacă nu vreți să utilizați un "
+"serviciu, dezactivați-l folosind comutatorul <gui>PORNIT/OPRIT</gui> din "
+"dreapta ferestrei."
 
 #. (itstool) path: Work/format
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-datetime.svg:48
@@ -1067,31 +1098,31 @@ msgstr "Fus orar automat"
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-datetime.svg:113
 #, no-wrap
 msgid "September 1st 2015, 9∶51 AM"
-msgstr ""
+msgstr "1 Septembrie 2015, 9∶51 AM"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-datetime.svg:114
 #, no-wrap
 msgid "Time Zone"
-msgstr ""
+msgstr "Fus orar"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-datetime.svg:115
 #, no-wrap
 msgid "EDT (New York, United States)"
-msgstr ""
+msgstr "EDT (New York, Statele Unite)"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-datetime.svg:119
 #, no-wrap
 msgid "Time Format"
-msgstr ""
+msgstr "Formatul orei"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-datetime.svg:121
 #, no-wrap
 msgid "24-hour"
-msgstr ""
+msgstr "24-ore"
 
 #. (itstool) path: info/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-get-online.page:14
@@ -1115,12 +1146,12 @@ msgstr "Conectarea la rețea"
 msgid ""
 "You can see the status of your network connection on the right-hand side of "
 "the top bar."
-msgstr ""
+msgstr "Puteți vedea starea conexiunii în partea dreaptă a barei de sus."
 
 #. (itstool) path: section/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-get-online.page:29
 msgid "Connect to a wired network"
-msgstr ""
+msgstr "Conectarea la o rețea cu fir"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-get-online.page:35
@@ -1128,6 +1159,8 @@ msgid ""
 "The network connection icon on the right-hand side of the top bar shows that "
 "you are offline."
 msgstr ""
+"Iconița de conectare la rețea din partea dreaptă a barei de sus arată că "
+"sunteți deconectat."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-get-online.page:37
@@ -1137,6 +1170,10 @@ msgid ""
 "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
 msgstr ""
+"Starea deconectată poate fi folosită dintr-un număr de motive: de exemplu, "
+"un cablu de rețea a fost deconectat, calculatorul a fost configurat să "
+"ruleze în <em>modul avion</em>, sau nu există rețele Wi-Fi disponibile în "
+"zona dumneavoastră."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-get-online.page:41
@@ -1145,6 +1182,9 @@ msgid ""
 "online. The computer will try to set up the network connection for you "
 "automatically."
 msgstr ""
+"Dacă doriți să folosiți o conexiune cu fir, conectați un cablu de rețea și "
+"navigați online. Calculatorul va încerca să configureze automat conexiunea "
+"la rețea."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-get-online.page:44
@@ -1152,6 +1192,8 @@ msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
 msgstr ""
+"În timp ce calculatorul configurează conexiunea la rețea pentru "
+"dumneavoastră, iconița de conexiune la rețea afișează trei puncte."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-get-online.page:46
@@ -1159,16 +1201,18 @@ msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to the networked computer symbol."
 msgstr ""
+"Odată ce conexiunea la rețea a fost stabilită cu succes, iconița de "
+"conexiune la rețea se schimbă la un simbol de calculatoare conectate."
 
 #. (itstool) path: section/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-get-online.page:54
 msgid "Connect to a Wi-Fi network"
-msgstr ""
+msgstr "Conectarea la o rețea Wi-Fi"
 
 #. (itstool) path: steps/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-get-online.page:60
 msgid "To connect to a Wi-Fi (wireless) network:"
-msgstr ""
+msgstr "Pentru a vă conecta la o rețea Wi-Fi (fără fir):"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-get-online.page:66
@@ -1176,11 +1220,13 @@ msgid ""
 "Select <gui>Wi-Fi Not Connected</gui>. The Wi-Fi section of the menu will "
 "expand."
 msgstr ""
+"Selectați <gui>Wi-Fi deconectat</gui>. Secțiunea Wi-Fi a meniului va fi "
+"expandată."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-get-online.page:70
 msgid "Click <gui>Select Network</gui>."
-msgstr ""
+msgstr "Clic <gui>Selectează rețea</gui>."
 
 #. (itstool) path: note/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-get-online.page:75
@@ -1188,6 +1234,9 @@ msgid ""
 "You can only connect to a Wi-Fi network if your computer hardware supports "
 "it and you are in an area with Wi-Fi coverage."
 msgstr ""
+"Puteți să vă conectați la o rețea  Wi-Fi numai dacă componentele "
+"calculatorului suportă acest lucru și dacă sunteți în raza de acoperire Wi-"
+"Fi."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-get-online.page:83
@@ -1195,6 +1244,8 @@ msgid ""
 "From the list of available Wi-Fi networks, select the network you want to "
 "connect to, and click <gui>Connect</gui> to confirm."
 msgstr ""
+"Din lista de rețele disponibile Wi-Fi, selectați rețeaua la care doriți să "
+"vă conectați, și clic pe <gui>Conectează</gui> pentru a confirma."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-get-online.page:85
@@ -1202,6 +1253,8 @@ msgid ""
 "Depending on the network configuration, you may be prompted for network "
 "credentials."
 msgstr ""
+"În funcție de configurația rețelei, este posibil să vi se ceară credențiale "
+"pentru rețea."
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa1.svg:80
@@ -1251,19 +1304,19 @@ msgstr "Conturi online"
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa2.svg:431
 #, no-wrap
 msgid "Add an account"
-msgstr ""
+msgstr "Adăugarea unui cont"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa2.svg:469
 #, no-wrap
 msgid "Connect to your data in the cloud"
-msgstr ""
+msgstr "Conectați-vă la datele dumneavoastră din nor"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa3.svg:63
 #, no-wrap
 msgid "Add Account"
-msgstr ""
+msgstr "Adăugare cont"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa3.svg:65
@@ -1271,48 +1324,48 @@ msgstr ""
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa5.svg:317
 #, no-wrap
 msgid "Google"
-msgstr ""
+msgstr "Google"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa3.svg:66
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa4.svg:603
 #, no-wrap
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa3.svg:67
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa4.svg:614
 #, no-wrap
 msgid "Windows Live"
-msgstr ""
+msgstr "Windows Live"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa3.svg:68
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa4.svg:625
 #, no-wrap
 msgid "Microsoft Exchange"
-msgstr ""
+msgstr "Microsoft Exchange"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa3.svg:69
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa4.svg:636
 #, no-wrap
 msgid "Enterprise Login (Kerberos)"
-msgstr ""
+msgstr "Autentificare pentru întreprinderi (Kerberos)"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa3.svg:108
 #, no-wrap
 msgid "Add an online account"
-msgstr ""
+msgstr "Adaugă un cont online"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa4.svg:193
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa4.svg:407
 #, no-wrap
 msgid "Google account"
-msgstr ""
+msgstr "Cont Google"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa4.svg:267
@@ -1321,31 +1374,31 @@ msgstr ""
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-web-browser2.svg:255
 #, no-wrap
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa4.svg:288
 #, no-wrap
 msgid "Sign in"
-msgstr ""
+msgstr "Autentificare"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa4.svg:299
 #, no-wrap
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa4.svg:319
 #, no-wrap
 msgid "Password"
-msgstr ""
+msgstr "Parolă"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa4.svg:346
 #, no-wrap
 msgid "Sign In"
-msgstr ""
+msgstr "Autentificare"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-goa4.svg:357
@@ -1448,90 +1501,90 @@ msgstr "Wi-Fi"
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-go-online3.svg:311
 #, no-wrap
 msgid "homenetwork"
-msgstr ""
+msgstr "homenetwork"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-go-online2.svg:338
 #, no-wrap
 msgid "Select Network"
-msgstr ""
+msgstr "Selectează rețea"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-go-online2.svg:339
 #, no-wrap
 msgid "Turn Off"
-msgstr ""
+msgstr "Oprește"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-go-online2.svg:340
 #, no-wrap
 msgid "Network Settings"
-msgstr ""
+msgstr "Configurări rețea"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-go-online3.svg:306
 #, no-wrap
 msgid "Wi-Fi Networks"
-msgstr ""
+msgstr "Rețele Wi-Fi"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-go-online3.svg:309
 #, no-wrap
 msgid "Connect"
-msgstr ""
+msgstr "Conectează"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-go-online3.svg:312
 #, no-wrap
 msgid "wireless"
-msgstr ""
+msgstr "fără fir"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-go-online3.svg:313
 #, no-wrap
 msgid "netgear"
-msgstr ""
+msgstr "netgear"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-go-online3.svg:314
 #, no-wrap
 msgid "weak"
-msgstr ""
+msgstr "weak"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-go-online3.svg:315
 #, no-wrap
 msgid "private"
-msgstr ""
+msgstr "privată"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-go-online3.svg:316
 #, no-wrap
 msgid "Select a network"
-msgstr ""
+msgstr "Selectează o rețea"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-go-online3.svg:338
 #, no-wrap
 msgid "Cancel"
-msgstr ""
+msgstr "Anulează"
 
 #. (itstool) path: info/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-launch-applications.page:16
 msgctxt "link:trail"
 msgid "Launch applications"
-msgstr ""
+msgstr "Lansarea de aplicații"
 
 #. (itstool) path: info/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-launch-applications.page:18
 msgctxt "link:seealso"
 msgid "A tutorial on launching applications"
-msgstr ""
+msgstr "Un ghid despre lansarea aplicațiilor"
 
 #. (itstool) path: section/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-launch-applications.page:61
 msgid "Launch applications with the mouse"
-msgstr ""
+msgstr "Lansarea aplicațiilor folosind mausul"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-launch-applications.page:66
@@ -1539,6 +1592,8 @@ msgid ""
 "Click the <gui>Show Applications</gui> icon that is shown at the bottom of "
 "the bar on the left-hand side of the screen."
 msgstr ""
+"Clic pe iconița <gui>Arată aplicații</gui> care este afișată la baza barei "
+"din partea stângă a ecranului."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-launch-applications.page:68
@@ -1546,11 +1601,13 @@ msgid ""
 "A list of applications is shown. Click the application you want to run, for "
 "example, Help."
 msgstr ""
+"O listă de aplicații este afișată. Clic pe aplicația pe care doriți să o "
+"lansați, de exemplu, Ajutor."
 
 #. (itstool) path: section/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-launch-applications.page:75
 msgid "Launch applications with the keyboard"
-msgstr ""
+msgstr "Lansarea aplicațiilor folosind tastatura"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-launch-applications.page:78
@@ -1558,6 +1615,8 @@ msgid ""
 "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key."
 msgstr ""
+"Deschideți vederea de ansamblu <gui>Activități</gui> apăsând tasta <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key>."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-launch-applications.page:80
@@ -1565,6 +1624,8 @@ msgid ""
 "Start typing the name of the application you want to launch. Searching for "
 "the application begins instantly."
 msgstr ""
+"Începeți să tastați numele aplicației pe care doriți să o lansați. Căutarea "
+"aplicației va începe instant."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-launch-applications.page:82
@@ -1572,33 +1633,37 @@ msgid ""
 "Once the icon of the application is shown and selected, press <key> Enter</"
 "key> to launch the application."
 msgstr ""
+"Odată ce iconița aplicației este afișată și selectată, apăsați "
+"<key>Enter</key> pentru a lansa aplicația."
 
 #. (itstool) path: p/link
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-legal.xml:3
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
 msgstr ""
+"Licență neportată Creative Commons Atribuire-Distribuire în condiții "
+"identice 3.0"
 
 #. (itstool) path: license/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-legal.xml:3
 msgid "This work is licensed under a <_:link-1/>."
-msgstr ""
+msgstr "Această lucrare este licențiată sub o <_:link-1/>."
 
 #. (itstool) path: info/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:18
 msgctxt "link:trail"
 msgid "Respond to messages"
-msgstr ""
+msgstr "Răspunderea la mesaje"
 
 #. (itstool) path: info/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:19
 msgctxt "link:seealso"
 msgid "A tutorial on responding to messages"
-msgstr ""
+msgstr "Un ghid despre răspunderea la mesaje"
 
 #. (itstool) path: page/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:22
 msgid "Respond to messages"
-msgstr ""
+msgstr "Răspunderea la mesaje"
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
@@ -1608,6 +1673,8 @@ msgid ""
 "Move your mouse over the chat message that appears near the top of the "
 "screen."
 msgstr ""
+"Mutați mausul deasupra mesajului de chat care apare lângă partea superioară "
+"a ecranului."
 
 #. (itstool) path: div/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:37
@@ -1615,11 +1682,13 @@ msgid ""
 "Start typing your reply and when finished, press <key>Enter </key> to send "
 "the reply."
 msgstr ""
+"Începeți să tastați un răspuns și când sunteți gata, apăsați <key>Enter</key>"
+" pentru a trimite răspunsul."
 
 #. (itstool) path: div/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:41
 msgid "Close the chat message."
-msgstr ""
+msgstr "Închideți mesajul de chat."
 
 #. (itstool) path: div/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:47
@@ -1627,6 +1696,8 @@ msgid ""
 "A chat message near the top of the screen disappears after a while if you do "
 "not move your mouse over the message."
 msgstr ""
+"Un mesaj de chat lângă partea superioară a ecranului dispare după un timp "
+"dacă nu mutați mausul deasupra mesajului."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
@@ -1634,17 +1705,18 @@ msgstr ""
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:97
 msgid "To get back to your unanswered message, click the clock on the top bar."
 msgstr ""
+"Pentru a reveni la mesajul fără răspuns, clic pe ceasul din bara de sus."
 
 #. (itstool) path: div/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:55
 msgid "From the notification list, choose your message."
-msgstr ""
+msgstr "Din lista de notificări, alegeți mesajul."
 
 #. (itstool) path: div/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:58
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:70
 msgid "Start typing your reply."
-msgstr ""
+msgstr "Începeți să tastați un răspuns."
 
 #. (itstool) path: div/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:61
@@ -1652,6 +1724,8 @@ msgid ""
 "To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
 "keyboard-key-super\">Super</key> <key>V</key></keyseq>"
 msgstr ""
+"Pentru a afișa lista de notificări, apăsați <keyseq><key href=\"help:gnome-"
+"help/keyboard-key-super\">Super</key> <key>V</key></keyseq>"
 
 #. (itstool) path: div/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:66
@@ -1659,11 +1733,13 @@ msgid ""
 "Use the arrow keys to select the message you want to reply to, and press "
 "<key>Enter</key>."
 msgstr ""
+"Utilizați tastele săgeți pentru a selecta mesajul la care doriți să "
+"răspundeți, și apăsați <key>Enter</key>."
 
 #. (itstool) path: section/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:78
 msgid "Respond to a chat message with the mouse"
-msgstr ""
+msgstr "Răspunderea la un mesaj de chat cu ajutorul mausului"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:83
@@ -1671,6 +1747,8 @@ msgid ""
 "Start typing your reply and when finished, press <key>Enter</key> to send "
 "the reply."
 msgstr ""
+"Începeți să tastați un răspuns și când sunteți gata, apăsați <key>Enter</key>"
+" pentru a trimite răspunsul."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:85
@@ -1678,11 +1756,13 @@ msgid ""
 "To close the chat message, click the close button at the top right corner of "
 "the chat message."
 msgstr ""
+"Pentru a închide mesajul de chat, clic pe butonul închide din colțul dreapta-"
+"sus al mesajului."
 
 #. (itstool) path: section/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:92
 msgid "Delayed response to a chat message using the mouse"
-msgstr ""
+msgstr "Răspunderea întârziată la un mesaj de chat utilizând mausul"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:95
@@ -1690,6 +1770,8 @@ msgid ""
 "When a chat message appears near the top of the screen and you do not move "
 "your mouse over the message, it disappears after a while."
 msgstr ""
+"Când un mesaj de chat apare lângă partea de sus a ecranului și nu mutați "
+"mausul deasupra mesajului, va dispărea după un timp."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:99
@@ -1697,17 +1779,19 @@ msgid ""
 "From the notification list, choose the message you want to reply to, and "
 "click it."
 msgstr ""
+"Din lista de notificări, alegeți mesajul la care doriți să răspunde-ți, șî "
+"apăsați pe el."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:101
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:115
 msgid "When the chat message is shown, start typing your reply."
-msgstr ""
+msgstr "Când mesajul de chat este afișat, începeți să tastați răspunsul."
 
 #. (itstool) path: section/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:107
 msgid "Delayed response to a chat message using the keyboard"
-msgstr ""
+msgstr "Răspunderea întârziată la un mesaj de chat utilizând tastaura"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:109
@@ -1716,6 +1800,9 @@ msgid ""
 "\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
 "display the list of unanswered notifications."
 msgstr ""
+"Pentru a reveni la mesajele de chat la care nu ați răspuns, apăsați <keyseq> "
+"<key href=\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> "
+"</keyseq> pentru a afișa lista de notificări la care nu ați răspuns."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-respond-messages.page:113
@@ -1723,122 +1810,124 @@ msgid ""
 "Use the arrow keys to select the notification you want to reply to, and "
 "press <key>Enter</key>."
 msgstr ""
+"Utilizați săgețile pentru a selecta notificarea la care doriți să răspundeți "
+"și apăsați <key>Enter</key>."
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-search1.svg:229
 #, no-wrap
 msgid "just type"
-msgstr ""
+msgstr "tastați"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-search2.svg:182
 #, no-wrap
 msgid "con"
-msgstr ""
+msgstr "con"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-search2.svg:246
 #, no-wrap
 msgid "Accounts"
-msgstr ""
+msgstr "Conturi"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-search2.svg:247
 #, no-wrap
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
-msgstr ""
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-search2.svg:248
 #, no-wrap
 msgid "config"
-msgstr ""
+msgstr "config"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-search2.svg:249
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-search2.svg:252
 #, no-wrap
 msgid "fontconfig"
-msgstr ""
+msgstr "fontconfig"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-search2.svg:250
 #, no-wrap
 msgid "system-config-http.zip"
-msgstr ""
+msgstr "system-config-http.zip"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-search2.svg:251
 #, no-wrap
 msgid "Icon guidelines"
-msgstr ""
+msgstr "Ghiduri iconiță"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-search2.svg:269
 #, no-wrap
 msgid "Secure Linux Containers"
-msgstr ""
+msgstr "Containere Linux sigure"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-search2.svg:270
 #, no-wrap
 msgid "Developer Conference 2012"
-msgstr ""
+msgstr "Conferința dezvoltatorilor 2012"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-search2.svg:294
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-web-browser2-firefox.svg:218
 #, no-wrap
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-search-settings.svg:125
 #, no-wrap
 msgid "Search"
-msgstr ""
+msgstr "Căutare"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-search-settings.svg:127
 #, no-wrap
 msgid "Files"
-msgstr ""
+msgstr "Fișiere"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-search-settings.svg:242
 #, no-wrap
 msgid "Web"
-msgstr ""
+msgstr "Web"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-search-settings.svg:243
 #, no-wrap
 msgid "Photos"
-msgstr ""
+msgstr "Fotografii"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-search-settings.svg:244
 #, no-wrap
 msgid "Music"
-msgstr ""
+msgstr "Muzică"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-search-settings.svg:271
 #, no-wrap
 msgid "OFF"
-msgstr ""
+msgstr "OPRIT"
 
 #. (itstool) path: info/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:16
 msgctxt "link:trail"
 msgid "Switch tasks"
-msgstr ""
+msgstr "Comutarea între sarcini"
 
 #. (itstool) path: info/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:18
 msgctxt "link:seealso"
 msgid "A tutorial on switching tasks"
-msgstr ""
+msgstr "Un ghid despre comutarea între sarcini"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:95
@@ -1847,6 +1936,10 @@ msgid ""
 "of the screen to show the <gui>Activities Overview</gui> where you can see "
 "the currently running tasks displayed as small windows."
 msgstr ""
+"Mutați cursorul mausului la colțul <gui>Activități</gui> situat în partea "
+"stânga sus a ecranului pentru a afișa vederea de ansamblu "
+"<gui>Activități</gui> de unde puteți vedea sarcinile, care rulează momentan, "
+"în formă de ferestre mici."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:105
@@ -1855,17 +1948,22 @@ msgid ""
 "bottom of the screen. Open tasks appear as buttons in the <gui>window list</"
 "gui>."
 msgstr ""
+"Puteți comuta între sarcini folosind <gui>lista de ferestre</gui> din partea "
+"inferioară a ecranului. Deschideți sarcini ce apar ca butoane în <gui>lista "
+"de ferestre</gui>."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:108
 msgid "Click a button in the <gui>window list</gui> to switch to that task."
 msgstr ""
+"Clic pe un buton în <gui>lista de ferestre</gui> pentru a comuta la acea "
+"sarcină."
 
 #. (itstool) path: section/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:118
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-windows-workspaces.page:114
 msgid "Tile windows"
-msgstr ""
+msgstr "Juxtapunerea ferestrelor"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:121
@@ -1874,6 +1972,8 @@ msgid ""
 "To maximize a window along a side of the screen, grab the window’s titlebar "
 "and drag it to the left or right side of the screen."
 msgstr ""
+"Pentru a maximiza o ferestră de-alungul unei părți a ecranului, apucați de "
+"titlul ferestrei și trageți-o în partea stângă sau dreaptă a ecranului."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:123
@@ -1882,6 +1982,8 @@ msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
 "along the selected side of the screen."
 msgstr ""
+"Când jumătate din ecran este evidențiat, eliberați fereastra pentru a o "
+"maximiza de-alungul părții selectate de ecran."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:125
@@ -1890,6 +1992,8 @@ msgid ""
 "To maximize two windows side-by-side, grab the titlebar of the second window "
 "and drag it to the opposite side of the screen."
 msgstr ""
+"Pentru a maximiza două ferestre una lângă alta, apucați bara de titlu a "
+"ferestrei a doua și trageți-o în partea opusă a ecranului."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:127
@@ -1898,11 +2002,13 @@ msgid ""
 "When half of the screen is highlighted, release the window to maximize it "
 "along the opposite side of the screen."
 msgstr ""
+"Când jumătate din ecran este evidențiat, eliberați fereastra pentru a o "
+"maximiza în partea opusă a ecranului."
 
 #. (itstool) path: section/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:134
 msgid "Switch between windows"
-msgstr ""
+msgstr "Comutarea între ferestre"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:137
@@ -1911,6 +2017,9 @@ msgid ""
 "key><key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which "
 "lists the currently open windows."
 msgstr ""
+"Apăsați <keyseq><key href=\"help:gnome-help/keyboard-key-super\""
+">Super</key><key>Tab</key></keyseq> pentru a afișa <gui>comutatorul de "
+"ferestre</gui>, care listează ferestrele deschise curent."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:140
@@ -1918,11 +2027,13 @@ msgid ""
 "Release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> to "
 "select the next highlighted window in the <gui>window switcher</gui>."
 msgstr ""
+"Eliberați tasta <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
+"pentru a selecta fereastra evidențiată în <gui>comutatorul de ferestre</gui>."
 
 #. (itstool) path: section/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:151
 msgid "Use search to switch applications"
-msgstr ""
+msgstr "Utilizarea căutării pentru a comuta aplicații"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:154
@@ -1930,6 +2041,8 @@ msgid ""
 "Press the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key "
 "to show the <gui>Activities Overview</gui>."
 msgstr ""
+"Apăsați tasta <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
+"pentru a afișa vederea de ansamblu <gui>Activități</gui>."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:156
@@ -1937,6 +2050,9 @@ msgid ""
 "Just start typing the name of the application you want to switch to. "
 "Applications matching what you have typed will appear as you type."
 msgstr ""
+"Începeți să tastați numele aplicației la care doriți să comutați. "
+"Aplicațiile ce se potrivesc la ceea ce ați tastat vor apărea pe măsură ce "
+"tastați."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-switch-tasks.page:159
@@ -1944,12 +2060,14 @@ msgid ""
 "When the application that you want to switch to appears as the first result, "
 "press <key>Enter</key> to switch to it."
 msgstr ""
+"Când aplicația la care doriți să comutați apare ca prim rezultat, apăsați "
+"<key>Enter</key> pentru a comuta la ea."
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-responding-to-messages.svg:87
 #, no-wrap
 msgid "Thanks f"
-msgstr ""
+msgstr "Mulțumiri"
 
 #. (itstool) path: text/tspan
 #. Translators: S stands for Sunday here
@@ -1957,14 +2075,14 @@ msgstr ""
 #, no-wrap
 msgctxt "Sunday"
 msgid "S"
-msgstr ""
+msgstr "D"
 
 #. (itstool) path: text/tspan
 #. Translators: M stands for Monday here
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:94
 #, no-wrap
 msgid "M"
-msgstr ""
+msgstr "L"
 
 #. (itstool) path: text/tspan
 #. Translators: T stands for Tuesday here
@@ -1972,14 +2090,14 @@ msgstr ""
 #, no-wrap
 msgctxt "Tuesday"
 msgid "T"
-msgstr ""
+msgstr "M"
 
 #. (itstool) path: text/tspan
 #. Translators: W stands for Wednesday here
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:96
 #, no-wrap
 msgid "W"
-msgstr ""
+msgstr "M"
 
 #. (itstool) path: text/tspan
 #. Translators: T stands for Thursday here
@@ -1987,14 +2105,14 @@ msgstr ""
 #, no-wrap
 msgctxt "Thursday"
 msgid "T"
-msgstr ""
+msgstr "J"
 
 #. (itstool) path: text/tspan
 #. Translators: F stands for Friday here
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:98
 #, no-wrap
 msgid "F"
-msgstr ""
+msgstr "V"
 
 #. (itstool) path: text/tspan
 #. Translators: S stands for Saturday here
@@ -2002,156 +2120,156 @@ msgstr ""
 #, no-wrap
 msgctxt "Saturday"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:108
 #, no-wrap
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:109
 #, no-wrap
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:110
 #, no-wrap
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:111
 #, no-wrap
 msgid "11"
-msgstr ""
+msgstr "11"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:112
 #, no-wrap
 msgid "12"
-msgstr ""
+msgstr "12"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:113
 #, no-wrap
 msgid "13"
-msgstr ""
+msgstr "13"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:114
 #, no-wrap
 msgid "14"
-msgstr ""
+msgstr "14"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:116
 #, no-wrap
 msgid "15"
-msgstr ""
+msgstr "15"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:117
 #, no-wrap
 msgid "16"
-msgstr ""
+msgstr "16"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:118
 #, no-wrap
 msgid "17"
-msgstr ""
+msgstr "17"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:119
 #, no-wrap
 msgid "18"
-msgstr ""
+msgstr "18"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:120
 #, no-wrap
 msgid "19"
-msgstr ""
+msgstr "19"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:121
 #, no-wrap
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:122
 #, no-wrap
 msgid "21"
-msgstr ""
+msgstr "21"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:124
 #, no-wrap
 msgid "22"
-msgstr ""
+msgstr "22"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:125
 #, no-wrap
 msgid "23"
-msgstr ""
+msgstr "23"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:126
 #, no-wrap
 msgid "24"
-msgstr ""
+msgstr "24"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:127
 #, no-wrap
 msgid "25"
-msgstr ""
+msgstr "25"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:128
 #, no-wrap
 msgid "26"
-msgstr ""
+msgstr "26"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:129
 #, no-wrap
 msgid "27"
-msgstr ""
+msgstr "27"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:130
 #, no-wrap
 msgid "28"
-msgstr ""
+msgstr "28"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:132
 #, no-wrap
 msgid "29"
-msgstr ""
+msgstr "29"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:133
 #, no-wrap
 msgid "30"
-msgstr ""
+msgstr "30"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-thumb-timezone.svg:134
 #, no-wrap
 msgid "31"
-msgstr ""
+msgstr "31"
 
 #. (itstool) path: credit/name
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:14
 msgid "Hannie Dumoleyn"
-msgstr ""
+msgstr "Hannie Dumoleyn"
 
 #. (itstool) path: info/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:17
@@ -2163,7 +2281,7 @@ msgstr "Utilizarea căutării sistemului"
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:19
 msgctxt "link:seealso"
 msgid "A tutorial on using the system search"
-msgstr ""
+msgstr "Un ghid pentru utilizarea căutării sistemului"
 
 #. (itstool) path: page/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:23
@@ -2177,6 +2295,10 @@ msgid ""
 "the top left of the screen, or by pressing the <key href=\"help:gnome-help/"
 "keyboard-key-super\">Super</key> key. Start typing to search."
 msgstr ""
+"Deschideți vederea de ansamblu <gui>Activități</gui> apăsând "
+"<gui>Activități</gui> din partea superioară a ecranului sau apăsând tasta <"
+"key href=\"help:gnome-help/keyboard-key-super\">Super</key>. Începeți să "
+"tastați pentru a căuta."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:33
@@ -2184,71 +2306,75 @@ msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
 msgstr ""
+"Rezultatele ce se potrivesc cu ce ați tastat vor apărea pe măsură ce "
+"tastați. Primul rezultat este evidențiat întotdeauna în partea superioară."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:35
 msgid "Press <key>Enter</key> to switch to the first highlighted result."
-msgstr ""
+msgstr "Apăsați <key>Enter</key> pentru a comuta la primul rezultat evidențiat."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:41
 msgid "Items that may appear in the search results include:"
-msgstr ""
+msgstr "Elementele care pot apărea în rezultatele căutării includ:"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:43
 msgid "matching applications, shown at the top of the search results,"
 msgstr ""
+"aplicații care se potrivesc, afișate în partea superioară a rezultatelor "
+"căutării,"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:45
 msgid "matching settings,"
-msgstr ""
+msgstr "configurări care se potrivesc,"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:46
 msgid "matching contacts,"
-msgstr ""
+msgstr "contacte care se potrivesc,"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:47
 msgid "matching documents,"
-msgstr ""
+msgstr "documente care se potrivesc,"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:48
 msgid "matching calendar,"
-msgstr ""
+msgstr "calendare care se potrivesc,"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:49
 msgid "matching calculator,"
-msgstr ""
+msgstr "expressi de calcul pentru calculator care se potrivesc,"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:50
 msgid "matching software,"
-msgstr ""
+msgstr "programe care se potrivesc,"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:51
 msgid "matching files,"
-msgstr ""
+msgstr "fișiere care se potrivesc,"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:52
 msgid "matching terminal,"
-msgstr ""
+msgstr "comenzi de terminal care se potrivesc,"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:53
 msgid "matching passwords and keys."
-msgstr ""
+msgstr "parole și chei care se potrivesc."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:56
 msgid "In the search results, click the item to switch to it."
-msgstr ""
+msgstr "În rezultatele căutării, clic pe elementul la care doriți să comutați."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:57
@@ -2256,11 +2382,13 @@ msgid ""
 "Alternatively, highlight an item using the arrow keys and press <key>Enter</"
 "key>."
 msgstr ""
+"În mod alternativ, evidențiați un element utilizând tastele săgeți și "
+"apăsați <key>Enter</key>."
 
 #. (itstool) path: section/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:63
 msgid "Search from inside applications"
-msgstr ""
+msgstr "Căutarea din interiorul aplicațiilor"
 
 #. (itstool) path: section/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:65
@@ -2272,11 +2400,18 @@ msgid ""
 "matches are shown in the <gui>Activities Overview</gui>, searching from "
 "inside the application may give you better search results."
 msgstr ""
+"Căutarea de sistem agreghează rezultate din mai multe aplicații. În partea "
+"stângă a rezultatelor căutării, puteți vedea iconițe ale aplicații care au "
+"oferit rezultatele căutării. Clic pe una dintre iconițe pentru a reporni "
+"căutarea din interiorul aplicației asociate cu acea iconiță. Pentru că numai "
+"cele mai bune potriviri sunt afișate în vederea de ansamblu "
+"<gui>Activități</gui>, căutarea din interiorul aplicației vă poate oferi "
+"rezultate de căutare mai bune."
 
 #. (itstool) path: section/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:77
 msgid "Customize search results"
-msgstr ""
+msgstr "Personalizarea rezultatelor căutării"
 
 #. (itstool) path: note/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:83
@@ -2285,16 +2420,19 @@ msgid ""
 "the <gui>Activities Overview</gui>. For example, you can choose whether you "
 "want to show results for websites, photos, or music."
 msgstr ""
+"GNOME vă permite să personalizați ce doriți să afișați în rezultatele "
+"căutării din vederea de ansamblu <gui>Activități</gui>. De exemplu, puteți "
+"alege dacă să includeți rezultate pentru situri web, fotografii sau muzică."
 
 #. (itstool) path: steps/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:91
 msgid "To customize what is displayed in the search results:"
-msgstr ""
+msgstr "Pentru a personaliza ce este afișat în rezultatele căutării:"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:95
 msgid "Click <gui>Search</gui> in the left panel."
-msgstr ""
+msgstr "Clic <gui>Caută</gui> în panoul din stânga."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-system-search.page:96
@@ -2302,23 +2440,25 @@ msgid ""
 "In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
 "the search location you want to enable or disable."
 msgstr ""
+"În lista de locații de căutare, clic pe comutatorul <gui>PORNIT/OPRIT</gui> "
+"din dreptul locației de căutare pe care doriți să o activați sau dezactivați."
 
 #. (itstool) path: info/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-windows-workspaces.page:15
 msgctxt "link:trail"
 msgid "Use windows and workspaces"
-msgstr ""
+msgstr "Utilizarea ferestrelor și a spațiilor de lucru"
 
 #. (itstool) path: info/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-windows-workspaces.page:17
 msgctxt "link:seealso"
 msgid "A tutorial on using windows and workspaces"
-msgstr ""
+msgstr "Un ghid pentru utilizarea ferestrelor și a spațiilor de lucru"
 
 #. (itstool) path: section/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-windows-workspaces.page:98
 msgid "Maximize and unmaximize windows"
-msgstr ""
+msgstr "Maximizarea și demaximizarea ferestrelor"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-windows-workspaces.page:102
@@ -2326,11 +2466,14 @@ msgid ""
 "To maximize a window so that it takes up all of the space on your desktop, "
 "grab the window’s titlebar and drag it to the top of the screen."
 msgstr ""
+"Pentru a maximiza o fereastră așa încât să ocupe tot spațiul de pe desktop, "
+"apucați bara de titlu a ferestrei și trageți-o în partea superioară a "
+"ecranului."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-windows-workspaces.page:105
 msgid "When the screen is highlighted, release the window to maximize it."
-msgstr ""
+msgstr "Când ecranul este evidențiat, eliberați fereastra pentru a o maximiaza."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-windows-workspaces.page:107
@@ -2338,11 +2481,13 @@ msgid ""
 "To restore a window to its unmaximized size, grab the window’s titlebar and "
 "drag it away from the edges of the screen."
 msgstr ""
+"Pentru a restaura fereastra la dimensiunea ei demaximizată, apucați bara de "
+"titlu a ferestrei și trageți-o departe de marginile ecranului."
 
 #. (itstool) path: section/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-windows-workspaces.page:131
 msgid "Maximize and unmaximize windows using the keyboard"
-msgstr ""
+msgstr "Maximizarea și demaximizarea ferestrelor utilizând tastatura"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-windows-workspaces.page:137
@@ -2350,16 +2495,19 @@ msgid ""
 "To unmaximize a window using the keyboard, hold down the <key href=\"help:"
 "gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</key>."
 msgstr ""
+"Pentru a demaximiza o fereastră utilizând tastatura, țineți apăsată tasta <"
+"key href=\"help:gnome-help/keyboard-key-super\">Super</key> și apoi apăsați "
+"<key>↓</key>."
 
 #. (itstool) path: section/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-windows-workspaces.page:145
 msgid "Tile windows using the keyboard"
-msgstr ""
+msgstr "Juxtapunerea ferestrelor utilizând tastatura"
 
 #. (itstool) path: section/title
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-windows-workspaces.page:159
 msgid "Switch workspaces using the keyboard"
-msgstr ""
+msgstr "Comutarea între spații de lucru folosind tastatura"
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-windows-workspaces.page:163
@@ -2368,6 +2516,9 @@ msgid ""
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
 "key><key>Page Down</key></keyseq>."
 msgstr ""
+"Pentru a vă muta la un spațiu de lucru care este sub spațiul de lucru "
+"curent, apăsați <keyseq><key href=\"help:gnome-help/keyboard-key-super\""
+">Super</key><key>Page Down</key></keyseq>."
 
 #. (itstool) path: item/p
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-use-windows-workspaces.page:166
@@ -2376,19 +2527,22 @@ msgid ""
 "<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
 "key><key>Page Up</key></keyseq>."
 msgstr ""
+"Pentru a vă muta la un spațiu de lucru care este deasupra spațiului de lucru "
+"curentă, apăsați <keyseq><key href=\"help:gnome-help/keyboard-key-super\""
+">Super</key><key>Page Up</key></keyseq>."
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-web-browser1-firefox-classic.svg:118
 #, no-wrap
 msgid "Applications"
-msgstr ""
+msgstr "Aplicații"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-web-browser2-firefox.svg:147
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-web-browser2.svg:153
 #, no-wrap
 msgid "gnome"
-msgstr ""
+msgstr "gnome"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-web-browser2-firefox.svg:151
@@ -2396,31 +2550,31 @@ msgstr ""
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-web-browser2.svg:247
 #, no-wrap
 msgid "Planet GNOME"
-msgstr ""
+msgstr "Planeta GNOME"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-web-browser2-firefox.svg:152
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-web-browser2.svg:158
 #, no-wrap
 msgid "GNOME 3"
-msgstr ""
+msgstr "GNOME 3"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-web-browser2-firefox.svg:153
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-web-browser2.svg:159
 #, no-wrap
 msgid "http://planet.gnome.org"
-msgstr ""
+msgstr "http://planet.gnome.org"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-web-browser2-firefox.svg:154
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-web-browser2.svg:160
 #, no-wrap
 msgid "http://gnome.org"
-msgstr ""
+msgstr "http://gnome.org"
 
 #. (itstool) path: text/tspan
 #: /var/www/gnomeweb/scratchdir/git/gnome-getting-started-docs/gnome-help/C/gs-web-browser2-firefox.svg:275
 #, no-wrap
 msgid "planet.gnome.org"
-msgstr ""
+msgstr "planet.gnome.org"
