@@ -1,22 +1,23 @@
 # Brazilian Portuguese translation for gnome-getting-started-docs.
-# Copyright (C) 2017 gnome-getting-started-docs's COPYRIGHT HOLDER
+# Copyright (C) 2019 gnome-getting-started-docs's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-getting-started-docs package.
 # Enrico Nicoletto <liverig@gmail.com>, 2013.
 # Felipe Braga <fbobraga@gmail.com>, 2015.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2013, 2016, 2017.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2013-2019.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2018-02-06 12:54+0000\n"
-"PO-Revision-Date: 2018-02-06 16:29-0300\n"
-"Last-Translator: Isaac Ferreira Filho <isaacmob@riseup.net>\n"
-"Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
+"POT-Creation-Date: 2019-03-06 19:10+0000\n"
+"PO-Revision-Date: 2019-03-17 21:45-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Portuguese - Brazil <gnome-pt_br-list@gnome.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 3.32.0\n"
 "X-Project-Style: gnome\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
@@ -25,7 +26,7 @@ msgid "translator-credits"
 msgstr ""
 "Enrico Nicoletto <liverig@gmail.com>, 2013\n"
 "Felipe Braga <fbobraga@gmail.com>, 2015\n"
-"Rafael Fontenelle <rafaelff@gnome.org>, 2013, 2016, 2017"
+"Rafael Fontenelle <rafaelff@gnome.org>, 2013-2019"
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:10
@@ -34,8 +35,10 @@ msgstr "Você é novo no GNOME? Aprenda como começar."
 
 #. (itstool) path: info/title
 #: C/getting-started.page:11
+#| msgctxt "link"
+#| msgid "Getting Started with GNOME"
 msgctxt "link"
-msgid "Getting Started with GNOME"
+msgid "Getting started with GNOME"
 msgstr "Primeiros passos com o GNOME"
 
 #. (itstool) path: info/title
@@ -393,7 +396,8 @@ msgstr "Feche a janela <gui>Plano de fundo</gui>."
 
 #. (itstool) path: links/title
 #: C/getting-started.page:328
-msgid "Common Tasks"
+#| msgid "Common Tasks"
+msgid "Common tasks"
 msgstr "Tarefas comuns"
 
 #. (itstool) path: titles/t
@@ -2150,9 +2154,9 @@ msgid ""
 "keyboard-key-super\">Super</key> key. Start typing to search."
 msgstr ""
 "Abra o <gui>Panorama de atividades</gui> pressionando <gui>Atividades</gui> "
-"no canto superior esquerdo da tela ou pressionando a tecla <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key> key. Comece a digitar "
-"para pesquisar."
+"no canto superior esquerdo da tela ou pressionando a tecla <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key. Comece a digitar para "
+"pesquisar."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:33
