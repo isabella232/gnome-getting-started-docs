@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2018-03-11 09:24+0000\n"
-"PO-Revision-Date: 2019-01-30 14:10+0100\n"
+"POT-Creation-Date: 2019-03-06 19:10+0000\n"
+"PO-Revision-Date: 2019-03-28 09:42+0100\n"
 "Last-Translator: Milo Casagrande <milo@milo.name>\n"
 "Language-Team: Italian <gnome-it-list@gnome.org>\n"
 "Language: it\n"
@@ -33,7 +33,7 @@ msgstr "Appena arrivati in GNOME? Imparate a muovere i primi passi."
 #. (itstool) path: info/title
 #: C/getting-started.page:11
 msgctxt "link"
-msgid "Getting Started with GNOME"
+msgid "Getting started with GNOME"
 msgstr "Primi passi con GNOME"
 
 #. (itstool) path: info/title
@@ -391,7 +391,7 @@ msgstr "Chiudere la finestra <gui>Sfondo</gui>."
 
 #. (itstool) path: links/title
 #: C/getting-started.page:328
-msgid "Common Tasks"
+msgid "Common tasks"
 msgstr "Attività comuni"
 
 #. (itstool) path: titles/t
@@ -848,7 +848,6 @@ msgstr "Cambiare lo sfondo"
 
 #. (itstool) path: item/p
 #: C/gs-change-wallpaper.page:61
-#| msgid "Close the <gui>Background</gui> window."
 msgid "Click the <gui>Background</gui> panel."
 msgstr "Fare clic sul riquadro <gui>Sfondo</gui>."
 
@@ -1398,7 +1397,6 @@ msgstr "Connetti"
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:312
 #, no-wrap
-#| msgid "Wireless"
 msgid "wireless"
 msgstr "wireless"
 
@@ -1654,9 +1652,6 @@ msgstr "Risposta ritardata a un messaggio con la tastiera"
 
 #. (itstool) path: item/p
 #: C/gs-respond-messages.page:109
-#| msgid ""
-#| "To show the message tray, press <keyseq> <key xref=\"keyboard-key-super"
-#| "\">Super</key><key>M</key></keyseq>"
 msgid ""
 "To get back to your unanswered chat messages, press <keyseq> <key href="
 "\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
@@ -2430,192 +2425,5 @@ msgstr "http://gnome.org"
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:275
 #, no-wrap
-#| msgid "http://planet.gnome.org"
 msgid "planet.gnome.org"
 msgstr "planet.gnome.org"
-
-#~ msgid "Switch Tasks"
-#~ msgstr "Cambiare attività"
-
-#~ msgid ""
-#~ "Move your mouse to the message tray at the bottom of the screen and click "
-#~ "the chat message."
-#~ msgstr ""
-#~ "Spostare il mouse sulla message tray nella parte inferiore dello schermo, "
-#~ "quindi fare clic sul messaggio di chat."
-
-#~ msgid "Start typing your reply and when finished, press <key>Enter </key>."
-#~ msgstr ""
-#~ "Iniziare a digitare la propria risposta e, una volta finito, premere "
-#~ "<key>Invio</key>."
-
-#~ msgid "Press <key>Esc</key> to close the chat message."
-#~ msgstr "Premere <key>Esc</key> per chiudere il messaggio di chat."
-
-#~ msgid "To dismiss the message tray, press <key>Esc</key>."
-#~ msgstr "Per dismettere la message tray, premere <key>Esc</key>."
-
-#~ msgid "Click the clock on the top bar."
-#~ msgstr "Fare clic sull'orologio nella barra superiore."
-
-#~ msgid "Click on your location on the map."
-#~ msgstr "Fare clic sulla mappa in corrispondenza della propria posizione."
-
-#~ msgid ""
-#~ "You can adjust the date and time by clicking on the arrows to choose the "
-#~ "hour, minute, and year."
-#~ msgstr ""
-#~ "È possibile regolare la data e l'orario facendo clic sulle frecce per "
-#~ "scegliere ora, minuto e anno."
-
-#~ msgid "Close the window."
-#~ msgstr "Chiudere la finestra."
-
-#~ msgid ""
-#~ "You may need to click the <gui>Unlock</gui> button and type the "
-#~ "administrator's password."
-#~ msgstr ""
-#~ "Potrebbe essere necessario fare clic sul pulsante <gui>Sblocca</gui> e "
-#~ "digitare la password di amministrazione."
-
-#~ msgid ""
-#~ "On the left-hand side of the window, you can adjust the date and time by "
-#~ "clicking on the arrows to choose the hour, minute, and year."
-#~ msgstr ""
-#~ "Sul lato sinistro della finestra è possibile regolare la data e l'orario "
-#~ "facendo clic sulle frecce per scegliere ora, minuto e anno."
-
-#~ msgid ""
-#~ "Close the window by clicking the cross at the top-right corner of the "
-#~ "window."
-#~ msgstr ""
-#~ "Chiudere la finestra facendo clic sulla croce nell'angolo superiore "
-#~ "destro della finestra."
-
-#~ msgid "Click your name on the top bar and select <gui>Settings</gui>."
-#~ msgstr ""
-#~ "Fare clic sul proprio nome sulla barra superiore e premere "
-#~ "<gui>Impostazioni</gui>."
-
-#~ msgid "Click the image of your current wallpaper."
-#~ msgstr "Fare clic sull'immagine dello sfondo attuale."
-
-#~ msgid "From the list of items, select <gui>Background</gui>."
-#~ msgstr "Dall'elenco di voci selezionare <gui>Sfondo</gui>."
-
-#~ msgid "Click your name on the top bar."
-#~ msgstr "Fare clic sul proprio nome nella barra superiore."
-
-#~ msgid "Select the <gui>Settings</gui> item."
-#~ msgstr "Selezionare la voce <gui>Impostazioni</gui>."
-
-#~ msgid "From the list of items, select <gui>Online Accounts</gui>."
-#~ msgstr "Dall'elenco delle voci, scegliere <gui>Account online</gui>."
-
-#~ msgid "Click on the <gui>Add an online account</gui> button."
-#~ msgstr "Fare clic sul pulsante <gui>Aggiungi un account online</gui>."
-
-#~ msgid ""
-#~ "Click the network connection icon to show more details about the status "
-#~ "of your network connection."
-#~ msgstr ""
-#~ "Fare clic sull'icona di connesione di rete per mostrare maggiori dettagli "
-#~ "sullo stato della propria connessione di rete."
-
-#~ msgid "Connect to other types of networks"
-#~ msgstr "Connettere ad altri tipi di rete"
-
-#~ msgid ""
-#~ "There are various types of network connections that you can use with your "
-#~ "computer, for example, mobile broadband, or wireless networks."
-#~ msgstr ""
-#~ "Ci sono diversi tipi di connessione di rete che è possibile usare con il "
-#~ "proprio computer, per esempio le reti wireless o quelle broadband mobile."
-
-#~ msgid ""
-#~ "Depending on your computer hardware and the networks availability, you "
-#~ "can choose other connection types by clicking the network connection icon "
-#~ "on the right-hand side of the top bar and selecting the network "
-#~ "connection you want to connect to."
-#~ msgstr ""
-#~ "A seconda dell'hardware del computer e della disponibilità di reti, è "
-#~ "possibile scegliere altri tipi di connessione facendo clic sull'icona di "
-#~ "connessione rete sul lato destro della barra superiore e selezionando la "
-#~ "connessione di rete che si vuole utilizzare."
-
-#~ msgid "SIGN UP"
-#~ msgstr "REGISTRATI"
-
-#~ msgid "Grant Access"
-#~ msgstr "Concedi accesso"
-
-#~ msgid "Deny Access"
-#~ msgstr "Nega accesso"
-
-#~ msgid "14:30"
-#~ msgstr "15.08"
-
-#~ msgid "Wired"
-#~ msgstr "Via cavo"
-
-#~ msgid "Cable unplugged"
-#~ msgstr "Cavo scollegato"
-
-#~ msgid "Weak"
-#~ msgstr "Debole"
-
-#~ msgid "Enabled"
-#~ msgstr "Abilitata"
-
-#~ msgid ""
-#~ "Start typing to search. Results matching what you have typed will appear "
-#~ "as you type."
-#~ msgstr ""
-#~ "Iniziare a digitare per cercare. I risultati che corrispondono a quanto "
-#~ "si è scritto appariranno mentre si digita."
-
-#~ msgid ""
-#~ "The first result is always highlighted and shown at the top. To switch to "
-#~ "the first highlighted result press <key>Enter</key>."
-#~ msgstr ""
-#~ "Il primo risultato è sempre evidenziato e mostrato in cima. Per passare "
-#~ "al primo risultato evidenziato premere <key>Invio</key>."
-
-#~ msgid "Types of results"
-#~ msgstr "Tipi di risultati"
-
-#~ msgid ""
-#~ "System search aggregates results from various applications. The first "
-#~ "group of results are application launchers. Activating a launcher will "
-#~ "start an application."
-#~ msgstr ""
-#~ "La ricerca di sistema aggrega risultati da diverse applicazioni. Il primo "
-#~ "gruppo di risultati sono i lanciatori delle applicazioni. Attivando un "
-#~ "lanciatore viene avviata un'applicazione."
-
-#~ msgid ""
-#~ "Other types of results might include <app>settings</app>, <app>contacts</"
-#~ "app> or <app>documents</app>. Each type of result is preceded with an "
-#~ "icon of the application that provided the result (apart from the "
-#~ "application launchers at the top). Only the best matches are presented in "
-#~ "the overview, so if you want more scope for your search, you can click or "
-#~ "use the arrow keys to navigate to the application icon on the left to "
-#~ "take you to the application itself. As soon as the associated application "
-#~ "starts, your performed query will be performed in the application."
-#~ msgstr ""
-#~ "Altri tipi di risultato possono includere <app>impostazioni</app>, "
-#~ "<app>contatti</app> o <app>documenti</app>. Ciascun tipo di risultato è "
-#~ "preceduto dall'icona dell'applicazione che ha fornito il risultato "
-#~ "(escusi i lanciatori di applicazione in alto). Nella panoramica sono "
-#~ "presentate solo le migliori corrispondenze, perciò, se si vogliono vedere "
-#~ "altri risultati della ricerca, è possibile fare clic o usare i tasti "
-#~ "freccia per spostarsi sull'icona dell'applicazione a sinistra per passare "
-#~ "direttamente a tale applicazione. Non appena l'applicazione associata "
-#~ "viene avviata, la ricerca fatta nella panoramica viene replicata "
-#~ "nell'applicazione."
-
-#~ msgid "From the list of items, select <gui>Search</gui>."
-#~ msgstr "Dall'elenco di voci selezionare <gui>Cerca</gui>."
-
-#~ msgid "Planet Gnome"
-#~ msgstr "Planet Gnome"
