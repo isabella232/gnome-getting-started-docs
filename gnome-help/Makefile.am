@@ -25,7 +25,6 @@ HELP_FILES = \
 	gs-get-online.page \
 	gs-goa1.svg \
 	gs-goa2.svg \
-	gs-goa3.svg \
 	gs-goa4.svg \
 	gs-goa5.svg \
 	gs-go-online1.svg \
