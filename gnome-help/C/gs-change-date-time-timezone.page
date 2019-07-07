@@ -27,9 +27,10 @@
     <item><p>Click the <gui xref="shell-introduction#yourname">system menu</gui>
     on the right side of the top bar.</p></item>
     <item><p>Click the settings button at the bottom left of the menu.</p></item>
-    <item><p>Select the <gui>Date &amp; Time</gui> panel.</p></item>
+    <item><p>Select <guiseq><gui>Details</gui><gui>Date &amp; Time</gui></guiseq>
+    from the sidebar.</p></item>
   </steps>
-  
+
   <media its:translate="no" type="image" mime="image/svg"
   src="gs-datetime.svg" width="100%" />
   
@@ -39,14 +40,14 @@
     <item><p>Click on your location on the world map. This selects your current
      city, which you can also search for in the search box above the map.</p></item>
     <item><p>Close the world map window to go back to the <gui>Date &amp;
-     Time</gui>.</p></item>
+     Time</gui> panel.</p></item>
     <item><p>Make sure that the <gui>Automatic Date &amp; Time</gui> item is
      switched off, and then click the <gui>Date &amp; Time</gui> item below to
      open the <gui>Date &amp; Time</gui> window. There you can adjust your date
      and time settings by clicking on the <gui>+</gui> or <gui>-</gui> buttons.</p>
      </item>
     <item><p>Close the window to go back to the <gui>Date &amp;
-     Time</gui>, and then close the panel.</p></item>
+     Time</gui> panel, and then close the panel.</p></item>
   </steps>
 
 </page>
