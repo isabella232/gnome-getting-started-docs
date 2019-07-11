@@ -23,22 +23,22 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2019-03-06 19:10+0000\n"
-"PO-Revision-Date: 2019-03-07 11:37+0100\n"
+"POT-Creation-Date: 2019-07-07 20:32+0000\n"
+"PO-Revision-Date: 2019-07-11 09:36+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
-"Language-Team: es <gnome-es-list@gnome.org>\n"
-"Language: es\n"
+"Language-Team: Spanish - Spain <gnome-es-list@gnome.org>\n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Gtranslator 3.31.90\n"
+"X-Generator: Gtranslator 3.32.1\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
 msgstr ""
-"Daniel Mustieles <daniel.mustieles@gmail.com>, 2013 - 2018\n"
+"Daniel Mustieles <daniel.mustieles@gmail.com>, 2013 - 2019\n"
 "Nicolás Satragno <nsatragno@gnome.org>, 2013\n"
 "Fabiola Tortul <fabiolatortul@hotmail.com>, 2013"
 
@@ -49,8 +49,6 @@ msgstr "¿Es nuevo en GNOME? Aprenda cómo desenvolverse."
 
 #. (itstool) path: info/title
 #: C/getting-started.page:11
-#| msgctxt "link"
-#| msgid "Getting Started with GNOME"
 msgctxt "link"
 msgid "Getting started with GNOME"
 msgstr "Primeros pasos con GNOME"
@@ -411,7 +409,6 @@ msgstr "Cierre la ventana <gui>Fondo</gui>."
 
 #. (itstool) path: links/title
 #: C/getting-started.page:328
-#| msgid "Common Tasks"
 msgid "Common tasks"
 msgstr "Tareas comunes"
 
@@ -469,8 +466,8 @@ msgstr "Mitad derecha de la pantalla"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:198
-#: C/gs-search2.svg:154 C/gs-thumb-changing-wallpaper.svg:54
+#: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:94
+#: C/gs-search2.svg:110 C/gs-thumb-changing-wallpaper.svg:54
 #: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-responding-to-messages.svg:51
 #: C/gs-thumb-task-switching.svg:167 C/gs-thumb-timezone.svg:56
 #: C/gs-thumb-windows-and-workspaces.svg:104 C/gs-web-browser1-firefox.svg:122
@@ -533,7 +530,9 @@ msgid "John Doe"
 msgstr "Juan Pérez"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:34
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:34 C/gs-goa2.svg:104 C/gs-search-settings.svg:76
+#, no-wrap
 msgid "Settings"
 msgstr "Configuración"
 
@@ -806,11 +805,18 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:30
-msgid "Select the <gui>Date &amp; Time</gui> panel."
-msgstr "Seleccione el panel de <gui>Fecha y hora</gui>."
+#| msgid ""
+#| "From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
+#| "guiseq>."
+msgid ""
+"Select <guiseq><gui>Details</gui><gui>Date &amp; Time</gui></guiseq> from "
+"the sidebar."
+msgstr ""
+"Seleccione <guiseq><gui>Detalles</gui><gui>Fecha y hora</gui></guiseq> en la "
+"barra lateral."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:37
+#: C/gs-change-date-time-timezone.page:38
 msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
 "then click the <gui>Time Zone</gui> item below."
@@ -819,7 +825,7 @@ msgstr ""
 "desactivado y pulse en <gui>Zona horaria</gui> más abajo."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:39
+#: C/gs-change-date-time-timezone.page:40
 msgid ""
 "Click on your location on the world map. This selects your current city, "
 "which you can also search for in the search box above the map."
@@ -828,14 +834,18 @@ msgstr ""
 "también puede buscar en la caja de búsqueda de encima del mapa."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:41
+#: C/gs-change-date-time-timezone.page:42
+#| msgid ""
+#| "Close the world map window to go back to the <gui>Date &amp; Time</gui>."
 msgid ""
-"Close the world map window to go back to the <gui>Date &amp; Time</gui>."
+"Close the world map window to go back to the <gui>Date &amp; Time</gui> "
+"panel."
 msgstr ""
-"Cierre la ventana del mapa mundial para volver a la <gui>Fecha y hora</gui>."
+"Cierre la ventana del mapa mundial para volver al panel de <gui>Fecha y "
+"hora</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:43
+#: C/gs-change-date-time-timezone.page:44
 msgid ""
 "Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
 "off, and then click the <gui>Date &amp; Time</gui> item below to open the "
@@ -848,12 +858,16 @@ msgstr ""
 "los botones <gui>+</gui> o <gui>-</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:48
+#: C/gs-change-date-time-timezone.page:49
+#| msgid ""
+#| "Close the window to go back to the <gui>Date &amp; Time</gui>, and then "
+#| "close the panel."
 msgid ""
-"Close the window to go back to the <gui>Date &amp; Time</gui>, and then "
-"close the panel."
+"Close the window to go back to the <gui>Date &amp; Time</gui> panel, and "
+"then close the panel."
 msgstr ""
-"Cierre la ventana para volver a la <gui>Fecha y hora</gui> y cierre el panel."
+"Cierre la ventana para volver al panel de <gui>Fecha y hora</gui> y cierre "
+"el panel."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:15
@@ -941,9 +955,12 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:49
+#| msgid ""
+#| "For example, if you are connecting to your Google account, you will have "
+#| "to click the <gui>Allow</gui> button."
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
-"click the <gui>Allow</gui> button."
+"click the <gui>Grant Access</gui> button."
 msgstr ""
 "Por ejemplo, si se conecta a su cuenta de Google, tendrá que pulsar el botón "
 "<gui>Conceder acceso</gui>."
@@ -961,13 +978,13 @@ msgstr ""
 "lado derecho de la ventana."
 
 #. (itstool) path: Work/format
-#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:178 C/gs-goa3.svg:48
-#: C/gs-goa4.svg:156 C/gs-goa5.svg:147 C/gs-go-online1.svg:230
-#: C/gs-go-online2.svg:265 C/gs-go-online3.svg:290 C/gs-search1.svg:97
-#: C/gs-search2.svg:133 C/gs-search-settings.svg:98
-#: C/gs-thumb-changing-wallpaper.svg:39 C/gs-thumb-launching-apps.svg:189
-#: C/gs-thumb-responding-to-messages.svg:36 C/gs-thumb-task-switching.svg:89
-#: C/gs-thumb-timezone.svg:41 C/gs-thumb-windows-and-workspaces.svg:89
+#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:40 C/gs-goa4.svg:36
+#: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
+#: C/gs-go-online3.svg:290 C/gs-search1.svg:61 C/gs-search2.svg:91
+#: C/gs-search-settings.svg:58 C/gs-thumb-changing-wallpaper.svg:39
+#: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36
+#: C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
+#: C/gs-thumb-windows-and-workspaces.svg:89
 #: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
 #: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
 #: C/gs-web-browser2.svg:102
@@ -975,7 +992,7 @@ msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:60 C/gs-goa3.svg:60 C/gs-go-online3.svg:303
+#: C/gs-datetime.svg:60 C/gs-goa4.svg:48 C/gs-go-online3.svg:303
 #: C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
 #: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
 #, no-wrap
@@ -983,67 +1000,65 @@ msgid "4"
 msgstr "4"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:78 C/gs-datetime.svg:112
+#: C/gs-datetime.svg:66 C/gs-datetime.svg:86 C/gs-datetime.svg:109
 #, no-wrap
 msgid "Date &amp; Time"
 msgstr "Fecha y hora"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:80
+#: C/gs-datetime.svg:68
 #, no-wrap
 msgid "Automatic Date &amp; Time"
 msgstr "Fecha y hora automáticas"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:81 C/gs-datetime.svg:96
+#: C/gs-datetime.svg:69 C/gs-datetime.svg:78
 #, no-wrap
 msgid "Requires internet access"
 msgstr "Requiere acceso a Internet"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:87 C/gs-datetime.svg:102 C/gs-goa5.svg:510
-#: C/gs-goa5.svg:521 C/gs-goa5.svg:532 C/gs-goa5.svg:543 C/gs-goa5.svg:554
-#: C/gs-search-settings.svg:133 C/gs-search-settings.svg:250
-#: C/gs-search-settings.svg:257 C/gs-search-settings.svg:264
-#, no-wrap
-msgid "ON"
-msgstr "I"
-
-#. (itstool) path: text/tspan
-#: C/gs-datetime.svg:95
+#: C/gs-datetime.svg:77
 #, no-wrap
 msgid "Automatic Time Zone"
 msgstr "Zona horaria automática"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:113
+#: C/gs-datetime.svg:87
 #, no-wrap
-msgid "September 1st 2015, 9∶51 AM"
+#| msgid "September 1st 2015, 9∶51 AM"
+msgid "September 1st 2015, 9:51 AM"
 msgstr "1 de septiembre de 2015, 9:51 AM"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:114
+#: C/gs-datetime.svg:88
 #, no-wrap
 msgid "Time Zone"
 msgstr "Zona horaria"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:115
+#: C/gs-datetime.svg:89
 #, no-wrap
 msgid "EDT (New York, United States)"
 msgstr "EDT (Nueva York, Estados Unidos)"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:119
+#: C/gs-datetime.svg:91
 #, no-wrap
 msgid "Time Format"
 msgstr "Formato de hora"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:121
+#: C/gs-datetime.svg:93
 #, no-wrap
 msgid "24-hour"
 msgstr "24 horas"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:95
+#, no-wrap
+msgid "Details"
+msgstr "Detalles"
 
 #. (itstool) path: info/title
 #: C/gs-get-online.page:14
@@ -1179,7 +1194,7 @@ msgstr ""
 
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
-#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101 C/gs-thumb-timezone.svg:135
+#: C/gs-search1.svg:73 C/gs-thumb-timezone.svg:101 C/gs-thumb-timezone.svg:135
 #: C/gs-web-browser1-firefox-classic.svg:115 C/gs-web-browser1-firefox.svg:120
 #: C/gs-web-browser1.svg:120
 #, no-wrap
@@ -1187,7 +1202,7 @@ msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-search2.svg:145
+#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-search2.svg:103
 #: C/gs-thumb-timezone.svg:102 C/gs-thumb-timezone.svg:136
 #: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
 #: C/gs-web-browser1.svg:153
@@ -1195,190 +1210,198 @@ msgstr "1"
 msgid "2"
 msgstr "2"
 
+#. (itstool) path: g/title
+#: C/gs-goa1.svg:93
+#| msgid "Settings"
+msgid "settings"
+msgstr "configuración"
+
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:228 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
+#: C/gs-goa2.svg:52 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
 #: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
 #, no-wrap
 msgid "3"
 msgstr "3"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:299 C/gs-goa3.svg:106
+#: C/gs-goa2.svg:69 C/gs-goa2.svg:97 C/gs-goa2.svg:114
 #, no-wrap
 msgid "Online Accounts"
 msgstr "Cuentas en línea"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:431
+#: C/gs-goa2.svg:88 C/gs-goa2.svg:136
 #, no-wrap
 msgid "Add an account"
 msgstr "Añadir una cuenta"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:469
+#: C/gs-goa2.svg:123 C/gs-goa2.svg:137
 #, no-wrap
 msgid "Connect to your data in the cloud"
 msgstr "Conectarse a datos en la nube"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:63
-#, no-wrap
-msgid "Add Account"
-msgstr "Agregar una cuenta"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:65 C/gs-goa4.svg:592 C/gs-goa5.svg:317
-#, no-wrap
-msgid "Google"
-msgstr "Google"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:66 C/gs-goa4.svg:603
-#, no-wrap
-msgid "Facebook"
-msgstr "Facebook"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:67 C/gs-goa4.svg:614
-#, no-wrap
-msgid "Windows Live"
-msgstr "Windows Live"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:68 C/gs-goa4.svg:625
-#, no-wrap
-msgid "Microsoft Exchange"
-msgstr "Microsoft Exchange"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:69 C/gs-goa4.svg:636
-#, no-wrap
-msgid "Enterprise Login (Kerberos)"
-msgstr "Inicio de sesión corporativo (Kerberos)"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:108
-#, no-wrap
-msgid "Add an online account"
-msgstr "Agregar una cuenta en línea"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:193 C/gs-goa4.svg:407
+#: C/gs-goa4.svg:52 C/gs-goa4.svg:86
 #, no-wrap
 msgid "Google account"
 msgstr "Cuenta de Google"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:267 C/gs-thumb-timezone.svg:105
+#: C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:338
+#, no-wrap
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:69
+#, no-wrap
+msgid "SIGN UP"
+msgstr "CREAR CUENTA"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:70
+#, no-wrap
+msgid "Sign in"
+msgstr "Iniciar sesión"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:71
+#, no-wrap
+msgid "Email"
+msgstr "Correo-e"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:73
+#, no-wrap
+msgid "Password"
+msgstr "Contraseña"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:76
+#, no-wrap
+msgid "Sign In"
+msgstr "Registrarse"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:77 C/gs-goa5.svg:70
+#, no-wrap
+msgid "john.doe@gmail.com"
+msgstr "juan.perez@gmail.com"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:103
+#, no-wrap
+msgid "Grant Access"
+msgstr "Conceder acceso"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:108
+#, no-wrap
+msgid "Deny Access"
+msgstr "Denegar acceso"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:105
 #: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
 #, no-wrap
 msgid "5"
 msgstr "5"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:288
+#: C/gs-goa4.svg:123 C/gs-goa5.svg:69
 #, no-wrap
-msgid "Sign in"
-msgstr "Iniciar sesión"
+msgid "Google"
+msgstr "Google"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:299
+#: C/gs-goa4.svg:124
 #, no-wrap
-msgid "Email"
-msgstr "Correo-e"
+msgid "Facebook"
+msgstr "Facebook"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:319
+#: C/gs-goa4.svg:125
 #, no-wrap
-msgid "Password"
-msgstr "Contraseña"
+msgid "Windows Live"
+msgstr "Windows Live"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:346
+#: C/gs-goa4.svg:126
 #, no-wrap
-msgid "Sign In"
-msgstr "Registrarse"
+msgid "Microsoft Exchange"
+msgstr "Microsoft Exchange"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:357 C/gs-goa5.svg:328
+#: C/gs-goa4.svg:127
 #, no-wrap
-msgid "john.doe@gmail.com"
-msgstr "juan.perez@gmail.com"
+msgid "Enterprise Login (Kerberos)"
+msgstr "Inicio de sesión corporativo (Kerberos)"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:543 C/gs-thumb-timezone.svg:106
+#: C/gs-goa5.svg:60 C/gs-thumb-timezone.svg:106
 #, no-wrap
 msgid "6"
 msgstr "6"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:564
-#, no-wrap
-msgid "ALLOW"
-msgstr "Conceder acceso"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:575
-#, no-wrap
-msgid "CANCEL"
-msgstr "Cancelar"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:197 C/gs-thumb-timezone.svg:107
-#, no-wrap
-msgid "7"
-msgstr "7"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:269
-#, no-wrap
-msgid "Google Account"
-msgstr "Cuenta de Google"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:339
+#: C/gs-goa5.svg:71
 #, no-wrap
 msgid "Use for"
 msgstr "Usar para"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:350
+#: C/gs-goa5.svg:72
 #, no-wrap
 msgid "Mail"
 msgstr "Correo"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:382
+#: C/gs-goa5.svg:73
 #, no-wrap
 msgid "Calendar"
 msgstr "Calendario"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:414 C/gs-search2.svg:293
+#: C/gs-goa5.svg:74 C/gs-search2.svg:214
 #, no-wrap
 msgid "Contacts"
 msgstr "Contactos"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:446
+#: C/gs-goa5.svg:75
 #, no-wrap
-msgid "Chat"
-msgstr "Chat"
+msgid "Photos"
+msgstr "Fotografías"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:478
+#: C/gs-goa5.svg:76
 #, no-wrap
-msgid "Documents"
-msgstr "Documentos"
+msgid "Files"
+msgstr "Archivos"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
+#: C/gs-goa5.svg:91
+#, no-wrap
+#| msgid "Enter"
+msgid "Printers"
+msgstr "Impresoras"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:93
+#, no-wrap
+#| msgid "Google Account"
+msgid "Remove Account"
+msgstr "Quitar cuenta"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:250 C/gs-search1.svg:92 C/gs-search2.svg:108
 #: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
 #: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
 #: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
-msgid "14∶30"
-msgstr "14∶30"
+msgid "14:30"
+msgstr "14:30"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:328
@@ -1407,8 +1430,9 @@ msgstr "Apagar"
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:340
 #, no-wrap
-msgid "Network Settings"
-msgstr "Configuración de red"
+#| msgid "Settings"
+msgid "Wi-Fi Settings"
+msgstr "Configuración inalámbrica"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:306
@@ -1451,12 +1475,6 @@ msgstr "privada"
 #, no-wrap
 msgid "Select a network"
 msgstr "Seleccionar una red"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:338
-#, no-wrap
-msgid "Cancel"
-msgstr "Cancelar"
 
 #. (itstool) path: info/title
 #: C/gs-launch-applications.page:16
@@ -1697,106 +1715,77 @@ msgstr ""
 "quiere responder, y pulse <key>Intro</key>."
 
 #. (itstool) path: text/tspan
-#: C/gs-search1.svg:229
+#: C/gs-search1.svg:158
 #, no-wrap
 msgid "just type"
 msgstr "simplemente escriba"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:182
+#: C/gs-search2.svg:170
 #, no-wrap
 msgid "con"
 msgstr "con"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:246
+#: C/gs-search2.svg:171
 #, no-wrap
 msgid "Accounts"
 msgstr "Cuentas"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:247
+#: C/gs-search2.svg:172
 #, no-wrap
-msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
-msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
+#| msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
+msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:248
+#: C/gs-search2.svg:173
 #, no-wrap
 msgid "config"
 msgstr "configuración"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:249 C/gs-search2.svg:252
+#: C/gs-search2.svg:174 C/gs-search2.svg:177
 #, no-wrap
 msgid "fontconfig"
 msgstr "fontconfig"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:250
+#: C/gs-search2.svg:175
 #, no-wrap
 msgid "system-config-http.zip"
 msgstr "system-config-http.zip"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:251
+#: C/gs-search2.svg:176
 #, no-wrap
 msgid "Icon guidelines"
 msgstr "Guías de iconos"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:269
+#: C/gs-search2.svg:194
 #, no-wrap
 msgid "Secure Linux Containers"
 msgstr "Contenedores Linux seguros"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:270
+#: C/gs-search2.svg:195
 #, no-wrap
 msgid "Developer Conference 2012"
 msgstr "Conferencia de desarrolladores 2012"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:294 C/gs-web-browser2-firefox.svg:218
-#, no-wrap
-msgid "Firefox"
-msgstr "Firefox"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:125
-#, no-wrap
-msgid "Search"
-msgstr "Búsqueda"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:127
-#, no-wrap
-msgid "Files"
-msgstr "Archivos"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:242
+#: C/gs-search2.svg:215
 #, no-wrap
 msgid "Web"
 msgstr "Web"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:243
+#: C/gs-search-settings.svg:72 C/gs-search-settings.svg:86
 #, no-wrap
-msgid "Photos"
-msgstr "Fotografías"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:244
-#, no-wrap
-msgid "Music"
-msgstr "Música"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:271
-#, no-wrap
-msgid "OFF"
-msgstr "O"
+msgid "Search"
+msgstr "Búsqueda"
 
 #. (itstool) path: info/title
 #: C/gs-switch-tasks.page:16
@@ -1998,6 +1987,12 @@ msgstr "F"
 msgctxt "Saturday"
 msgid "S"
 msgstr "S"
+
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:107
+#, no-wrap
+msgid "7"
+msgstr "7"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:108
@@ -2450,10 +2445,52 @@ msgid "http://gnome.org"
 msgstr "http://gnome.org"
 
 #. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:218
+#, no-wrap
+msgid "Firefox"
+msgstr "Firefox"
+
+#. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:275
 #, no-wrap
 msgid "planet.gnome.org"
 msgstr "planet.gnome.org"
+
+#~ msgid "Select the <gui>Date &amp; Time</gui> panel."
+#~ msgstr "Seleccione el panel de <gui>Fecha y hora</gui>."
+
+#~ msgid "ON"
+#~ msgstr "I"
+
+#~ msgid "Add Account"
+#~ msgstr "Agregar una cuenta"
+
+#~ msgid "Add an online account"
+#~ msgstr "Agregar una cuenta en línea"
+
+#~ msgid "ALLOW"
+#~ msgstr "Conceder acceso"
+
+#~ msgid "CANCEL"
+#~ msgstr "Cancelar"
+
+#~ msgid "Chat"
+#~ msgstr "Chat"
+
+#~ msgid "Documents"
+#~ msgstr "Documentos"
+
+#~ msgid "14∶30"
+#~ msgstr "14∶30"
+
+#~ msgid "Network Settings"
+#~ msgstr "Configuración de red"
+
+#~ msgid "Music"
+#~ msgstr "Música"
+
+#~ msgid "OFF"
+#~ msgstr "O"
 
 #~ msgid ""
 #~ "If you have set up an online account before, you can add another online "
@@ -2464,20 +2501,8 @@ msgstr "planet.gnome.org"
 #~ "pulsando el botón <gui>+</gui> en la esquina izquierda inferior de la "
 #~ "ventana."
 
-#~ msgid "SIGN UP"
-#~ msgstr "CREAR CUENTA"
-
-#~ msgid "Grant Access"
-#~ msgstr "Conceder acceso"
-
-#~ msgid "Deny Access"
-#~ msgstr "Denegar acceso"
-
 #~ msgid "Planet Gnome"
 #~ msgstr "Planeta GNOME"
-
-#~ msgid "14:30"
-#~ msgstr "14:30"
 
 #~ msgid "Enabled"
 #~ msgstr "Activado"
