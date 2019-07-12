@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2019-05-16 08:17+0000\n"
-"PO-Revision-Date: 2019-05-17 22:14+0200\n"
+"POT-Creation-Date: 2019-07-07 20:32+0000\n"
+"PO-Revision-Date: 2019-07-12 19:28+0200\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <community-poland@mozilla.org>\n"
 "Language: pl\n"
@@ -771,11 +771,15 @@ msgstr "Kliknij przycisk ustawień w lewym dolnym rogu menu."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:30
-msgid "Select the <gui>Date &amp; Time</gui> panel."
-msgstr "Wybierz panel <gui>Data i czas</gui>."
+msgid ""
+"Select <guiseq><gui>Details</gui><gui>Date &amp; Time</gui></guiseq> from "
+"the sidebar."
+msgstr ""
+"Wybierz <guiseq><gui>Informacje</gui><gui>Data i czas</gui></guiseq> "
+"z panelu bocznego."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:37
+#: C/gs-change-date-time-timezone.page:38
 msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
 "then click the <gui>Time Zone</gui> item below."
@@ -784,7 +788,7 @@ msgstr ""
 "wyłączony, a następnie kliknąć element <gui>Strefa czasowa</gui> poniżej."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:39
+#: C/gs-change-date-time-timezone.page:40
 msgid ""
 "Click on your location on the world map. This selects your current city, "
 "which you can also search for in the search box above the map."
@@ -793,13 +797,14 @@ msgstr ""
 "miasta, które można też wyszukać na pasku wyszukiwania nad mapą."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:41
+#: C/gs-change-date-time-timezone.page:42
 msgid ""
-"Close the world map window to go back to the <gui>Date &amp; Time</gui>."
-msgstr "Zamknij okno mapy świata, aby wrócić do <gui>Daty i czasu</gui>."
+"Close the world map window to go back to the <gui>Date &amp; Time</gui> "
+"panel."
+msgstr "Zamknij okno mapy świata, aby wrócić do panelu <gui>Data i czas</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:43
+#: C/gs-change-date-time-timezone.page:44
 msgid ""
 "Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
 "off, and then click the <gui>Date &amp; Time</gui> item below to open the "
@@ -812,13 +817,13 @@ msgstr ""
 "daty i czasu klikając przyciski <gui>+</gui> lub <gui>-</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:48
+#: C/gs-change-date-time-timezone.page:49
 msgid ""
-"Close the window to go back to the <gui>Date &amp; Time</gui>, and then "
-"close the panel."
+"Close the window to go back to the <gui>Date &amp; Time</gui> panel, and "
+"then close the panel."
 msgstr ""
-"Zamknij okno, aby wrócić do <gui>Daty i czasu</gui>, a następnie zamknij "
-"panel."
+"Zamknij okno, aby wrócić do panelu <gui>Data i czas</gui>, a następnie go "
+"zamknij."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:15
@@ -903,10 +908,10 @@ msgstr ""
 #: C/gs-connect-online-accounts.page:49
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
-"click the <gui>Allow</gui> button."
+"click the <gui>Grant Access</gui> button."
 msgstr ""
 "Na przykład po połączeniu z kontem Google należy kliknąć przycisk "
-"<gui>Zezwól</gui>."
+"<gui>Udziel dostępu</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:57
@@ -934,9 +939,9 @@ msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:60 C/gs-go-online3.svg:303 C/gs-thumb-timezone.svg:104
-#: C/gs-thumb-timezone.svg:138 C/gs-web-browser2-firefox.svg:113
-#: C/gs-web-browser2.svg:115
+#: C/gs-datetime.svg:60 C/gs-goa4.svg:48 C/gs-go-online3.svg:303
+#: C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
+#: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
 #, no-wrap
 msgid "4"
 msgstr "4"
@@ -1180,13 +1185,6 @@ msgid "Connect to your data in the cloud"
 msgstr "Łączenie z danymi w chmurze"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:48 C/gs-thumb-timezone.svg:105
-#: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
-#, no-wrap
-msgid "5"
-msgstr "5"
-
-#. (itstool) path: text/tspan
 #: C/gs-goa4.svg:52 C/gs-goa4.svg:86
 #, no-wrap
 msgid "Google account"
@@ -1247,10 +1245,11 @@ msgid "Deny Access"
 msgstr "Odmów dostępu"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:119 C/gs-goa5.svg:60 C/gs-thumb-timezone.svg:106
+#: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:105
+#: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
 #, no-wrap
-msgid "6"
-msgstr "6"
+msgid "5"
+msgstr "5"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:123 C/gs-goa5.svg:69
@@ -1281,6 +1280,12 @@ msgstr "Microsoft Exchange"
 #, no-wrap
 msgid "Enterprise Login (Kerberos)"
 msgstr "Logowanie firmowe (Kerberos)"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:60 C/gs-thumb-timezone.svg:106
+#, no-wrap
+msgid "6"
+msgstr "6"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:71
@@ -1366,8 +1371,8 @@ msgstr "Wyłącz"
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:340
 #, no-wrap
-msgid "Network Settings"
-msgstr "Ustawienia sieci"
+msgid "Wi-Fi Settings"
+msgstr "Ustawienia sieci Wi-Fi"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:306
