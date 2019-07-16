@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2018-03-04 14:02+0000\n"
-"PO-Revision-Date: 2018-03-09 10:48+0200\n"
+"POT-Creation-Date: 2019-07-07 20:32+0000\n"
+"PO-Revision-Date: 2019-07-16 20:26+0300\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos+l10n@iki.fi>\n"
 "Language-Team: suomi <gnome-fi-laatu@lists.sourceforge.net>\n"
 "Language: fi\n"
@@ -30,8 +30,10 @@ msgstr "Käytätkö Gnomea ensimmäistä kertaa? Opettele perusasiat."
 
 #. (itstool) path: info/title
 #: C/getting-started.page:11
+#| msgctxt "link"
+#| msgid "Getting Started with GNOME"
 msgctxt "link"
-msgid "Getting Started with GNOME"
+msgid "Getting started with GNOME"
 msgstr "Gnomen käytön aloittaminen"
 
 #. (itstool) path: info/title
@@ -388,7 +390,7 @@ msgstr "Sulje <gui>Taustakuva</gui>-ikkuna."
 
 #. (itstool) path: links/title
 #: C/getting-started.page:328
-msgid "Common Tasks"
+msgid "Common tasks"
 msgstr "Yleiset toimenpiteet"
 
 #. (itstool) path: titles/t
@@ -445,8 +447,8 @@ msgstr "Näytön oikea laita"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:198
-#: C/gs-search2.svg:154 C/gs-thumb-changing-wallpaper.svg:54
+#: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:94
+#: C/gs-search2.svg:110 C/gs-thumb-changing-wallpaper.svg:54
 #: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-responding-to-messages.svg:51
 #: C/gs-thumb-task-switching.svg:167 C/gs-thumb-timezone.svg:56
 #: C/gs-thumb-windows-and-workspaces.svg:104 C/gs-web-browser1-firefox.svg:122
@@ -509,7 +511,9 @@ msgid "John Doe"
 msgstr "John Doe"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:34
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:34 C/gs-goa2.svg:104 C/gs-search-settings.svg:76
+#, no-wrap
 msgid "Settings"
 msgstr "Asetukset"
 
@@ -774,11 +778,15 @@ msgstr "Napsauta Asetukset-painiketta valikon vasemmanpuoleisesta alaosasta."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:30
-msgid "Select the <gui>Date &amp; Time</gui> panel."
-msgstr "Valitse <gui>Päivä ja aika</gui>."
+msgid ""
+"Select <guiseq><gui>Details</gui><gui>Date &amp; Time</gui></guiseq> from "
+"the sidebar."
+msgstr ""
+"Valitse valikosta <guiseq><gui>Tiedot</gui> ja sivupalkista<gui>Päivä ja "
+"aika</gui> </guiseq>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:37
+#: C/gs-change-date-time-timezone.page:38
 msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
 "then click the <gui>Time Zone</gui> item below."
@@ -787,7 +795,7 @@ msgstr ""
 "napsauta sitten <gui>Aikavyöhyke</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:39
+#: C/gs-change-date-time-timezone.page:40
 msgid ""
 "Click on your location on the world map. This selects your current city, "
 "which you can also search for in the search box above the map."
@@ -797,15 +805,16 @@ msgstr ""
 "hakukenttään."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:41
+#: C/gs-change-date-time-timezone.page:42
 msgid ""
-"Close the world map window to go back to the <gui>Date &amp; Time</gui>."
+"Close the world map window to go back to the <gui>Date &amp; Time</gui> "
+"panel."
 msgstr ""
-"Sulje maailmankartan esittävä ikkuna ja palaa <gui>Päivä ja aika</gui> -"
+"Sulje maailmankarttaa esittävä ikkuna ja palaa <gui>Päivä ja aika</gui> -"
 "ikkunaan."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:43
+#: C/gs-change-date-time-timezone.page:44
 msgid ""
 "Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
 "off, and then click the <gui>Date &amp; Time</gui> item below to open the "
@@ -818,10 +827,10 @@ msgstr ""
 "painikkeita <gui>+</gui> ja <gui>-</gui> käyttäen."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:48
+#: C/gs-change-date-time-timezone.page:49
 msgid ""
-"Close the window to go back to the <gui>Date &amp; Time</gui>, and then "
-"close the panel."
+"Close the window to go back to the <gui>Date &amp; Time</gui> panel, and "
+"then close the panel."
 msgstr ""
 "Sulje ikkuna palataksesi <gui>Päivä ja aika</gui> -paneeliin, ja sulje "
 "sitten paneeli."
@@ -912,7 +921,7 @@ msgstr ""
 #: C/gs-connect-online-accounts.page:49
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
-"click the <gui>Allow</gui> button."
+"click the <gui>Grant Access</gui> button."
 msgstr ""
 "Jos esimerkiksi yhdistät Google-tiliisi, napsauta <gui>Salli</gui>-"
 "painiketta."
@@ -929,13 +938,13 @@ msgstr ""
 "laidassa olevaa <gui>Päällä/Pois</gui>-painiketta käyttäen."
 
 #. (itstool) path: Work/format
-#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:178 C/gs-goa3.svg:48
-#: C/gs-goa4.svg:156 C/gs-goa5.svg:147 C/gs-go-online1.svg:230
-#: C/gs-go-online2.svg:265 C/gs-go-online3.svg:290 C/gs-search1.svg:97
-#: C/gs-search2.svg:133 C/gs-search-settings.svg:98
-#: C/gs-thumb-changing-wallpaper.svg:39 C/gs-thumb-launching-apps.svg:189
-#: C/gs-thumb-responding-to-messages.svg:36 C/gs-thumb-task-switching.svg:89
-#: C/gs-thumb-timezone.svg:41 C/gs-thumb-windows-and-workspaces.svg:89
+#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:40 C/gs-goa4.svg:36
+#: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
+#: C/gs-go-online3.svg:290 C/gs-search1.svg:61 C/gs-search2.svg:91
+#: C/gs-search-settings.svg:58 C/gs-thumb-changing-wallpaper.svg:39
+#: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36
+#: C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
+#: C/gs-thumb-windows-and-workspaces.svg:89
 #: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
 #: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
 #: C/gs-web-browser2.svg:102
@@ -943,7 +952,7 @@ msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:60 C/gs-goa3.svg:60 C/gs-go-online3.svg:303
+#: C/gs-datetime.svg:60 C/gs-goa4.svg:48 C/gs-go-online3.svg:303
 #: C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
 #: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
 #, no-wrap
@@ -951,67 +960,64 @@ msgid "4"
 msgstr "4"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:78 C/gs-datetime.svg:112
+#: C/gs-datetime.svg:66 C/gs-datetime.svg:86 C/gs-datetime.svg:109
 #, no-wrap
 msgid "Date &amp; Time"
 msgstr "Päivä ja aika"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:80
+#: C/gs-datetime.svg:68
 #, no-wrap
 msgid "Automatic Date &amp; Time"
 msgstr "Automaattinen päivä ja aika"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:81 C/gs-datetime.svg:96
+#: C/gs-datetime.svg:69 C/gs-datetime.svg:78
 #, no-wrap
 msgid "Requires internet access"
 msgstr "Vaatii internetyhteyden"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:87 C/gs-datetime.svg:102 C/gs-goa5.svg:510
-#: C/gs-goa5.svg:521 C/gs-goa5.svg:532 C/gs-goa5.svg:543 C/gs-goa5.svg:554
-#: C/gs-search-settings.svg:133 C/gs-search-settings.svg:250
-#: C/gs-search-settings.svg:257 C/gs-search-settings.svg:264
-#, no-wrap
-msgid "ON"
-msgstr "Päällä"
-
-#. (itstool) path: text/tspan
-#: C/gs-datetime.svg:95
+#: C/gs-datetime.svg:77
 #, no-wrap
 msgid "Automatic Time Zone"
 msgstr "Automaattinen aikavyöhyke"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:113
+#: C/gs-datetime.svg:87
 #, no-wrap
-msgid "September 1st 2015, 9∶51 AM"
+msgid "September 1st 2015, 9:51 AM"
 msgstr "14. maaliskuuta 2018, 10:00"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:114
+#: C/gs-datetime.svg:88
 #, no-wrap
 msgid "Time Zone"
 msgstr "Aikavyöhyke"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:115
+#: C/gs-datetime.svg:89
 #, no-wrap
 msgid "EDT (New York, United States)"
 msgstr "EET (Helsinki, Suomi)"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:119
+#: C/gs-datetime.svg:91
 #, no-wrap
 msgid "Time Format"
 msgstr "Aikamuoto"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:121
+#: C/gs-datetime.svg:93
 #, no-wrap
 msgid "24-hour"
 msgstr "24 tuntia"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:95
+#, no-wrap
+msgid "Details"
+msgstr "Tiedot"
 
 #. (itstool) path: info/title
 #: C/gs-get-online.page:14
@@ -1142,7 +1148,7 @@ msgstr ""
 
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
-#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101 C/gs-thumb-timezone.svg:135
+#: C/gs-search1.svg:73 C/gs-thumb-timezone.svg:101 C/gs-thumb-timezone.svg:135
 #: C/gs-web-browser1-firefox-classic.svg:115 C/gs-web-browser1-firefox.svg:120
 #: C/gs-web-browser1.svg:120
 #, no-wrap
@@ -1150,7 +1156,7 @@ msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-search2.svg:145
+#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-search2.svg:103
 #: C/gs-thumb-timezone.svg:102 C/gs-thumb-timezone.svg:136
 #: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
 #: C/gs-web-browser1.svg:153
@@ -1158,190 +1164,195 @@ msgstr "1"
 msgid "2"
 msgstr "2"
 
+#. (itstool) path: g/title
+#: C/gs-goa1.svg:93
+msgid "settings"
+msgstr "asetukset"
+
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:228 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
+#: C/gs-goa2.svg:52 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
 #: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
 #, no-wrap
 msgid "3"
 msgstr "3"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:299 C/gs-goa3.svg:106
+#: C/gs-goa2.svg:69 C/gs-goa2.svg:97 C/gs-goa2.svg:114
 #, no-wrap
 msgid "Online Accounts"
 msgstr "Verkkotilit"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:431
+#: C/gs-goa2.svg:88 C/gs-goa2.svg:136
 #, no-wrap
 msgid "Add an account"
 msgstr "Lisää tili"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:469
+#: C/gs-goa2.svg:123 C/gs-goa2.svg:137
 #, no-wrap
 msgid "Connect to your data in the cloud"
 msgstr "Yhdistä pilvessä oleviin tietoihisi"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:63
-#, no-wrap
-msgid "Add Account"
-msgstr "Lisää tili"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:65 C/gs-goa4.svg:592 C/gs-goa5.svg:317
-#, no-wrap
-msgid "Google"
-msgstr "Google"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:66 C/gs-goa4.svg:603
-#, no-wrap
-msgid "Facebook"
-msgstr "Facebook"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:67 C/gs-goa4.svg:614
-#, no-wrap
-msgid "Windows Live"
-msgstr "Windows Live"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:68 C/gs-goa4.svg:625
-#, no-wrap
-msgid "Microsoft Exchange"
-msgstr "Microsoft Exchange"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:69 C/gs-goa4.svg:636
-#, no-wrap
-msgid "Enterprise Login (Kerberos)"
-msgstr "Yrityskirjautuminen (Kerberos)"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:108
-#, no-wrap
-msgid "Add an online account"
-msgstr "Lisää verkkotili"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:193 C/gs-goa4.svg:407
+#: C/gs-goa4.svg:52 C/gs-goa4.svg:86
 #, no-wrap
 msgid "Google account"
 msgstr "Google-tili"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:267 C/gs-thumb-timezone.svg:105
+#: C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:338
+#, no-wrap
+msgid "Cancel"
+msgstr "Peru"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:69
+#, no-wrap
+msgid "SIGN UP"
+msgstr "Rekisteröidy"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:70
+#, no-wrap
+msgid "Sign in"
+msgstr "Kirjaudu sisään"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:71
+#, no-wrap
+msgid "Email"
+msgstr "Sähköpostiosoite"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:73
+#, no-wrap
+msgid "Password"
+msgstr "Salasana"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:76
+#, no-wrap
+msgid "Sign In"
+msgstr "Kirjaudu sisään"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:77 C/gs-goa5.svg:70
+#, no-wrap
+msgid "john.doe@gmail.com"
+msgstr "john.doe@gmail.com"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:103
+#, no-wrap
+msgid "Grant Access"
+msgstr "Myönnä käyttöoikeus"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:108
+#, no-wrap
+msgid "Deny Access"
+msgstr "Estä käyttöoikeus"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:105
 #: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
 #, no-wrap
 msgid "5"
 msgstr "5"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:288
+#: C/gs-goa4.svg:123 C/gs-goa5.svg:69
 #, no-wrap
-msgid "Sign in"
-msgstr "Kirjaudu sisään"
+msgid "Google"
+msgstr "Google"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:299
+#: C/gs-goa4.svg:124
 #, no-wrap
-msgid "Email"
-msgstr "Sähköpostiosoite"
+msgid "Facebook"
+msgstr "Facebook"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:319
+#: C/gs-goa4.svg:125
 #, no-wrap
-msgid "Password"
-msgstr "Salasana"
+msgid "Windows Live"
+msgstr "Windows Live"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:346
+#: C/gs-goa4.svg:126
 #, no-wrap
-msgid "Sign In"
-msgstr "Kirjaudu sisään"
+msgid "Microsoft Exchange"
+msgstr "Microsoft Exchange"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:357 C/gs-goa5.svg:328
+#: C/gs-goa4.svg:127
 #, no-wrap
-msgid "john.doe@gmail.com"
-msgstr "john.doe@gmail.com"
+msgid "Enterprise Login (Kerberos)"
+msgstr "Yrityskirjautuminen (Kerberos)"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:543 C/gs-thumb-timezone.svg:106
+#: C/gs-goa5.svg:60 C/gs-thumb-timezone.svg:106
 #, no-wrap
 msgid "6"
 msgstr "6"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:564
-#, no-wrap
-msgid "ALLOW"
-msgstr "SALLI"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:575
-#, no-wrap
-msgid "CANCEL"
-msgstr "PERU"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:197 C/gs-thumb-timezone.svg:107
-#, no-wrap
-msgid "7"
-msgstr "7"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:269
-#, no-wrap
-msgid "Google Account"
-msgstr "Google-tili"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:339
+#: C/gs-goa5.svg:71
 #, no-wrap
 msgid "Use for"
 msgstr "Käyttökohteet"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:350
+#: C/gs-goa5.svg:72
 #, no-wrap
 msgid "Mail"
 msgstr "Sähköposti"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:382
+#: C/gs-goa5.svg:73
 #, no-wrap
 msgid "Calendar"
 msgstr "Kalenteri"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:414 C/gs-search2.svg:293
+#: C/gs-goa5.svg:74 C/gs-search2.svg:214
 #, no-wrap
 msgid "Contacts"
 msgstr "Yhteystiedot"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:446
+#: C/gs-goa5.svg:75
 #, no-wrap
-msgid "Chat"
-msgstr "Keskustelu"
+msgid "Photos"
+msgstr "Kuvat"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:478
+#: C/gs-goa5.svg:76
 #, no-wrap
-msgid "Documents"
-msgstr "Asiakirjat"
+msgid "Files"
+msgstr "Tiedostot"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
+#: C/gs-goa5.svg:91
+#, no-wrap
+msgid "Printers"
+msgstr "Tulostimet"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:93
+#, no-wrap
+msgid "Remove Account"
+msgstr "Poista tili"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:250 C/gs-search1.svg:92 C/gs-search2.svg:108
 #: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
 #: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
 #: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
-msgid "14∶30"
-msgstr "14∶30"
+msgid "14:30"
+msgstr "14:30"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:328
@@ -1370,8 +1381,8 @@ msgstr "Sammuta"
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:340
 #, no-wrap
-msgid "Network Settings"
-msgstr "Verkon asetukset"
+msgid "Wi-Fi Settings"
+msgstr "Wifi-asetukset"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:306
@@ -1414,12 +1425,6 @@ msgstr "yksityinen"
 #, no-wrap
 msgid "Select a network"
 msgstr "Valitse verkko"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:338
-#, no-wrap
-msgid "Cancel"
-msgstr "Peru"
 
 #. (itstool) path: info/title
 #: C/gs-launch-applications.page:16
@@ -1658,106 +1663,77 @@ msgstr ""
 "<key>Enter</key>."
 
 #. (itstool) path: text/tspan
-#: C/gs-search1.svg:229
+#: C/gs-search1.svg:158
 #, no-wrap
 msgid "just type"
 msgstr "kirjoita"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:182
+#: C/gs-search2.svg:170
 #, no-wrap
 msgid "con"
 msgstr "con"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:246
+#: C/gs-search2.svg:171
 #, no-wrap
 msgid "Accounts"
 msgstr "Tilit"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:247
+#: C/gs-search2.svg:172
 #, no-wrap
-msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
-msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
+#| msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
+msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:248
+#: C/gs-search2.svg:173
 #, no-wrap
 msgid "config"
 msgstr "config"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:249 C/gs-search2.svg:252
+#: C/gs-search2.svg:174 C/gs-search2.svg:177
 #, no-wrap
 msgid "fontconfig"
 msgstr "fontconfig"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:250
+#: C/gs-search2.svg:175
 #, no-wrap
 msgid "system-config-http.zip"
 msgstr "system-config-http.zip"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:251
+#: C/gs-search2.svg:176
 #, no-wrap
 msgid "Icon guidelines"
 msgstr "Icon guidelines"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:269
+#: C/gs-search2.svg:194
 #, no-wrap
 msgid "Secure Linux Containers"
 msgstr "Secure Linux Containers"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:270
+#: C/gs-search2.svg:195
 #, no-wrap
 msgid "Developer Conference 2012"
 msgstr "Developer Conference 2012"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:294 C/gs-web-browser2-firefox.svg:218
-#, no-wrap
-msgid "Firefox"
-msgstr "Firefox"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:125
-#, no-wrap
-msgid "Search"
-msgstr "Haku"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:127
-#, no-wrap
-msgid "Files"
-msgstr "Tiedostot"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:242
+#: C/gs-search2.svg:215
 #, no-wrap
 msgid "Web"
 msgstr "Verkko"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:243
+#: C/gs-search-settings.svg:72 C/gs-search-settings.svg:86
 #, no-wrap
-msgid "Photos"
-msgstr "Kuvat"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:244
-#, no-wrap
-msgid "Music"
-msgstr "Musiikki"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:271
-#, no-wrap
-msgid "OFF"
-msgstr "Pois"
+msgid "Search"
+msgstr "Haku"
 
 #. (itstool) path: info/title
 #: C/gs-switch-tasks.page:16
@@ -1958,6 +1934,12 @@ msgid "S"
 msgstr "La"
 
 #. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:107
+#, no-wrap
+msgid "7"
+msgstr "7"
+
+#. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:108
 #, no-wrap
 msgid "8"
@@ -2125,10 +2107,6 @@ msgstr "Käytä hakua"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:29
-#| msgid ""
-#| "Alternatively, use the keyboard to open the <gui>Activities Overview</"
-#| "gui> by pressing the <key href=\"help:gnome-help/keyboard-key-super"
-#| "\">Super</key> key."
 msgid ""
 "Open the <gui>Activities</gui> overview by clicking <gui>Activities</gui> at "
 "the top left of the screen, or by pressing the <key href=\"help:gnome-help/"
@@ -2405,19 +2383,52 @@ msgid "http://gnome.org"
 msgstr "http://gnome.org"
 
 #. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:218
+#, no-wrap
+msgid "Firefox"
+msgstr "Firefox"
+
+#. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:275
 #, no-wrap
 msgid "planet.gnome.org"
 msgstr "planet.gnome.org"
 
-#~ msgid "SIGN UP"
-#~ msgstr "Rekisteröidy"
+#~ msgid "Select the <gui>Date &amp; Time</gui> panel."
+#~ msgstr "Valitse <gui>Päivä ja aika</gui>."
 
-#~ msgid "Grant Access"
-#~ msgstr "Myönnä käyttöoikeus"
+#~ msgid "ON"
+#~ msgstr "Päällä"
 
-#~ msgid "Deny Access"
-#~ msgstr "Estä käyttöoikeus"
+#~ msgid "Add Account"
+#~ msgstr "Lisää tili"
+
+#~ msgid "Add an online account"
+#~ msgstr "Lisää verkkotili"
+
+#~ msgid "ALLOW"
+#~ msgstr "SALLI"
+
+#~ msgid "CANCEL"
+#~ msgstr "PERU"
+
+#~ msgid "Chat"
+#~ msgstr "Keskustelu"
+
+#~ msgid "Documents"
+#~ msgstr "Asiakirjat"
+
+#~ msgid "14∶30"
+#~ msgstr "14∶30"
+
+#~ msgid "Network Settings"
+#~ msgstr "Verkon asetukset"
+
+#~ msgid "Music"
+#~ msgstr "Musiikki"
+
+#~ msgid "OFF"
+#~ msgstr "Pois"
 
 #~ msgid "Planet Gnome"
 #~ msgstr "Planet Gnome"
@@ -2427,9 +2438,6 @@ msgstr "planet.gnome.org"
 #~ "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
 #~ msgstr ""
 #~ "external ref='gs-datetime.svg' md5='34cb3ca8dde13eac3e8085c4dcdbb5ff'"
-
-#~ msgid "14:30"
-#~ msgstr "14:30"
 
 #~ msgid "From the list of items, select <gui>Search</gui>."
 #~ msgstr "Valitse <gui>Haku</gui>."
