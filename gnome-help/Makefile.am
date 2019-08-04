@@ -7,7 +7,6 @@ HELP_LINGUAS = as ca cs da de el eo es fi fr gl gu he hi hr hu id it ja kn ko lt
 HELP_MEDIA = \
 	figures/gnome-change-wallpaper.webm \
 	figures/gnome-launching-applications.webm \
-	figures/gnome-responding-to-messages.webm \
 	figures/gnome-task-switching.webm \
 	figures/gnome-windows-and-workspaces.webm
 
@@ -32,16 +31,13 @@ HELP_FILES = \
 	gs-go-online3.svg \
 	gs-launch-applications.page \
 	gs-legal.xml \
-	gs-respond-messages.page \
 	gs-search1.svg \
 	gs-search2.svg \
 	gs-search-settings.svg \
 	gs-switch-tasks.page \
 	gs-thumb-changing-wallpaper.svg \
 	gs-thumb-launching-apps.svg \
-	gs-thumb-responding-to-messages.svg \
 	gs-thumb-task-switching.svg \
-	gs-thumb-timezone.svg \
 	gs-thumb-windows-and-workspaces.svg \
 	gs-use-system-search.page \
 	gs-use-windows-workspaces.page \
