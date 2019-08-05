@@ -1,4 +1,4 @@
-AC_INIT([gnome-getting-started-docs], [3.32.2],
+AC_INIT([gnome-getting-started-docs], [3.33.90],
         [https://gitlab.gnome.org/GNOME/gnome-getting-started-docs/issues])
 AM_INIT_AUTOMAKE([1.11 check-news tar-ustar dist-xz no-dist-gzip foreign])
 AM_SILENT_RULES([yes])
