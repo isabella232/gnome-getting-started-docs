@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2019-07-07 20:32+0000\n"
-"PO-Revision-Date: 2019-07-24 14:24+0200\n"
+"POT-Creation-Date: 2019-08-15 12:04+0000\n"
+"PO-Revision-Date: 2019-08-24 06:16+0200\n"
 "Last-Translator: Francesc Famadas <kiski97@gmail.com>\n"
 "Language-Team: Catalan <tradgnome@softcatala.org>\n"
 "Language: ca\n"
@@ -398,14 +398,12 @@ msgid "Welcome"
 msgstr "Us donem la benvinguda"
 
 #. (itstool) path: titles/t
-#. (itstool) path: div/p
-#: C/gs-animation.xml:7 C/gs-respond-messages.page:30
+#: C/gs-animation.xml:7
 msgid "Responding to Messages"
 msgstr "Responeu als missatges"
 
 #. (itstool) path: titles/t
-#. (itstool) path: div/p
-#: C/gs-animation.xml:9 C/gs-respond-messages.page:44
+#: C/gs-animation.xml:9
 msgid "Delayed Response"
 msgstr "Responeu més tard"
 
@@ -448,8 +446,7 @@ msgstr "Meitat dreta de la pantalla"
 #. (itstool) path: text/tspan
 #: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:94
 #: C/gs-search2.svg:110 C/gs-thumb-changing-wallpaper.svg:54
-#: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-responding-to-messages.svg:51
-#: C/gs-thumb-task-switching.svg:167 C/gs-thumb-timezone.svg:56
+#: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-task-switching.svg:167
 #: C/gs-thumb-windows-and-workspaces.svg:104 C/gs-web-browser1-firefox.svg:122
 #: C/gs-web-browser1.svg:122
 #, no-wrap
@@ -504,7 +501,6 @@ msgstr "Només comenceu a escriure…"
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
 #: C/gs-animation.xml:33 C/gs-go-online1.svg:249
-#: C/gs-thumb-responding-to-messages.svg:89
 #, no-wrap
 msgid "John Doe"
 msgstr "John Doe"
@@ -542,9 +538,7 @@ msgid "I’ll be there in a sec…"
 msgstr "Arribaré allà de seguida..."
 
 #. (itstool) path: titles/t
-#. (itstool) path: text/tspan
-#: C/gs-animation.xml:40 C/gs-thumb-responding-to-messages.svg:88
-#, no-wrap
+#: C/gs-animation.xml:40
 msgid "Good stuff, thanks again"
 msgstr "Excel·lent! Gràcies un altre cop"
 
@@ -606,8 +600,8 @@ msgstr "14 d'octubre de 2013, 14:00"
 #: C/gs-browse-web.page:9 C/gs-change-date-time-timezone.page:8
 #: C/gs-change-wallpaper.page:9 C/gs-connect-online-accounts.page:8
 #: C/gs-get-online.page:8 C/gs-launch-applications.page:9
-#: C/gs-respond-messages.page:9 C/gs-switch-tasks.page:10
-#: C/gs-use-system-search.page:8 C/gs-use-windows-workspaces.page:9
+#: C/gs-switch-tasks.page:10 C/gs-use-system-search.page:8
+#: C/gs-use-windows-workspaces.page:9
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
@@ -615,8 +609,8 @@ msgstr "Jakub Steiner"
 #: C/gs-browse-web.page:12 C/gs-change-date-time-timezone.page:11
 #: C/gs-change-wallpaper.page:12 C/gs-connect-online-accounts.page:11
 #: C/gs-get-online.page:11 C/gs-launch-applications.page:12
-#: C/gs-respond-messages.page:12 C/gs-switch-tasks.page:13
-#: C/gs-use-system-search.page:11 C/gs-use-windows-workspaces.page:12
+#: C/gs-switch-tasks.page:13 C/gs-use-system-search.page:11
+#: C/gs-use-windows-workspaces.page:12
 msgid "Petr Kovar"
 msgstr "Petr Kovar"
 
@@ -660,9 +654,9 @@ msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
 "of the screen to show the <gui>Activities Overview</gui>."
 msgstr ""
-"Moveu el ratolí fins a la cantonada d'<gui>Activitats</gui> situada a la part "
-"superior esquerra de la pantalla per visualitzar la <gui>Vista general de "
-"les activitats</gui>."
+"Moveu el ratolí fins a la cantonada d'<gui>Activitats</gui> situada a la "
+"part superior esquerra de la pantalla per visualitzar la <gui>Vista general "
+"de les activitats</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:49
@@ -774,7 +768,8 @@ msgid ""
 "Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
 "right side of the top bar."
 msgstr ""
-"Feu clic al <gui xref=\"shell-introduction#yourname\">menú del sistema</gui> situat a la part dreta de la barra superior."
+"Feu clic al <gui xref=\"shell-introduction#yourname\">menú del sistema</gui> "
+"situat a la part dreta de la barra superior."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:29 C/gs-change-wallpaper.page:60
@@ -783,7 +778,7 @@ msgid "Click the settings button at the bottom left of the menu."
 msgstr "Feu clic al botó de paràmetres situat al final esquerre del menú."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:30
+#: C/gs-change-date-time-timezone.page:36
 msgid ""
 "Select <guiseq><gui>Details</gui><gui>Date &amp; Time</gui></guiseq> from "
 "the sidebar."
@@ -816,8 +811,8 @@ msgid ""
 "Close the world map window to go back to the <gui>Date &amp; Time</gui> "
 "panel."
 msgstr ""
-"Tanqueu la finestra del mapa del món per tornar al quadre "
-"<gui>Data i l'hora</gui>."
+"Tanqueu la finestra del mapa del món per tornar al quadre <gui>Data i "
+"l'hora</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:44
@@ -838,7 +833,8 @@ msgid ""
 "Close the window to go back to the <gui>Date &amp; Time</gui> panel, and "
 "then close the panel."
 msgstr ""
-"Tanqueu la finestra per tornar al quadre <gui>Data i hora</gui> i tancar el quadre."
+"Tanqueu la finestra per tornar al quadre <gui>Data i hora</gui> i tancar el "
+"quadre."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:15
@@ -904,15 +900,16 @@ msgid ""
 "Click the <gui>Online Accounts</gui> panel, then click the online account "
 "service you want to use."
 msgstr ""
-"Feu clic al quadre <gui>Comptes en línia</gui>, llavors "
-"feu clic al servei del compte en línia que voleu usar."
+"Feu clic al quadre <gui>Comptes en línia</gui>, llavors feu clic al servei "
+"del compte en línia que voleu usar."
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:39
 msgid ""
 "This will open a new window where you can sign in to your online account."
 msgstr ""
-"Això obrirà una finestra nova des de la qual podeu iniciar la sessió del compte."
+"Això obrirà una finestra nova des de la qual podeu iniciar la sessió del "
+"compte."
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:47
@@ -949,8 +946,7 @@ msgstr ""
 #: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
 #: C/gs-go-online3.svg:290 C/gs-search1.svg:61 C/gs-search2.svg:91
 #: C/gs-search-settings.svg:58 C/gs-thumb-changing-wallpaper.svg:39
-#: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36
-#: C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
+#: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-task-switching.svg:89
 #: C/gs-thumb-windows-and-workspaces.svg:89
 #: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
 #: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
@@ -959,12 +955,11 @@ msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:60 C/gs-goa4.svg:48 C/gs-go-online3.svg:303
-#: C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
-#: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
+#: C/gs-datetime.svg:60 C/gs-goa2.svg:52 C/gs-web-browser2-firefox.svg:164
+#: C/gs-web-browser2.svg:165
 #, no-wrap
-msgid "4"
-msgstr "4"
+msgid "3"
+msgstr "3"
 
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:66 C/gs-datetime.svg:86 C/gs-datetime.svg:109
@@ -1024,7 +1019,7 @@ msgstr "24 hores"
 #: C/gs-datetime.svg:95
 #, no-wrap
 msgid "Details"
-msgstr ""
+msgstr "Detalls"
 
 #. (itstool) path: info/title
 #: C/gs-get-online.page:14
@@ -1124,8 +1119,8 @@ msgid ""
 "Select <gui>Wi-Fi Not Connected</gui>. The Wi-Fi section of the menu will "
 "expand."
 msgstr ""
-"Seleccioneu <gui>Wi-Fi apagat</gui>. La secció de connexió Wi-Fi del "
-"menú s'expandirà."
+"Seleccioneu <gui>Wi-Fi apagat</gui>. La secció de connexió Wi-Fi del menú "
+"s'expandirà."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:70
@@ -1161,16 +1156,14 @@ msgstr ""
 
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
-#: C/gs-search1.svg:73 C/gs-thumb-timezone.svg:101 C/gs-thumb-timezone.svg:135
-#: C/gs-web-browser1-firefox-classic.svg:115 C/gs-web-browser1-firefox.svg:120
-#: C/gs-web-browser1.svg:120
+#: C/gs-search1.svg:73 C/gs-web-browser1-firefox-classic.svg:115
+#: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
 #, no-wrap
 msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-search2.svg:103
-#: C/gs-thumb-timezone.svg:102 C/gs-thumb-timezone.svg:136
 #: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
 #: C/gs-web-browser1.svg:153
 #, no-wrap
@@ -1183,13 +1176,6 @@ msgid "settings"
 msgstr "paràmetres"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:52 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
-#: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
-#, no-wrap
-msgid "3"
-msgstr "3"
-
-#. (itstool) path: text/tspan
 #: C/gs-goa2.svg:69 C/gs-goa2.svg:97 C/gs-goa2.svg:114
 #, no-wrap
 msgid "Online Accounts"
@@ -1198,16 +1184,21 @@ msgstr "Comptes en línia"
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:88 C/gs-goa2.svg:136
 #, no-wrap
-#| msgid "Add an online account"
 msgid "Add an account"
 msgstr "Afegeix un compte"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:123 C/gs-goa2.svg:137
 #, no-wrap
-#| msgid "Connect to online accounts"
 msgid "Connect to your data in the cloud"
 msgstr "Connecteu-vos a les vostres dades al núvol"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:48 C/gs-go-online3.svg:303 C/gs-web-browser2-firefox.svg:113
+#: C/gs-web-browser2.svg:115
+#, no-wrap
+msgid "4"
+msgstr "4"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:52 C/gs-goa4.svg:86
@@ -1270,8 +1261,8 @@ msgid "Deny Access"
 msgstr "Denegueu l'accés"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:105
-#: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
+#: C/gs-goa4.svg:119 C/gs-web-browser2-firefox.svg:259
+#: C/gs-web-browser2.svg:255
 #, no-wrap
 msgid "5"
 msgstr "5"
@@ -1307,7 +1298,7 @@ msgid "Enterprise Login (Kerberos)"
 msgstr "Inici de sessió corporativa (Kerberos)"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:60 C/gs-thumb-timezone.svg:106
+#: C/gs-goa5.svg:60
 #, no-wrap
 msgid "6"
 msgstr "6"
@@ -1363,8 +1354,7 @@ msgstr "Suprimeix el compte"
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:250 C/gs-search1.svg:92 C/gs-search2.svg:108
 #: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
-#: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
-#: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
+#: C/gs-thumb-task-switching.svg:168 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
 msgid "14:30"
 msgstr "14:30"
@@ -1522,185 +1512,6 @@ msgstr "Creative Commons Reconeixement-CompartirIgual 3.0 No adaptada"
 #: C/gs-legal.xml:3
 msgid "This work is licensed under a <_:link-1/>."
 msgstr "Aquesta obra està subjecta a la llicència <_:link-1/>."
-
-#. (itstool) path: info/title
-#: C/gs-respond-messages.page:18
-msgctxt "link:trail"
-msgid "Respond to messages"
-msgstr "Responeu als missatges"
-
-#. (itstool) path: info/title
-#: C/gs-respond-messages.page:19
-msgctxt "link:seealso"
-msgid "A tutorial on responding to messages"
-msgstr "Un programa d'aprenentatge per respondre als missatges"
-
-#. (itstool) path: page/title
-#: C/gs-respond-messages.page:22
-msgid "Respond to messages"
-msgstr "Respondre als missatges"
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:33 C/gs-respond-messages.page:81
-#, fuzzy
-#| msgid ""
-#| "Move your mouse pointer to the <gui>Activities</gui> corner at the top "
-#| "left of the screen."
-msgid ""
-"Move your mouse over the chat message that appears near the top of the "
-"screen."
-msgstr ""
-"Moveu el ratolí fins a la cantonada d'<gui>Activitats</gui> situat a la part "
-"superior esquerra de la pantalla."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:37
-msgid ""
-"Start typing your reply and when finished, press <key>Enter </key> to send "
-"the reply."
-msgstr ""
-"Escriviu la resposta i un cop hàgeu acabat premeu la tecla de <key>Retorn</"
-"key> per enviar-la."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:41
-msgid "Close the chat message."
-msgstr "Tanqueu el missatge de xat."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:47
-msgid ""
-"A chat message near the top of the screen disappears after a while if you do "
-"not move your mouse over the message."
-msgstr ""
-"Si no moveu el ratolí el missatge de xat de la part superior desapareixerà al cap d'una estona."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:51 C/gs-respond-messages.page:97
-#, fuzzy
-#| msgid ""
-#| "To get back to your unanswered message, move your mouse to the message "
-#| "tray."
-msgid "To get back to your unanswered message, click the clock on the top bar."
-msgstr ""
-"Per tornar a un missatge que no s'ha contestat, moveu el ratolí fins a la "
-"safata de missatges."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:55
-msgid "From the notification list, choose your message."
-msgstr "Tria el teu missatge de la llista de notificacions."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:58 C/gs-respond-messages.page:70
-msgid "Start typing your reply."
-msgstr "Comenceu a escriure la vostra resposta."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:61
-msgid ""
-"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
-msgstr ""
-"Per visualitzar la llista de notificacions premeu <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Súper</key> <key>V</key></keyseq>"
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:66
-msgid ""
-"Use the arrow keys to select the message you want to reply to, and press "
-"<key>Enter</key>."
-msgstr ""
-"Utilitzeu les tecles de desplaçament per seleccionar el missatge que voleu contestar, "
-"i premeu la tecla de <key>Retorn</key>."
-
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:78
-msgid "Respond to a chat message with the mouse"
-msgstr "Responeu un missatge de xat amb el ratolí"
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:83
-msgid ""
-"Start typing your reply and when finished, press <key>Enter</key> to send "
-"the reply."
-msgstr ""
-"Comenceu a escriure la resposta i un cop hàgeu acabat, premeu <key>Retorn</"
-"key> per enviar-la."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:85
-msgid ""
-"To close the chat message, click the close button at the top right corner of "
-"the chat message."
-msgstr ""
-"Per tancar el missatge de xat, feu clic al botó situat a la cantonada "
-"superior dreta del missatge de xat."
-
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:92
-msgid "Delayed response to a chat message using the mouse"
-msgstr "Responeu més tard a un missatge de xat amb el ratolí"
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:95
-#, fuzzy
-#| msgid ""
-#| "When a chat message appears in the message tray and you do not move your "
-#| "mouse to the message tray, the message disappears after a while."
-msgid ""
-"When a chat message appears near the top of the screen and you do not move "
-"your mouse over the message, it disappears after a while."
-msgstr ""
-"Si no moveu el ratolí fins a la safata de missatges quan apareix un missatge "
-"de xat, aquest desapareixerà al cap d'una estona."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:99
-msgid ""
-"From the notification list, choose the message you want to reply to, and "
-"click it."
-msgstr ""
-"Tria el missatge de la llista de notificacions que voleu respondre i cliqueu "
-"en ell."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:101 C/gs-respond-messages.page:115
-msgid "When the chat message is shown, start typing your reply."
-msgstr ""
-"Un cop visualitzeu el missatge de xat, podeu començar a escriure la resposta."
-
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:107
-msgid "Delayed response to a chat message using the keyboard"
-msgstr "Responeu més tard a un missatge de xat amb el teclat"
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:109
-#, fuzzy
-#| msgid ""
-#| "To get back to your unanswered chat messages, press <keyseq> <key href="
-#| "\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq> "
-#| "to display the message tray that contains the messages."
-msgid ""
-"To get back to your unanswered chat messages, press <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
-"display the list of unanswered notifications."
-msgstr ""
-"Si voleu tornar a veure el missatge sense contestar, premeu <keyseq> <key "
-"href=\"help:gnome-help/keyboard-key-super\">Súper</key><key>M</key> </"
-"keyseq> per visualitzar la safata de missatges."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:113
-msgid ""
-"Use the arrow keys to select the notification you want to reply to, and "
-"press <key>Enter</key>."
-msgstr ""
-"Utilitzeu les tecles de desplaçament per seleccionar la notificació a la qual "
-"voleu contestar i premeu la tecla de <key>Retorn</key>."
 
 #. (itstool) path: text/tspan
 #: C/gs-search1.svg:158
@@ -1917,219 +1728,10 @@ msgstr ""
 "Quan l'aplicació a la qual voleu canviar aparegui com a primer resultat, "
 "premeu la tecla de <key>Retorn</key> per canviar a ella."
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-responding-to-messages.svg:87
-#, no-wrap
-msgid "Thanks f"
-msgstr "Gràcies f"
-
-#. (itstool) path: text/tspan
-#. Translators: S stands for Sunday here
-#: C/gs-thumb-timezone.svg:93
-#, no-wrap
-msgctxt "Sunday"
-msgid "S"
-msgstr "Dg"
-
-#. (itstool) path: text/tspan
-#. Translators: M stands for Monday here
-#: C/gs-thumb-timezone.svg:94
-#, no-wrap
-msgid "M"
-msgstr "Dl"
-
-#. (itstool) path: text/tspan
-#. Translators: T stands for Tuesday here
-#: C/gs-thumb-timezone.svg:95
-#, no-wrap
-msgctxt "Tuesday"
-msgid "T"
-msgstr "Dt"
-
-#. (itstool) path: text/tspan
-#. Translators: W stands for Wednesday here
-#: C/gs-thumb-timezone.svg:96
-#, no-wrap
-msgid "W"
-msgstr "Dc"
-
-#. (itstool) path: text/tspan
-#. Translators: T stands for Thursday here
-#: C/gs-thumb-timezone.svg:97
-#, no-wrap
-msgctxt "Thursday"
-msgid "T"
-msgstr "Dj"
-
-#. (itstool) path: text/tspan
-#. Translators: F stands for Friday here
-#: C/gs-thumb-timezone.svg:98
-#, no-wrap
-msgid "F"
-msgstr "Dv"
-
-#. (itstool) path: text/tspan
-#. Translators: S stands for Saturday here
-#: C/gs-thumb-timezone.svg:99
-#, no-wrap
-msgctxt "Saturday"
-msgid "S"
-msgstr "Ds"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:107
-#, no-wrap
-msgid "7"
-msgstr "7"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:108
-#, no-wrap
-msgid "8"
-msgstr "8"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:109
-#, no-wrap
-msgid "9"
-msgstr "9"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:110
-#, no-wrap
-msgid "10"
-msgstr "10"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:111
-#, no-wrap
-msgid "11"
-msgstr "11"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:112
-#, no-wrap
-msgid "12"
-msgstr "12"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:113
-#, no-wrap
-msgid "13"
-msgstr "13"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:114
-#, no-wrap
-msgid "14"
-msgstr "14"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:116
-#, no-wrap
-msgid "15"
-msgstr "15"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:117
-#, no-wrap
-msgid "16"
-msgstr "16"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:118
-#, no-wrap
-msgid "17"
-msgstr "17"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:119
-#, no-wrap
-msgid "18"
-msgstr "18"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:120
-#, no-wrap
-msgid "19"
-msgstr "19"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:121
-#, no-wrap
-msgid "20"
-msgstr "20"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:122
-#, no-wrap
-msgid "21"
-msgstr "21"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:124
-#, no-wrap
-msgid "22"
-msgstr "22"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:125
-#, no-wrap
-msgid "23"
-msgstr "23"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:126
-#, no-wrap
-msgid "24"
-msgstr "24"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:127
-#, no-wrap
-msgid "25"
-msgstr "25"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:128
-#, no-wrap
-msgid "26"
-msgstr "26"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:129
-#, no-wrap
-msgid "27"
-msgstr "27"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:130
-#, no-wrap
-msgid "28"
-msgstr "28"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:132
-#, no-wrap
-msgid "29"
-msgstr "29"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:133
-#, no-wrap
-msgid "30"
-msgstr "30"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:134
-#, no-wrap
-msgid "31"
-msgstr "31"
-
 #. (itstool) path: credit/name
 #: C/gs-use-system-search.page:14
 msgid "Hannie Dumoleyn"
-msgstr ""
+msgstr "Hannie Dumoleyn"
 
 #. (itstool) path: info/title
 #: C/gs-use-system-search.page:17
@@ -2150,18 +1752,14 @@ msgstr "Utilitzeu el cercador del sistema"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:29
-#, fuzzy
-#| msgid ""
-#| "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
-#| "gnome-help/keyboard-key-super\">Super</key> key. Start typing to search."
 msgid ""
 "Open the <gui>Activities</gui> overview by clicking <gui>Activities</gui> at "
 "the top left of the screen, or by pressing the <key href=\"help:gnome-help/"
 "keyboard-key-super\">Super</key> key. Start typing to search."
 msgstr ""
-"Premeu la tecla <key href=\"help:gnome-help/keyboard-key-super\">Súper</key> "
-"per obrir la <gui>Vista general de les activitats</gui>. Per cercar comenceu "
-"a escriure."
+"Obriu la vista general d'<gui>Activitats</gui> fent clic a <gui>Activitats</gui> en "
+"la part superior esquerra de pantalla, o prement la tecla <key href=\"help:gnome-help/"
+"keyboard-key-super\">Súper</key>. Per cercar comenceu a escriure."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:33
@@ -2170,8 +1768,8 @@ msgid ""
 "result is always highlighted and shown at the top."
 msgstr ""
 "Els resultats que coincideixin amb el que heu escrit aniran apareixent a "
-"mesura que escriviu. La primera coincidència estarà sempre realçada i situada "
-"a la part superior."
+"mesura que escriviu. La primera coincidència estarà sempre realçada i "
+"situada a la part superior."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:35
@@ -2281,11 +1879,11 @@ msgstr "Personalitzeu els resultats de la cerca"
 #. (itstool) path: note/p
 #: C/gs-use-system-search.page:83
 msgid ""
-"GNOME lets you customize what you want to display in the search results in "
-"the <gui>Activities Overview</gui>. For example, you can choose whether you "
-"want to show results for websites, photos, or music."
+"Your computer lets you customize what you want to display in the search "
+"results in the <gui>Activities Overview</gui>. For example, you can choose "
+"whether you want to show results for websites, photos, or music."
 msgstr ""
-"El GNOME us permet personalitzar quins resultats de cerca voleu mostrar a la "
+"L'ordinador us permet personalitzar quins resultats de cerca voleu mostrar a la "
 "<gui>Vista general de les activitats</gui>. Per exemple, podeu escollir si "
 "voleu incloure als resultats els llocs web, les fotografies o la música."
 
@@ -2304,8 +1902,8 @@ msgstr "Feu clic a <gui>Cerca</gui> al quadre esquerre."
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:96
 msgid ""
-"In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
-"the search location you want to enable or disable."
+"In the list of search locations, click the switch next to the search "
+"location you want to enable or disable."
 msgstr ""
 "A la llista llocs on es pot cercar, feu clic al commutador <gui>actiu/"
 "inactiu</gui> al costat del lloc que voleu habilitar o deshabilitar.  "
@@ -2448,5 +2046,4 @@ msgstr "Firefox"
 #, no-wrap
 msgid "planet.gnome.org"
 msgstr "planet.gnome.org"
-
 
