@@ -23,8 +23,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2019-07-07 20:32+0000\n"
-"PO-Revision-Date: 2019-07-11 09:36+0200\n"
+"POT-Creation-Date: 2019-08-04 17:47+0000\n"
+"PO-Revision-Date: 2019-08-28 09:03+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Spanish - Spain <gnome-es-list@gnome.org>\n"
 "Language: es_ES\n"
@@ -418,14 +418,12 @@ msgid "Welcome"
 msgstr "Bienvenido"
 
 #. (itstool) path: titles/t
-#. (itstool) path: div/p
-#: C/gs-animation.xml:7 C/gs-respond-messages.page:30
+#: C/gs-animation.xml:7
 msgid "Responding to Messages"
 msgstr "Responder a los mensajes"
 
 #. (itstool) path: titles/t
-#. (itstool) path: div/p
-#: C/gs-animation.xml:9 C/gs-respond-messages.page:44
+#: C/gs-animation.xml:9
 msgid "Delayed Response"
 msgstr "Responder más tarde"
 
@@ -468,8 +466,7 @@ msgstr "Mitad derecha de la pantalla"
 #. (itstool) path: text/tspan
 #: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:94
 #: C/gs-search2.svg:110 C/gs-thumb-changing-wallpaper.svg:54
-#: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-responding-to-messages.svg:51
-#: C/gs-thumb-task-switching.svg:167 C/gs-thumb-timezone.svg:56
+#: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-task-switching.svg:167
 #: C/gs-thumb-windows-and-workspaces.svg:104 C/gs-web-browser1-firefox.svg:122
 #: C/gs-web-browser1.svg:122
 #, no-wrap
@@ -524,7 +521,6 @@ msgstr "Solo comience a escribir…"
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
 #: C/gs-animation.xml:33 C/gs-go-online1.svg:249
-#: C/gs-thumb-responding-to-messages.svg:89
 #, no-wrap
 msgid "John Doe"
 msgstr "Juan Pérez"
@@ -562,9 +558,7 @@ msgid "I’ll be there in a sec…"
 msgstr "Estaré allí en un segundo…"
 
 #. (itstool) path: titles/t
-#. (itstool) path: text/tspan
-#: C/gs-animation.xml:40 C/gs-thumb-responding-to-messages.svg:88
-#, no-wrap
+#: C/gs-animation.xml:40
 msgid "Good stuff, thanks again"
 msgstr "¡Genial!, gracias de nuevo."
 
@@ -626,8 +620,8 @@ msgstr "14 de octubre de 2013, 14:00"
 #: C/gs-browse-web.page:9 C/gs-change-date-time-timezone.page:8
 #: C/gs-change-wallpaper.page:9 C/gs-connect-online-accounts.page:8
 #: C/gs-get-online.page:8 C/gs-launch-applications.page:9
-#: C/gs-respond-messages.page:9 C/gs-switch-tasks.page:10
-#: C/gs-use-system-search.page:8 C/gs-use-windows-workspaces.page:9
+#: C/gs-switch-tasks.page:10 C/gs-use-system-search.page:8
+#: C/gs-use-windows-workspaces.page:9
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
@@ -635,8 +629,8 @@ msgstr "Jakub Steiner"
 #: C/gs-browse-web.page:12 C/gs-change-date-time-timezone.page:11
 #: C/gs-change-wallpaper.page:12 C/gs-connect-online-accounts.page:11
 #: C/gs-get-online.page:11 C/gs-launch-applications.page:12
-#: C/gs-respond-messages.page:12 C/gs-switch-tasks.page:13
-#: C/gs-use-system-search.page:11 C/gs-use-windows-workspaces.page:12
+#: C/gs-switch-tasks.page:13 C/gs-use-system-search.page:11
+#: C/gs-use-windows-workspaces.page:12
 msgid "Petr Kovar"
 msgstr "Petr Kovar"
 
@@ -804,10 +798,7 @@ msgstr ""
 "Pulse el botón de configuración en la parte inferior izquierda del menú."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:30
-#| msgid ""
-#| "From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
-#| "guiseq>."
+#: C/gs-change-date-time-timezone.page:36
 msgid ""
 "Select <guiseq><gui>Details</gui><gui>Date &amp; Time</gui></guiseq> from "
 "the sidebar."
@@ -835,8 +826,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:42
-#| msgid ""
-#| "Close the world map window to go back to the <gui>Date &amp; Time</gui>."
 msgid ""
 "Close the world map window to go back to the <gui>Date &amp; Time</gui> "
 "panel."
@@ -859,9 +848,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:49
-#| msgid ""
-#| "Close the window to go back to the <gui>Date &amp; Time</gui>, and then "
-#| "close the panel."
 msgid ""
 "Close the window to go back to the <gui>Date &amp; Time</gui> panel, and "
 "then close the panel."
@@ -955,9 +941,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:49
-#| msgid ""
-#| "For example, if you are connecting to your Google account, you will have "
-#| "to click the <gui>Allow</gui> button."
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
 "click the <gui>Grant Access</gui> button."
@@ -982,8 +965,7 @@ msgstr ""
 #: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
 #: C/gs-go-online3.svg:290 C/gs-search1.svg:61 C/gs-search2.svg:91
 #: C/gs-search-settings.svg:58 C/gs-thumb-changing-wallpaper.svg:39
-#: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36
-#: C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
+#: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-task-switching.svg:89
 #: C/gs-thumb-windows-and-workspaces.svg:89
 #: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
 #: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
@@ -992,12 +974,11 @@ msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:60 C/gs-goa4.svg:48 C/gs-go-online3.svg:303
-#: C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
-#: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
+#: C/gs-datetime.svg:60 C/gs-goa2.svg:52 C/gs-web-browser2-firefox.svg:164
+#: C/gs-web-browser2.svg:165
 #, no-wrap
-msgid "4"
-msgstr "4"
+msgid "3"
+msgstr "3"
 
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:66 C/gs-datetime.svg:86 C/gs-datetime.svg:109
@@ -1026,7 +1007,6 @@ msgstr "Zona horaria automática"
 #. (itstool) path: text/tspan
 #: C/gs-datetime.svg:87
 #, no-wrap
-#| msgid "September 1st 2015, 9∶51 AM"
 msgid "September 1st 2015, 9:51 AM"
 msgstr "1 de septiembre de 2015, 9:51 AM"
 
@@ -1194,16 +1174,14 @@ msgstr ""
 
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
-#: C/gs-search1.svg:73 C/gs-thumb-timezone.svg:101 C/gs-thumb-timezone.svg:135
-#: C/gs-web-browser1-firefox-classic.svg:115 C/gs-web-browser1-firefox.svg:120
-#: C/gs-web-browser1.svg:120
+#: C/gs-search1.svg:73 C/gs-web-browser1-firefox-classic.svg:115
+#: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
 #, no-wrap
 msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-search2.svg:103
-#: C/gs-thumb-timezone.svg:102 C/gs-thumb-timezone.svg:136
 #: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
 #: C/gs-web-browser1.svg:153
 #, no-wrap
@@ -1212,16 +1190,8 @@ msgstr "2"
 
 #. (itstool) path: g/title
 #: C/gs-goa1.svg:93
-#| msgid "Settings"
 msgid "settings"
 msgstr "configuración"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa2.svg:52 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
-#: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
-#, no-wrap
-msgid "3"
-msgstr "3"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:69 C/gs-goa2.svg:97 C/gs-goa2.svg:114
@@ -1240,6 +1210,13 @@ msgstr "Añadir una cuenta"
 #, no-wrap
 msgid "Connect to your data in the cloud"
 msgstr "Conectarse a datos en la nube"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:48 C/gs-go-online3.svg:303 C/gs-web-browser2-firefox.svg:113
+#: C/gs-web-browser2.svg:115
+#, no-wrap
+msgid "4"
+msgstr "4"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:52 C/gs-goa4.svg:86
@@ -1302,8 +1279,8 @@ msgid "Deny Access"
 msgstr "Denegar acceso"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:105
-#: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
+#: C/gs-goa4.svg:119 C/gs-web-browser2-firefox.svg:259
+#: C/gs-web-browser2.svg:255
 #, no-wrap
 msgid "5"
 msgstr "5"
@@ -1339,7 +1316,7 @@ msgid "Enterprise Login (Kerberos)"
 msgstr "Inicio de sesión corporativo (Kerberos)"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:60 C/gs-thumb-timezone.svg:106
+#: C/gs-goa5.svg:60
 #, no-wrap
 msgid "6"
 msgstr "6"
@@ -1383,22 +1360,19 @@ msgstr "Archivos"
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:91
 #, no-wrap
-#| msgid "Enter"
 msgid "Printers"
 msgstr "Impresoras"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:93
 #, no-wrap
-#| msgid "Google Account"
 msgid "Remove Account"
 msgstr "Quitar cuenta"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:250 C/gs-search1.svg:92 C/gs-search2.svg:108
 #: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
-#: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
-#: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
+#: C/gs-thumb-task-switching.svg:168 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
 msgid "14:30"
 msgstr "14:30"
@@ -1430,7 +1404,6 @@ msgstr "Apagar"
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:340
 #, no-wrap
-#| msgid "Settings"
 msgid "Wi-Fi Settings"
 msgstr "Configuración inalámbrica"
 
@@ -1553,167 +1526,6 @@ msgstr "Creative Commons Atribución-CompartirIgual 3.0 Unported"
 msgid "This work is licensed under a <_:link-1/>."
 msgstr "Este trabajo se encuentra bajo una licencia <_:link-1/>."
 
-#. (itstool) path: info/title
-#: C/gs-respond-messages.page:18
-msgctxt "link:trail"
-msgid "Respond to messages"
-msgstr "Responder a mensajes"
-
-#. (itstool) path: info/title
-#: C/gs-respond-messages.page:19
-msgctxt "link:seealso"
-msgid "A tutorial on responding to messages"
-msgstr "Un tutorial para responder a los mensajes"
-
-#. (itstool) path: page/title
-#: C/gs-respond-messages.page:22
-msgid "Respond to messages"
-msgstr "Responder a mensajes"
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:33 C/gs-respond-messages.page:81
-msgid ""
-"Move your mouse over the chat message that appears near the top of the "
-"screen."
-msgstr ""
-"Mueva el cursor del ratón sobre el mensaje de chat que aparece en la parte "
-"izquierda de la pantalla."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:37
-msgid ""
-"Start typing your reply and when finished, press <key>Enter </key> to send "
-"the reply."
-msgstr ""
-"Comience a responder y cuando haya terminado, pulse <key>Intro</key> para "
-"enviar la respuesta."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:41
-msgid "Close the chat message."
-msgstr "Cierre el mensaje de chat."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:47
-msgid ""
-"A chat message near the top of the screen disappears after a while if you do "
-"not move your mouse over the message."
-msgstr ""
-"Si no mueve el ratón sobre la bandeja de mensajes, después de un rato un "
-"mensaje de chat desaparecerá de la parte superior de la pantalla."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:51 C/gs-respond-messages.page:97
-msgid "To get back to your unanswered message, click the clock on the top bar."
-msgstr ""
-"Para volver al mensaje no respondido, pulse en el reloj en la barra superior."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:55
-msgid "From the notification list, choose your message."
-msgstr "Elija su mensaje en la lista de notificaciones."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:58 C/gs-respond-messages.page:70
-msgid "Start typing your reply."
-msgstr "Empiece a escribir su respuesta."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:61
-msgid ""
-"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
-msgstr ""
-"Para mostrar la lista de notificaciones, pulse <keyseq> <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> <key>V</key></keyseq>"
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:66
-msgid ""
-"Use the arrow keys to select the message you want to reply to, and press "
-"<key>Enter</key>."
-msgstr ""
-"Utilice las teclas de flechas para seleccionar el mensaje al que quiera "
-"responder, y pulse <key>Intro</key>."
-
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:78
-msgid "Respond to a chat message with the mouse"
-msgstr "Responder a un mensaje de chat con el mouse"
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:83
-msgid ""
-"Start typing your reply and when finished, press <key>Enter</key> to send "
-"the reply."
-msgstr ""
-"Comience a responder y cuando haya terminado, pulse <key>Intro</key> para "
-"enviar la respuesta."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:85
-msgid ""
-"To close the chat message, click the close button at the top right corner of "
-"the chat message."
-msgstr ""
-"Para cerrar el mensaje de chat, pulse el botón de cierre que está en la "
-"esquina superior derecha del mensaje de chat."
-
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:92
-msgid "Delayed response to a chat message using the mouse"
-msgstr "Retrasar una respuesta al mensaje de chat con el ratón"
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:95
-msgid ""
-"When a chat message appears near the top of the screen and you do not move "
-"your mouse over the message, it disappears after a while."
-msgstr ""
-"Cuando aparece un mensaje de chat en la parte superior de la pantalla y no "
-"mueve el ratón sobre él, el mensaje desaparece después de un rato."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:99
-msgid ""
-"From the notification list, choose the message you want to reply to, and "
-"click it."
-msgstr ""
-"En la lista de notificaciones, elija el mensaje al que quiere responder y "
-"pulse sobre él."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:101 C/gs-respond-messages.page:115
-msgid "When the chat message is shown, start typing your reply."
-msgstr "Cuando se muestre el mensaje de chat, comience a responder."
-
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:107
-msgid "Delayed response to a chat message using the keyboard"
-msgstr "Retrasar una respuesta al mensaje de chat con el teclado"
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:109
-msgid ""
-"To get back to your unanswered chat messages, press <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
-"display the list of unanswered notifications."
-msgstr ""
-"Para volver a los mensajes de chat no respondidos, pulse <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> "
-"para mostrar la lista de notificaciones sin responder."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:113
-msgid ""
-"Use the arrow keys to select the notification you want to reply to, and "
-"press <key>Enter</key>."
-msgstr ""
-"Utilice las teclas de flechas para seleccionar la notificación a la que "
-"quiere responder, y pulse <key>Intro</key>."
-
 #. (itstool) path: text/tspan
 #: C/gs-search1.svg:158
 #, no-wrap
@@ -1735,7 +1547,6 @@ msgstr "Cuentas"
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:172
 #, no-wrap
-#| msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 
@@ -1929,215 +1740,6 @@ msgstr ""
 "Cuando la aplicación que quiere cambiar aparece como primer resultado, pulse "
 "<key>Intro</key> para cambiar a ella."
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-responding-to-messages.svg:87
-#, no-wrap
-msgid "Thanks f"
-msgstr "Gracias"
-
-#. (itstool) path: text/tspan
-#. Translators: S stands for Sunday here
-#: C/gs-thumb-timezone.svg:93
-#, no-wrap
-msgctxt "Sunday"
-msgid "S"
-msgstr "S"
-
-#. (itstool) path: text/tspan
-#. Translators: M stands for Monday here
-#: C/gs-thumb-timezone.svg:94
-#, no-wrap
-msgid "M"
-msgstr "M"
-
-#. (itstool) path: text/tspan
-#. Translators: T stands for Tuesday here
-#: C/gs-thumb-timezone.svg:95
-#, no-wrap
-msgctxt "Tuesday"
-msgid "T"
-msgstr "T"
-
-#. (itstool) path: text/tspan
-#. Translators: W stands for Wednesday here
-#: C/gs-thumb-timezone.svg:96
-#, no-wrap
-msgid "W"
-msgstr "W"
-
-#. (itstool) path: text/tspan
-#. Translators: T stands for Thursday here
-#: C/gs-thumb-timezone.svg:97
-#, no-wrap
-msgctxt "Thursday"
-msgid "T"
-msgstr "T"
-
-#. (itstool) path: text/tspan
-#. Translators: F stands for Friday here
-#: C/gs-thumb-timezone.svg:98
-#, no-wrap
-msgid "F"
-msgstr "F"
-
-#. (itstool) path: text/tspan
-#. Translators: S stands for Saturday here
-#: C/gs-thumb-timezone.svg:99
-#, no-wrap
-msgctxt "Saturday"
-msgid "S"
-msgstr "S"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:107
-#, no-wrap
-msgid "7"
-msgstr "7"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:108
-#, no-wrap
-msgid "8"
-msgstr "8"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:109
-#, no-wrap
-msgid "9"
-msgstr "9"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:110
-#, no-wrap
-msgid "10"
-msgstr "10"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:111
-#, no-wrap
-msgid "11"
-msgstr "11"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:112
-#, no-wrap
-msgid "12"
-msgstr "12"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:113
-#, no-wrap
-msgid "13"
-msgstr "13"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:114
-#, no-wrap
-msgid "14"
-msgstr "14"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:116
-#, no-wrap
-msgid "15"
-msgstr "15"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:117
-#, no-wrap
-msgid "16"
-msgstr "16"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:118
-#, no-wrap
-msgid "17"
-msgstr "17"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:119
-#, no-wrap
-msgid "18"
-msgstr "18"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:120
-#, no-wrap
-msgid "19"
-msgstr "19"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:121
-#, no-wrap
-msgid "20"
-msgstr "20"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:122
-#, no-wrap
-msgid "21"
-msgstr "21"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:124
-#, no-wrap
-msgid "22"
-msgstr "22"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:125
-#, no-wrap
-msgid "23"
-msgstr "23"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:126
-#, no-wrap
-msgid "24"
-msgstr "24"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:127
-#, no-wrap
-msgid "25"
-msgstr "25"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:128
-#, no-wrap
-msgid "26"
-msgstr "26"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:129
-#, no-wrap
-msgid "27"
-msgstr "27"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:130
-#, no-wrap
-msgid "28"
-msgstr "28"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:132
-#, no-wrap
-msgid "29"
-msgstr "29"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:133
-#, no-wrap
-msgid "30"
-msgstr "30"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:134
-#, no-wrap
-msgid "31"
-msgstr "31"
-
 #. (itstool) path: credit/name
 #: C/gs-use-system-search.page:14
 msgid "Hannie Dumoleyn"
@@ -2290,12 +1892,16 @@ msgstr "Personalizar los resultados de búsqueda"
 
 #. (itstool) path: note/p
 #: C/gs-use-system-search.page:83
+#| msgid ""
+#| "GNOME lets you customize what you want to display in the search results "
+#| "in the <gui>Activities Overview</gui>. For example, you can choose "
+#| "whether you want to show results for websites, photos, or music."
 msgid ""
-"GNOME lets you customize what you want to display in the search results in "
-"the <gui>Activities Overview</gui>. For example, you can choose whether you "
-"want to show results for websites, photos, or music."
+"Your computer lets you customize what you want to display in the search "
+"results in the <gui>Activities Overview</gui>. For example, you can choose "
+"whether you want to show results for websites, photos, or music."
 msgstr ""
-"GNOME le permite personalizar lo que quiere mostrar en los resultados de "
+"Su equipo le permite personalizar lo que quiere mostrar en los resultados de "
 "búsqueda en la <gui>Vista de actividades</gui>. Por ejemplo, puede decidir "
 "si quiere mostrar los resultados para los sitios web, fotografías o música."
 
@@ -2311,13 +1917,15 @@ msgstr "Pulse <gui>Buscar</gui> el panel izquierdo."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:96
+#| msgid ""
+#| "In the list of search locations, click the <gui>ON/OFF</gui> switch next "
+#| "to the search location you want to enable or disable."
 msgid ""
-"In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
-"the search location you want to enable or disable."
+"In the list of search locations, click the switch next to the search "
+"location you want to enable or disable."
 msgstr ""
-"En la lista de direcciones de búsqueda, pulse el interruptor de "
-"<gui>ENCENDIDO/APAGADO</gui> que está al lado de la dirección de búsqueda "
-"que quiera activar o desactivar."
+"En la lista de ubicaciones de búsqueda, pulse el interruptor que está al "
+"lado de la ubicación de búsqueda que quiera activar o desactivar."
 
 #. (itstool) path: info/title
 #: C/gs-use-windows-workspaces.page:15
@@ -2455,6 +2063,226 @@ msgstr "Firefox"
 #, no-wrap
 msgid "planet.gnome.org"
 msgstr "planet.gnome.org"
+
+#~ msgctxt "link:trail"
+#~ msgid "Respond to messages"
+#~ msgstr "Responder a mensajes"
+
+#~ msgctxt "link:seealso"
+#~ msgid "A tutorial on responding to messages"
+#~ msgstr "Un tutorial para responder a los mensajes"
+
+#~ msgid "Respond to messages"
+#~ msgstr "Responder a mensajes"
+
+#~ msgid ""
+#~ "Move your mouse over the chat message that appears near the top of the "
+#~ "screen."
+#~ msgstr ""
+#~ "Mueva el cursor del ratón sobre el mensaje de chat que aparece en la "
+#~ "parte izquierda de la pantalla."
+
+#~ msgid ""
+#~ "Start typing your reply and when finished, press <key>Enter </key> to "
+#~ "send the reply."
+#~ msgstr ""
+#~ "Comience a responder y cuando haya terminado, pulse <key>Intro</key> para "
+#~ "enviar la respuesta."
+
+#~ msgid "Close the chat message."
+#~ msgstr "Cierre el mensaje de chat."
+
+#~ msgid ""
+#~ "A chat message near the top of the screen disappears after a while if you "
+#~ "do not move your mouse over the message."
+#~ msgstr ""
+#~ "Si no mueve el ratón sobre la bandeja de mensajes, después de un rato un "
+#~ "mensaje de chat desaparecerá de la parte superior de la pantalla."
+
+#~ msgid ""
+#~ "To get back to your unanswered message, click the clock on the top bar."
+#~ msgstr ""
+#~ "Para volver al mensaje no respondido, pulse en el reloj en la barra "
+#~ "superior."
+
+#~ msgid "From the notification list, choose your message."
+#~ msgstr "Elija su mensaje en la lista de notificaciones."
+
+#~ msgid "Start typing your reply."
+#~ msgstr "Empiece a escribir su respuesta."
+
+#~ msgid ""
+#~ "To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
+#~ "keyboard-key-super\">Super</key> <key>V</key></keyseq>"
+#~ msgstr ""
+#~ "Para mostrar la lista de notificaciones, pulse <keyseq> <key href=\"help:"
+#~ "gnome-help/keyboard-key-super\">Super</key> <key>V</key></keyseq>"
+
+#~ msgid ""
+#~ "Use the arrow keys to select the message you want to reply to, and press "
+#~ "<key>Enter</key>."
+#~ msgstr ""
+#~ "Utilice las teclas de flechas para seleccionar el mensaje al que quiera "
+#~ "responder, y pulse <key>Intro</key>."
+
+#~ msgid "Respond to a chat message with the mouse"
+#~ msgstr "Responder a un mensaje de chat con el mouse"
+
+#~ msgid ""
+#~ "Start typing your reply and when finished, press <key>Enter</key> to send "
+#~ "the reply."
+#~ msgstr ""
+#~ "Comience a responder y cuando haya terminado, pulse <key>Intro</key> para "
+#~ "enviar la respuesta."
+
+#~ msgid ""
+#~ "To close the chat message, click the close button at the top right corner "
+#~ "of the chat message."
+#~ msgstr ""
+#~ "Para cerrar el mensaje de chat, pulse el botón de cierre que está en la "
+#~ "esquina superior derecha del mensaje de chat."
+
+#~ msgid "Delayed response to a chat message using the mouse"
+#~ msgstr "Retrasar una respuesta al mensaje de chat con el ratón"
+
+#~ msgid ""
+#~ "When a chat message appears near the top of the screen and you do not "
+#~ "move your mouse over the message, it disappears after a while."
+#~ msgstr ""
+#~ "Cuando aparece un mensaje de chat en la parte superior de la pantalla y "
+#~ "no mueve el ratón sobre él, el mensaje desaparece después de un rato."
+
+#~ msgid ""
+#~ "From the notification list, choose the message you want to reply to, and "
+#~ "click it."
+#~ msgstr ""
+#~ "En la lista de notificaciones, elija el mensaje al que quiere responder y "
+#~ "pulse sobre él."
+
+#~ msgid "When the chat message is shown, start typing your reply."
+#~ msgstr "Cuando se muestre el mensaje de chat, comience a responder."
+
+#~ msgid "Delayed response to a chat message using the keyboard"
+#~ msgstr "Retrasar una respuesta al mensaje de chat con el teclado"
+
+#~ msgid ""
+#~ "To get back to your unanswered chat messages, press <keyseq> <key href="
+#~ "\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> "
+#~ "to display the list of unanswered notifications."
+#~ msgstr ""
+#~ "Para volver a los mensajes de chat no respondidos, pulse <keyseq> <key "
+#~ "href=\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </"
+#~ "keyseq> para mostrar la lista de notificaciones sin responder."
+
+#~ msgid ""
+#~ "Use the arrow keys to select the notification you want to reply to, and "
+#~ "press <key>Enter</key>."
+#~ msgstr ""
+#~ "Utilice las teclas de flechas para seleccionar la notificación a la que "
+#~ "quiere responder, y pulse <key>Intro</key>."
+
+#~ msgid "Thanks f"
+#~ msgstr "Gracias"
+
+#~ msgctxt "Sunday"
+#~ msgid "S"
+#~ msgstr "S"
+
+#~ msgid "M"
+#~ msgstr "M"
+
+#~ msgctxt "Tuesday"
+#~ msgid "T"
+#~ msgstr "T"
+
+#~ msgid "W"
+#~ msgstr "W"
+
+#~ msgctxt "Thursday"
+#~ msgid "T"
+#~ msgstr "T"
+
+#~ msgid "F"
+#~ msgstr "F"
+
+#~ msgctxt "Saturday"
+#~ msgid "S"
+#~ msgstr "S"
+
+#~ msgid "7"
+#~ msgstr "7"
+
+#~ msgid "8"
+#~ msgstr "8"
+
+#~ msgid "9"
+#~ msgstr "9"
+
+#~ msgid "10"
+#~ msgstr "10"
+
+#~ msgid "11"
+#~ msgstr "11"
+
+#~ msgid "12"
+#~ msgstr "12"
+
+#~ msgid "13"
+#~ msgstr "13"
+
+#~ msgid "14"
+#~ msgstr "14"
+
+#~ msgid "15"
+#~ msgstr "15"
+
+#~ msgid "16"
+#~ msgstr "16"
+
+#~ msgid "17"
+#~ msgstr "17"
+
+#~ msgid "18"
+#~ msgstr "18"
+
+#~ msgid "19"
+#~ msgstr "19"
+
+#~ msgid "20"
+#~ msgstr "20"
+
+#~ msgid "21"
+#~ msgstr "21"
+
+#~ msgid "22"
+#~ msgstr "22"
+
+#~ msgid "23"
+#~ msgstr "23"
+
+#~ msgid "24"
+#~ msgstr "24"
+
+#~ msgid "25"
+#~ msgstr "25"
+
+#~ msgid "26"
+#~ msgstr "26"
+
+#~ msgid "27"
+#~ msgstr "27"
+
+#~ msgid "28"
+#~ msgstr "28"
+
+#~ msgid "29"
+#~ msgstr "29"
+
+#~ msgid "30"
+#~ msgstr "30"
+
+#~ msgid "31"
+#~ msgstr "31"
 
 #~ msgid "Select the <gui>Date &amp; Time</gui> panel."
 #~ msgstr "Seleccione el panel de <gui>Fecha y hora</gui>."
