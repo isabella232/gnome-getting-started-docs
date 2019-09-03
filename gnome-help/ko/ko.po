@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2018-07-20 17:19+0000\n"
-"PO-Revision-Date: 2018-09-01 22:00+0900\n"
+"POT-Creation-Date: 2019-08-04 17:47+0000\n"
+"PO-Revision-Date: 2019-09-03 18:21+0900\n"
 "Last-Translator: Seong-ho Cho <shcho@gnome.org>\n"
 "Language-Team: Korean <gnome-kr@googlegroups.com>\n"
 "Language: ko\n"
@@ -14,22 +14,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.1.1\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "조성호 <shcho@gnome.org>, 2014, 2016, 2017, 2018"
+msgstr "조성호 <shcho@gnome.org>, 2014, 2016, 2017, 2018, 2019"
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:10
 msgid "New to GNOME? Learn how to get around."
-msgstr "그놈을 처음 사용하십니까? 둘러보는 방법부터 배우겠습니다."
+msgstr "그놈을 처음 사용하십니까? 차근차근 살펴 보도록 하겠습니다."
 
 #. (itstool) path: info/title
 #: C/getting-started.page:11
 msgctxt "link"
-msgid "Getting Started with GNOME"
+msgid "Getting started with GNOME"
 msgstr "그놈 시작하기"
 
 #. (itstool) path: info/title
@@ -378,7 +378,7 @@ msgstr "<gui>배경 화면</gui> 창을 닫으세요."
 
 #. (itstool) path: links/title
 #: C/getting-started.page:328
-msgid "Common Tasks"
+msgid "Common tasks"
 msgstr "일반 작업"
 
 #. (itstool) path: titles/t
@@ -387,14 +387,12 @@ msgid "Welcome"
 msgstr "환영합니다"
 
 #. (itstool) path: titles/t
-#. (itstool) path: div/p
-#: C/gs-animation.xml:7 C/gs-respond-messages.page:30
+#: C/gs-animation.xml:7
 msgid "Responding to Messages"
 msgstr "메시지에 응답하기"
 
 #. (itstool) path: titles/t
-#. (itstool) path: div/p
-#: C/gs-animation.xml:9 C/gs-respond-messages.page:44
+#: C/gs-animation.xml:9
 msgid "Delayed Response"
 msgstr "늦은 응답"
 
@@ -435,10 +433,9 @@ msgstr "화면 우측 절반"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:198
-#: C/gs-search2.svg:154 C/gs-thumb-changing-wallpaper.svg:54
-#: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-responding-to-messages.svg:51
-#: C/gs-thumb-task-switching.svg:167 C/gs-thumb-timezone.svg:56
+#: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:94
+#: C/gs-search2.svg:110 C/gs-thumb-changing-wallpaper.svg:54
+#: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-task-switching.svg:167
 #: C/gs-thumb-windows-and-workspaces.svg:104 C/gs-web-browser1-firefox.svg:122
 #: C/gs-web-browser1.svg:122
 #, no-wrap
@@ -493,13 +490,14 @@ msgstr "그냥 입력을 시작해보세요…"
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
 #: C/gs-animation.xml:33 C/gs-go-online1.svg:249
-#: C/gs-thumb-responding-to-messages.svg:89
 #, no-wrap
 msgid "John Doe"
 msgstr "김철수"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:34
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:34 C/gs-goa2.svg:104 C/gs-search-settings.svg:76
+#, no-wrap
 msgid "Settings"
 msgstr "설정"
 
@@ -529,9 +527,7 @@ msgid "I’ll be there in a sec…"
 msgstr "금방 갈께요…"
 
 #. (itstool) path: titles/t
-#. (itstool) path: text/tspan
-#: C/gs-animation.xml:40 C/gs-thumb-responding-to-messages.svg:88
-#, no-wrap
+#: C/gs-animation.xml:40
 msgid "Good stuff, thanks again"
 msgstr "좋네요. 거듭 감사~"
 
@@ -593,8 +589,8 @@ msgstr "2013년 10월 14일, 14∶00"
 #: C/gs-browse-web.page:9 C/gs-change-date-time-timezone.page:8
 #: C/gs-change-wallpaper.page:9 C/gs-connect-online-accounts.page:8
 #: C/gs-get-online.page:8 C/gs-launch-applications.page:9
-#: C/gs-respond-messages.page:9 C/gs-switch-tasks.page:10
-#: C/gs-use-system-search.page:8 C/gs-use-windows-workspaces.page:9
+#: C/gs-switch-tasks.page:10 C/gs-use-system-search.page:8
+#: C/gs-use-windows-workspaces.page:9
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
@@ -602,8 +598,8 @@ msgstr "Jakub Steiner"
 #: C/gs-browse-web.page:12 C/gs-change-date-time-timezone.page:11
 #: C/gs-change-wallpaper.page:12 C/gs-connect-online-accounts.page:11
 #: C/gs-get-online.page:11 C/gs-launch-applications.page:12
-#: C/gs-respond-messages.page:12 C/gs-switch-tasks.page:13
-#: C/gs-use-system-search.page:11 C/gs-use-windows-workspaces.page:12
+#: C/gs-switch-tasks.page:13 C/gs-use-system-search.page:11
+#: C/gs-use-windows-workspaces.page:12
 msgid "Petr Kovar"
 msgstr "Petr Kovar"
 
@@ -757,12 +753,16 @@ msgid "Click the settings button at the bottom left of the menu."
 msgstr "메뉴 하단의 설정 단추를 누르십시오."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:30
-msgid "Select the <gui>Date &amp; Time</gui> panel."
-msgstr "<gui>날짜 및 시간</gui> 창을 선택하십시오."
+#: C/gs-change-date-time-timezone.page:36
+msgid ""
+"Select <guiseq><gui>Details</gui><gui>Date &amp; Time</gui></guiseq> from "
+"the sidebar."
+msgstr ""
+"가장자리 창에서 <guiseq><gui>정보</gui><gui>날짜 및 시간</gui></guiseq>을 선"
+"택하십시오."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:37
+#: C/gs-change-date-time-timezone.page:38
 msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
 "then click the <gui>Time Zone</gui> item below."
@@ -771,7 +771,7 @@ msgstr ""
 "</gui> 항목을 누르십시오."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:39
+#: C/gs-change-date-time-timezone.page:40
 msgid ""
 "Click on your location on the world map. This selects your current city, "
 "which you can also search for in the search box above the map."
@@ -780,13 +780,14 @@ msgstr ""
 "도상의 검색 창으로 검색할 수 있습니다."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:41
+#: C/gs-change-date-time-timezone.page:42
 msgid ""
-"Close the world map window to go back to the <gui>Date &amp; Time</gui>."
-msgstr "세계 지도를 닫아 <gui>날짜 및 시간 설정</gui> 창으로 돌아가십시오."
+"Close the world map window to go back to the <gui>Date &amp; Time</gui> "
+"panel."
+msgstr "세계 지도 창을 닫아 <gui>날짜 및 시간</gui> 패널로 돌아가십시오."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:43
+#: C/gs-change-date-time-timezone.page:44
 msgid ""
 "Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
 "off, and then click the <gui>Date &amp; Time</gui> item below to open the "
@@ -799,11 +800,11 @@ msgstr ""
 "수 있습니다."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:48
+#: C/gs-change-date-time-timezone.page:49
 msgid ""
-"Close the window to go back to the <gui>Date &amp; Time</gui>, and then "
-"close the panel."
-msgstr "창을 닫아 <gui>날짜 및 시간 설정</gui> 창으로 돌아가십시오."
+"Close the window to go back to the <gui>Date &amp; Time</gui> panel, and "
+"then close the panel."
+msgstr "창을 닫아 <gui>날짜 및 시간</gui> 창으로 돌아간 후 패널을 닫으십시오."
 
 #. (itstool) path: info/title
 #: C/gs-change-wallpaper.page:15
@@ -885,9 +886,9 @@ msgstr ""
 #: C/gs-connect-online-accounts.page:49
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
-"click the <gui>Allow</gui> button."
+"click the <gui>Grant Access</gui> button."
 msgstr ""
-"예를 들어, 구글 계정에 접속한다면, <gui>허가</gui> 단추를 눌러야 합니다."
+"예를 들어, 구글 계정에 접속한다면, <gui>접근 승인</gui> 단추를 눌러야 합니다."
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:57
@@ -901,13 +902,12 @@ msgstr ""
 "기능을 끄십시오."
 
 #. (itstool) path: Work/format
-#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:178 C/gs-goa3.svg:48
-#: C/gs-goa4.svg:156 C/gs-goa5.svg:147 C/gs-go-online1.svg:230
-#: C/gs-go-online2.svg:265 C/gs-go-online3.svg:290 C/gs-search1.svg:97
-#: C/gs-search2.svg:133 C/gs-search-settings.svg:98
-#: C/gs-thumb-changing-wallpaper.svg:39 C/gs-thumb-launching-apps.svg:189
-#: C/gs-thumb-responding-to-messages.svg:36 C/gs-thumb-task-switching.svg:89
-#: C/gs-thumb-timezone.svg:41 C/gs-thumb-windows-and-workspaces.svg:89
+#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:40 C/gs-goa4.svg:36
+#: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
+#: C/gs-go-online3.svg:290 C/gs-search1.svg:61 C/gs-search2.svg:91
+#: C/gs-search-settings.svg:58 C/gs-thumb-changing-wallpaper.svg:39
+#: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-task-switching.svg:89
+#: C/gs-thumb-windows-and-workspaces.svg:89
 #: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
 #: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
 #: C/gs-web-browser2.svg:102
@@ -915,75 +915,71 @@ msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:60 C/gs-goa3.svg:60 C/gs-go-online3.svg:303
-#: C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
-#: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
+#: C/gs-datetime.svg:60 C/gs-goa2.svg:52 C/gs-web-browser2-firefox.svg:164
+#: C/gs-web-browser2.svg:165
 #, no-wrap
-msgid "4"
-msgstr "4"
+msgid "3"
+msgstr "3"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:78 C/gs-datetime.svg:112
+#: C/gs-datetime.svg:66 C/gs-datetime.svg:86 C/gs-datetime.svg:109
 #, no-wrap
 msgid "Date &amp; Time"
 msgstr "날짜 및 시간"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:80
+#: C/gs-datetime.svg:68
 #, no-wrap
 msgid "Automatic Date &amp; Time"
 msgstr "날짜 및 시간 자동 설정"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:81 C/gs-datetime.svg:96
+#: C/gs-datetime.svg:69 C/gs-datetime.svg:78
 #, no-wrap
 msgid "Requires internet access"
 msgstr "인터넷 연결이 필요함"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:87 C/gs-datetime.svg:102 C/gs-goa5.svg:510
-#: C/gs-goa5.svg:521 C/gs-goa5.svg:532 C/gs-goa5.svg:543 C/gs-goa5.svg:554
-#: C/gs-search-settings.svg:133 C/gs-search-settings.svg:250
-#: C/gs-search-settings.svg:257 C/gs-search-settings.svg:264
-#, no-wrap
-msgid "ON"
-msgstr "켬"
-
-#. (itstool) path: text/tspan
-#: C/gs-datetime.svg:95
+#: C/gs-datetime.svg:77
 #, no-wrap
 msgid "Automatic Time Zone"
 msgstr "시간대 자동 설정"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:113
+#: C/gs-datetime.svg:87
 #, no-wrap
-msgid "September 1st 2015, 9∶51 AM"
+msgid "September 1st 2015, 9:51 AM"
 msgstr "2015년 9월 1일 오전 9∶51"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:114
+#: C/gs-datetime.svg:88
 #, no-wrap
 msgid "Time Zone"
 msgstr "시간대"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:115
+#: C/gs-datetime.svg:89
 #, no-wrap
 msgid "EDT (New York, United States)"
 msgstr "미 동부 시간대(미국 뉴욕)"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:119
+#: C/gs-datetime.svg:91
 #, no-wrap
 msgid "Time Format"
 msgstr "시간 형식"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:121
+#: C/gs-datetime.svg:93
 #, no-wrap
 msgid "24-hour"
 msgstr "24시간"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:95
+#, no-wrap
+msgid "Details"
+msgstr "정보"
 
 #. (itstool) path: info/title
 #: C/gs-get-online.page:14
@@ -1113,206 +1109,208 @@ msgstr "네트워크 설정에 따라, 네트워크 인증을 입력해야 할 �
 
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
-#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101 C/gs-thumb-timezone.svg:135
-#: C/gs-web-browser1-firefox-classic.svg:115 C/gs-web-browser1-firefox.svg:120
-#: C/gs-web-browser1.svg:120
+#: C/gs-search1.svg:73 C/gs-web-browser1-firefox-classic.svg:115
+#: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
 #, no-wrap
 msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-search2.svg:145
-#: C/gs-thumb-timezone.svg:102 C/gs-thumb-timezone.svg:136
+#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-search2.svg:103
 #: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
 #: C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
 msgstr "2"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa2.svg:228 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
-#: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
-#, no-wrap
-msgid "3"
-msgstr "3"
+#. (itstool) path: g/title
+#: C/gs-goa1.svg:93
+msgid "settings"
+msgstr "설정"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:299 C/gs-goa3.svg:106
+#: C/gs-goa2.svg:69 C/gs-goa2.svg:97 C/gs-goa2.svg:114
 #, no-wrap
 msgid "Online Accounts"
 msgstr "온라인 계정"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:431
+#: C/gs-goa2.svg:88 C/gs-goa2.svg:136
 #, no-wrap
 msgid "Add an account"
 msgstr "계정 추가"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:469
+#: C/gs-goa2.svg:123 C/gs-goa2.svg:137
 #, no-wrap
 msgid "Connect to your data in the cloud"
 msgstr "클라우드에 데이터 연결하기"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:63
+#: C/gs-goa4.svg:48 C/gs-go-online3.svg:303 C/gs-web-browser2-firefox.svg:113
+#: C/gs-web-browser2.svg:115
 #, no-wrap
-msgid "Add Account"
-msgstr "계정 추가"
+msgid "4"
+msgstr "4"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:65 C/gs-goa4.svg:592 C/gs-goa5.svg:317
-#, no-wrap
-msgid "Google"
-msgstr "구글"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:66 C/gs-goa4.svg:603
-#, no-wrap
-msgid "Facebook"
-msgstr "페이스북"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:67 C/gs-goa4.svg:614
-#, no-wrap
-msgid "Windows Live"
-msgstr "윈도우 라이브"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:68 C/gs-goa4.svg:625
-#, no-wrap
-msgid "Microsoft Exchange"
-msgstr "마이크로소프트 익스체인지"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:69 C/gs-goa4.svg:636
-#, no-wrap
-msgid "Enterprise Login (Kerberos)"
-msgstr "기업 로그인(커베로스)"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:108
-#, no-wrap
-msgid "Add an online account"
-msgstr "온라인 계정 추가"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:193 C/gs-goa4.svg:407
+#: C/gs-goa4.svg:52 C/gs-goa4.svg:86
 #, no-wrap
 msgid "Google account"
 msgstr "구글 계정"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:267 C/gs-thumb-timezone.svg:105
-#: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
+#: C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:338
 #, no-wrap
-msgid "5"
-msgstr "5"
+msgid "Cancel"
+msgstr "취소"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:288
+#: C/gs-goa4.svg:69
+#, no-wrap
+msgid "SIGN UP"
+msgstr "가입"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:70
 #, no-wrap
 msgid "Sign in"
 msgstr "계정 접속"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:299
+#: C/gs-goa4.svg:71
 #, no-wrap
 msgid "Email"
 msgstr "전자메일"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:319
+#: C/gs-goa4.svg:73
 #, no-wrap
 msgid "Password"
 msgstr "암호"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:346
+#: C/gs-goa4.svg:76
 #, no-wrap
 msgid "Sign In"
 msgstr "접속"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:357 C/gs-goa5.svg:328
+#: C/gs-goa4.svg:77 C/gs-goa5.svg:70
 #, no-wrap
 msgid "john.doe@gmail.com"
 msgstr "cheolsoo.kim@gmail.com"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:543 C/gs-thumb-timezone.svg:106
+#: C/gs-goa4.svg:103
+#, no-wrap
+msgid "Grant Access"
+msgstr "접근 허가"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:108
+#, no-wrap
+msgid "Deny Access"
+msgstr "접근 거부"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:119 C/gs-web-browser2-firefox.svg:259
+#: C/gs-web-browser2.svg:255
+#, no-wrap
+msgid "5"
+msgstr "5"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:123 C/gs-goa5.svg:69
+#, no-wrap
+msgid "Google"
+msgstr "구글"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:124
+#, no-wrap
+msgid "Facebook"
+msgstr "페이스북"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:125
+#, no-wrap
+msgid "Windows Live"
+msgstr "윈도우 라이브"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:126
+#, no-wrap
+msgid "Microsoft Exchange"
+msgstr "마이크로소프트 익스체인지"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:127
+#, no-wrap
+msgid "Enterprise Login (Kerberos)"
+msgstr "기업 로그인(커베로스)"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:60
 #, no-wrap
 msgid "6"
 msgstr "6"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:564
-#, no-wrap
-msgid "ALLOW"
-msgstr "허가"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:575
-#, no-wrap
-msgid "CANCEL"
-msgstr "취소"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:197 C/gs-thumb-timezone.svg:107
-#, no-wrap
-msgid "7"
-msgstr "7"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:269
-#, no-wrap
-msgid "Google Account"
-msgstr "구글 계정"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:339
+#: C/gs-goa5.svg:71
 #, no-wrap
 msgid "Use for"
 msgstr "사용 용도"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:350
+#: C/gs-goa5.svg:72
 #, no-wrap
 msgid "Mail"
 msgstr "메일"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:382
+#: C/gs-goa5.svg:73
 #, no-wrap
 msgid "Calendar"
 msgstr "달력"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:414 C/gs-search2.svg:293
+#: C/gs-goa5.svg:74 C/gs-search2.svg:214
 #, no-wrap
 msgid "Contacts"
 msgstr "연락처"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:446
+#: C/gs-goa5.svg:75
 #, no-wrap
-msgid "Chat"
-msgstr "대화"
+msgid "Photos"
+msgstr "사진"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:478
+#: C/gs-goa5.svg:76
 #, no-wrap
-msgid "Documents"
-msgstr "문서"
+msgid "Files"
+msgstr "파일"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
+#: C/gs-goa5.svg:91
+#, no-wrap
+msgid "Printers"
+msgstr "프린터"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:93
+#, no-wrap
+msgid "Remove Account"
+msgstr "계정 제거"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:250 C/gs-search1.svg:92 C/gs-search2.svg:108
 #: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
-#: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
-#: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
+#: C/gs-thumb-task-switching.svg:168 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
-msgid "14∶30"
-msgstr "14∶30"
+msgid "14:30"
+msgstr "14:30"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:328
@@ -1341,8 +1339,8 @@ msgstr "끔"
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:340
 #, no-wrap
-msgid "Network Settings"
-msgstr "네트워크 설정"
+msgid "Wi-Fi Settings"
+msgstr "무선랜 설정"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:306
@@ -1385,12 +1383,6 @@ msgstr "비공개"
 #, no-wrap
 msgid "Select a network"
 msgstr "네트워크를 선택하십시오"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:338
-#, no-wrap
-msgid "Cancel"
-msgstr "취소"
 
 #. (itstool) path: info/title
 #: C/gs-launch-applications.page:16
@@ -1466,262 +1458,78 @@ msgstr "크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.
 msgid "This work is licensed under a <_:link-1/>."
 msgstr "이 문서는 <_:link-1/>에 따른 활용을 허가합니다."
 
-#. (itstool) path: info/title
-#: C/gs-respond-messages.page:18
-msgctxt "link:trail"
-msgid "Respond to messages"
-msgstr "메시지에 응답하기"
-
-#. (itstool) path: info/title
-#: C/gs-respond-messages.page:19
-msgctxt "link:seealso"
-msgid "A tutorial on responding to messages"
-msgstr "메시지 응답 따라하기"
-
-#. (itstool) path: page/title
-#: C/gs-respond-messages.page:22
-msgid "Respond to messages"
-msgstr "메시지에 응답하기"
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:33 C/gs-respond-messages.page:81
-msgid ""
-"Move your mouse over the chat message that appears near the top of the "
-"screen."
-msgstr "화면의 좌측 상단에 있는 대화 메시지에 마우스 포인터를 옮기십시오."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:37
-msgid ""
-"Start typing your reply and when finished, press <key>Enter </key> to send "
-"the reply."
-msgstr ""
-"답변 입력을 시작하고, 입력이 끝났으면 <key>Enter</key>키를 눌러 답변을 보내십"
-"시오."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:41
-msgid "Close the chat message."
-msgstr "대화 메시지를 닫으십시오."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:47
-msgid ""
-"A chat message near the top of the screen disappears after a while if you do "
-"not move your mouse over the message."
-msgstr ""
-"화면 상단의 대화 메시지는 메시지 표시줄로 마우스 커서를 올려놓지 않으면 곧 사"
-"라집니다."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:51 C/gs-respond-messages.page:97
-msgid "To get back to your unanswered message, click the clock on the top bar."
-msgstr "답변하지 않은 메시지로 돌아가려면, 상단 표시줄의 시계를 누르십시오."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:55
-msgid "From the notification list, choose your message."
-msgstr "알림 목록에서 메시지를 선택하십시오."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:58 C/gs-respond-messages.page:70
-msgid "Start typing your reply."
-msgstr "답변 입력을 시작하십시오."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:61
-msgid ""
-"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
-msgstr ""
-"알림 목록을 표시하려면, <keyseq> <key href=\"help:gnome-help/keyboard-key-"
-"super\">Super</key> <key>V</key></keyseq>키 조합을 누르십시오"
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:66
-msgid ""
-"Use the arrow keys to select the message you want to reply to, and press "
-"<key>Enter</key>."
-msgstr ""
-"화살표 키를 눌러 답변할 메시지를 선택하시고 <key>Enter</key>키를 누르십시오."
-
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:78
-msgid "Respond to a chat message with the mouse"
-msgstr "마우스로 대화 메시지 응답하기"
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:83
-msgid ""
-"Start typing your reply and when finished, press <key>Enter</key> to send "
-"the reply."
-msgstr ""
-"답변 입력을 시작하고, 입력이 끝나면 <key>Enter</key>키를 입력하여 답변을 보내"
-"십시오."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:85
-msgid ""
-"To close the chat message, click the close button at the top right corner of "
-"the chat message."
-msgstr ""
-"대화 메시지를 닫으려면, 대화 메시지 우측 상단에 있는 십자 표시 단추를 누르십"
-"시오."
-
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:92
-msgid "Delayed response to a chat message using the mouse"
-msgstr "마우스를 사용하여 대화 메시지에 늦게 응답하기"
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:95
-msgid ""
-"When a chat message appears near the top of the screen and you do not move "
-"your mouse over the message, it disappears after a while."
-msgstr ""
-"화면 상단에 대화 메시지가 뜰 때 메시지에 마우스 포인터를 올려놓지 않으면 곧 "
-"사라집니다."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:99
-msgid ""
-"From the notification list, choose the message you want to reply to, and "
-"click it."
-msgstr "알림 목록에서 답장할 메시지를 선택한 후 누르십시오."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:101 C/gs-respond-messages.page:115
-msgid "When the chat message is shown, start typing your reply."
-msgstr "대화 메시지가 나타나면 답변 입력을 시작하십시오."
-
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:107
-msgid "Delayed response to a chat message using the keyboard"
-msgstr "키보드를 사용하여 대화 메시지에 늦게 응답하기"
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:109
-msgid ""
-"To get back to your unanswered chat messages, press <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
-"display the list of unanswered notifications."
-msgstr ""
-"답변하지 않은 메시지로 돌아가려면 <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key><key>V</key> </keyseq>키 조합을 입력하여 답변"
-"하지 않은 알림 목록을 표시하십시오."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:113
-msgid ""
-"Use the arrow keys to select the notification you want to reply to, and "
-"press <key>Enter</key>."
-msgstr ""
-"화살표 키를 눌러 답변할 알림을 선택하시고 <key>Enter</key>키를 누르십시오."
-
 #. (itstool) path: text/tspan
-#: C/gs-search1.svg:229
+#: C/gs-search1.svg:158
 #, no-wrap
 msgid "just type"
 msgstr "그냥 입력하십시오"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:182
+#: C/gs-search2.svg:170
 #, no-wrap
 msgid "con"
 msgstr "con"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:246
+#: C/gs-search2.svg:171
 #, no-wrap
 msgid "Accounts"
 msgstr "계정"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:247
+#: C/gs-search2.svg:172
 #, no-wrap
-msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
-msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
+#| msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
+msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:248
+#: C/gs-search2.svg:173
 #, no-wrap
 msgid "config"
 msgstr "config"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:249 C/gs-search2.svg:252
+#: C/gs-search2.svg:174 C/gs-search2.svg:177
 #, no-wrap
 msgid "fontconfig"
 msgstr "fontconfig"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:250
+#: C/gs-search2.svg:175
 #, no-wrap
 msgid "system-config-http.zip"
 msgstr "system-config-http.zip"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:251
+#: C/gs-search2.svg:176
 #, no-wrap
 msgid "Icon guidelines"
 msgstr "아이콘 지침서"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:269
+#: C/gs-search2.svg:194
 #, no-wrap
 msgid "Secure Linux Containers"
 msgstr "보안 리눅스 컨테이너"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:270
+#: C/gs-search2.svg:195
 #, no-wrap
 msgid "Developer Conference 2012"
 msgstr "개발자 회의 2012"
 
-# 실제로 Firefox 브라우저의 아이콘 설명 이름은 번역이 안된 상태로 나옴.
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:294 C/gs-web-browser2-firefox.svg:218
-#, no-wrap
-msgid "Firefox"
-msgstr "Firefox"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:125
-#, no-wrap
-msgid "Search"
-msgstr "검색"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:127
-#, no-wrap
-msgid "Files"
-msgstr "파일"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:242
+#: C/gs-search2.svg:215
 #, no-wrap
 msgid "Web"
 msgstr "웹"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:243
+#: C/gs-search-settings.svg:72 C/gs-search-settings.svg:86
 #, no-wrap
-msgid "Photos"
-msgstr "사진"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:244
-#, no-wrap
-msgid "Music"
-msgstr "음악"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:271
-#, no-wrap
-msgid "OFF"
-msgstr "끔"
+msgid "Search"
+msgstr "검색"
 
 #. (itstool) path: info/title
 #: C/gs-switch-tasks.page:16
@@ -1857,209 +1665,6 @@ msgid ""
 msgstr ""
 "원하는 프로그램이 처음 결과로 나오도록 전환하려면, <key>Enter</key>키를 눌러 "
 "전환하십시오."
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-responding-to-messages.svg:87
-#, no-wrap
-msgid "Thanks f"
-msgstr "도와ㅈ"
-
-#. (itstool) path: text/tspan
-#. Translators: S stands for Sunday here
-#: C/gs-thumb-timezone.svg:93
-#, no-wrap
-msgctxt "Sunday"
-msgid "S"
-msgstr "일"
-
-#. (itstool) path: text/tspan
-#. Translators: M stands for Monday here
-#: C/gs-thumb-timezone.svg:94
-#, no-wrap
-msgid "M"
-msgstr "월"
-
-#. (itstool) path: text/tspan
-#. Translators: T stands for Tuesday here
-#: C/gs-thumb-timezone.svg:95
-#, no-wrap
-msgctxt "Tuesday"
-msgid "T"
-msgstr "화"
-
-#. (itstool) path: text/tspan
-#. Translators: W stands for Wednesday here
-#: C/gs-thumb-timezone.svg:96
-#, no-wrap
-msgid "W"
-msgstr "수"
-
-#. (itstool) path: text/tspan
-#. Translators: T stands for Thursday here
-#: C/gs-thumb-timezone.svg:97
-#, no-wrap
-msgctxt "Thursday"
-msgid "T"
-msgstr "목"
-
-#. (itstool) path: text/tspan
-#. Translators: F stands for Friday here
-#: C/gs-thumb-timezone.svg:98
-#, no-wrap
-msgid "F"
-msgstr "금"
-
-#. (itstool) path: text/tspan
-#. Translators: S stands for Saturday here
-#: C/gs-thumb-timezone.svg:99
-#, no-wrap
-msgctxt "Saturday"
-msgid "S"
-msgstr "토"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:108
-#, no-wrap
-msgid "8"
-msgstr "8"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:109
-#, no-wrap
-msgid "9"
-msgstr "9"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:110
-#, no-wrap
-msgid "10"
-msgstr "10"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:111
-#, no-wrap
-msgid "11"
-msgstr "11"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:112
-#, no-wrap
-msgid "12"
-msgstr "12"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:113
-#, no-wrap
-msgid "13"
-msgstr "13"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:114
-#, no-wrap
-msgid "14"
-msgstr "14"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:116
-#, no-wrap
-msgid "15"
-msgstr "15"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:117
-#, no-wrap
-msgid "16"
-msgstr "16"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:118
-#, no-wrap
-msgid "17"
-msgstr "17"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:119
-#, no-wrap
-msgid "18"
-msgstr "18"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:120
-#, no-wrap
-msgid "19"
-msgstr "19"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:121
-#, no-wrap
-msgid "20"
-msgstr "20"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:122
-#, no-wrap
-msgid "21"
-msgstr "21"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:124
-#, no-wrap
-msgid "22"
-msgstr "22"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:125
-#, no-wrap
-msgid "23"
-msgstr "23"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:126
-#, no-wrap
-msgid "24"
-msgstr "24"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:127
-#, no-wrap
-msgid "25"
-msgstr "25"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:128
-#, no-wrap
-msgid "26"
-msgstr "26"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:129
-#, no-wrap
-msgid "27"
-msgstr "27"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:130
-#, no-wrap
-msgid "28"
-msgstr "28"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:132
-#, no-wrap
-msgid "29"
-msgstr "29"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:133
-#, no-wrap
-msgid "30"
-msgstr "30"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:134
-#, no-wrap
-msgid "31"
-msgstr "31"
 
 #. (itstool) path: credit/name
 #: C/gs-use-system-search.page:14
@@ -2206,12 +1811,12 @@ msgstr "검색 결과 편집하기"
 #. (itstool) path: note/p
 #: C/gs-use-system-search.page:83
 msgid ""
-"GNOME lets you customize what you want to display in the search results in "
-"the <gui>Activities Overview</gui>. For example, you can choose whether you "
-"want to show results for websites, photos, or music."
+"Your computer lets you customize what you want to display in the search "
+"results in the <gui>Activities Overview</gui>. For example, you can choose "
+"whether you want to show results for websites, photos, or music."
 msgstr ""
-"그놈에서는 <gui>현재 활동 요약</gui>에서 검색 결과에 보여줄 내용을 개별 지정"
-"할 수 있습니다. 예를 들어 어떤 웹사이트, 사진, 음악 검색 결과를 볼지 선택할 "
+"컴퓨터에서 <gui>현재 활동 요약</gui>에서 검색 결과에 나타낼 내용을 따로 지정"
+"할 수 있습니다. 예를 들어 어떤 웹사이트, 사진, 음악 검색 결과를 볼 지 선택할 "
 "수 있습니다."
 
 #. (itstool) path: steps/title
@@ -2227,11 +1832,11 @@ msgstr "왼쪽 창에서 <gui>검색</gui> 을 누르십시오."
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:96
 msgid ""
-"In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
-"the search location you want to enable or disable."
+"In the list of search locations, click the switch next to the search "
+"location you want to enable or disable."
 msgstr ""
-"검색 위치 목록에서 켜거나 끌 검색 위치 기능 옆에 있는 <gui>켬/끔</gui> 스위치"
-"를 누르십시오."
+"검색 위치 목록에서 켜거나 끌 검색 위치에 대해 각 항목 옆의 <gui>켬/끔</gui> "
+"스위치를 누르십시오."
 
 #. (itstool) path: info/title
 #: C/gs-use-windows-workspaces.page:15
@@ -2357,11 +1962,267 @@ msgstr "http://planet.gnome.org"
 msgid "http://gnome.org"
 msgstr "http://gnome.org"
 
+# 실제로 Firefox 브라우저의 아이콘 설명 이름은 번역이 안된 상태로 나옴.
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:218
+#, no-wrap
+msgid "Firefox"
+msgstr "Firefox"
+
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:275
 #, no-wrap
 msgid "planet.gnome.org"
 msgstr "planet.gnome.org"
+
+#~ msgid "Select the <gui>Date &amp; Time</gui> panel."
+#~ msgstr "<gui>날짜 및 시간</gui> 창을 선택하십시오."
+
+#~ msgid "ON"
+#~ msgstr "켬"
+
+#~ msgid "Add Account"
+#~ msgstr "계정 추가"
+
+#~ msgid "Add an online account"
+#~ msgstr "온라인 계정 추가"
+
+#~ msgid "ALLOW"
+#~ msgstr "허가"
+
+#~ msgid "CANCEL"
+#~ msgstr "취소"
+
+#~ msgid "7"
+#~ msgstr "7"
+
+#~ msgid "Chat"
+#~ msgstr "대화"
+
+#~ msgid "Documents"
+#~ msgstr "문서"
+
+#~ msgid "14∶30"
+#~ msgstr "14∶30"
+
+#~ msgid "Network Settings"
+#~ msgstr "네트워크 설정"
+
+#~ msgctxt "link:trail"
+#~ msgid "Respond to messages"
+#~ msgstr "메시지에 응답하기"
+
+#~ msgctxt "link:seealso"
+#~ msgid "A tutorial on responding to messages"
+#~ msgstr "메시지 응답 따라하기"
+
+#~ msgid "Respond to messages"
+#~ msgstr "메시지에 응답하기"
+
+#~ msgid ""
+#~ "Move your mouse over the chat message that appears near the top of the "
+#~ "screen."
+#~ msgstr "화면의 좌측 상단에 있는 대화 메시지에 마우스 포인터를 옮기십시오."
+
+#~ msgid ""
+#~ "Start typing your reply and when finished, press <key>Enter </key> to "
+#~ "send the reply."
+#~ msgstr ""
+#~ "답변 입력을 시작하고, 입력이 끝났으면 <key>Enter</key>키를 눌러 답변을 보"
+#~ "내십시오."
+
+#~ msgid "Close the chat message."
+#~ msgstr "대화 메시지를 닫으십시오."
+
+#~ msgid ""
+#~ "A chat message near the top of the screen disappears after a while if you "
+#~ "do not move your mouse over the message."
+#~ msgstr ""
+#~ "화면 상단의 대화 메시지는 메시지 표시줄로 마우스 커서를 올려놓지 않으면 "
+#~ "곧 사라집니다."
+
+#~ msgid ""
+#~ "To get back to your unanswered message, click the clock on the top bar."
+#~ msgstr "답변하지 않은 메시지로 돌아가려면, 상단 표시줄의 시계를 누르십시오."
+
+#~ msgid "From the notification list, choose your message."
+#~ msgstr "알림 목록에서 메시지를 선택하십시오."
+
+#~ msgid "Start typing your reply."
+#~ msgstr "답변 입력을 시작하십시오."
+
+#~ msgid ""
+#~ "To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
+#~ "keyboard-key-super\">Super</key> <key>V</key></keyseq>"
+#~ msgstr ""
+#~ "알림 목록을 표시하려면, <keyseq> <key href=\"help:gnome-help/keyboard-key-"
+#~ "super\">Super</key> <key>V</key></keyseq>키 조합을 누르십시오"
+
+#~ msgid ""
+#~ "Use the arrow keys to select the message you want to reply to, and press "
+#~ "<key>Enter</key>."
+#~ msgstr ""
+#~ "화살표 키를 눌러 답변할 메시지를 선택하시고 <key>Enter</key>키를 누르십시"
+#~ "오."
+
+#~ msgid "Respond to a chat message with the mouse"
+#~ msgstr "마우스로 대화 메시지 응답하기"
+
+#~ msgid ""
+#~ "Start typing your reply and when finished, press <key>Enter</key> to send "
+#~ "the reply."
+#~ msgstr ""
+#~ "답변 입력을 시작하고, 입력이 끝나면 <key>Enter</key>키를 입력하여 답변을 "
+#~ "보내십시오."
+
+#~ msgid ""
+#~ "To close the chat message, click the close button at the top right corner "
+#~ "of the chat message."
+#~ msgstr ""
+#~ "대화 메시지를 닫으려면, 대화 메시지 우측 상단에 있는 십자 표시 단추를 누르"
+#~ "십시오."
+
+#~ msgid "Delayed response to a chat message using the mouse"
+#~ msgstr "마우스를 사용하여 대화 메시지에 늦게 응답하기"
+
+#~ msgid ""
+#~ "When a chat message appears near the top of the screen and you do not "
+#~ "move your mouse over the message, it disappears after a while."
+#~ msgstr ""
+#~ "화면 상단에 대화 메시지가 뜰 때 메시지에 마우스 포인터를 올려놓지 않으면 "
+#~ "곧 사라집니다."
+
+#~ msgid ""
+#~ "From the notification list, choose the message you want to reply to, and "
+#~ "click it."
+#~ msgstr "알림 목록에서 답장할 메시지를 선택한 후 누르십시오."
+
+#~ msgid "When the chat message is shown, start typing your reply."
+#~ msgstr "대화 메시지가 나타나면 답변 입력을 시작하십시오."
+
+#~ msgid "Delayed response to a chat message using the keyboard"
+#~ msgstr "키보드를 사용하여 대화 메시지에 늦게 응답하기"
+
+#~ msgid ""
+#~ "To get back to your unanswered chat messages, press <keyseq> <key href="
+#~ "\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> "
+#~ "to display the list of unanswered notifications."
+#~ msgstr ""
+#~ "답변하지 않은 메시지로 돌아가려면 <keyseq> <key href=\"help:gnome-help/"
+#~ "keyboard-key-super\">Super</key><key>V</key> </keyseq>키 조합을 입력하여 "
+#~ "답변하지 않은 알림 목록을 표시하십시오."
+
+#~ msgid ""
+#~ "Use the arrow keys to select the notification you want to reply to, and "
+#~ "press <key>Enter</key>."
+#~ msgstr ""
+#~ "화살표 키를 눌러 답변할 알림을 선택하시고 <key>Enter</key>키를 누르십시오."
+
+#~ msgid "Music"
+#~ msgstr "음악"
+
+#~ msgid "OFF"
+#~ msgstr "끔"
+
+#~ msgid "Thanks f"
+#~ msgstr "도와ㅈ"
+
+#~ msgctxt "Sunday"
+#~ msgid "S"
+#~ msgstr "일"
+
+#~ msgid "M"
+#~ msgstr "월"
+
+#~ msgctxt "Tuesday"
+#~ msgid "T"
+#~ msgstr "화"
+
+#~ msgid "W"
+#~ msgstr "수"
+
+#~ msgctxt "Thursday"
+#~ msgid "T"
+#~ msgstr "목"
+
+#~ msgid "F"
+#~ msgstr "금"
+
+#~ msgctxt "Saturday"
+#~ msgid "S"
+#~ msgstr "토"
+
+#~ msgid "8"
+#~ msgstr "8"
+
+#~ msgid "9"
+#~ msgstr "9"
+
+#~ msgid "10"
+#~ msgstr "10"
+
+#~ msgid "11"
+#~ msgstr "11"
+
+#~ msgid "12"
+#~ msgstr "12"
+
+#~ msgid "13"
+#~ msgstr "13"
+
+#~ msgid "14"
+#~ msgstr "14"
+
+#~ msgid "15"
+#~ msgstr "15"
+
+#~ msgid "16"
+#~ msgstr "16"
+
+#~ msgid "17"
+#~ msgstr "17"
+
+#~ msgid "18"
+#~ msgstr "18"
+
+#~ msgid "19"
+#~ msgstr "19"
+
+#~ msgid "20"
+#~ msgstr "20"
+
+#~ msgid "21"
+#~ msgstr "21"
+
+#~ msgid "22"
+#~ msgstr "22"
+
+#~ msgid "23"
+#~ msgstr "23"
+
+#~ msgid "24"
+#~ msgstr "24"
+
+#~ msgid "25"
+#~ msgstr "25"
+
+#~ msgid "26"
+#~ msgstr "26"
+
+#~ msgid "27"
+#~ msgstr "27"
+
+#~ msgid "28"
+#~ msgstr "28"
+
+#~ msgid "29"
+#~ msgstr "29"
+
+#~ msgid "30"
+#~ msgstr "30"
+
+#~ msgid "31"
+#~ msgstr "31"
 
 #~ msgid ""
 #~ "If you have set up an online account before, you can add another online "
@@ -2371,20 +2232,8 @@ msgstr "planet.gnome.org"
 #~ "온라인 계정을 설정하기 전에, 창의 좌측 하단에 있는 <gui>+</gui> 단추를 눌"
 #~ "러 다른 온라인 계정을 추가할 수 있습니다."
 
-#~ msgid "SIGN UP"
-#~ msgstr "가입"
-
-#~ msgid "Grant Access"
-#~ msgstr "접근 허가"
-
-#~ msgid "Deny Access"
-#~ msgstr "접근 거부"
-
 #~ msgid "Planet Gnome"
 #~ msgstr "플래닛 그놈"
-
-#~ msgid "14:30"
-#~ msgstr "14:30"
 
 #~ msgid "Enabled"
 #~ msgstr "활성화"
