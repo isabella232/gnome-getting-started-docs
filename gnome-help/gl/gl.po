@@ -5,22 +5,22 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2019-08-04 17:47+0000\n"
-"PO-Revision-Date: 2019-08-26 11:29+0200\n"
-"Last-Translator: Fran Dieguez <frandieguez@gnome.org>\n"
+"POT-Creation-Date: 2019-09-20 08:19+0000\n"
+"PO-Revision-Date: 2019-12-27 16:17+0100\n"
+"Last-Translator: Fran Diéguez <frandieguez@gnome.org>\n"
 "Language-Team: Galician\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.4\n"
 "X-Project-Style: gnome\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Fran Diéguez <frandieguez@gnome.org>, 2013-2019."
+msgstr "Fran Diéguez <frandieguez@gnome.org>, 2013-2020."
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:10
@@ -49,14 +49,14 @@ msgstr "Comezando"
 #. (itstool) path: page/title
 #: C/getting-started.page:24 C/gs-launch-applications.page:22
 msgid "Launch applications"
-msgstr "Iniciar aplicativos"
+msgstr "Iniciar aplicacións"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
 #: C/getting-started.page:29 C/gs-animation.xml:4
 #: C/gs-launch-applications.page:30
 msgid "Launching Applications"
-msgstr "Iniciando aplicativos"
+msgstr "Iniciando aplicacións"
 
 #. (itstool) path: div/p
 #: C/getting-started.page:32 C/getting-started.page:153
@@ -71,12 +71,12 @@ msgstr ""
 #. (itstool) path: div/p
 #: C/getting-started.page:36 C/gs-launch-applications.page:37
 msgid "Click the <gui>Show Applications</gui> icon."
-msgstr "Prema na icona <gui>Mostrar aplicativos</gui>."
+msgstr "Prema na icona <gui>Mostrar aplicacións</gui>."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:39 C/gs-launch-applications.page:40
 msgid "Click the application you want to run, for example, Help."
-msgstr "Prema sobre o aplicativo que queira executar, por exemplo, «Axuda»."
+msgstr "Prema sobre a aplicación que queira executar, por exemplo, «Axuda»."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:43 C/gs-launch-applications.page:44
@@ -92,12 +92,12 @@ msgstr ""
 #. (itstool) path: div/p
 #: C/getting-started.page:48 C/gs-launch-applications.page:49
 msgid "Start typing the name of the application you want to launch."
-msgstr "Comece a escribir o nome do aplicativo que quere iniciar."
+msgstr "Comece a escribir o nome da aplicación que quere iniciar."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:52 C/gs-launch-applications.page:53
 msgid "Press <key>Enter</key> to launch the application."
-msgstr "Prema <key>Intro</key> para iniciar o aplicativo."
+msgstr "Prema <key>Intro</key> para iniciar a aplicación."
 
 #. (itstool) path: caption/desc
 #. (itstool) path: page/title
@@ -323,7 +323,7 @@ msgstr ""
 #. (itstool) path: div/p
 #: C/getting-started.page:196 C/gs-switch-tasks.page:76
 msgid "Start typing the name of the application you want to switch to."
-msgstr "Comece a escribir o nome do aplicativo ao que quere cambiar."
+msgstr "Comece a escribir o nome da aplicación ao que quere cambiar."
 
 #. (itstool) path: div/p
 #: C/getting-started.page:200 C/gs-switch-tasks.page:80
@@ -331,7 +331,7 @@ msgid ""
 "When the application appears as the first result, press <key> Enter</key> to "
 "switch to it."
 msgstr ""
-"Cando o aplicativo apareza como primeiro resultado, prema <key>Intro</key> "
+"Cando a aplicación apareza como primeiro resultado, prema <key>Intro</key> "
 "para cambiar a el."
 
 #. (itstool) path: caption/desc
@@ -1423,18 +1423,18 @@ msgstr "Seleccione unha rede"
 #: C/gs-launch-applications.page:16
 msgctxt "link:trail"
 msgid "Launch applications"
-msgstr "Iniciar aplicativos"
+msgstr "Iniciar aplicacións"
 
 #. (itstool) path: info/title
 #: C/gs-launch-applications.page:18
 msgctxt "link:seealso"
 msgid "A tutorial on launching applications"
-msgstr "Un titorial sobre como iniciando aplicativos"
+msgstr "Un titorial sobre como iniciando aplicacións"
 
 #. (itstool) path: section/title
 #: C/gs-launch-applications.page:61
 msgid "Launch applications with the mouse"
-msgstr "Iniciar aplicativos co rato"
+msgstr "Iniciar aplicacións co rato"
 
 #. (itstool) path: item/p
 #: C/gs-launch-applications.page:66
@@ -1442,7 +1442,7 @@ msgid ""
 "Click the <gui>Show Applications</gui> icon that is shown at the bottom of "
 "the bar on the left-hand side of the screen."
 msgstr ""
-"Prema sobre o elemento <gui>Mostrar aplicativos</gui> que se mostra na parte "
+"Prema sobre o elemento <gui>Mostrar aplicacións</gui> que se mostra na parte "
 "inferior da barra da parte esquerda da pantalla."
 
 #. (itstool) path: item/p
@@ -1451,13 +1451,13 @@ msgid ""
 "A list of applications is shown. Click the application you want to run, for "
 "example, Help."
 msgstr ""
-"Aparecerá a lista de aplicativos. Prema sobre o aplicativo que queira "
+"Aparecerá a lista de aplicacións. Prema sobre o aplicación que queira "
 "executar, por exemplo, «Axuda»."
 
 #. (itstool) path: section/title
 #: C/gs-launch-applications.page:75
 msgid "Launch applications with the keyboard"
-msgstr "Iniciar aplicativos co teclado"
+msgstr "Iniciar aplicacións co teclado"
 
 #. (itstool) path: item/p
 #: C/gs-launch-applications.page:78
@@ -1474,8 +1474,8 @@ msgid ""
 "Start typing the name of the application you want to launch. Searching for "
 "the application begins instantly."
 msgstr ""
-"Comece a escribir o nome do aplicativo que quere executar. A busca do "
-"aplicativo comezará instantaneamente."
+"Comece a escribir o nome da aplicación que quere executar. A busca da "
+"aplicación comezará instantaneamente."
 
 #. (itstool) path: item/p
 #: C/gs-launch-applications.page:82
@@ -1483,8 +1483,8 @@ msgid ""
 "Once the icon of the application is shown and selected, press <key> Enter</"
 "key> to launch the application."
 msgstr ""
-"En canto a icona do aplicativo se mostre e se seleccione, prema <key>Intro</"
-"key> para iniciar o aplicativo."
+"En canto a icona da aplicación se mostre e se seleccione, prema <key>Intro</"
+"key> para iniciar a aplicación."
 
 #. (itstool) path: p/link
 #: C/gs-legal.xml:3
@@ -1517,7 +1517,6 @@ msgstr "Contas"
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:172
 #, no-wrap
-#| msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 
@@ -1679,7 +1678,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gs-switch-tasks.page:151
 msgid "Use search to switch applications"
-msgstr "Usar a busca para trocar entre os aplicativos"
+msgstr "Usar a busca para trocar entre as aplicacións"
 
 #. (itstool) path: item/p
 #: C/gs-switch-tasks.page:154
@@ -1696,8 +1695,8 @@ msgid ""
 "Just start typing the name of the application you want to switch to. "
 "Applications matching what you have typed will appear as you type."
 msgstr ""
-"Simplemente comece a escribir o nome do aplicativo ao que quere cambiar. Os "
-"aplicativos que coincidan co que escribiu aparecerán mentres escriba."
+"Simplemente comece a escribir o nome da aplicación ao que quere cambiar. Os "
+"aplicacións que coincidan co que escribiu aparecerán mentres escriba."
 
 #. (itstool) path: item/p
 #: C/gs-switch-tasks.page:159
@@ -1705,7 +1704,7 @@ msgid ""
 "When the application that you want to switch to appears as the first result, "
 "press <key>Enter</key> to switch to it."
 msgstr ""
-"Cando o aplicativo ao que quere cambiar apareza como primeiro resultado, "
+"Cando a aplicación ao que quere cambiar apareza como primeiro resultado, "
 "prema <key>Intro</key> para cambiar a el."
 
 #. (itstool) path: credit/name
@@ -1764,7 +1763,7 @@ msgstr "Os elementos que poden aparecer nos resultados da busca inclúen:"
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:43
 msgid "matching applications, shown at the top of the search results,"
-msgstr "aplicativos que coincidan, mostrados na parte superior dos resultados,"
+msgstr "aplicacións que coincidan, mostradas na parte superior dos resultados,"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:45
@@ -1828,7 +1827,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gs-use-system-search.page:63
 msgid "Search from inside applications"
-msgstr "Busca desde dentro dos aplicativos"
+msgstr "Busca desde dentro das aplicacións"
 
 #. (itstool) path: section/p
 #: C/gs-use-system-search.page:65
@@ -1840,12 +1839,12 @@ msgid ""
 "matches are shown in the <gui>Activities Overview</gui>, searching from "
 "inside the application may give you better search results."
 msgstr ""
-"A busca dos sistemas agrega resultados desde varios aplicativos. Na parte "
-"esquerda dos resultados da busca, pode ver as iconas dos aplicativos que "
+"A busca dos sistemas agrega resultados desde varias aplicacións. Na parte "
+"esquerda dos resultados da busca, pode ver as iconas das aplicacións que "
 "fornecen os resultados de busca. Prema un dos elementos para reiniciar a "
-"busca desde dentro dos aplicativos asociados cunha icona. Xa que só se "
+"busca desde dentro das aplicacións asociados cunha icona. Xa que só se "
 "mostran as mellores coincidencias na <gui>Vista de Actividades</gui>, buscar "
-"desde dentro dos aplicativos pode darlle mellores resultados de buscas."
+"desde dentro das aplicacións pode darlle mellores resultados de buscas."
 
 #. (itstool) path: section/title
 #: C/gs-use-system-search.page:77
@@ -1973,7 +1972,7 @@ msgstr ""
 #: C/gs-web-browser1-firefox-classic.svg:118
 #, no-wrap
 msgid "Applications"
-msgstr "Aplicativos"
+msgstr "Aplicacións"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:147 C/gs-web-browser2.svg:153
@@ -2017,799 +2016,3 @@ msgstr "Firefox"
 #, no-wrap
 msgid "planet.gnome.org"
 msgstr "planet.gnome.org"
-
-#~ msgid "Select the <gui>Date &amp; Time</gui> panel."
-#~ msgstr "Seleccione no panel de <gui>Data e hora</gui>."
-
-#~ msgid "ON"
-#~ msgstr "❙"
-
-#~ msgid "Add Account"
-#~ msgstr "Engadir conta"
-
-#~ msgid "Add an online account"
-#~ msgstr "Engadir unha conta en liña"
-
-#~ msgid "ALLOW"
-#~ msgstr "PERMITIR"
-
-#~ msgid "CANCEL"
-#~ msgstr "CANCELAR"
-
-#~ msgid "7"
-#~ msgstr "7"
-
-#~ msgid "Chat"
-#~ msgstr "Conversas"
-
-#~ msgid "Documents"
-#~ msgstr "Documentos"
-
-#~ msgid "14∶30"
-#~ msgstr "14∶30"
-
-#~ msgid "Network Settings"
-#~ msgstr "Preferencias da rede"
-
-#~ msgctxt "link:trail"
-#~ msgid "Respond to messages"
-#~ msgstr "Responder unha mensaxe"
-
-#~ msgctxt "link:seealso"
-#~ msgid "A tutorial on responding to messages"
-#~ msgstr "Un totorial sobre como responder unha mensaxe"
-
-#~ msgid "Respond to messages"
-#~ msgstr "Responder unha mensaxe"
-
-#~ msgid ""
-#~ "Move your mouse over the chat message that appears near the top of the "
-#~ "screen."
-#~ msgstr ""
-#~ "Move o rato sobre a mensaxe de chat que aparece perto da parte superior "
-#~ "da pantalla."
-
-#~ msgid ""
-#~ "Start typing your reply and when finished, press <key>Enter </key> to "
-#~ "send the reply."
-#~ msgstr ""
-#~ "Comece a escribir a súa resposta e ao rematar prema <key>Intro</key> para "
-#~ "enviala."
-
-#~ msgid "Close the chat message."
-#~ msgstr "Peche a mensaxe de chat."
-
-#~ msgid ""
-#~ "A chat message near the top of the screen disappears after a while if you "
-#~ "do not move your mouse over the message."
-#~ msgstr ""
-#~ "Unha mensaxe de chat na parte superior da pantalal desaparece despois dun "
-#~ "tempo se non move o rato sobre a mensaxe."
-
-#~ msgid ""
-#~ "To get back to your unanswered message, click the clock on the top bar."
-#~ msgstr ""
-#~ "Para volver ao seu mensaxe sen resposta, prema no reloxo na barra "
-#~ "superior."
-
-#~ msgid "From the notification list, choose your message."
-#~ msgstr "Desde a lista de notificacións, seleccione a súa mensaxe."
-
-#~ msgid "Start typing your reply."
-#~ msgstr "Comece a escribir a súa resposta."
-
-#~ msgid ""
-#~ "To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
-#~ "keyboard-key-super\">Super</key> <key>V</key></keyseq>"
-#~ msgstr ""
-#~ "Para mostrar a lista de notificacións, prema <keyseq><key href=\"help:"
-#~ "gnome-help/keyboard-key-super\">Super</key><key>V</key></keyseq>"
-
-#~ msgid ""
-#~ "Use the arrow keys to select the message you want to reply to, and press "
-#~ "<key>Enter</key>."
-#~ msgstr ""
-#~ "Use as teclas de frecha para seleccionar a mensaxe que quere responder, e "
-#~ "prema <key>Intro</key>."
-
-#~ msgid "Respond to a chat message with the mouse"
-#~ msgstr "Responder unha mensaxe de texto co rato"
-
-#~ msgid ""
-#~ "Start typing your reply and when finished, press <key>Enter</key> to send "
-#~ "the reply."
-#~ msgstr ""
-#~ "Comece a escribir a súa resposta e ao rematar prema <key>Intro</key> para "
-#~ "enviala."
-
-#~ msgid ""
-#~ "To close the chat message, click the close button at the top right corner "
-#~ "of the chat message."
-#~ msgstr ""
-#~ "Para pechar unha conversa de chat, prema sobre o botón de pechar da parte "
-#~ "superior dereita da mensaxe de chat."
-
-#~ msgid "Delayed response to a chat message using the mouse"
-#~ msgstr "Resposta atrasada dunha mensaxe de chat usando o rato"
-
-#~ msgid ""
-#~ "When a chat message appears near the top of the screen and you do not "
-#~ "move your mouse over the message, it disappears after a while."
-#~ msgstr ""
-#~ "Cando unha mensaxe de chat aparece na parte superior da pantalla e non "
-#~ "move o rato sobre a mensaxe, a mensaxe desaparecerá logo dun intre."
-
-#~ msgid ""
-#~ "From the notification list, choose the message you want to reply to, and "
-#~ "click it."
-#~ msgstr ""
-#~ "Desde a lista de notificacións, seleccione a mensaxe que quere responder "
-#~ "e prema sobre ela."
-
-#~ msgid "When the chat message is shown, start typing your reply."
-#~ msgstr "Cando se mostre a mensaxe de chat comece a escribir a súa resposta."
-
-#~ msgid "Delayed response to a chat message using the keyboard"
-#~ msgstr "Atrasar unha resposta ao mensaxe de chat co rato"
-
-#~ msgid ""
-#~ "To get back to your unanswered chat messages, press <keyseq> <key href="
-#~ "\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> "
-#~ "to display the list of unanswered notifications."
-#~ msgstr ""
-#~ "Para volver ás mensaxes de chat non respondidas, prema <keyseq><key href="
-#~ "\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key></keyseq> "
-#~ "para mostrar a lista das notificacións sen resposta."
-
-#~ msgid ""
-#~ "Use the arrow keys to select the notification you want to reply to, and "
-#~ "press <key>Enter</key>."
-#~ msgstr ""
-#~ "Use as teclas de frecha para seleccionar a notificación que quere "
-#~ "responder, e prema <key>Intro</key>."
-
-#~ msgid "Music"
-#~ msgstr "Música"
-
-#~ msgid "OFF"
-#~ msgstr "○"
-
-#~ msgid "Thanks f"
-#~ msgstr "Grazas f"
-
-#~ msgctxt "Sunday"
-#~ msgid "S"
-#~ msgstr "D"
-
-#~ msgid "M"
-#~ msgstr "M"
-
-#~ msgctxt "Tuesday"
-#~ msgid "T"
-#~ msgstr "L"
-
-#~ msgid "W"
-#~ msgstr "X"
-
-#~ msgctxt "Thursday"
-#~ msgid "T"
-#~ msgstr "X"
-
-#~ msgid "F"
-#~ msgstr "V"
-
-#~ msgctxt "Saturday"
-#~ msgid "S"
-#~ msgstr "S"
-
-#~ msgid "8"
-#~ msgstr "8"
-
-#~ msgid "9"
-#~ msgstr "9"
-
-#~ msgid "10"
-#~ msgstr "10"
-
-#~ msgid "11"
-#~ msgstr "11"
-
-#~ msgid "12"
-#~ msgstr "12"
-
-#~ msgid "13"
-#~ msgstr "13"
-
-#~ msgid "14"
-#~ msgstr "14"
-
-#~ msgid "15"
-#~ msgstr "15"
-
-#~ msgid "16"
-#~ msgstr "16"
-
-#~ msgid "17"
-#~ msgstr "17"
-
-#~ msgid "18"
-#~ msgstr "18"
-
-#~ msgid "19"
-#~ msgstr "19"
-
-#~ msgid "20"
-#~ msgstr "20"
-
-#~ msgid "21"
-#~ msgstr "21"
-
-#~ msgid "22"
-#~ msgstr "22"
-
-#~ msgid "23"
-#~ msgstr "23"
-
-#~ msgid "24"
-#~ msgstr "24"
-
-#~ msgid "25"
-#~ msgstr "25"
-
-#~ msgid "26"
-#~ msgstr "26"
-
-#~ msgid "27"
-#~ msgstr "27"
-
-#~ msgid "28"
-#~ msgstr "28"
-
-#~ msgid "29"
-#~ msgstr "29"
-
-#~ msgid "30"
-#~ msgstr "30"
-
-#~ msgid "31"
-#~ msgstr "31"
-
-#~ msgid ""
-#~ "If you have set up an online account before, you can add another online "
-#~ "account by clicking the <gui>+</gui> button at the bottom left corner of "
-#~ "the window."
-#~ msgstr ""
-#~ "Se xa configurou unha conta en liña anteriormente, pode engadir outra "
-#~ "conta en liña máis premendo no botón <gui>+</gui> na esquina inferior "
-#~ "esquerda da xanela."
-
-#~ msgid "Planet Gnome"
-#~ msgstr "Planeta GNOME"
-
-#~ msgid ""
-#~ "Move your mouse to the message tray at the bottom of the screen and click "
-#~ "the chat message."
-#~ msgstr ""
-#~ "Mova o seu rato á bandexa de mensaxes na parte inferior da pantalla e "
-#~ "prema na mensaxe de chat."
-
-#~ msgid "Click the person who sent you the message."
-#~ msgstr "Prema na persoa que lle enviou o mensaxe."
-
-#~ msgid "Start typing your reply and when finished, press <key>Enter </key>."
-#~ msgstr ""
-#~ "Comece a escribir a súa resposta e ao rematar prema <key>Intro</key>."
-
-#~ msgid "Press <key>Esc</key> to close the chat message."
-#~ msgstr "Prema <key>Esc</key> para pechar a mensaxe de chat."
-
-#~ msgid "To dismiss the message tray, press <key>Esc</key>."
-#~ msgstr "Para omitir a bandexa de entrada, prema <key>Esc</key>."
-
-#~ msgid "Click the clock on the top bar."
-#~ msgstr "Prema no reloxo desde a barra superior."
-
-#~ msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
-#~ msgstr "Asegúrse que <gui>Fuso horario automático</gui> está desactivado."
-
-#~| msgid "Click the <gui>Select</gui> button."
-#~ msgid "Click <gui>Time Zone</gui>."
-#~ msgstr "Prema <gui>Fuso horario</gui>."
-
-#~ msgid "Click on your location on the map."
-#~ msgstr "Prema na localización do mapa."
-
-#~ msgid "Close the window."
-#~ msgstr "Pechar a xanela."
-
-#~| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
-#~ msgid ""
-#~ "Click the clock on the top bar and select the <gui>Date &amp; Time "
-#~ "Settings</gui> item."
-#~ msgstr ""
-#~ "Prema no reloxo na barra superior e seleccione <gui>Preferencias de data "
-#~ "e hora</gui>."
-
-#~| msgid ""
-#~| "Close the <gui>Background</gui> window by clicking the cross at the top-"
-#~| "right corner of the window."
-#~ msgid ""
-#~ "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-#~ "Settings</gui> window, and then close that window by clicking the cross "
-#~ "at the top-right corner of that window."
-#~ msgstr ""
-#~ "Prema o botón <gui>Pechar</gui> para volver á xanela <gui>Preferencias de "
-#~ "data e hora</gui> e logo peche a xanela premendo na cruz da esquina "
-#~ "superior dereita da xanela."
-
-#~ msgid ""
-#~ "Click the system menu on the right side of the top bar and press the "
-#~ "settings button at the bottom of the menu."
-#~ msgstr ""
-#~ "Prema o menú do sistema na parte dereita da barra superior e prema o "
-#~ "botón de preferencias na parte inferior do menú."
-
-#~ msgid "From the list of items, select <gui>Background</gui>."
-#~ msgstr ""
-#~ "Desde a lista de elementos, seleccione <gui>Fondo de pantalla</gui>."
-
-#~ msgid ""
-#~ "To connect to a Wi-Fi (wireless) network, click the status menu at the "
-#~ "top right of the screen, and then click <gui>Select Network</gui>."
-#~ msgstr ""
-#~ "Para conectarse a unha rede Wifi (sen fíos), prema no menú de estado na "
-#~ "parte superior dereita da xanela e logo oprema <gui>Seleccionar rede</"
-#~ "gui>."
-
-#~ msgid ""
-#~ "To get back to your unanswered message, move your mouse to the message "
-#~ "tray at the very bottom of the screen."
-#~ msgstr ""
-#~ "Para volver ao seu mensaxe sen resposta, mova o seu rato á bandexa de "
-#~ "mensaxes na parte inferior da pantalla."
-
-#~ msgid ""
-#~ "When the message tray appears, click a small image that represents the "
-#~ "person who sent you the message."
-#~ msgstr ""
-#~ "Cando a súa bandexa de mensaxes apareza, prema na pequena imaxe que "
-#~ "representa a persoa que lle enviou unha mensaxe."
-
-#~ msgid ""
-#~ "Use the arrow keys to select a small image representing the person you "
-#~ "want to reply to, and press <key>Enter</key>."
-#~ msgstr ""
-#~ "Use as frechas para seleccionar unha imaxe que representa a persoa á que "
-#~ "quere responder, e prema <key>Intro</key>."
-
-#~ msgid ""
-#~ "To dismiss the message tray, press <key>Esc</key> or <keyseq> <key href="
-#~ "\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>."
-#~ msgstr ""
-#~ "Para quitar a bandexa de entrada prema <key>Esc</key> ou <keyseq><key "
-#~ "href=\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key></"
-#~ "keyseq>."
-
-#~ msgid "Enabled"
-#~ msgstr "Activado"
-
-#~ msgid "From the list of items, select <gui>Search</gui>."
-#~ msgstr "Desde a lista de elementos, seleccione <gui>Busca</gui>."
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='figures/gnome-launching-applications.webm' "
-#~| "md5='074a675216f03881c0afb428d576eae3'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-launching-applications.webm' "
-#~ "md5='1182da390c28028167218c737619543d'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-launching-applications.webm' "
-#~ "md5='1182da390c28028167218c737619543d'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='figures/gnome-windows-and-workspaces.webm' "
-#~| "md5='53caf9578a37c07f8802c200d001064d'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-windows-and-workspaces.webm' "
-#~ "md5='399f502514acf244fd22ba774b1c812e'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-windows-and-workspaces.webm' "
-#~ "md5='399f502514acf244fd22ba774b1c812e'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='figures/gnome-task-switching.webm' "
-#~| "md5='bf6f8421e4064a71c05aadfb3c318e16'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-task-switching.webm' "
-#~ "md5='a8fa976828cf7f4b4eac7cad346c65c1'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-task-switching.webm' "
-#~ "md5='a8fa976828cf7f4b4eac7cad346c65c1'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='figures/gnome-responding-to-messages.webm' "
-#~| "md5='ac44de55fba93ce64551c90fd6d30804'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-responding-to-messages.webm' "
-#~ "md5='f8522ebe4ac4e7be319217399122025a'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-responding-to-messages.webm' "
-#~ "md5='f8522ebe4ac4e7be319217399122025a'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser1-firefox.svg' "
-#~ "md5='f4958e0fad516473746fc14fbd0f4333'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser1-firefox.svg' "
-#~ "md5='f4958e0fad516473746fc14fbd0f4333'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser1-firefox-classic.svg' "
-#~ "md5='fe09a8fa520c0f337bade21f8a5d0377'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser1-firefox-classic.svg' "
-#~ "md5='fe09a8fa520c0f337bade21f8a5d0377'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-web-browser2-firefox.svg' "
-#~ "md5='d8f2a86ceef35a2e9a95fa54943ca76f'"
-#~ msgstr ""
-#~ "external ref='gs-web-browser2-firefox.svg' "
-#~ "md5='d8f2a86ceef35a2e9a95fa54943ca76f'"
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='figures/gnome-timezone.webm' "
-#~| "md5='c9e227f87b1cf1abf40e3a6e6c01d8e9'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-timezone.webm' "
-#~ "md5='a6eb6dd9f7ca9d428ff35aad8cbaab65'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-timezone.webm' "
-#~ "md5='a6eb6dd9f7ca9d428ff35aad8cbaab65'"
-
-#~ msgid ""
-#~ "You can adjust the date and time by clicking on the arrows to choose the "
-#~ "hour, minute, and year."
-#~ msgstr ""
-#~ "Pode axustar a data e hora premendo sobre as frechas para escoller a "
-#~ "hora, minuto e ano."
-
-#~ msgid ""
-#~ "You may need to click the <gui>Unlock</gui> button and type the "
-#~ "administrator's password."
-#~ msgstr ""
-#~ "Posibelmente deba ter que premer o botón <gui>Desbloquear</gui> e "
-#~ "escribir o contrasinal de administrador"
-
-#~| msgid ""
-#~| "On the left-hand side of the window, you can adjust the date and time by "
-#~| "clicking on the arrows to choose the hour, minute, and year."
-#~ msgid ""
-#~ "On the right-hand side of the window, you can adjust the date and time by "
-#~ "clicking on the arrows to choose the hour, minute, and year."
-#~ msgstr ""
-#~ "Na parte dereita da xanela, pode axustar a data e hora premendo sobre as "
-#~ "frechas para seleccionar a hora, minuto e ano."
-
-#~ msgid ""
-#~ "Close the window by clicking the cross at the top-right corner of the "
-#~ "window."
-#~ msgstr ""
-#~ "Peche a xanela premendo a cruz na esquina superior dereita da xanela."
-
-#~| msgctxt "_"
-#~| msgid ""
-#~| "external ref='figures/gnome-change-wallpaper.webm' "
-#~| "md5='edf1a698f4da87db90f00b9b15897483'"
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='figures/gnome-change-wallpaper.webm' "
-#~ "md5='132412626662c3b2f5ba11dd6c418457'"
-#~ msgstr ""
-#~ "external ref='figures/gnome-change-wallpaper.webm' "
-#~ "md5='132412626662c3b2f5ba11dd6c418457'"
-
-#~ msgid "Click your name on the top bar and select <gui>Settings</gui>."
-#~ msgstr ""
-#~ "Prema sobre o nome da barra de enderezos e seleccione <gui>Preferencias</"
-#~ "gui>."
-
-#~ msgid "Click the image of your current wallpaper."
-#~ msgstr "Prema na imaxe do seu fondo de escritorio actual."
-
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
-#~ msgstr "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
-
-#~| msgctxt "_"
-#~| msgid "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa2.svg' md5='ad86f77f168496c15fe171a0b2a4e8d6'"
-#~ msgstr "external ref='gs-goa2.svg' md5='ad86f77f168496c15fe171a0b2a4e8d6'"
-
-#~| msgctxt "_"
-#~| msgid "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-#~ msgstr "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-
-#~| msgctxt "_"
-#~| msgid "external ref='gs-goa4.svg' md5='a857afac58493297c0a58e183ae43a8f'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa4.svg' md5='a9c13c95ff7a2d0d7b89a5f52735dee0'"
-#~ msgstr "external ref='gs-goa4.svg' md5='a9c13c95ff7a2d0d7b89a5f52735dee0'"
-
-#~| msgctxt "_"
-#~| msgid "external ref='gs-goa5.svg' md5='430864df0ecb1b87ee49315262044758'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa5.svg' md5='e570fa43b0ab4f854fc33de89721d44d'"
-#~ msgstr "external ref='gs-goa5.svg' md5='e570fa43b0ab4f854fc33de89721d44d'"
-
-#~ msgid "Click your name on the top bar."
-#~ msgstr "Prema sobre o seu nome na barra superior."
-
-#~ msgid "Select the <gui>Settings</gui> item."
-#~ msgstr "Seleccione o elemento <gui>Preferencias</gui>."
-
-#~ msgid "Click on the <gui>Add an online account</gui> button."
-#~ msgstr "Prema sobre o botón <gui>Engadir unha conta en liña</gui>."
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-go-online1.svg' md5='5e1aa458f42d9a534678ac2196cf84a2'"
-#~ msgstr ""
-#~ "external ref='gs-go-online1.svg' md5='5e1aa458f42d9a534678ac2196cf84a2'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
-#~ msgstr ""
-#~ "external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
-#~ msgstr ""
-#~ "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
-
-#~ msgid ""
-#~ "Click the network connection icon to show more details about the status "
-#~ "of your network connection."
-#~ msgstr ""
-#~ "Prema na icona de conexión de rede para mostrar máis información sobre o "
-#~ "estado da súa conexión a internet."
-
-#~ msgid "Connect to other types of networks"
-#~ msgstr "Conectarse a outros tipos de redes"
-
-#~ msgid ""
-#~ "There are various types of network connections that you can use with your "
-#~ "computer, for example, mobile broadband, or wireless networks."
-#~ msgstr ""
-#~ "Hai varios tipos de conexións de rede que pode usar co seu computador, "
-#~ "por exemplo, conexión de banda larga móbil, ou redes sen fíos."
-
-#~ msgid ""
-#~ "Depending on your computer hardware and the networks availability, you "
-#~ "can choose other connection types by clicking the network connection icon "
-#~ "on the right-hand side of the top bar and selecting the network "
-#~ "connection you want to connect to."
-#~ msgstr ""
-#~ "Dependendo do seu soporte físico do seu computador e da dispoñibilidade "
-#~ "das redes, pode seleccionar outros tipos de conexión premendo na icona de "
-#~ "conexión de rede na parte dereita da barra superior e seleccionando a "
-#~ "conexión de rede á que desexa conectarse."
-
-#~ msgid "Wired"
-#~ msgstr "Con fíos"
-
-#~ msgid "Cable unplugged"
-#~ msgstr "Cable desconectado"
-
-#~ msgid "Mobile broadband"
-#~ msgstr "Banda larga móbil"
-
-#~ msgid "Weak"
-#~ msgstr "Débil"
-
-#~ msgctxt "_"
-#~ msgid "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
-#~ msgstr ""
-#~ "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
-
-#~ msgctxt "_"
-#~ msgid "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
-#~ msgstr ""
-#~ "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='gs-search-settings.svg' "
-#~ "md5='448b4f7f7881d9e26bdf215515fe014e'"
-#~ msgstr ""
-#~ "external ref='gs-search-settings.svg' "
-#~ "md5='448b4f7f7881d9e26bdf215515fe014e'"
-
-#~ msgid ""
-#~ "Start typing to search. Results matching what you have typed will appear "
-#~ "as you type."
-#~ msgstr ""
-#~ "Comece a escribir para buscar. Os resultados que coincidan co que "
-#~ "escribiu aparecerán mentres escribe."
-
-#~ msgid "Switch Tasks"
-#~ msgstr "Cambiar entre tarefas"
-
-#~| msgctxt "_"
-#~| msgid "external ref='goa2.svg' md5='0786fcd237df1588330b4489d7dedda6'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
-#~ msgstr "external ref='gs-goa2.svg' md5='67c81af05922384dcd9e87d1b696a7b6'"
-
-#~| msgctxt "_"
-#~| msgid "external ref='goa1.svg' md5='8ef41c145b785f18c42b43af2a261ee1'"
-#~ msgctxt "_"
-#~ msgid "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
-#~ msgstr "external ref='gs-goa3.svg' md5='7dc77c0245429178fd91f310f69e6316'"
-
-#~ msgid ""
-#~ "To cycle through the list of open windows, do not release <key xref="
-#~ "\"keyboard-key-super\">Super</key> but hold it down, and press <key> Tab</"
-#~ "key>."
-#~ msgstr ""
-#~ "Para moverse pola lista de xanelas abertas, prema e manteña a tecla <key "
-#~ "xref=\"keyboard-key-super\">Super</key> e logo prema <key>Tab</key>. "
-
-#~ msgid "Types of results"
-#~ msgstr "Tipos de resultados"
-
-#~ msgid ""
-#~ "System search aggregates results from various applications. The first "
-#~ "group of results are application launchers. Activating a launcher will "
-#~ "start an application."
-#~ msgstr ""
-#~ "A busca do sistema agrega resultados de varios aplicativos. O primeiro "
-#~ "grupo de resultados son os iniciadores de aplicativos. Ao activar un "
-#~ "iniciador pode iniciar un aplicativo."
-
-#~ msgid ""
-#~ "Other types of results might include <app>settings</app>, <app>contacts</"
-#~ "app> or <app>documents</app>. Each type of result is preceded with an "
-#~ "icon of the application that provided the result (apart from the "
-#~ "application launchers at the top). Only the best matches are presented in "
-#~ "the overview, so if you want more scope for your search, you can click or "
-#~ "use the arrow keys to navigate to the application icon on the left to "
-#~ "take you to the application itself. As soon as the associated application "
-#~ "starts, your performed query will be performed in the application."
-#~ msgstr ""
-#~ "Hai outros tipos de resultados que se poden incluír como "
-#~ "<app>preferencias</app>, <app>contactos</app> ou <app>documentos</app>. "
-#~ "Cada tipo de resultado está encabezado pola icona do aplicativo que "
-#~ "forneceu o resultado (sen contar cos iniciadores de aplicativos que "
-#~ "aparecen na parte superior). Só os mellores resultados aparecerán na "
-#~ "vista xeral, se quere engadir máis ámbito á súa busca, pode premer ou "
-#~ "usar as frechas para navegar á icona do aplicativo na parte esquerda para "
-#~ "levarlle ao aplicativo en si mesmo. Tan pronto como o aplicativo asociado "
-#~ "inicie, a súa consulta levarase a cabo desde dentro de dito aplicativo."
-
-#~ msgid ""
-#~ "To move to a workspace which is below the current workspace, press "
-#~ "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Down</key> "
-#~ "</keyseq>."
-#~ msgstr ""
-#~ "Para moverse ao espazo de traballo que está embaixo do actual, prema "
-#~ "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Avanzar páxina</"
-#~ "key> </keyseq>."
-
-#~ msgid ""
-#~ "To move to a workspace which is above the current workspace, press "
-#~ "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Up</key> </"
-#~ "keyseq>."
-#~ msgstr ""
-#~ "Para moverse ao espazo de traballo que está enriba do actual, prema "
-#~ "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>Páxina anterior</"
-#~ "key> </keyseq>."
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='thumb-timezone.svg' md5='42ffa67597e33e89eb5d7e31eed50e9e'"
-#~ msgstr ""
-#~ "external ref='thumb-timezone.svg' md5='42ffa67597e33e89eb5d7e31eed50e9e'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='thumb-changing-wallpaper.svg' "
-#~ "md5='763775a32c0e5861c71ef54fdcb24a53'"
-#~ msgstr ""
-#~ "external ref='thumb-changing-wallpaper.svg' "
-#~ "md5='763775a32c0e5861c71ef54fdcb24a53'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='thumb-launching-apps.svg' "
-#~ "md5='7b9941a22fe51067153ca05089d4b6a1'"
-#~ msgstr ""
-#~ "external ref='thumb-launching-apps.svg' "
-#~ "md5='7b9941a22fe51067153ca05089d4b6a1'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='thumb-windows-and-workspaces.svg' "
-#~ "md5='2d0f1a522ee5edf60bd5f5fc7b7da254'"
-#~ msgstr ""
-#~ "external ref='thumb-windows-and-workspaces.svg' "
-#~ "md5='2d0f1a522ee5edf60bd5f5fc7b7da254'"
-
-#~ msgctxt "_"
-#~ msgid "external ref='goa3.svg' md5='e4ae879bb449d9846d061c96b9070a9d'"
-#~ msgstr "external ref='goa3.svg' md5='e4ae879bb449d9846d061c96b9070a9d'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='thumb-responding-to-messages.svg' "
-#~ "md5='09b2f4d5c62b225fc26e03cfd5369bfb'"
-#~ msgstr ""
-#~ "external ref='thumb-responding-to-messages.svg' "
-#~ "md5='09b2f4d5c62b225fc26e03cfd5369bfb'"
-
-#~ msgctxt "_"
-#~ msgid ""
-#~ "external ref='thumb-task-switching.svg' "
-#~ "md5='40c644a7f373bca4ce0234bb44ac18b8'"
-#~ msgstr ""
-#~ "external ref='thumb-task-switching.svg' "
-#~ "md5='40c644a7f373bca4ce0234bb44ac18b8'"
-
-#~ msgid "Learn More"
-#~ msgstr "Aprender máis"
-
-#~ msgctxt "_"
-#~ msgid "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
-#~ msgstr "external ref='goa3.svg' md5='14a0f5509fb5e153c275d2dd0f578888'"
-
-#~ msgid "Getting Started with GNOME"
-#~ msgstr "Comezar con GNOME"
-
-#~ msgctxt "link:trail"
-#~ msgid "Get additional applications"
-#~ msgstr "Obter aplicativos adicionais"
-
-#~ msgid "Get additional applications"
-#~ msgstr "Obter aplicativos adicionais"
-
-#~ msgid "Stay tuned..."
-#~ msgstr "Mantéñase atento…"
