@@ -5,7 +5,6 @@ HELP_ID = gnome-help
 HELP_LINGUAS = as ca cs da de el eo es fa fi fr gl gu he hi hr hu id it ja kn ko lt lv mr nl pa pl pt pt_BR ro ru sk sr sr@latin sv ta te zh_HK zh_TW
 
 HELP_MEDIA = \
-	figures/gnome-change-wallpaper.webm \
 	figures/gnome-launching-applications.webm \
 	figures/gnome-task-switching.webm \
 	figures/gnome-windows-and-workspaces.webm
@@ -35,7 +34,6 @@ HELP_FILES = \
 	gs-search2.svg \
 	gs-search-settings.svg \
 	gs-switch-tasks.page \
-	gs-thumb-changing-wallpaper.svg \
 	gs-thumb-launching-apps.svg \
 	gs-thumb-task-switching.svg \
 	gs-thumb-windows-and-workspaces.svg \

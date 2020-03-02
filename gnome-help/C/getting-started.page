@@ -57,85 +57,6 @@
   </ui:overlay>
 
 </if:when>
-<if:when test="platform:gnome-classic">
-
-  <ui:overlay width="235" height="145">
-  <media type="video" its:translate="no" src="figures/gnome-windows-and-workspaces.webm" width="700" height="394">
-    <ui:thumb type="image" mime="image/svg" src="gs-thumb-windows-and-workspaces.svg">
-          <ui:caption its:translate="yes"><desc style="center">Use windows and workspaces</desc></ui:caption>
-    </ui:thumb>
-      <tt:tt its:translate="yes" xmlns:tt="http://www.w3.org/ns/ttml">
-       <tt:body>
-         <tt:div begin="1s" end="5s">
-           <tt:p>Windows and Workspaces</tt:p>
-         </tt:div>
-         <tt:div begin="6s" end="10s">
-           <tt:p>To maximize a window, grab the window’s titlebar and drag it to
-            the top of the screen.</tt:p>
-           </tt:div>
-         <tt:div begin="10s" end="13s">
-           <tt:p>When the screen is highlighted, release the window.</tt:p>
-         </tt:div>
-         <tt:div begin="14s" end="20s">
-           <tt:p>To unmaximize a window, grab the window’s titlebar and drag it
-            away from the edges of the screen.</tt:p>
-         </tt:div>
-         <tt:div begin="25s" end="29s">
-           <tt:p>You can also click the top bar to drag the window away and
-            unmaximize it.</tt:p>
-         </tt:div>
-         <tt:div begin="34s" end="38s">
-           <tt:p>To maximize a window along the left side of the screen, grab
-            the window’s titlebar and drag it to the left.</tt:p>
-         </tt:div>
-         <tt:div begin="38s" end="40s">
-           <tt:p>When half of the screen is highlighted, release the window.
-           </tt:p>
-         </tt:div>
-         <tt:div begin="41s" end="44s">
-           <tt:p>To maximize a window along the right side of the screen, grab
-            the window’s titlebar and drag it to the right.</tt:p>
-         </tt:div>
-         <tt:div begin="44s" end="48s">
-           <tt:p>When half of the screen is highlighted, release the window.
-           </tt:p>
-         </tt:div>
-         <tt:div begin="54s" end="60s">
-           <tt:p>To maximize a window using the keyboard, hold down the
-            <key href="help:gnome-help/keyboard-key-super">Super</key> key and
-            press <key>&#8593;</key>.</tt:p>
-         </tt:div>
-         <tt:div begin="61s" end="66s">
-           <tt:p>To restore the window to its unmaximized size, hold down the
-            <key href="help:gnome-help/keyboard-key-super">Super</key> key and
-            press <key>&#8595;</key>.</tt:p>
-         </tt:div>
-         <tt:div begin="66s" end="73s">
-           <tt:p>To maximize a window along the right side of the screen, hold
-            down the <key href="help:gnome-help/keyboard-key-super">Super</key>
-            key and press <key>&#8594;</key>.</tt:p>
-         </tt:div>
-         <tt:div begin="76s" end="82s">
-           <tt:p>To maximize a window along the left side of the screen, hold
-            down the <key href="help:gnome-help/keyboard-key-super">Super</key>
-            key and press <key>&#8592;</key>.</tt:p>
-         </tt:div>
-         <tt:div begin="83s" end="89s">
-           <tt:p>To move to a workspace which is below the current workspace,
-            press <keyseq><key href="help:gnome-help/keyboard-key-super">Super
-            </key><key>Page Down</key></keyseq>.</tt:p>
-         </tt:div>
-         <tt:div begin="90s" end="97s">
-           <tt:p>To move to a workspace which is above the current workspace,
-            press <keyseq><key href="help:gnome-help/keyboard-key-super">Super
-            </key><key>Page Up</key></keyseq>.</tt:p>
-         </tt:div>
-       </tt:body>
-     </tt:tt>
-  </media>
-  </ui:overlay>
-
-</if:when>
 </if:choose>
 
   <ui:overlay width="235" height="145">
@@ -205,9 +126,6 @@
   </media>
   </ui:overlay>
 
-<if:choose>
-<if:when test="!platform:gnome-classic">
-
   <ui:overlay width="235" height="145">
   <media type="video" its:translate="no" src="figures/gnome-windows-and-workspaces.webm" width="700" height="394">
     <ui:thumb type="image" mime="image/svg" src="gs-thumb-windows-and-workspaces.svg">
@@ -283,46 +201,6 @@
      </tt:tt>
   </media>
   </ui:overlay>
-
-</if:when>
-<if:when test="platform:gnome-classic">
-
-  <ui:overlay width="235" height="145">
-  <media type="video" its:translate="no" src="figures/gnome-change-wallpaper.webm" width="700" height="394">
-    <ui:thumb type="image" mime="image/svg" src="gs-thumb-changing-wallpaper.svg">
-      <ui:caption its:translate="yes"><desc style="center">Change wallpaper</desc></ui:caption>
-    </ui:thumb>
-      <tt:tt its:translate="yes" xmlns:tt="http://www.w3.org/ns/ttml">
-       <tt:body>
-         <tt:div begin="1s" end="5s">
-           <tt:p>Changing Wallpaper</tt:p>
-         </tt:div>
-         <tt:div begin="6s" end="9s">
-           <tt:p>Click the system menu on the right side of the top bar and press
-           the settings button.</tt:p>
-           </tt:div>
-         <tt:div begin="10s" end="12s">
-           <tt:p>Select <gui>Background</gui>.</tt:p>
-         </tt:div>
-         <tt:div begin="12s" end="13s">
-           <tt:p>Click the current background image.</tt:p>
-         </tt:div>
-         <tt:div begin="13s" end="16s">
-           <tt:p>Click the background image you want to use.</tt:p>
-         </tt:div>
-         <tt:div begin="16s" end="18s">
-           <tt:p>Click the <gui>Select</gui> button.</tt:p>
-         </tt:div>
-         <tt:div begin="18s" end="21s">
-           <tt:p>Close the <gui>Background</gui> window.</tt:p>
-         </tt:div>
-       </tt:body>
-     </tt:tt>
-  </media>
-  </ui:overlay>
-
-</if:when>
-</if:choose>
 
 <links type="topic" style="grid" groups="tasks">
 <title style="heading">Common tasks</title>
