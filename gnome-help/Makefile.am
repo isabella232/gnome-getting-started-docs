@@ -17,7 +17,6 @@ HELP_FILES = \
 	gs-animation.xml \
 	gs-browse-web.page \
 	gs-change-date-time-timezone.page \
-	gs-change-wallpaper.page \
 	gs-connect-online-accounts.page \
 	gs-datetime.svg \
 	gs-get-online.page \
