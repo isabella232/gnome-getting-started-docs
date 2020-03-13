@@ -9,34 +9,32 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2019-03-06 19:10+0000\n"
-"PO-Revision-Date: 2019-03-11 17:54+0200\n"
-"Last-Translator: Aurimas Černius <aurisc4@gmail.com>\n"
+"POT-Creation-Date: 2020-03-12 02:11+0000\n"
+"PO-Revision-Date: 2020-03-13 12:21+0200\n"
+"Last-Translator: Mantas Kriaučiūnas <baltix@gmail.com>\n"
 "Language-Team: Lietuvių <gnome-lt@lists.akl.lt>\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
-"%100<10 || n%100>=20) ? 1 : 2)\n"
-"X-Generator: Gtranslator 3.30.1\n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.3\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
 msgstr ""
-"Mantas Kriaučiūnas <mantas@akl.lt>, 2013-2017\n"
+"Mantas Kriaučiūnas <mantas@akl.lt>, 2013-2020\n"
 "Eglė Kriaučiūnienė <egle@valdorfas.org>, 2013"
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:10
 msgid "New to GNOME? Learn how to get around."
-msgstr "Nežinote GNOME aplinkos? Išmokite naudotis dabar."
+msgstr "Nežinote GNOME darbalaukio sąsajos? Išmokite naudotis dabar."
 
 #. (itstool) path: info/title
 #: C/getting-started.page:11
-#| msgctxt "link"
-#| msgid "Getting Started with GNOME"
 msgctxt "link"
 msgid "Getting started with GNOME"
 msgstr "Naudojimosi GNOME aplinka pradžia"
@@ -67,7 +65,7 @@ msgid "Launching Applications"
 msgstr "Programų paleidimas"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:32 C/getting-started.page:153
+#: C/getting-started.page:32 C/getting-started.page:74
 #: C/gs-launch-applications.page:33 C/gs-switch-tasks.page:33
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
@@ -108,66 +106,28 @@ msgstr "Paspauskite <key>Enter</key> ir programa pasileis."
 
 #. (itstool) path: caption/desc
 #. (itstool) path: page/title
-#: C/getting-started.page:65 C/getting-started.page:214
-#: C/gs-use-windows-workspaces.page:21
-msgid "Use windows and workspaces"
-msgstr "Darbas su langais ir darbo sritimis"
+#. (itstool) path: section/title
+#: C/getting-started.page:66 C/gs-switch-tasks.page:22
+#: C/gs-switch-tasks.page:89
+msgid "Switch tasks"
+msgstr "Perjungti veikiančias programas"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:70 C/getting-started.page:219 C/gs-animation.xml:10
-#: C/gs-use-windows-workspaces.page:29
-msgid "Windows and Workspaces"
-msgstr "Langai ir darbo sritys"
+#: C/getting-started.page:71 C/gs-animation.xml:8 C/gs-switch-tasks.page:30
+msgid "Switching Tasks"
+msgstr "Kaip persijungti iš vienos programos į kitą"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:73 C/getting-started.page:222
-#: C/gs-use-windows-workspaces.page:32
-#| msgid ""
-#| "To maximize a window, grab the window's titlebar and drag it to the top "
-#| "of the screen."
-msgid ""
-"To maximize a window, grab the window’s titlebar and drag it to the top of "
-"the screen."
-msgstr ""
-"Langą išdidinsite paspaudę ant jo antraštės juostos (viršaus) ir nutempę iki "
-"ekrano viršaus."
+#. (itstool) path: item/p
+#: C/getting-started.page:79 C/gs-switch-tasks.page:38
+#: C/gs-switch-tasks.page:98
+msgid "Click a window to switch to that task."
+msgstr "Spustelėkite ant lango norėdami pereiti į tą programą."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:77 C/getting-started.page:226
-#: C/gs-use-windows-workspaces.page:36
-msgid "When the screen is highlighted, release the window."
-msgstr "Kai ekrano fonas „apsišviečia“, atleiskite pelės klavišą."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:80 C/getting-started.page:229
-#: C/gs-use-windows-workspaces.page:39
-#| msgid ""
-#| "To unmaximize a window, grab the window's titlebar and drag it away from "
-#| "the edges of the screen."
-msgid ""
-"To unmaximize a window, grab the window’s titlebar and drag it away from the "
-"edges of the screen."
-msgstr ""
-"Lango dydį atstatysite paspaudę ant jo antraštės juostos (viršaus) ir "
-"nutempę jį nuo ekrano kraštų."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:84 C/getting-started.page:233
-#: C/gs-use-windows-workspaces.page:43
-msgid ""
-"You can also click the top bar to drag the window away and unmaximize it."
-msgstr ""
-"Taipogi, norėdami atstatyti lango dydį, galite spustelėti ir tempti "
-"viršutinę ekrano juostą."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:88 C/getting-started.page:161
-#: C/getting-started.page:237 C/gs-switch-tasks.page:41
-#: C/gs-use-windows-workspaces.page:47
-#| msgid ""
-#| "To maximize a window along the left side of the screen, grab the window's "
-#| "titlebar and drag it to the left."
+#: C/getting-started.page:82 C/getting-started.page:155
+#: C/gs-switch-tasks.page:41 C/gs-use-windows-workspaces.page:47
 msgid ""
 "To maximize a window along the left side of the screen, grab the window’s "
 "titlebar and drag it to the left."
@@ -176,127 +136,15 @@ msgstr ""
 "ir nutempus jį į kairę pusę."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:92 C/getting-started.page:100
-#: C/getting-started.page:165 C/getting-started.page:173
-#: C/getting-started.page:241 C/getting-started.page:249
+#: C/getting-started.page:86 C/getting-started.page:94
+#: C/getting-started.page:159 C/getting-started.page:167
 #: C/gs-switch-tasks.page:45 C/gs-switch-tasks.page:53
 #: C/gs-use-windows-workspaces.page:51 C/gs-use-windows-workspaces.page:59
 msgid "When half of the screen is highlighted, release the window."
 msgstr "Kai ekrano pusė „apsišviečia“, atleiskite pelės klavišą."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:96 C/getting-started.page:245
-#: C/gs-use-windows-workspaces.page:55
-#| msgid ""
-#| "To maximize a window along the right side of the screen, grab the "
-#| "window's titlebar and drag it to the right."
-msgid ""
-"To maximize a window along the right side of the screen, grab the window’s "
-"titlebar and drag it to the right."
-msgstr ""
-"Langą išdidinti dešinėje ekrano pusėje galima paspaudus ant antraštės "
-"juostos ir nutempus į dešinę pusę."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:104 C/getting-started.page:253
-#: C/gs-use-windows-workspaces.page:63 C/gs-use-windows-workspaces.page:134
-msgid ""
-"To maximize a window using the keyboard, hold down the <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
-msgstr ""
-"Norėdami išdidinti langą klaviatūros pagalba, laikykite nuspaudę <key href="
-"\"help:gnome-help/keyboard-key-super\">Super(Windows)</key> klavišą ir "
-"paspauskite <key>↑</key>."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:109 C/getting-started.page:258
-#: C/gs-use-windows-workspaces.page:68
-msgid ""
-"To restore the window to its unmaximized size, hold down the <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
-"key>."
-msgstr ""
-"Norėdami atstatyti lango dydį, laikykite nuspaudę <key href=\"help:gnome-"
-"help/keyboard-key-super\">Super(Windows)</key> klavišą ir paspauskite "
-"<key>↓</key>."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:114 C/getting-started.page:263
-#: C/gs-use-windows-workspaces.page:73 C/gs-use-windows-workspaces.page:148
-msgid ""
-"To maximize a window along the right side of the screen, hold down the <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
-"<key>→</key>."
-msgstr ""
-"Langą išdidinsite dešinėje ekrano pusėje laikydami nuspaudę <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super(Windows)</key> klavišą spusteldami "
-"<key>→</key> klaviatūroje."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:119 C/getting-started.page:268
-#: C/gs-use-windows-workspaces.page:78 C/gs-use-windows-workspaces.page:151
-msgid ""
-"To maximize a window along the left side of the screen, hold down the <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
-"<key>←</key>."
-msgstr ""
-"Langą išdidinsite kairėje ekrano pusėje laikydami nuspaudę <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super(Windows)</key> klavišą spusteldami "
-"<key>←</key> klaviatūroje."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:124 C/getting-started.page:273
-#: C/gs-use-windows-workspaces.page:83
-msgid ""
-"To move to a workspace which is below the current workspace, press "
-"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
-"key><key>Page Down</key></keyseq>."
-msgstr ""
-"Norėdami pereiti į žemiau esantį darbalaukį, spauskite <keyseq><key href="
-"\"help:gnome-help/keyboard-key-super\">Super </key><key>Psl. Žemyn</key></"
-"keyseq>."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:129 C/getting-started.page:278
-#: C/gs-use-windows-workspaces.page:88
-msgid ""
-"To move to a workspace which is above the current workspace, press "
-"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
-"key><key>Page Up</key></keyseq>."
-msgstr ""
-"Norėdami pereiti į aukščiau esantį darbalaukį, spauskite <keyseq><key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>Psl. Aukštyn</key></"
-"keyseq>."
-
-#. (itstool) path: caption/desc
-#. (itstool) path: page/title
-#. (itstool) path: section/title
-#: C/getting-started.page:145 C/gs-switch-tasks.page:22
-#: C/gs-switch-tasks.page:89
-msgid "Switch tasks"
-msgstr "Perjungti veikiančias programas"
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:150 C/gs-animation.xml:8 C/gs-switch-tasks.page:30
-msgid "Switching Tasks"
-msgstr "Kaip persijungti iš vienos programos į kitą"
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:158 C/gs-switch-tasks.page:38
-#: C/gs-switch-tasks.page:98
-msgid "Click a window to switch to that task."
-msgstr "Spustelėkite ant lango norėdami pereiti į tą programą."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:169 C/gs-switch-tasks.page:49
-#| msgid ""
-#| "To maximize a window along the right side, grab the window's titlebar and "
-#| "drag it to the right."
+#: C/getting-started.page:90 C/gs-switch-tasks.page:49
 msgid ""
 "To maximize a window along the right side, grab the window’s titlebar and "
 "drag it to the right."
@@ -305,7 +153,7 @@ msgstr ""
 "juostos ir nutempus į dešinę pusę."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:177 C/gs-switch-tasks.page:57
+#: C/getting-started.page:98 C/gs-switch-tasks.page:57
 msgid ""
 "Press <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
 "key><key> Tab</key></keyseq> to show the <gui>window switcher</gui>."
@@ -315,7 +163,7 @@ msgstr ""
 "klavišus."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:182 C/gs-switch-tasks.page:62
+#: C/getting-started.page:103 C/gs-switch-tasks.page:62
 msgid ""
 "Release <key href=\"help:gnome-help/keyboard-key-super\">Super </key> to "
 "select the next highlighted window."
@@ -325,7 +173,7 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:187 C/gs-switch-tasks.page:67
+#: C/getting-started.page:108 C/gs-switch-tasks.page:67
 #: C/gs-switch-tasks.page:143
 msgid ""
 "To cycle through the list of open windows, do not release <key href=\"help:"
@@ -337,7 +185,7 @@ msgstr ""
 "<key>Tab</key>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:192 C/gs-switch-tasks.page:72
+#: C/getting-started.page:113 C/gs-switch-tasks.page:72
 msgid ""
 "Press the <key href=\"help:gnome-help/keyboard-key-super\">Super </key> key "
 "to show the <gui>Activities Overview</gui>."
@@ -346,12 +194,12 @@ msgstr ""
 "key> klavišą pamatysite <gui>Veiklų Apžvalgą</gui>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:196 C/gs-switch-tasks.page:76
+#: C/getting-started.page:117 C/gs-switch-tasks.page:76
 msgid "Start typing the name of the application you want to switch to."
 msgstr "Pradėkite rašyti pavadinimą programos, į kurią norite pereiti."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:200 C/gs-switch-tasks.page:80
+#: C/getting-started.page:121 C/gs-switch-tasks.page:80
 msgid ""
 "When the application appears as the first result, press <key> Enter</key> to "
 "switch to it."
@@ -360,59 +208,131 @@ msgstr ""
 "klavišą, kad persijungtumėte į ją."
 
 #. (itstool) path: caption/desc
-#: C/getting-started.page:293
-#| msgid "Change the wallpaper"
-msgid "Change wallpaper"
-msgstr "Pakeiskite darbastalio foną"
+#. (itstool) path: page/title
+#: C/getting-started.page:132 C/gs-use-windows-workspaces.page:21
+msgid "Use windows and workspaces"
+msgstr "Darbas su langais ir darbo sritimis"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:298 C/gs-animation.xml:6
-#: C/gs-change-wallpaper.page:28
-msgid "Changing Wallpaper"
-msgstr "Darbastalio fono keitimas"
+#: C/getting-started.page:137 C/gs-animation.xml:10
+#: C/gs-use-windows-workspaces.page:29
+msgid "Windows and Workspaces"
+msgstr "Langai ir darbo sritys"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:301 C/gs-change-wallpaper.page:31
+#: C/getting-started.page:140 C/gs-use-windows-workspaces.page:32
 msgid ""
-"Click the system menu on the right side of the top bar and press the "
-"settings button."
+"To maximize a window, grab the window’s titlebar and drag it to the top of "
+"the screen."
 msgstr ""
-"Spauskite ant sistemos meniu dešinėje viršutinės juostos pusėje ir "
-"paspauskite nustatymų mygtuką."
+"Langą išdidinsite paspaudę ant jo antraštės juostos (viršaus) ir nutempę iki "
+"ekrano viršaus."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:305 C/gs-change-wallpaper.page:35
-msgid "Select <gui>Background</gui>."
-msgstr "Pasirinkite <gui>Fonas</gui>."
+#: C/getting-started.page:144 C/gs-use-windows-workspaces.page:36
+msgid "When the screen is highlighted, release the window."
+msgstr "Kai ekrano fonas „apsišviečia“, atleiskite pelės klavišą."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:308 C/gs-change-wallpaper.page:38
-msgid "Click the current background image."
-msgstr "Spustelėkite ant dabartinio fono paveikslėlio."
+#: C/getting-started.page:147 C/gs-use-windows-workspaces.page:39
+msgid ""
+"To unmaximize a window, grab the window’s titlebar and drag it away from the "
+"edges of the screen."
+msgstr ""
+"Lango dydį atstatysite paspaudę ant jo antraštės juostos (viršaus) ir "
+"nutempę jį nuo ekrano kraštų."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:151 C/gs-use-windows-workspaces.page:43
+msgid ""
+"You can also click the top bar to drag the window away and unmaximize it."
+msgstr ""
+"Taipogi, norėdami atstatyti lango dydį, galite spustelėti ir tempti "
+"viršutinę ekrano juostą."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:163 C/gs-use-windows-workspaces.page:55
+msgid ""
+"To maximize a window along the right side of the screen, grab the window’s "
+"titlebar and drag it to the right."
+msgstr ""
+"Langą išdidinti dešinėje ekrano pusėje galima paspaudus ant antraštės "
+"juostos ir nutempus į dešinę pusę."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:311 C/gs-change-wallpaper.page:41
-#: C/gs-change-wallpaper.page:64
-msgid "Click the background image you want to use."
-msgstr "Spustelėkite ant norimo fono paveikslėlio."
+#: C/getting-started.page:171 C/gs-use-windows-workspaces.page:63
+#: C/gs-use-windows-workspaces.page:134
+msgid ""
+"To maximize a window using the keyboard, hold down the <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
+msgstr ""
+"Norėdami išdidinti langą klaviatūros pagalba, laikykite nuspaudę <key href="
+"\"help:gnome-help/keyboard-key-super\">Super(Windows)</key> klavišą ir "
+"paspauskite <key>↑</key>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:176 C/gs-use-windows-workspaces.page:68
+msgid ""
+"To restore the window to its unmaximized size, hold down the <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
+"key>."
+msgstr ""
+"Norėdami atstatyti lango dydį, laikykite nuspaudę <key href=\"help:gnome-"
+"help/keyboard-key-super\">Super(Windows)</key> klavišą ir paspauskite "
+"<key>↓</key>."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:314 C/gs-change-wallpaper.page:44
-#: C/gs-change-wallpaper.page:65
-msgid "Click the <gui>Select</gui> button."
-msgstr "Paspauskite mygtuką <gui>Pasirinkti</gui>."
+#: C/getting-started.page:181 C/gs-use-windows-workspaces.page:73
+#: C/gs-use-windows-workspaces.page:148
+msgid ""
+"To maximize a window along the right side of the screen, hold down the <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
+"<key>→</key>."
+msgstr ""
+"Langą išdidinsite dešinėje ekrano pusėje laikydami nuspaudę <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super(Windows)</key> klavišą spusteldami "
+"<key>→</key> klaviatūroje."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:317 C/gs-change-wallpaper.page:47
-msgid "Close the <gui>Background</gui> window."
-msgstr "Uždarykite <gui>Fono</gui> langą."
+#. (itstool) path: item/p
+#: C/getting-started.page:186 C/gs-use-windows-workspaces.page:78
+#: C/gs-use-windows-workspaces.page:151
+msgid ""
+"To maximize a window along the left side of the screen, hold down the <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
+"<key>←</key>."
+msgstr ""
+"Langą išdidinsite kairėje ekrano pusėje laikydami nuspaudę <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super(Windows)</key> klavišą spusteldami "
+"<key>←</key> klaviatūroje."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:191 C/gs-use-windows-workspaces.page:83
+msgid ""
+"To move to a workspace which is below the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Page Down</key></keyseq>."
+msgstr ""
+"Norėdami pereiti į žemiau esantį darbalaukį, spauskite <keyseq><key href="
+"\"help:gnome-help/keyboard-key-super\">Super </key><key>Psl. Žemyn</key></"
+"keyseq>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:196 C/gs-use-windows-workspaces.page:88
+msgid ""
+"To move to a workspace which is above the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Page Up</key></keyseq>."
+msgstr ""
+"Norėdami pereiti į aukščiau esantį darbalaukį, spauskite <keyseq><key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key><key>Psl. Aukštyn</key></"
+"keyseq>."
 
 #. (itstool) path: links/title
-#: C/getting-started.page:328
-#| msgid "Common Tasks"
+#: C/getting-started.page:206
 msgid "Common tasks"
 msgstr "Dažniausios užduotys"
 
@@ -422,14 +342,17 @@ msgid "Welcome"
 msgstr "Sveiki atvykę"
 
 #. (itstool) path: titles/t
-#. (itstool) path: div/p
-#: C/gs-animation.xml:7 C/gs-respond-messages.page:30
+#: C/gs-animation.xml:6
+msgid "Changing Wallpaper"
+msgstr "Darbalaukio fono keitimas"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:7
 msgid "Responding to Messages"
 msgstr "Atsakinėjimas į žinutes"
 
 #. (itstool) path: titles/t
-#. (itstool) path: div/p
-#: C/gs-animation.xml:9 C/gs-respond-messages.page:44
+#: C/gs-animation.xml:9
 msgid "Delayed Response"
 msgstr "Vėlesnis atsakymas"
 
@@ -470,12 +393,10 @@ msgstr "Dešinioji ekrano pusė"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
-#: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:198
-#: C/gs-search2.svg:154 C/gs-thumb-changing-wallpaper.svg:54
-#: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-responding-to-messages.svg:51
-#: C/gs-thumb-task-switching.svg:167 C/gs-thumb-timezone.svg:56
-#: C/gs-thumb-windows-and-workspaces.svg:104 C/gs-web-browser1-firefox.svg:122
-#: C/gs-web-browser1.svg:122
+#: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:94
+#: C/gs-search2.svg:110 C/gs-thumb-launching-apps.svg:204
+#: C/gs-thumb-task-switching.svg:167 C/gs-thumb-windows-and-workspaces.svg:104
+#: C/gs-web-browser1-firefox.svg:122 C/gs-web-browser1.svg:122
 #, no-wrap
 msgid "Activities"
 msgstr "Apžvalga"
@@ -528,13 +449,14 @@ msgstr "Pradėkite rašyti…"
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
 #: C/gs-animation.xml:33 C/gs-go-online1.svg:249
-#: C/gs-thumb-responding-to-messages.svg:89
 #, no-wrap
 msgid "John Doe"
 msgstr "Jonas draugelis"
 
 #. (itstool) path: titles/t
-#: C/gs-animation.xml:34
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:34 C/gs-goa2.svg:104 C/gs-search-settings.svg:76
+#, no-wrap
 msgid "Settings"
 msgstr "Nustatymai"
 
@@ -546,7 +468,7 @@ msgstr "Fonas"
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:36
 msgid "Wallpapers"
-msgstr "Darbastalio fonai"
+msgstr "Darbalaukio fonai"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:37
@@ -560,14 +482,11 @@ msgstr "Pasiruošę susitikimui?"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:39
-#| msgid "I'll be there in a sec..."
 msgid "I’ll be there in a sec…"
 msgstr "Aš būsiu po sekundėlės…"
 
 #. (itstool) path: titles/t
-#. (itstool) path: text/tspan
-#: C/gs-animation.xml:40 C/gs-thumb-responding-to-messages.svg:88
-#, no-wrap
+#: C/gs-animation.xml:40
 msgid "Good stuff, thanks again"
 msgstr "Puiki mintis, ačiū"
 
@@ -617,30 +536,26 @@ msgstr "Automatinė laiko juosta"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:53
-#| msgid "14 October 2013, 20:00"
 msgid "14 October 2013, 20∶00"
 msgstr "Spalio 14, 2013, 20:00"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:54
-#| msgid "14 October 2013, 14:00"
 msgid "14 October 2013, 14∶00"
 msgstr "Spalio 14, 2013, 14:00"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:9 C/gs-change-date-time-timezone.page:8
-#: C/gs-change-wallpaper.page:9 C/gs-connect-online-accounts.page:8
-#: C/gs-get-online.page:8 C/gs-launch-applications.page:9
-#: C/gs-respond-messages.page:9 C/gs-switch-tasks.page:10
+#: C/gs-connect-online-accounts.page:8 C/gs-get-online.page:8
+#: C/gs-launch-applications.page:9 C/gs-switch-tasks.page:10
 #: C/gs-use-system-search.page:8 C/gs-use-windows-workspaces.page:9
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:12 C/gs-change-date-time-timezone.page:11
-#: C/gs-change-wallpaper.page:12 C/gs-connect-online-accounts.page:11
-#: C/gs-get-online.page:11 C/gs-launch-applications.page:12
-#: C/gs-respond-messages.page:12 C/gs-switch-tasks.page:13
+#: C/gs-connect-online-accounts.page:11 C/gs-get-online.page:11
+#: C/gs-launch-applications.page:12 C/gs-switch-tasks.page:13
 #: C/gs-use-system-search.page:11 C/gs-use-windows-workspaces.page:12
 msgid "Petr Kovar"
 msgstr "Petr Kovar"
@@ -693,8 +608,8 @@ msgid ""
 "Select the <app>Firefox</app> browser icon from the bar on the left-hand "
 "side of the screen."
 msgstr ""
-"Pasirinkite <app>Firefox</app> interneto naršyklės piktogramą iš kairiojo "
-"ekrano šono juostos."
+"Pasirinkite <app>Firefox</app> interneto naršyklės piktogramą kairiajame "
+"ekrano šone."
 
 #. (itstool) path: note/p
 #: C/gs-browse-web.page:53
@@ -765,7 +680,7 @@ msgstr ""
 #: C/gs-browse-web.page:101
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
 msgstr ""
-"Išsirinkę norimą tinklalapį, paspauskite <key>Enter</key> ir nueisite į jį. "
+"Išsirinkę norimą tinklalapį, paspauskite <key>Enter</key> ir nueisite į jį."
 
 #. (itstool) path: info/title
 #: C/gs-change-date-time-timezone.page:14
@@ -780,14 +695,13 @@ msgid "A tutorial on changing the date, time and timezone"
 msgstr "Datos, laiko ir laiko juostos keitimo pamokos"
 
 #. (itstool) path: page/title
-#: C/gs-change-date-time-timezone.page:21
+#: C/gs-change-date-time-timezone.page:20
 msgid "Change the date, time and timezone"
 msgstr "Pakeiskite datą, laiką ir laiko juostą"
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:27 C/gs-change-wallpaper.page:58
-#: C/gs-connect-online-accounts.page:27 C/gs-get-online.page:62
-#: C/gs-use-system-search.page:92
+#: C/gs-change-date-time-timezone.page:26 C/gs-connect-online-accounts.page:27
+#: C/gs-get-online.page:62 C/gs-use-system-search.page:92
 msgid ""
 "Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
 "right side of the top bar."
@@ -796,18 +710,18 @@ msgstr ""
 "viršutinės juostos dešinėje."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:29 C/gs-change-wallpaper.page:60
-#: C/gs-connect-online-accounts.page:29 C/gs-use-system-search.page:94
-msgid "Click the settings button at the bottom left of the menu."
-msgstr "Paspauskite mygtuką „Nustatymai“ apatiniame kairiajame meniu kampe."
+#: C/gs-change-date-time-timezone.page:28 C/gs-connect-online-accounts.page:29
+#: C/gs-use-system-search.page:94
+msgid "Click <gui>Settings</gui>."
+msgstr "Paspauskite <gui>Nustatymai</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:30
-msgid "Select the <gui>Date &amp; Time</gui> panel."
-msgstr "Pasirinkite elementą <gui>Data ir Laikas</gui>."
+#: C/gs-change-date-time-timezone.page:35
+msgid "Select <gui>Date &amp; Time</gui> from the sidebar."
+msgstr "Pasirinkite elementą <gui>Data ir laikas</gui> kairiame šone."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:37
+#: C/gs-change-date-time-timezone.page:36
 msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
 "then click the <gui>Time Zone</gui> item below."
@@ -816,7 +730,7 @@ msgstr ""
 "ir tuomet paspauskite ant elemento <gui>Laiko juosta</gui> žemiau."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:39
+#: C/gs-change-date-time-timezone.page:38
 msgid ""
 "Click on your location on the world map. This selects your current city, "
 "which you can also search for in the search box above the map."
@@ -825,14 +739,16 @@ msgstr ""
 "taipogi jį matote ir galite pakeisti po žemėlapiu išsiskleidusiame sąraše."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:41
+#: C/gs-change-date-time-timezone.page:40
 msgid ""
-"Close the world map window to go back to the <gui>Date &amp; Time</gui>."
+"Close the world map window to go back to the <gui>Date &amp; Time</gui> "
+"panel."
 msgstr ""
-"Užverkite pasaulio žemėlapio langą ir grįžkite į <gui>Data ir Laikas</gui>."
+"Užverkite pasaulio žemėlapio langą - grįšite atgal į <gui>Data ir laikas</"
+"gui> nustatymus."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:43
+#: C/gs-change-date-time-timezone.page:42
 msgid ""
 "Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
 "off, and then click the <gui>Date &amp; Time</gui> item below to open the "
@@ -840,59 +756,18 @@ msgid ""
 "settings by clicking on the <gui>+</gui> or <gui>-</gui> buttons."
 msgstr ""
 "Įsitikinkite, kad elementas <gui>Automatinė data ir laikas</gui> yra "
-"išjungtas ir spauskite ant elemento <gui>Data ir Laikas</gui> žemiau bei "
-"atverkite langą <gui>Data ir Laikas</gui>. Ten galite koreguoti datos ir "
-"laiko nustatymus spausdami mygtukus <gui>+</gui> or <gui>-</gui>."
+"išjungtas ir spauskite ant elemento <gui>Data ir laikas</gui> žemiau - "
+"atsidarys langelis <gui>Data ir laikas</gui>. Jame galite keisti datą bei "
+"laiką spausdami mygtukus <gui>+</gui> or <gui>-</gui> ar įrašydami skaičių."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:48
+#: C/gs-change-date-time-timezone.page:47
 msgid ""
-"Close the window to go back to the <gui>Date &amp; Time</gui>, and then "
-"close the panel."
+"Close the window to go back to the <gui>Date &amp; Time</gui> panel, and "
+"then close the panel."
 msgstr ""
-"Užverkite langą ir grįžkite į <gui>Datą ir Laiką</gui>, tuomet užverkite "
-"skydelį."
-
-#. (itstool) path: info/title
-#: C/gs-change-wallpaper.page:15
-msgctxt "link:trail"
-msgid "Change the wallpaper"
-msgstr "Darbastalio fono keitimas"
-
-#. (itstool) path: info/title
-#: C/gs-change-wallpaper.page:17
-msgctxt "link:seealso"
-msgid "A tutorial on changing the wallpaper"
-msgstr "Darbastalio fono keitimo pamoka"
-
-#. (itstool) path: page/title
-#. (itstool) path: section/title
-#: C/gs-change-wallpaper.page:20 C/gs-change-wallpaper.page:55
-msgid "Change the wallpaper"
-msgstr "Pakeiskite darbastalio foną"
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:61
-msgid "Click the <gui>Background</gui> panel."
-msgstr "Spustelėkite ant <gui>Fonas</gui>."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:62
-msgid ""
-"Click the current background image on the left side of the <gui>Background</"
-"gui> window."
-msgstr ""
-"Paspauskite ant dabartinio darbastalio paveikslėlio <gui>Fono</gui> lango "
-"kairėje."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:66
-msgid ""
-"Close the <gui>Background</gui> window by clicking the cross at the top-"
-"right corner of the window."
-msgstr ""
-"Užverkite langą <gui>Fonas</gui> spustelėdami ant kryžiuko viršutiniame "
-"dešiniame lango kampe."
+"Užverkite langą - grįšite atgal į <gui>Data ir laikas</gui>, tuomet galite "
+"užverti ir nustatymų langą."
 
 #. (itstool) path: info/title
 #: C/gs-connect-online-accounts.page:14
@@ -913,9 +788,6 @@ msgstr "Prisijungti prie internetinių paskyrų"
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:36
-#| msgid ""
-#| "Click the <gui>Online Accounts</gui> panel, then click the <gui>Add an "
-#| "online account</gui> button."
 msgid ""
 "Click the <gui>Online Accounts</gui> panel, then click the online account "
 "service you want to use."
@@ -925,9 +797,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:39
-#| msgid ""
-#| "Click the online account you want to use. This will open a new window "
-#| "where you can sign in to your online account."
 msgid ""
 "This will open a new window where you can sign in to your online account."
 msgstr ""
@@ -945,15 +814,12 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:49
-#| msgid ""
-#| "For example, if you are connecting to your Google account, you will have "
-#| "to click the <gui>Grant Access</gui> button."
 msgid ""
 "For example, if you are connecting to your Google account, you will have to "
-"click the <gui>Allow</gui> button."
+"click the <gui>Grant Access</gui> button."
 msgstr ""
 "Pavyzdžiui, jei jungiatės prie savo Google paskyros, jums reikės spustelėti "
-"ant <gui>Allow</gui> mygtuko."
+"<gui>Leisti (Grant Access)</gui> mygtuką."
 
 #. (itstool) path: item/p
 #: C/gs-connect-online-accounts.page:57
@@ -968,13 +834,11 @@ msgstr ""
 "pusėje."
 
 #. (itstool) path: Work/format
-#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:178 C/gs-goa3.svg:48
-#: C/gs-goa4.svg:156 C/gs-goa5.svg:147 C/gs-go-online1.svg:230
-#: C/gs-go-online2.svg:265 C/gs-go-online3.svg:290 C/gs-search1.svg:97
-#: C/gs-search2.svg:133 C/gs-search-settings.svg:98
-#: C/gs-thumb-changing-wallpaper.svg:39 C/gs-thumb-launching-apps.svg:189
-#: C/gs-thumb-responding-to-messages.svg:36 C/gs-thumb-task-switching.svg:89
-#: C/gs-thumb-timezone.svg:41 C/gs-thumb-windows-and-workspaces.svg:89
+#: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:40 C/gs-goa4.svg:36
+#: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
+#: C/gs-go-online3.svg:290 C/gs-search1.svg:61 C/gs-search2.svg:91
+#: C/gs-search-settings.svg:58 C/gs-thumb-launching-apps.svg:189
+#: C/gs-thumb-task-switching.svg:89 C/gs-thumb-windows-and-workspaces.svg:89
 #: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
 #: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
 #: C/gs-web-browser2.svg:102
@@ -982,76 +846,71 @@ msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:60 C/gs-goa3.svg:60 C/gs-go-online3.svg:303
-#: C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
-#: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
+#: C/gs-datetime.svg:60 C/gs-goa2.svg:52 C/gs-web-browser2-firefox.svg:164
+#: C/gs-web-browser2.svg:165
 #, no-wrap
-msgid "4"
-msgstr "4"
+msgid "3"
+msgstr "3"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:78 C/gs-datetime.svg:112
+#: C/gs-datetime.svg:66 C/gs-datetime.svg:86 C/gs-datetime.svg:109
 #, no-wrap
 msgid "Date &amp; Time"
-msgstr "Data ir Laikas"
+msgstr "Data ir laikas"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:80
+#: C/gs-datetime.svg:68
 #, no-wrap
 msgid "Automatic Date &amp; Time"
-msgstr "Automatinė Data ir Laikas"
+msgstr "Automatinė Data ir laikas"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:81 C/gs-datetime.svg:96
+#: C/gs-datetime.svg:69 C/gs-datetime.svg:78
 #, no-wrap
 msgid "Requires internet access"
 msgstr "Reikia interneto ryšio"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:87 C/gs-datetime.svg:102 C/gs-goa5.svg:510
-#: C/gs-goa5.svg:521 C/gs-goa5.svg:532 C/gs-goa5.svg:543 C/gs-goa5.svg:554
-#: C/gs-search-settings.svg:133 C/gs-search-settings.svg:250
-#: C/gs-search-settings.svg:257 C/gs-search-settings.svg:264
-#, no-wrap
-msgid "ON"
-msgstr "Įjungta"
-
-#. (itstool) path: text/tspan
-#: C/gs-datetime.svg:95
+#: C/gs-datetime.svg:77
 #, no-wrap
 msgid "Automatic Time Zone"
 msgstr "Automatinė laiko juosta"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:113
+#: C/gs-datetime.svg:87
 #, no-wrap
-#| msgid "September 1st 2015, 9:51 AM"
-msgid "September 1st 2015, 9∶51 AM"
-msgstr "Spalio 1-a 2015, 9:51"
+msgid "September 1st 2015, 9:51 AM"
+msgstr "2020 kovo 11, 09:51"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:114
+#: C/gs-datetime.svg:88
 #, no-wrap
 msgid "Time Zone"
 msgstr "Laiko juosta"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:115
+#: C/gs-datetime.svg:89
 #, no-wrap
 msgid "EDT (New York, United States)"
 msgstr "EET (Vilnius, Lietuva)"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:119
+#: C/gs-datetime.svg:91
 #, no-wrap
 msgid "Time Format"
 msgstr "Laiko formatas"
 
 #. (itstool) path: text/tspan
-#: C/gs-datetime.svg:121
+#: C/gs-datetime.svg:93
 #, no-wrap
 msgid "24-hour"
 msgstr "24-ių valandų"
+
+#. (itstool) path: text/tspan
+#: C/gs-datetime.svg:95
+#, no-wrap
+msgid "Details"
+msgstr "Išsamiau"
 
 #. (itstool) path: info/title
 #: C/gs-get-online.page:14
@@ -1186,209 +1045,208 @@ msgstr ""
 
 #. (itstool) path: text/tspan
 #: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
-#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101 C/gs-thumb-timezone.svg:135
-#: C/gs-web-browser1-firefox-classic.svg:115 C/gs-web-browser1-firefox.svg:120
-#: C/gs-web-browser1.svg:120
+#: C/gs-search1.svg:73 C/gs-web-browser1-firefox-classic.svg:115
+#: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
 #, no-wrap
 msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-search2.svg:145
-#: C/gs-thumb-timezone.svg:102 C/gs-thumb-timezone.svg:136
+#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-search2.svg:103
 #: C/gs-web-browser1-firefox-classic.svg:137 C/gs-web-browser1-firefox.svg:153
 #: C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
 msgstr "2"
 
-#. (itstool) path: text/tspan
-#: C/gs-goa2.svg:228 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
-#: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
-#, no-wrap
-msgid "3"
-msgstr "3"
+#. (itstool) path: g/title
+#: C/gs-goa1.svg:94
+msgid "settings"
+msgstr "nustatymai"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:299 C/gs-goa3.svg:106
+#: C/gs-goa2.svg:69 C/gs-goa2.svg:97 C/gs-goa2.svg:114
 #, no-wrap
 msgid "Online Accounts"
 msgstr "Internetinės Paskyros"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:431
+#: C/gs-goa2.svg:88 C/gs-goa2.svg:136
 #, no-wrap
-#| msgid "Add an online account"
 msgid "Add an account"
 msgstr "Pridėti paskyrą"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa2.svg:469
+#: C/gs-goa2.svg:123 C/gs-goa2.svg:137
 #, no-wrap
-#| msgid "Connect to online accounts"
 msgid "Connect to your data in the cloud"
 msgstr "Prisijungti prie savo duomenų debesyje"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:63
+#: C/gs-goa4.svg:48 C/gs-go-online3.svg:303 C/gs-web-browser2-firefox.svg:113
+#: C/gs-web-browser2.svg:115
 #, no-wrap
-msgid "Add Account"
-msgstr "Pridėti paskyrą"
+msgid "4"
+msgstr "4"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa3.svg:65 C/gs-goa4.svg:592 C/gs-goa5.svg:317
-#, no-wrap
-msgid "Google"
-msgstr "Google"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:66 C/gs-goa4.svg:603
-#, no-wrap
-msgid "Facebook"
-msgstr "Facebook"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:67 C/gs-goa4.svg:614
-#, no-wrap
-msgid "Windows Live"
-msgstr "Windows Live"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:68 C/gs-goa4.svg:625
-#, no-wrap
-msgid "Microsoft Exchange"
-msgstr "Microsoft Exchange"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:69 C/gs-goa4.svg:636
-#, no-wrap
-msgid "Enterprise Login (Kerberos)"
-msgstr "Kompanijos prisijungimas (Kerberos)"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:108
-#, no-wrap
-msgid "Add an online account"
-msgstr "Pridėti internetinę paskyrą"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:193 C/gs-goa4.svg:407
+#: C/gs-goa4.svg:52 C/gs-goa4.svg:86
 #, no-wrap
 msgid "Google account"
 msgstr "Google paskyra"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:267 C/gs-thumb-timezone.svg:105
-#: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
+#: C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:338
 #, no-wrap
-msgid "5"
-msgstr "5"
+msgid "Cancel"
+msgstr "Atsisakyti"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:288
+#: C/gs-goa4.svg:69
+#, no-wrap
+msgid "SIGN UP"
+msgstr "REGISTRACIJA"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:70
 #, no-wrap
 msgid "Sign in"
 msgstr "Prisijungti"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:299
+#: C/gs-goa4.svg:71
 #, no-wrap
 msgid "Email"
 msgstr "El. paštas"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:319
+#: C/gs-goa4.svg:73
 #, no-wrap
 msgid "Password"
 msgstr "Slaptažodis"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:346
+#: C/gs-goa4.svg:76
 #, no-wrap
 msgid "Sign In"
 msgstr "Prisijungti"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:357 C/gs-goa5.svg:328
+#: C/gs-goa4.svg:77 C/gs-goa5.svg:70
 #, no-wrap
 msgid "john.doe@gmail.com"
 msgstr "jonas.draugelis@gmail.com"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:543 C/gs-thumb-timezone.svg:106
+#: C/gs-goa4.svg:103
+#, no-wrap
+msgid "Grant Access"
+msgstr "Patvirtinti prieigą"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:108
+#, no-wrap
+msgid "Deny Access"
+msgstr "Atmesti prieigą"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:119 C/gs-web-browser2-firefox.svg:259
+#: C/gs-web-browser2.svg:255
+#, no-wrap
+msgid "5"
+msgstr "5"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:123 C/gs-goa5.svg:69
+#, no-wrap
+msgid "Google"
+msgstr "Google"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:124
+#, no-wrap
+msgid "Facebook"
+msgstr "Facebook"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:125
+#, no-wrap
+msgid "Windows Live"
+msgstr "Windows Live"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:126
+#, no-wrap
+msgid "Microsoft Exchange"
+msgstr "Microsoft Exchange"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:127
+#, no-wrap
+msgid "Enterprise Login (Kerberos)"
+msgstr "Kompanijos prisijungimas (Kerberos)"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:60
 #, no-wrap
 msgid "6"
 msgstr "6"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa4.svg:564
-#, no-wrap
-msgid "ALLOW"
-msgstr "LEISTI"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa4.svg:575
-#, no-wrap
-msgid "CANCEL"
-msgstr "ATSISAKYTI"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:197 C/gs-thumb-timezone.svg:107
-#, no-wrap
-msgid "7"
-msgstr "7"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:269
-#, no-wrap
-#| msgid "Google account"
-msgid "Google Account"
-msgstr "Google paskyra"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa5.svg:339
+#: C/gs-goa5.svg:71
 #, no-wrap
 msgid "Use for"
 msgstr "Naudoti kam"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:350
+#: C/gs-goa5.svg:72
 #, no-wrap
 msgid "Mail"
 msgstr "Paštas"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:382
+#: C/gs-goa5.svg:73
 #, no-wrap
 msgid "Calendar"
 msgstr "Kalendorius"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:414 C/gs-search2.svg:293
+#: C/gs-goa5.svg:74 C/gs-search2.svg:214
 #, no-wrap
 msgid "Contacts"
 msgstr "Kontaktai"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:446
+#: C/gs-goa5.svg:75
 #, no-wrap
-msgid "Chat"
-msgstr "Pokalbiai"
+msgid "Photos"
+msgstr "Nuotraukos"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa5.svg:478
+#: C/gs-goa5.svg:76
 #, no-wrap
-msgid "Documents"
-msgstr "Dokumentai"
+msgid "Files"
+msgstr "Failai"
 
 #. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
-#: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
-#: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
-#: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
+#: C/gs-goa5.svg:91
 #, no-wrap
-msgid "14∶30"
-msgstr "14∶30"
+msgid "Printers"
+msgstr "Spausdintuvai"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:93
+#, no-wrap
+msgid "Remove Account"
+msgstr "Pašalinti paskyrą"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:250 C/gs-search1.svg:92 C/gs-search2.svg:108
+#: C/gs-thumb-launching-apps.svg:205 C/gs-thumb-task-switching.svg:168
+#: C/gs-thumb-windows-and-workspaces.svg:105
+#, no-wrap
+msgid "14:30"
+msgstr "14:30"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:328
@@ -1417,8 +1275,8 @@ msgstr "Išjungti"
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:340
 #, no-wrap
-msgid "Network Settings"
-msgstr "Tinklo Nustatymai"
+msgid "Wi-Fi Settings"
+msgstr "Belaidžio ryšio nustatymai"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:306
@@ -1461,12 +1319,6 @@ msgstr "privatus"
 #, no-wrap
 msgid "Select a network"
 msgstr "Pasirinkite tinklą"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:338
-#, no-wrap
-msgid "Cancel"
-msgstr "Atsisakyti"
 
 #. (itstool) path: info/title
 #: C/gs-launch-applications.page:16
@@ -1545,269 +1397,77 @@ msgstr "Creative Commons Attribution-ShareAlike 3.0 Unported Licencija"
 msgid "This work is licensed under a <_:link-1/>."
 msgstr "Šis darbas licencijuojamas pagal <_:link-1/>."
 
-#. (itstool) path: info/title
-#: C/gs-respond-messages.page:18
-msgctxt "link:trail"
-msgid "Respond to messages"
-msgstr "Atsakyti į žinutes"
-
-#. (itstool) path: info/title
-#: C/gs-respond-messages.page:19
-msgctxt "link:seealso"
-msgid "A tutorial on responding to messages"
-msgstr "Atsakymo į žinutes vadovas"
-
-#. (itstool) path: page/title
-#: C/gs-respond-messages.page:22
-msgid "Respond to messages"
-msgstr "Atsakymas į pranešimus"
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:33 C/gs-respond-messages.page:81
-msgid ""
-"Move your mouse over the chat message that appears near the top of the "
-"screen."
-msgstr ""
-"Nuveskite pelės žymeklį virš pokalbio žinutės, kuri pasirodo ekrano viršuje."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:37
-msgid ""
-"Start typing your reply and when finished, press <key>Enter </key> to send "
-"the reply."
-msgstr ""
-"Pradėkite atsakinėti ir kai pabaigsite, paspauskite <key>Enter </key> "
-"norėdami išsiųsti atsakymą."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:41
-msgid "Close the chat message."
-msgstr "Užverkite pokalbio žinutę."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:47
-msgid ""
-"A chat message near the top of the screen disappears after a while if you do "
-"not move your mouse over the message."
-msgstr ""
-"Pokalbio žinutė ekrano viršuje pranyksta po kurio laiko, jei neužvedate "
-"pelės žymiklio virš jos."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:51 C/gs-respond-messages.page:97
-msgid "To get back to your unanswered message, click the clock on the top bar."
-msgstr ""
-"Neatsakytas žinutes pamatysite spustelėję ant ekrano viršuje esančio "
-"laikrodžio."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:55
-msgid "From the notification list, choose your message."
-msgstr "Pasirinkite reikiamą žinutę iš pranešimų sąrašo"
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:58 C/gs-respond-messages.page:70
-msgid "Start typing your reply."
-msgstr "Pradėkite rašyti savo atsakymą."
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:61
-msgid ""
-"To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> <key>V</key></keyseq>"
-msgstr ""
-"Pranešimų sąrašą pamatysite paspaudę klaviatūroje <keyseq> <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super(Windows)</key> <key>V</key></keyseq>"
-
-#. (itstool) path: div/p
-#: C/gs-respond-messages.page:66
-msgid ""
-"Use the arrow keys to select the message you want to reply to, and press "
-"<key>Enter</key>."
-msgstr ""
-"Naudodami rodyklių klavišais pasirinkite žinutę, į kurią norite atsakyti ir "
-"paspauskite <key>Enter</key>."
-
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:78
-msgid "Respond to a chat message with the mouse"
-msgstr "Atsakyti į pokalbio žinutę su pele"
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:83
-msgid ""
-"Start typing your reply and when finished, press <key>Enter</key> to send "
-"the reply."
-msgstr ""
-"Rašykite savo atsakymą ir norėdami išsiųsti atsakymą paspauskite <key>Enter</"
-"key>."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:85
-msgid ""
-"To close the chat message, click the close button at the top right corner of "
-"the chat message."
-msgstr ""
-"Norėdami užverti pokalbio žinutę, paspauskite uždarymo mygtuką viršutiniame "
-"dešiniajame pokalbio žinutės lango kampe."
-
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:92
-msgid "Delayed response to a chat message using the mouse"
-msgstr "Atidėti atsakymą į pokalbio žinutę su pele"
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:95
-msgid ""
-"When a chat message appears near the top of the screen and you do not move "
-"your mouse over the message, it disappears after a while."
-msgstr ""
-"Kai pokalbio žinutė atsiranda ekrano viršuje ir jūs nenuvedate pelės "
-"žymeklio virš žinutės, ji po kurio laiko pranyksta."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:99
-msgid ""
-"From the notification list, choose the message you want to reply to, and "
-"click it."
-msgstr "Pranešimų sąraše spustelėkite ant žinutės, į kurią norite atsakyti."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:101 C/gs-respond-messages.page:115
-msgid "When the chat message is shown, start typing your reply."
-msgstr ""
-"Kai pokalbio žinutė bus atverta – rašykite atsakymą, o pabaigę paspauskite "
-"<key>Enter</key>."
-
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:107
-msgid "Delayed response to a chat message using the keyboard"
-msgstr "Atidėtas atsakymas į pokalbio žinutę naudojantis klaviatūra"
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:109
-msgid ""
-"To get back to your unanswered chat messages, press <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> to "
-"display the list of unanswered notifications."
-msgstr ""
-"Norėdami pamatyti neatsakytas pokalbių žinutes, spauskite <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> ir "
-"pamatysite neperžiūrėtų pranešimų sąrašą."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:113
-msgid ""
-"Use the arrow keys to select the notification you want to reply to, and "
-"press <key>Enter</key>."
-msgstr ""
-"Naudodami rodyklių klavišus pasirinkite žinutę, į kurią norite atsakyti ir "
-"paspauskite <key>Enter</key>."
-
 #. (itstool) path: text/tspan
-#: C/gs-search1.svg:229
+#: C/gs-search1.svg:158
 #, no-wrap
 msgid "just type"
 msgstr "tiesiog rašykite"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:182
+#: C/gs-search2.svg:170
 #, no-wrap
 msgid "con"
 msgstr "con"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:246
+#: C/gs-search2.svg:171
 #, no-wrap
 msgid "Accounts"
 msgstr "Paskyros"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:247
+#: C/gs-search2.svg:172
 #, no-wrap
-#| msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
-msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
-msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con…"
+msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:248
+#: C/gs-search2.svg:173
 #, no-wrap
 msgid "config"
 msgstr "config"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:249 C/gs-search2.svg:252
+#: C/gs-search2.svg:174 C/gs-search2.svg:177
 #, no-wrap
 msgid "fontconfig"
 msgstr "fontconfig"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:250
+#: C/gs-search2.svg:175
 #, no-wrap
 msgid "system-config-http.zip"
 msgstr "system-config-http.zip"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:251
+#: C/gs-search2.svg:176
 #, no-wrap
 msgid "Icon guidelines"
 msgstr "Piktogramų gidas"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:269
+#: C/gs-search2.svg:194
 #, no-wrap
 msgid "Secure Linux Containers"
 msgstr "Saugūs Linux konteineriai"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:270
+#: C/gs-search2.svg:195
 #, no-wrap
 msgid "Developer Conference 2012"
 msgstr "Kūrėjų konferencija 2012"
 
 #. (itstool) path: text/tspan
-#: C/gs-search2.svg:294 C/gs-web-browser2-firefox.svg:218
-#, no-wrap
-msgid "Firefox"
-msgstr "Firefox"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:125
-#, no-wrap
-msgid "Search"
-msgstr "Paieška"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:127
-#, no-wrap
-msgid "Files"
-msgstr "Failai"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:242
+#: C/gs-search2.svg:215
 #, no-wrap
 msgid "Web"
 msgstr "Žiniatinklis"
 
 #. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:243
+#: C/gs-search-settings.svg:72 C/gs-search-settings.svg:86
 #, no-wrap
-msgid "Photos"
-msgstr "Nuotraukos"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:244
-#, no-wrap
-msgid "Music"
-msgstr "Muzika"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:271
-#, no-wrap
-msgid "OFF"
-msgstr "IŠJUNGTA"
+msgid "Search"
+msgstr "Paieška"
 
 #. (itstool) path: info/title
 #: C/gs-switch-tasks.page:16
@@ -1855,9 +1515,6 @@ msgstr "Išdėstyti langus"
 
 #. (itstool) path: item/p
 #: C/gs-switch-tasks.page:121 C/gs-use-windows-workspaces.page:118
-#| msgid ""
-#| "To maximize a window along a side of the screen, grab the window's "
-#| "titlebar and drag it to the left or right side of the screen."
 msgid ""
 "To maximize a window along a side of the screen, grab the window’s titlebar "
 "and drag it to the left or right side of the screen."
@@ -1915,7 +1572,7 @@ msgid ""
 "select the next highlighted window in the <gui>window switcher</gui>."
 msgstr ""
 "Atleiskite <key href=\"help:gnome-help/keyboard-key-super\">Super</key> ir "
-"pasirinksite paryškintą langą <gui>langų sąraše</gui>"
+"pasirinksite paryškintą langą <gui>langų sąraše</gui>."
 
 #. (itstool) path: section/title
 #: C/gs-switch-tasks.page:151
@@ -1949,209 +1606,6 @@ msgstr ""
 "Kai norima programa bus rodoma kaip pirmas rezultatas, spauskite <key>Enter</"
 "key> ir persijungsite į ją."
 
-#. (itstool) path: text/tspan
-#: C/gs-thumb-responding-to-messages.svg:87
-#, no-wrap
-msgid "Thanks f"
-msgstr "Ačiū"
-
-#. (itstool) path: text/tspan
-#. Translators: S stands for Sunday here
-#: C/gs-thumb-timezone.svg:93
-#, no-wrap
-msgctxt "Sunday"
-msgid "S"
-msgstr "S"
-
-#. (itstool) path: text/tspan
-#. Translators: M stands for Monday here
-#: C/gs-thumb-timezone.svg:94
-#, no-wrap
-msgid "M"
-msgstr "P"
-
-#. (itstool) path: text/tspan
-#. Translators: T stands for Tuesday here
-#: C/gs-thumb-timezone.svg:95
-#, no-wrap
-msgctxt "Tuesday"
-msgid "T"
-msgstr "A"
-
-#. (itstool) path: text/tspan
-#. Translators: W stands for Wednesday here
-#: C/gs-thumb-timezone.svg:96
-#, no-wrap
-msgid "W"
-msgstr "T"
-
-#. (itstool) path: text/tspan
-#. Translators: T stands for Thursday here
-#: C/gs-thumb-timezone.svg:97
-#, no-wrap
-msgctxt "Thursday"
-msgid "T"
-msgstr "K"
-
-#. (itstool) path: text/tspan
-#. Translators: F stands for Friday here
-#: C/gs-thumb-timezone.svg:98
-#, no-wrap
-msgid "F"
-msgstr "P"
-
-#. (itstool) path: text/tspan
-#. Translators: S stands for Saturday here
-#: C/gs-thumb-timezone.svg:99
-#, no-wrap
-msgctxt "Saturday"
-msgid "S"
-msgstr "Š"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:108
-#, no-wrap
-msgid "8"
-msgstr "8"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:109
-#, no-wrap
-msgid "9"
-msgstr "9"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:110
-#, no-wrap
-msgid "10"
-msgstr "10"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:111
-#, no-wrap
-msgid "11"
-msgstr "11"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:112
-#, no-wrap
-msgid "12"
-msgstr "12"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:113
-#, no-wrap
-msgid "13"
-msgstr "13"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:114
-#, no-wrap
-msgid "14"
-msgstr "14"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:116
-#, no-wrap
-msgid "15"
-msgstr "15"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:117
-#, no-wrap
-msgid "16"
-msgstr "16"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:118
-#, no-wrap
-msgid "17"
-msgstr "17"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:119
-#, no-wrap
-msgid "18"
-msgstr "18"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:120
-#, no-wrap
-msgid "19"
-msgstr "19"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:121
-#, no-wrap
-msgid "20"
-msgstr "20"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:122
-#, no-wrap
-msgid "21"
-msgstr "21"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:124
-#, no-wrap
-msgid "22"
-msgstr "22"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:125
-#, no-wrap
-msgid "23"
-msgstr "23"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:126
-#, no-wrap
-msgid "24"
-msgstr "24"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:127
-#, no-wrap
-msgid "25"
-msgstr "25"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:128
-#, no-wrap
-msgid "26"
-msgstr "26"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:129
-#, no-wrap
-msgid "27"
-msgstr "27"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:130
-#, no-wrap
-msgid "28"
-msgstr "28"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:132
-#, no-wrap
-msgid "29"
-msgstr "29"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:133
-#, no-wrap
-msgid "30"
-msgstr "30"
-
-#. (itstool) path: text/tspan
-#: C/gs-thumb-timezone.svg:134
-#, no-wrap
-msgid "31"
-msgstr "31"
-
 #. (itstool) path: credit/name
 #: C/gs-use-system-search.page:14
 msgid "Hannie Dumoleyn"
@@ -2176,9 +1630,6 @@ msgstr "Naudokitės sistemos paieška"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:29
-#| msgid ""
-#| "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
-#| "gnome-help/keyboard-key-super\">Super</key> key. Start typing to search."
 msgid ""
 "Open the <gui>Activities</gui> overview by clicking <gui>Activities</gui> at "
 "the top left of the screen, or by pressing the <key href=\"help:gnome-help/"
@@ -2219,49 +1670,41 @@ msgstr "atitinkantys nustatymai,"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:46
-#| msgid "matching contacts, and"
 msgid "matching contacts,"
 msgstr "atitinkantys kontaktai,"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:47
-#| msgid "matching documents."
 msgid "matching documents,"
 msgstr "atitinkantys dokumentai,"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:48
-#| msgid "matching settings,"
 msgid "matching calendar,"
 msgstr "atitinkantys kalendoriaus įrašai,"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:49
-#| msgid "matching contacts, and"
 msgid "matching calculator,"
 msgstr "atitinkantys skaičiuotuvai,"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:50
-#| msgid "matching settings,"
 msgid "matching software,"
 msgstr "atitinkantys programinėje įrangoje,"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:51
-#| msgid "matching settings,"
 msgid "matching files,"
 msgstr "atitinkantys failai,"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:52
-#| msgid "matching settings,"
 msgid "matching terminal,"
 msgstr "atitinkantys terminale,"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:53
-#| msgid "matching contacts, and"
 msgid "matching passwords and keys."
 msgstr "atitinkantys slaptažodžiai ir raktai."
 
@@ -2309,13 +1752,13 @@ msgstr "Prisitaikyti paieškos rezultatus"
 #. (itstool) path: note/p
 #: C/gs-use-system-search.page:83
 msgid ""
-"GNOME lets you customize what you want to display in the search results in "
-"the <gui>Activities Overview</gui>. For example, you can choose whether you "
-"want to show results for websites, photos, or music."
+"Your computer lets you customize what you want to display in the search "
+"results in the <gui>Activities Overview</gui>. For example, you can choose "
+"whether you want to show results for websites, photos, or music."
 msgstr ""
-"GNOME leidžia jums pasirinkti ką norite matyti <gui>Veiklų Apžvalga</gui> "
-"rezultatuose. Pavyzdžiui, galite pasirinkti, kad rodytų interneto, "
-"fotografijų ar muzikos rezultatus."
+"Darbalaukio paieška leidžia jums pasirinkti ką norite matyti <gui>Apžvalga</"
+"gui> paieškos rezultatuose. Pavyzdžiui, galite pasirinkti, kad rodytų "
+"paieškos internete, fotografijose ar muzikos failuose rezultatus."
 
 #. (itstool) path: steps/title
 #: C/gs-use-system-search.page:91
@@ -2324,18 +1767,17 @@ msgstr "Norėdami sau prisitaikyti tai kas pateikiama paieškos rezultatuose:"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:95
-#| msgid "Click the <gui>Search</gui> panel."
 msgid "Click <gui>Search</gui> in the left panel."
-msgstr "Paspauskite <gui>Paieška</gui> kairiajame skydelyje."
+msgstr "Paspauskite <gui>Paieška</gui> kairiame šone."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:96
 msgid ""
-"In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
-"the search location you want to enable or disable."
+"In the list of search locations, click the switch next to the search "
+"location you want to enable or disable."
 msgstr ""
-"Paieškos vietų sąraše spauskite <gui>ON/OFF</gui> jungiklį šalia paieškos "
-"vietos, kurią norite įjungti ar išjungti."
+"Paieškos vietų (programų) sąraše spauskite jungiklius šalia paieškos vietos "
+"(programos), kurioje norite įjungti ar išjungti paiešką."
 
 #. (itstool) path: info/title
 #: C/gs-use-windows-workspaces.page:15
@@ -2356,9 +1798,6 @@ msgstr "Išdidinti ir sumažinti langus"
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:102
-#| msgid ""
-#| "To maximize a window so that it takes up all of the space on your "
-#| "desktop, grab the window's titlebar and drag it to the top of the screen."
 msgid ""
 "To maximize a window so that it takes up all of the space on your desktop, "
 "grab the window’s titlebar and drag it to the top of the screen."
@@ -2373,9 +1812,6 @@ msgstr "Kai ekranas bus apšviestas, atleiskite langą ir jį išdidinsite."
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:107
-#| msgid ""
-#| "To restore a window to its unmaximized size, grab the window's titlebar "
-#| "and drag it away from the edges of the screen."
 msgid ""
 "To restore a window to its unmaximized size, grab the window’s titlebar and "
 "drag it away from the edges of the screen."
@@ -2468,10 +1904,327 @@ msgid "http://gnome.org"
 msgstr "http://gnome.org"
 
 #. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:218
+#, no-wrap
+msgid "Firefox"
+msgstr "Firefox"
+
+#. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:275
 #, no-wrap
 msgid "planet.gnome.org"
 msgstr "planet.gnome.org"
+
+#~| msgid "Change the wallpaper"
+#~ msgid "Change wallpaper"
+#~ msgstr "Pakeiskite darbastalio foną"
+
+#~ msgid ""
+#~ "Click the system menu on the right side of the top bar and press the "
+#~ "settings button."
+#~ msgstr ""
+#~ "Spauskite ant sistemos meniu dešinėje viršutinės juostos pusėje ir "
+#~ "paspauskite nustatymų mygtuką."
+
+#~ msgid "Select <gui>Background</gui>."
+#~ msgstr "Pasirinkite <gui>Fonas</gui>."
+
+#~ msgid "Click the current background image."
+#~ msgstr "Spustelėkite ant dabartinio fono paveikslėlio."
+
+#~ msgid "Click the background image you want to use."
+#~ msgstr "Spustelėkite ant norimo fono paveikslėlio."
+
+#~ msgid "Click the <gui>Select</gui> button."
+#~ msgstr "Paspauskite mygtuką <gui>Pasirinkti</gui>."
+
+#~ msgid "Close the <gui>Background</gui> window."
+#~ msgstr "Uždarykite <gui>Fono</gui> langą."
+
+#~ msgid "Click the settings button at the bottom left of the menu."
+#~ msgstr "Paspauskite mygtuką „Nustatymai“ apatiniame kairiajame meniu kampe."
+
+#~ msgctxt "link:trail"
+#~ msgid "Change the wallpaper"
+#~ msgstr "Darbastalio fono keitimas"
+
+#~ msgctxt "link:seealso"
+#~ msgid "A tutorial on changing the wallpaper"
+#~ msgstr "Darbastalio fono keitimo pamoka"
+
+#~ msgid "Change the wallpaper"
+#~ msgstr "Pakeiskite darbastalio foną"
+
+#~ msgid "Click the <gui>Background</gui> panel."
+#~ msgstr "Spustelėkite ant <gui>Fonas</gui>."
+
+#~ msgid ""
+#~ "Click the current background image on the left side of the "
+#~ "<gui>Background</gui> window."
+#~ msgstr ""
+#~ "Paspauskite ant dabartinio darbastalio paveikslėlio <gui>Fono</gui> lango "
+#~ "kairėje."
+
+#~ msgid ""
+#~ "Close the <gui>Background</gui> window by clicking the cross at the top-"
+#~ "right corner of the window."
+#~ msgstr ""
+#~ "Užverkite langą <gui>Fonas</gui> spustelėdami ant kryžiuko viršutiniame "
+#~ "dešiniame lango kampe."
+
+#~ msgid "ON"
+#~ msgstr "Įjungta"
+
+#~ msgid "Add Account"
+#~ msgstr "Pridėti paskyrą"
+
+#~ msgid "Add an online account"
+#~ msgstr "Pridėti internetinę paskyrą"
+
+#~ msgid "ALLOW"
+#~ msgstr "LEISTI"
+
+#~ msgid "CANCEL"
+#~ msgstr "ATSISAKYTI"
+
+#~ msgid "7"
+#~ msgstr "7"
+
+#~ msgid "Chat"
+#~ msgstr "Pokalbiai"
+
+#~ msgid "Documents"
+#~ msgstr "Dokumentai"
+
+#~ msgid "14∶30"
+#~ msgstr "14∶30"
+
+#~ msgid "Network Settings"
+#~ msgstr "Tinklo Nustatymai"
+
+#~ msgctxt "link:trail"
+#~ msgid "Respond to messages"
+#~ msgstr "Atsakyti į žinutes"
+
+#~ msgctxt "link:seealso"
+#~ msgid "A tutorial on responding to messages"
+#~ msgstr "Atsakymo į žinutes vadovas"
+
+#~ msgid "Respond to messages"
+#~ msgstr "Atsakymas į pranešimus"
+
+#~ msgid ""
+#~ "Move your mouse over the chat message that appears near the top of the "
+#~ "screen."
+#~ msgstr ""
+#~ "Nuveskite pelės žymeklį virš pokalbio žinutės, kuri pasirodo ekrano "
+#~ "viršuje."
+
+#~ msgid ""
+#~ "Start typing your reply and when finished, press <key>Enter </key> to "
+#~ "send the reply."
+#~ msgstr ""
+#~ "Pradėkite atsakinėti ir kai pabaigsite, paspauskite <key>Enter </key> "
+#~ "norėdami išsiųsti atsakymą."
+
+#~ msgid "Close the chat message."
+#~ msgstr "Užverkite pokalbio žinutę."
+
+#~ msgid ""
+#~ "A chat message near the top of the screen disappears after a while if you "
+#~ "do not move your mouse over the message."
+#~ msgstr ""
+#~ "Pokalbio žinutė ekrano viršuje pranyksta po kurio laiko, jei neužvedate "
+#~ "pelės žymiklio virš jos."
+
+#~ msgid ""
+#~ "To get back to your unanswered message, click the clock on the top bar."
+#~ msgstr ""
+#~ "Neatsakytas žinutes pamatysite spustelėję ant ekrano viršuje esančio "
+#~ "laikrodžio."
+
+#~ msgid "From the notification list, choose your message."
+#~ msgstr "Pasirinkite reikiamą žinutę iš pranešimų sąrašo"
+
+#~ msgid "Start typing your reply."
+#~ msgstr "Pradėkite rašyti savo atsakymą."
+
+#~ msgid ""
+#~ "To show the notification list, press <keyseq> <key href=\"help:gnome-help/"
+#~ "keyboard-key-super\">Super</key> <key>V</key></keyseq>"
+#~ msgstr ""
+#~ "Pranešimų sąrašą pamatysite paspaudę klaviatūroje <keyseq> <key href="
+#~ "\"help:gnome-help/keyboard-key-super\">Super(Windows)</key> <key>V</key></"
+#~ "keyseq>"
+
+#~ msgid ""
+#~ "Use the arrow keys to select the message you want to reply to, and press "
+#~ "<key>Enter</key>."
+#~ msgstr ""
+#~ "Naudodami rodyklių klavišais pasirinkite žinutę, į kurią norite atsakyti "
+#~ "ir paspauskite <key>Enter</key>."
+
+#~ msgid "Respond to a chat message with the mouse"
+#~ msgstr "Atsakyti į pokalbio žinutę su pele"
+
+#~ msgid ""
+#~ "Start typing your reply and when finished, press <key>Enter</key> to send "
+#~ "the reply."
+#~ msgstr ""
+#~ "Rašykite savo atsakymą ir norėdami išsiųsti atsakymą paspauskite "
+#~ "<key>Enter</key>."
+
+#~ msgid ""
+#~ "To close the chat message, click the close button at the top right corner "
+#~ "of the chat message."
+#~ msgstr ""
+#~ "Norėdami užverti pokalbio žinutę, paspauskite uždarymo mygtuką "
+#~ "viršutiniame dešiniajame pokalbio žinutės lango kampe."
+
+#~ msgid "Delayed response to a chat message using the mouse"
+#~ msgstr "Atidėti atsakymą į pokalbio žinutę su pele"
+
+#~ msgid ""
+#~ "When a chat message appears near the top of the screen and you do not "
+#~ "move your mouse over the message, it disappears after a while."
+#~ msgstr ""
+#~ "Kai pokalbio žinutė atsiranda ekrano viršuje ir jūs nenuvedate pelės "
+#~ "žymeklio virš žinutės, ji po kurio laiko pranyksta."
+
+#~ msgid ""
+#~ "From the notification list, choose the message you want to reply to, and "
+#~ "click it."
+#~ msgstr "Pranešimų sąraše spustelėkite ant žinutės, į kurią norite atsakyti."
+
+#~ msgid "When the chat message is shown, start typing your reply."
+#~ msgstr ""
+#~ "Kai pokalbio žinutė bus atverta – rašykite atsakymą, o pabaigę "
+#~ "paspauskite <key>Enter</key>."
+
+#~ msgid "Delayed response to a chat message using the keyboard"
+#~ msgstr "Atidėtas atsakymas į pokalbio žinutę naudojantis klaviatūra"
+
+#~ msgid ""
+#~ "To get back to your unanswered chat messages, press <keyseq> <key href="
+#~ "\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </keyseq> "
+#~ "to display the list of unanswered notifications."
+#~ msgstr ""
+#~ "Norėdami pamatyti neatsakytas pokalbių žinutes, spauskite <keyseq> <key "
+#~ "href=\"help:gnome-help/keyboard-key-super\">Super</key><key>V</key> </"
+#~ "keyseq> ir pamatysite neperžiūrėtų pranešimų sąrašą."
+
+#~ msgid ""
+#~ "Use the arrow keys to select the notification you want to reply to, and "
+#~ "press <key>Enter</key>."
+#~ msgstr ""
+#~ "Naudodami rodyklių klavišus pasirinkite žinutę, į kurią norite atsakyti "
+#~ "ir paspauskite <key>Enter</key>."
+
+#~ msgid "Music"
+#~ msgstr "Muzika"
+
+#~ msgid "OFF"
+#~ msgstr "IŠJUNGTA"
+
+#~ msgid "Thanks f"
+#~ msgstr "Ačiū"
+
+#~ msgctxt "Sunday"
+#~ msgid "S"
+#~ msgstr "S"
+
+#~ msgid "M"
+#~ msgstr "P"
+
+#~ msgctxt "Tuesday"
+#~ msgid "T"
+#~ msgstr "A"
+
+#~ msgid "W"
+#~ msgstr "T"
+
+#~ msgctxt "Thursday"
+#~ msgid "T"
+#~ msgstr "K"
+
+#~ msgid "F"
+#~ msgstr "P"
+
+#~ msgctxt "Saturday"
+#~ msgid "S"
+#~ msgstr "Š"
+
+#~ msgid "8"
+#~ msgstr "8"
+
+#~ msgid "9"
+#~ msgstr "9"
+
+#~ msgid "10"
+#~ msgstr "10"
+
+#~ msgid "11"
+#~ msgstr "11"
+
+#~ msgid "12"
+#~ msgstr "12"
+
+#~ msgid "13"
+#~ msgstr "13"
+
+#~ msgid "14"
+#~ msgstr "14"
+
+#~ msgid "15"
+#~ msgstr "15"
+
+#~ msgid "16"
+#~ msgstr "16"
+
+#~ msgid "17"
+#~ msgstr "17"
+
+#~ msgid "18"
+#~ msgstr "18"
+
+#~ msgid "19"
+#~ msgstr "19"
+
+#~ msgid "20"
+#~ msgstr "20"
+
+#~ msgid "21"
+#~ msgstr "21"
+
+#~ msgid "22"
+#~ msgstr "22"
+
+#~ msgid "23"
+#~ msgstr "23"
+
+#~ msgid "24"
+#~ msgstr "24"
+
+#~ msgid "25"
+#~ msgstr "25"
+
+#~ msgid "26"
+#~ msgstr "26"
+
+#~ msgid "27"
+#~ msgstr "27"
+
+#~ msgid "28"
+#~ msgstr "28"
+
+#~ msgid "29"
+#~ msgstr "29"
+
+#~ msgid "30"
+#~ msgstr "30"
+
+#~ msgid "31"
+#~ msgstr "31"
 
 #~ msgid ""
 #~ "If you have set up an online account before, you can add another online "
@@ -2481,18 +2234,6 @@ msgstr "planet.gnome.org"
 #~ "Jei jūs jau anksčiau nusistatėte internetinę paskyrą, galite pridėti kitą "
 #~ "internetinę paskyrą, paspausdami <gui>+</gui> mygtuką lango kairiojo šono "
 #~ "apačioje."
-
-#~ msgid "SIGN UP"
-#~ msgstr "REGISTRACIJA"
-
-#~ msgid "Grant Access"
-#~ msgstr "Patvirtinti prieigą"
-
-#~ msgid "Deny Access"
-#~ msgstr "Atmesti prieigą"
-
-#~ msgid "14:30"
-#~ msgstr "14:30"
 
 #~ msgid "Planet Gnome"
 #~ msgstr "Gnome planeta"
