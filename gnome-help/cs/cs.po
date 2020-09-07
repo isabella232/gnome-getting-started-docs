@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the getting-started package.
 #
 # Petr Kovar <pknbe@volny.cz>, 2012, 2013.
-# Marek Černocký <marek@manet.cz>, 2015, 2016, 2017, 2018, 2019.
+# Marek Černocký <marek@manet.cz>, 2015, 2016, 2017, 2018, 2019, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: getting-started\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-04 17:47+0000\n"
-"PO-Revision-Date: 2019-09-09 11:33+0200\n"
+"POT-Creation-Date: 2020-09-04 10:58+0000\n"
+"PO-Revision-Date: 2020-09-07 18:57+0200\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>\n"
 "Language-Team: čeština <gnome-cs-list@gnome.org>\n"
 "Language: cs\n"
@@ -64,7 +64,7 @@ msgid "Launching Applications"
 msgstr "Spouštění aplikací"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:32 C/getting-started.page:153
+#: C/getting-started.page:32 C/getting-started.page:74
 #: C/gs-launch-applications.page:33 C/gs-switch-tasks.page:33
 msgid ""
 "Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
@@ -106,57 +106,28 @@ msgstr "Zmáčknutím <key>Enter</key> aplikaci spustíte."
 
 #. (itstool) path: caption/desc
 #. (itstool) path: page/title
-#: C/getting-started.page:65 C/getting-started.page:214
-#: C/gs-use-windows-workspaces.page:21
-msgid "Use windows and workspaces"
-msgstr "Používání oken a pracovních ploch"
+#. (itstool) path: section/title
+#: C/getting-started.page:66 C/gs-switch-tasks.page:22
+#: C/gs-switch-tasks.page:89
+msgid "Switch tasks"
+msgstr "Přepínání úloh"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:70 C/getting-started.page:219 C/gs-animation.xml:10
-#: C/gs-use-windows-workspaces.page:29
-msgid "Windows and Workspaces"
-msgstr "Okna a pracovní plochy"
+#: C/getting-started.page:71 C/gs-animation.xml:8 C/gs-switch-tasks.page:30
+msgid "Switching Tasks"
+msgstr "Přepínání úloh"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:73 C/getting-started.page:222
-#: C/gs-use-windows-workspaces.page:32
-msgid ""
-"To maximize a window, grab the window’s titlebar and drag it to the top of "
-"the screen."
-msgstr ""
-"Když chcete okno maximalizovat, chytněte jej za záhlaví a táhněte jej k "
-"horní části obrazovky."
+#. (itstool) path: item/p
+#: C/getting-started.page:79 C/gs-switch-tasks.page:38
+#: C/gs-switch-tasks.page:98
+msgid "Click a window to switch to that task."
+msgstr "Kliknutím na okno se přepnete na příslušnou úlohu."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:77 C/getting-started.page:226
-#: C/gs-use-windows-workspaces.page:36
-msgid "When the screen is highlighted, release the window."
-msgstr "Až se obrazovka zvýrazní, okno upusťte."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:80 C/getting-started.page:229
-#: C/gs-use-windows-workspaces.page:39
-msgid ""
-"To unmaximize a window, grab the window’s titlebar and drag it away from the "
-"edges of the screen."
-msgstr ""
-"Když chcete maximalizaci okna zrušit, chyťte jej za záhlaví a přetáhněte jej "
-"pryč od okrajů obrazovky."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:84 C/getting-started.page:233
-#: C/gs-use-windows-workspaces.page:43
-msgid ""
-"You can also click the top bar to drag the window away and unmaximize it."
-msgstr ""
-"Pro přetažení okna pryč a zrušení jeho maximalizace můžete kliknou i na "
-"horní lištu, místo na záhlaví."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:88 C/getting-started.page:161
-#: C/getting-started.page:237 C/gs-switch-tasks.page:41
-#: C/gs-use-windows-workspaces.page:47
+#: C/getting-started.page:82 C/getting-started.page:155
+#: C/gs-switch-tasks.page:41 C/gs-use-windows-workspaces.page:47
 msgid ""
 "To maximize a window along the left side of the screen, grab the window’s "
 "titlebar and drag it to the left."
@@ -165,120 +136,15 @@ msgstr ""
 "záhlaví a přetáhněte doleva."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:92 C/getting-started.page:100
-#: C/getting-started.page:165 C/getting-started.page:173
-#: C/getting-started.page:241 C/getting-started.page:249
+#: C/getting-started.page:86 C/getting-started.page:94
+#: C/getting-started.page:159 C/getting-started.page:167
 #: C/gs-switch-tasks.page:45 C/gs-switch-tasks.page:53
 #: C/gs-use-windows-workspaces.page:51 C/gs-use-windows-workspaces.page:59
 msgid "When half of the screen is highlighted, release the window."
 msgstr "Až se zvýrazní polovina obrazovky, okno upusťte."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:96 C/getting-started.page:245
-#: C/gs-use-windows-workspaces.page:55
-msgid ""
-"To maximize a window along the right side of the screen, grab the window’s "
-"titlebar and drag it to the right."
-msgstr ""
-"Obdobně pro maximalizaci okna podél pravé strany obrazovky jej uchopte za "
-"záhlaví a přetáhněte doprava."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:104 C/getting-started.page:253
-#: C/gs-use-windows-workspaces.page:63 C/gs-use-windows-workspaces.page:134
-msgid ""
-"To maximize a window using the keyboard, hold down the <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
-msgstr ""
-"Pomocí klávesnice se okno maximalizuje podržením <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> a zmáčknutím <key>↑</key>."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:109 C/getting-started.page:258
-#: C/gs-use-windows-workspaces.page:68
-msgid ""
-"To restore the window to its unmaximized size, hold down the <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
-"key>."
-msgstr ""
-"Pro obnovení původní velikosti okna z maximalizace podržte zmáčknutou "
-"klávesu <key href=\"help:gnome-help/keyboard-key-super\">Super</key> a "
-"zmáčkněte <key>↓</key>."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:114 C/getting-started.page:263
-#: C/gs-use-windows-workspaces.page:73 C/gs-use-windows-workspaces.page:148
-msgid ""
-"To maximize a window along the right side of the screen, hold down the <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
-"<key>→</key>."
-msgstr ""
-"Pro maximalizaci okna podél pravé strany obrazovky podržte zmáčknutou "
-"klávesu <key href=\"help:gnome-help/keyboard-key-super\">Super</key> a "
-"zmáčkněte <key>→</key>."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:119 C/getting-started.page:268
-#: C/gs-use-windows-workspaces.page:78 C/gs-use-windows-workspaces.page:151
-msgid ""
-"To maximize a window along the left side of the screen, hold down the <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
-"<key>←</key>."
-msgstr ""
-"Pro maximalizaci okna podél levé strany obrazovky podržte zmáčknutou klávesu "
-"<key href=\"help:gnome-help/keyboard-key-super\">Super</key> a zmáčkněte "
-"<key>←</key>."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:124 C/getting-started.page:273
-#: C/gs-use-windows-workspaces.page:83
-msgid ""
-"To move to a workspace which is below the current workspace, press "
-"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
-"key><key>Page Down</key></keyseq>."
-msgstr ""
-"K přesunu na pracovní plochu pod aktuální pracovní plochou použijte "
-"kombinaci <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key><key>Page Down</key></keyseq>."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:129 C/getting-started.page:278
-#: C/gs-use-windows-workspaces.page:88
-msgid ""
-"To move to a workspace which is above the current workspace, press "
-"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
-"key><key>Page Up</key></keyseq>."
-msgstr ""
-"K přesunu na pracovní plochu nad aktuální pracovní plochou použijte "
-"kombinaci <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key><key>Page Up</key></keyseq>."
-
-#. (itstool) path: caption/desc
-#. (itstool) path: page/title
-#. (itstool) path: section/title
-#: C/getting-started.page:145 C/gs-switch-tasks.page:22
-#: C/gs-switch-tasks.page:89
-msgid "Switch tasks"
-msgstr "Přepínání úloh"
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:150 C/gs-animation.xml:8 C/gs-switch-tasks.page:30
-msgid "Switching Tasks"
-msgstr "Přepínání úloh"
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:158 C/gs-switch-tasks.page:38
-#: C/gs-switch-tasks.page:98
-msgid "Click a window to switch to that task."
-msgstr "Kliknutím na okno se přepnete na příslušnou úlohu."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:169 C/gs-switch-tasks.page:49
+#: C/getting-started.page:90 C/gs-switch-tasks.page:49
 msgid ""
 "To maximize a window along the right side, grab the window’s titlebar and "
 "drag it to the right."
@@ -287,7 +153,7 @@ msgstr ""
 "záhlaví a přetáhněte doprava."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:177 C/gs-switch-tasks.page:57
+#: C/getting-started.page:98 C/gs-switch-tasks.page:57
 msgid ""
 "Press <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
 "key><key> Tab</key></keyseq> to show the <gui>window switcher</gui>."
@@ -296,7 +162,7 @@ msgstr ""
 "key> <key>Tab</key></keyseq> zobrazte <gui>přepínač oken</gui>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:182 C/gs-switch-tasks.page:62
+#: C/getting-started.page:103 C/gs-switch-tasks.page:62
 msgid ""
 "Release <key href=\"help:gnome-help/keyboard-key-super\">Super </key> to "
 "select the next highlighted window."
@@ -306,7 +172,7 @@ msgstr ""
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:187 C/gs-switch-tasks.page:67
+#: C/getting-started.page:108 C/gs-switch-tasks.page:67
 #: C/gs-switch-tasks.page:143
 msgid ""
 "To cycle through the list of open windows, do not release <key href=\"help:"
@@ -318,7 +184,7 @@ msgstr ""
 "stále ji držte a mačkejte <key>Tab</key>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:192 C/gs-switch-tasks.page:72
+#: C/getting-started.page:113 C/gs-switch-tasks.page:72
 msgid ""
 "Press the <key href=\"help:gnome-help/keyboard-key-super\">Super </key> key "
 "to show the <gui>Activities Overview</gui>."
@@ -327,12 +193,12 @@ msgstr ""
 "key> zobrazte <gui>Přehled činností</gui>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:196 C/gs-switch-tasks.page:76
+#: C/getting-started.page:117 C/gs-switch-tasks.page:76
 msgid "Start typing the name of the application you want to switch to."
 msgstr "Začněte psát název aplikace, na kterou se chcete přepnout."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:200 C/gs-switch-tasks.page:80
+#: C/getting-started.page:121 C/gs-switch-tasks.page:80
 msgid ""
 "When the application appears as the first result, press <key> Enter</key> to "
 "switch to it."
@@ -341,57 +207,130 @@ msgstr ""
 "<key>Enter</key> a tím se na ni přepnete."
 
 #. (itstool) path: caption/desc
-#: C/getting-started.page:293
-msgid "Change wallpaper"
-msgstr "Změna tapety"
+#. (itstool) path: page/title
+#: C/getting-started.page:132 C/gs-use-windows-workspaces.page:21
+msgid "Use windows and workspaces"
+msgstr "Používání oken a pracovních ploch"
 
 #. (itstool) path: div/p
 #. (itstool) path: titles/t
-#: C/getting-started.page:298 C/gs-animation.xml:6
-#: C/gs-change-wallpaper.page:28
-msgid "Changing Wallpaper"
-msgstr "Změna tapety na pozadí"
+#: C/getting-started.page:137 C/gs-animation.xml:10
+#: C/gs-use-windows-workspaces.page:29
+msgid "Windows and Workspaces"
+msgstr "Okna a pracovní plochy"
 
 #. (itstool) path: div/p
-#: C/getting-started.page:301 C/gs-change-wallpaper.page:31
+#: C/getting-started.page:140 C/gs-use-windows-workspaces.page:32
 msgid ""
-"Click the system menu on the right side of the top bar and press the "
-"settings button."
+"To maximize a window, grab the window’s titlebar and drag it to the top of "
+"the screen."
 msgstr ""
-"Klikněte na systémovou nabídku na pravé straně horní lišty a zmáčkněte "
-"tlačítko nastavení."
+"Když chcete okno maximalizovat, chytněte jej za záhlaví a táhněte jej k "
+"horní části obrazovky."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:305 C/gs-change-wallpaper.page:35
-msgid "Select <gui>Background</gui>."
-msgstr "Vyberte <gui>Pozadí</gui>."
+#: C/getting-started.page:144 C/gs-use-windows-workspaces.page:36
+msgid "When the screen is highlighted, release the window."
+msgstr "Až se obrazovka zvýrazní, okno upusťte."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:308 C/gs-change-wallpaper.page:38
-msgid "Click the current background image."
-msgstr "Klikněte na aktuální obrázek pozadí."
+#: C/getting-started.page:147 C/gs-use-windows-workspaces.page:39
+msgid ""
+"To unmaximize a window, grab the window’s titlebar and drag it away from the "
+"edges of the screen."
+msgstr ""
+"Když chcete maximalizaci okna zrušit, chyťte jej za záhlaví a přetáhněte jej "
+"pryč od okrajů obrazovky."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:151 C/gs-use-windows-workspaces.page:43
+msgid ""
+"You can also click the top bar to drag the window away and unmaximize it."
+msgstr ""
+"Pro přetažení okna pryč a zrušení jeho maximalizace můžete kliknou i na "
+"horní lištu, místo na záhlaví."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:163 C/gs-use-windows-workspaces.page:55
+msgid ""
+"To maximize a window along the right side of the screen, grab the window’s "
+"titlebar and drag it to the right."
+msgstr ""
+"Obdobně pro maximalizaci okna podél pravé strany obrazovky jej uchopte za "
+"záhlaví a přetáhněte doprava."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:311 C/gs-change-wallpaper.page:41
-#: C/gs-change-wallpaper.page:64
-msgid "Click the background image you want to use."
-msgstr "Klikněte na obrázek, který chcete pro pozadí použít."
+#: C/getting-started.page:171 C/gs-use-windows-workspaces.page:63
+#: C/gs-use-windows-workspaces.page:134
+msgid ""
+"To maximize a window using the keyboard, hold down the <key href=\"help:"
+"gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
+msgstr ""
+"Pomocí klávesnice se okno maximalizuje podržením <key href=\"help:gnome-help/"
+"keyboard-key-super\">Super</key> a zmáčknutím <key>↑</key>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:176 C/gs-use-windows-workspaces.page:68
+msgid ""
+"To restore the window to its unmaximized size, hold down the <key href="
+"\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
+"key>."
+msgstr ""
+"Pro obnovení původní velikosti okna z maximalizace podržte zmáčknutou "
+"klávesu <key href=\"help:gnome-help/keyboard-key-super\">Super</key> a "
+"zmáčkněte <key>↓</key>."
 
 #. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/getting-started.page:314 C/gs-change-wallpaper.page:44
-#: C/gs-change-wallpaper.page:65
-msgid "Click the <gui>Select</gui> button."
-msgstr "Klikněte na tlačítko <gui>Vybrat</gui>."
+#: C/getting-started.page:181 C/gs-use-windows-workspaces.page:73
+#: C/gs-use-windows-workspaces.page:148
+msgid ""
+"To maximize a window along the right side of the screen, hold down the <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
+"<key>→</key>."
+msgstr ""
+"Pro maximalizaci okna podél pravé strany obrazovky podržte zmáčknutou "
+"klávesu <key href=\"help:gnome-help/keyboard-key-super\">Super</key> a "
+"zmáčkněte <key>→</key>."
 
 #. (itstool) path: div/p
-#: C/getting-started.page:317 C/gs-change-wallpaper.page:47
-msgid "Close the <gui>Background</gui> window."
-msgstr "Zavřete okno <gui>Pozadí</gui>."
+#. (itstool) path: item/p
+#: C/getting-started.page:186 C/gs-use-windows-workspaces.page:78
+#: C/gs-use-windows-workspaces.page:151
+msgid ""
+"To maximize a window along the left side of the screen, hold down the <key "
+"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
+"<key>←</key>."
+msgstr ""
+"Pro maximalizaci okna podél levé strany obrazovky podržte zmáčknutou klávesu "
+"<key href=\"help:gnome-help/keyboard-key-super\">Super</key> a zmáčkněte "
+"<key>←</key>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:191 C/gs-use-windows-workspaces.page:83
+msgid ""
+"To move to a workspace which is below the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Page Down</key></keyseq>."
+msgstr ""
+"K přesunu na pracovní plochu pod aktuální pracovní plochou použijte "
+"kombinaci <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
+"key><key>Page Down</key></keyseq>."
+
+#. (itstool) path: div/p
+#: C/getting-started.page:196 C/gs-use-windows-workspaces.page:88
+msgid ""
+"To move to a workspace which is above the current workspace, press "
+"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
+"key><key>Page Up</key></keyseq>."
+msgstr ""
+"K přesunu na pracovní plochu nad aktuální pracovní plochou použijte "
+"kombinaci <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
+"key><key>Page Up</key></keyseq>."
 
 #. (itstool) path: links/title
-#: C/getting-started.page:328
+#: C/getting-started.page:206
 msgid "Common tasks"
 msgstr "Obvyklé činnosti"
 
@@ -399,6 +338,11 @@ msgstr "Obvyklé činnosti"
 #: C/gs-animation.xml:3
 msgid "Welcome"
 msgstr "Vítejte"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:6
+msgid "Changing Wallpaper"
+msgstr "Změna tapety na pozadí"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:7
@@ -448,10 +392,9 @@ msgstr "Pravá polovina obrazovky"
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
 #: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:94
-#: C/gs-search2.svg:110 C/gs-thumb-changing-wallpaper.svg:54
-#: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-task-switching.svg:167
-#: C/gs-thumb-windows-and-workspaces.svg:104 C/gs-web-browser1-firefox.svg:122
-#: C/gs-web-browser1.svg:122
+#: C/gs-search2.svg:110 C/gs-thumb-launching-apps.svg:204
+#: C/gs-thumb-task-switching.svg:167 C/gs-thumb-windows-and-workspaces.svg:104
+#: C/gs-web-browser1-firefox.svg:122 C/gs-web-browser1.svg:122
 #, no-wrap
 msgid "Activities"
 msgstr "Činnosti"
@@ -601,19 +544,17 @@ msgstr "14. říjen 2013, 14∶00"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:9 C/gs-change-date-time-timezone.page:8
-#: C/gs-change-wallpaper.page:9 C/gs-connect-online-accounts.page:8
-#: C/gs-get-online.page:8 C/gs-launch-applications.page:9
-#: C/gs-switch-tasks.page:10 C/gs-use-system-search.page:8
-#: C/gs-use-windows-workspaces.page:9
+#: C/gs-connect-online-accounts.page:8 C/gs-get-online.page:8
+#: C/gs-launch-applications.page:9 C/gs-switch-tasks.page:10
+#: C/gs-use-system-search.page:8 C/gs-use-windows-workspaces.page:9
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:12 C/gs-change-date-time-timezone.page:11
-#: C/gs-change-wallpaper.page:12 C/gs-connect-online-accounts.page:11
-#: C/gs-get-online.page:11 C/gs-launch-applications.page:12
-#: C/gs-switch-tasks.page:13 C/gs-use-system-search.page:11
-#: C/gs-use-windows-workspaces.page:12
+#: C/gs-connect-online-accounts.page:11 C/gs-get-online.page:11
+#: C/gs-launch-applications.page:12 C/gs-switch-tasks.page:13
+#: C/gs-use-system-search.page:11 C/gs-use-windows-workspaces.page:12
 msgid "Petr Kovar"
 msgstr "Petr Kovář"
 
@@ -750,14 +691,13 @@ msgid "A tutorial on changing the date, time and timezone"
 msgstr "Vysvětlení, jak změnit datum, čas a časové pásmo"
 
 #. (itstool) path: page/title
-#: C/gs-change-date-time-timezone.page:21
+#: C/gs-change-date-time-timezone.page:20
 msgid "Change the date, time and timezone"
 msgstr "Změna data, času a časového pásma"
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:27 C/gs-change-wallpaper.page:58
-#: C/gs-connect-online-accounts.page:27 C/gs-get-online.page:62
-#: C/gs-use-system-search.page:92
+#: C/gs-change-date-time-timezone.page:26 C/gs-connect-online-accounts.page:27
+#: C/gs-get-online.page:62 C/gs-use-system-search.page:92
 msgid ""
 "Click the <gui xref=\"shell-introduction#yourname\">system menu</gui> on the "
 "right side of the top bar."
@@ -766,22 +706,18 @@ msgstr ""
 "gui> v pravé části horní lišty."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:29 C/gs-change-wallpaper.page:60
-#: C/gs-connect-online-accounts.page:29 C/gs-use-system-search.page:94
-msgid "Click the settings button at the bottom left of the menu."
-msgstr "Klikněte na tlačítko nastavení v levé dolní části nabídky."
+#: C/gs-change-date-time-timezone.page:28 C/gs-connect-online-accounts.page:29
+#: C/gs-use-system-search.page:94
+msgid "Click <gui>Settings</gui>."
+msgstr "Klikněte na <gui>Nastavení</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:35
+msgid "Select <gui>Date &amp; Time</gui> from the sidebar."
+msgstr "V postranním panelu vyberte <gui>Datum a čas</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-change-date-time-timezone.page:36
-msgid ""
-"Select <guiseq><gui>Details</gui><gui>Date &amp; Time</gui></guiseq> from "
-"the sidebar."
-msgstr ""
-"V postranním panelu vyberte <guiseq><gui>Podrobnosti</gui> <gui>Datum a čas</"
-"gui></guiseq>."
-
-#. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:38
 msgid ""
 "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
 "then click the <gui>Time Zone</gui> item below."
@@ -790,7 +726,7 @@ msgstr ""
 "té klikněte dole na položku <gui>Časové pásmo</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:40
+#: C/gs-change-date-time-timezone.page:38
 msgid ""
 "Click on your location on the world map. This selects your current city, "
 "which you can also search for in the search box above the map."
@@ -799,7 +735,7 @@ msgstr ""
 "město. Nebo jej můžete vyhledat ve vyhledávacím poli nad mapou."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:42
+#: C/gs-change-date-time-timezone.page:40
 msgid ""
 "Close the world map window to go back to the <gui>Date &amp; Time</gui> "
 "panel."
@@ -807,7 +743,7 @@ msgstr ""
 "Zavřením okna s mapou světa se vraťte zpět do panelu <gui>Datum a čas</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:44
+#: C/gs-change-date-time-timezone.page:42
 msgid ""
 "Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
 "off, and then click the <gui>Date &amp; Time</gui> item below to open the "
@@ -820,53 +756,13 @@ msgstr ""
 "klikáním na tlačítka <gui>+</gui> nebo <gui>-</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:49
+#: C/gs-change-date-time-timezone.page:47
 msgid ""
 "Close the window to go back to the <gui>Date &amp; Time</gui> panel, and "
 "then close the panel."
 msgstr ""
 "Zavřením okna se vraťte zpět do panelu <gui>Datum a čas</gui> a následně "
 "panel zavřete."
-
-#. (itstool) path: info/title
-#: C/gs-change-wallpaper.page:15
-msgctxt "link:trail"
-msgid "Change the wallpaper"
-msgstr "Změna tapety"
-
-#. (itstool) path: info/title
-#: C/gs-change-wallpaper.page:17
-msgctxt "link:seealso"
-msgid "A tutorial on changing the wallpaper"
-msgstr "Vysvětlení, jak změnit tapetu"
-
-#. (itstool) path: page/title
-#. (itstool) path: section/title
-#: C/gs-change-wallpaper.page:20 C/gs-change-wallpaper.page:55
-msgid "Change the wallpaper"
-msgstr "Změna tapety"
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:61
-msgid "Click the <gui>Background</gui> panel."
-msgstr "Klikněte na panle <gui>Pozadí</gui>."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:62
-msgid ""
-"Click the current background image on the left side of the <gui>Background</"
-"gui> window."
-msgstr ""
-"Klikněte na aktuální obrázek pozadí, který je zobrazen v levé části okna "
-"<gui>Pozadí</gui>."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:66
-msgid ""
-"Close the <gui>Background</gui> window by clicking the cross at the top-"
-"right corner of the window."
-msgstr ""
-"Zavřete okno <gui>Pozadí</gui> kliknutím na křížek v pravém horním rohu okna."
 
 #. (itstool) path: info/title
 #: C/gs-connect-online-accounts.page:14
@@ -933,9 +829,8 @@ msgstr ""
 #: C/gs-datetime.svg:48 C/gs-goa1.svg:41 C/gs-goa2.svg:40 C/gs-goa4.svg:36
 #: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
 #: C/gs-go-online3.svg:290 C/gs-search1.svg:61 C/gs-search2.svg:91
-#: C/gs-search-settings.svg:58 C/gs-thumb-changing-wallpaper.svg:39
-#: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-task-switching.svg:89
-#: C/gs-thumb-windows-and-workspaces.svg:89
+#: C/gs-search-settings.svg:58 C/gs-thumb-launching-apps.svg:189
+#: C/gs-thumb-task-switching.svg:89 C/gs-thumb-windows-and-workspaces.svg:89
 #: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
 #: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
 #: C/gs-web-browser2.svg:102
@@ -1153,7 +1048,7 @@ msgid "2"
 msgstr "2"
 
 #. (itstool) path: g/title
-#: C/gs-goa1.svg:93
+#: C/gs-goa1.svg:94
 msgid "settings"
 msgstr "nastavení"
 
@@ -1335,8 +1230,8 @@ msgstr "Odebrat účet"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:250 C/gs-search1.svg:92 C/gs-search2.svg:108
-#: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
-#: C/gs-thumb-task-switching.svg:168 C/gs-thumb-windows-and-workspaces.svg:105
+#: C/gs-thumb-launching-apps.svg:205 C/gs-thumb-task-switching.svg:168
+#: C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
 msgid "14:30"
 msgstr "14∶30"
@@ -1852,9 +1747,9 @@ msgid ""
 "results in the <gui>Activities Overview</gui>. For example, you can choose "
 "whether you want to show results for websites, photos, or music."
 msgstr ""
-"Počítač vám umožňuje si přizpůsobit, co chcete zobrazit ve výsledcích hledání "
-"v přehledu <gui>Činností</gui>. Například si můžete zvolit, jestli chcete "
-"zobrazovat výsledky pro webové stránky, fotografie nebo hudbu."
+"Počítač vám umožňuje si přizpůsobit, co chcete zobrazit ve výsledcích "
+"hledání v přehledu <gui>Činností</gui>. Například si můžete zvolit, jestli "
+"chcete zobrazovat výsledky pro webové stránky, fotografie nebo hudbu."
 
 #. (itstool) path: steps/title
 #: C/gs-use-system-search.page:91
